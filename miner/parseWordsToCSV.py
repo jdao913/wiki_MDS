@@ -1,3 +1,13 @@
+"""
+Produce a CSV file from the text file in a particular directory,
+in a format (Article_Name, word, word, ... , word),
+with each row representing an article and the word count.
+
+If a word exists in any file in the directory it would be listed as a column.
+If a word not exists in a particular file it would have a 0 for that column.
+
+"""
+
 import csv
 import string
 import os
