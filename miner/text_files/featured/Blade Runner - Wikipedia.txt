@@ -1,0 +1,1441 @@
+Blade Runner - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the 1982 film. For other uses, see Blade Runner (disambiguation).
+
+
+Blade Runner
+
+
+
+Theatrical release poster by John Alvin
+
+
+
+Directed by
+Ridley Scott
+
+
+Produced by
+Michael Deeley
+
+
+Screenplay by
+
+
+
+Hampton Fancher
+David Peoples
+
+
+
+
+
+Based on
+Do Androids Dream of Electric Sheep?
+by Philip K. Dick
+
+
+Starring
+
+
+
+Harrison Ford
+Rutger Hauer
+Sean Young
+Edward James Olmos
+
+
+
+
+
+Music by
+Vangelis
+
+
+Cinematography
+Jordan Cronenweth
+
+
+Edited by
+
+
+
+Terry Rawlings
+Marsha Nakashima
+
+
+
+
+
+
+Production
+companies
+
+
+
+
+
+The Ladd Company
+Shaw Brothers
+Blade Runner Partnership
+
+
+
+
+
+
+Distributed by
+Warner Bros.
+
+
+
+Release date
+
+
+
+
+June 25, 1982 (1982-06-25)
+
+
+
+
+
+
+
+
+
+
+Running time
+
+117 minutes[1]
+
+
+Country
+United States[2][3]
+
+
+Language
+English
+
+
+Budget
+$28 million[4]
+
+
+Box office
+$33.8 million[5]
+
+
+Blade Runner is a 1982 American neo-noir science fiction film directed by Ridley Scott, written by Hampton Fancher and David Peoples, and starring Harrison Ford, Rutger Hauer, Sean Young, and Edward James Olmos. It is a loose adaptation of the 1968 novel Do Androids Dream of Electric Sheep? by Philip K. Dick. Set in a dystopian Los Angeles in 2019, the film depicts a future in which synthetic humans known as replicants are bioengineered by the powerful Tyrell Corporation to work on off-world colonies. When a fugitive group of replicants led by Roy Batty (Hauer) escape back to Earth, burnt-out cop Rick Deckard (Ford) reluctantly agrees to hunt them down. During his investigations, Deckard meets Rachael (Young), an advanced replicant who causes him to question his work.
+Blade Runner underperformed in North American theaters and polarized critics; some praised its thematic complexity and visuals, while others were displeased with its unconventional pacing and plot. However, it subsequently became an acclaimed cult film, and is now regarded as one of the all-time best science fiction movies. Hailed for its production design depicting a "retrofitted" future, Blade Runner remains a leading example of neo-noir cinema. The soundtrack, composed by Vangelis, was critically acclaimed, and was nominated in 1983 for a BAFTA and Golden Globe as best original score.
+The film has been highly influential on many science fiction films, video games, anime, and television series. The film brought the work of Philip K. Dick to the attention of Hollywood, and several later films were based on his work. Scott regards Blade Runner as "probably" his most complete and personal film. In the year after its release, the film won the Hugo Award for Best Dramatic Presentation, and in 1993 it was selected for preservation in the United States National Film Registry by the Library of Congress as "culturally, historically, or aesthetically significant". A sequel, Blade Runner 2049, was released in October 2017.
+Seven versions of Blade Runner exist as a result of controversial changes made at the request of studio executives. A director's cut was released in 1992 after a strong response to test screenings of a workprint. This, in conjunction with the film's popularity as a video rental, made it one of the first movies to be released on DVD. In 2007, Warner Bros. released The Final Cut, a 25th-anniversary digitally remastered version, and the only version over which Scott retained artistic control. The Final Cut was shown in selected theaters and released on DVD, HD DVD, and Blu-ray.
+
+
+
+Contents
+
+
+1 Plot
+2 Cast
+3 Themes
+4 Production
+
+4.1 Casting
+4.2 Development
+4.3 Design
+
+4.3.1 Voigt-Kampff machine
+
+
+4.4 Music
+4.5 Special effects
+
+
+5 Release
+
+5.1 Critical reception
+5.2 Accolades
+5.3 Versions
+
+
+6 Legacy
+
+6.1 Cultural impact
+
+6.1.1 American Film Institute recognition
+
+
+6.2 In other media
+6.3 Documentaries
+
+
+7 Sequels
+
+7.1 Books
+7.2 Film
+
+
+8 See also
+9 References
+10 External links
+
+
+
+Plot
+Note: Since there are several versions of Blade Runner, this summary excludes version-specific events.
+In 2019 Los Angeles, former police officer Rick Deckard is detained by officer Gaff and brought to his former supervisor, Bryant. Deckard, whose job as a "blade runner" was to track down bioengineered beings known as replicants and "retire" (kill) them, is informed that four are on Earth illegally. Deckard starts to leave, but Bryant ambiguously threatens him and he stays. The two watch a video of a blade runner named Holden administering the "Voigt-Kampff" test, which is designed to distinguish replicants from humans based on their emotional response to questions. The test subject, Leon, shoots Holden on the second question. Bryant wants Deckard to retire Leon and the other three Tyrell Corporation Nexus-6 replicants: Roy Batty, Zhora, and Pris.
+Bryant has Deckard meet with Eldon Tyrell so he can administer the test on a Nexus-6 to see if it works. Tyrell expresses his interest in seeing the test fail first, and asks him to administer it on his assistant Rachael. After a much longer than normal test, Deckard concludes Rachael is a replicant who believes she is human. Tyrell explains she is an experiment who has been given false memories to provide an emotional "cushion".
+Searching Leon's hotel room, Deckard finds photos and a synthetic snake scale. Roy and Leon investigate a replicant eye-manufacturing laboratory and learn of J. F. Sebastian, a gifted genetic designer who works closely with Tyrell. Deckard returns to his apartment where Rachael is waiting. She tries to prove her humanity by showing him a family photo, but after Deckard reveals that her memories are implants from Tyrell's niece, she leaves his apartment in tears. Meanwhile, Pris locates Sebastian and manipulates him to gain his trust.
+A photograph from Leon's apartment and the snake scale lead Deckard to a strip club where Zhora works. After a confrontation and chase, Deckard kills Zhora. Bryant orders him to also retire Rachael, who has disappeared from the Tyrell Corporation. After Deckard spots Rachael in a crowd, he is attacked by Leon, who knocks Deckard's pistol from his hand and then begins to kill Deckard, but Rachael uses Deckard's pistol to kill Leon. They return to Deckard's apartment, and, during an intimate discussion, he promises not to track her down; as she abruptly tries to leave, Deckard restrains her, forcing her to kiss him.
+Arriving at Sebastian's apartment, Roy tells Pris the others are dead. Sympathetic to their plight, Sebastian reveals that because of "Methuselah Syndrome", a genetic premature aging disorder, his life will also be cut short. Sebastian and Roy gain entrance into Tyrell's secure penthouse, where Roy demands more life from his maker. Tyrell tells him that it is impossible. Roy confesses that he has done "questionable things", but Tyrell dismisses this, praising Roy's advanced design and accomplishments in his short life. Roy kisses Tyrell, then kills him. Sebastian runs for the elevator, followed by Roy, who rides the elevator down alone.[nb 1] Deckard is later told by Bryant that Sebastian was found dead.
+At Sebastian's apartment, Deckard is ambushed by Pris, but he kills her as Roy returns. Roy's body begins to fail as the end of his lifespan approaches. He chases Deckard through the building, ending on the roof. Deckard tries to jump to an adjacent roof, but is left hanging between buildings. Roy makes the jump with ease, and as Deckard's grip loosens, Roy hoists him onto the roof, saving him. Before Roy dies, he delivers a monologue about how his memories "will be lost in time, like tears in rain". Gaff arrives and shouts to Deckard about Rachael: "It's too bad she won't live, but then again, who does?" Deckard returns to his apartment and finds Rachael asleep in his bed. As they leave, Deckard notices an origami unicorn on the floor, a calling card that recalls for him Gaff's earlier statement. Deckard and Rachael leave the apartment block.
+Cast
+
+
+Harrison Ford as Rick Deckard
+Rutger Hauer as Roy Batty
+Sean Young as Rachael
+Edward James Olmos as Gaff
+M. Emmet Walsh as Harry Bryant
+Daryl Hannah as Pris Stratton
+William Sanderson as J. F. Sebastian
+Brion James as Leon Kowalski
+Joe Turkel as Dr. Eldon Tyrell
+Joanna Cassidy as Zhora Salome
+James Hong as Hannibal Chew
+Morgan Paull as Dave Holden
+Kevin Thompson as Bear
+John Edward Allen as Kaiser
+Hy Pyke as Taffey Lewis
+Kimiko Hiroshige as Cambodian lady
+Robert Okazaki as Howie Lee
+Carolyn DeMirjian as saleslady
+Ben Astar as Abdul Ben Hassan
+
+
+Source: Blade Runner: The Final Cut[7]
+Themes
+Main article: Themes in Blade Runner
+The film operates on multiple dramatic and narrative levels. It employs some of the conventions of film noir, among them the character of a femme fatale; narration by the protagonist (in the original release); chiaroscuro cinematography; and giving the hero a questionable moral outlook—extended to include reflections upon the nature of his own humanity.[8][9] It is a literate science fiction film, thematically enfolding the philosophy of religion and moral implications of human mastery of genetic engineering in the context of classical Greek drama and hubris.[10] It also draws on Biblical images, such as Noah's flood,[11] and literary sources, such as Frankenstein.[12] Linguistically, the theme of mortality is subtly reiterated in the chess game between Sebastian and Tyrell, supposedly based on the famous Immortal Game of 1851[13] (though Scott has said this was merely coincidental).[14]
+Blade Runner delves into the effects of technology on the environment and society by reaching to the past, using literature, religious symbolism, classical dramatic themes, and film noir techniques. This tension between past, present, and future is mirrored in the "retrofitted" future depicted in the film, one which is high-tech and gleaming in places but decayed and outdated elsewhere. In an interview with The Observer in 2002, director Ridley Scott described the film as "extremely dark, both literally and metaphorically, with an oddly masochistic feel". He also said that he "liked the idea of exploring pain" in the wake of his brother's death from skin cancer: "When he was ill, I used to go and visit him in London, and that was really traumatic for me."[15]
+A sense of foreboding and paranoia pervades the world of the film: corporate power looms large; the police seem omnipresent; vehicle and warning lights probe into buildings; and the consequences of huge biomedical power over the individual are explored—especially regarding replicants' implanted memories. Control over the environment is exercised on a vast scale, and goes hand in hand with the absence of any natural life; for example, artificial animals stand in for their extinct predecessors. This oppressive backdrop explains the frequently referenced migration of humans to "off-world" (extraterrestrial) colonies.[16] The dystopian themes explored in Blade Runner are an early example of the expansion of cyberpunk concepts into cinema. Eyes are a recurring motif, as are manipulated images, calling into question the nature of reality and our ability to accurately perceive and remember it.[17][18][19]
+These thematic elements provide an atmosphere of uncertainty for Blade Runner's central theme of examining humanity. In order to discover replicants, an empathy test is used, with a number of its questions focused on the treatment of animals—seemingly an essential indicator of one's "humanity". The replicants appear to show compassion and concern for one another and are juxtaposed against human characters who lack empathy, while the mass of humanity on the streets is cold and impersonal. The film goes so far as to question if Deckard might be an android, in the process forcing the audience to re-evaluate what it means to be human.[20]
+The question of whether Deckard is intended to be a human or a replicant has been an ongoing controversy since the film's release.[21] Both Michael Deeley and Harrison Ford wanted Deckard to be human, while Hampton Fancher preferred ambiguity.[22] Ridley Scott has confirmed that in his vision, Deckard is a replicant.[23][24]
+Deckard's unicorn-dream sequence, inserted into the Director's Cut and concomitant with Gaff's parting gift of an origami unicorn, is seen by many as showing that Deckard is a replicant—because Gaff could have accessed Deckard's implanted memories.[12][25] The interpretation that Deckard is a replicant is challenged by others who believe the unicorn imagery shows that the characters, whether human or replicant, share the same dreams and recognize their affinity,[26] or that the absence of a decisive answer is crucial to the film's main theme.[27] The film's inherent ambiguity and uncertainty, as well as its textual richness, have permitted viewers to see it from multiple perspectives.[28]
+Production 
+Casting
+See also: List of Blade Runner characters
+Casting the film proved troublesome, particularly for the lead role of Deckard. Screenwriter Hampton Fancher envisioned Robert Mitchum as Deckard and wrote the character's dialogue with Mitchum in mind.[29] Director Ridley Scott and the film's producers spent months meeting and discussing the role with Dustin Hoffman, who eventually departed over differences in vision.[29] Harrison Ford was ultimately chosen for several reasons, including his performance in the Star Wars films, Ford's interest in the Blade Runner story, and discussions with Steven Spielberg who was finishing Raiders of the Lost Ark at the time and strongly praised Ford's work in the film.[29] Following his success in films like Star Wars (1977) and Raiders of the Lost Ark (1981), Ford was looking for a role with dramatic depth.[30] According to production documents, several actors were considered for the role, including Gene Hackman, Sean Connery, Jack Nicholson, Paul Newman, Clint Eastwood, Tommy Lee Jones, Arnold Schwarzenegger, Al Pacino, and Burt Reynolds.[29]
+One role that was not difficult to cast was Rutger Hauer as Roy Batty, the violent yet thoughtful leader of the replicants.[31] Scott cast Hauer without having met him, based solely on Hauer's performances in Paul Verhoeven's movies Scott had seen (Katie Tippel, Soldier of Orange and Turkish Delight).[29] Hauer's portrayal of Batty was regarded by Philip K. Dick as, "the perfect Batty—cold, Aryan, flawless".[32] Of the many films Hauer has made, Blade Runner is his favorite. As he explained in a live chat in 2001, "Blade Runner needs no explanation. It just [is]. All of the best. There is nothing like it. To be part of a real masterpiece which changed the world's thinking. It's awesome."[33] Hauer rewrote his character's "tears in rain" speech himself and presented the words to Scott on set prior to filming.
+Blade Runner used a number of then-lesser-known actors: Sean Young portrays Rachael, an experimental replicant implanted with the memories of Tyrell's niece, causing her to believe she is human;[34] Nina Axelrod auditioned for the role.[29] Daryl Hannah portrays Pris, a "basic pleasure model" replicant; Stacey Nelkin auditioned for the role, but was given another part in the film, which was ultimately cut before filming.[29] Casting Pris and Rachael was challenging, requiring several screen tests, with Morgan Paull playing the role of Deckard. Paull was cast as Deckard's fellow bounty hunter Holden based on his performances in the tests.[29] Brion James portrays Leon Kowalski, a combat replicant, and Joanna Cassidy portrays Zhora, an assassin replicant.
+Edward James Olmos portrays Gaff. Olmos used his diverse ethnic background, and personal research, to help create the fictional "Cityspeak" language his character uses in the film.[35] His initial address to Deckard at the noodle bar is partly in Hungarian and means, "Horse dick [bullshit]! No way. You are the Blade ... Blade Runner."[35] M. Emmet Walsh plays Captain Bryant, a hard-drinking, sleazy, and underhanded police veteran typical of the film noir genre. Joe Turkel portrays Dr. Eldon Tyrell, a corporate mogul who built an empire on genetically manipulated humanoid slaves. William Sanderson was cast as J. F. Sebastian, a quiet and lonely genius who provides a compassionate yet compliant portrait of humanity. J. F. sympathizes with the replicants, whom he sees as companions,[36] and shares their shorter lifespan due to his rapid aging disease;[37] Joe Pantoliano was considered for the role.[38] James Hong portrays Hannibal Chew, an elderly geneticist specializing in synthetic eyes, and Hy Pyke portrays the sleazy bar owner Taffey Lewis with ease and in a single take, something almost unheard-of with Scott whose drive for perfection resulted at times in double-digit takes.[39]
+Development
+
+
+
+
+The Bradbury Building in Los Angeles was a filming location.
+
+
+
+Interest in adapting Philip K. Dick's novel Do Androids Dream of Electric Sheep? developed shortly after its 1968 publication. Director Martin Scorsese was interested in filming the novel, but never optioned it.[40] Producer Herb Jaffe optioned it in the early 1970s, but Dick was unimpressed with the screenplay written by Herb's son Robert: "Jaffe's screenplay was so terribly done ... Robert flew down to Santa Ana to speak with me about the project. And the first thing I said to him when he got off the plane was, 'Shall I beat you up here at the airport, or shall I beat you up back at my apartment?'"[41]
+The screenplay by Hampton Fancher was optioned in 1977.[42] Producer Michael Deeley became interested in Fancher's draft and convinced director Ridley Scott to film it. Scott had previously declined the project, but after leaving the slow production of Dune, wanted a faster-paced project to take his mind off his older brother's recent death.[43] He joined the project on February 21, 1980, and managed to push up the promised Filmways financing from US$13 million to $15 million. Fancher's script focused more on environmental issues and less on issues of humanity and religion, which are prominent in the novel and Scott wanted changes. Fancher found a cinema treatment by William S. Burroughs for Alan E. Nourse's novel The Bladerunner (1974), titled Blade Runner (a movie).[nb 2] Scott liked the name, so Deeley obtained the rights to the titles.[44] Eventually he hired David Peoples to rewrite the script and Fancher left the job over the issue on December 21, 1980, although he later returned to contribute additional rewrites.[45]
+Having invested over $2.5 million in pre-production,[46] as the date of commencement of principal photography neared, Filmways withdrew financial backing. In ten days Deeley had secured $21.5 million in financing through a three-way deal between The Ladd Company (through Warner Bros.), the Hong Kong-based producer Sir Run Run Shaw and Tandem Productions.[47]
+Dick became concerned that no one had informed him about the film's production, which added to his distrust of Hollywood.[48] After Dick criticized an early version of Fancher's script in an article written for the Los Angeles Select TV Guide, the studio sent Dick the Peoples rewrite.[49] Although Dick died shortly before the film's release, he was pleased with the rewritten script and with a 20-minute special effects test reel that was screened for him when he was invited to the studio. Despite his well-known skepticism of Hollywood in principle, Dick enthused to Scott that the world created for the film looked exactly as he had imagined it.[32] He said, "I saw a segment of Douglas Trumbull's special effects for Blade Runner on the KNBC-TV news. I recognized it immediately. It was my own interior world. They caught it perfectly." He also approved of the film's script, saying, "After I finished reading the screenplay, I got the novel out and looked through it. The two reinforce each other, so that someone who started with the novel would enjoy the movie and someone who started with the movie would enjoy the novel."[50] The motion picture was dedicated to Dick.[51] Principal photography of Blade Runner began on March 9, 1981, and ended four months later.[52]
+In 1992, Ford revealed, "Blade Runner is not one of my favorite films. I tangled with Ridley."[53] Apart from friction with the director, Ford also disliked the voiceovers: "When we started shooting it had been tacitly agreed that the version of the film that we had agreed upon was the version without voiceover narration. It was a f**king [sic] nightmare. I thought that the film had worked without the narration. But now I was stuck re-creating that narration. And I was obliged to do the voiceovers for people that did not represent the director's interests."[30] "I went kicking and screaming to the studio to record it."[54] The narration monologues were written by an uncredited Roland Kibbee.[55]
+In 2006, Scott was asked "Who's the biggest pain in the arse you've ever worked with?", he replied: "It's got to be Harrison ... he'll forgive me because now I get on with him. Now he's become charming. But he knows a lot, that's the problem. When we worked together it was my first film up and I was the new kid on the block. But we made a good movie."[56] Ford said of Scott in 2000: "I admire his work. We had a bad patch there, and I'm over it."[57] In 2006 Ford reflected on the production of the film saying: "What I remember more than anything else when I see Blade Runner is not the 50 nights of shooting in the rain, but the voiceover ... I was still obliged to work for these clowns that came in writing one bad voiceover after another."[58] Ridley Scott confirmed in the summer 2007 issue of Total Film that Harrison Ford contributed to the Blade Runner Special Edition DVD, and had already recorded his interviews. "Harrison's fully on board", said Scott.[59]
+The Bradbury Building in downtown Los Angeles served as a filming location, and a Warner Bros. backlot housed the LA 2019 streets. Other locations included the Ennis-Brown House and the 2nd Street Tunnel. Test screenings resulted in several changes including adding a voice-over, a happy ending and the removal of a Holden hospital scene. The relationship between the filmmakers and the investors was difficult, which culminated in Deeley and Scott being fired but still working on the film.[60] Crew members created T-shirts during filming saying, "Yes Guv'nor, My Ass" that mocked Scott's unfavorable comparison of U.S. and British crews; Scott responded with a T-shirt of his own, "Xenophobia Sucks" making the incident known as the T-shirt war.[61][62]
+Design
+Ridley Scott credits Edward Hopper's painting Nighthawks and the French science fiction comics magazine Métal Hurlant, to which the artist Mœbius contributed, as stylistic mood sources.[63] He also drew on the landscape of "Hong Kong on a very bad day"[64] and the industrial landscape of his one-time home in northeast England.[65] The visual style of the movie is influenced by the work of futurist Italian architect Antonio Sant'Elia.[66] Scott hired Syd Mead as his concept artist who, like Scott, was influenced by Métal Hurlant.[67] Moebius was offered the opportunity to assist in the pre-production of Blade Runner, but he declined so that he could work on René Laloux's animated film Les Maîtres du temps – a decision that he later regretted.[68] Production designer Lawrence G. Paull and art director David Snyder realized Scott's and Mead's sketches. Douglas Trumbull and Richard Yuricich supervised the special effects for the film.
+Blade Runner has numerous deep similarities to Fritz Lang's Metropolis, including a built-up urban environment, in which the wealthy literally live above the workers, dominated by a huge building – the Stadtkrone Tower in Metropolis and the Tyrell Building in Blade Runner. Special effects supervisor David Dryer used stills from Metropolis when lining up Blade Runner's miniature building shots.[69]
+The extended end scene in the original theatrical release shows Rachael and Deckard traveling into daylight with pastoral aerial shots filmed by director Stanley Kubrick. Ridley Scott contacted Kubrick about using some of his surplus helicopter aerial photography from The Shining.[70][71][72]
+"Spinner" is the generic term for the fictional flying cars used in the film. A spinner can be driven as a ground-based vehicle, and take off vertically, hover, and cruise using jet propulsion much like vertical take-off and landing (VTOL) aircraft. They are used extensively by the police to patrol and survey the population, and it is clear that despite restrictions wealthy people can acquire spinner licenses.[73] The vehicle was conceived and designed by Syd Mead who described the spinner as an "aerodyne"—a vehicle which directs air downward to create lift, though press kits for the film stated that the spinner was propelled by three engines: "conventional internal combustion, jet, and anti-gravity"[74] Mead's conceptual drawings were transformed into 25 working vehicles by automobile customizer Gene Winfield.[75] A spinner is on permanent exhibit at the Science Fiction Museum and Hall of Fame in Seattle, Washington.[76]
+Voigt-Kampff machine
+
+
+A very advanced form of lie detector that measures contractions of the iris muscle and the presence of invisible airborne particles emitted from the body. The bellows were designed for the latter function and give the machine the menacing air of a sinister insect. The VK is used primarily by Blade Runners to determine if a suspect is truly human by measuring the degree of his empathic response through carefully worded questions and statements.
+
+— Description from the original press kit.
+
+The Voigt-Kampff machine is a fictional interrogation tool, originating from the novel. The Voigt-Kampff is a polygraph-like machine used by blade runners to determine whether an individual is a replicant. It measures bodily functions such as respiration, blush response, heart rate and eye movement in response to questions dealing with empathy.[77] (Tyrell states: "Capillary dilation of the so-called blush response? Fluctuation of the pupil? Involuntary dilation of the iris?") In the film two replicants take the test, Leon and Rachael, and Deckard tells Tyrell that it usually takes 20 to 30 cross-referenced questions to distinguish a replicant; in contrast with the book, where it is stated it only takes "six or seven" questions to make a determination. In the film it takes more than one hundred questions to determine that Rachael is a replicant.
+Music
+Main article: Blade Runner (soundtrack)
+The Blade Runner soundtrack by Vangelis is a dark melodic combination of classic composition and futuristic synthesizers which mirrors the film-noir retro-future envisioned by Ridley Scott. Vangelis, fresh from his Academy Award-winning score for Chariots of Fire,[78] composed and performed the music on his synthesizers.[79] He also made use of various chimes and the vocals of collaborator Demis Roussos.[80] Another memorable sound is the haunting tenor sax solo "Love Theme" by British saxophonist Dick Morrissey, who performed on many of Vangelis's albums. Ridley Scott also used "Memories of Green" from the Vangelis album See You Later, an orchestral version of which Scott would later use in his film Someone to Watch Over Me.[81]
+Along with Vangelis' compositions and ambient textures, the film's soundscape also features a track by the Japanese ensemble Nipponia – "Ogi no Mato" or "The Folding Fan as a Target" from the Nonesuch Records release Traditional Vocal and Instrumental Music – and a track by harpist Gail Laughton from "Harps of the Ancient Temples" on Laurel Records.[82]
+Despite being well received by fans and critically acclaimed and nominated in 1983 for a BAFTA and Golden Globe as best original score, and the promise of a soundtrack album from Polydor Records in the end titles of the film, the release of the official soundtrack recording was delayed for over a decade. There are two official releases of the music from Blade Runner. In light of the lack of a release of an album, the New American Orchestra recorded an orchestral adaptation in 1982 which bore little resemblance to the original. Some of the film tracks would, in 1989, surface on the compilation Vangelis: Themes, but not until the 1992 release of the Director's Cut version would a substantial amount of the film's score see commercial release.[80]
+These delays and poor reproductions led to the production of many bootleg recordings over the years. A bootleg tape surfaced in 1982 at science fiction conventions and became popular given the delay of an official release of the original recordings, and in 1993 "Off World Music, Ltd" created a bootleg CD that would prove more comprehensive than Vangelis' official CD in 1994.[80] A set with three CDs of Blade Runner-related Vangelis music was released in 2007. Titled Blade Runner Trilogy, the first disc contains the same tracks as the 1994 official soundtrack release, the second features previously unreleased music from the movie, and the third disc is all newly composed music from Vangelis, inspired by, and in the spirit of the movie.[83]
+Special effects
+The film's special effects are generally recognized to be among the best of all time,[84][85][86] using the available (non-digital) technology to the fullest. In addition to matte paintings and models, the techniques employed included multipass exposures. In some scenes, the set was lit, shot, the film rewound, and then rerecorded over with different lighting. In some cases this was done 16 times in all. The cameras were frequently motion controlled using computers.[85] Many effects used techniques which had been developed during the production of Close Encounters of the Third Kind.[87]
+Release
+Blade Runner was released in 1,290 theaters on June 25, 1982. That date was chosen by producer Alan Ladd Jr. because his previous highest-grossing films (Star Wars and Alien) had a similar opening date (May 25) in 1977 and 1979, making the 25th of the month his "lucky day".[88] Blade Runner grossed reasonably good ticket sales according to contemporary reports; earning $6.1 million during its first weekend in theaters.[89] The film was released close to other major sci-fi/fantasy releases such as The Thing, Star Trek II: The Wrath of Khan, Conan the Barbarian and E.T. the Extra-Terrestrial.[90]
+Critical reception
+Initial reactions among film critics were mixed. Some wrote that the plot took a back seat to the film's special effects, and did not fit the studio's marketing as an action/adventure movie. Others acclaimed its complexity and predicted it would stand the test of time.[91] Negative criticism in the United States cited its slow pace.[92] Sheila Benson from the Los Angeles Times called it "Blade Crawler", and Pat Berman in The State and Columbia Record described it as "science fiction pornography".[93] Pauline Kael praised Blade Runner as worthy of a place in film history for its distinctive sci-fi vision, yet criticized the film's lack of development in "human terms".[94]
+Academics began writing analyses of the film almost as soon as it was released,[95] and the boom in home video formats helped establish a growing cult around the film,[96] which scholars have dissected for its dystopic aspects, its questions regarding "authentic" humanity, its ecofeminist aspects,[97] and its use of conventions from multiple genres.[98] Popular culture began to reassess its impact as a classic several years after it was released.[99][100][101] Roger Ebert praised the visuals of both the original and the Director's Cut versions and recommended it for that reason; however, he found the human story clichéd and a little thin.[31] He later added The Final Cut to his "Great Movies" list.[102] Critic Chris Rodley and Janet Maslin theorized that Blade Runner changed cinematic and cultural discourse through its image repertoire, and subsequent influence on films.[103] In 2012, Time film critic Richard Corliss surgically analyzed the durability, complexity, screenplay, sets and production dynamics from a personal, three-decade perspective.[104] On review aggregator Rotten Tomatoes, Blade Runner holds an approval rating of 90% based on 106 reviews, with an average rating of 8.5/10. The site's critical consensus reads, "Misunderstood when it first hit theaters, the influence of Ridley Scott's mysterious, neo-noir Blade Runner has deepened with time. A visually remarkable, achingly human sci-fi masterpiece."[105] Metacritic, another review aggregator, assigned the film a weighted average score of 89 out of 100, based on 11 critics, indicating "universal acclaim".[106] Denis Villeneuve, who directed the sequel, Blade Runner 2049, cites the film as a huge influence for him and many others.[101]
+Accolades
+Blade Runner won or received nominations for the following awards:[107]
+
+
+Year
+Award
+Category
+Nominee
+Result
+
+
+1982
+British Society of Cinematographers
+Best Cinematography
+Jordan Cronenweth
+Nominated
+
+
+Los Angeles Film Critics Association
+Best Cinematography
+Won
+
+
+1983
+British Academy Film Awards
+Best Cinematography
+Won
+
+
+Best Costume Design
+Charles Knode and Michael Kaplan
+Won
+
+
+Best Editing
+Terry Rawlings
+Nominated
+
+
+Best Film Music
+Vangelis
+Nominated
+
+
+Best Makeup and Hair
+Marvin Westmore
+Nominated
+
+
+Best Production Design
+Lawrence G. Paull
+Won
+
+
+Best Sound
+Peter Pennell, Bud Alper, Graham V. Hartstone, and Gerry Humphreys
+Nominated
+
+
+Best Special Visual Effects
+Douglas Trumbull, Richard Yuricich, and David Dryer
+Nominated
+
+
+Hugo Award
+Best Dramatic Presentation
+Blade Runner
+Won
+
+
+London Film Critics’ Circle
+Special Achievement Award
+Lawrence G. Paull, Douglas Trumbull, and Syd Mead
+Won
+
+
+Golden Globe Awards
+Best Original Score – Motion Picture
+Vangelis
+Nominated
+
+
+Academy Awards
+Best Art Direction-Set Decoration
+Lawrence G. Paull, David Snyder, and Linda DeScenna
+Nominated
+
+
+Best Effects, Visual Effects
+Douglas Trumbull, Richard Yuricich, and David Dryer
+Nominated
+
+
+Saturn Award
+Best Director
+Ridley Scott
+Nominated
+
+
+Best Science Fiction Film
+Blade Runner
+Nominated
+
+
+Best Special Effects
+Douglas Trumbull and Richard Yuricich
+Nominated
+
+
+Best Supporting Actor
+Rutger Hauer
+Nominated
+
+
+Fantasporto
+International Fantasy Film Award
+Ridley Scott
+Nominated
+
+
+Versions
+Main article: Versions of Blade Runner
+Several versions of Blade Runner have been shown. The original workprint version (1982, 113 minutes) was shown for audience test previews in Denver and Dallas in March 1982. Negative responses to the previews led to the modifications resulting in the U.S. theatrical version.[108][109] The workprint was shown as a director's cut without Scott's approval at the Los Angeles Fairfax Theater in May 1990, at an AMPAS showing in April 1991, and in September and October 1991 at the Los Angeles NuArt Theater and the San Francisco Castro Theatre.[110] Positive responses pushed the studio to approve work on an official director's cut.[111] A San Diego Sneak Preview was shown only once, in May 1982, and was almost identical to the U.S. theatrical version but contained three extra scenes not shown in any other version, including the 2007 Final Cut.[112]
+Two versions were shown in the film's 1982 theatrical release: the U.S. theatrical version (117 minutes),[1] known as the original version or Domestic Cut (released on Betamax, CED Videodisc and VHS in 1983, and on LaserDisc in 1987), and the International Cut (117 minutes), also known as the "Criterion Edition" or "uncut version", which included more violent action scenes than the U.S. version. Although initially unavailable in the U.S. and distributed in Europe and Asia via theatrical and local Warner Home Video Laserdisc releases, the International Cut was later released on VHS and Criterion Collection Laserdisc in North America, and re-released in 1992 as a "10th Anniversary Edition".[113]
+Ridley Scott's Director's Cut (1991, 116 minutes)[114] was made available on VHS and Laserdisc in 1993, and on DVD in 1997. Significant changes from the theatrical version include the removal of Deckard's voice-over; the re-insertion of the unicorn sequence, and the removal of the studio-imposed happy ending. Scott provided extensive notes and consultation to Warner Bros. through film preservationist Michael Arick, who was put in charge of creating the Director's Cut.[115] Scott's The Final Cut (2007, 117 minutes)[116] was released by Warner Bros. theatrically on October 5, 2007, and subsequently released on DVD, HD DVD, and Blu-ray Disc in December 2007.[117] This is the only version over which Scott had complete artistic and editorial control.[115]
+
+
+Year
+Award
+Category
+Nominee
+Result
+
+
+1993
+Fantasporto
+International Fantasy Film Award
+Best Film – Ridley Scott (Director’s Cut)
+Nominated
+
+
+1994
+Saturn Award
+Best Genre Video Release
+Blade Runner (Director’s Cut)
+Nominated
+
+
+2008
+Saturn Award
+Best DVD Special Edition Release
+Blade Runner (5-Disc Ultimate Collector’s Edition)
+Won
+
+
+Legacy
+
+
+
+
+A police spinner flying beside enormous skyscrapers, some with electronic billboards on them. Special effects such as these were benchmarks, and have been highly influential on the aesthetics of subsequent sci-fi movies.
+
+
+
+
+
+
+A "spinner" (police variant) on display at Disney-MGM Studios in 2006
+
+
+Cultural impact
+See also: Tears in rain monologue
+While not initially a success with North American audiences, Blade Runner was popular internationally and garnered a cult following.[118] The film's dark style and futuristic designs have served as a benchmark and its influence can be seen in many subsequent science fiction films, video games, anime, and television programs.[8] For example, Ronald D. Moore and David Eick, the producers of the re-imagining of Battlestar Galactica, have both cited Blade Runner as one of the major influences for the show.[119]
+The film was selected for preservation in the United States National Film Registry in 1993 and is frequently taught in university courses.[120] In 2007, it was named the second-most visually influential film of all time by the Visual Effects Society.[121] The film has also been the subject of parody, such as the comics Blade Bummer by Crazy comics,[122] Bad Rubber by Steve Gallacci,[123] and the Red Dwarf 2009 three-part miniseries "Back to Earth".[124][125]
+Blade Runner continues to reflect modern trends and concerns, and an increasing number of critics consider it one of the greatest science fiction films of all time.[126] It was voted the best science fiction film ever made in a 2004 poll of 60 eminent world scientists.[127] Blade Runner is also cited as an important influence to both the style and story of the Ghost in the Shell film series, which itself has been highly influential to the future-noir genre.[128][129] Blade Runner has been very influential to the cyberpunk movement.[130][131][132][133] It also influenced the cyberpunk derivative biopunk, which revolves around biotechnology and genetic engineering.[134][135]
+The dialog and music in Blade Runner has been sampled in music more than any other film of the 20th century.[136][nb 3]
+The 2009 album I, Human by Singaporean band Deus Ex Machina makes numerous references to the genetic engineering and cloning themes from the film, and even features a track titled "Replicant".[137]
+Blade Runner is cited as a major influence on Warren Spector,[138] designer of the video game Deus Ex, which displays evidence of the film's influence in both its visual rendering and plot. Indeed, the film's look—and in particular its overall darkness, preponderance of neon lights, and opaque visuals—are easier to render than complicated backdrops, making it a popular reference point for video game designers.[139][140] It has influenced adventure games such as the 2012 graphical text adventure Cypher;[141] Rise of the Dragon;[142][143] Snatcher;[143][144] the Tex Murphy series;[145] Beneath a Steel Sky;[146] Flashback: The Quest for Identity;[143] Bubblegum Crisis (and its original anime films);[147][148] the role-playing game Shadowrun;[143] the first-person shooter Perfect Dark,[149] and the Syndicate series of video games.[150][151]
+Among the folklore that has developed around the film over the years, there is a belief that Blade Runner cursed the companies whose logos were displayed prominently as product placement.[152] While they were market leaders at the time, Atari, Bell, Cuisinart, and Pan Am all experienced setbacks after the film's release. The Coca-Cola Company suffered losses when it introduced New Coke in 1985, but soon regained market share.[13]
+Media recognitions for Blade Runner include:
+
+
+Year
+Presenter
+Title
+Rank
+Notes
+
+
+2001
+The Village Voice
+100 Best Films of the 20th Century
+94
+[153]
+
+
+2002
+Online Film Critics Society (OFCS)
+Top 100 Sci-fi Films of the Past 100 Years
+2
+[154]
+
+
+Sight & Sound
+Sight & Sound Top Ten Poll 2002
+45
+[155]
+
+
+50 Klassiker, Film
+None
+[156]
+
+
+2003
+1001 Movies You Must See Before You Die
+[157]
+
+
+Entertainment Weekly
+The Top 50 Cult Movies
+9
+[158]
+
+
+2004
+The Guardian, Scientists
+Top 10 Sci-fi Films of All Time
+1
+[159][160][161]
+
+
+2005
+Total Film's Editors
+100 Greatest Movies of All Time
+47
+[162]
+
+
+Time Magazine's Critics
+"All-TIME" 100 Best Movies
+None
+[163][164][165]
+
+
+2008
+New Scientist
+All-time favorite science fiction film (readers and staff)
+1
+[166][167]
+
+
+Empire
+The 500 Greatest Movies of All Time
+20
+[168]
+
+
+2010
+IGN
+Top 25 Sci-Fi Movies of All Time
+1
+[169]
+
+
+Total Film
+100 Greatest Movies of All Time
+None
+[170]
+
+
+2012
+Sight & Sound
+Sight & Sound 2012 critics top 250 films
+69
+[171]
+
+
+Sight & Sound
+Sight & Sound 2012 directors top 100 films
+67
+[172]
+
+
+2014
+Empire
+The 301 Greatest Movies Of All Time
+11
+[173]
+
+
+American Film Institute recognition
+
+AFI's 100 Years...100 Thrills – No. 74
+AFI's 100 Years...100 Movies (10th Anniversary Edition) – No. 97
+AFI's 10 Top 10 – No. 6 Science Fiction Film
+
+In other media
+Before filming began, Cinefantastique magazine commissioned Paul M. Sammon to write an article about Blade Runner's production which became the book Future Noir: The Making of Blade Runner.[174] The book chronicles Blade Runner's evolution, focusing on film-set politics, especially the British director's experiences with his first American film crew; of which producer Alan Ladd, Jr. has said, "Harrison wouldn't speak to Ridley and Ridley wouldn't speak to Harrison. By the end of the shoot Ford was 'ready to kill Ridley', said one colleague. He really would have taken him on if he hadn't been talked out of it."[175] Future Noir has short cast biographies and quotations about their experiences, and photographs of the film's production and preliminary sketches. A second edition of Future Noir was published in 2007.[176]
+Philip K. Dick refused a $400,000 offer to write a Blade Runner novelization, saying: "[I was] told the cheapo novelization would have to appeal to the twelve-year-old audience" and it "would have probably been disastrous to me artistically". He added, "That insistence on my part of bringing out the original novel and not doing the novelization – they were just furious. They finally recognized that there was a legitimate reason for reissuing the novel, even though it cost them money. It was a victory not just of contractual obligations but of theoretical principles."[50] Do Androids Dream of Electric Sheep? was eventually reprinted as a tie-in, with the film poster as a cover and the original title in parentheses below the Blade Runner title.[177] Additionally, a novelization of the movie entitled Blade Runner: A Story of the Future by Les Martin was released in 1982.[178] Archie Goodwin scripted the comic book adaptation, A Marvel Super Special: Blade Runner, published in September 1982.[179]
+There are two video games based on the film, one from 1985 for Commodore 64, Sinclair ZX Spectrum and Amstrad CPC by CRL Group PLC based on the music by Vangelis (due to licensing issues), and another action adventure PC game from 1997 by Westwood Studios. The 1997 video game featured new characters and branching storylines based on the Blade Runner world. Eldon Tyrell, Gaff, Leon, Rachael, Chew, and J.F. Sebastian appear, and their voice files are recorded by the original actors.[180] The player assumes the role of McCoy, another replicant-hunter working at the same time as Deckard.[139][140][180]
+The PC game featured a non-linear plot, non-player characters that each ran in their own independent AI, and an unusual pseudo-3D engine (which eschewed polygonal solids in favor of voxel elements) that did not require the use of a 3D accelerator card to play the game.[181]
+The television film Total Recall 2070 was initially planned as a spin-off of the film Total Recall, and would eventually be transformed into a hybrid of Total Recall and Blade Runner.[182] The Total Recall film was also based on a Philip K. Dick story, "We Can Remember It for You Wholesale"; many similarities between Total Recall 2070 and Blade Runner were noted, as well as apparent inspiration from Isaac Asimov's The Caves of Steel and the TV series Holmes & Yoyo.[183]
+Documentaries
+The film has been the subject of several documentaries.
+
+On the Edge of Blade Runner (2000, 55 minutes)
+
+
+was directed by Andrew Abbott and hosted/written by Mark Kermode. Interviews with production staff, including Scott, give details of the creative process and the turmoil during preproduction. Insights into Philip K. Dick and the origins of Do Androids Dream of Electric Sheep? are provided by Paul M. Sammon and Hampton Fancher.[60]
+
+
+Future Shocks (2003, 27 minutes)
+
+
+is a documentary by TVOntario.[184] It includes interviews with executive producer Bud Yorkin, Syd Mead, and the cast, and commentary by science fiction author Robert J. Sawyer and from film critics.
+
+
+Dangerous Days: Making Blade Runner (2007, 213 minutes)
+
+
+is a documentary directed and produced by Charles de Lauzirika for The Final Cut version of the film. Its source material comprises more than 80 interviews, including extensive conversations with Ford, Young, and Scott.[185] The documentary is presented in eight chapters, with each of the first seven covering a portion of the filmmaking process. The final chapter examines Blade Runner's controversial legacy.[186]
+
+
+All Our Variant Futures: From Workprint to Final Cut (2007, 29 minutes)
+
+
+produced by Paul Prischman, appears on the Blade Runner Ultimate Collector's Edition and provides an overview of the film's multiple versions and their origins, as well as detailing the seven-year-long restoration, enhancement and remastering process behind The Final Cut.[117]
+
+Sequels
+Books
+Dick's friend K. W. Jeter wrote three authorized Blade Runner novels that continue Rick Deckard's story, attempting to resolve the differences between the film and Do Androids Dream of Electric Sheep?[187] These are Blade Runner 2: The Edge of Human (1995), Blade Runner 3: Replicant Night (1996), and Blade Runner 4: Eye and Talon (2000).
+Film
+Main article: Blade Runner 2049
+
+
+
+
+Screen capture of DVD bonus feature from Prometheus (2012), a dictated letter by Peter Weyland about Eldon Tyrell, Chief Executive Officer of the Tyrell Corporation
+
+
+Blade Runner cowriter David Peoples wrote the 1998 action film Soldier, which he referred to as a "sidequel" or spiritual successor to the original film; the two are set in a shared universe.[188] A bonus feature on the DVD for Prometheus, the 2012 film by Scott set in the Alien universe, states that Eldon Tyrell, CEO of the Blade Runner Tyrell Corporation, was the mentor of Guy Pearce's character Peter Weyland.[189]
+On March 3, 2011, it was reported that Alcon Entertainment, a production company financed by Warner Bros., was "in final discussions to secure film, television and ancillary franchise rights to produce prequels and sequels to the iconic 1982 science-fiction thriller Blade Runner."[190] It was also reported that month that Christopher Nolan was desired as director.[191] In August 2011, Scott was set to direct a new film; at the same time, producer Andrew Kosove indicated Harrison Ford was unlikely to be involved.[192][193] Scott outlined that the film was "liable to be a sequel", but that it would not have any actors from the original cast.[194] By February 2015, Scott had switched to an executive producer's role,[195] with Denis Villeneuve directing.[196] It was reported Ford would in fact return, along with original writer Hampton Fancher[197]; the Oscar-nominated cinematographer Roger Deakins was also attached,[198] and Ryan Gosling would be in a starring role.[199][200]
+The film entered production in mid-2016 and is set decades after the first film.[201] Originally slated for release in January 2018, Blade Runner 2049 was released on October 6, 2017.[196][202]
+See also
+
+
+1980s portal
+Film portal
+Greater Los Angeles portal
+Science fiction portal
+
+
+
+Arcology
+Biorobotics
+Natural City
+Synthetic biology
+Tech noir
+
+References
+Informational notes
+
+
+
+^ Sebastian's death was never shot because of concerns over too much violence in the film.[6]
+^ Some editions of Nourse's novel use the two-word spacing Blade Runner, as does the Burroughs book.
+^ See also Tears in rain monologue § Music.
+
+
+
+Citations
+
+
+
+^ a b "BLADE RUNNER". British Board of Film Classification. May 27, 1982. Archived from the original on March 22, 2016. Retrieved January 8, 2016. 
+^ "Blade Runner". American Film Institute. Archived from the original on November 6, 2015. Retrieved December 3, 2015. 
+^ "Blade Runner". British Film Institute. Archived from the original on December 6, 2015. Retrieved December 3, 2015. 
+^ Blade Runner – Box Office Data, DVD and Blu-ray Sales, Movie News, Cast and Crew Information, The Numbers, archived from the original on December 16, 2014, retrieved December 11, 2014 
+^ Blade Runner: The Final Cut (2007), Box Office Mojo, archived from the original on April 12, 2014, retrieved April 12, 2014 
+^ Sammon, p. 175
+^ Blade Runner: The Final Cut (Ending Credits) (DVD), Warner Bros., 2007 
+^ a b Barlow, Aaron "Reel Toads and Imaginary Cities: Philip K. Dick, Blade Runner and the Contemporary Science Fiction Movie" in Brooker, pp. 43–58
+^ Jermyn, Deborah "The Rachael Papers: In Search of Blade Runners Femme Fatale" in Brooker, pp. 159–172
+^ Jenkins, Mary (1997), "The Dystopian World of Blade Runner: An Ecofeminist Perspective", Trumpeter, 14 (4), retrieved July 27, 2011 
+^ Kerman, Judith B. "Post-Millennium Blade Runner" in Brooker, pp. 31–39
+^ a b Alessio, Dominic "Redemption, 'Race', Religion, Reality and the Far-Right: Science Fiction Film Adaptations of Philip K. Dick" in Brooker, pp. 59–76
+^ a b Chapman, Murray (1992–1995), Blade Runner: Frequently Asked Questions (FAQ), Murray Chapman, University of Queensland, archived from the original on April 4, 2014, retrieved July 27, 2011 
+^ Sammon, p. 384
+^ Barber, Lynn (January 6, 2002), "Scott's Corner", The Observer, London: Guardian News and Media, archived from the original on July 20, 2008, retrieved July 27, 2011 
+^ Leaver, Tama (1997), Post-Humanism and Ecocide in William Gibson's Neuromancer and Ridley Scott's Blade Runner, Tama Leaver, University of Western Australia, archived from the original on July 3, 2013, retrieved July 27, 2011 
+^ Saini, Tinku (1996), Eye disbelieve, Tinku Saini, University of Washington, archived from the original on September 15, 2006, retrieved January 31, 2008 
+^ McCoy, John (1995), The Eyes Tell All, University of Texas at Austin, archived from the original on September 16, 2013, retrieved July 27, 2011 
+^ Bukatman, pp. 9–11
+^ Kerman, Judith (1991), Retrofitting Blade Runner: Issues in Ridley Scott's Blade Runner and Philip K. Dick's Do Android's Dream of Electric Sheep?, Bowling Green University Popular Press, ISBN 978-0-87972-510-5 
+^ Bukatman, pp. 80–83
+^ Sammon, p. 362
+^ Peary, Danny (1984), "Directing Alien and Blade Runner: An Interview with Ridley Scott", Omni's Screen Flights/Screen Fantasies: The Future According to Science Fiction, Garden City: Dolphin, pp. 293–302, ISBN 978-0-385-19202-6 
+^ Kaplan, Fred (September 30, 2007), "A Cult Classic Restored, Again", The New York Times, archived from the original on December 4, 2013, retrieved July 27, 2011, The film's theme of dehumanization has also been sharpened. What has been a matter of speculation and debate is now a certainty: Deckard, the replicant-hunting cop, is himself a replicant. Mr. Scott confirmed this: 'Yes, he's a replicant. He was always a replicant.' 
+^ Blade Runner riddle solved, BBC, July 9, 2000, archived from the original on April 6, 2014, retrieved July 27, 2011 
+^ Brooker, Peter "Imagining the Real: Blade Runner and Discourses on the Postmetropolis" in Brooker, pp. 9, 222
+^ Bukatman, p. 83
+^ Hills, Matt "Academic Textual Poachers: Blade Runner as Cult Canonical Film" in Brooker, pp. 124–141
+^ a b c d e f g h Dangerous Days: Making Blade Runner (Blade Runner: The Final Cut DVD), Warner Bros., 2007 
+^ a b Ford: "'Blade Runner' Was a Nightmare", Moono.com, July 5, 2007, archived from the original on February 24, 2012, retrieved July 27, 2011 
+^ a b Ebert, Roger (September 11, 1992), Blade Runner: Director's Cut, rogerebert.com, archived from the original on March 4, 2013, retrieved July 27, 2011 
+^ a b Sammon, p. 284
+^ Hauer, Rutger, Live Chat – February 7, 2001, Rutger Hauer, archived from the original on January 24, 2012, retrieved July 27, 2011 
+^ Sammon, pp. 92–93
+^ a b Sammon, pp. 115–116
+^ Bukatman, p. 72
+^ Sammon, p. 170
+^ Brinkley, Aaron (October 5, 2000), "A Chat with William Sanderson", BladeZone – The Online Blade Runner Fan Club, archived from the original on April 28, 2014, retrieved July 27, 2011 
+^ Sammon, p. 150
+^ Bukatman, p. 13; Sammon, p. 23
+^ Dick quoted in Sammon, p. 23
+^ Sammon, pp. 23–30
+^ Sammon, pp. 43–49
+^ Abraham Riesman, "Digging Into the Odd History of Blade Runner's Title", Vulture, October 4, 2017. Accessed October 10, 2017.
+^ Sammon, pp. 49–63
+^ Sammon, p. 49
+^ Bukatman, pp. 18–19; Sammon, pp. 64–67
+^ Sammon, pp. 63–64
+^ Sammon, pp. 67–69
+^ a b Boonstra, John (June 1982), "A final interview with science fiction's boldest visionary, who talks candidly about Blade Runner, inner voices and the temptations of Hollywood", Rod Serling's the Twilight Zone Magazine, 2 (3): 47–52, archived from the original on May 28, 2013, retrieved July 27, 2011 
+^ Blade Runner film, dedication after credits, 1:51:30
+^ Sammon, p. 98
+^ Sammon, p. 211
+^ Sammon, p. 296
+^ Pahle, Rebecca (August 28, 2015), 10 Fascinating Facts About 'Blade Runner', Mental Floss, archived from the original on August 29, 2015, retrieved March 24, 2015 
+^ Carnevale, Rob (September 2006), Getting Direct With Directors ... Ridley Scott, BBC, archived from the original on April 13, 2014, retrieved July 27, 2011 
+^ Kennedy, Colin (November 2000), "And beneath lies, the truth", Empire (137): 76 
+^ "In Conversation with Harrison Ford", Empire (202): 140, April 2006 
+^ Smith, Neil (Summer 2007), "The Total Film Interview", Total Film (130) 
+^ a b Ingels, Nicklas, On The Edge Of Blade Runner (Documentury), Los Angeles, 2019, archived from the original on April 7, 2014, retrieved July 27, 2011 
+^ Sammon, p. 218
+^ Davis, Cindy (November 8, 2011), Mindhole Blowers: 20 facts about Blade Runner that might leave you questioning Ridley Scotts humanity, pajiba.com, archived from the original on August 2, 2014, retrieved September 21, 2014 
+^ Sammon, p. 74
+^ Wheale, Nigel (1995), The Postmodern Arts: An Introductory Reader, Routledge, p. 107, ISBN 978-0-415-07776-7, retrieved July 27, 2011 
+^ Monahan, Mark (September 20, 2003), "Director Maximus", The Telegraph, London, archived from the original on June 21, 2008, retrieved July 27, 2011 
+^ Irish Arts Review, www.irishartsreview.com, retrieved September 27, 2014 
+^ Sammon, p. 53
+^ Giraud, Jean (1988), The Long Tomorrow & Other SF Stories, Marvel, ISBN 978-0-87135-281-1 
+^ Bukatman, pp. 61–63; Sammon, p. 111
+^ "THR's Full, Uncensored Director Roundtable with Quentin Tarantino, Ridley Scott and More". Archived from the original on January 6, 2016. 
+^ Eggersten, Chris. "HITFIX". 
+^ Howard, Annie. "Ridley Scott Reveals Stanley Kubrick Gave Him Footage from 'The Shining' for 'Blade Runner' Ending". The Hollywood Reporter. Archived from the original on January 14, 2016. 
+^ Sammon, pp. 79–80
+^ The top 40 cars from feature films: 30. POLICE SPINNER, ScreenJunkies.com, March 30, 2010, archived from the original on April 4, 2014, retrieved July 27, 2011, though press kits for the film stated that the spinner was propelled by three engines: "conventional internal combustion, jet and anti-gravity". 
+^ Willoughby, Gary, BladeZone's Gary Willoughby has a One on One chat with Gene Winfield, the builder of the full size cars and spinners from the classic film Blade Runner., Bladezone, archived from the original on September 27, 2013, retrieved July 27, 2011 
+^ EMPSFM Brochure (PDF), Science Fiction Museum and Hall of Fame, archived from the original (PDF) on January 24, 2011 
+^ Sammon, pp. 106–107
+^ Blade Runner – Scoring the music, Nemo Studios, archived from the original on October 19, 2013, retrieved July 27, 2011 
+^ Sammon, pp. 271–274
+^ a b c Sammon, pp. 419–423
+^ Larsen, Peter (2007), Film music, London: Reaktion Books, p. 179, ISBN 978-1-86189-341-3 
+^ Sammon, p. 424
+^ Orme, Mike (February 7, 2008), Album Review: Vangelis: Blade Runner Trilogy: 25th Anniversary, Pitchfork, archived from the original on October 29, 2013, retrieved July 27, 2011 
+^ "10 Pre-2000 Movies with Special Effects That Still Hold Up Today", WhatCulture.com, archived from the original on May 18, 2015 
+^ a b Adam Savage, "Blade Runner at 25: Why the Sci-Fi F/X Are Still Unsurpassed", Popular Mechanics, archived from the original on April 2, 2015 
+^ "Los Angeles 2019 (Blade Runner) – Cinema's Greatest Effects Shots Picked by Hollywood's Top VFX Specialists – Features – Empire", empireonline.com, archived from the original on May 18, 2015 
+^ Blade Runner: Spinner Vehicles, Trumbull Ventures, 2010, archived from the original on July 4, 2015, retrieved September 21, 2015 
+^ Sammon, p. 309
+^ Harmetz, Aljean (June 29, 1982), 'E.T.' May Set Sales Record, The New York Times, Section C, Cultural Desk, page 9 
+^ Sammon, p. 316
+^ Sammon, pp. 313–315
+^ Hicks, Chris (September 11, 1992), Movie review: Blade Runner, Deseret News Publishing Company, archived from the original on April 7, 2014, retrieved July 27, 2011 
+^ Quoted in Sammon, p. 313 and p. 314, respectively
+^ Kael, Pauline (1984), Taking It All In, Holt, Rinehart and Winston, pp. 360–365, ISBN 978-0-03-069361-8 
+^ Williams, Douglas E. (October 1988), "Ideology as Dystopia: An Interpretation of "Blade Runner"" (PDF), International Political Science Review, 9 (4): 381–394, JSTOR 1600763, archived (PDF) from the original on July 8, 2016, retrieved October 13, 2015 
+^ Dalton, Stephen (October 26, 2016). "Blade Runner: anatomy of a classic". British Film Institute.
+^ Jenkins, Mary (1997), "The Dystopian World of Blade Runner: An Ecofeminist Perspective", Trumpeter, 14 (4), retrieved October 13, 2015 
+^ Doll, Susan; Faller, Greg (1986), "Blade Runner and Genre: Film Noir and Science Fiction", Literature Film Quarterly, 14 (2), archived from the original on October 13, 2015, retrieved October 13, 2015 
+^ Gray, Tim (June 24, 2017). "'Blade Runner' Turns 35: Ridley Scott's Unloved Film That Became a Classic". Variety.
+^ Shone, Tom (June 6, 2012), "Woman: The Other Alien in Alien", Slate, archived from the original on April 24, 2016 
+^ a b Jagernauth, Kevin (April 28, 2015), 'Blade Runner' Is almost a Religion for me: Denis Villeneuve talks directing the sci-fi sequel, indieWIRE, archived from the original on October 1, 2015, retrieved October 12, 2015 
+^ Ebert, Roger. "Blade Runner: The Final Cut Movie Review (1982) | Roger Ebert". www.rogerebert.com. Archived from the original on June 27, 2016. Retrieved June 18, 2016. 
+^ Rodley, Chris (1993), Blade Runner: the director's cut, Frieze, archived from the original on September 5, 2008, retrieved October 14, 2015 
+^ Blade Runner at 30: Celebrating Ridley Scott's Dystopian Vision Archived December 19, 2016, at the Wayback Machine., Time, Richard Corliss, June 25, 2012. Retrieved April 11, 2017.
+^ "Blade Runner (1982)", Rotten Tomatoes, retrieved September 28, 2017 
+^ "Blade Runner". Metacritic. Retrieved September 10, 2017. 
+^ "NY Times: Blade Runner", The New York Times, archived from the original on May 17, 2013, retrieved July 27, 2011 
+^ Kaplan, Fred (September 30, 2007), "A Cult Classic Restored, Again", New York Times, archived from the original on December 20, 2013, retrieved July 27, 2011 
+^ Sammon, p. 289
+^ Bukatman, pp. 36–37; Sammon, pp. 334–340
+^ Bukatman, p. 37
+^ Sammon, pp. 306 and 309–311
+^ Sammon, pp. 326–329
+^ "BLADE RUNNER [DIRECTOR'S CUT]". British Board of Film Classification. September 29, 1992. Archived from the original on April 6, 2016. Retrieved January 8, 2016. 
+^ a b Sammon, pp. 353, 365
+^ "BLADE RUNNER [The Final Cut]". British Board of Film Classification. October 12, 2007. Archived from the original on March 5, 2016. Retrieved January 8, 2016. 
+^ a b Blade Runner: The Final Cut, The Digital Bits, Inc., July 26, 2007, archived from the original on February 22, 2014, retrieved July 27, 2011 
+^ Sammon, pp. 318–329
+^ Moore, Ronald D.; Eick, David (February 21, 2008). "Battlestar Galactica Interview". Concurring Opinions (Interview). Interview with Daniel Solove, Deven Desai and David Hoffman. Archived from the original on October 3, 2011. Retrieved October 3, 2011. 
+^ Rapold, Nicolas (October 2, 2007), "Aren't We All Just Replicants on the Inside?", The New York Sun, archived from the original on September 5, 2008, retrieved July 27, 2011 
+^ The Visual Effects Society Unveils "50 Most Influential Visual Effects Films of All Time" (PDF), Visual Effects Society, archived from the original (PDF) on June 4, 2012, retrieved July 27, 2011 
+^ Kissell, Gerry, Crazy: Blade Runner Parody, Blade Zone: The Online Blade Runner Fan Club, archived from the original on April 28, 2014, retrieved July 27, 2011 
+^ Gallacci, Steven A, "The Grand Comics Database Project", Bad Rubber, Grand Comics Database, archived from the original on April 6, 2014, retrieved July 27, 2011 
+^ Howard, Rob, "'Red Dwarf: Back To Earth' – This Weekend's Essential Viewing – NME Video Blog", NME, archived from the original on October 11, 2012, retrieved July 27, 2011 
+^ Red Dwarf – Back To Earth – Director's Cut DVD 2009: Amazon.co.uk: Craig Charles, Danny John-Jules, Chris Barrie, Robert Llewellyn, Doug Naylor: DVD, amazon.co.uk, archived from the original on June 14, 2009, retrieved July 27, 2011 
+^ Jha, Alok; Rogers, Simon; Rutherford, Adam (August 26, 2004), "'I've seen things...': Our expert panel votes for the top 10 sci-fi films", The Guardian, UK, archived from the original on May 13, 2007, retrieved July 27, 2011 
+^ "Blade Runner tops scientist poll", BBC News, August 26, 2004, archived from the original on May 13, 2014, retrieved September 22, 2012 
+^ Omura, Jim (September 16, 2004), "Ghost in the Shell 2: Innocence", FPS Magazine, archived from the original on October 29, 2013, retrieved July 27, 2011 
+^ Rose, Steve (October 19, 2009), "Hollywood is haunted by Ghost in the Shell", The Guardian, London, archived from the original on March 8, 2013, retrieved July 27, 2011 
+^ Coplan, Amy; Davies, David (2015). Blade Runner. Routledge. ISBN 9781136231445. Retrieved July 13, 2017. 
+^ Booker, M. Keith (2006). Alternate Americas: Science Fiction Film and American Culture. Greenwood Publishing Group. ISBN 9780275983956. Retrieved July 13, 2017. 
+^ Milner, Andrew (2005). Literature, Culture and Society. Psychology Press. ISBN 9780415307857. Retrieved July 13, 2017. 
+^ Brown, Steven T. (2016). Tokyo Cyberpunk: Posthumanism in Japanese Visual Culture. Springer. ISBN 9780230110069. Retrieved July 13, 2017. 
+^ Evans, Josh (September 18, 2011). "What Is Biopunk?". ScienceFiction.com. Retrieved June 20, 2015. 
+^ Wohlsen, Marcus (2011). Biopunk: Solving Biotech's Biggest Problems in Kitchens and Garages. Current Hardcover. ISBN 1617230022. 
+^ Cigéhn, Peter (September 1, 2004), The Top 1319 Sample Sources (version 60), sloth.org, archived from the original on October 27, 2013, retrieved July 27, 2011 
+^ Deus Ex Machina – I, Human Review, The Metal Crypt, February 22, 2010, archived from the original on April 7, 2014, retrieved July 27, 2011 
+^ "Gaming Gurus, Issue 14.04", Wired Magazine, April 1, 2006, archived from the original on September 3, 2013, retrieved August 28, 2009 
+^ a b Atkins, Barry "Replicating the Blade Runner" in Brooker, pp. 79–91
+^ a b Tosca, Susana P. "Implanted Memories, or the Illusion of Free Action" in Brooker pp. 92–107
+^ Webster, Andrew (October 17, 2012), Cyberpunk meets interactive fiction: the art of 'Cypher', The Verge, archived from the original on February 1, 2014, retrieved February 27, 2013 
+^ Rise of the Dragon, archived from the original on February 2, 2014, retrieved November 10, 2010 
+^ a b c d Tracing Replicants: We examine Blade Runner's influence on games, 1Up.com, archived from the original on July 18, 2012, retrieved November 11, 2010 
+^ Blade Runner and Snatcher, archived from the original on July 25, 2013, retrieved November 10, 2010 
+^ "The Top 10 Best Game Detectives". NowGamer. Archived from the original on March 16, 2012. 
+^ Beneath a Steel Sky, archived from the original on October 19, 2013, retrieved November 10, 2010 
+^ Lambie, Ryan, Bubblegum Crisis 3D live-action movie on the way, Den of Geek, archived from the original on January 4, 2012, retrieved November 10, 2010 
+^ 3D Live Action Bubblegum Crisis Movie Gets A Director And A Start Date, archived from the original on April 7, 2014, retrieved November 10, 2010 
+^ Retrospective: Perfect Dark, archived from the original on February 21, 2011, retrieved November 10, 2010 
+^ Syndicate Wars: Review by Chuck Schrank for Gamezilla PC Games, archived from the original on September 8, 2013, retrieved November 10, 2010 
+^ Syndicate, archived from the original on January 1, 2014, retrieved November 10, 2010 
+^ Sammon, p. 104
+^ Hoberman, J. (2001), 100 Best Films of the 20th Century, Village Voice Critics' Poll, archived from the original on March 31, 2014, retrieved July 27, 2011 
+^ Online Film Critics Society: OFCS Top 100: Top 100 Sci-Fi Films, Awesome Inc, June 12, 2002, archived from the original on March 13, 2012, retrieved July 27, 2011 
+^ Sight & Sound Top Ten Poll 2002, Sight & Sound, 2002, archived from the original on May 15, 2012, retrieved July 27, 2011 
+^ Schröder, Nicolaus (2002), 50 Klassiker, Film (in German), Gerstenberg, ISBN 978-3-8067-2509-4 
+^ 1001 Series, 1001beforeyoudie.com, July 22, 2002, archived from the original on January 10, 2014, retrieved July 27, 2011 
+^ "Top 50 Cult Movies", Entertainment Weekly, May 23, 2003, archived from the original on March 31, 2014, retrieved July 27, 2011 
+^ "Top 10 sci-fi films, Science", The Guardian, UK, archived from the original on July 25, 2013, retrieved July 27, 2011 
+^ Jha, Alok (August 26, 2004), "Scientists vote Blade Runner best sci-fi film of all time, Film", The Guardian, UK, archived from the original on March 8, 2013, retrieved July 27, 2011 
+^ "How we did it, Science", The Guardian, UK, August 26, 2004, archived from the original on July 26, 2013, retrieved July 27, 2011 
+^ Total Film (October 24, 2005), "Film news Who is the greatest?", Total Film, Future Publishing, archived from the original on January 23, 2014, retrieved July 27, 2011 
+^ "The Complete List – ALL-TIME 100 Movies", TIME, May 23, 2005, archived from the original on August 22, 2011, retrieved July 27, 2011 
+^ "ALL-TIME 100 Movies", TIME, February 12, 2005, archived from the original on August 31, 2011, retrieved July 27, 2011 
+^ Corliss, Richard (February 12, 2005), "All-Time 100 movies: Blade Runner (1982)", TIME, archived from the original on March 8, 2011, retrieved July 27, 2011 
+^ George, Alison (November 12, 2008), "Sci-fi special: Your all-time favourite science fiction", New Scientist, Reed Business Information Ltd, archived from the original on April 6, 2014, retrieved July 27, 2011 
+^ George, Alison (October 1, 2008), "New Scientist's favourite sci-fi film", New Scientist, Reed Business Information Ltd, archived from the original on April 6, 2014, retrieved July 27, 2011 
+^ "Empire Features", Empire, archived from the original on October 14, 2013, retrieved July 26, 2011 
+^ Pirrello, Phil; Collura, Scott; Schedeen, Jesse, Top 25 Sci-Fi Movies of All Time, IGN Entertainment Inc, retrieved July 27, 2011 
+^ Total Film, "Film features: 100 Greatest Movies Of All Time", Total Film, Future Publishing, archived from the original on December 22, 2013, retrieved July 27, 2011 
+^ Sight & Sound 2012 critics top 250 films, Sight & Sound, 2012, archived from the original on October 26, 2013, retrieved September 20, 2012 
+^ Sight & Sound 2012 directors top 100 films, Sight & Sound, 2012, archived from the original on April 18, 2014, retrieved September 20, 2012 
+^ "The 301 Greatest Movies Of All Time", Empire, archived from the original on July 12, 2014, retrieved May 29, 2014 
+^ Encyclopedia Blade Runner, BRmovie.com, archived from the original on March 16, 2008, retrieved January 22, 2008 
+^ Shone, Tom (2004), Blockbuster, Simon & Schuster, ISBN 978-0-7432-3990-5 
+^ Future Noir: Lost Chapters, 2019:Lost Worlds, archived from the original on June 24, 2001, retrieved February 5, 2008 
+^ Dick, Philip K. (2007), Blade runner: (Do androids dream of electric sheep), Del Rey Books, p. 216, ISBN 978-0-345-35047-3, retrieved July 27, 2011 
+^ Marshall, Colin (September 14, 2015). "Hear Blade Runner, Terminator, Videodrome & Other 70s, 80s & 90s Movies as Novelized AudioBooks". Open Culture. Archived from the original on December 24, 2016. 
+^ Marvel Super Special #22 at the Grand Comics Database Archived April 6, 2014, at the Wayback Machine.
+^ a b Blade Runner, BRMovie, archived from the original on July 14, 2008, retrieved August 10, 2010 
+^ Bates, Jason (September 9, 1997), "Westwood's Blade Runner", PC Gamer, Blade Zone, 4 (9), archived from the original on November 27, 2012, retrieved July 27, 2011 
+^ Robb, Brian J. (2006), Counterfeit Worlds: Philip K. Dick on Film, Titan Books, pp. 200–225, ISBN 978-1-84023-968-3 
+^ Platt, John (March 1, 1999), "A Total Recall spin-off that's an awful lot like Blade Runner", Science Fiction Weekly: Issue 98 Vol.5 No.9, archived from the original on January 15, 2008, retrieved July 27, 2011 
+^ Future Shocks, TVO.ORG, archived from the original on December 24, 2014, retrieved July 27, 2011 
+^ Fischer, Russ (February 8, 2007), "Interview: Charles de Lauzirika (Blade Runner)", CHUD.com, archived from the original on February 2, 2014, retrieved July 27, 2011 
+^ Weitz, Scott (December 16, 2007), Blade Runner – The Final Cut: 2-Disc Special Edition DVD Review, FilmEdge.net, archived from the original on May 17, 2013, retrieved July 27, 2011 
+^ Gray, Christy "Originals and Copies: The Fans of Philip K. Dick, Blade Runner and K. W. Jeter" in Brooker, pp. 142–156
+^ Cinescape, September/October 1998 issue
+^ D'Alessandro, Anthony (August 31, 2017). "'Blade Runner 2049' Prequel Short Connects Events To Original 1982 Film – Watch". Deadline. Retrieved October 3, 2017. 
+^ Anders, Charlie Jane (March 4, 2011), "Blade Runner Sequel (or Prequel) in Development Now", io9, retrieved July 27, 2011 
+^ Orange, B. Alan (March 4, 2011), Christopher Nolan Wanted for Blade Runner Sequel or Prequel, MovieWeb.com, archived from the original on November 4, 2013, retrieved May 15, 2011 
+^ Fleming, Mike (August 18, 2011), Ridley Scott To Direct New 'Blade Runner' Installment For Alcon Entertainment, deadline.com, archived from the original on April 18, 2014, retrieved August 19, 2011 
+^ Ridley Scott to direct new Blade Runner film, BBC, August 19, 2011, archived from the original on April 20, 2014, retrieved August 19, 2011 
+^ Chai, Barbara (November 4, 2011), Ridley Scott Says He'll Direct 'Blade Runner' Sequel, Speakeasy, archived from the original on July 10, 2012, retrieved November 6, 2011 
+^ Jacob Kastrenakes (November 25, 2014), "Ridley Scott won't direct 'Blade Runner' sequel", The Verge, Vox Media, Inc, archived from the original on November 26, 2014, retrieved November 26, 2014 
+^ a b Egner, Jeremy (September 8, 2017). "'Blade Runner 2049': Harrison Ford, Ryan Gosling and the Creators Discuss the Sci-Fi Sequel and Rehash Old Arguments". The New York Times. Retrieved September 9, 2017. 
+^ Joseph, Matt (February 26, 2015), Blade Runner Sequel Confirmed, Harrison Ford To Return, archived from the original on February 27, 2015, retrieved February 27, 2015 
+^ "Blade Runner 2 News: Harrison Ford, Ryan Gosling all set for filming in summer 2016; Director to work with Roger Deakins". Venture Capital Post. Archived from the original on August 11, 2015. 
+^ Goldberg, Matt (November 16, 2015), "Ryan Gosling Confirms He's in 'Blade Runner 2'; Talks Shane Black's 'The Nice Guys'", Collider, retrieved November 16, 2015 
+^ Nudd, Tim. "Ryan Gosling Set to Join Harrison Ford in Blade Runner Sequel". People. Archived from the original on August 23, 2015. 
+^ Foutch, Haleigh (January 25, 2016). "'Blade Runner 2' Officially Starts Filming This July". Collider.com. Retrieved October 6, 2016. 
+^ Lincoln, Ross A. (April 19, 2016). "Blade Runner Sequel Moved Ahead To October 2017". Deadline. Archived from the original on April 21, 2016. 
+
+
+
+Bibliography
+
+Brooker, Will, ed. (2005), The Blade Runner Experience, London: Wallflower, ISBN 978-1-904764-30-4 
+Bukatman, Scott (1997), BFI Modern Classics: Blade Runner, London: BFI (British Film Institute), ISBN 978-0-85170-623-8 
+Macarthur, David (2017), ""A Vision of Blindness": Bladerunner and Moral Redemption", Film Philosophy, Edinburgh University Press, 21 (3) 
+Sammon, Paul M. (1996), Future Noir: the Making of Blade Runner, London: Orion Media, ISBN 978-0-06-105314-6 
+
+External links
+
+
+
+Wikiquote has quotations related to: Blade Runner
+
+
+
+
+
+Wikimedia Commons has media related to Blade Runner.
+
+
+
+Official website
+Blade Runner on IMDb 
+Blade Runner at the TCM Movie Database
+Blade Runner at Box Office Mojo
+Blade Runner at Rotten Tomatoes
+Blade Runner at Metacritic
+Blade Runner at DMOZ
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Blade Runner
+
+
+
+
+Adaptation of a work by Philip K. Dick
+
+
+
+Novels
+
+
+
+Do Androids Dream of Electric Sheep?
+The Edge of Human
+Replicant Night
+Eye and Talon
+
+
+
+
+
+Feature films
+
+
+
+Blade Runner
+
+themes
+versions
+soundtrack
+tears in rain monologue
+
+
+Blade Runner 2049
+
+soundtrack
+
+
+
+
+
+
+
+Short films
+
+
+
+2036: Nexus Dawn
+2048: Nowhere to Run
+Blade Runner Black Out 2022
+
+
+
+
+
+Video games
+
+
+
+Blade Runner (1985)
+Blade Runner (1997)
+
+
+
+
+
+Comics
+
+
+
+A Marvel Comics Super Special: Blade Runner
+Do Androids Dream of Electric Sheep? (comic book)
+Dust To Dust
+
+
+
+
+
+Characters
+
+
+
+Rick Deckard
+Replicants
+
+
+
+
+
+
+
+
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Films directed by Ridley Scott
+
+
+
+Feature films
+
+
+
+The Duellists (1977)
+Alien (1979)
+Blade Runner (1982)
+Legend (1985)
+Someone to Watch Over Me (1987)
+Black Rain (1989)
+Thelma & Louise (1991)
+1492: Conquest of Paradise (1992)
+White Squall (1996)
+G.I. Jane (1997)
+Gladiator (2000)
+Hannibal (2001)
+Black Hawk Down (2001)
+Matchstick Men (2003)
+Kingdom of Heaven (2005)
+A Good Year (2006)
+American Gangster (2007)
+Body of Lies (2008)
+Robin Hood (2010)
+Prometheus (2012)
+The Counselor (2013)
+Exodus: Gods and Kings (2014)
+The Martian (2015)
+Alien: Covenant (2017)
+All the Money in the World (2017)
+
+
+
+
+
+Other work
+
+
+
+Boy and Bicycle (1965; short film)
+1984 (1984; advertisement)
+Unrealized projects
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Films written by David Peoples
+
+
+
+
+
+
+The Day After Trinity (with Janet Peoples) (1980)
+Blade Runner (with Hampton Fancher) (1982)
+Ladyhawke (with Tom Mankiewicz, Michael Thomas and Edward Khmara) (1985)
+Leviathan (with Jeb Stuart) (1989)
+The Blood of Heroes (1989)
+Fatal Sky (as Anthony Able) (1990)
+Unforgiven (1992)
+Hero (1992)
+12 Monkeys (with Janet Peoples) (1995)
+Soldier (1998)
+Unforgiven (2013)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Works by Philip K. Dick
+
+
+
+Novels
+
+
+
+Gather Yourselves Together (1950)
+Voices from the Street (1952)
+Solar Lottery (1954)
+Mary and the Giant (1954)
+The World Jones Made (1954)
+Eye in the Sky (1955)
+The Man Who Japed (1955)
+A Time for George Stavros (1956)
+Pilgrim on the Hill (1956)
+The Broken Bubble (1956)
+The Cosmic Puppets (1957)
+Puttering About in a Small Land (1957)
+Nicholas and the Higs (1958)
+Time Out of Joint (1958)
+In Milton Lumky Territory (1958)
+Confessions of a Crap Artist (1959)
+The Man Whose Teeth Were All Exactly Alike (1960)
+Humpty Dumpty in Oakland (1960)
+Vulcan's Hammer (1960)
+Dr. Futurity (1960)
+The Man in the High Castle (1961)
+We Can Build You (1962)
+Martian Time-Slip (1962)
+Dr. Bloodmoney, or How We Got Along After the Bomb (1963)
+The Game-Players of Titan (1963)
+The Simulacra (1963)
+The Crack in Space (1963)
+Clans of the Alphane Moon (1964)
+The Three Stigmata of Palmer Eldritch (1964)
+The Zap Gun (1964)
+The Penultimate Truth (1964)
+The Unteleported Man (1964)
+The Ganymede Takeover (1965)
+Counter-Clock World (1965)
+Do Androids Dream of Electric Sheep? (1966)
+Nick and the Glimmung (1966)
+Now Wait for Last Year (1966)
+Ubik (1966)
+Galactic Pot-Healer (1968)
+A Maze of Death (1968)
+Our Friends from Frolix 8 (1969)
+Flow My Tears, the Policeman Said (1974)
+Deus Irae (1976)
+Radio Free Albemuth (1976; published 1985)
+A Scanner Darkly (1977)
+VALIS (1981)
+The Divine Invasion (1981)
+The Transmigration of Timothy Archer (1982)
+The Owl in Daylight (unfinished)
+
+
+
+
+
+Collections
+
+
+
+A Handful of Darkness (1955)
+The Variable Man (1956)
+The Preserving Machine (1969)
+The Book of Philip K. Dick (1973)
+The Best of Philip K. Dick (1977)
+The Golden Man (1980)
+Robots, Androids, and Mechanical Oddities (1984)
+I Hope I Shall Arrive Soon (1985)
+The Collected Stories of Philip K. Dick (1987)
+Beyond Lies the Wub (1988)
+The Dark Haired Girl (1989)
+The Father-Thing (1989)
+Second Variety (1989)
+The Days of Perky Pat (1990)
+The Little Black Box (1990)
+The Short Happy Life of the Brown Oxford (1990)
+We Can Remember It for You Wholesale (1990)
+The Minority Report (1991)
+Second Variety (1991)
+The Eye of the Sibyl (1992)
+The Philip K. Dick Reader (1997)
+Minority Report (2002)
+Selected Stories of Philip K. Dick (2002)
+Paycheck (2004)
+Vintage PKD (2006)
+
+
+
+
+
+Short stories
+
+
+
+"Beyond Lies the Wub" (1952)
+"The Gun" (1952)
+"The Skull" (1952)
+"The Little Movement" (1952)
+"The Defenders" (1953)
+"Mr. Spaceship" (1953)
+"Piper in the Woods" (1953)
+"Roog" (1953)
+"The Infinites" (1953)
+"Second Variety" (1953)
+"Colony" (1953)
+"The Cookie Lady" (1953)
+"Impostor" (1953)
+"Paycheck" (1953)
+"The Preserving Machine" (1953)
+"Expendable" (1953)
+"The Indefatigable Frog" (1953)
+"The Commuter" (1953)
+"Out in the Garden" (1953)
+"The Great C" (1953)
+"The King of the Elves" (1953)
+"The Trouble with Bubbles" (1953)
+"The Variable Man" (1953)
+"Planet for Transients" (1953)
+"The Builder" (1953)
+"Tony and the Beetles" (1953)
+"Prize Ship" (1954)
+"Beyond the Door" (1954)
+"The Crystal Crypt" (1954)
+"The Short Happy Life of the Brown Oxford" (1954)
+"The Golden Man" (1954)
+"Sales Pitch" (1954)
+"Breakfast at Twilight" (1954)
+"The Crawlers" (1954)
+"Exhibit Piece" (1954)
+"Adjustment Team" (1954)
+"Shell Game" (1954)
+"Meddler" (1954)
+"A World of Talent" (1954)
+"The Last of the Masters" (1954)
+"Upon the Dull Earth" (1954)
+"The Father-thing" (1954)
+"Strange Eden" (1954)
+"The Turning Wheel" (1954)
+"Foster, You're Dead!" (1955)
+"Human Is" (1955)
+"War Veteran" (1955)
+"Captive Market" (1955)
+"Nanny" (1955)
+"The Chromium Fence" (1955)
+"Service Call" (1955)
+"The Mold of Yancy" (1955)
+"Autofac" (1955)
+"Psi-man Heal My Child!" (1955)
+"The Minority Report" (1956)
+"Pay for the Printer" (1956)
+"A Glass of Darkness" (1956)
+"The Unreconstructed M" (1957)
+"Null-O" (1958)
+"Explorers We" (1959)
+"Recall Mechanism" (1959)
+"Fair Game" (1959)
+"War Game" (1959)
+"All We Marsmen" (1963)
+"What'll We Do with Ragland Park?" (1963)
+"The Days of Perky Pat" (1963)
+"If There Were No Benny Cemoli" (1963)
+"Waterspider" (1964)
+"Novelty Act" (1964)
+"Oh, to Be a Blobel!" (1964)
+"The War with the Fnools" (1964)
+"What the Dead Men Say" (1964)
+"Orpheus with Clay Feet" (1964)
+"Cantata 140" (1964)
+"The Unteleported Man" (1964)
+"Retreat Syndrome" (1965)
+"Project Plowshare" (1965)
+"We Can Remember It for You Wholesale" (1966)
+"Faith of Our Fathers" (1967)
+"Not by Its Cover" (1968)
+"The Electric Ant" (1969)
+"A. Lincoln, Simulacrum" (1969)
+"The Pre-persons" (1974)
+"A Little Something for Us Tempunauts" (1974)
+"The Exit Door Leads In" (1979)
+"Rautavaara's Case" (1980)
+"I Hope I Shall Arrive Soon" (1980)
+"The Eye of the Sibyl" (1987)
+"Stability" (1987)
+
+
+
+
+
+Adaptations
+
+
+
+
+Films
+
+
+
+Blade Runner (1982)
+Total Recall (1990)
+Confessions d'un Barjo (1992)
+Screamers (1995)
+Impostor (2002)
+Minority Report (2002)
+Paycheck (2003)
+A Scanner Darkly (2006)
+Next (2007)
+Screamers: The Hunting (2009)
+Radio Free Albemuth (2010)
+The Adjustment Bureau (2011)
+Total Recall (2012)
+2036: Nexus Dawn (2017)
+2048: Nowhere to Run (2017)
+Blade Runner Black Out 2022 (2017)
+Blade Runner 2049 (2017)
+
+
+
+
+
+TV series
+
+
+
+Total Recall 2070 (1999)
+The Man in the High Castle (2015–present)
+Minority Report (2015)
+Philip K. Dick's Electric Dreams (2017)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Hugo Award for Best Dramatic Presentation
+
+
+
+
+
+
+The Incredible Shrinking Man (1958)
+no award (1959)
+The Twilight Zone (1960)
+The Twilight Zone (1961)
+The Twilight Zone (1962)
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1965)
+"The Menagerie" (Star Trek) (1967)
+"The City on the Edge of Forever" (Star Trek) (1968)
+2001: A Space Odyssey (1969)
+News coverage of Apollo 11 (1970)
+A Clockwork Orange (1972)
+Slaughterhouse-Five (1973)
+Sleeper (1974)
+Young Frankenstein (1975)
+A Boy and His Dog (1976)
+Star Wars (1978)
+Superman (1979)
+Alien (1980)
+The Empire Strikes Back (1981)
+Raiders of the Lost Ark (1982)
+Blade Runner (1983)
+Return of the Jedi (1984)
+2010 (1985)
+Back to the Future (1986)
+Aliens (1987)
+The Princess Bride (1988)
+Who Framed Roger Rabbit (1989)
+Indiana Jones and the Last Crusade (1990)
+Edward Scissorhands (1991)
+Terminator 2: Judgment Day (1992)
+"The Inner Light" (Star Trek: The Next Generation) (1993)
+Jurassic Park (1994)
+"All Good Things..." (Star Trek: The Next Generation) (1995)
+"The Coming of Shadows" (Babylon 5) (1996)
+"Severed Dreams" (Babylon 5) (1997)
+Contact (1998)
+The Truman Show (1999)
+Galaxy Quest (2000)
+Crouching Tiger, Hidden Dragon (2001)
+The Lord of the Rings: The Fellowship of the Ring (2002)
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 223740890
+LCCN: n91079105
+GND: 4375475-2
+SUDOC: 096301678
+BNF: cb125682679 (data)
+BIBSYS: 98065801
+BNE: XX3638900
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Blade_Runner&oldid=812203709"					
+Categories: 1982 filmsEnglish-language filmsBlade RunnerAmerican films1980s science fiction filmsAmerican science fiction filmsNeo-noirAndroid (robot) filmsBiopunk filmsCyberpunk filmsDetective filmsDystopian filmsPostmodern filmsWarner Bros. filmsThe Ladd Company filmsShaw Brothers Studio filmsFilms directed by Ridley ScottFilms based on works by Philip K. DickScreenplays by David PeoplesFilm scores by VangelisUnited States National Film Registry filmsHugo Award for Best Dramatic Presentation winning worksBAFTA winners (films)Biorobotics in fictionClimate change filmsFlying cars in fictionGenetic engineering in fictionFilms about altered memoriesFilms set in 2019Films set in the futureFilms set in Los AngelesFilms shot in EnglandFilms shot in Los AngelesFilms adapted into comicsHidden categories: Webarchive template wayback linksCS1 German-language sources (de)Wikipedia semi-protected pagesUse mdy dates from October 2017Articles with DMOZ linksWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiersWikipedia articles with BIBSYS identifiersFeatured articles 

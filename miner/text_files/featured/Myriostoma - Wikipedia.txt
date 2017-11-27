@@ -1,0 +1,244 @@
+Myriostoma - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Myriostoma
+
+
+
+
+
+Scientific classification
+
+
+Kingdom:
+Fungi
+
+
+Division:
+Basidiomycota
+
+
+Class:
+Agaricomycetes
+
+
+Order:
+Geastrales
+
+
+Family:
+Geastraceae
+
+
+Genus:
+Myriostoma
+Desv. (1809)
+
+
+Type species
+
+
+Myriostoma coliforme
+(Dicks.) Corda (1842)
+
+
+Synonyms[1]
+
+
+
+Species
+
+Lycoperdon coliforme Dicks. (1785)
+Geastrum coliforme (Dicks.) Pers. (1801)
+Myriostoma anglicum Desv. (1809)
+Polystoma coliforme (Dicks.) Gray (1821)
+Myriostoma coliforme (Dicks.) Corda (1842)
+Geastrum columnatum Lév. (1846)
+Bovistoides simplex Lloyd (1919)
+
+Genera
+
+Bovistoides Lloyd (1919)
+Polystoma Gray (1821)
+
+
+
+
+Myriostoma is a fungal genus in the family Geastraceae. The genus is monotypic, containing the single species Myriostoma coliforme. It is an earthstar, so named because the spore-bearing sac's outer wall splits open into the shape of a star. The inedible fungus has a cosmopolitan distribution, and has been found in Africa, Asia, North and South America, and Europe, where it grows in humus-rich forests or in woodlands, especially on well-drained and sandy soils. A somewhat rare fungus, it appears on the Red Lists of 12 European countries, and in 2004 it was one of 33 species proposed for protection under the Bern Convention by the European Council for Conservation of Fungi.
+The fruit body, initially shaped like a puffball, is encased within an outer covering that splits open from the top to form rays. These rays curve down to expose an inner papery spore case, which contains the fertile spore-bearing tissue, the gleba. The fungus is unique among the earthstars in having a spore case that is supported by multiple stalks, and is perforated by several small holes suggestive of its common names salt-shaker earthstar and pepperpot. It is the largest of the earthstar fungi, and reaches diameters of up to 12 cm (4.7 in). Its spherical spores have elongated warts that create a ridge-like pattern on their surface. The spores are dispersed when falling water hits the outer wall of the spore sac, creating puffs of air that force the spores through the holes.
+
+
+
+Contents
+
+
+1 Taxonomy and phylogeny
+2 Description
+
+2.1 Similar species
+
+
+3 Habitat and distribution
+4 Notes
+5 References
+
+5.1 Cited texts
+
+
+6 External links
+
+
+
+Taxonomy and phylogeny[edit]
+The species was first mentioned in the scientific literature by Samuel Doody in the second edition of John Ray's Synopsis methodica stirpium Britannicarum in 1696.[2] Doody briefly described the mushroom like so: "fungus pulverulentus, coli instar perforatus, cum volva stellata" (a powdery mushroom, perforated like a colander, with a star-shaped volva), and went on to explain that he found it in 1695 in Kent.[3]
+
+
+
+
+Illustration from James Sowerby's Coloured Figures of English Fungi or Mushrooms (1803)
+
+
+It was first described scientifically as a new species in 1776 from collections made in England by James Dickson, who named it Lycoperdon coliforme. He found it growing in roadside banks and hedgerows among nettles in Suffolk and Norfolk.[4] Nicaise Auguste Desvaux first defined and published the new genus Myriostoma in 1809, with the species renamed Myriostoma anglicum (an illegitimate renaming).[5] Christian Hendrik Persoon had previously placed the species in Geastrum in 1801,[6] while Samuel Frederick Gray would in 1821 describe the genus Polystoma for it.[7] Myriostoma coliforme received its current and final name when August Carl Joseph Corda moved Dickson's name to Myriostoma in 1842, replacing Desvaux's name.[8]
+In North America the fungus began to be reported in the late 19th century, first from Colorado by Charles Horton Peck, and later from Florida, collected by Lucien Underwood in 1891; both findings were reported by Andrew Price Morgan in April 1892.[9] In 1897, Melville Thurston Cook also reported having collected it the year before from "Albino Beach".[10] Curtis Gates Lloyd described Bovistoides simplex from a South African specimen in 1919,[11] but in 1942, William Henry Long examined that specimen and concluded that it was a weathered spore sac of M. coliforme that had become detached from the outer star-shaped exoperidium.[12] This conclusion was confirmed in a later study of the material.[13]
+Myriostoma had been classified in the family Geastraceae until 1973, when British mycologist Donald Dring placed it in the Astraeaceae[nb 1] based on the presence of trabeculae (stout columns that extend from the peridium to the central core of the fruit body) in the gleba, and the absence of a true hymenium.[15] In his 1989 monograph, Stellan Sunhede returned it to the Geastraceae.[16] Molecular analysis of DNA sequences has confirmed the traditional belief that Myriostoma and Geastrum are closely related.[17][18]
+Czech naturalist and mycologist Václav Jan Staněk proposed a variety capillisporum in 1958,[19] which has been sunk back into synonymy with the species.[1] M. coliforme is the sole species in Myriostoma, making the genus monotypic.[20] Because the original type material has been lost, in 1989 Sunhede suggested that Dickson's illustration in his 1776 publication (tab. III: 4a & b) be used as the lectotype.[16]
+The specific epithet is derived from the Latin words colum, meaning "strainer", and forma, meaning "shape"—Berkeley's vernacular name "Cullenden puff-ball" also refers to a colander.[21][22] Gray called it the "sievelike pill-box".[7] The generic name is from the Greek words μυρίος, meaning "countless" and στόμα, meaning "mouth" (the source of the technical term stoma).[23][24] The species is commonly known as the "salt-and-pepper shaker earthstar"[25] or simply the "pepperpot".[26]
+Description[edit]
+
+
+
+
+Brown spores can be seen on the surface of this fruit body.
+
+
+The fruit bodies start their development underground or buried in leaf debris, linked to a strand of mycelium at the base. As they mature, the exoperidium (the outer tissue layer of the peridium) splits open into 7 to 14 rays which curve backward; this pushes the fruit body above the substrate. Fully opened specimens can reach dimensions of 2–12 cm (0.8–4.7 in) from ray tip to tip. The rays are of unequal size, with tips that often roll back inward. They comprise three distinct layers of tissue. The inner pseudoparenchymatous layer (so named for the resemblance to the tightly packed cells of plant parenchyma) is fleshy and thick when fresh, and initially pale beige but darkening to yellow or brown as it matures, often cracking and peeling off in the process. The exterior mycelial layer, often matted with fine leaf debris or dirt, usually cracks to reveal a middle fibrous layer, which is made of densely packed hyphae 1–2.5 μm wide. The base of the fruit body is concave to vaulted in shape, and often covered with adhering dirt. The roughly spherical spore sac (endoperidium) measures 1–5 cm (0.4–2.0 in) in diameter, and is supported by a cluster of short columns shaped like flattened spheres. It is gray-brown in color, and minutely roughened with small, lightly interconnected warts. There are several to many evenly dispersed mouths, the ostioles, mainly on the upper half of the endoperidium. They are roughly circular with fimbriate edges.[27][28] The inedible fruit bodies have no distinct taste, although dried specimens develop an odor resembling curry powder or bouillon cubes.[29]
+Like many earthstars, the fungus uses the force of falling raindrops to help disperse the spores, which are ejected in little bursts when objects (such as rain) strike the outer wall of the spore sac. The gleba is brown to grayish-brown, with a cotton-like texture that, when compressed, allows the endoperidium to flex quickly and create a puff of air that is forced out through the ostioles. This generates a cloud of spores that can then be carried by the wind.[30] There are columellae (sterile structures that start at the base of the gleba and extend through it), which are usually not evident in the mature gleba, but apparent at the base of the spore sac. The columellae are not connected to the ostioles, but rather, terminate within the gleba at some distance from them. The capillitia (sterile strands within the gleba) are long, slender, free, tapering, unbranched, and 2–5 μm thick, with thickened walls. The spores are spherical, nonamyloid, and are ornamented with irregularly shaped flaring protuberances up to 2 μm high. They measure 3.9–4.8 μm in diameter (without ornamentation), and 5.4–7.0 μm including the ornamentation.[28][nb 2]
+Similar species[edit]
+Myriostoma coliforme is a distinctive species easily characterized by its size—being the largest earthstar fungus—as well as the multiple openings on its spore sack and stalk supporting the sack.[30] Historically, it was thought that the holes might have been a result of insects. This was discussed and rejected by Thomas Jenkinson Woodward in 1797:
+
+It has been doubted whether these mouths might not be accidental, and formed by insects after the expansion of the plant. But this (not to mention their regularity, and that each is furrowed by its border of ciliae) is clearly disproved, from the marks of the projections formed by the mouths being seen on the expanded rays, when freshly opened ... I have likewise found an abortive plant, in which the seed did not ripen; but which had numerous projecting papillae on the head, where the mouths should have been formed.[31]
+
+Habitat and distribution[edit]
+
+
+
+
+Myriostoma is a saprobic species.
+
+
+Myriostoma is saprobic, deriving nutrients from decomposing organic matter. Fruit bodies grow grouped in well-drained or sandy soil, often in the partial shade of trees.[27] The species occurs in deciduous forests and mixed forests, gardens, along hedges and grassy road banks, and grazed grasslands. In the Northern Hemisphere, it tends to grow on well-drained south-facing slopes, while it prefers a similar habitat on north-facing slopes in Australia.[16] In Europe, its major habitat is riparian mixed forests dominated by Salix alba and Populus alba along the great rivers.[26] In Hawaii, it has been collected at elevations above 2,000 m (6,600 ft) where it appears to favor the mamane (Sophora chrysophylla) forest.[32]
+The species is widespread,[nb 3] being known in its natural habitat from all five continents,[47][50][51] but is not found in abundance. Myriostoma coliforme is rare in Europe, where it appears on the Regional Red Lists of 12 countries, and is one of 33 candidate species for listing in Appendix I of the Convention on the Conservation of European Wildlife and Natural Habitats (the "Bern Convention").[26] Although originally described from England, it was considered extinct in mainland Britain until it was found again in Suffolk in 2006 near Ipswich, one of its original localities[30]—it had been last reported in the country in 1880.[53] The fungus is considered extinct in Switzerland.[54] Its most northerly location is southern Sweden,[55] although it is generally rare in northern Europe.[30] It is similarly widespread but rarely encountered in North America, although there may be isolated localities, like New Mexico, where it is more abundant.[56] In Australia, where its range is limited to the central New South Wales coast, it may have been introduced from exotic plant material.[28]
+Notes[edit]
+
+
+^ Neither the family nor the order (Sclerodermatales) that Dring placed it in are recognized anymore: Astraeus is a member of Diplocystaceae and Sclerodermatales is a synonym of Boletales.[14]
+^ Scanning electron microscopy images of the spores can be viewed on page 256 of Suarez and Wright (1999).[13]
+^ European countries and territories in which M. coliforme has been recorded include Bulgaria,[33] the Channel Islands,[29] Czechoslovakia,[34] France,[35] Germany,[36] Italy,[37] the Netherlands,[38] Poland,[39] Portugal, Spain,[40] Turkey,[41] and Ukraine.[42] It has also been found in the Canary Islands,[43] Morocco (in the Mamora forest),[44] and in South Africa.[16] In South America the fungus has been collected in the Galapagos Islands,[45] Argentina,[46] Brazil,[47] and Chile.[48] The North American distribution ranges from Canada to Mexico (Los Ajos-Bavispe National Forest Reserve).[49] In the Middle East, it has been found in Afghanistan,[50] Israel,[51] and Iran. It is also known from Australia (where it may be an introduced species),[28] China,[52] and India.[16]
+
+
+References[edit]
+
+
+^ a b "Myriostoma coliforme (Dicks.) Corda". CAB International. Species Fungorum. Archived from the original on 2012-10-08. Retrieved 2012-05-17. 
+^ Ponce de León P. (1968). "A revision of the family Geastraceae". Fieldiana. 31 (14): 301–49. Archived from the original on 2012-04-05. 
+^ Doody S. (1696). Ray J, ed. Synopsis Methodica Stirpium Britannicarum (in Latin and English) (2nd ed.). London, UK: Impensis Gulielmi & Joannis Innys. p. 340. Archived from the original on 2016-05-18. 
+^ Dickson J. (1785). Fasciculus Plantarum Cryptogamicarum Britanniae (in Latin). 1. London, UK: G. Nicol. p. 24. Archived from the original on 2016-07-23. 
+^ Desvaux NA. (1809). "Observations sur quelques genres à établir dans la famille des champignons" [Comments of a few genera needing creation in the fungus family]. Journal de Botanique, Rédigé par une Société di Botanistes (in French). 2: 88–105. Archived from the original on 2016-05-02. 
+^ Persoon CH. (1801). Synopsis Methodica Fungorum (in Latin). 1. Göttingen, Germany: Dieterich. p. 131. Archived from the original on 2016-05-13. 
+^ a b Gray SF. (1821). A Natural Arrangement of British Plants. 1. London, UK: Baldwin, Craddock, and Joy. p. 586. Archived from the original on 2012-04-05. 
+^ Corda ACJ. (1842). Anleitung zum Studium der Mykologie [Manual for the study of mycology] (in German). Prague, Czech Republic: Friedrich Ehrlich. p. lxxxi. Archived from the original on 2015-06-23. 
+^ Morgan AP. (1892). "Myriostoma coliformes Dicks. in Florida". American Naturalist. 26 (304): 341–3. doi:10.1086/275521. JSTOR 2452432.  
+^ Cook MT. (1897). "Myriostoma Coliforme". Botanical Gazette. 23 (1): 43–4. doi:10.1086/327460. JSTOR 2995721.  
+^ Lloyd CG. (1919). "The genus Bovistoides". Mycological Notes. 6 (61): 883. 
+^ Long WH. (1942). "Studies in the Gasteromycetes: VI". Mycologia. 34 (5): 532–5. doi:10.2307/3754666. JSTOR 3754666. 
+^ a b Suárez VL, Wright JE (1999). "The status of genus Bovistoides (Gasteromycetes)". Mycotaxon. 71: 251–8. 
+^ Kirk et al. (2008), pp. 66, 622.
+^ Dring DM. (1973). "Gasteromycetes". In Ainsworth GC, Sparrow FK, Sussman AS. The Fungi: An Advanced Treatise. IVb. New York, New York: Academic Press. pp. 451–78. 
+^ a b c d e Sunhede S. (1989). Geastraceae (Basidiomycotina): Morphology, Ecology, and Systematics with Special Emphasis on the North European Species. Synopsis Fungorum, 1. Oslo, Norway: Fungiflora. ISBN 978-8290724059. 
+^ Krüger D, Binder M, Fischer M, Kreisel H (2001). "The Lycoperdales. A molecular approach to the systematics of some gasteroid mushrooms". Mycologia. 93 (5): 947–57. doi:10.2307/3761759. JSTOR 3761759. 
+^ Hosaka K, Bates ST, Beever RE, Castellano MA, Colgan III W, Domingues LS, Nouhra ER, Geml J, Giachini AJ, Kenny SR, Simpson NB, Spatafora JW, Trappe JM (2006). "Molecular phylogenetics of the gomphoid-phalloid fungi with an establishment of the new subclass Phallomycetidae and two new orders". Mycologia. 98 (6): 949–59. doi:10.3852/mycologia.98.6.949. JSTOR 20444784. PMID 17486971. 
+^ Pilát A. (1958). Flora ČSR, B1: Gasteromycetes, Houby-Břichatky [Flora of the Czechoslovak Republic, B1: Gasteromycetes, Puffballs] (in Czech). Prague, Czechoslovakia: Nakladatelstvi Československé Akademie Vĕd. pp. 402, 779. 
+^ Kirk et al. (2008), p. 456.
+^ colum, forma. Charlton T. Lewis and Charles Short. A Latin Dictionary on Perseus Project.
+^ Lloyd CG. (1902). "The Geastrae". Bulletin of the Lloyd Library of Botany, Pharmacy and Materia Medica. 5 (2): 7. Archived from the original on 2015-06-23. 
+^ Rea C. (1922). British Basidiomycetae: A Handbook to the Larger British Fungi. Cambridge, UK: University Press. p. 39. Archived from the original on 2015-06-23. 
+^ μυρίος, στόμα. Liddell, Henry George; Scott, Robert; A Greek–English Lexicon at the Perseus Project.
+^ Hemmes DE, Desjardin D (2002). Mushrooms of Hawai'i: An Identification Guide. Berkeley, California: Ten Speed Press. p. 143. ISBN 978-1-58008-339-3. Archived from the original on 2016-05-08. 
+^ a b c Dahlberg A, Croneborg H (2006). The 33 Threatened Fungi in Europe (Nature and Environment). Strasbourg, France: Council of Europe. p. 88. ISBN 978-9-28715-928-1. Archived from the original on 2016-05-09. 
+^ a b Long WH, Stouffer DJ (1948). "Studies in the Gasteromycetes XVI. The Geastraceae of the south-western United States". Mycologia. 40 (5): 547–85;582. doi:10.2307/3755257. JSTOR 3755257. 
+^ a b c d Rees BJ, Taker F, Coveny RG (2005). "Myriostoma coliforme in Australia" (PDF). Australasian Mycologist. 24 (2): 25–8. [permanent dead link]
+^ a b Jordan M. (2004). The Encyclopedia of Fungi of Britain and Europe. London, UK: Frances Lincoln. p. 362. ISBN 978-0-7112-2378-3. Archived from the original on 2016-04-30. 
+^ a b c d Spooner B, Döring H, Aguirre-Hudson B. "Plants & Fungi: Myriostoma coliforme (pepperpot earthstar)". Species profile from Kew. Kew Botanical Gardens. Archived from the original on 2010-09-07. Retrieved 2010-09-29. 
+^ Woodward TJ. (1794). "As essay towards an History of the British stellated Lycoperdons: being an account of such species as have been found in the neighbourhood of Bungay, in Suffolk". Transactions of the Linnean Society of London. 2: 32–68. doi:10.1111/j.1096-3642.1794.tb00241.x. 
+^ Smith CW, Ponce de Leon P (1982). "Hawaiian Geastroid Fungi". Mycologia. 74 (5): 712–7. doi:10.2307/3792856. JSTOR 3792856. 
+^ Alexov R, Vassilev D, Nedelev P, Traikov I (2012). "New records of seven rare and noteworthy Basidiomycetes from Bulgaria" (PDF). Trakia Journal of Sciences. 10 (2): 10–6. Archived (PDF) from the original on 2015-06-23. 
+^ Kotlaba F. (1971). "Nová lokalita vzácné břichatky mnohokrčky dírkované-Myriostoma coliforme (With. ex Pers.) Corda-v Československu" [A new locality for the rare gasteromycete Myriostoma coliforme in Czechoslovakia] (PDF abstract). Česká Mykologie (in Czech). 25 (3): 161–4. Archived (PDF) from the original on 2007-06-29. 
+^ Guinberteau J. (2005). "Découverte d'une nouvelle station en Gironde d'un champignon très rare en Aquitaine: Myriostoma coliforme (With.:Pers.) Corda". Miscellanea Mycologia (in French). 84: 6–12. ISSN 0777-7213. 
+^ Benkert D. (2003). "Berlin und die Mark Brandenburg – ein Paradies für Erdsterne (Geastrales)" [Berlin and the Mark Brandenburg: a paradise for earthstars (Geastrales)]. Verhandlungen des Botanischen Vereins von Berlin und Brandenburg (in German). 136: 231–68. ISSN 0724-3111. 
+^ Monti G, Tommasi S, Maccioni S (2001). "Macromiceti rari o nuovi nella Tenuta di San Rossore (pisa): descrizione e osservazioni critiche" [Rare or new macromycetes in San Rossore (Pisa): Description and critical notes]. Micologia Italiana (in Italian). 30 (1): 19–34. ISSN 0390-0460. 
+^ Remijn H. (2007). "Sterrenparadijs: Hier aan de kust, de Zeeuwse kust" [A paradise for earthstars] (PDF). Coolia (in Dutch). 50 (4): 177–80. Archived (PDF) from the original on 2011-07-24. 
+^ Pawłowski B, Adamska E (2008). "Nowe, najliczniejsze w Polsce stanowisko gwiazdy wieloporowatej Myriostoma coliforme (Dicks.) Corda w Toruniu" [A new locality of Myriostoma coliforme (Dicks.) Corda in Toruń with the most abundant occurrence of this species in Poland] (pdf (English abstract)). Chrońmy Przyrodę Ojczysta (in Polish). 64 (2): 70–6. ISSN 0009-6172. 
+^ Hernández-Crespo JC. (14 February 2007). "Distribution map: Myriostoma coliforme (With.:Pers.) Corda". S I M I L. An on line Information System of the Iberian Fungal Diversity. Royal Botanic Garden Madrid, C.S.I.C. Research Project Flora Micológica Ibérica I-VI (1990–2008). Spanish Ministry of Education and Science. Archived from the original on 23 June 2015. Retrieved 2012-05-02. 
+^ Asan A, Sesli E, Gücin F, Stojchev G (2002). "Myriostoma coliforme and Phylloporia ribis (Basidiomycetes): First reports from European Turkey". Botanika Chronika. 15: 45–9. ISSN 0253-6064. 
+^ Minter DW, Hayova VP, Minter TJ, Tykhonenko YY (eds.). "Ukrainian fungi recorded more recently than the end of 1990". Lists of Potentially Rare, Endangered or Under-Recorded Fungi in Ukraine. Cyberliber. Archived from the original on 2016-03-04. 
+^ Beltrán Tejera E, Bañares Baudet A, Rodríguez-Armas JL (1998). "Gasteromycetes on the Canary Islands. Some noteworthy new records". Mycotaxon. 67: 439–53. 
+^ Outcoumit A, Touhami AO, Douira A (2009). "Myriostoma coliforme, nouvelle espèce pour la forêt de la Mamora (nord-ouest du Maroc)" [Myriostoma coliforme, a new species for the Mamora forest (northwestern Morocco)]. Bulletin Mycologique et Botanique Dauphiné-Savoie (in French). 49 (192): 41–6. ISSN 1771-754X. 
+^ Reid DA, Pegler DN, Spooner BM (1980). "An annotated list of the fungi of the Galapagos Islands". Kew Bulletin. 35 (4): 847–92. doi:10.2307/4110185. JSTOR 4110185. 
+^ Spegazzini C. (1908). "Mycetes argentinenses (Serie IV)" [Argentinian mushrooms (5th Series)]. Anales del Museo Nacional de Buenos Aires, series 3 (in Spanish). 9: 25–34. Archived from the original on 2012-04-05. 
+^ a b Baseia IG. (2002). "Some interesting gasteromycetes (Basidiomycota) in dry areas from northeastern Brazil". Acta Botanica Brasilica. 16 (1): 01. doi:10.1590/S0102-33062002000100002.  
+^ Lazo W. (1982). "Fungi from Chile I. Some Gasteromycetes and Agaricales". Mycologia. 64 (4): 786–98. doi:10.2307/3757933. JSTOR 3757933. 
+^ Esqueda M. (2009). "Primeros registros de hongos gasteroides en la Reserva Forestal Nacional y Refugio de Fauna Silvestre Ajos-Bavispe, Sonora, México" [First records of gasteroid fungi from the Ajos-Bavispe National Forest Reserve and Wildlife Refuge, Sonora, Mexico]. Revista Mexicana de Micologia (in Spanish). 30: 19–29. Archived from the original on 2015-06-23. 
+^ a b Lange M. (1953). "Some Gasteromycetes from Afghanistan". Svensk Botanisk Tidskrift. 50: 79–80. 
+^ a b Binyamini N. (1984). "New records of Geastraceae from Israel". Mycologia Helvetica. 1 (3): 169–76. ISSN 0256-310X. 
+^ Zhou TX, Yan YH (2002). 地星科的中国新记录属种 [New records of Geastraceae in China]. Mycosystema (in Chinese). 21 (4): 485–92. Archived from the original on 2015-06-23.  
+^ Laessøe T, Pegler DN, Spooner B (1995). British Puffballs, Earthstars and Stinkhorns: An Account of the British Gasteroid Fungi. Kew, UK: Royal Botanic Gardens. p. 112. ISBN 978-0-947643-81-2. 
+^ The European Council for Conservation of Fungi (2001). Datasheets of threatened mushrooms of Europe, candidates for listing in Appendix I of the Convention (PDF) (Report). Council of Europe. Archived from the original on 2013-04-08. 
+^ Andersson U-B. (2010). "Jordstjärnor i Sverige 5. Fyrflikig jordstjärna, hög jordstjärna, hårig jordstjärna, sålljordstjärna" [Swedish earthstars 5. Four-footed earthstar, arched earthstar, hairy earthball, salt-shaker earthstar]. Svensk Botanisk Tidskrift (in Swedish). 104 (1): 39–43. 
+^ Arora D. (1986). Mushrooms Demystified: A Comprehensive Guide to the Fleshy Fungi. Berkeley, California: Ten Speed Press. p. 704. ISBN 978-0-89815-169-5. 
+
+
+Cited texts[edit]
+
+Kirk PM, Cannon PF, Minter DW, Stalpers JA (2008). Dictionary of the Fungi (10th ed.). Wallingford, UK: CAB International. ISBN 978-0-85199-826-8. 
+
+External links[edit]
+
+Myriostoma in Index Fungorum
+Lectotype illustration from Tab. III of James Dickson's 1776 Fasciculus plantarum cryptogamicarum Britanniae
+
+
+
+
+Taxon identifiers
+
+
+
+
+Wd: Q1779133
+EoL: 16593
+GBIF: 2554318
+iNaturalist: 179103
+Index Fungorum: 122233
+MycoBank: 122233
+NCBI: 90950
+ARKive: pepper-pot/myriostoma-coliforme
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Myriostoma&oldid=811845510"					
+Categories: Fungi described in 1785Fungi of AfricaFungi of AsiaFungi of EuropeFungi of North AmericaFungi of South AmericaGeastraceaeInedible fungiMonotypic Basidiomycota generaHidden categories: CS1 Latin-language sources (la)CS1 French-language sources (fr)CS1 German-language sources (de)CS1 Czech-language sources (cs)Articles containing Ancient Greek-language textAll articles with dead external linksArticles with dead external links from September 2017Articles with permanently dead external linksCS1 Italian-language sources (it)CS1 Dutch-language sources (nl)CS1 Polish-language sources (pl)CS1 Spanish-language sources (es)CS1 uses Chinese-language script (zh)CS1 Chinese-language sources (zh)CS1 Swedish-language sources (sv)Articles with 'species' microformatsFeatured articles 

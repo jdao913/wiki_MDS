@@ -1,0 +1,938 @@
+Grand Theft Auto V - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Grand Theft Auto V
+
+
+
+
+
+Developer(s)
+Rockstar North[a]
+
+
+Publisher(s)
+Rockstar Games
+
+
+Producer(s)
+
+
+
+Leslie Benzies
+Imran Sarwar
+
+
+
+
+
+Designer(s)
+
+
+
+Leslie Benzies
+Imran Sarwar
+
+
+
+
+
+Programmer(s)
+Adam Fowler
+
+
+Artist(s)
+Aaron Garbut
+
+
+Writer(s)
+
+
+
+Dan Houser
+Rupert Humphries
+
+
+
+
+
+Composer(s)
+
+
+
+Tangerine Dream
+Woody Jackson
+The Alchemist
+Oh No
+
+
+
+
+
+Series
+Grand Theft Auto
+
+
+Engine
+RAGE
+
+
+Platform(s)
+
+
+
+PlayStation 3
+Xbox 360
+PlayStation 4
+Xbox One
+Microsoft Windows
+
+
+
+
+
+Release
+PlayStation 3, Xbox 360
+
+WW: 17 September 2013
+
+PlayStation 4, Xbox One
+
+WW: 18 November 2014
+
+Microsoft Windows
+
+WW: 14 April 2015
+
+
+
+
+Genre(s)
+Action-adventure
+
+
+Mode(s)
+Single-player, multiplayer
+
+
+Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released on 17 September 2013 for PlayStation 3 and Xbox 360, on 18 November 2014 for PlayStation 4 and Xbox One, and on 14 April 2015 for Microsoft Windows. It is the first main entry in the Grand Theft Auto series since 2008's Grand Theft Auto IV. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. The open world design lets players freely roam San Andreas' open countryside and the fictional city of Los Santos, based on Los Angeles.
+The game is played from either a third-person or first-person perspective and its world is navigated on foot or by vehicle. Players control the three lead protagonists throughout single-player and switch between them both during and outside missions. The story is centred on the heist sequences, and many missions involve shooting and driving gameplay. A "wanted" system governs the aggression of law enforcement response to players who commit crimes. Grand Theft Auto Online, the online multiplayer mode, lets up to 30 players explore the open world and engage in cooperative or competitive game matches.
+Development began soon after Grand Theft Auto IV's release and was shared between many of Rockstar's studios worldwide. The development team drew influence from many of their previous projects such as Red Dead Redemption and Max Payne 3, and designed the game around three lead protagonists to innovate on the core structure of its predecessors. Much of the development work constituted the open world's creation, and several team members conducted field research around California to capture footage for the design team. The game's soundtrack features an original score composed by a team of producers who collaborated over several years.
+Extensively marketed and widely anticipated, the game broke industry sales records and became the fastest-selling entertainment product in history, earning US$800 million in its first day and US$1 billion in its first three days. It received widespread critical acclaim, with praise directed at its multiple protagonist design, open world, presentation and gameplay. However, it caused controversies related to its depiction of women and a mission featuring torture during a hostage interrogation. Considered one of seventh generation console gaming's most significant titles and among the best games ever made, it won year-end accolades including Game of the Year awards from several gaming publications. It has shipped over 85 million copies and is one of the best-selling video games of all time.
+
+
+
+Contents
+
+
+1 Gameplay
+2 Plot
+3 Development
+4 Critical reception
+
+4.1 Initial release
+4.2 Re-release
+4.3 Accolades
+
+
+5 Commercial performance
+6 Grand Theft Auto Online
+7 Controversies
+8 Legacy
+9 Notes
+10 References
+11 Bibliography
+12 External links
+
+
+
+Gameplay
+Grand Theft Auto V is an action-adventure game[2] played from either a first-person[3][b] or third-person perspective.[4] Players complete missions—linear scenarios with set objectives—to progress through the story.[5] Outside the missions, players may freely roam the open world. Composed of the San Andreas open countryside area and the fictional city of Los Santos, the world is much larger in area than earlier entries in the series.[6][c] It may be fully explored after the game's beginning without restriction, although story progress unlocks more gameplay content.[8]
+
+
+
+
+Players may take cover behind objects during firefights to avoid taking damage from enemies.
+
+
+Players use melee attacks, firearms and explosives to fight enemies,[d] and may run, jump, swim or use vehicles to navigate the world.[e] To accommodate the map's size, the game introduces vehicle types absent in its predecessor Grand Theft Auto IV, such as fixed-wing aircraft.[11] In combat, auto-aim and a cover system may be used as assistance against enemies.[12] Should players take damage, their health meter will gradually regenerate to its halfway point.[f] Players respawn at hospitals when their health depletes.[10] If players commit crimes, law enforcement agencies may respond as indicated by a "wanted" meter in the head-up display (HUD).[13] Stars displayed on the meter indicate the current wanted level (for example, at the maximum five-star level, police helicopters and SWAT teams swarm to lethally dispatch players).[14][g] Law enforcement officers will search for players who leave the wanted vicinity. The meter enters a cooldown mode and eventually recedes when players are hidden from the officers' line of sight that displays on the mini-map.[16][h]
+The single-player mode lets players control three characters: Michael De Santa, Trevor Philips and Franklin Clinton—criminals whose stories interconnect as they complete missions. Some missions are completed with only one character and others feature two or three.[18] Outside the missions, players may switch between characters at will by means of a directional compass on the HUD. The game may switch characters automatically during missions to complete certain objectives. A character's compass avatar will flash red if he is in danger and needs help, and flash white if he has a strategic advantage.[19] Though players complete missions as any of the three protagonists, the more difficult heist missions require aid from AI-controlled accomplices with unique skill sets like computer hacking and driving. If an accomplice survives a successful heist, they take a cut from the cash reward[20] and may be available for later missions with improvements to their unique skills.[21] There are multiple options for completing heists; in a holdup mission, players may either stealthily subdue civilians with an incapacitating agent or conspicuously storm the venue with guns drawn.[22]
+Each character has a set of eight skills that represent their ability in certain areas such as shooting and driving. Though skills improve through play, each character has a skill with expertise by default (i.e. Trevor's flying skill).[23] The eighth "special" skill determines the effectiveness in performing an ability that is unique to each respective character. Michael enters bullet time in combat, Franklin slows down time while driving, and Trevor deals twice as much damage to enemies while taking half as much in combat.[24] A meter on each character's HUD depletes when an ability is being used and regenerates when players perform skilful actions (for example, drifting in vehicles as Franklin or performing headshots as Michael).[25]
+While free roaming the game world, players may engage in context-specific activities such as scuba diving underwater or BASE jumping via parachute. Each character has a smartphone for contacting friends, starting activities and accessing an in-game Internet.[26] The Internet lets players trade in stocks via a stock market.[27] Players may purchase properties such as garages and businesses, upgrade the weapons and vehicles in each character's arsenal, and customise their appearance by purchasing outfits, haircuts and tattoos.[28]
+Plot
+See also: List of Grand Theft Auto V characters
+Michael Townley, Trevor Philips, and Brad Snider partake in a botched robbery in Ludendorff, North Yankton. Nine years later, Michael is living under witness protection with his family in Los Santos, under the alias Michael De Santa. Across town, gangbanger Franklin Clinton is working for a corrupt Armenian car salesman and meets Michael while attempting to fraudulently repossess his son's car; the two later become friends. When Michael finds his wife Amanda sleeping with her tennis coach, he and Franklin chase the coach to a mansion, which Michael destroys in anger. The owner turns out to be the girlfriend of Martin Madrazo, a Mexican drug lord who demands compensation to avoid further violence. Michael returns to a life of crime to obtain the money, enlisting Franklin as an accomplice. With the help of Michael's old friend Lester, a crippled hacker, they perform a jewellery shop heist to pay off the debt. Trevor, who now lives in a trailer park on the outskirts of Los Santos and believes Michael was killed in their failed robbery, hears of the heist and realises that it was Michael's handiwork; Trevor surprises Michael and reunites with him after tracking down his home.
+The personal lives of the protagonists begin to spiral out of control. Michael's increasingly erratic behaviour prompts his family to leave him, and when he becomes a movie producer at film studio Richards Majestic, he comes into conflict with Devin Weston, a self-made billionaire venture capitalist and corporate raider who vows revenge after his attempts to shut down the studio are thwarted by Michael and his lawyer dies in an accident. Franklin rescues his friend Lamar Davis from gangster and former friend Harold "Stretch" Joseph, who repeatedly attempts to kill Lamar to prove himself to his new brethren. Trevor's reckless efforts to consolidate his control over various black markets in Blaine County see him waging war against The Lost outlaw motorcycle club, several Latin American street gangs, rival meth dealers, hillbillies, private security firm Merryweather, and Triad kingpin Wei Cheng.
+Federal Investigation Bureau (FIB) agents Dave Norton and Steve Haines contact Michael and demand that he perform a series of operations to undermine a rival agency, the International Affairs Agency (IAA).[i] Under Steve's direction and with Lester's help, they attack an armoured convoy carrying funds intended for the IAA and steal an experimental chemical weapon from an IAA-controlled lab. As Steve comes under increasing scrutiny, he forces Michael and Franklin to erase any evidence being used against him from the FIB servers. Michael takes the opportunity to wipe the data on his own activities, destroying Steve's leverage over him. Michael, Trevor, Franklin, and Lester start planning their most daring feat ever: raiding the Union Depository's gold bullion reserve.
+Michael reconciles with his family. However, Trevor discovers that Brad was not imprisoned as led to believe, but killed during the heist and buried in the grave marked for Michael. Trevor's feelings of betrayal cause friction within the group and threaten to undermine their Union Depository plans. When Michael and Dave are betrayed by Steve and become caught in a Mexican standoff between the FIB, IAA, and Merryweather, Trevor, feeling that he is the only one that has the right to kill Michael, comes to their aid. Despite not forgiving Michael, Trevor agrees to perform the Union Depository heist and part ways with him afterwards.
+The heist is completed successfully, but Franklin is then approached separately by Steve and Dave, who contend that Trevor is a liability, and Devin, who wants retribution for Michael's betrayal. Franklin has three choices: kill Trevor, kill Michael, or attempt to save both in a suicide mission. Should Franklin choose to kill either Michael or Trevor, he ceases contact with the survivor and returns to his old life.[30][31] Otherwise, the trio withstand an onslaught from the FIB and Merryweather before going on to kill Steve, Stretch, Wei, and Devin. Michael and Trevor reconcile, and the three cease working together but remain friends.[32]
+Development
+Main article: Development of Grand Theft Auto V
+Rockstar North began to develop Grand Theft Auto V in 2009, following Grand Theft Auto IV's release.[33] Development was conducted by a team of more than 1,000 people, including Rockstar North's core team and staff from parent company Rockstar Games' studios around the world.[34] The proprietary Rockstar Advanced Game Engine (RAGE) was overhauled for the game to improve its draw distance rendering capabilities.[35] The Euphoria and Bullet software handle additional animation and rendering tasks.[36] Having become familiar with the PlayStation 3 and Xbox 360 hardware over time, Rockstar found they were able to push the consoles' graphical capabilities further than in previous games.[37] Analyst estimations place the game's combined development and marketing budget at more than GB£170 million (US$265 million), which would make it the most expensive game ever made at that time.[38][j]
+The open world was modelled on Southern California and Los Angeles,[40] and its design and in-game render constituted much of the game's early work.[41] Key members of the game world production team took field research trips throughout the region and documented their research with photo and video footage.[37] Google Maps projections of Los Angeles were used by the team to help design Los Santos' road networks.[42][43] To reflect and reproduce Los Angeles' demographic spread, the developers studied census data and watched documentaries about the city.[35] The team considered creating the open world the most technically demanding aspect of the game's production.[33]
+A fundamental design goal from the outset was to innovate on the series core structure by giving players control of three lead protagonists instead of one.[41] The idea was first raised during Grand Theft Auto: San Andreas' development, but contemporaneous hardware restrictions made it infeasible.[44] Having developed two Grand Theft Auto IV episodic expansion packs featuring new protagonists in 2009, the team wanted to base Grand Theft Auto V around three simultaneously controlled protagonists.[11] The team viewed it as a spiritual successor to many of their previous games (such as Grand Theft Auto IV, Red Dead Redemption and Max Payne 3), and designed it to improve upon their gameplay mechanics.[19][45] They sought to improve the action gameplay by refining the shooting mechanics and cover system,[46] and reworked the driving mechanics to correct Grand Theft Auto IV's difficult vehicle controls.[47]
+After an audition process, Ned Luke, Shawn Fonteno and Steven Ogg were selected to portray Michael, Franklin and Trevor, respectively.[48] Their performances were mostly recorded using motion capture technology,[49] but dialogue for scenes with characters seated in vehicles was recorded in studios instead.[50] The game is the first in its series to feature an original score, composed by a team of producers collaborating with each other over several years.[51] Licensed music provided by an in-game radio is also used.[52] The team licensed more than 241 tracks shared between fifteen radio stations, with an additional two stations providing talk radio.[k] Some of the tracks were written specifically for the game, such as rapper and producer Flying Lotus' original work composed for the FlyLo FM radio station he hosts.[54]
+The game was first announced by Rockstar Games on 25 October 2011.[55] They released its debut trailer one week later,[56] with an official press release acknowledging its setting.[57] Journalists noted that the announcement ignited widespread anticipation within the gaming industry, which they owed to the cultural significance of the series.[58][59][60] The game missed its original projected Q2 2013 release date, pushed back to 17 September to allow for further polishing.[61] To spur pre-order game sales, Rockstar collaborated with several retail outlets to make a special edition with extra in-game features.[62] They ran a viral marketing strategy with a website for a fictional religious cult, "The Epsilon Program", that offered users the chance to feature in the game as members of the cult.[63]
+
+
+
+
+A comparison of the PlayStation 4 (left) and PlayStation 3 (right) versions of the game. The enhanced re-release features greater draw distances and higher-resolution textures than the original versions.
+
+
+A re-release of the game was announced for Microsoft Windows (PC), PlayStation 4 and Xbox One at E3 2014. This enhanced version features an increased draw distance, finer texture details, denser traffic, upgraded weather effects, and new wildlife and vegetation.[64] It includes a new on-foot first-person view option, which required the development team to overhaul the animation system to accommodate first-person gameplay.[3] The PlayStation 4 and Xbox One versions were released on 18 November 2014.[65] The PC version, initially scheduled for simultaneous release with the console versions,[64] was delayed until 14 April 2015.[66] According to Rockstar, it required extra development time for "polish".[67] The PC version is capable of 60 frames per second gameplay at 4K resolution, and the Rockstar Editor lets players capture and edit gameplay videos.[68] Design director Imran Sarwar announced in October 2017 that the game would not receive single-player downloadable content, despite Rockstar's original plan for a 2014 release, citing the continued growth of Grand Theft Auto Online and the upcoming Red Dead Redemption 2 as reasons for the cancellation.[69]
+Critical reception
+Initial release
+
+
+PlayStation 3 and Xbox 360 reception
+
+
+
+
+
+Aggregate score
+
+
+Aggregator
+Score
+
+
+Metacritic
+97/100[70][71]
+
+
+Review scores
+
+
+Publication
+Score
+
+
+Edge
+10/10[72]
+
+
+Eurogamer
+9/10[73]
+
+
+Famitsu
+40/40[74]
+
+
+Game Informer
+9.75/10[75]
+
+
+GameSpot
+9/10[76]
+
+
+GamesRadar
+[77]
+
+
+IGN
+10/10[78]
+
+
+Joystiq
+[79]
+
+
+Play
+97/100[80]
+
+
+The Escapist
+[81]
+
+
+
+
+
+Grand Theft Auto V was released to critical acclaim.[82] Metacritic, which assigns a normalised rating in the 0–100 range, calculated an average score of 97 out of 100 based on 50 reviews for the PlayStation 3 version[70] and 58 reviews for the Xbox 360 version.[71] The game is Metacritic's fifth-highest rated, tied with a number of others.[l] Reviewers liked the multiple lead character formula,[84][75][78] heist mission design[85][86][87] and presentation,[16][80][88] but some did not agree on the quality of the story and characters.[73][79][81][89] IGN's Keza MacDonald called Grand Theft Auto V "one of the very best video games ever made",[78] and Play considered it "generation-defining" and "exceptional".[80] Edge wrote that it is a "remarkable achievement" in open world design and storytelling,[90] while The Daily Telegraph's Tom Hoggins declared it a "colossal feat of technical engineering".[91] It became only the second ever western developed game to be awarded a perfect score from the Japanese video game magazine, Famitsu.[92]
+CNET's Jeff Bakalar felt that the game encouraged players to engage with all three characters.[93] Edge found that switching players was helpful for avoiding long travel times to mission start points.[84] Because of the switching mechanic, Game Informer's Matt Bertz noted that players are kept "in the thick of the action" during shootouts.[75] Eurogamer's Tom Bramwell wrote that switching added a tactical element to shootouts as characters set up in strategic outposts would cause fewer "shooting gallery" situations than previous instalments.[73] IGN's MacDonald felt the switching feature gave players more choice in their approach and made missions less predictable.[78]
+Giant Bomb's Jeff Gerstmann considered the heist missions a welcome deviation from series typical mission structure.[85] Eurogamer's Bramwell likened them to "blockbuster set-pieces"[73] and GameSpot's Carolyn Petit cited the 1995 film Heat as a stylistic influence on their design.[76] Joystiq's Xav de Matos felt creativity and methodical approaches were encouraged.[79] Polygon's Chris Plante likened rapid character switching during heist missions to "film editing, with the player serving as editor, switching rapidly to the most interesting perspective for any moment".[86] Computer and Video Games' Andy Kelly felt that overall mission design was more diverse than and lacked the escort errands of its predecessors.[87]
+
+
+
+
+Los Santos, the city featured in the game's open world. Reviewers praised its design and similarity to Los Angeles. The departure from Grand Theft Auto IV's Liberty City was also well received.
+
+
+Edge praised the game's graphical fidelity and absence of load screens.[84] Play complimented the draw distances and weather and lighting systems.[80] Eurogamer's Bramwell considered the lighting system to be the game's biggest advancement.[73] Official Xbox Magazine (OXM)'s Mikel Reparaz thought that the game was "probably the Xbox 360's greatest technical achievement", and was surprised that the open world could render on the console.[89] Reviewers lauded the open world's design, some further complimenting the game for streamlining Los Angeles' geography into a well-designed city space.[16][73] GameTrailers' Brandon Jones considered the Los Angeles emulation authentic and the open world "full of voice and personality".[94] IGN and PlayStation Official Magazine (OPM) made favourable comparisons between Los Santos and Grand Theft Auto IV's Liberty City.[78][88] OXM's Reparez felt Los Santos surpassed the "grey and gritty" Liberty City.[89] Reviewers praised the world's satire of contemporary American culture[16][73][78][79][87]—OPM's Joel Gregory opined that "the scathing social commentary is, of course, present and correct".[88]
+Destructoid's Jim Sterling called the sound design "impeccable" and praised the actors' performances, original soundtrack and licensed music use.[16] IGN and Giant Bomb commended the music selection and felt that the original score enhanced dramatic tension during missions.[78][85] GameSpot's Petit wrote that the score "lends missions more cinematic flavour".[76] Edge said that the licensed music enhanced the city's "already remarkable sense of space" and that the original score improved the atmosphere of the gameplay. They summarised the game as "a compendium of everything Rockstar has learnt about the power of game music in the past decade".[95]
+Many reviewers found the land-based vehicles more responsive and easier to control than in previous games.[90][76][80][88][89] Game Informer's Bertz explained that "cars have a proper sense of weight, while retaining the agility necessary for navigating through traffic at high speeds".[75] In addition to the vehicle handling, most reviewers noted the shooting mechanics were tighter than they had been in previous games,[75][76][78] but Destructoid's Sterling felt that in spite of the improvements, auto-aim was "twitchy and unreliable" and cover mechanics "still come off as dated and unwieldy".[16] Some reviewers felt the game solved a continual problem by adding mid-mission checkpoints.[73][78][91]
+The story and characters—particularly Trevor—polarised reviewers. Some felt that the narrative was not as well written as previous Rockstar games and cited Grand Theft Auto IV and Red Dead Redemption's plot strengths.[73][75][79][89] Others felt that the protagonists' contrasting personalities gave the narrative tighter pacing.[16][84][78][86] GamesRadar's Hollander Cooper thought the game negated inconsistencies in the story of previous entries, whose single lead protagonists had muddled morality.[77] GameSpot's Petit considered Trevor in particular a "truly horrible, terrifying, psychotic human being—and a terrific character".[76] Eurogamer's Bramwell found Trevor "shallow and unconvincing", and felt that his eccentricities hurt the narrative and overshadowed Michael and Franklin's character development.[73] Joystiq's de Matos faulted the protagonists' lack of likability for him, and found the ambivalence between Michael and Trevor a tired plot device as their conflict grew into a "seemingly endless cycle".[79] The Escapist's Greg Tito had difficulty connecting with the characters' emotions since they acted out of greed with no sense of morality and thus gave players little reason to support them.[81]
+Re-release
+
+
+Re-release reception
+
+
+
+
+
+Aggregate score
+
+
+Aggregator
+Score
+
+
+Metacritic
+(PC) 96/100[96]
+(PS4) 97/100[97]
+(XONE) 97/100[98]
+
+
+Review scores
+
+
+Publication
+Score
+
+
+Game Informer
+9.75/10[100]
+
+
+GameSpot
+9/10[99]
+
+
+IGN
+10/10[101][102]
+
+
+PC Gamer (US)
+92%[103]
+
+
+VideoGamer.com
+10/10[104][105]
+
+
+
+
+
+Grand Theft Auto V's re-release, similarly, received critical acclaim. Metacritic calculated an average score of 97 out of 100 based on 66 reviews for the PlayStation 4 version[97] and 14 reviews for the Xbox One version,[98] and 96 out of 100 based on 48 reviews for the PC version.[96] Game Informer's Andrew Reiner considered the addition of first-person "another significant breakthrough for the series" in the vein of Grand Theft Auto III's shift to third-person from Grand Theft Auto's bird's-eye view.[100] GameSpot's Mark Walton found that playing in first-person heightened the impact of Grand Theft Auto V's violence, which made him reflect on morality and character motivation more than before.[99] VideoGamer.com opined that players feel like inhabitants of the world, rather than "guns attached to a floating camera".[104] IGN's Dan Stapleton found the game more immersive in first-person, creating a "surprisingly different experience".[101] VideoGamer.com praised the "finer details" in first-person animations like camera lean when players take corners on motorcycles, or the navigational instruments in plane cockpits.[104] Reviewers found playing the game more difficult in first-person,[99][101] but Game Informer's Reiner preferred the challenge.[100]
+GameSpot's Walton thought the graphics improvements made the open world "even more spectacular", especially because of improved spatial anti-aliasing. Of the first-person view, he said that "at ground level everything looks bigger and more imposing" because of the improved graphics.[99] IGN's Stapleton favoured the PlayStation 4 version's graphics over the Xbox One, but thought both consoles rendered the game well and maintained mostly consistent frame rates.[101] He praised the increased frame rate and graphics options offered in the PC version.[106] VideoGamer.com called the console version's frame rate so consistent it was "scarcely believable",[104] although GameSpot's Walton cited occasional frame rate dips.[99] GameSpot's Peter Brown opined that the PC version let players "witness the full extent of Rockstar's admirable handiwork", but noted that it "retains evidence of its last-gen roots ... with simple geometry".[99] VideoGamer.com praised the Rockstar Editor's accessibility on PC but criticised some of its limitations, such as camera angle restrictions.[105] IGN's Stapleton appreciated the PC version's customisable controls,[106] and GameSpot's Brown felt that constant switching between the mouse and keyboard and a gamepad was necessary for "the best experience".[99] PC Gamer's Chris Thursten called the game "the most beautiful, expansive and generous" of the series.[103]
+On the game's multiplayer, IGN's Stapleton reported low player counts in matches, long wait times in lobbies, server disconnection and occasional crashes. "Because of that," he wrote, "I can't strongly recommend ... the multiplayer experience alone".[101] VideoGamer.com found online character progression streamlined by comparison with the original version. According to them, the "grind of just doing PvP until co-op Jobs arrive with regularity"[104] was lost, and newcomers would likely find multiplayer enjoyable and balanced. However, they wrote of frequent server disconnection, especially during load screens.[104] GameSpot's Walton thought that Grand Theft Auto Online "still suffers from a lack of direction" for its open-ended and frenetic gameplay, but still is fun.[99] Game Informer's Reiner reported "minimal lag or issues in the expanded firefights and races".[100]
+Accolades
+Main article: List of accolades received by Grand Theft Auto V
+Grand Theft Auto V received multiple nominations and awards from gaming publications. Prior to its release, it received Most Anticipated Game at the 2012 Spike Video Game Awards.[58] The game was review aggregators Metacritic and GameRankings' highest rated for the year 2013.[107][108] The game appeared on several year-end lists of 2013's best games, receiving wins from independent journalist Tom Chick,[109] CNET,[110] Edge,[111] the 31st Golden Joystick Awards,[112] the 5th Annual Inside Gaming Awards[113] the Spike VGX 2013 Awards,[114] Slant Magazine[115] and Time.[116] It was named the Best Xbox Game by Canada.com,[117] GameSpot,[118] and IGN,[119] and the Best Multiplatform Game by Destructoid.[120] Rockstar Games and Rockstar North won Best Studio and Best Developer from Edge,[121] and the BAFTA Academy Fellowship Award at the 10th British Academy Video Games Awards.[122]
+Various in-game elements were recognised with awards. Two characters, Trevor Philips and Lamar Davis, received numerous nominations for Best Character, and Lamar won the award from Giant Bomb.[123] The music received awards from Spike VGX,[114] Hardcore Gamer[124] and The Daily Telegraph.[125] Grand Theft Auto Online won Best Multiplayer from GameTrailers[126] and BAFTA,[122] and Best Xbox 360 Multiplayer from IGN.[127] Online was also nominated for Biggest Disappointment by Game Revolution[128] and Hardcore Gamer.[129] Grand Theft Auto V won Best Technical Achievement in the Telegraph Video Game Awards,[125] and Best Technology at the 14th Annual Game Developers Choice Awards.[130] The graphical and artistic design received awards from IGN,[131] The Daily Telegraph[125] and BAFTA,[122] and a nomination at the Game Developers Choice Awards.[130]
+The game received numerous other awards. It was awarded the title of Most Immersive Game at the Inside Gaming Awards.[113] The general public voted for the game to receive the User Choice Award at the PlayStation Awards 2013[132] and the Community Choice award from Destructoid.[133] The game received the Platinum Award at the PlayStation Awards,[132] and was named the Best British Game from BAFTA.[122] At IGN's Best of 2013 Awards, it received multiple wins, including Best Xbox 360 Graphics,[131] Best Xbox 360 Sound,[134] and Best Action Game on Xbox 360,[119] PlayStation 3[135] and overall.[136]
+Commercial performance
+Within 24 hours of its release, Grand Theft Auto V generated more than US$800 million in worldwide revenue, equating to approximately 11.21 million copies sold for Take-Two Interactive.[137][m] The numbers nearly doubled analysts' expectations for the title.[139][140] Three days after release, the game had surpassed one billion dollars in sales, making it the fastest selling entertainment product in history.[141][n] Six weeks after its release, Rockstar had shipped nearly 29 million copies of the game to retailers, exceeding the lifetime figures of Grand Theft Auto IV.[143] On 7 October 2013, the game became the best-selling digital release on PlayStation Store for PlayStation 3, breaking the previous record set by The Last of Us, though numerical sales figures were not disclosed.[144][145] It broke seven Guinness World Records on 8 October: best-selling video game in 24 hours, best-selling action-adventure video game in 24 hours, highest grossing video game in 24 hours, fastest entertainment property to gross US$1 billion, fastest video game to gross US$1 billion, highest revenue generated by an entertainment product in 24 hours, and most viewed trailer for an action-adventure video game.[2] A digital version was released on 18 October for the Xbox 360,[146] which went on to become the highest grossing day-one and week-one release on Xbox Live.[147] As of May 2014, the game has generated over US$1.98 billion in revenue.[148] As of August 2014, the game has sold-in over 34 million units to retailers for the PlayStation 3 and Xbox 360.[149] As of December 2014, the game has shipped 45 million copies to retailers, including 10 million copies of the re-released version for eighth-generation consoles.[150] As of November 2017, the game has shipped over 85 million copies across all platforms.[151]
+In the United Kingdom, the game became the all time fastest-selling, selling more than 2.25 million copies in five days. This broke the record set by Call of Duty: Black Ops at two million copies over the same period. It broke the day one record by selling 1.57 million copies and generating £65 million.[152] In two weeks, the game sold more than 2.6 million copies and generated £90 million, which accounted for 52% of games sold September 2013.[153] After three weeks on sale, it beat Grand Theft Auto IV's lifetime sales in the United Kingdom.[154] In its fourth week, it became the fastest-selling title to break the three million barrier in the UK, thus overtaking Black Ops II's lifetime sales.[155] In November 2014, the game became the best-selling game of all time in the UK, overtaking Black Ops.[156] The game was similarly successful in North America: it was the best selling game in September, representing over 50% of software sales[157] and boosting overall software sales by 52% compared to September 2012.[158]
+Grand Theft Auto Online
+Main article: Grand Theft Auto Online
+ Developed in tandem with the single-player mode, the online multiplayer mode Grand Theft Auto Online was conceived as a separate experience to be played in a continually evolving world.[159] Up to 30 players[o] freely roam across the game world and enter lobbies to complete jobs (story-driven competitive and cooperative modes).[160] The Content Creator toolset lets players create their own parameters for custom jobs, like racetracks and deathmatch weapon spawn points.[161] Players may band together in organised player teams called crews to complete jobs together. Rockstar Games Social Club extends crews formed in Max Payne 3's multiplayer mode to those of Grand Theft Auto Online. Players may create their own crews and join up to five total. Crews win multiplayer matches to earn experience points and climb online leaderboards.[162]
+Grand Theft Auto Online launched on 1 October 2013, two weeks after Grand Theft Auto V's release.[163] Many players reported connection difficulties and game freezes during load screens.[164][165] Rockstar released a technical patch on 5 October in an effort to resolve the issues,[166] but problems persisted the second week following launch as some players reported their character progress as having disappeared.[167] Another technical patch was released on 10 October combating the issues[168] and Rockstar offered a GTA$500,000 (in-game currency) stimulus to the accounts of all players connected to Online since launch as recompense.[169] Because of the widespread technical issues present at launch, many reviewers bemoaned their Grand Theft Auto Online experience, but generally recognised its open-ended exploration and dynamic content as strengths.[170][171][172][173][174]
+Post-release content is continually added to Grand Theft Auto Online through free title updates. Some updates add new game modes and features,[175][176] and others feature themed gameplay content, such as the Independence Day Special update that added patriotic-themed content on 1 July 2014.[177] The widely anticipated[178][179] Online Heists update launched on 10 March 2015 and suffered some initial technical difficulties due to the increased user load.[180] Shortly after the game's PC release, some players reported being banned from Grand Theft Auto Online for using field of view and cosmetic mods in single-player.[181] Rockstar stated in their official blog that nobody had been banned from Online for using single-players mods, but that recent updates to the PC version had the "unintentional effect" of making such mods unplayable. They stated that mods are unauthorised and may cause unforeseen technical problems and instabilities.[182]
+Controversies
+Main article: Controversies surrounding Grand Theft Auto V
+The game has generated several controversies related to its violence and depiction of women. A mission that requires players to use torture equipment in a hostage interrogation polarised reviewers, who noted its political commentary but felt that the torture sequence was in poor taste.[78][183] The mission also received criticism from politicians and anti-torture charity groups.[184] The game became subject to widespread online debate over its portrayal of women, particularly in the wake of backlash against GameSpot journalist Carolyn Petit when she claimed the game was misogynistic in her review.[76][185] After Petit's review webpage received more than 20,000 largely negative comments, many journalists defended her right to an opinion and lamented the gaming community's defensiveness towards criticism.[186][187] Television personality Karen Gravano and actress Lindsay Lohan both filed lawsuits against Rockstar in allegation that characters in the game were based on their likenesses.[188][189] Their lawsuits were later dismissed.[190] Australian department store Target pulled the game from their 300 stores following a Change.org petition against depictions of violence towards women in the game.[191]
+Legacy
+Critics concurred that Grand Theft Auto V was among seventh generation console gaming's best[27] and a great closing title before the eighth generation's emergence.[192][193] Polygon's Plante observed that the game would "bridge between games' present and the future", and declared it "the closure of this generation, and the benchmark for the next".[86] VideoGamer.com's Simon Miller considered it "the ultimate swansong for this console cycle" that would "cast a long shadow over the next".[194] Three days after its release, the game ranked second on IGN's "Top 25 Xbox 360 Games" list. Editor Ryan McCaffrey considered that the open world's scale and detail succeeded the majority of other Xbox 360 games. He called the game "a triumph both for gamers and for the medium itself, and it deserves its runaway success".[195] In November 2013, Hardcore Gamer placed the game third on their "Top 100 Games of the Generation" list. They cited its improved shooting and driving mechanics over its predecessors, and considered the multiple protagonist design "a welcome change of pace" that could become an eighth generation gaming benchmark.[196] In December, The Daily Telegraph listed the game among their "50 best games of the console generation". They called it a "cultural behemoth" that "will be Rockstar's lasting legacy".[197]
+In January 2014, Computer and Video Games ranked the game fourth on their "Games of the Generation 20–1" list. Editor Rob Crossley said that for the first time, Rockstar created an "utterly beautiful" open world. He found that the game did away with Grand Theft Auto IV's repetitive mission design and focused instead on fun gameplay.[198] In May, IGN ranked it eighth on their "Top 100 Games of a Generation" list and called it a "huge, raucous, and wildly ambitious bridge towards the [eighth] generation of console gaming".[199] The next month, it placed third on IGN's "Games of a Generation: Your Top 100" list as voted by the site's readers.[200] In August, Game Informer ranked it third on their "Top 10 Action Games Of The Generation" list. They compared the game's quality to that of its predecessor, but thought that its ensemble character set-up, varied missions and multiplayer superseded Grand Theft Auto IV's placement on the list. They wrote of the story's absurd drama and the open world's vastness, and did not "regret a single second" spent playing the game.[201] In November, Edge named it the fifth best game of its generation and commented that "no other game studio is even daring to attempt an open world game in its tradition because there is simply no possibility of measuring up to [its] standards."[202] In 2015, the publication rated it the second greatest video game of all time.[203] The game ranked high on several best game lists determined by the public; it featured eighth on Empire's "100 Greatest Video Games Of All Time" list, and fifth on Good Game's "Top 100 Games" list, as voted by the magazine and programme's respective audiences.[204][205] It was the most tweeted game of 2015, despite being released over a year earlier.[206]
+Notes
+
+
+^ Additional work by Rockstar San Diego, Rockstar Leeds, Rockstar Toronto, Rockstar New England, and Rockstar London.[1]
+^ The first-person view is only available in the Microsoft Windows, PlayStation 4 and Xbox One versions of the game.[3]
+^ Art director Aaron Garbut estimated that it is large enough to fit the game worlds of Red Dead Redemption, Grand Theft Auto: San Andreas and Grand Theft Auto IV inside of it.[7]
+^ Accessed via a pop-up "weapon wheel" that features eight slots corresponding to different weapon types.[9]
+^ Players may alternatively hail taxicabs that drive to specific destinations.[10]
+^ Health is fully replenished by using first aid kits or consuming food and drink.[10]
+^ Players arrested or killed by officers during missions may restart from the last checkpoint.[15]
+^ Players may take alternative evasive measures like respraying their vehicle at chop shops, which instantly erases the wanted level.[17]
+^ In Grand Theft Auto V, the FIB and IAA are fictionalised parodies of the Federal Bureau of Investigation (FBI) and Central Intelligence Agency (CIA), respectively.[29]
+^ Media analyst Arvind Bhatia estimated that the development budget exceeded US US$137 million.[39] The Scotsman reporter Marty McLaughlin estimated that the combined budget of the development and marketing efforts exceeded GB£170 million (US$265 million).[38]
+^ The Microsoft Windows, PlayStation 4 and Xbox One versions add another 162 tracks to the in-game radio.[53]
+^ Grand Theft Auto V shares its status as fifth-highest rated game on Metacritic with Super Mario Galaxy, Super Mario Galaxy 2, Super Mario Odyssey, The Legend of Zelda: Breath of the Wild, Tony Hawk's Pro Skater 3, Perfect Dark, Metroid Prime, Grand Theft Auto III, Halo: Combat Evolved and NFL 2K1. The games that are rated higher than Grand Theft Auto V are The Legend of Zelda: Ocarina of Time, Tony Hawk's Pro Skater 2, Soulcalibur and Grand Theft Auto IV.[83]
+^ The game's first-day sales record beat the previous record of US$500 million set by Call of Duty: Black Ops II.[138]
+^ The game's US$1 billion revenue broke the previous record set by Call of Duty: Black Ops II, which took 15 days to surpass US$1 billion in sales.[142]
+^ The PlayStation 3 and Xbox 360 versions of Grand Theft Auto Online allow up to 16 concurrent players,[160] while the PlayStation 4 and Xbox One versions allow up to 30 concurrent players.[65]
+
+
+References
+
+
+^ Rockstar North (17 September 2013). Grand Theft Auto V. PlayStation 3 and Xbox 360. Rockstar Games. Level/area: Credits. 
+^ a b Pitcher, Jenna (9 October 2013). "Grand Theft Auto 5 smashes 7 Guinness World Records". Polygon. Vox Media. Archived from the original on 9 October 2013. Retrieved 9 October 2013. 
+^ a b c Krupa, Daniel (4 November 2014). "Grand Theft Auto 5: A New Perspective". IGN. Ziff Davis. Archived from the original on 4 November 2014. Retrieved 4 November 2014. 
+^ Hamilton, Kirk (24 September 2013). "Five Ways You Can Make Grand Theft Auto V More Immersive". Kotaku. Gawker Media. Archived from the original on 6 August 2014. Retrieved 12 September 2014. 
+^ Simmons, Alex (12 November 2012). "Grand Theft Auto V: Reinventing the Open-World Rulebook". IGN. Ziff Davis. Archived from the original on 20 February 2014. Retrieved 9 April 2014. 
+^ Hussain, Tamoor (8 November 2012). "GTA V world 'is bigger than Red Dead Redemption, San Andreas and GTA 4 combined'". Computer and Video Games. Future plc. Archived from the original on 10 November 2012. Retrieved 10 November 2012. 
+^ Bertz 2012, p. 81.
+^ Simmons, Alex (13 November 2012). "Grand Theft Auto 5's Unseen Mastermind". IGN. Ziff Davis. Archived from the original on 16 November 2012. Retrieved 20 November 2012. 
+^ Bogenn & Barba 2013, p. 7.
+^ a b c Bogenn & Barba 2013, p. 13.
+^ a b Stuart, Keith (12 November 2012). "Grand Theft Auto V preview: the inside story". The Guardian. Guardian Media Group. Archived from the original on 31 July 2013. Retrieved 29 August 2013. 
+^ Hoggins, Tom (2 May 2013). "Grand Theft Auto V preview". The Daily Telegraph. London: Telegraph Media Group. Archived from the original on 14 September 2013. Retrieved 6 September 2013. 
+^ Keith, Stuart (3 May 2013). "Grand Theft Auto 5 preview: Rockstar invites you to Los Santos". The Guardian. Guardian Media Group. Archived from the original on 27 April 2014. Retrieved 27 April 2014. 
+^ Hernandez, Patricia (7 May 2015). "The Mystery Of GTA V's Six-Star Wanted Level". Kotaku. Gawker Media. Archived from the original on 31 January 2016. Retrieved 31 January 2016. 
+^ Bogenn & Barba 2013, p. 14.
+^ a b c d e f g Sterling, Jim (16 September 2013). "Review: Grand Theft Auto V". Destructoid. ModernMethod/Destructoid LLC. Archived from the original on 14 October 2013. Retrieved 27 September 2013. 
+^ Bogenn & Barba 2013, p. 15.
+^ Bogenn & Barba 2013, p. 57.
+^ a b Reilly, Luke (3 September 2013). "World-First Hands-On With Grand Theft Auto V". IGN. Ziff Davis. Archived from the original on 3 September 2013. Retrieved 3 September 2013. 
+^ Petit, Carolyn (2 May 2013). "Grand Theft Auto V: The Making of a Great Heist Sequence". GameSpot. CBS Interactive. Archived from the original on 31 October 2013. Retrieved 23 August 2013. 
+^ Bertz, Matt (2 May 2013). "The Art Of The Heist In GTA V". Game Informer. GameStop. Archived from the original on 13 September 2013. Retrieved 6 September 2013. 
+^ MacDonald, Keza (9 July 2013). "What's New in the Grand Theft Auto V Gameplay Trailer". IGN. Ziff Davis. Archived from the original on 21 September 2013. Retrieved 23 August 2013. 
+^ Weaver, Tim (3 May 2013). "Preview: GTA V rewrites the open-world rulebook... again". Computer and Video Games. Future plc. Archived from the original on 14 September 2013. Retrieved 6 September 2013. 
+^ Bertz, Matt (2 May 2013). "Running And Gunning In Grand Theft Auto V". Game Informer. GameStop. Archived from the original on 11 September 2013. Retrieved 6 September 2013. 
+^ Bogenn & Barba 2013, p. 6.
+^ Aziz, Hamza (2 May 2013). "Grand Theft Auto V Everything is Bigger and Better". Destructoid. ModernMethod/Destructoid LLC. Archived from the original on 5 May 2013. Retrieved 4 May 2013. 
+^ a b Cooper, Hollander (16 September 2013). "GTA 5 Review". GamesRadar. Future plc. Archived from the original on 12 October 2013. Retrieved 19 October 2013. 
+^ Bertz, Matt (2 May 2013). "Putting Your Personal Stamp On Grand Theft Auto V". Game Informer. GameStop. Archived from the original on 13 September 2013. Retrieved 6 September 2013. 
+^ Chick, Tom (21 September 2013). "Is Grand Theft Auto V the most relevant story about torture since Zero Dark Thirty?". Quarter to Three. Archived from the original on 17 March 2014. Retrieved 17 March 2014. 
+^ Rockstar North (17 September 2013). Grand Theft Auto V. PlayStation 3 and Xbox 360. Rockstar Games. Level/area: Something Sensible. 
+^ Rockstar North (17 September 2013). Grand Theft Auto V. PlayStation 3 and Xbox 360. Rockstar Games. Level/area: The Time's Come. 
+^ Rockstar North (17 September 2013). Grand Theft Auto V. PlayStation 3 and Xbox 360. Rockstar Games. Level/area: The Third Way. 
+^ a b Hill, Matt (7 September 2013). "Grand Theft Auto V: meet Dan Houser, architect of a gaming phenomenon". The Guardian. Guardian Media Group. Archived from the original on 8 September 2013. Retrieved 9 September 2013. 
+^ French, Michael (4 October 2013). "Inside Rockstar North – Part 2: The Studio". Develop. Intent Media. Archived from the original on 4 October 2013. Retrieved 6 October 2013. 
+^ a b Bertz 2012, p. 93.
+^ Morgan, Thomas (17 September 2013). "Face-Off: Grand Theft Auto 5". Eurogamer. Gamer Network. Archived from the original on 17 September 2013. Retrieved 13 October 2013. 
+^ a b Bernstein, Joseph (13 August 2013). ""Way Beyond Anything We've Done Before": Building The World Of "Grand Theft Auto V"". BuzzFeed. Archived from the original on 15 August 2013. Retrieved 3 September 2013. 
+^ a b Villapaz, Luke (8 September 2013). "'GTA 5' Costs $265 Million To Develop And Market, Making It The Most Expensive Video Game Ever Produced: Report". International Business Times. IBT Media. Archived from the original on 12 September 2013. Retrieved 9 September 2013. 
+^ Sinclair, Brendan (1 February 2013). "GTA V dev costs over $137 million, says analyst". GamesIndustry.biz. Archived from the original on 4 February 2013. Retrieved 9 September 2013. 
+^ Schreier, Jason (2 November 2011). "Grand Theft Auto V Rolls Back to San Andreas". Wired. Condé Nast. Archived from the original on 2 November 2011. Retrieved 15 March 2012. 
+^ a b "Rockstar North's Aaron Garbut on the making of Grand Theft Auto V – our game of 2013". Edge. Future plc. 2 January 2014. Archived from the original on 2 January 2014. Retrieved 2 January 2014. 
+^ Bertz 2012, p. 91.
+^ French, Michael (7 October 2013). "Inside Rockstar North – Part 4: The Art". Develop. Intent Media. Archived from the original on 9 October 2013. Retrieved 7 October 2013. 
+^ French, Michael (3 October 2013). "Inside Rockstar North – Part 1: The Vision". Develop. Intent Media. Archived from the original on 5 October 2013. Retrieved 4 October 2013. 
+^ Reilly, Luke (5 September 2013). "Grand Theft Auto V: The Sum of all Peers". IGN. Ziff Davis. Archived from the original on 7 September 2013. Retrieved 6 September 2013. 
+^ Bertz, Matt (9 July 2013). "Grand Theft Auto V Q&A: Gun Combat". Wired. Condé Nast. Archived from the original on 10 July 2013. Retrieved 24 August 2013. 
+^ Bertz 2012, p. 76.
+^ Molina, Brett (9 October 2013). "Interview: Crime pays for 'Grand Theft Auto V' actors". USA Today. Archived from the original on 8 August 2017. Retrieved 8 March 2014. 
+^ Stuart, Keith (13 September 2013). "Grand Theft Auto 5 – inside the creative process with Dan Houser". The Guardian. Guardian Media Group. Archived from the original on 14 September 2013. Retrieved 4 October 2013. 
+^ Tuffclub (17 December 2013). "GTA V's Trevor Talks To TSA: An Exclusive Interview With Steven Ogg". The Sixth Axis. Archived from the original on 18 December 2013. Retrieved 8 March 2014. 
+^ Corriea, Alexa Ray (3 October 2013). "The accidental excellence of GTA 5's soundscape". Polygon. Vox Media. Archived from the original on 3 October 2013. Retrieved 6 October 2013. 
+^ Stutz, Colin (26 October 2013). "Rockstar Music Head on 'Grand Theft Auto V': We've Topped What's Come Before (Audio)". The Hollywood Reporter. Archived from the original on 27 October 2013. Retrieved 19 December 2013. 
+^ "Grand Theft Auto V Reveals Expanded Radio Station Tracklists for Game Relaunch". Pitchfork.com. 17 November 2014. Archived from the original on 14 August 2017. Retrieved 18 November 2014. 
+^ Shamoon, Evan (28 August 2013). "Inside the 'Grand Theft Auto V' Soundtrack". Rolling Stone. Jann Wenner. Archived from the original on 30 August 2013. Retrieved 29 August 2013. 
+^ "Rockstar announces GTA V". GameSpot. CBS Interactive. 25 October 2011. Archived from the original on 22 October 2013. Retrieved 15 March 2012. 
+^ Stuart, Keith (2 November 2011). "GTA 5 trailer: Rockstar unveils its Hollywood dream". The Guardian. Guardian Media Group. Archived from the original on 26 September 2013. Retrieved 26 March 2012. 
+^ Robinson, Andy (3 November 2011). "GTA 5: Los Santos confirmed, 'most ambitious Rockstar game ever'". Computer and Video Games. Archived from the original on 4 November 2011. Retrieved 4 November 2011. 
+^ a b Video Game Awards (13 December 2011). "Every VGA Winner From Years Past". Spike. Archived from the original on 18 November 2013. Retrieved 10 November 2013. 
+^ Poole, Steven (9 March 2012). "Bang, bang, you're dead: how Grand Theft Auto stole Hollywood's thunder". The Guardian. Guardian Media Group. Archived from the original on 26 September 2013. Retrieved 3 April 2012. 
+^ Terdiman, Daniel (17 April 2012). "How Grand Theft Auto changed video games (and the world)". CNET. UGO Networks. Archived from the original on 17 May 2013. Retrieved 5 May 2012. 
+^ Karmali, Luke (31 January 2013). "Grand Theft Auto V Gets a September Release Date". IGN. Ziff Davis. Archived from the original on 31 January 2013. Retrieved 11 March 2014. 
+^ Win-Poole, Lesley (23 May 2013). "Grand Theft Auto 5 Collector's Edition includes a real-life money bag and cap". Eurogamer. Gamer Network. Archived from the original on 7 June 2013. Retrieved 24 May 2013. 
+^ Prescott, Shaun (30 April 2013). "News: Grand Theft Auto 5: Rockstar sends casting call for Los Santos cult members". Computer and Video Games. Archived from the original on 1 May 2013. Retrieved 30 April 2013. 
+^ a b Sarkar, Samit (9 June 2014). "Grand Theft Auto 5 coming to PC and Xbox One as well as PS4 this fall". Polygon. Vox Media. Archived from the original on 26 June 2014. Retrieved 9 June 2014. 
+^ a b R* Q (12 September 2014). "Grand Theft Auto V Release Dates and Exclusive Content Details for PlayStation 4, Xbox One and PC". Rockstar Newswire. Rockstar Games. Retrieved 12 September 2014. 
+^ Crossley, Rob (24 February 2015). "GTA 5 PC Release Date Delayed Again". GameSpot. CBS Interactive. Archived from the original on 24 February 2015. Retrieved 25 February 2015. 
+^ Makuch, Eddie; Crossley, Rob (13 January 2015). "GTA 5 PC Release Date Delayed Again, First Screenshots Revealed". GameSpot. CBS Interactive. Archived from the original on 13 January 2015. Retrieved 14 January 2015. 
+^ R* Q (14 April 2015). "Grand Theft Auto V Is Now Available for PC". Rockstar Newswire. Rockstar Games. Archived from the original on 14 April 2015. Retrieved 15 April 2015. 
+^ Joe Donnelly. "Grand Theft Auto 5 is not getting single player DLC". pcgamer.com. Retrieved 23 October 2017. 
+^ a b "Grand Theft Auto V for PlayStation 3 Reviews". Metacritic. CBS Interactive. Archived from the original on 1 December 2013. Retrieved 15 November 2013. 
+^ a b "Grand Theft Auto V for Xbox 360 Reviews". Metacritic. CBS Interactive. Archived from the original on 17 December 2013. Retrieved 15 November 2013. 
+^ Edge 2013, p. 85-89.
+^ a b c d e f g h i j Bramwell, Tom (16 September 2013). "Grand Theft Auto 5 review". Eurogamer. Gamer Network. Archived from the original on 18 September 2013. Retrieved 17 September 2013. 
+^ "Famitsu Review Scores: Issue 1296". Gematsu. 10 January 2013. Retrieved 30 October 2017. 
+^ a b c d e f Bertz, Matt (16 September 2013). "Grand Theft Auto V – The Seedy Side Of A Sunny State". Game Informer. GameStop. Archived from the original on 18 September 2013. Retrieved 16 September 2013. 
+^ a b c d e f g Petit, Carolyn (16 September 2013). "Grand Theft Auto V Review: City of Angels and Demons". GameSpot. CBS Interactive. Archived from the original on 12 October 2013. Retrieved 16 September 2013. 
+^ a b Pearson, Rob (28 November 2014). "Grand Theft Auto 5 review". GamesRadar. Archived from the original on 12 October 2013. Retrieved 21 December 2014. 
+^ a b c d e f g h i j k MacDonald, Keza (16 September 2013). "Grand Theft Auto V Review". IGN. Ziff Davis. Archived from the original on 16 September 2013. Retrieved 16 September 2013. 
+^ a b c d e f de Matos, Xav (16 September 2013). "Grand Theft Auto 5 review: How to take it in America". Joystiq. Archived from the original on 18 September 2013. Retrieved 16 September 2013. 
+^ a b c d e "Grand Theft Auto V review". Play. Future plc. 16 September 2013. Archived from the original on 24 November 2013. Retrieved 17 September 2013. 
+^ a b c Tito, Greg (17 September 2013). "Grand Theft Auto 5 Review – People Suck". The Escapist. Defy Media. Archived from the original on 5 October 2013. Retrieved 26 September 2013. 
+^ Hussain, Tamoor (17 September 2013). "GTA 5 review round-up: Ten ton hammer". Computer and Video Games. Future plc. Archived from the original on 22 April 2014. Retrieved 21 April 2014. 
+^ "Highest and Lowest Scoring Games". Metacritic. CBS Interactive. Archived from the original on 28 October 2013. Retrieved 25 September 2013. 
+^ a b c d Edge 2013, p. 86.
+^ a b c Gertsmann, Jeff (16 September 2013). "Grand Theft Auto V Review". Giant Bomb. CBS Interactive. Archived from the original on 6 October 2013. Retrieved 4 October 2013. 
+^ a b c d Plante, Chris (16 September 2013). "Grand Theft Auto 5 review: golden years". Polygon. Vox Media. Archived from the original on 18 September 2013. Retrieved 17 September 2013. 
+^ a b c Kelly, Andy (16 September 2013). "GTA 5 review: Grand Theft Auto V achieves the extraordinary". Computer and Video Games. Future plc. Retrieved 17 September 2013. 
+^ a b c d Gregory, Joel (16 September 2013). "GTA 5 PS3 review – Three men and a little LA deed sign the generation off in style". PlayStation Official Magazine. Future plc. Archived from the original on 19 December 2013. Retrieved 16 September 2013. 
+^ a b c d e Reparaz, Mikel (16 September 2013). "Grand Theft Auto 5 review". Official Xbox Magazine. Future plc. Archived from the original on 28 March 2014. Retrieved 16 September 2013. 
+^ a b Edge 2013, p. 88.
+^ a b Hoggins, Tom (16 September 2013). "GTA 5 review". The Daily Telegraph. London: Telegraph Media Group. Retrieved 16 September 2013. 
+^ "Famitsu Review Scores: Issue 1296". Gematsu. 10 January 2013. Retrieved 30 October 2017. 
+^ Bakalar, Jeff (16 September 2013). "Grand Theft Auto V – PlayStation 3 Games – CNET Reviews". CNET. UGO Networks. Archived from the original on 16 October 2013. Retrieved 16 October 2013. 
+^ "Grand Theft Auto V Review". GameTrailers. Viacom Media Networks. 16 September 2013. Archived from the original on 20 September 2013. Retrieved 17 September 2013. 
+^ Edge 2013, p. 89.
+^ a b "Grand Theft Auto V for PC Reviews". Metacritic. CBS Interactive. Archived from the original on 16 April 2015. Retrieved 16 April 2015. 
+^ a b "Grand Theft Auto V for PlayStation 4 Reviews". Metacritic. CBS Interactive. Archived from the original on 19 March 2017. Retrieved 18 November 2014. 
+^ a b "Grand Theft Auto V for Xbox One Reviews". Metacritic. CBS Interactive. Archived from the original on 20 March 2017. Retrieved 21 November 2014. 
+^ a b c d e f g h Walton, Mark; Brown, Peter (17 November 2014). "Grand Theft Auto V Review". GameSpot. CBS Interactive. Archived from the original on 16 April 2015. Retrieved 16 April 2015. 
+^ a b c d Reiner, Andrew (21 November 2014). "Grand Theft Auto V – Intimate Violence". Game Informer. GameStop. Archived from the original on 23 November 2014. Retrieved 23 November 2014. 
+^ a b c d e Stapleton, Dan (17 November 2014). "GTA 5 PlayStation 4 and Xbox One Review". IGN. Ziff Davis. Archived from the original on 23 November 2014. Retrieved 23 November 2014. 
+^ Stapleton, Dan (14 April 2015). "GTA 5 PC Review". IGN. Ziff Davis. Archived from the original on 23 November 2014. Retrieved 14 April 2015. 
+^ a b Thursten, Chris (20 April 2015). "GTA 5 PC review". PC Gamer. Future plc. Archived from the original on 23 July 2015. Retrieved 23 July 2015. 
+^ a b c d e f "Grand Theft Auto 5 Review". VideoGamer.com. Pro-G Media. 20 November 2014. Archived from the original on 23 November 2014. Retrieved 23 November 2014. 
+^ a b "Grand Theft Auto 5 Review". VideoGamer.com. Pro-G Media. 15 April 2015. Archived from the original on 16 April 2015. Retrieved 16 April 2015. 
+^ a b Stapleton, Dan (14 April 2015). "GTA 5 PC Review in Progress". IGN. Ziff Davis. Archived from the original on 16 April 2015. Retrieved 16 April 2015. 
+^ "Highest Rated Video Games for 2013". Metacritic. CBS Interactive. Archived from the original on 15 November 2014. Retrieved 24 April 2014. 
+^ "Browse and Search Games – Highest Rated Video Games for 2013". GameRankings. CBS Interactive. Archived from the original on 24 April 2014. Retrieved 24 April 2014. 
+^ Chick, Tom (20 December 2013). "The top ten games of 2013". Quarter to Three. Archived from the original on 27 May 2014. Retrieved 25 April 2014. 
+^ Bakalar, Jeff (18 December 2013). "The 15 best video games of 2013 (pictures)". CNET. Archived from the original on 26 April 2014. Retrieved 25 April 2014. 
+^ "The Edge awards 2013: best game". Edge. Future plc. 26 December 2013. Archived from the original on 26 February 2014. Retrieved 7 January 2014. 
+^ Hussain, Tamoor (25 October 2013). "Golden Joysticks 2013: Full list of winners". Computer and Video Games. Future plc. Archived from the original on 28 October 2013. Retrieved 27 October 2013. 
+^ a b P Rubin, Brian (4 December 2013). "Winners of the 5th Annual Inside Gaming Awards Announced". Machinima.com. Archived from the original on 6 December 2013. Retrieved 5 December 2013. 
+^ a b Dane, Patrick (7 December 2013). "'Grand Theft Auto V' Tops Spike VGX 2013 Award Winners List". Gamerant. Archived from the original on 10 December 2013. Retrieved 8 December 2013. 
+^ "The 25 Best Video Games of 2013". Slant Magazine. 9 December 2013. Archived from the original on 5 September 2014. Retrieved 25 April 2014. 
+^ "Top 10 Video Games of 2013". Time. Time Inc. 3 December 2013. Archived from the original on 15 November 2014. Retrieved 15 November 2014. 
+^ O'Rourke, Patrick (17 December 2013). "Top video games of 2013: What's this year's best game?". Canada.com. Postmedia News. Archived from the original on 17 February 2014. Retrieved 17 February 2014. 
+^ "Xbox 360 Game of the Year 2013 Winner". GameSpot. CBS Interactive. 15 December 2013. Archived from the original on 18 December 2013. Retrieved 15 December 2013. 
+^ a b "Best Xbox 360 Game – IGN's Best of 2013". IGN. Ziff Davis. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ MacGregor, Kyle (24 December 2013). "The winner of Destructoid's best 2013 multiplatform game". Destructoid. ModernMethod/Destructoid LLC. Archived from the original on 22 January 2014. Retrieved 8 January 2014. 
+^ "The Edge awards 2013: studio of the year". Edge. Future plc. 30 December 2013. Archived from the original on 25 February 2014. Retrieved 7 January 2014. 
+^ a b c d Cork, Jeff (13 March 2014). "Last Of Us, Tearaway, Grand Theft Auto V Win Big At The BAFTA Awards". Game Informer. GameStop. Archived from the original on 28 April 2014. Retrieved 27 April 2014. 
+^ "Giant Bomb's 2013 Game of the Year Awards: Day Two". Giant Bomb. CBS Interactive. 24 December 2013. Archived from the original on 22 January 2014. Retrieved 8 January 2014. 
+^ "2013 Best Original Soundtrack". Hardcore Gamer. 21 December 2013. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ a b c Hoggins, Tom (31 December 2013). "Telegraph Video Game Awards 2013". The Daily Telegraph. London: Telegraph Media Group. Archived from the original on 7 January 2014. Retrieved 7 January 2014. 
+^ "GameTrailers Game of the Year Awards Video – Winners Montage". GameTrailers. Viacom Media Networks. 7 January 2014. Archived from the original on 8 January 2014. Retrieved 8 January 2014. 
+^ "Best Xbox 360 Multiplayer Game – IGN's Best of 2013". IGN. Ziff Davis. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ Tan, Nicholas (17 December 2013). "Biggest Disappointment 2013". Game Revolution. AtomicOnline. Archived from the original on 8 January 2014. Retrieved 8 January 2014. 
+^ "2013 Most Disappointing". Hardcore Gamer. 21 December 2013. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ a b "14th Annual Game Developers Choice Awards". Game Developers Choice Awards. 9 January 2014. Archived from the original on 1 April 2016. Retrieved 21 March 2014. 
+^ a b "Best Xbox 360 Graphics – IGN's Best of 2013". IGN. Ziff Davis. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ a b Ray Corriea, Alexa (4 December 2013). "Grand Theft Auto 5 goes platinum at Sony PlayStation Awards". Polygon. Vox Media. Archived from the original on 7 December 2013. Retrieved 6 December 2013. 
+^ Dixon, Andy (24 December 2013). "The winner of Destructoid's best of 2013 community choice". Destructoid. ModernMethod/Destructoid LLC. Archived from the original on 22 January 2014. Retrieved 8 January 2014. 
+^ "Best Xbox 360 Sound – IGN's Best of 2013". IGN. Ziff Davis. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ "Best PS3 Action Game – IGN's Best of 2013". IGN. Ziff Davis. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ "Best Overall Action Game – IGN's Best of 2013". IGN. Ziff Davis. Archived from the original on 24 December 2013. Retrieved 24 December 2013. 
+^ Karmali, Luke (9 October 2013). "GTA 5 Currently Holds Seven Guinness World Records". IGN. Ziff Davis. Archived from the original on 9 October 2013. Retrieved 10 October 2013. 
+^ Hollister, Sean (18 September 2013). "'Grand Theft Auto V' sets record by earning $1 billion in just three days". The Verge. Vox Media. Archived from the original on 21 September 2013. Retrieved 13 May 2014. 
+^ Graser, Marc (18 September 2013). "'Grand Theft Auto V' Earns $800 Million in a Day, More than Worldwide Haul of 'Man of Steel'". Variety. Penske Business Media. Archived from the original on 20 September 2013. Retrieved 14 March 2014. 
+^ Nayak, Malathi (18 September 2013). "Take Two's GTA V starts strong with $800 mln in first-day sales". Reuters. Thomson Reuters. Archived from the original on 19 September 2013. Retrieved 19 September 2013. 
+^ Goldfarb, Andrew (20 September 2013). "GTA 5 Sales Hit $1 Billion in Three Days". IGN. Ziff Davis. Archived from the original on 23 September 2013. Retrieved 21 September 2013. 
+^ Webster, Andrew (20 September 2013). "'Grand Theft Auto V' sets record by earning $1 billion in just three days". The Verge. Vox Media. Archived from the original on 21 September 2013. Retrieved 20 September 2013. 
+^ Matulef, Jeffrey (29 October 2013). "GTA5 has exceeded GTA4's lifetime sales to retail in six weeks". Eurogamer. Gamer Network. Archived from the original on 31 October 2013. Retrieved 30 October 2013. 
+^ Ivan, Tom (8 October 2013). "GTA 5 is PS3's biggest ever digital release". Computer and Video Games. Future plc. Retrieved 8 October 2013. 
+^ Karmali, Luke (7 October 2013). "GTA 5 Overtakes GTA 4's UK Lifetime Sales in Three Weeks". IGN. Ziff Davis. Archived from the original on 7 October 2013. Retrieved 7 October 2013. 
+^ Jackson, Mike (19 October 2013). "GTA V gets digital release on Xbox 360". Computer and Video Games. Future plc. Archived from the original on 18 October 2013. Retrieved 20 October 2013. 
+^ Jackson, Mike (30 October 2013). "GTA V sales near 29 million in six weeks". Computer and Video Games. Future plc. Archived from the original on 31 October 2013. Retrieved 1 November 2013. 
+^ Dave Thier (13 May 2014). "'Grand Theft Auto 5' Has Sold Nearly $2 Billion". Forbes. Archived from the original on 5 January 2015. Retrieved 5 January 2015. 
+^ Zelnick, Strauss (5 August 2014). "Q1 2015 Take-Two Interactive Software, Inc. Earnings Conference Call". Take-Two Interactive (Podcast). NASDAQ OMX Group. Event occurs at 3:26. Archived from the original on 10 September 2014. Retrieved 10 September 2014. Nearly a year later, the title continues to attract new audiences on Xbox 360 and PlayStation 3 with worldwide sell-in now surpassing 34 million units. 
+^ Matulef, Jeffrey (3 February 2015). "Grand Theft Auto 5 has sold 45m units to retailers". Eurogamer. Gamer Network. Archived from the original on 4 February 2015. Retrieved 4 February 2015. 
+^ Makuch, Eddie (7 November 2017). "GTA 5 Ships 85 Million Copies, Surpassing Wii Sports". GameSpot. CBS Interactive. Archived from the original on 7 November 2017. Retrieved 7 November 2017. 
+^ Karmali, Luke (23 September 2013). "Grand Theft Auto V UK Sales Figures Revealed". IGN. Ziff Davis. Archived from the original on 26 September 2013. Retrieved 27 September 2013. 
+^ Nunneley, Stephany (4 October 2013). "Grand Theft Auto 5 accounted for 52% of games sold in UK during September, market up 45% yoy". VG247. Videogaming 247 Ltd. Archived from the original on 5 October 2013. Retrieved 8 October 2013. 
+^ Yin-Poole, Wesley (7 October 2013). "GTA5 beats GTA4's lifetime sales in UK after just three weeks". Eurogamer. Gamer Network. Archived from the original on 7 October 2013. Retrieved 8 October 2013. 
+^ Phillips, Tom (17 October 2013). "Grand Theft Auto 5 sales top three million in UK". Eurogamer. Gamer Network. Archived from the original on 17 October 2013. Retrieved 20 October 2013. 
+^ Phillips, Tom (24 November 2014). "Grand Theft Auto 5 now UK's best-selling game ever". Eurogamer. Gamer Network. Archived from the original on 25 November 2014. Retrieved 24 November 2014. 
+^ Makuch, Eddie (17 October 2013). "ND: GTAV leads surging September". GameSpot. CBS Interactive. Archived from the original on 19 October 2013. Retrieved 19 October 2013. 
+^ Prescott, Shaun (18 October 2013). "GTA 5 revitalises declining US games market – NPD". Computer and Video Games. Future plc. Archived from the original on 19 October 2013. Retrieved 19 October 2013. 
+^ Weaver, Tim (16 August 2013). "Interview: Rockstar North president Leslie Benzies on GTA Online and GTA V". Computer and Video Games. Future plc. Archived from the original on 17 August 2013. Retrieved 17 August 2013. 
+^ a b Dawkins, Daniel (15 August 2013). "GTA Online first look: Rockstar's persistent online world is its most ambitious project in years". Computer and Video Games. Future plc. Archived from the original on 17 August 2013. Retrieved 16 August 2013. 
+^ McInnis, Shaun (16 August 2013). "Why Grand Theft Auto Online is Crazy Enough to Work". GameSpot. CBS Interactive. Archived from the original on 18 October 2013. Retrieved 16 August 2013. 
+^ Krupa, Daniel (22 March 2012). "Max Payne 3: Rockstar's Multiplayer Reinvention". IGN. Ziff Davis. Archived from the original on 25 August 2012. Retrieved 28 March 2012. 
+^ Dyer, Mitch (30 September 2013). "When Can We Start Playing GTA Online". IGN. Ziff Davis. Archived from the original on 1 October 2013. Retrieved 1 October 2013. 
+^ Karmali, Luke (4 October 2013). "GTA Online Launch Issues – Rockstar Speaks". IGN. Ziff Davis. Archived from the original on 5 October 2013. Retrieved 8 October 2013. 
+^ Sarkar, Samit (1 October 2013). "GTA Online now live, Rockstar looking into server issues (update)". Polygon. Vox Media. Archived from the original on 1 October 2013. Retrieved 8 October 2013. 
+^ Farokhmanesh, Megan (6 October 2013). "GTA Online connection issues resolved, lost items still being investigated". Polygon. Vox Media. Archived from the original on 6 October 2013. Retrieved 8 October 2013. 
+^ Scammell, David (7 October 2013). "GTA Online: Rockstar investigating missing characters, progress and money". VideoGamer.com. Pro-G Media. Archived from the original on 14 October 2013. Retrieved 8 October 2013. 
+^ Karmali, Luke (10 October 2013). "GTA Online Deleted Character Fix Released by Rockstar". IGN. Ziff Davis. Archived from the original on 10 October 2013. Retrieved 13 October 2013. 
+^ Matulef, Jeffrey (7 November 2013). "GTA Online's stimulus package is live". Eurogamer. Gamer Network. Archived from the original on 7 November 2013. Retrieved 17 March 2014. 
+^ Martin, Liam (17 October 2013). "'GTA Online' review (Xbox 360): Full of untapped potential". Digital Spy. Hearst Corporation. Archived from the original on 15 March 2014. Retrieved 15 March 2014. 
+^ Carter, Chris (8 October 2013). "Review: Grand Theft Auto Online". Destructoid. ModernMethod/Destructoid LLC. Archived from the original on 11 October 2013. Retrieved 15 March 2014. 
+^ Petit, Carolyn (11 October 2013). "Grand Theft Auto Online Review". GameSpot. CBS Interactive. Archived from the original on 14 October 2013. Retrieved 15 March 2014. 
+^ MacDonald, Keza (22 October 2013). "Grand Theft Auto Online Review". IGN. Ziff Davis. Archived from the original on 22 October 2013. Retrieved 15 March 2014. 
+^ Denton, Jon (25 October 2013). "GTA Online Review". VideoGamer.com. Pro-G Media. Archived from the original on 30 October 2013. Retrieved 15 March 2014. 
+^ "Free GTA Online Deathmatch & Race Creators Update Now Available". Rockstar Newswire. Rockstar Games. 11 December 2013. Retrieved 22 June 2014. 
+^ "GTA Online Capture Update Now Available". Rockstar Newswire. Rockstar Games. 17 December 2013. Retrieved 22 June 2014. 
+^ Luke Karmali (1 July 2014). "Fresh GTA 5 update celebrates Independence Day". IGN. Ziff Davis. Archived from the original on 1 July 2014. Retrieved 28 July 2014. 
+^ McCaffrey, Ryan (16 December 2014). "Grand Theft Auto 5 Online Heists (Finally) Revealed". IGN. Ziff Davis. Archived from the original on 4 January 2015. Retrieved 3 January 2015. 
+^ Perez, Daniel (10 March 2015). "Grand Theft Auto 5's highly-anticipated online Heists now available". Shacknews. Archived from the original on 13 March 2015. Retrieved 14 March 2015. 
+^ Reilly, Luke (10 March 2015). "Rockstar Issues Statement Regarding GTA Online Issues". IGN. Ziff Davis. Archived from the original on 11 March 2015. Retrieved 11 March 2015. 
+^ Rad, Chloi (4 May 2015). "Using Single-Player Mods In Grand Theft Auto 5 Could Get You Banned From GTA Online". IGN. Ziff Davis. Archived from the original on 11 May 2015. Retrieved 11 May 2015. 
+^ R*Q (7 May 2015). "Asked & Answered: The Rockstar Editor, GTA Online Updates, PC Mods and More". Rockstar Newswire. Rockstar Games. Archived from the original on 16 July 2015. Retrieved 16 July 2015. 
+^ Bramwell, Tom (16 September 2013). "Is the most disturbing scene in GTA5 justified?". Eurogamer. Gamer Network. Archived from the original on 18 September 2013. Retrieved 16 September 2013. 
+^ Hern, Alex (19 September 2013). "Grand Theft Auto 5 under fire for graphic torture scene". The Guardian. Guardian Media Group. Archived from the original on 20 September 2013. Retrieved 20 September 2013. 
+^ Parfitt, Ben (18 September 2013). "Gamers petition for sacking of GameSpot writer who criticised GTAV for misogyny". Market for Home Computing and Video Games. Intent Media. Archived from the original on 20 September 2013. Retrieved 20 September 2013. 
+^ Lewis, Helen (22 September 2013). "Yes, it's misogynistic and violent, but I still admire Grand Theft Auto". The Guardian. Guardian Media Group. Archived from the original on 5 October 2013. Retrieved 4 October 2013. 
+^ Hoggins, Tom (4 October 2013). "Grand Theft Auto V is designed deliberately to degrade women". The Daily Telegraph. London: Telegraph Media Group. Archived from the original on 4 November 2013. Retrieved 9 October 2013. 
+^ Jackson, Mike (27 February 2014). "Mob Wives' Karen Gravano suing Rockstar over GTA V character". Computer and Video Games. Future plc. Archived from the original on 7 July 2014. Retrieved 15 April 2014. 
+^ "Lindsay Lohan is suing the makers of Grand Theft Auto V". Newsbeat. BBC. 2 July 2014. Archived from the original on 3 July 2014. Retrieved 2 July 2014. 
+^ "Lindsay Lohan loses lawsuit versus 'Grand Theft Auto' makers". CTV News. 1 September 2016. Archived from the original on 2 September 2016. Retrieved 2 September 2016. 
+^ Makuch, Eddie (3 December 2014). "GTA 5 "Violence Against Women" Criticisms Spurs Ban by Australian Retailer". Yahoo! News. Yahoo. Archived from the original on 4 December 2014. Retrieved 3 December 2014. 
+^ Quekel, Sebastiaan (18 September 2013). "Grand Theft Auto 5 Recensie". XGN (in Dutch). XGN BV. Archived from the original on 28 August 2014. Retrieved 19 October 2013. 
+^ Cullinane, James (17 September 2013). "Grand Theft Auto V review". Gameplanet. Archived from the original on 19 October 2013. Retrieved 19 October 2013. 
+^ Miller, Simon (16 September 2013). "Grand Theft Auto 5 Review". VideoGamer.com. Pro-G Media. Archived from the original on 6 October 2013. Retrieved 27 September 2013. 
+^ "The Top 25 Xbox 360 Games – The best of Xbox 360 and Xbox Live Arcade". IGN. Ziff Davis. 20 September 2013. p. 5. Archived from the original on 23 September 2013. Retrieved 27 September 2013. 
+^ "Top 100 Games of the Generation: The Top Ten Games of the Generation". Hardcore Gamer. 8 November 2013. Archived from the original on 24 November 2013. Retrieved 13 November 2013. 
+^ Hoggins, Tom (27 December 2013). "The 50 best games of the last console generation: part one". The Daily Telegraph. London: Telegraph Media Group. Archived from the original on 21 February 2014. Retrieved 7 August 2014. 
+^ "CVG's Games of the Generation 20–1". Computer and Video Games. Future plc. 1 January 2014. Archived from the original on 22 January 2014. Retrieved 7 August 2014. 
+^ "Grand Theft Auto V – #8 Top Games of a Generation". IGN. Ziff Davis. 23 May 2014. Archived from the original on 6 June 2014. Retrieved 4 June 2014. 
+^ "Games of a Generation: Your Top 100". IGN. Ziff Davis. 4 June 2014. p. 2. Archived from the original on 6 June 2014. Retrieved 5 June 2014. 
+^ Turi, Tim (1 August 2014). "Top 10 Action Games Of The Generation". Game Informer. GameStop. Archived from the original on 18 August 2014. Retrieved 7 August 2014. 
+^ "The Ten Best Games Of The Generation". Edge. Future plc (272): 74–81. November 2014. 
+^ The 100 Greatest Videogames. Edge. Bath, UK: Future. 2015. p. 204. ISBN 978178389244-0. 
+^ "8. Grand Theft Auto V – The 100 Greatest Video Games Of All Time". Empire. Bauer Media Group. 18 August 2014. Archived from the original on 19 August 2014. Retrieved 22 August 2014. 
+^ O'Donnell, Steven; Bendixsen, Stephanie (12 August 2014). "Good Game Top 100 – Final List". Good Game. Australian Broadcasting Corporation. Archived from the original on 22 August 2014. Retrieved 14 September 2014. 
+^ Blake, Vikki. "Grand Theft Auto 5 Tops 2015 Most-Tweeted About Chart". IGN. Ziff Davis. Archived from the original on 5 February 2016. Retrieved 5 February 2016. 
+
+
+Bibliography
+
+Bogenn, Tim; Barba, Rick (2013). Grand Theft Auto V Signature Series Strategy Guide. BradyGames. ISBN 9780744014679. 
+Bertz, Matt (December 2012). "Go Big Or Go Home". Game Informer. United States: GameStop (236): 72–95. 
+"Play: Economies of scale". Edge. Future plc (259): 85–88. November 2013. Archived from the original on 19 September 2013. 
+
+External links
+
+Official website
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Grand Theft Auto series
+
+
+
+Video games
+
+
+
+
+Main series
+
+
+
+Grand Theft Auto
+
+London 1969
+
+
+Grand Theft Auto 2
+Grand Theft Auto III
+Vice City
+San Andreas
+Grand Theft Auto IV
+
+The Lost and Damned
+The Ballad of Gay Tony
+
+
+Grand Theft Auto V
+
+Online
+
+
+
+
+
+
+
+Handheld games
+
+
+
+Advance
+Liberty City Stories
+Vice City Stories
+Chinatown Wars
+
+
+
+
+
+
+
+
+Characters
+
+
+
+
+Individual
+
+
+
+Claude
+Tommy Vercetti
+Carl "CJ" Johnson
+Niko Bellic
+Trevor Philips
+
+
+
+
+
+By game
+
+
+
+Grand Theft Auto III
+Vice City
+San Andreas
+Liberty City Stories
+Vice City Stories
+Grand Theft Auto IV
+Grand Theft Auto V
+
+
+
+
+
+
+
+
+Music
+
+
+
+San Andreas
+Grand Theft Auto V
+
+
+
+
+
+Development
+
+
+
+Grand Theft Auto IV marketing
+Grand Theft Auto V development
+
+
+
+
+
+Related media
+
+
+
+Jacked: The Outlaw Story of Grand Theft Auto
+The Gamechangers
+
+
+
+
+
+Related articles
+
+
+
+Grand Theft Auto clone
+Grand Theft Auto IV controversies
+Grand Theft Auto V accolades
+Grand Theft Auto V controversies
+Modding in Grand Theft Auto
+
+Hot Coffee mod
+Multi Theft Auto
+
+
+
+
+
+
+
+
+
+
+ Book
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Video games using the Euphoria game animation engine
+
+
+
+Rockstar Games
+
+
+
+Grand Theft Auto IV
+
+The Lost and Damned
+The Ballad of Gay Tony
+
+
+Red Dead Redemption
+
+Undead Nightmare
+
+
+Max Payne 3
+Grand Theft Auto V
+
+Online
+
+
+
+
+
+
+
+LucasArts
+
+
+
+Star Wars: The Force Unleashed
+Star Wars: The Force Unleashed II
+
+
+
+
+
+NaturalMotion
+
+
+
+Backbreaker
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Golden Joystick Award for Ultimate Game of the Year
+
+
+
+
+
+
+Jetpac (1983)
+Knight Lore (1984)
+The Way of the Exploding Fist (1985)
+Gauntlet (1986)
+Out Run (1987/88)
+Operation Wolf† / Speedball‡ (1988/89)
+The Untouchables† / Kick Off‡ (1989/90)
+Rick Dangerous 2† / Kick Off 2‡ (1990/91)
+Sonic the Hedgehog (1991/92)
+Street Fighter II: The World Warrior (1992/93)
+Super Mario 64 (1996/97)
+Grand Theft Auto III (2002)
+Grand Theft Auto: Vice City (2003)
+Doom 3 (2004)
+Grand Theft Auto: San Andreas (2005)
+The Elder Scrolls IV: Oblivion (2006)
+Gears of War (2007)
+Call of Duty 4: Modern Warfare (2008)
+Fallout 3 (2009)
+Mass Effect 2 (2010)
+Portal 2 (2011)
+The Elder Scrolls V: Skyrim (2012)
+Grand Theft Auto V (2013)
+Dark Souls II (2014)
+The Witcher 3: Wild Hunt (2015)
+Dark Souls III (2016)
+The Legend of Zelda: Breath of the Wild (2017)
+
+
+
+
+
+
+† denotes 8-bit; ‡ denotes 16-bit
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Metacritic's game of the year
+
+
+
+
+
+
+1996: Super Mario 64
+1997: GoldenEye 007
+1998: The Legend of Zelda: Ocarina of Time
+1999: Soulcalibur
+2000: Tony Hawk's Pro Skater 2
+2001: Grand Theft Auto III
+2002: Metroid Prime
+2003: The Legend of Zelda: The Wind Waker
+2004: Half-Life 2
+2005: Resident Evil 4
+2006: The Legend of Zelda: Twilight Princess
+2007: Super Mario Galaxy
+2008: Grand Theft Auto IV
+2009: Uncharted 2: Among Thieves
+2010: Super Mario Galaxy 2
+2011: Batman: Arkham City
+2012: The Walking Dead
+2013: Grand Theft Auto V
+2014: Super Smash Bros. for Wii U
+2015: Metal Gear Solid V: The Phantom Pain
+2016: Uncharted 4: A Thief's End
+2017: Super Mario Odyssey
+
+
+
+
+
+
+
+
+2010s portal
+Greater Los Angeles portal
+Sony PlayStation portal
+United Kingdom portal
+Video games portal
+Xbox portal
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Grand_Theft_Auto_V&oldid=810803571"					
+Categories: 2013 video gamesAction-adventure gamesGrand Theft AutoGrand Theft Auto VInteractive Achievement Award winnersMultiplayer and single-player video gamesObscenity controversies in video gamingOpen world video gamesOrganized crime video gamesPlayStation 3 gamesPlayStation 4 gamesRockstar Advanced Game Engine gamesRockstar GamesStealth video gamesTake-Two Interactive gamesVideo games developed in the United KingdomVideo games set in 2004Video games set in 2013Video games set in Los AngelesVideo games with alternate endingsVideo games with downloadable contentVideo games with user-generated gameplay contentWindows gamesXbox 360 gamesXbox One gamesHidden categories: CS1 Dutch-language sources (nl)Wikipedia pages semi-protected against vandalismUse British English from November 2012Use dmy dates from December 2016Articles using Infobox video game using locally defined parametersArticles using Wikidata infoboxes with locally defined imagesArticles using Video game reviews template in single platform modeFeatured articles 

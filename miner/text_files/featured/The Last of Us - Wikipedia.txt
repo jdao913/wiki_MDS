@@ -1,0 +1,855 @@
+The Last of Us - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+The Last of Us
+
+
+
+
+
+Developer(s)
+Naughty Dog
+
+
+Publisher(s)
+Sony Computer Entertainment
+
+
+Director(s)
+
+
+
+Bruce Straley
+Neil Druckmann
+
+
+
+
+
+Designer(s)
+Jacob Minkoff
+
+
+Programmer(s)
+
+
+
+Travis McIntosh
+Jason Gregory
+
+
+
+
+
+Artist(s)
+
+
+
+Erick Pangilinan
+Nate Wells
+
+
+
+
+
+Writer(s)
+Neil Druckmann
+
+
+Composer(s)
+Gustavo Santaolalla
+
+
+Platform(s)
+PlayStation 3
+
+
+Release
+
+
+WW: June 14, 2013
+
+
+
+
+Genre(s)
+Action-adventure, survival horror
+
+
+Mode(s)
+Single-player, multiplayer
+
+
+The Last of Us is an action-adventure survival horror video game developed by Naughty Dog and published by Sony Computer Entertainment. It was released for the PlayStation 3 worldwide on June 14, 2013. Players control Joel, a smuggler tasked with escorting a teenage girl named Ellie across a post-apocalyptic United States. The Last of Us is played from a third-person perspective; players use firearms and improvised weapons, and can use stealth to defend against hostile humans and cannibalistic creatures infected by a mutated strain of the Cordyceps fungus. In the game's online multiplayer mode, up to eight players engage in cooperative and competitive gameplay.
+Development of The Last of Us began in 2009, soon after the release of Naughty Dog's previous game, Uncharted 2: Among Thieves. The relationship between Joel and Ellie became the central focus of the game, with all other elements developed around it. Actors Troy Baker and Ashley Johnson portrayed Joel and Ellie respectively through voice and motion capture, and assisted creative director Neil Druckmann with the development of the characters and story. The original score was composed and performed by Gustavo Santaolalla.
+Following its announcement in December 2011, The Last of Us was widely anticipated. Upon release, it received universal acclaim, with praise directed at its narrative, gameplay, visual and sound design, characterization, and depiction of female characters. The Last of Us became one of the best-selling games on the PlayStation 3, selling over 1.3 million units in its first week and over eight million units within fourteen months. It won year-end accolades, including multiple Game of the Year awards from several gaming publications, critics, and game award ceremonies, making it one of the most awarded games in history, and is considered to be one of the greatest video games of all time.
+After the game's release, Naughty Dog released several downloadable content additions; The Last of Us: Left Behind adds a single-player campaign following Ellie and her best friend Riley. An enhanced edition of the original game, The Last of Us Remastered, was released for the PlayStation 4 in July 2014.[a] A sequel, The Last of Us Part II, was announced in December 2016.
+
+
+
+Contents
+
+
+1 Gameplay
+
+1.1 Multiplayer
+
+
+2 Plot
+3 Development
+
+3.1 Additional content
+3.2 The Last of Us Remastered
+
+
+4 Reception
+
+4.1 Critical response
+4.2 Sales
+4.3 Awards
+
+
+5 Adaptations
+6 Sequel
+7 References
+
+7.1 Notes
+7.2 Footnotes
+
+
+8 External links
+
+
+
+Gameplay[edit]
+The Last of Us is an action-adventure survival horror game played from a third-person perspective.[1] The player traverse across post-apocalyptic environments such as towns, buildings, forest and sewers to advance the story. The player can use firearms, improvised weapons, and stealth to defend against hostile humans and cannibalistic creatures infected by a mutated strain of the Cordyceps fungus. For most of the game, the player takes control of Joel, a man tasked with escorting a young girl, Ellie, across the United States; Ellie and other companions are controlled by the artificial intelligence.[2] The player also controls Ellie throughout the game's winter segment.[3]
+In combat, the player can use long-range weapons, such as rifles, shotguns, and bows, and short-range weapons such as handguns and short-barreled shotgun. The player is able to scavenge limited-use melee weapons, such as pipes and baseball bats, and throw bottles and bricks to distract, stun, or attack enemies.[4] The player can upgrade weapons at workbenches using collected items. Equipment such as health kits and Molotov cocktails can be found or crafted using collected items. Attributes such as the health meter and crafting speed can be upgraded by collecting pills and medicinal plants. Health can be recharged through the use of health kits.[5].
+
+
+
+
+Listen Mode allows players to discover the position of enemies and characters by displaying their outline through walls, achieved through a heightened sense of hearing and spatial awareness.[6]
+
+
+Though the player can attack enemies directly, they can also use stealth to attack undetected or sneak by them. "Listen Mode" allows the player to locate enemies through a heightened sense of hearing and spatial awareness, indicated as outlines visible through walls and objects.[6] In the dynamic cover system, the player can crouch behind obstacles to gain a tactical advantage during combat.[7] The game features periods without combat, often involving conversation between the characters.[8] The player can solve simple puzzles, such as using floating pallets to move Ellie, who is unable to swim, across bodies of water, and using ladders or dumpsters to reach higher areas. Story collectibles, such as notes, maps and comics, can be scavenged and viewed in the backpack menu.[9]
+The game features an artificial intelligence system by which hostile human enemies react to combat. If enemies discover the player, they may take cover or call for assistance, and can take advantage of the player when they are distracted, out of ammunition, or in a fight. Player companions, such as Ellie, can assist in combat by throwing objects at threats to stun them, announcing the location of unseen enemies, or using a knife and pistol to attack enemies.[10]
+Multiplayer[edit]
+The online multiplayer allows up to eight players to engage in competitive gameplay in recreations of multiple single-player settings. The game features three multiplayer game types: Supply Raid and Survivors are both team deathmatches, with the latter excluding the ability to respawn;[11] Interrogation features teams investigating the location of the enemy team's lockbox, and the first to capture such lockbox wins.[12] In every mode, players select a faction—Hunters (a group of hostile survivors) or Fireflies (a revolutionary militia group)—and keep their clan alive by collecting supplies during matches. Each match is equal to one day; by surviving twelve "weeks", players have completed a journey and can re-select their Faction.[13] Killing enemies, reviving allies, and crafting items earn the player parts that can be converted to supplies; parts can also be scavenged from enemies' bodies. Players are able to carry more equipment by earning points as their clan's supplies grow. Players can connect the game to their Facebook account, which alters clan members' names and faces to match the players' Facebook friends.[14] Players have the ability to customize their characters with hats, helmets, masks, and emblems.[15]
+Plot[edit]
+See also: List of The Last of Us characters
+In September 2013, an outbreak of a mutant Cordyceps fungus ravages the United States, transforming its human hosts into cannibalistic monsters known as infected. In the suburbs of Austin, Texas, Joel (Troy Baker) flees the chaos with his brother Tommy (Jeffrey Pierce) and daughter Sarah (Hana Hayes). As they flee, Sarah is shot by a soldier and dies in Joel's arms. In the twenty years that follow, most of civilization is destroyed by the infection. Survivors live in heavily policed quarantine zones, independent settlements, and nomadic groups. Joel works as a smuggler with his partner Tess (Annie Wersching) in the quarantine zone in the North End of Boston, Massachusetts. They hunt down Robert (Robin Atkin Downes), a black-market dealer, to recover a stolen weapons cache. Before Tess kills him, Robert reveals that he traded the cache with the Fireflies, a rebel militia opposing the quarantine zone authorities.
+The leader of the Fireflies, Marlene (Merle Dandridge), promises to double their cache in return for smuggling a teenage girl, Ellie (Ashley Johnson), to Fireflies hiding in the Massachusetts State House outside the quarantine zone. Joel, Tess, and Ellie sneak out in the night, but after an encounter with a patrol, they discover Ellie is infected. Full infection normally occurs in under two days, but Ellie claims she was infected three weeks ago and that her immunity may lead to a cure. The trio make their way to their destination through hordes of the infected, but find that the Fireflies there have been killed. Tess reveals she has been bitten by an infected; believing in Ellie's importance, Tess sacrifices herself against pursuing soldiers so Joel and Ellie can escape. Joel decides to find Tommy, a former Firefly, in the hope that he can locate the remaining Fireflies. With the help of Bill (W. Earl Brown), a smuggler who owes Joel a favor, they acquire a working vehicle. Driving into Pittsburgh, Pennsylvania, Joel and Ellie are ambushed by bandits and their car is wrecked. They ally with two brothers, Henry (Brandon Scott) and Sam (Nadji Jeter); after they escape the city, Sam is bitten by an infected, but hides it from the group. As his infection takes hold, Sam attacks Ellie, but Henry shoots him dead and commits suicide out of grief.
+In the fall, Joel and Ellie finally find Tommy in Jackson, Wyoming, where he has assembled a fortified settlement near a hydroelectric dam with his wife Maria (Ashley Scott). Joel contemplates leaving Ellie with Tommy, but after she confronts him about Sarah, he decides to let her stay with him. Tommy directs them to a Fireflies enclave at the University of Eastern Colorado. They find the university abandoned, but learn that the Fireflies have moved to a hospital in Salt Lake City, Utah. Afterward, Joel is severely wounded by bandits, who are killed by Ellie.
+During the winter, Ellie and Joel shelter in the mountains. Joel is on the brink of death and relies on Ellie to care for him. Hunting for food, Ellie encounters David (Nolan North) and James (Reuben Langdon), scavengers willing to trade medicine for food; David turns hostile after revealing the university bandits were part of his group. Ellie manages to lead David's group away from Joel, but is eventually captured; David intends to recruit her into his cannibal group. Refusing the offer, she escapes after killing James, but David corners her in a burning restaurant. Meanwhile, Joel recovers from his wounds and sets out to find Ellie. He reaches Ellie as she kills David and breaks down crying; Joel comforts her before they flee.
+In the spring, Joel and Ellie arrive in Salt Lake City and are captured by a Firefly patrol. In the hospital, Marlene tells Joel that Ellie is being prepared for surgery: in hope of producing a vaccine for the infection, the Fireflies must remove the infected portion of Ellie's brain, which will kill her. Unwilling to let Ellie die, Joel battles his way to the operating room and carries the unconscious Ellie to the parking garage. He is confronted by Marlene, whom he shoots and kills to prevent the Fireflies from pursuing them. On the drive out of the city, Joel claims that the Fireflies had found many other immune people but were unable to create a cure, and that they have stopped trying. On the outskirts of Tommy's settlement, Ellie reveals that she was not alone when she was infected and expresses her survivor guilt. At her insistence, Joel swears his story about the Fireflies is true.[16]
+Development[edit]
+Main article: Development of The Last of Us
+
+
+
+
+
+
+
+
+
+Bruce Straley (left) and Neil Druckmann (right) were appointed to lead development on The Last of Us, as game director and creative director, respectively.[17]
+
+
+Naughty Dog began developing The Last of Us in 2009, following the release of Uncharted 2: Among Thieves. For the first time in the company's history, Naughty Dog split into two teams; while one team developed Uncharted 3: Drake's Deception (2011), the other began work on The Last of Us.[18] Director Bruce Straley and creative director Neil Druckmann led the team responsible for developing The Last of Us.[17]
+Druckmann views The Last of Us as a coming of age story, in which Ellie adapts to survival after spending time with Joel, as well as an exploration of how willing a father is to save his child.[19] A major motif of the game is that "life goes on";[20] this is presented in a scene in which Joel and Ellie discover a herd of giraffes, which concept artist John Sweeney explained was designed to "reignite [Ellie's] lust for life", after her suffering following her encounter with David.[21] The Infected, a core concept of the game, were inspired by a segment of the BBC nature documentary Planet Earth (2006), which featured the Cordyceps fungi.[22] Though the fungi mainly infect insects, taking control of their motor functions and forcing them to help cultivate the fungus,[23] the game explores the concept of the fungus evolving and infecting humans, and the direct results of an outbreak of this infection.[22]
+The relationship between Joel and Ellie was the central focus of the game; all other elements were developed around it. Troy Baker and Ashley Johnson were cast as Joel and Ellie, respectively, and provided voice and motion capture performances.[24] Baker and Johnson contributed to the development of the characters;[25] for example, Baker convinced Druckmann that Joel would care for Tess due to his loneliness,[26] and Johnson convinced Druckmann that Ellie should be stronger and more defensive.[25] Ellie's physical appearance was also redesigned throughout development to make her look more similar to Johnson.[27] The game's other characters also underwent changes. The character Tess was originally intended to be the main antagonist of The Last of Us, but the team found it difficult to believe her motives.[28] The sexuality of the character Bill was originally left vague in the script, but later altered to further reflect his homosexuality.[26]
+
+
+
+
+Argentinian musician Gustavo Santaolalla composed and performed the score for The Last of Us.[29]
+
+
+The Last of Us features an original score composed primarily by Gustavo Santaolalla, along with compositions by Andrew Buresh, Anthony Caruso, and Jonathan Mayer.[29] Known for his minimalist compositions, Santaolalla was contacted early in development. He used various instruments to compose the score, including some that he was unfamiliar with, giving a sense of danger and innocence.[3] This minimalist approach was also taken with the game's sound and art design. The sound of the Infected was one of the first tasks during development; the team experimented with the sound in order to achieve the best work possible. To achieve the sound of the Clicker, they hired voice actress Misty Lee, who provided a sound that audio lead Phillip Kovats described as originating in the "back of the throat".[30] The art department took various pieces of work as inspiration, such as Robert Polidori's photographs following Hurricane Katrina, which were used as a reference point when designing the flooded areas of Pittsburgh.[31] The art department were forced to negotiate for things that they wished to include, due to the strong differing opinions of the team during development. Ultimately, the team settled on a balance between simplicity and detail; while Straley and Druckmann preferred the former, the art team preferred the latter.[32] The game's opening credits were produced by Sony's San Diego Studio.[33]
+The team created new engines to satisfy their needs for the game. The artificial intelligence was created to coordinate with players;[34] the addition of Ellie as artificial intelligence was a major contributor to the engine.[35] The lighting engine was also re-created to incorporate soft light, in which the sunlight seeps in through spaces and reflects off surfaces.[34] The gameplay introduced difficulty to the team, as they felt that every mechanic required thorough analysis.[26] The game's user interface design also underwent various iterations throughout development.[36]
+The Last of Us was announced on December 10, 2011, at the Spike Video Game Awards,[37] alongside its debut trailer[38] and an official press release acknowledging some of the game's features.[2] The announcement ignited widespread anticipation within the gaming industry, which journalists owed to Naughty Dog's reputation.[39][40][41] The game missed its original projected release date of May 7, 2013, and was pushed to June 14, 2013 worldwide for further polishing.[42] To promote pre-order sales, Naughty Dog collaborated with several retailers to provide special editions of the game with extra content.[43]
+Additional content[edit]
+Downloadable content (DLC) for the game was released following its launch. The game's Season Pass includes access to all DLC, as well as some additional abilities, and the documentary Grounded: Making The Last of Us;[44] the documentary was released online in February 2014.[45] Two DLC packs were included with some of the game's special editions and were available upon release. The Sights and Sounds Pack included the soundtrack, a dynamic theme for the PlayStation 3 home screen, and two avatars. The Survival Pack featured bonus skins for the player following the completion of the campaign, and in-game money, as well as bonus experience points and early access to customizable items for the game's multiplayer.[46] Abandoned Territories Map Pack, released on October 15, 2013, added four new multiplayer maps, based on locations in the game's story.[47] Nightmare Bundle, released on November 5, 2013, added a collection of ten head items, nine of which are available to purchase separately.[48]
+The Last of Us: Left Behind adds a single-player campaign which serves as a prequel to the main storyline, featuring Ellie and her friend Riley. It was released on February 14, 2014 as DLC[49] and on May 12, 2015 as a standalone expansion pack.[50] A third bundle was released on May 6, 2014, featuring five separate DLC: Grounded added a new difficulty to the main game and Left Behind; Reclaimed Territories Map Pack added new multiplayer maps; Professional Survival Skills Bundle and Situational Survival Skills Bundle added eight new multiplayer skills; and Survivalist Weapon Bundle added four new weapons.[51] The Grit and Gear Bundle, which added new headgear items, masks and gestures, was released on August 5, 2014.[52] A Game of the Year Edition containing all downloadable content was released in Europe on November 11, 2014.[53]
+The Last of Us Remastered[edit]
+Main article: The Last of Us Remastered
+On April 9, 2014, Sony announced The Last of Us Remastered, an enhanced version of the game for the PlayStation 4. It was released on July 29, 2014 in North America.[54][a] Remastered features improved graphics and rendering upgrades, including increased draw distance, an upgraded combat mechanic, and higher frame rate.[58] Other enhancements include advanced audio options, an audio commentary, and a Photo Mode. It includes the previously released downloadable content, including Left Behind and some multiplayer maps.[59] The development team aimed to create a "true" remaster, maintaining the "core experience"[60] and major story and gameplay elements.[61]
+Reception[edit]
+Critical response[edit]
+
+
+Reception
+
+
+
+
+
+Aggregate score
+
+
+Aggregator
+Score
+
+
+Metacritic
+95/100[62]
+
+
+Review scores
+
+
+Publication
+Score
+
+
+CVG
+10/10[63]
+
+
+Edge
+10/10[64]
+
+
+Eurogamer
+10/10[65]
+
+
+Game Informer
+9.5/10[66]
+
+
+GameSpot
+8/10[67]
+
+
+IGN
+10/10[68]
+
+
+Joystiq
+[69]
+
+
+OPM (UK)
+10/10[70]
+
+
+Polygon
+7.5/10[71]
+
+
+
+
+
+The Last of Us received critical acclaim.[72] Review aggregator website Metacritic calculated an average score of 95 out of 100, indicating "universal acclaim", based on 98 reviews.[62] It is the fifth-highest rated PlayStation 3 game on Metacritic.[b] Reviewers praised the character development, story and subtext, visual and sound design, and depiction of female and LGBT characters. The game is considered one of the most significant titles of the seventh generation of video games,[74] and has been included among the greatest video games of all time.[75] Colin Moriarty of IGN called The Last of Us "a masterpiece" and "PlayStation 3's best exclusive",[68] and Edge considered it "the most riveting, emotionally resonant story-driven epic" of the console generation.[64] Oli Welsh of Eurogamer wrote that it is "a beacon of hope" for the survival horror genre;[65] Andy Kelly of Computer and Video Games declared it "Naughty Dog's finest moment".[63]
+Kelly of Computer and Video Games found the story memorable,[63] and IGN's Moriarty named it one of the game's standout features.[68] PlayStation Official Magazine's David Meikleham wrote that the pacing contributed to the improvement of the story, stating that there is "a real sense of time elapsed and journey traveled along every step of the way",[70] and Destructoid's Jim Sterling lauded the game's suspenseful moments.[76] Richard Mitchell of Joystiq found that the narrative improved the character relationships.[69]
+The characters—particularly the relationship between Joel and Ellie—received acclaim. Matt Helgeson of Game Informer wrote that the relationship felt identifiable, naming it "poignant" and "well-drawn".[66] Eurogamer's Welsh wrote that the characters were developed with "real patience and skill", appreciating their emotional value,[65] and Joystiq's Mitchell found the relationship "genuine" and emotional.[69] PlayStation Official Magazine's Meikleham named Joel and Ellie the best characters of any PlayStation 3 game,[70] while IGN's Moriarty identified it as a highlight of the game.[68] Kelly of Computer and Video Games named the characters "richly painted", feeling invested in their stories.[63] Philip Kollar of Polygon felt that Ellie was believable, making it easier to develop a connection to her, and that the relationship between the characters was assisted by the game's optional conversations.[71] The character performances also received praise,[66][68][76] with Edge and Eurogamer's Welsh noting that the script improved as a result.[64][65]
+Many reviewers found the game's combat a refreshing difference from other games. Game Informer's Helgeson appreciated the vulnerability during fights,[66] while Kelly of Computer and Video Games enjoyed the variety in approaching the combat.[63] IGN's Moriarty felt that the crafting system assisted the combat, and that the latter contributed to the narrative's emotional value, adding that enemies feel "human".[68] Joystiq's Mitchell reiterated similar comments, stating that the combat "piles death upon death on Joel's hands".[69] Welsh of Eurogamer found the suspenseful and threatening encounters added positively to the gameplay.[65] Tom Mc Shea of GameSpot wrote that the artificial intelligence negatively affected the combat, with enemies often ignoring players' companions.[67] Polygon's Kollar felt that the combat was unfair, especially when fighting the Infected.[71]
+
+
+
+
+An artistic design of a location in the post-apocalyptic United States. Reviewers praised the design and layouts of the locations. The game's visual features, both artistic and graphic, were also well received.
+
+
+The game's visual features were commended by many reviewers. The art design was lauded as "outstanding" by Computer and Video Games' Kelly,[63] and "jaw-dropping" by Eurogamer's Welsh.[65] In contrast, Mc Shea of GameSpot identified the visual representation of the post-apocalyptic world was "mundane", having been portrayed various times previously.[67] The game's graphics have been frequently named by critics as the best for a PlayStation 3 game, with Helgeson of Game Informer naming them "unmatched in console gaming"[66] and Moriarty of IGN stating that they contribute to the realism.[68] Destructoid's Sterling wrote that game was visually impressive but that technical issues, such as some "muddy and basic" textures found early in the game, left a negative impact on the visuals.[76]
+The world and environments of the game drew acclaim from many reviewers. Kelly of Computer and Video Games stated that the environments are "large, detailed, and littered with secrets", adding that The Last of Us "masks" its linearity successfully.[63] Edge repeated similar remarks, writing that the level design serves the story appropriately.[64] Helgeson of Game Informer wrote that the world "effectively and gorgeously [conveys] the loneliness" of the story.[66] IGN's Moriarty appreciated the added design elements placed around the game world, such as the hidden notes and letters.[68]
+Reviewers praised the use of sound in The Last of Us. Eurogamer's Welsh felt that the sound design was significantly better than in other games,[65] while Game Informer's Helgeson dubbed it "amazing".[66] Mc Shea of GameSpot stated that the audio added to the effect of the gameplay, particularly when hiding from enemies.[67] Kelly of Computer and Video Games found that the environmental audio positively impacted gameplay, and that Gustavo Santaolalla's score was "sparse and delicate".[63] Both Game Informer's Helgeson and Destructoid's Sterling called the score "haunting",[66] with the latter finding that it complements the gameplay.[76]
+The graphic depiction of violence in The Last of Us generated substantial commentary from critics. Engadget writer Ben Gilbert found the game's persistent focus on combat was "a necessary evil to lead the game's fragile protagonist duo to safety", as opposed to being used as a method to achieve objectives.[77] Kotaku's Kirk Hamilton wrote that the violence was "heavy, consequential and necessary", as opposed to gratuitous.[1] USGamer's Anthony John Agnello wrote that the game consistently reinforces the negativity associated with violence, intentionally making players feel uncomfortable while in violent combat. He stated that the deaths within the game were not unnecessary or unjustified, making the story more powerful.[78] Kelly of Computer and Video Games stated that, despite the "incredibly brutal" combat, the violence never felt gratuitous.[63] Eurogamer's Welsh echoed similar remarks, stating that the violence is not "desensitized or mindless".[65] Matt Helgeson of Game Informer observed that the game's violence leads to players questioning the morality of their choices.[66] Joystiq's Mitchell wrote that the violence is "designed to be uncomfortable", stating that it contributes to Joel's character.[69] Prior to the release of the game, Keith Stuart of The Guardian wrote that the acceptability of the violence would depend on its context within the game.[79]
+Many critics discussed the game's depiction of female characters. Jason Killingsworth of Edge praised its lack of sexualized female characters, writing that it "offers a refreshing antidote to the sexism and regressive gender attitudes of most blockbuster videogames".[80] Eurogamer's Ellie Gibson praised Ellie as "sometimes strong, sometimes vulnerable, but never a cliché".[81] She felt that Ellie is initially established as a "damsel in distress", but that this concept is subverted.[81] GameSpot's Carolyn Petit praised the female characters as morally conflicted and sympathetic, but wrote that gender in video games should be evaluated "based on their actual merits, not in relation to other games".[82] Chris Suellentrop of The New York Times acknowledged that Ellie was a likable and "sometimes powerful" character, but argued that The Last of Us is "actually the story of Joel", stating that it's "another video game by men, for men and about men".[83] The Last of Us was also praised for its depiction of LGBT characters. Sam Einhorn of GayGamer.net felt that the revelation of Bill's sexuality "added to his character ... without really tokenizing him".[84] American organization GLAAD named Bill one of the "most intriguing new LGBT characters of 2013", calling him "deeply flawed but wholly unique".[85] A kiss between two female characters in Left Behind was met with positive reactions.[86][87]
+Sales[edit]
+Within seven days of its release, The Last of Us sold over 1.3 million units, becoming the biggest video game launch of 2013 at the time.[88] Three weeks after its release, the game sold over 3.4 million units, and was deemed the biggest launch of an original game since 2011's L.A. Noire[89] and the fastest-selling PlayStation 3 game of 2013 at the time.[90] The game became the best-selling digital release on PlayStation Store for PlayStation 3, though numerical sales figures were not disclosed; this record was later beaten by Grand Theft Auto V.[91] The Last of Us ultimately became the tenth best-selling game of 2013.[92] By August 2014, the game had sold eight million copies: seven million on PlayStation 3 and one million on PlayStation 4. It is the third best-selling PlayStation 3 game of all time.[93] In the United Kingdom, the game remained atop the charts for six consecutive weeks, matching records set by multi-platform titles.[c] Within 48 hours of its release, The Last of Us generated more than the £3 million earned by Man of Steel in the same period.[95] The game also topped the charts in the United States,[96] France,[97] Ireland,[98] Italy,[99] the Netherlands,[100] Sweden,[101] Finland,[101] Norway,[101] Denmark,[101] Spain,[102] and Japan.[103]
+Awards[edit]
+Main article: List of accolades received by The Last of Us
+The Last of Us is one of the most awarded games of all time, winning over 240 Game of the Year awards.[104] Prior to its release, it received numerous awards for its previews at E3.[105][106][107][108][109] It was review aggregators Metacritic and GameRankings' second-highest rated for the year 2013, behind Grand Theft Auto V.[110][111] The game appeared on several year-end lists of the best games of 2013, receiving wins from the 41st Annie Awards,[112] The A.V. Club,[113] the British Academy Video Games Awards,[114] Canada.com,[115] Daily Mirror,[116] The Daily Telegraph,[117] Destructoid,[118] the 17th Annual DICE Awards,[119] The Escapist,[120] GamesRadar,[121] GameTrailers,[122] the 14th Annual Developers Choice Awards,[123] Game Revolution,[124] Giant Bomb,[125] Good Game,[126] Hardcore Gamer,[127] IGN,[128] IGN Australia,[129] International Business Times,[130] Kotaku,[131][132] National Academy of Video Game Trade Reviewers,[133] VG247,[134] VideoGamer.com.[135] It was also named the Best PlayStation Game by GameSpot,[136] GameTrailers,[122] Hardcore Gamer,[137] and IGN.[138] Naughty Dog won Studio of the Year and Best Developer from The Daily Telegraph,[117] Edge,[139] the Golden Joystick Awards,[140] Hardcore Gamer,[141] and the 2013 Spike VGX.[142]
+Baker and Johnson received multiple nominations for their performances; Baker won awards from Hardcore Gamer[143] and the 2013 Spike VGX,[142] while Johnson won awards at the British Academy Video Games Awards,[114] DICE Awards,[119] VGX 2013,[142] and from The Daily Telegraph.[117] The game's story also received awards at the British Academy Video Games Awards,[114] the DICE Awards,[119] the Game Developers Choice Awards,[123] the Golden Joystick Awards,[140] and the Writers Guild of America Awards,[144] and from GameTrailers,[122] Giant Bomb,[145] Hardcore Gamer,[146] and IGN.[147] The sound design and music received awards at the DICE Awards,[119] the Inside Gaming Awards,[140] and from IGN.[148][149] The game's graphical and artistic design also won awards from Destructoid,[150] the DICE Awards,[119] the Golden Joystick Awards,[140] and IGN.[151][152]
+The Last of Us was awarded Outstanding Innovation in Gaming at the DICE Awards,[119] and Best Third Person Shooter from GameTrailers.[122] The game received Best New IP from Hardcore Gamer,[153] Best Newcomer at the Golden Joystick Awards,[140] and Best Debut from Giant Bomb.[154] It received Best Overall Sound,[148] Best PlayStation 3 Multiplayer,[155] and Best Action-Adventure Game on PlayStation 3,[156] and overall at IGN's Best of 2013 Awards.[157] It also won Best Action-Adventure Game at the British Academy Video Games Awards,[114] and The Escapist,[158] as well as Best Action Game from Hardcore Gamer[159] and Adventure Game of the Year at the DICE Awards.[119]
+Adaptations[edit]
+A four-issue comic book miniseries, titled The Last of Us: American Dreams, was published by Dark Horse Comics from April to July 2013. Written by Druckmann and illustrated by Faith Erin Hicks, the comics serve as a prequel to the game, chronicling the journey of a younger Ellie and Riley.[160] On July 28, 2014, the cast of the game performed a live reading of selected scenes in Santa Monica, California, with live music by Santaolalla. The performance was hosted and directed by Druckmann, with graphics by Alex Hobbs.[161]
+On March 6, 2014, Sony announced that Screen Gems will distribute a film adaptation of The Last of Us, written by Druckmann and produced by Sam Raimi.[162] By January 2015, Druckmann had written the script's second draft, and performed a read-through with some actors.[163] Very little work occurred following this, as Druckmann stated in April 2016 that the film had entered development hell.[164] In November 2016, Raimi stated that the film was at a standstill after Sony had a disagreement with Druckmann.[165] Actress Maisie Williams expressed enthusiasm in playing Ellie, and was in talks with both Druckmann and Raimi to take the role.[166]
+Sequel[edit]
+Main article: The Last of Us Part II
+In February 2014, Druckmann said Naughty Dog were considering a sequel but needed to find a story "really worth telling, and that's not repeating itself".[167] In September 2015, Druckmann stated that a small team had begun building prototypes, but shifted development to Uncharted 4: A Thief's End, released in May 2016.[168]
+Sony announced The Last of Us Part II at the PlayStation Experience event on December 3, 2016.[169][170] The story takes place about five years after the first game; Ellie and Joel return, with players controlling Ellie.[171] Santaolalla will return to compose the music,[172] and Druckmann will return to write the story alongside Halley Gross.[173] Straley will not return as game director.[174]
+References[edit]
+Notes[edit]
+
+
+
+^ a b The Last of Us Remastered was released on different dates, dependent on territory: July 29, 2014 in North America; July 30, 2014 in Europe, Australia and New Zealand; and August 1, 2014 in the United Kingdom and Ireland.[55][56][57]
+^ The Last of Us shares its status as fifth-highest rated PlayStation 3 game on Metacritic with Red Dead Redemption (2010), Portal 2 (2011) and LittleBigPlanet (2008). The PlayStation 3 games that are rated higher than The Last of Us on Metacritic are Grand Theft Auto IV (2008), Grand Theft Auto V (2013), Uncharted 2: Among Thieves (2009) and Batman: Arkham City (2011).[73]
+^ Other games that remained atop the UK charts for six consecutive weeks include FIFA 12 (2011) and Call of Duty: Black Ops II (2012).[94]
+
+
+
+Footnotes[edit]
+
+
+^ a b Hamilton, Kirk (July 29, 2014). "The Last of Us: The Kotaku Review". Kotaku. Gawker Media. Archived from the original on October 18, 2015. Retrieved October 19, 2015. 
+^ a b Wells, Evan (December 10, 2011). "Naughty Dog Reveals The Last of Us at 2011 VGAs". PlayStation Blog. Sony Computer Entertainment. Archived from the original on October 6, 2014. Retrieved October 6, 2014. 
+^ a b Naughty Dog and Area 5 (February 24, 2014). Grounded: Making The Last of Us. Sony Computer Entertainment. Retrieved October 11, 2014. 
+^ Kietzmann, Ludwig (May 17, 2013). "The Last of Us: Bricks, bottles and a few bullets". Joystiq. AOL. Archived from the original on March 2, 2015. Retrieved March 3, 2015. 
+^ Yoon, Andrew (May 20, 2013). "A guide to crafting in The Last of Us". Shacknews. Gamerhub. Archived from the original on March 2, 2015. Retrieved March 3, 2015. 
+^ a b Lavoy, Bill (August 2014). "The Last of Us Remastered Beginners Tips". Prima Games. Random House. Archived from the original on March 2, 2015. Retrieved March 3, 2015. 
+^ Jenkins, David (June 5, 2013). "The Last Of Us review – clicking together". Metro. DMG Media. Archived from the original on March 2, 2015. Retrieved March 3, 2015. 
+^ Lavoy, Bill (August 2014). "The Last of Us Remastered - All Optional Conversations - I Want to Talk About It". Prima Games. Random House. Archived from the original on March 2, 2015. Retrieved March 3, 2015. 
+^ Wilson, Tony. "The Last of Us Remastered - Collectibles guide". GamesRadar. Future plc. Archived from the original on March 2, 2015. Retrieved March 3, 2015. 
+^ Meyer, Arne (March 2, 2012). "Balance Of Power: Gameplay In The Last of Us". PlayStation Blog. Sony Computer Entertainment. Archived from the original on March 2, 2015. Retrieved March 3, 2015. 
+^ Makuch, Eddie (June 5, 2013). "The Last of Us multiplayer detailed". GameSpot. CBS Interactive. Archived from the original on March 3, 2015. Retrieved March 3, 2015. 
+^ Moriarty, Colin (August 28, 2013). "This Is The Last of Us' New Multiplayer Mode". IGN. Ziff Davis. Archived from the original on March 3, 2015. Retrieved March 3, 2015. 
+^ Monacelli, Eric (July 22, 2014). "How The Last of Us Remastered Enhances Multiplayer". PlayStation Blog. Sony Computer Entertainment. Archived from the original on March 3, 2015. Retrieved March 3, 2015. 
+^ Watters, Chris (August 9, 2013). "Something to Lose: The Pitfalls and Potential of Competitive Multiplayer". GameSpot. CBS Interactive. Archived from the original on March 3, 2015. Retrieved March 3, 2015. 
+^ Makuch, Eddie (December 9, 2014). "The Last of Us PS4 Gets Brutal Executions Not Possible on PS3". GameSpot. CBS Interactive. Archived from the original on March 3, 2015. 
+^ Naughty Dog (June 14, 2013). The Last of Us. PlayStation 3. Sony Computer Entertainment. 
+^ a b Hansen, Ben (February 22, 2012). "New Tricks: An Interview With Naughty Dog's Co-Presidents". Game Informer. GameStop. Archived from the original on January 7, 2015. Retrieved January 7, 2015. 
+^ Moriarty, Colin (December 12, 2011). "Naughty Dog Officially Split Into Two Teams". IGN. Ziff Davis. Archived from the original on October 6, 2014. Retrieved October 6, 2014. 
+^ Takahashi, Dean (August 6, 2013). "What inspired The Last of Us (interview)". GamesBeat. VentureBeat. Archived from the original on October 18, 2015. Retrieved October 19, 2015. 
+^ Triana, Joe (July 13, 2013). "The Philosophical Themes In The Last of Us". Gamasutra. UBM plc. Archived from the original on October 18, 2015. Retrieved October 18, 2015. 
+^ Sweeney, John (April 2, 2015). "Making The Last of Us' Iconic Giraffe Scene". Control500. Archived from the original on October 18, 2015. Retrieved October 18, 2015. 
+^ a b Takahashi, Dean (August 6, 2013). "What inspired The Last of Us? (interview) page 2". VentureBeat. p. 2. Archived from the original on October 11, 2014. Retrieved October 11, 2014. 
+^ Kaplan, Matt (March 3, 2011). "Photos: "Zombie" Ants Found With New Mind-Control Fungi". National Geographic Society. Archived from the original on October 11, 2014. Retrieved October 11, 2014. 
+^ Hanson, Ben (February 20, 2012). "Capturing Joel And Ellie For The Last Of Us". Game Informer. GameStop. Archived from the original on January 7, 2015. Retrieved January 7, 2015. 
+^ a b Robertson, Andy (May 31, 2013). "The Last of Us: interview with Neil Druckmann and Ashley Johnson". The Daily Telegraph. Telegraph Media Group. Archived from the original on October 13, 2014. Retrieved October 13, 2014. 
+^ a b c Smith, Edward (June 5, 2013). "The Last of Us, Neil Druckmann and Less Being More". International Business Times. IBT Media. Archived from the original on October 22, 2014. Retrieved October 22, 2014. 
+^ Gera, Emily (May 16, 2012). "The Last of Us gets new trailer, reveals Ellie redesign". Polygon. Vox Media. Archived from the original on October 10, 2014. Retrieved July 16, 2015. 
+^ Helgeson, Matt (August 2013). Stead, Chris, ed. "Afterword: The Last of Us". Game Informer. CBS Interactive (45): 32–33. 
+^ a b "The Last Of Us: the definitive postmortem – spoilers be damned - Page 2 of 3". Edge. Future plc. June 18, 2013. p. 2. Archived from the original on October 14, 2014. Retrieved October 14, 2014. 
+^ Farokhmanesh, Megan (June 23, 2013). "Naughty Dog discusses sound and music in The Last of Us". Polygon. Vox Media. Archived from the original on January 20, 2015. Retrieved January 20, 2015. 
+^ "The Last Of Us: the definitive postmortem – spoilers be damned". Edge. Future plc. June 18, 2013. p. 1. Archived from the original on October 13, 2014. Retrieved October 13, 2014. 
+^ "The Last Of Us: the definitive postmortem – spoilers be damned - Page 3 of 3". Edge. Future plc. June 18, 2013. p. 2. Archived from the original on October 14, 2014. Retrieved October 14, 2014. 
+^ Perkins, Will (September 10, 2013). "The Last of Us (2013)". Art of the Title. Archived from the original on July 15, 2015. Retrieved July 15, 2015. 
+^ a b "The Last of Us: An Interview with Naughty Dog". The Digital Fix. Poisonous Monkey Ltd. May 29, 2013. Archived from the original on October 11, 2014. Retrieved October 11, 2014. 
+^ Moriarty, Colin (February 13, 2012). "Naughty Dog Talks Combat in The Last of Us". IGN. Ziff Davis. Archived from the original on October 23, 2014. Retrieved October 23, 2014. 
+^ Neonakis, Alexandria (May 5, 2014). "How We Made The Last of Us's Interface Work So Well". Kotaku. Gawker Media. Archived from the original on January 15, 2015. Retrieved January 15, 2014. 
+^ Cullen, Johnny (December 11, 2011). "Naughty Dog's The Last of Us announced at VGAs". VG247. Archived from the original on October 6, 2014. Retrieved October 6, 2014. 
+^ Sinclair, Brendan (December 10, 2011). "Naughty Dog readies The Last of Us". GameSpot. CBS Interactive. Archived from the original on October 10, 2014. Retrieved October 10, 2014. 
+^ Martin, Liam (December 31, 2012). "Digital Spy's most anticipated games of 2013: Part two". Digital Spy. Hearst Corporation. Archived from the original on January 25, 2015. Retrieved January 25, 2015. 
+^ Yin-Poole, Wesley (January 2, 2013). "Developers' Most Anticipated Games of 2013". Eurogamer. Gamer Network. Archived from the original on January 25, 2015. Retrieved January 25, 2015. 
+^ Taormina, Anthony (July 17, 2013). "2012 Spike Video Game Awards Nominees Announced". Game Rant. Archived from the original on November 26, 2012. Retrieved January 25, 2015. 
+^ Miller, Greg (February 12, 2013). "The Last of Us Delayed". IGN. Ziff Davis. Archived from the original on October 6, 2014. Retrieved October 6, 2014. 
+^ Nichols, Scott (January 23, 2013). "'The Last of Us' Special Editions coming to Europe, North America". Digital Spy. Hearst Corporation. Archived from the original on April 15, 2015. Retrieved April 15, 2015. 
+^ Monacelli, Eric (May 28, 2013). "The Last of Us: Pre-Order the Digital Edition & Season Pass, DLC Detailed". PlayStation Blog. Sony Computer Entertainment. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Farokhmanesh, Megan (February 24, 2014). "The Making of The Last of Us documentary now on YouTube". Polygon. Vox Media. Archived from the original on March 21, 2015. Retrieved January 25, 2015. 
+^ Miller, Greg (December 9, 2012). "The Last of Us Box Art, Preorder Bonuses". IGN. Ziff Davis. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Monacelli, Eric (October 15, 2013). "The Last of Us – Abandoned Territories Map Pack and patch 1.05 available tomorrow". PlayStation Blog. Sony Computer Entertainment. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Monacelli, Eric (November 4, 2013). "The Last of Us Nightmare Bundle Available this Week". Naughty Dog. Sony Computer Entertainment. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Karmali, Luke (January 15, 2014). "The Last of Us: Left Behind Release Date Confirmed". IGN. Ziff Davis. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Meyer, Arne (May 1, 2015). "The Last of Us: Left Behind launches as a standalone download this month". PlayStation Blog. Sony Computer Entertainment. Archived from the original on May 1, 2015. Retrieved May 2, 2015. 
+^ Monacelli, Eric (April 16, 2014). "The Last of Us: New Mode and Multiplayer DLC Detailed". PlayStation Blog. Sony Computer Entertainment. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Makuch, Eddie (August 5, 2014). "The Last of Us Gets New DLC; Some Fans Aren't Happy About It". GameSpot. CBS Interactive. Archived from the original on March 7, 2015. Retrieved January 25, 2015. 
+^ Karmali, Luke (October 23, 2014). "The Last of Us: Game of the Year Edition Announced For PS3". IGN. Ziff Davis. Archived from the original on February 22, 2015. Retrieved February 22, 2015. 
+^ Karmali, Luke (June 9, 2014). "E3 2014: The Last of Us: Remastered PS4 Release Date Announced". IGN. Ziff Davis. Archived from the original on January 18, 2015. Retrieved January 26, 2015. 
+^ Mathé, Charlotte; Reynolds, Matthew (July 1, 2014). "Games out this month: 10 biggest releases for July". Digital Spy. Hearst Corporation. Archived from the original on April 15, 2015. Retrieved April 15, 2015. 
+^ LeJacq, Yannick (June 10, 2014). "The Last Of Us Is Coming To The PS4 On July 30". Kotaku. Gawker Media. Retrieved March 15, 2017. 
+^ Ashraf, Jawad (July 30, 2014). "New on PlayStation Store: The Last of Us Remastered, Rogue Legacy, more". PlayStation Blog. Sony Computer Entertainment. Retrieved July 3, 2017. 
+^ Karmali, Luke (April 10, 2014). "The Last of Us PS4 Development Began Ages Ago". IGN. Ziff Davis. Archived from the original on January 26, 2015. Retrieved January 26, 2015. 
+^ Moriarty, Colin (April 9, 2014). "The Last of Us Remastered: First Details, Pre-Order Info". IGN. Ziff Davis. Archived from the original on January 26, 2015. Retrieved January 26, 2015. 
+^ Haywald, Justin (July 16, 2014). "The Last of Us Remastered Devs Discuss Making 60fps the New Standard in Games". GameSpot. CBS Interactive. Archived from the original on January 26, 2015. Retrieved January 26, 2015. 
+^ GameCentral (August 1, 2014). "The Last Of Us Remastered interview – 'How much more immersive can this be?'". Metro. DMG Media. Archived from the original on January 26, 2015. Retrieved January 26, 2015. 
+^ a b "The Last of Us for PlayStation 3 Reviews". Metacritic. CBS Interactive. Archived from the original on March 1, 2015. Retrieved July 14, 2013. 
+^ a b c d e f g h i Kelly, Andy. "The Last of Us review: Survival horror masterpiece is Naughty Dog's finest moment". Computer and Video Games. Future plc. Archived from the original on June 8, 2013. Retrieved March 1, 2015. 
+^ a b c d "The Last of Us review". Edge. Future plc. June 5, 2013. Archived from the original on June 8, 2013. Retrieved March 1, 2015. 
+^ a b c d e f g h Welsh, Oli (July 31, 2014). "The Last of Us review". Eurogamer. Gamer Network. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ a b c d e f g h i Helgeson, Matt (June 5, 2013). "Naughty Dog's Grim Masterpiece". Game Informer. GameStop. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ a b c d Mc Shea, Tom (June 5, 2013). "The Last of Us Review". GameSpot. CBS Interactive. Archived from the original on March 1, 2015. Retrieved March 30, 2016. 
+^ a b c d e f g h Moriarty, Colin (June 5, 2013). "The Last of Us Review". IGN. Ziff Davis. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ a b c d e Mitchell, Richard (June 5, 2013). "The Last of Us review: Humans, conditioned". Joystiq. AOL. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ a b c Meikleham, David (June 5, 2013). "The Last Of Us review SPOILER FREE - Naughty Dog's latest masterpiece is apocalypse wow". PlayStation Official Magazine. Future plc. Archived from the original on June 8, 2013. Retrieved March 1, 2015. 
+^ a b c Kollar, Philip (June 5, 2013). "The Last of Us review: dead inside". Polygon. Vox Media. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ Hussain, Tamoor (June 5, 2013). "The Last of Us review round-up: 'Easily Naughty Dog's finest moment'". Computer and Video Games. Future plc. Archived from the original on June 8, 2013. Retrieved March 1, 2015. 
+^ "Best PlayStation 3 Video Games of All Time". Metacritic. CBS Interactive. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ Sources that refer to The Last of Us being considered one of the most significant titles of the seventh generation of video games include:
+
+"The Last of Us - #3 Top Games of a Generation". IGN. Ziff Davis. June 4, 2014. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+Robinson, Martin (November 4, 2013). "Eurogamer's Games of the Generation: The top 50". Eurogamer. Gamer Network. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+Brian (October 5, 2014). "EDGE ranks the ten best games of the generation". Nintendo Everything. CraveOnline. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+"The Top Ten Games of the Generation". Hardcore Gamer. November 8, 2013. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+Hoggins, Tom (December 28, 2013). "The 50 best games of the console generation: part two". The Telegraph. Telegraph Media Group. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+"CVG's Games of the Generation 20 - 1". Computer and Video Games. Future plc. January 1, 2014. Archived from the original on January 3, 2014. Retrieved February 13, 2015. 
+"Games of a Generation: Your Top 100". IGN. Ziff Davis. June 4, 2014. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+Turi, Tim (August 1, 2014). "Top 10 Action Games Of The Generation". Game Informer. GameStop. p. 2. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+Juba, Joe (July 18, 2014). "Top 25 PlayStation 3 Games". Game Informer. GameStop. p. 5. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+
+
+^ Sources that list The Last of Us among the greatest video games of all time include:
+
+"The 100 best games of all time". GamesRadar. Future plc. March 7, 2014. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+"1. The Last of Us | The 100 Greatest Video Games Of All Time". Empire. Bauer Media Group. August 15, 2014. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+"The 20 best games of Edge's lifetime". Edge. Future plc. November 15, 2013. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+Moriarty, Colin (February 7, 2014). "Colin Moriarty's Top 25 Games of All Time". IGN. Ziff Davis. p. 4. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+Levy, Karyne; Smith, Dave (November 15, 2014). "The Top 50 Video Games Of All Time -- RANKED". Business Insider. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+
+
+^ a b c d Sterling, Jim (June 5, 2013). "Review: The Last of Us". Destructoid. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ Gilbert, Ben (February 14, 2014). "Necessary violence: The creators of The Last of Us defend its reliance on combat". Engadget. AOL. Archived from the original on October 18, 2015. Retrieved October 18, 2015. 
+^ Agnello, Anthony John (December 27, 2013). "2013 in Review: In The Last of Us, No Death is Meaningless". USGamer. Gamer Network. Archived from the original on October 18, 2015. Retrieved October 18, 2015. 
+^ Stuart, Keith (June 20, 2012). "Does The Last of Us fetishise violence?". The Guardian. Guardian Media Group. Archived from the original on March 1, 2015. Retrieved March 1, 2015. 
+^ Killingsworth, Jason (June 24, 2013). "Sexism sells? The Last of Us begs to differ". Edge. Future plc. Archived from the original on June 28, 2013. Retrieved March 7, 2015. 
+^ a b Gibson, Ellie (July 5, 2013). "The Last of Us isn't the solution to sexism in games, but it's a start". Eurogamer. Gamer Network. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Petit, Carolyn (July 3, 2013). "The Last of Us and Grading on the Gender Curve". GameSpot. CBS Interactive. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Suellentrop, Chris (June 14, 2013). "In the Video Game The Last of Us, Survival Favors the Man". The New York Times. Arthur Ochs Sulzberger, Jr. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Einhorn, Sam (September 3, 2013). "The Last of Us Has a Gay Character. Really!". GayGamer.net. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ "The most intriguing new LGBT characters of 2013". GLAAD. December 26, 2013. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Hamilton, Kirk (February 17, 2014). "Video Gaming's Latest Breakthrough Moment". Kotaku. Gawker Media. Archived from the original on March 2, 2015. Retrieved March 2, 2015. 
+^ MacDonald, Keza (February 19, 2014). "The Significance of The Last of Us: Left Behind". IGN. Ziff Davis. Archived from the original on March 2, 2015. Retrieved March 2, 2015. 
+^ Tassi, Paul (June 18, 2013). "'The Last of Us' Has The Biggest Launch Of The Year With 1.3M Sold". Forbes. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Yin-Poole, Wesley (July 9, 2013). "Sony declares The Last of Us a success with over 3.4 million global sales". Eurogamer. Gamer Network. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Ivan, Tom (July 9, 2013). "The Last of Us is PS3's fastest selling new franchise". GamesRadar. Future plc. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Dutton, Fred (October 7, 2013). "PlayStation Store charts, September: GTA5 and Killzone Mercenary take top honours". PlayStation Blog. Sony Computer Entertainment. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ "100 best-selling video games of 2013 revealed". Metro. DMG Media. January 16, 2014. Archived from the original on January 18, 2015. Retrieved January 18, 2015. 
+^ Dunning, Jason (September 1, 2014). "The Last of Us Remastered Crosses One Million Sold Worldwide". PlayStation LifeStyle. CraveOnline. Archived from the original on March 21, 2015. Retrieved February 13, 2015. 
+^ Weber, Rachel (July 22, 2013). "6 weeks on top for The Last of Us". Gamesindustry.biz. Gamer Network. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ French, Michael (June 17, 2013). "UK CHARTS: The Last of US is No.1". Market for Home Computing and Video Games. Intent Media. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Hillier, Brenna (July 19, 2013). "NPD June: The Last of Us, Animal crossing top charts". VG247. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ "Les Meilleures Ventes De Jeux Vidéo" [The Best Video Game Sales] (in French). SELL. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ "Top 20 Entertainment Software (All Prices), Week Ending 15 June 2013". Chart-Track. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Pugliese, Tommaso (July 2013). "Le classifiche italiane per il mese di giugno" [The Italian charts for the month of June] (in Italian). Multiplayer.it. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ "GfK Dutch Game Charts" (in Dutch). NVPI. Archived from the original on September 28, 2013. Retrieved July 9, 2013. 
+^ a b c d "Swedish Games chart total, week 26 2013". GfK. Archived from the original on July 9, 2013. Retrieved July 9, 2013. 
+^ "Ranking de videojuegos más vendidos" [Ranking of top selling games]. Española de Distribuidores y Editores de Software de Entretenimiento (in Spanish). Archived from the original on July 10, 2013. Retrieved July 10, 2013. 
+^ "「The Last of Us」が11万7000本で1位に。「ネプテューヌPP」「クマ・トモ」「さよなら 海腹川背」なども発売された「週間販売ランキング＋」" ["The Last of Us" is in first place in the 117 000 this. "Neptunia PP", "bear Tomo" "Goodbye Umihara Kawase", etc. were also released "weekly sales rankings +"]. 4Gamer.net (in Japanese). Aetas Inc. June 26, 2013. Archived from the original on June 28, 2013. Retrieved July 9, 2013. 
+^ Dutton, Fred (March 14, 2014). "The Last of Us and Tearaway take the BAFTAs by storm". PlayStation Blog. Sony Computer Entertainment. Archived from the original on May 2, 2015. Retrieved May 2, 2015. 
+^ "The Last of Us - GameSpot's Best of E3 2012 Editors' Choice Awards". GameSpot. CBS Interactive. June 4, 2012. Archived from the original on October 3, 2013. Retrieved December 18, 2013. 
+^ Hoggins, Tom (June 9, 2012). "E3 2012: Best in show". The Daily Telegraph. Telegraph Media Group. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ "The Electric Playground's Best of E3 Winners". The Electric Playground. Greedy Productions Ltd. June 11, 2012. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ "EGM Presents: The Best of E3 2012". Electronic Gaming Monthly. EGM Media, LLC. June 11, 2012. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Aziz, Hamza (June 12, 2012). "Destructoid's Best of E3 2012 winners revealed!". Destructoid. Archived from the original on March 21, 2015. Retrieved March 7, 2015. 
+^ "Highest Rated Video Games for 2013". Metacritic. CBS Interactive. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ "Browse and Search Games — Highest Rated Video Games for 2013". GameRankings. CBS Interactive. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ Patten, Dominic (February 1, 2014). "Annie Awards: 'Frozen' Wins Big Including Best Feature; Miyazaki Gets Best Writing; Spielberg Honored; 'Futurama' & 'Sofia' Top TV; 'Get A Horse!' Best Short". Deadline.com. Penske Media Corporation. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ Ryan, Kyle (December 23, 2013). "The people have spoken: The 2013 A.V. Club Readers' Poll results". The A.V. Club. The Onion, Inc. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ a b c d Karmali, Luke (March 13, 2014). "BAFTA Games Awards 2014 Winners Announced". IGN. Ziff Davis. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ O'Rourke, Patrick (December 17, 2013). "Top video games of 2013: What's this year's best game?". Canada.com. Postmedia News. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ Silver, Dan (December 12, 2013). "Top games of 2013: Five best video games to buy for Christmas". Daily Mirror. Trinity Mirror. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ a b c Hoggins, Tom (December 31, 2013). "Telegraph Video Game Awards 2013". The Daily Telegraph. London: Telegraph Media Group. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ Hansen, Steven (December 24, 2013). "The winner of Destructoid's 2013 Game of the Year". Destructoid. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ a b c d e f g "17th Annual D.I.C.E. Awards". Academy of Interactive Arts & Sciences. February 7, 2014. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ "The Escapist Awards - Game of the Year 2013". The Escapist. January 11, 2014. p. 1. Archived from the original on March 21, 2015. Retrieved January 17, 2014. 
+^ "Game of the year 2013". GamesRadar. Future plc. January 21, 2014. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ a b c d GT's Game of the Year!. GameTrailers. January 10, 2014. Retrieved January 13, 2016. 
+^ a b Pitcher, Jenna (March 20, 2014). "The Last of Us cleans up at the 2014 Game Developer Choice Awards". Polygon. Vox Media. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ Bischoff, Daniel (December 20, 2013). "Game of the Year 2013". Game Revolution. CraveOnline. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ "Giant Bomb's 2013 Game of the Year Awards: Day Five". Giant Bomb. CBS Interactive. December 27, 2013. Archived from the original on March 21, 2015. Retrieved January 16, 2014. 
+^ Good Game (December 3, 2013). "Good Game Stories - Award - Best Game". Australian Broadcasting Corporation. Archived from the original on March 21, 2015. Retrieved December 15, 2013. 
+^ "2013 Game of the Year Award". Hardcore Gamer. December 22, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Overall - IGN's Best of 2013". IGN. Ziff Davis. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ IGN Australia (December 21, 2013). "IGN AU's Top 12 Games of 2013". IGN. Ziff Davis. Archived from the original on March 21, 2015. Retrieved January 16, 2015. 
+^ Elise, Abigail (November 14, 2013). "The Five Best Video Games of 2013: Why We'll Miss This Current Generation of Consoles". International Business Times. IBT Media. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ Totilo, Stephen (December 30, 2013). "The Last of Us Is Kotaku's Game of the Year". Kotaku. Gawker Media. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ Totilo, Stephen (December 30, 2013). "Pranksters Almost Voted An Erotic Game As Our Readers' Game of the Year". Kotaku. Gawker Media. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ Allen, Thomas J. (February 7, 2014). "2013 NAVGTR Winners". National Academy of Video Game Trade Reviewers. Archived from the original on February 21, 2017. Retrieved February 22, 2017. 
+^ Nunneley, Stephany (January 11, 2014). "VG247 Community Games of the Year". VG247. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ Burns, Steven (December 31, 2013). "Game of the Year 2013: - No.1: The Last of Us". VideoGamer.com. Pro-G Media Ltd. Archived from the original on March 21, 2015. Retrieved January 17, 2015. 
+^ "PS3 Game of the Year 2013 Winner". GameSpot. December 13, 2013. Archived from the original on March 21, 2015. Retrieved December 13, 2013. 
+^ "2013 Best PS3 Game". Hardcore Gamer. December 21, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Best PS3 Game - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "The Edge awards 2013: studio of the year". Edge. Future plc. December 30, 2013. Archived from the original on December 30, 2013. Retrieved January 7, 2014. 
+^ a b c d e Hussain, Tamoor (October 26, 2013). "Golden Joysticks 2013: Full list of winners". Computer and Video Games. Archived from the original on October 28, 2013. Retrieved December 9, 2013. 
+^ "2013 Best Developer". Hardcore Gamer. December 21, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ a b c Dane, Patrick (December 7, 2013). "'Grand Theft Auto V' Tops Spike VGX 2013 Award Winners List". Game Rant. Archived from the original on March 21, 2015. Retrieved December 9, 2013. 
+^ "2013 The Troy Baker Award". Hardcore Gamer. December 21, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "WGA Award Winners & More — 2014 Writers Guild Awards". Deadline.com. Penske Media Corporation. February 1, 2014. Archived from the original on March 21, 2015. Retrieved January 16, 2014. 
+^ "Giant Bomb's 2013 Game of the Year Awards: Day Two". Giant Bomb. CBS Interactive. December 24, 2013. Archived from the original on March 21, 2015. Retrieved January 16, 2014. 
+^ "2013 Best Story". Hardcore Gamer. December 21, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Best PS3 Story - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ a b "Best Overall Sound - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Best PS3 Sound - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ Hansen, Steven (December 24, 2013). "The winner of Destructoid's best of 2013 visuals". Destructoid. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Best PS3 Graphics - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Best Overall Graphics - Technology - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "2013 Best New IP". Hardcore Gamer. December 21, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Giant Bomb's 2013 Game of the Year Awards: Day Three". Giant Bomb. CBS Interactive. December 25, 2013. Archived from the original on March 21, 2015. Retrieved January 16, 2014. 
+^ "Best PS3 Multiplayer Game - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Best PS3 Action-Adventure Game - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "Best Overall Action-Adventure Game - IGN's Best of 2013". IGN. December 18, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ "The Winners of The Escapist Awards and Game of the Year Nominees". The Escapist. January 1, 2014. p. 6. Archived from the original on March 21, 2015. Retrieved January 17, 2014. 
+^ "2013 Best Action Game". Hardcore Gamer. December 19, 2013. Archived from the original on March 21, 2015. Retrieved December 25, 2013. 
+^ Goldfarb, Andrew (October 12, 2012). "The Last of Us Prequel Comic, Art Book Revealed". IGN. Ziff Davis. Archived from the original on October 10, 2014. Retrieved October 10, 2014. 
+^ McWhertor, Michael (July 21, 2014). "The Last of Us will be performed on stage for just one night". Polygon. Vox Media. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Vejvoda, Jim (March 6, 2014). "Screen Gems to Distribute Sam Raimi-Produced The Last of Us Movie". IGN. Ziff Davis. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Watts, Steve (January 27, 2016). "The Last of Us Movie to Have 'Big Changes'". IGN. Ziff Davis. Archived from the original on January 28, 2015. Retrieved April 6, 2016. 
+^ Schwartz, Terri (April 4, 2016). "Naughty Dog's Neil Druckmann Offers Updates on Uncharted, Last of Us Movies". IGN. Ziff Davis. Archived from the original on April 4, 2016. Retrieved April 6, 2016. 
+^ Vejvoda, Jim (November 15, 2016). "Producer Sam Raimi Says The Last of Us Movie Stuck at a 'Standstill'". IGN. Ziff Davis. Archived from the original on November 16, 2016. Retrieved June 26, 2017. 
+^ Lee, Ben (April 21, 2015). "Maisie Williams on The Last of Us movie: 'It's very, very early days'". Digital Spy. Hearst Corporation. Archived from the original on June 26, 2017. Retrieved June 26, 2017. 
+^ Robinson, Martin (February 24, 2014). "Naughty Dog mulls The Last of Us 2". Eurogamer. Gamer Network. Archived from the original on March 7, 2015. Retrieved March 7, 2015. 
+^ Hussain, Tamoor (September 23, 2015). "The Last of Us 2 Was Prototyped But Naughty Dog Focused on Uncharted 4 For Now". GameSpot. CBS Interactive. Archived from the original on September 23, 2015. Retrieved September 24, 2015. 
+^ Druckmann, Neil (December 3, 2016). "The Last of Us Part II". PlayStation Blog. Sony Interactive Entertainment. Archived from the original on December 3, 2016. Retrieved December 4, 2016. 
+^ Dornbush, Jonathon (December 3, 2016). "The Last of Us Part 2 Announced". IGN. Ziff Davis. Archived from the original on December 3, 2016. Retrieved December 3, 2016. 
+^ Robinson, Martin (December 3, 2016). "Ellie is the lead character in The Last of Us Part 2". Eurogamer. Gamer Network. Archived from the original on December 4, 2016. Retrieved December 4, 2016. 
+^ Pereira, Chris (December 3, 2016). "In The Last of Us: Part 2, You Play as Ellie". GameSpot. CBS Interactive. Archived from the original on March 12, 2017. Retrieved December 4, 2016. 
+^ Makuch, Eddie (December 5, 2016). "The Last of Us 2 Brings on Westworld Writer; Story Described as "Intense"". GameSpot. CBS Interactive. Archived from the original on March 12, 2017. Retrieved December 7, 2016. 
+^ Makuch, Eddie (December 4, 2016). "The Last of Us 2: Bruce Straley Not Returning to Direct". GameSpot. CBS Interactive. Archived from the original on March 12, 2017. Retrieved December 7, 2016. 
+
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: The Last of Us
+
+
+
+Official website
+The Last of Us on IMDb
+
+
+
+2010s portal
+Horror portal
+Sony PlayStation portal
+Speculative fiction portal
+Video games portal
+Viruses portal
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Naughty Dog
+
+
+
+Video games
+
+
+
+
+Crash Bandicoot
+
+
+
+Crash Bandicoot (1996)
+Crash Bandicoot 2: Cortex Strikes Back (1997)
+Crash Bandicoot: Warped (1998)
+Crash Team Racing (1999)
+
+
+
+
+
+Jak and Daxter
+
+
+
+Jak and Daxter: The Precursor Legacy (2001)
+Jak II (2003)
+Jak 3 (2004)
+Jak X: Combat Racing (2005)
+
+
+
+
+
+Uncharted
+
+
+
+Uncharted: Drake's Fortune (2007)
+2: Among Thieves (2009)
+3: Drake's Deception (2011)
+4: A Thief's End (2016)
+The Lost Legacy (2017)
+
+
+
+
+
+The Last of Us
+
+
+
+The Last of Us (2013)
+
+Left Behind (2014)
+
+
+The Last of Us Part II (TBA)
+
+
+
+
+
+Other games
+
+
+
+Dream Zone (1987)
+Keef the Thief (1989)
+Rings of Power (1991)
+Way of the Warrior (1994)
+
+
+
+
+
+Remasters
+
+
+
+Jak and Daxter Collection (2012)
+The Last of Us Remastered (2014)
+Uncharted: The Nathan Drake Collection (2015)
+
+
+
+
+
+
+
+
+People
+
+
+
+Neil Druckmann
+Bruce Straley
+Andy Gavin
+Jason Rubin
+Tom Bissell
+
+
+
+
+
+Related
+
+
+
+Sony Interactive Entertainment
+ICE Team
+
+
+
+
+
+
+
+
+ List
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+The Last of Us
+
+
+
+Video games
+
+
+
+The Last of Us
+
+Left Behind
+Remastered
+
+
+The Last of Us Part II
+
+
+
+
+
+Other media
+
+
+
+Music
+The Last of Us: American Dreams
+
+
+
+
+
+Related articles
+
+
+
+Development of The Last of Us
+List of accolades received by The Last of Us
+Characters
+
+Ellie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Academy of Interactive Arts & Sciences D.I.C.E. Award for Game of the Year
+
+
+
+
+
+
+GoldenEye 007 (1997)
+The Legend of Zelda: Ocarina of Time (1998)
+The Sims (1999)
+Diablo II (2000)
+Halo: Combat Evolved (2001)
+Battlefield 1942 (2002)
+Call of Duty (2003)
+Half-Life 2 (2004)
+God of War (2005)
+Gears of War (2006)
+Call of Duty 4: Modern Warfare (2007)
+LittleBigPlanet (2008)
+Uncharted 2: Among Thieves (2009)
+Mass Effect 2 (2010)
+The Elder Scrolls V: Skyrim (2011)
+Journey (2012)
+The Last of Us (2013)
+Dragon Age: Inquisition (2014)
+Fallout 4 (2015)
+Overwatch (2016)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+BAFTA Games Award for Best Game
+
+
+
+
+
+
+Call of Duty (2003)
+Half-Life 2 (2004)
+Tom Clancy's Ghost Recon Advanced Warfighter (2006)
+BioShock (2007)
+Super Mario Galaxy (2008)
+Batman: Arkham Asylum (2009)
+Mass Effect 2 (2010)
+Portal 2 (2011)
+Dishonored (2012)
+The Last of Us (2013)
+Destiny (2014)
+Fallout 4 (2015)
+Uncharted 4: A Thief's End (2016)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Game Developers Choice Award for Game of the Year
+
+
+
+
+
+
+The Sims (2000)
+Grand Theft Auto III (2001)
+Metroid Prime (2002)
+Star Wars: Knights of the Old Republic (2003)
+Half-Life 2 (2004)
+Shadow of the Colossus (2005)
+Gears of War (2006)
+Portal (2007)
+Fallout 3 (2008)
+Uncharted 2: Among Thieves (2009)
+Red Dead Redemption (2010)
+The Elder Scrolls V: Skyrim (2011)
+Journey (2012)
+The Last of Us (2013)
+Middle-earth: Shadow of Mordor (2014)
+The Witcher 3: Wild Hunt (2015)
+Overwatch (2016)
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 313250146
+LCCN: n2015072076
+BNF: cb16935263t (data)
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=The_Last_of_Us&oldid=811558867"					
+Categories: 2013 video gamesAction-adventure gamesAIAS Game of the Year winnersCannibalism in fictionHorror video gamesInteractive Achievement Award winnersLGBT-related video gamesMultiplayer and single-player video gamesNaughty Dog gamesPlayStation 3 gamesPlayStation 3-only gamesPost-apocalyptic video gamesSony Interactive Entertainment gamesStealth video gamesSurvival video gamesThe Last of UsVideo games about viral outbreaksVideo games developed in the United StatesVideo games featuring female antagonistsVideo games featuring female protagonistsVideo games set in 2013Video games set in the 2030sVideo games set in ColoradoVideo games set in BostonVideo games set in PennsylvaniaVideo games set in TexasVideo games set in WyomingVideo games set in UtahVideo games using HavokVideo games with downloadable contentVideo games with expansion packsZombie video gamesHidden categories: CS1 French-language sources (fr)CS1 Italian-language sources (it)CS1 Dutch-language sources (nl)CS1 Spanish-language sources (es)CS1 Japanese-language sources (ja)Featured articlesUse mdy dates from May 2014Articles using Infobox video game using locally defined parametersArticles using Wikidata infoboxes with locally defined imagesArticles using Video game reviews template in single platform modeWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with BNF identifiers 

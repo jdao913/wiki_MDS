@@ -1,0 +1,1902 @@
+Autism - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the classic autistic disorder. For other conditions sometimes called "autism", see Autism spectrum. For the journal, see Autism (journal).
+
+
+Autism
+
+
+
+
+
+Repetitively stacking or lining up objects is associated with autism.
+
+
+Specialty
+Psychiatry
+
+
+Symptoms
+Impaired social interaction, impaired verbal and non-verbal communication, restricted interests and repetitive behavior
+
+
+Usual onset
+By age two[1]
+
+
+Duration
+Long term
+
+
+Causes
+Genetic and environmental factors[2]
+
+
+Diagnostic method
+Based on behavior and developmental history[1]
+
+
+Similar conditions
+Reactive attachment disorder, intellectual disability, schizophrenia[3]
+
+
+Treatment
+Early speech and behavioral interventions[4]
+
+
+Frequency
+24.8 million (2015)[5]
+
+
+
+[edit on Wikidata]
+
+
+
+Autism is a neurodevelopmental disorder characterized by impaired social interaction, impaired verbal and non-verbal communication, and restricted and repetitive behavior. Parents usually notice signs in the first two years of their child's life.[6] These signs often develop gradually, though some children with autism reach their developmental milestones at a normal pace and then regress.[7] The diagnostic criteria require that symptoms become apparent in early childhood, typically before age three.[8]
+Autism is caused by a combination of genetic and environmental factors.[2] Some cases are strongly associated with certain infections during pregnancy including rubella and use of alcohol or cocaine.[9] Controversies surround other proposed environmental causes;[10] for example the vaccine hypotheses, which have been disproven. Autism affects information processing in the brain by altering how nerve cells and their synapses connect and organize; how this occurs is not well understood.[11] In the DSM V, autism is included within the autism spectrum (ASDs), as is Asperger syndrome, which lacks delays in cognitive development and language, and pervasive developmental disorder, not otherwise specified (commonly abbreviated as PDD-NOS), which can be diagnosed when the full set of criteria for autism or Asperger syndrome are not met.[8][12]
+Early speech or behavioral interventions can help children with autism gain self-care, social, and communication skills.[4] Although there is no known cure,[4] there have been reported cases of children who recovered.[13] Not many children with autism live independently after reaching adulthood, though some become successful.[14] An autistic culture has developed, with some individuals seeking a cure and others believing autism should be accepted as a difference and not treated as a disorder.[15]
+Globally, autism is estimated to affect 24.8 million people as of 2015.[5] As of 2010, the number of people affected is estimated at about 1–2 per 1,000 worldwide. It occurs four to five times more often in boys than girls. About 1.5% of children in the United States (one in 68) are diagnosed with ASD as of 2014[update], a 30% increase from one in 88 in 2012.[16][17][18] The rate of autism among adults aged 18 years and over in the United Kingdom is 1.1%.[19] The number of people diagnosed has been increasing dramatically since the 1980s, partly due to changes in diagnostic practice;[18] the question of whether actual rates have increased is unresolved.[20]
+
+
+
+Contents
+
+
+1 Characteristics
+
+1.1 Social development
+1.2 Communication
+1.3 Repetitive behavior
+1.4 Other symptoms
+
+
+2 Causes
+3 Mechanism
+
+3.1 Pathophysiology
+3.2 Neuropsychology
+
+
+4 Diagnosis
+
+4.1 Classification
+
+
+5 Screening
+6 Prevention
+7 Management
+
+7.1 Education
+7.2 Medication
+7.3 Alternative medicine
+7.4 Cost
+
+
+8 Society and culture
+9 Prognosis
+10 Epidemiology
+11 History
+
+11.1 Early clinical development and diagnoses
+11.2 Modern terminology and distinction from schizophrenia
+
+
+12 References
+13 External links
+
+
+
+Characteristics
+
+
+Play media
+
+
+Autism spectrum disorder video
+
+
+Autism is a highly variable neurodevelopmental disorder[21] that first appears during infancy or childhood, and generally follows a steady course without remission.[22] People with autism may be severely impaired in some respects but normal, or even superior, in others.[23] Overt symptoms gradually begin after the age of six months, become established by age two or three years,[24] and tend to continue through adulthood, although often in more muted form.[25] It is distinguished not by a single symptom, but by a characteristic triad of symptoms: impairments in social interaction; impairments in communication; and restricted interests and repetitive behavior. Other aspects, such as atypical eating, are also common but are not essential for diagnosis.[26] Autism's individual symptoms occur in the general population and appear not to associate highly, without a sharp line separating pathologically severe from common traits.[27]
+Social development
+Social deficits distinguish autism and the related autism spectrum disorders (ASD; see Classification) from other developmental disorders.[25] People with autism have social impairments and often lack the intuition about others that many people take for granted. Noted autistic Temple Grandin described her inability to understand the social communication of neurotypicals, or people with normal neural development, as leaving her feeling "like an anthropologist on Mars".[28]
+Unusual social development becomes apparent early in childhood. Autistic infants show less attention to social stimuli, smile and look at others less often, and respond less to their own name. Autistic toddlers differ more strikingly from social norms; for example, they have less eye contact and turn-taking, and do not have the ability to use simple movements to express themselves, such as pointing at things.[29] Three- to five-year-old children with autism are less likely to exhibit social understanding, approach others spontaneously, imitate and respond to emotions, communicate nonverbally, and take turns with others. However, they do form attachments to their primary caregivers.[30] Most children with autism display moderately less attachment security than neurotypical children, although this difference disappears in children with higher mental development or less severe ASD.[31] Older children and adults with ASD perform worse on tests of face and emotion recognition[32] although this may be partly due to a lower ability to define a person's own emotions.[33]
+Children with high-functioning autism suffer from more intense and frequent loneliness compared to non-autistic peers, despite the common belief that children with autism prefer to be alone. Making and maintaining friendships often proves to be difficult for those with autism. For them, the quality of friendships, not the number of friends, predicts how lonely they feel. Functional friendships, such as those resulting in invitations to parties, may affect the quality of life more deeply.[34]
+There are many anecdotal reports, but few systematic studies, of aggression and violence in individuals with ASD. The limited data suggest that, in children with intellectual disability, autism is associated with aggression, destruction of property, and tantrums.[35]
+Communication
+About a third to a half of individuals with autism do not develop enough natural speech to meet their daily communication needs.[36] Differences in communication may be present from the first year of life, and may include delayed onset of babbling, unusual gestures, diminished responsiveness, and vocal patterns that are not synchronized with the caregiver. In the second and third years, children with autism have less frequent and less diverse babbling, consonants, words, and word combinations; their gestures are less often integrated with words. Children with autism are less likely to make requests or share experiences, and are more likely to simply repeat others' words (echolalia)[37][38] or reverse pronouns.[39] Joint attention seems to be necessary for functional speech, and deficits in joint attention seem to distinguish infants with ASD:[12] for example, they may look at a pointing hand instead of the pointed-at object,[29][38] and they consistently fail to point at objects in order to comment on or share an experience.[12] Children with autism may have difficulty with imaginative play and with developing symbols into language.[37][38]
+In a pair of studies, high-functioning children with autism aged 8–15 performed equally well as, and as adults better than, individually matched controls at basic language tasks involving vocabulary and spelling. Both autistic groups performed worse than controls at complex language tasks such as figurative language, comprehension and inference. As people are often sized up initially from their basic language skills, these studies suggest that people speaking to autistic individuals are more likely to overestimate what their audience comprehends.[40]
+Repetitive behavior
+
+
+
+
+A young boy with autism who has arranged his toys in a row
+
+
+Autistic individuals can display many forms of repetitive or restricted behavior, which the Repetitive Behavior Scale-Revised (RBS-R) categorizes as follows.[41]
+
+Stereotyped behaviors: Repetitive movements, such as hand flapping, head rolling, or body rocking.
+Compulsive behaviors: Time-consuming behaviors intended to reduce anxiety that an individual feels compelled to perform repeatedly or according to rigid rules, such as placing objects in a specific order, checking things, or hand washing.
+Sameness: Resistance to change; for example, insisting that the furniture not be moved or refusing to be interrupted.
+Ritualistic behavior: Unvarying pattern of daily activities, such as an unchanging menu or a dressing ritual. This is closely associated with sameness and an independent validation has suggested combining the two factors.[41]
+Restricted interests: Interests or fixations that are abnormal in theme or intensity of focus, such as preoccupation with a single television program, toy, or game.
+Self-injury: Behaviors such as eye-poking, skin-picking, hand-biting and head-banging.[12]
+
+No single repetitive or self-injurious behavior seems to be specific to autism, but autism appears to have an elevated pattern of occurrence and severity of these behaviors.[42]
+Other symptoms
+Autistic individuals may have symptoms that are independent of the diagnosis, but that can affect the individual or the family.[26] An estimated 0.5% to 10% of individuals with ASD show unusual abilities, ranging from splinter skills such as the memorization of trivia to the extraordinarily rare talents of prodigious autistic savants.[43] Many individuals with ASD show superior skills in perception and attention, relative to the general population.[44] Sensory abnormalities are found in over 90% of those with autism, and are considered core features by some,[45] although there is no good evidence that sensory symptoms differentiate autism from other developmental disorders.[46] Differences are greater for under-responsivity (for example, walking into things) than for over-responsivity (for example, distress from loud noises) or for sensation seeking (for example, rhythmic movements).[47] An estimated 60%–80% of autistic people have motor signs that include poor muscle tone, poor motor planning, and toe walking;[45] deficits in motor coordination are pervasive across ASD and are greater in autism proper.[48]
+Unusual eating behavior occurs in about three-quarters of children with ASD, to the extent that it was formerly a diagnostic indicator. Selectivity is the most common problem, although eating rituals and food refusal also occur;[49] this does not appear to result in malnutrition. Although some children with autism also have gastrointestinal symptoms, there is a lack of published rigorous data to support the theory that children with autism have more or different gastrointestinal symptoms than usual;[50] studies report conflicting results, and the relationship between gastrointestinal problems and ASD is unclear.[51]
+Parents of children with ASD have higher levels of stress.[29] Siblings of children with ASD report greater admiration of and less conflict with the affected sibling than siblings of unaffected children and were similar to siblings of children with Down syndrome in these aspects of the sibling relationship. However, they reported lower levels of closeness and intimacy than siblings of children with Down syndrome; siblings of individuals with ASD have greater risk of negative well-being and poorer sibling relationships as adults.[52]
+Causes
+Main article: Causes of autism
+It has long been presumed that there is a common cause at the genetic, cognitive, and neural levels for autism's characteristic triad of symptoms.[53] However, there is increasing suspicion that autism is instead a complex disorder whose core aspects have distinct causes that often co-occur.[53][54]
+
+
+
+
+Deletion (1), duplication (2) and inversion (3) are all chromosome abnormalities that have been implicated in autism.[55]
+
+
+Autism has a strong genetic basis, although the genetics of autism are complex and it is unclear whether ASD is explained more by rare mutations with major effects, or by rare multigene interactions of common genetic variants.[56][57] Complexity arises due to interactions among multiple genes, the environment, and epigenetic factors which do not change DNA sequencing but are heritable and influence gene expression.[25] Many genes have been associated with autism through sequencing the genomes of affected individuals and their parents.[58]
+Studies of twins suggest that heritability is 0.7 for autism and as high as 0.9 for ASD, and siblings of those with autism are about 25 times more likely to be autistic than the general population.[45] However, most of the mutations that increase autism risk have not been identified. Typically, autism cannot be traced to a Mendelian (single-gene) mutation or to a single chromosome abnormality, and none of the genetic syndromes associated with ASDs have been shown to selectively cause ASD.[56] Numerous candidate genes have been located, with only small effects attributable to any particular gene.[56] Most loci individually explain less than 1% of cases of autism.[59] The large number of autistic individuals with unaffected family members may result from spontaneous structural variation — such as deletions, duplications or inversions in genetic material during meiosis.[60][61] Hence, a substantial fraction of autism cases may be traceable to genetic causes that are highly heritable but not inherited: that is, the mutation that causes the autism is not present in the parental genome.[55]
+Several lines of evidence point to synaptic dysfunction as a cause of autism.[11] Some rare mutations may lead to autism by disrupting some synaptic pathways, such as those involved with cell adhesion.[62] Gene replacement studies in mice suggest that autistic symptoms are closely related to later developmental steps that depend on activity in synapses and on activity-dependent changes.[63] All known teratogens (agents that cause birth defects) related to the risk of autism appear to act during the first eight weeks from conception, and though this does not exclude the possibility that autism can be initiated or affected later, there is strong evidence that autism arises very early in development.[64]
+Exposure to air pollution during pregnancy, especially heavy metals and particulates, may increase the risk of autism.[65] Environmental factors that have been claimed without evidence to contribute to or exacerbate autism include certain foods, infectious diseases, solvents, PCBs, phthalates and phenols used in plastic products, pesticides, brominated flame retardants, alcohol, smoking, illicit drugs, vaccines,[20] and prenatal stress. Some such as the MMR vaccine have been completely disproven.[66]
+Parents may first become aware of autistic symptoms in their child around the time of a routine vaccination. This has led to unsupported theories blaming vaccine "overload", a vaccine preservative, or the MMR vaccine for causing autism.[67] The latter theory was supported by a litigation-funded study that has since been shown to have been "an elaborate fraud".[68] Although these theories lack convincing scientific evidence and are biologically implausible,[67] parental concern about a potential vaccine link with autism has led to lower rates of childhood immunizations, outbreaks of previously controlled childhood diseases in some countries, and the preventable deaths of several children.[69][70]
+Mechanism
+Autism's symptoms result from maturation-related changes in various systems of the brain. How autism occurs is not well understood. Its mechanism can be divided into two areas: the pathophysiology of brain structures and processes associated with autism, and the neuropsychological linkages between brain structures and behaviors.[71] The behaviors appear to have multiple pathophysiologies.[27]
+Pathophysiology
+
+
+
+
+Autism affects the amygdala, cerebellum, and many other parts of the brain.[72]
+
+
+Unlike many other brain disorders, such as Parkinson's, autism does not have a clear unifying mechanism at either the molecular, cellular, or systems level; it is not known whether autism is a few disorders caused by mutations converging on a few common molecular pathways, or is (like intellectual disability) a large set of disorders with diverse mechanisms.[21] Autism appears to result from developmental factors that affect many or all functional brain systems,[73] and to disturb the timing of brain development more than the final product.[72] Neuroanatomical studies and the associations with teratogens strongly suggest that autism's mechanism includes alteration of brain development soon after conception.[64] This anomaly appears to start a cascade of pathological events in the brain that are significantly influenced by environmental factors.[74] Just after birth, the brains of children with autism tend to grow faster than usual, followed by normal or relatively slower growth in childhood. It is not known whether early overgrowth occurs in all children with autism. It seems to be most prominent in brain areas underlying the development of higher cognitive specialization.[45] Hypotheses for the cellular and molecular bases of pathological early overgrowth include the following:
+
+An excess of neurons that causes local overconnectivity in key brain regions.[75]
+Disturbed neuronal migration during early gestation.[76][77]
+Unbalanced excitatory–inhibitory networks.[77]
+Abnormal formation of synapses and dendritic spines,[77] for example, by modulation of the neurexin–neuroligin cell-adhesion system,[78] or by poorly regulated synthesis of synaptic proteins.[79][80] Disrupted synaptic development may also contribute to epilepsy, which may explain why the two conditions are associated.[81]
+
+The immune system is thought to play an important role in autism. Children with autism have been found by researchers to have inflammation of both the peripheral and central immune systems as indicated by increased levels of pro-inflammatory cytokines and significant activation of microglia.[82][83][84] Biomarkers of abnormal immune function have also been associated with increased impairments in behaviors that are characteristic of the core features of autism such as deficits in social interactions and communication.[83] Interactions between the immune system and the nervous system begin early during the embryonic stage of life, and successful neurodevelopment depends on a balanced immune response. It is thought that activation of a pregnant mother's immune system such as from environmental toxicants or infection can contribute to causing autism through causing a disruption of brain development.[85][86][87] This is supported by recent studies that have found that infection during pregnancy is associated with an increased risk of autism.[88][89]
+The relationship of neurochemicals to autism is not well understood; several have been investigated, with the most evidence for the role of serotonin and of genetic differences in its transport.[11] The role of group I metabotropic glutamate receptors (mGluR) in the pathogenesis of fragile X syndrome, the most common identified genetic cause of autism, has led to interest in the possible implications for future autism research into this pathway.[90] Some data suggests neuronal overgrowth potentially related to an increase in several growth hormones[91] or to impaired regulation of growth factor receptors. Also, some inborn errors of metabolism are associated with autism, but probably account for less than 5% of cases.[92]
+The mirror neuron system (MNS) theory of autism hypothesizes that distortion in the development of the MNS interferes with imitation and leads to autism's core features of social impairment and communication difficulties. The MNS operates when an animal performs an action or observes another animal perform the same action. The MNS may contribute to an individual's understanding of other people by enabling the modeling of their behavior via embodied simulation of their actions, intentions, and emotions.[93] Several studies have tested this hypothesis by demonstrating structural abnormalities in MNS regions of individuals with ASD, delay in the activation in the core circuit for imitation in individuals with Asperger syndrome, and a correlation between reduced MNS activity and severity of the syndrome in children with ASD.[94] However, individuals with autism also have abnormal brain activation in many circuits outside the MNS[95] and the MNS theory does not explain the normal performance of children with autism on imitation tasks that involve a goal or object.[96]
+
+
+
+
+Autistic individuals tend to use different areas of the brain (yellow) for a movement task compared to a control group (blue).[97]
+
+
+ASD-related patterns of low function and aberrant activation in the brain differ depending on whether the brain is doing social or nonsocial tasks.[98] In autism there is evidence for reduced functional connectivity of the default network, a large-scale brain network involved in social and emotional processing, with intact connectivity of the task-positive network, used in sustained attention and goal-directed thinking[clarification needed]. In people with autism the two networks are not negatively correlated in time, suggesting an imbalance in toggling between the two networks, possibly reflecting a disturbance of self-referential thought.[99]
+The underconnectivity theory of autism hypothesizes that autism is marked by underfunctioning high-level neural connections and synchronization, along with an excess of low-level processes.[100] Evidence for this theory has been found in functional neuroimaging studies on autistic individuals[40] and by a brainwave study that suggested that adults with ASD have local overconnectivity in the cortex and weak functional connections between the frontal lobe and the rest of the cortex.[101] Other evidence suggests the underconnectivity is mainly within each hemisphere of the cortex and that autism is a disorder of the association cortex.[102]
+From studies based on event-related potentials, transient changes to the brain's electrical activity in response to stimuli, there is considerable evidence for differences in autistic individuals with respect to attention, orientation to auditory and visual stimuli, novelty detection, language and face processing, and information storage; several studies have found a preference for nonsocial stimuli.[103] For example, magnetoencephalography studies have found evidence in children with autism of delayed responses in the brain's processing of auditory signals.[104]
+In the genetic area, relations have been found between autism and schizophrenia based on duplications and deletions of chromosomes; research showed that schizophrenia and autism are significantly more common in combination with 1q21.1 deletion syndrome. Research on autism/schizophrenia relations for chromosome 15 (15q13.3), chromosome 16 (16p13.1) and chromosome 17 (17p12) are inconclusive.[105]
+Functional connectivity studies have found both hypo- and hyper-connectivity in brains of people with autism. Hypo-connectivity seems to dominate, especially for interhemispheric and cortico-cortical functional connectivity.[106]
+Neuropsychology
+Two major categories of cognitive theories have been proposed about the links between autistic brains and behavior.
+The first category focuses on deficits in social cognition. Simon Baron-Cohen's empathizing–systemizing theory postulates that autistic individuals can systemize—that is, they can develop internal rules of operation to handle events inside the brain—but are less effective at empathizing by handling events generated by other agents. An extension, the extreme male brain theory, hypothesizes that autism is an extreme case of the male brain, defined psychometrically as individuals in whom systemizing is better than empathizing.[107] These theories are somewhat related to Baron-Cohen's earlier theory of mind approach, which hypothesizes that autistic behavior arises from an inability to ascribe mental states to oneself and others. The theory of mind hypothesis is supported by the atypical responses of children with autism to the Sally–Anne test for reasoning about others' motivations,[107] and the mirror neuron system theory of autism described in Pathophysiology maps well to the hypothesis.[94] However, most studies have found no evidence of impairment in autistic individuals' ability to understand other people's basic intentions or goals; instead, data suggests that impairments are found in understanding more complex social emotions or in considering others' viewpoints.[108]
+The second category focuses on nonsocial or general processing: the executive functions such as working memory, planning, inhibition. In his review, Kenworthy states that "the claim of executive dysfunction as a causal factor in autism is controversial", however, "it is clear that executive dysfunction plays a role in the social and cognitive deficits observed in individuals with autism".[109] Tests of core executive processes such as eye movement tasks indicate improvement from late childhood to adolescence, but performance never reaches typical adult levels.[110] A strength of the theory is predicting stereotyped behavior and narrow interests;[111] two weaknesses are that executive function is hard to measure[109] and that executive function deficits have not been found in young children with autism.[32]
+Weak central coherence theory hypothesizes that a limited ability to see the big picture underlies the central disturbance in autism. One strength of this theory is predicting special talents and peaks in performance in autistic people.[112] A related theory—enhanced perceptual functioning—focuses more on the superiority of locally oriented and perceptual operations in autistic individuals.[113] These theories map well from the underconnectivity theory of autism.
+Neither category is satisfactory on its own; social cognition theories poorly address autism's rigid and repetitive behaviors, while the nonsocial theories have difficulty explaining social impairment and communication difficulties.[54] A combined theory based on multiple deficits may prove to be more useful.[114]
+Diagnosis
+Diagnosis is based on behavior, not cause or mechanism.[27][115] Under the DSM-5, autism is characterized by persistent deficits in social communication and interaction across multiple contexts, as well as restricted, repetitive patterns of behavior, interests, or activities. These deficits are present in early childhood, typically before age three, and lead to clinically significant functional impairment. Sample symptoms include lack of social or emotional reciprocity, stereotyped and repetitive use of language or idiosyncratic language, and persistent preoccupation with unusual objects. The disturbance must not be better accounted for by Rett syndrome, intellectual disability or global developmental delay.[8] ICD-10 uses essentially the same definition.[22]
+Several diagnostic instruments are available. Two are commonly used in autism research: the Autism Diagnostic Interview-Revised (ADI-R) is a semistructured parent interview, and the Autism Diagnostic Observation Schedule (ADOS)[116] uses observation and interaction with the child. The Childhood Autism Rating Scale (CARS) is used widely in clinical environments to assess severity of autism based on observation of children.[29] The Diagnostic interview for social and communication disorders (DISCO) may also be used.[117]
+A pediatrician commonly performs a preliminary investigation by taking developmental history and physically examining the child. If warranted, diagnosis and evaluations are conducted with help from ASD specialists, observing and assessing cognitive, communication, family, and other factors using standardized tools, and taking into account any associated medical conditions.[118] A pediatric neuropsychologist is often asked to assess behavior and cognitive skills, both to aid diagnosis and to help recommend educational interventions.[119] A differential diagnosis for ASD at this stage might also consider intellectual disability, hearing impairment, and a specific language impairment[118] such as Landau–Kleffner syndrome.[120] The presence of autism can make it harder to diagnose coexisting psychiatric disorders such as depression.[121]
+Clinical genetics evaluations are often done once ASD is diagnosed, particularly when other symptoms already suggest a genetic cause.[122] Although genetic technology allows clinical geneticists to link an estimated 40% of cases to genetic causes,[123] consensus guidelines in the US and UK are limited to high-resolution chromosome and fragile X testing.[122] A genotype-first model of diagnosis has been proposed, which would routinely assess the genome's copy number variations.[124] As new genetic tests are developed several ethical, legal, and social issues will emerge. Commercial availability of tests may precede adequate understanding of how to use test results, given the complexity of autism's genetics.[125] Metabolic and neuroimaging tests are sometimes helpful, but are not routine.[122]
+ASD can sometimes be diagnosed by age 14 months, although diagnosis becomes increasingly stable over the first three years of life: for example, a one-year-old who meets diagnostic criteria for ASD is less likely than a three-year-old to continue to do so a few years later.[6] In the UK the National Autism Plan for Children recommends at most 30 weeks from first concern to completed diagnosis and assessment, though few cases are handled that quickly in practice.[118] Although the symptoms of autism and ASD begin early in childhood, they are sometimes missed; years later, adults may seek diagnoses to help them or their friends and family understand themselves, to help their employers make adjustments, or in some locations to claim disability living allowances or other benefits.
+Underdiagnosis and overdiagnosis are problems in marginal cases, and much of the recent increase in the number of reported ASD cases is likely due to changes in diagnostic practices. The increasing popularity of drug treatment options and the expansion of benefits has given providers incentives to diagnose ASD, resulting in some overdiagnosis of children with uncertain symptoms. Conversely, the cost of screening and diagnosis and the challenge of obtaining payment can inhibit or delay diagnosis.[126] It is particularly hard to diagnose autism among the visually impaired, partly because some of its diagnostic criteria depend on vision, and partly because autistic symptoms overlap with those of common blindness syndromes or blindisms.[127]
+Classification
+Autism is one of the five pervasive developmental disorders (PDD), which are characterized by widespread abnormalities of social interactions and communication, and severely restricted interests and highly repetitive behavior.[22] These symptoms do not imply sickness, fragility, or emotional disturbance.[25]
+Of the five PDD forms, Asperger syndrome is closest to autism in signs and likely causes; Rett syndrome and childhood disintegrative disorder share several signs with autism, but may have unrelated causes; PDD not otherwise specified (PDD-NOS; also called atypical autism) is diagnosed when the criteria are not met for a more specific disorder.[128] Unlike with autism, people with Asperger syndrome have no substantial delay in language development.[129] The terminology of autism can be bewildering, with autism, Asperger syndrome and PDD-NOS often called the autism spectrum disorders (ASD)[4] or sometimes the autistic disorders,[130] whereas autism itself is often called autistic disorder, childhood autism, or infantile autism. In this article, autism refers to the classic autistic disorder; in clinical practice, though, autism, ASD, and PDD are often used interchangeably.[122] ASD, in turn, is a subset of the broader autism phenotype, which describes individuals who may not have ASD but do have autistic-like traits, such as avoiding eye contact.[131]
+The manifestations of autism cover a wide spectrum, ranging from individuals with severe impairments—who may be silent, developmentally disabled, and locked into hand flapping and rocking—to high functioning individuals who may have active but distinctly odd social approaches, narrowly focused interests, and verbose, pedantic communication.[132] Because the behavior spectrum is continuous, boundaries between diagnostic categories are necessarily somewhat arbitrary.[45] Sometimes the syndrome is divided into low-, medium- or high-functioning autism (LFA, MFA, and HFA), based on IQ thresholds,[133] or on how much support the individual requires in daily life; these subdivisions are not standardized and are controversial. Autism can also be divided into syndromal and non-syndromal autism; the syndromal autism is associated with severe or profound intellectual disability or a congenital syndrome with physical symptoms, such as tuberous sclerosis.[134] Although individuals with Asperger syndrome tend to perform better cognitively than those with autism, the extent of the overlap between Asperger syndrome, HFA, and non-syndromal autism is unclear.[135]
+Some studies have reported diagnoses of autism in children due to a loss of language or social skills, as opposed to a failure to make progress, typically from 15 to 30 months of age. The validity of this distinction remains controversial; it is possible that regressive autism is a specific subtype,[7][37][6][136] or that there is a continuum of behaviors between autism with and without regression.[137]
+Research into causes has been hampered by the inability to identify biologically meaningful subgroups within the autistic population[138] and by the traditional boundaries between the disciplines of psychiatry, psychology, neurology and pediatrics.[139] Newer technologies such as fMRI and diffusion tensor imaging can help identify biologically relevant phenotypes (observable traits) that can be viewed on brain scans, to help further neurogenetic studies of autism;[140] one example is lowered activity in the fusiform face area of the brain, which is associated with impaired perception of people versus objects.[11] It has been proposed to classify autism using genetics as well as behavior.[141]
+Screening
+About half of parents of children with ASD notice their child's unusual behaviors by age 18 months, and about four-fifths notice by age 24 months.[6] According to an article, failure to meet any of the following milestones "is an absolute indication to proceed with further evaluations. Delay in referral for such testing may delay early diagnosis and treatment and affect the long-term outcome".[26]
+
+No babbling by 12 months.
+No gesturing (pointing, waving, etc.) by 12 months.
+No single words by 16 months.
+No two-word (spontaneous, not just echolalic) phrases by 24 months.
+Any loss of any language or social skills, at any age.
+
+The United States Preventive Services Task Force in 2016 found it was unclear if screening was beneficial or harmful among children in whom there is no concerns.[142] The Japanese practice is to screen all children for ASD at 18 and 24 months, using autism-specific formal screening tests. In contrast, in the UK, children whose families or doctors recognize possible signs of autism are screened. It is not known which approach is more effective.[11] Screening tools include the Modified Checklist for Autism in Toddlers (M-CHAT), the Early Screening of Autistic Traits Questionnaire, and the First Year Inventory; initial data on M-CHAT and its predecessor, the Checklist for Autism in Toddlers (CHAT), on children aged 18–30 months suggests that it is best used in a clinical setting and that it has low sensitivity (many false-negatives) but good specificity (few false-positives).[6] It may be more accurate to precede these tests with a broadband screener that does not distinguish ASD from other developmental disorders.[143] Screening tools designed for one culture's norms for behaviors like eye contact may be inappropriate for a different culture.[144] Although genetic screening for autism is generally still impractical, it can be considered in some cases, such as children with neurological symptoms and dysmorphic features.[145]
+Prevention
+While infection with rubella during pregnancy causes fewer than 1% of cases of autism,[146] vaccination against rubella can prevent many of those cases.[147]
+Management
+Main article: Autism therapies
+
+
+
+
+A three-year-old with autism points to fish in an aquarium, as part of an experiment on the effect of intensive shared-attention training on language development.[97]
+
+
+The main goals when treating children with autism are to lessen associated deficits and family distress, and to increase quality of life and functional independence. In general, higher IQs are correlated with greater responsiveness to treatment and improved treatment outcomes.[148][149] No single treatment is best and treatment is typically tailored to the child's needs.[4] Families and the educational system are the main resources for treatment.[11] Studies of interventions have methodological problems that prevent definitive conclusions about efficacy,[150] however the development of evidence-based interventions has advanced in recent years.[148] Although many psychosocial interventions have some positive evidence, suggesting that some form of treatment is preferable to no treatment, the methodological quality of systematic reviews of these studies has generally been poor, their clinical results are mostly tentative, and there is little evidence for the relative effectiveness of treatment options.[151] Intensive, sustained special education programs and behavior therapy early in life can help children acquire self-care, social, and job skills,[4] and often improve functioning and decrease symptom severity and maladaptive behaviors;[152] claims that intervention by around age three years is crucial are not substantiated.[153] Available approaches include applied behavior analysis (ABA), developmental models, structured teaching, speech and language therapy, social skills therapy, and occupational therapy.[4] Among these approaches, interventions either treat autistic features comprehensively, or focalize treatment on a specific area of deficit.[148] There is some evidence that early intensive behavioral intervention (EIBI), an early intervention model based on ABA for 20 to 40 hours a week for multiple years, is an effective treatment for some children with ASD.[154] Two theoretical frameworks outlined for early childhood intervention include applied behavioral analysis (ABA) and developmental social pragmatic models (DSP).[148] One interventional strategy utilizes a parent training model, which teaches parents how to implement various ABA and DSP techniques, allowing for parents to disseminate interventions themselves.[148] Various DSP programs have been developed to explicitly deliver intervention systems through at-home parent implementation. Despite the recent development of parent training models, these interventions have demonstrated effectiveness in numerous studies, being evaluated as a probable efficacious mode of treatment.[148]
+Education
+Educational interventions can be effective to varying degrees in most children: intensive ABA treatment has demonstrated effectiveness in enhancing global functioning in preschool children[155] and is well-established for improving intellectual performance of young children.[152] Similarly, teacher-implemented intervention that utilizes an ABA combined with a developmental social pragmatic approach has been found to be a well-established treatment in improving social-communication skills in young children, although there is less evidence in its treatment of global symptoms.[148] Neuropsychological reports are often poorly communicated to educators, resulting in a gap between what a report recommends and what education is provided.[119] It is not known whether treatment programs for children lead to significant improvements after the children grow up,[152] and the limited research on the effectiveness of adult residential programs shows mixed results.[156] The appropriateness of including children with varying severity of autism spectrum disorders in the general education population is a subject of current debate among educators and researchers.[157]
+Medication
+Many medications are used to treat ASD symptoms that interfere with integrating a child into home or school when behavioral treatment fails.[25][158] More than half of US children diagnosed with ASD are prescribed psychoactive drugs or anticonvulsants, with the most common drug classes being antidepressants, stimulants, and antipsychotics.[159] Antipsychotics, such as risperidone and aripiprazole, have been found to be useful for treating irritability, repetitive behavior, and sleeplessness that often occurs with autism, however their side effects must be weighed against their potential benefits, and people with autism may respond atypically.[160] There is scant reliable research about the effectiveness or safety of drug treatments for adolescents and adults with ASD.[161] No known medication relieves autism's core symptoms of social and communication impairments.[162] Experiments in mice have reversed or reduced some symptoms related to autism by replacing or modulating gene function,[63][90] suggesting the possibility of targeting therapies to specific rare mutations known to cause autism.[62][163]
+Alternative medicine
+Although many alternative therapies and interventions are available, few are supported by scientific studies.[32][164] Treatment approaches have little empirical support in quality-of-life contexts, and many programs focus on success measures that lack predictive validity and real-world relevance.[34] Scientific evidence appears to matter less to service providers than program marketing, training availability, and parent requests.[165] Some alternative treatments may place the child at risk. A 2008 study found that compared to their peers, autistic boys have significantly thinner bones if on casein-free diets;[166] in 2005, botched chelation therapy killed a five-year-old child with autism.[167] There has been early research looking at hyperbaric treatments in children with autism.[168]
+Although popularly used as an alternative treatment for people with autism, there is no good evidence that a gluten-free diet is of benefit.[169][170][171] In the subset of people who have gluten sensitivity there is limited evidence that suggests that a gluten free diet may improve some autistic behaviors.[169][172][173][174]
+Cost
+Treatment is expensive; indirect costs are more so. For someone born in 2000, a US study estimated an average lifetime cost of $4.11 million (net present value in 2016 dollars, inflation-adjusted from 2003 estimate),[175] with about 10% medical care, 30% extra education and other care, and 60% lost economic productivity.[176] Publicly supported programs are often inadequate or inappropriate for a given child, and unreimbursed out-of-pocket medical or therapy expenses are associated with likelihood of family financial problems;[177] one 2008 US study found a 14% average loss of annual income in families of children with ASD,[178] and a related study found that ASD is associated with higher probability that child care problems will greatly affect parental employment.[179] US states increasingly require private health insurance to cover autism services, shifting costs from publicly funded education programs to privately funded health insurance.[180] After childhood, key treatment issues include residential care, job training and placement, sexuality, social skills, and estate planning.[181]
+Society and culture
+Main article: Sociological and cultural aspects of autism
+The emergence of the autism rights movement has served as an attempt to encourage people to be more tolerant of those with autism.[182] Through this movement, people hope to cause others to think of autism as a difference instead of a disease. Proponents of this movement wish to seek "acceptance, not cures."[183] There have also been many worldwide events promoting autism awareness such as World Autism Awareness Day, Light It Up Blue, Autism Sunday, Autistic Pride Day, Autreat, and others.[184][185][186][187][188] There have also been many organizations dedicated to increasing the awareness of autism and the effects that autism has on someone's life. These organizations include Autism Speaks, Autism National Committee, Autism Society of America, and many others.[189] Social-science scholars have had an increased focused on studying those with autism in hopes to learn more about "autism as a culture, transcultural comparisons... and research on social movements."[190] Media has had an influence on how the public perceives those with autism. Rain Man, a film that won 4 Oscars including Best Picture, depicts a character with autism who has incredible talents and abilities.[191] While many autistics don't have these special abilities, there are some autistic individuals who have been successful in their fields.[192][193][194]
+Prognosis
+There is no known cure.[4][11] Children recover occasionally, so that they lose their diagnosis of ASD;[13] this occurs sometimes after intensive treatment and sometimes not. It is not known how often recovery happens;[152] reported rates in unselected samples of children with ASD have ranged from 3% to 25%.[13] Most children with autism acquire language by age five or younger, though a few have developed communication skills in later years.[195] Most children with autism lack social support, meaningful relationships, future employment opportunities or self-determination.[34] Although core difficulties tend to persist, symptoms often become less severe with age.[25]
+Few high-quality studies address long-term prognosis. Some adults show modest improvement in communication skills, but a few decline; no study has focused on autism after midlife.[196] Acquiring language before age six, having an IQ above 50, and having a marketable skill all predict better outcomes; independent living is unlikely with severe autism.[197] Most people with autism face significant obstacles in transitioning to adulthood.[198]
+Epidemiology
+Main article: Epidemiology of autism
+
+
+
+
+Reports of autism cases per 1,000 children grew dramatically in the US from 1996 to 2007. It is unknown how much, if any, growth came from changes in rates of autism.
+
+
+Most recent reviews tend to estimate a prevalence of 1–2 per 1,000 for autism and close to 6 per 1,000 for ASD,[20] and 11 per 1,000 children in the United States for ASD as of 2008;[17][146] because of inadequate data, these numbers may underestimate ASD's true rate.[122] Globally, autism affects an estimated 24.8 million people as of 2015, while Asperger syndrome affects a further 37.2 million.[5] In 2012, the NHS estimated that the overall prevalence of autism among adults aged 18 years and over in the UK was 1.1%.[19] Rates of PDD-NOS's has been estimated at 3.7 per 1,000, Asperger syndrome at roughly 0.6 per 1,000, and childhood disintegrative disorder at 0.02 per 1,000.[199] CDC's most recent estimate is that 1 out of every 68 children, or 14.7 per 1,000, has an ASD as of 2010.[200]
+The number of reported cases of autism increased dramatically in the 1990s and early 2000s. This increase is largely attributable to changes in diagnostic practices, referral patterns, availability of services, age at diagnosis, and public awareness,[199][201] though unidentified environmental risk factors cannot be ruled out.[10] The available evidence does not rule out the possibility that autism's true prevalence has increased;[199] a real increase would suggest directing more attention and funding toward changing environmental factors instead of continuing to focus on genetics.[202]
+Boys are at higher risk for ASD than girls. The sex ratio averages 4.3:1 and is greatly modified by cognitive impairment: it may be close to 2:1 with intellectual disability and more than 5.5:1 without.[20] Several theories about the higher prevalence in males have been investigated, but the cause of the difference is unconfirmed;[86] one theory is that females are underdiagnosed.[203]
+Although the evidence does not implicate any single pregnancy-related risk factor as a cause of autism, the risk of autism is associated with advanced age in either parent, and with diabetes, bleeding, and use of psychiatric drugs in the mother during pregnancy.[86][204] The risk is greater with older fathers than with older mothers; two potential explanations are the known increase in mutation burden in older sperm, and the hypothesis that men marry later if they carry genetic liability and show some signs of autism.[45] Most professionals believe that race, ethnicity, and socioeconomic background do not affect the occurrence of autism.[205]
+Several other conditions are common in children with autism.[11] They include:
+
+Genetic disorders. About 10–15% of autism cases have an identifiable Mendelian (single-gene) condition, chromosome abnormality, or other genetic syndrome,[206] and ASD is associated with several genetic disorders.[207]
+Intellectual disability. The percentage of autistic individuals who also meet criteria for intellectual disability has been reported as anywhere from 25% to 70%, a wide variation illustrating the difficulty of assessing intelligence of individuals on the autism spectrum.[208] In comparison, for PDD-NOS the association with intellectual disability is much weaker,[209] and by definition, the diagnosis of Asperger's excludes intellectual disability.[210]
+Anxiety disorders are common among children with ASD; there are no firm data, but studies have reported prevalences ranging from 11% to 84%. Many anxiety disorders have symptoms that are better explained by ASD itself, or are hard to distinguish from ASD's symptoms.[211]
+Epilepsy, with variations in risk of epilepsy due to age, cognitive level, and type of language disorder.[212]
+Several metabolic defects, such as phenylketonuria, are associated with autistic symptoms.[92]
+Minor physical anomalies are significantly increased in the autistic population.[213]
+Preempted diagnoses. Although the DSM-IV rules out concurrent diagnosis of many other conditions along with autism, the full criteria for Attention deficit hyperactivity disorder (ADHD), Tourette syndrome, and other of these conditions are often present and these comorbid diagnoses are increasingly accepted.[214]
+Sleep problems affect about two-thirds of individuals with ASD at some point in childhood. These most commonly include symptoms of insomnia such as difficulty in falling asleep, frequent nocturnal awakenings, and early morning awakenings. Sleep problems are associated with difficult behaviors and family stress, and are often a focus of clinical attention over and above the primary ASD diagnosis.[215]
+
+History
+Further information: History of Asperger syndrome
+
+
+
+
+Leo Kanner introduced the label early infantile autism in 1943.
+
+
+A few examples of autistic symptoms and treatments were described long before autism was named. The Table Talk of Martin Luther, compiled by his notetaker, Mathesius, contains the story of a 12-year-old boy who may have been severely autistic.[216] Luther reportedly thought the boy was a soulless mass of flesh possessed by the devil, and suggested that he be suffocated, although a later critic has cast doubt on the veracity of this report.[217] The earliest well-documented case of autism is that of Hugh Blair of Borgue, as detailed in a 1747 court case in which his brother successfully petitioned to annul Blair's marriage to gain Blair's inheritance.[218] The Wild Boy of Aveyron, a feral child caught in 1798, showed several signs of autism; the medical student Jean Itard treated him with a behavioral program designed to help him form social attachments and to induce speech via imitation.[219]
+The New Latin word autismus (English translation autism) was coined by the Swiss psychiatrist Eugen Bleuler in 1910 as he was defining symptoms of schizophrenia. He derived it from the Greek word autós (αὐτός, meaning "self"), and used it to mean morbid self-admiration, referring to "autistic withdrawal of the patient to his fantasies, against which any influence from outside becomes an intolerable disturbance".[220]
+Early clinical development and diagnoses
+The word autism first took its modern sense in 1938 when Hans Asperger of the Vienna University Hospital adopted Bleuler's terminology autistic psychopaths in a lecture in German about child psychology.[221] Asperger was investigating an ASD now known as Asperger syndrome, though for various reasons it was not widely recognized as a separate diagnosis until 1981.[219] Leo Kanner of the Johns Hopkins Hospital first used autism in its modern sense in English when he introduced the label early infantile autism in a 1943 report of 11 children with striking behavioral similarities.[39] Almost all the characteristics described in Kanner's first paper on the subject, notably "autistic aloneness" and "insistence on sameness", are still regarded as typical of the autistic spectrum of disorders.[54] It is not known whether Kanner derived the term independently of Asperger.[222]
+Donald Triplett was the first person diagnosed with autism.[223] He was diagnosed by Leo Kanner after being first examined in 1938, and was labeled as "case 1".[223] Triplett was noted for his savant abilities, particularly being able to name musical notes played on a piano and to mentally multiply numbers. His father, Oliver, described him as socially withdrawn but interested in number patterns, music notes, letters of the alphabet, and U.S. president pictures. By the age of 2, he had the ability to recite the 23rd Psalm and memorized 25 questions and answers from the Presbyterian catechism. He was also interested in creating musical chords.[224]
+Kanner's reuse of autism led to decades of confused terminology like infantile schizophrenia, and child psychiatry's focus on maternal deprivation led to misconceptions of autism as an infant's response to "refrigerator mothers". Starting in the late 1960s autism was established as a separate syndrome.[225]
+Modern terminology and distinction from schizophrenia
+As late as the mid-1970s there was little evidence of a genetic role in autism; while in 2007 it was believed to be one of the most heritable psychiatric conditions.[226] Although the rise of parent organizations and the destigmatization of childhood ASD have affected how ASD is viewed,[219] parents continue to feel social stigma in situations where their child's autistic behavior is perceived negatively,[227] and many primary care physicians and medical specialists express some beliefs consistent with outdated autism research.[228]
+It took until 1980 for the DSM-III to differentiate autism from childhood schizophrenia. In 1987, the DSM-III-R provided a checklist for diagnosing autism. In May 2013, the DSM-5 was released, updating the classification for pervasive developmental disorders. The grouping of disorders, including PDD-NOS, Autism, Asperger Syndrome, Rett Syndrome, and CDD, has been removed and replaced with the general term of Autism Spectrum Disorders. The two categories that exist are impaired social communication and/or interaction, and restricted and/or repetitive behaviors.[229]
+The Internet has helped autistic individuals bypass nonverbal cues and emotional sharing that they find so hard to deal with, and has given them a way to form online communities and work remotely.[230] Sociological and cultural aspects of autism have developed: some in the community seek a cure, while others believe that autism is simply another way of being.[15][231]
+References
+
+
+
+^ a b "NIMH » Autism Spectrum Disorder". nimh.nih.gov. October 2016. Retrieved 20 April 2017. 
+^ a b Chaste P, Leboyer M (2012). "Autism risk factors: genes, environment, and gene-environment interactions". Dialogues in Clinical Neuroscience. 14: 281–92. PMC 3513682 . PMID 23226953. 
+^ Corcoran, Jacqueline; Walsh, Joseph (9 February 2006). Clinical Assessment and Diagnosis in Social Work Practice. Oxford University Press, USA. p. 72. ISBN 9780195168303 – via Google Books. 
+^ a b c d e f g h Myers SM, Johnson CP (2007). "Management of children with autism spectrum disorders". Pediatrics. 120 (5): 1162–82. doi:10.1542/peds.2007-2362 . PMID 17967921. 
+^ a b c GBD 2015 Disease and Injury Incidence and Prevalence, Collaborators. (8 October 2016). "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015". Lancet. 388 (10053): 1545–1602. doi:10.1016/S0140-6736(16)31678-6. PMC 5055577 . PMID 27733282. 
+^ a b c d e Landa RJ (2008). "Diagnosis of autism spectrum disorders in the first 3 years of life". Nat Clin Pract Neurol. 4 (3): 138–47. doi:10.1038/ncpneuro0731 . PMID 18253102. 
+^ a b Stefanatos GA (2008). "Regression in autistic spectrum disorders". Neuropsychol Rev. 18 (4): 305–19. doi:10.1007/s11065-008-9073-y. PMID 18956241. 
+^ a b c Autism Spectrum Disorder, 299.00 (F84.0). In: American Psychiatric Association. Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition. American Psychiatric Publishing; 2013.
+^ Ornoy A, Weinstein-Fudim L, Ergaz Z (2015), "Prenatal factors associated with autism spectrum disorder (ASD)", Reproductive Toxicology, 56: 155–169, doi:10.1016/j.reprotox.2015.05.007, PMID 26021712 
+^ a b Rutter M (2005). "Incidence of autism spectrum disorders: changes over time and their meaning". Acta Paediatr. 94 (1): 2–15. doi:10.1111/j.1651-2227.2005.tb01779.x. PMID 15858952. 
+^ a b c d e f g h Levy SE, Mandell DS, Schultz RT (2009). "Autism". Lancet. 374 (9701): 1627–38. doi:10.1016/S0140-6736(09)61376-3. PMC 2863325 . PMID 19819542. 
+^ a b c d Johnson CP, Myers SM (2007). "Identification and evaluation of children with autism spectrum disorders". Pediatrics. 120 (5): 1183–215. doi:10.1542/peds.2007-2361 . PMID 17967920. Archived from the original on 8 February 2009. 
+^ a b c Helt M, Kelley E, Kinsbourne M, Pandey J, Boorstein H, Herbert M, Fein D (2008). "Can children with autism recover? if so, how?". Neuropsychol Rev. 18 (4): 339–66. doi:10.1007/s11065-008-9075-9. PMID 19009353. 
+^ Howlin P, Goode S, Hutton J, Rutter M (2004). "Adult outcome for children with autism". J Child Psychol Psychiatry. 45 (2): 212–29. doi:10.1111/j.1469-7610.2004.00215.x. PMID 14982237. 
+^ a b Silverman C (2008). "Fieldwork on another planet: social science perspectives on the autism spectrum". Biosocieties. 3 (3): 325–41. doi:10.1017/S1745855208006236. 
+^ "ASD Data and Statistics". CDC.gov. Archived from the original on 18 April 2014. Retrieved 5 April 2014. 
+^ a b "Prevalence of autism spectrum disorders — autism and developmental disabilities monitoring network, 14 sites, United States, 2008". MMWR Surveill Summ. 61 (3): 1–19. 2012. PMID 22456193. Archived from the original on 25 March 2014. 
+^ a b Blumberg SJ, Bramlett MD, Kogan MD, Schieve LA, Jones JR, Lu MC (2013). "Changes in prevalence of parent-reported autism spectrum disorder in school-aged U.S. children: 2007 to 2011–2012" (PDF). Natl Health Stat Report (65): 1–11. PMID 24988818. Archived (PDF) from the original on 21 September 2013. 
+^ a b Brugha T, Cooper SA, McManus S, et al. (31 January 2012). "Estimating the prevalence of autism spectrum conditions in adults: extending the 2007 Adult Psychiatric Morbidity Survey" (PDF). The Information Centre for Health and Social Care. National Health Service, UK. Retrieved 29 December 2014. 
+^ a b c d Newschaffer CJ, Croen LA, Daniels J, Giarelli E, Grether JK, Levy SE, Mandell DS, Miller LA, Pinto-Martin J, Reaven J, Reynolds AM, Rice CE, Schendel D, Windham GC (2007). "The epidemiology of autism spectrum disorders" (PDF). Annu Rev Public Health. 28: 235–58. doi:10.1146/annurev.publhealth.28.021406.144007. PMID 17367287. Archived from the original (PDF) on 3 September 2013. 
+^ a b Geschwind DH (2008). "Autism: many genes, common pathways?". Cell. 135 (3): 391–5. doi:10.1016/j.cell.2008.10.016. PMC 2756410 . PMID 18984147. 
+^ a b c "F84. Pervasive developmental disorders". ICD-10: International Statistical Classification of Diseases and Related Health Problems: Tenth Revision. World Health Organization. 2007. Archived from the original on 21 April 2013. Retrieved 10 October 2009. 
+^ Pinel JPG. Biopsychology. Boston, Massachusetts: Pearson; 2011. ISBN 978-0-205-03099-6. p. 235.
+^ Rogers SJ (2009). "What are infant siblings teaching us about autism in infancy?". Autism Res. 2 (3): 125–37. doi:10.1002/aur.81. PMC 2791538 . PMID 19582867. 
+^ a b c d e f Rapin I, Tuchman RF (2008). "Autism: definition, neurobiology, screening, diagnosis". Pediatr Clin North Am. 55 (5): 1129–46. doi:10.1016/j.pcl.2008.07.005. PMID 18929056. 
+^ a b c Filipek PA, Accardo PJ, Baranek GT, Cook EH, Dawson G, Gordon B, Gravel JS, Johnson CP, Kallen RJ, Levy SE, Minshew NJ, Ozonoff S, Prizant BM, Rapin I, Rogers SJ, Stone WL, Teplin S, Tuchman RF, Volkmar FR (1999). "The screening and diagnosis of autistic spectrum disorders". J Autism Dev Disord. 29 (6): 439–84. doi:10.1023/A:1021943802493. PMID 10638459.  This paper represents a consensus of representatives from nine professional and four parent organizations in the US.
+^ a b c London E (2007). "The role of the neurobiologist in redefining the diagnosis of autism". Brain Pathol. 17 (4): 408–11. doi:10.1111/j.1750-3639.2007.00103.x. PMID 17919126. 
+^ Sacks O. An Anthropologist on Mars: Seven Paradoxical Tales. Knopf; 1995. ISBN 978-0-679-43785-7.
+^ a b c d Handbook of Autism and Pervasive Developmental Disorders, Assessment, Interventions, and Policy. John Wiley & Sons; 2014 [Retrieved 24 December 2014]. ISBN 1-118-28220-5. p. 301.
+^ Sigman M, Dijamco A, Gratier M, Rozga A (2004). "Early detection of core deficits in autism". Ment Retard Dev Disabil Res Rev. 10 (4): 221–33. CiteSeerX 10.1.1.492.9930 . doi:10.1002/mrdd.20046. PMID 15666338. 
+^ Rutgers AH, Bakermans-Kranenburg MJ, van Ijzendoorn MH, van Berckelaer-Onnes IA (2004). "Autism and attachment: a meta-analytic review". J Child Psychol Psychiatry. 45 (6): 1123–34. doi:10.1111/j.1469-7610.2004.t01-1-00305.x. PMID 15257669. 
+^ a b c Sigman M, Spence SJ, Wang AT (2006). "Autism from developmental and neuropsychological perspectives". Annu Rev Clin Psychol. 2: 327–55. doi:10.1146/annurev.clinpsy.2.022305.095210. PMID 17716073. 
+^ Bird, G.; Cook, R. (23 July 2013). "Mixed emotions: the contribution of alexithymia to the emotional symptoms of autism". Translational Psychiatry. 3 (7): e285. doi:10.1038/tp.2013.61. PMC 3731793 . PMID 23880881. 
+^ a b c Burgess AF, Gutstein SE (2007). "Quality of life for people with autism: raising the standard for evaluating successful outcomes" (PDF). Child Adolesc Ment Health. 12 (2): 80–6. doi:10.1111/j.1475-3588.2006.00432.x. Archived (PDF) from the original on 21 December 2013. 
+^ Matson JL, Nebel-Schwalm M (November 2007). "Assessing challenging behaviors in children with autism spectrum disorders: A review". Research in Developmental Disabilities. 28 (6): 567–79. doi:10.1016/j.ridd.2006.08.001. PMID 16973329. 
+^ Noens I, van Berckelaer-Onnes I, Verpoorten R, van Duijn G (2006). "The ComFor: an instrument for the indication of augmentative communication in people with autism and intellectual disability". J Intellect Disabil Res. 50 (9): 621–32. doi:10.1111/j.1365-2788.2006.00807.x. PMID 16901289. 
+^ a b c Landa R (2007). "Early communication development and intervention for children with autism". Ment Retard Dev Disabil Res Rev. 13 (1): 16–25. doi:10.1002/mrdd.20134. PMID 17326115. 
+^ a b c Tager-Flusberg H, Caronna E (2007). "Language disorders: autism and other pervasive developmental disorders". Pediatr Clin North Am. 54 (3): 469–81. doi:10.1016/j.pcl.2007.02.011. PMID 17543905. 
+^ a b Kanner L (1943). "Autistic disturbances of affective contact". Nerv Child. 2: 217–50.  Reprinted in Kanner L (1968). "Autistic disturbances of affective contact". Acta Paedopsychiatr. 35 (4): 100–36. PMID 4880460. 
+^ a b Williams DL, Goldstein G, Minshew NJ (2006). "Neuropsychologic functioning in children with autism: further evidence for disordered complex information-processing". Child Neuropsychol. 12 (4–5): 279–98. doi:10.1080/09297040600681190. PMC 1803025 . PMID 16911973. 
+^ a b Lam KS, Aman MG (2007). "The Repetitive Behavior Scale-Revised: independent validation in individuals with autism spectrum disorders". J Autism Dev Disord. 37 (5): 855–66. doi:10.1007/s10803-006-0213-z. PMID 17048092. 
+^ Bodfish JW, Symons FJ, Parker DE, Lewis MH (2000). "Varieties of repetitive behavior in autism: comparisons to mental retardation". J Autism Dev Disord. 30 (3): 237–43. doi:10.1023/A:1005596502855. PMID 11055459. 
+^ Treffert DA (2009). "The savant syndrome: an extraordinary condition. A synopsis: past, present, future". Philosophical Transactions of the Royal Society B. 364 (1522): 1351–7. doi:10.1098/rstb.2008.0326. PMC 2677584 . PMID 19528017. Lay summary – Wisconsin Medical Society. 
+^ Plaisted Grant K, Davis G (2009). "Perception and apperception in autism: rejecting the inverse assumption". Philosophical Transactions of the Royal Society B. 364 (1522): 1393–8. doi:10.1098/rstb.2009.0001. PMC 2677593 . PMID 19528022. 
+^ a b c d e f Geschwind DH (2009). "Advances in autism". Annu Rev Med. 60: 367–80. doi:10.1146/annurev.med.60.053107.121225. PMC 3645857 . PMID 19630577. 
+^ Rogers SJ, Ozonoff S (2005). "Annotation: what do we know about sensory dysfunction in autism? A critical review of the empirical evidence". J Child Psychol Psychiatry. 46 (12): 1255–68. doi:10.1111/j.1469-7610.2005.01431.x. PMID 16313426. 
+^ Ben-Sasson A, Hen L, Fluss R, Cermak SA, Engel-Yeger B, Gal E (2009). "A meta-analysis of sensory modulation symptoms in individuals with autism spectrum disorders". J Autism Dev Disord. 39 (1): 1–11. doi:10.1007/s10803-008-0593-3. PMID 18512135. 
+^ Fournier KA, Hass CJ, Naik SK, Lodha N, Cauraugh JH (2010). "Motor coordination in autism spectrum disorders: a synthesis and meta-analysis". J Autism Dev Disord. 40: 1227–40. doi:10.1007/s10803-010-0981-3. PMID 20195737. 
+^ Dominick KC, Davis NO, Lainhart J, Tager-Flusberg H, Folstein S (2007). "Atypical behaviors in children with autism and children with a history of language impairment". Res Dev Disabil. 28 (2): 145–62. doi:10.1016/j.ridd.2006.02.003. PMID 16581226. 
+^ Erickson CA, Stigler KA, Corkins MR, Posey DJ, Fitzgerald JF, McDougle CJ (2005). "Gastrointestinal factors in autistic disorder: a critical review". J Autism Dev Disord. 35 (6): 713–27. doi:10.1007/s10803-005-0019-4. PMID 16267642. 
+^ Buie T, Campbell DB, Fuchs GJ, Furuta GT, Levy J, Vandewater J, Whitaker AH, Atkins D, Bauman ML, Beaudet AL, Carr EG, Gershon MD, Hyman SL, Jirapinyo P, Jyonouchi H, Kooros K, Kushak R, Levitt P, Levy SE, Lewis JD, Murray KF, Natowicz MR, Sabra A, Wershil BK, Weston SC, Zeltzer L, Winter H (2010). "Evaluation, diagnosis, and treatment of gastrointestinal disorders in individuals with ASDs: a consensus report". Pediatrics. 125 (Suppl 1): S1–18. doi:10.1542/peds.2009-1878C . PMID 20048083. Archived from the original on 6 July 2010. 
+^ Orsmond GI, Seltzer MM (2007). "Siblings of individuals with autism spectrum disorders across the life course" (PDF). Ment Retard Dev Disabil Res Rev. 13 (4): 313–20. doi:10.1002/mrdd.20171. PMID 17979200. Archived from the original (PDF) on 30 May 2013. 
+^ a b Happé F, Ronald A (2008). "The 'fractionable autism triad': a review of evidence from behavioural, genetic, cognitive and neural research". Neuropsychol Rev. 18 (4): 287–304. doi:10.1007/s11065-008-9076-8. PMID 18956240. 
+^ a b c Happé F, Ronald A, Plomin R (2006). "Time to give up on a single explanation for autism". Nature Neuroscience. 9 (10): 1218–20. doi:10.1038/nn1770 . PMID 17001340. 
+^ a b Beaudet AL (2007). "Autism: highly heritable but not inherited". Nat Med. 13 (5): 534–6. doi:10.1038/nm0507-534. PMID 17479094. 
+^ a b c Abrahams BS, Geschwind DH (2008). "Advances in autism genetics: on the threshold of a new neurobiology". Nature Reviews Genetics. 9 (5): 341–55. doi:10.1038/nrg2346. PMC 2756414 . PMID 18414403. 
+^ Buxbaum JD (2009). "Multiple rare variants in the etiology of autism spectrum disorders". Dialogues Clin Neurosci. 11 (1): 35–43. PMC 3181906 . PMID 19432386. 
+^ Sanders, Stephan J.; He, Xin; Willsey, A. Jeremy; Ercan-Sencicek, A. Gulhan; Samocha, Kaitlin E.; Cicek, A. Ercument; Murtha, Michael T.; Bal, Vanessa H.; Bishop, Somer L.; Dong, Shan; Goldberg, Arthur P.; Jinlu, Cai; Keaney, John F.; Klei, Lambertus; Mandell, Jeffrey D.; Moreno-De-Luca, Daniel; Poultney, Christopher S.; Robinson, Elise B.; Smith, Louw; Solli-Nowlan, Tor; Su, Mack Y.; Teran, Nicole A.; Walker, Michael F.; Werling, Donna M.; Beaudet, Arthur L.; Cantor, Rita M.; Fombonne, Eric; Geschwind, Daniel H.; Grice, Dorothy E.; Lord, Catherine; Lowe, Jennifer K.; Mane, Shrikant M.; Martin, Donna M.; Morrow, Eric M.; Talkowski, Michael E.; Sutcliffe, James S.; Walsh, Christopher A.; Yu, Timothy W.; Ledbetter, David H.; Martin, Christa Lese; Cook, Edwin H.; Buxbaum, Joseph D.; Daly, Mark J.; Devlin, Bernie; Roeder, Kathryn; State, Matthew W. (September 2015). "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci". Neuron. 87 (6): 1215–1233. doi:10.1016/j.neuron.2015.09.016. PMC 4624267 . PMID 26402605. 
+^ Persico, Antonio M.; Napolioni, Valerio (August 2013). "Autism genetics". Behavioural Brain Research. 251: 95–112. doi:10.1016/j.bbr.2013.06.012. 
+^ Cook EH, Scherer SW (2008). "Copy-number variations associated with neuropsychiatric conditions". Nature. 455 (7215): 919–23. doi:10.1038/nature07458. PMID 18923514. 
+^ Brandler, William M.; Antaki, Danny; Gujral, Madhusudan; Noor, Amina; Rosanio, Gabriel; Chapman, Timothy R.; Barrera, Daniel J.; Lin, Guan Ning; Malhotra, Dheeraj; Watts, Amanda C.; Wong, Lawrence C.; Estabillo, Jasper A.; Gadomski, Therese E.; Hong, Oanh; Fajardo, Karin V. Fuentes; Bhandari, Abhishek; Owen, Renius; Baughn, Michael; Yuan, Jeffrey; Solomon, Terry; Moyzis, Alexandra G.; Maile, Michelle S.; Sanders, Stephan J.; Reiner, Gail E.; Vaux, Keith K.; Strom, Charles M.; Zhang, Kang; Muotri, Alysson R.; Akshoomoff, Natacha; Leal, Suzanne M.; Pierce, Karen; Courchesne, Eric; Iakoucheva, Lilia M.; Corsello, Christina; Sebat, Jonathan (March 2016). "Frequency and Complexity of De Novo Structural Mutation in Autism". The American Journal of Human Genetics. 98 (4): 1–13. doi:10.1016/j.ajhg.2016.02.018. PMC 4833290 . PMID 27018473. 
+^ a b Betancur C, Sakurai T, Buxbaum JD (2009). "The emerging role of synaptic cell-adhesion pathways in the pathogenesis of autism spectrum disorders". Trends Neurosci. 32 (7): 402–12. doi:10.1016/j.tins.2009.04.003. PMID 19541375. 
+^ a b Walsh CA, Morrow EM, Rubenstein JL (2008). "Autism and brain development". Cell. 135 (3): 396–400. doi:10.1016/j.cell.2008.10.015. PMC 2701104 . PMID 18984148. 
+^ a b Arndt TL, Stodgell CJ, Rodier PM (2005). "The teratology of autism". Int J Dev Neurosci. 23 (2–3): 189–99. doi:10.1016/j.ijdevneu.2004.11.001. PMID 15749245. 
+^ Lyall K, Schmidt RJ, Hertz-Picciotto I (April 2014). "Maternal lifestyle and environmental risk factors for autism spectrum disorders". Int J Epidemiol. 43 (2): 443–64. doi:10.1093/ije/dyt282 . PMC 3997376 . PMID 24518932. 
+^ Kinney DK, Munir KM, Crowley DJ, Miller AM (2008). "Prenatal stress and risk for autism". Neurosci Biobehav Rev. 32 (8): 1519–32. doi:10.1016/j.neubiorev.2008.06.004. PMC 2632594 . PMID 18598714. 
+^ a b Gerber JS, Offit PA (2009). "Vaccines and autism: a tale of shifting hypotheses". Clin Infect Dis. 48 (4): 456–61. doi:10.1086/596476. PMC 2908388 . PMID 19128068. Archived from the original on 31 October 2013. 
+^ Godlee F, Smith J, Marcovitch H (2011). "Wakefield's article linking MMR vaccine and autism was fraudulent". BMJ. 342: c7452. doi:10.1136/bmj.c7452. PMID 21209060. Archived from the original on 11 November 2013. 
+^ Vaccines and autism:
+
+Doja A, Roberts W (2006). "Immunizations and autism: a review of the literature". Can J Neurol Sci. 33 (4): 341–6. doi:10.1017/s031716710000528x . PMID 17168158. 
+Gerber JS, Offit PA (2009). "Vaccines and autism: a tale of shifting hypotheses". Clin Infect Dis. 48 (4): 456–61. doi:10.1086/596476. PMC 2908388 . PMID 19128068. Archived from the original on 31 October 2013. 
+Gross L (2009). "A broken trust: lessons from the vaccine–autism wars". PLoS Biol. 7 (5): e1000114. doi:10.1371/journal.pbio.1000114. PMC 2682483 . PMID 19478850. 
+Paul R (2009). "Parents ask: am I risking autism if I vaccinate my children?". J Autism Dev Disord. 39 (6): 962–3. doi:10.1007/s10803-009-0739-y. PMID 19363650. 
+Poland GA, Jacobson RM (13 January 2011). "The Age-Old Struggle against the Antivaccinationists". N Engl J Med. 364: 97–9. doi:10.1056/NEJMp1010594 . PMID 21226573. Archived from the original on 23 April 2014. 
+
+
+^ McBrien J, Murphy J, Gill D, Cronin M, O'Donovan C, Cafferkey MT (2003). "Measles outbreak in Dublin, 2000". Pediatr. Infect. Dis. J. 22 (7): 580–4. doi:10.1097/00006454-200307000-00002. PMID 12867830. 
+^ Penn HE (2006). "Neurobiological correlates of autism: a review of recent research". Child Neuropsychol. 12 (1): 57–79. doi:10.1080/09297040500253546. PMID 16484102. 
+^ a b Amaral DG, Schumann CM, Nordahl CW (2008). "Neuroanatomy of autism". Trends Neurosci. 31 (3): 137–45. doi:10.1016/j.tins.2007.12.005. PMID 18258309. 
+^ Müller RA (2007). "The study of autism as a distributed disorder". Ment Retard Dev Disabil Res Rev. 13 (1): 85–95. doi:10.1002/mrdd.20141. PMC 3315379 . PMID 17326118. 
+^ Casanova MF (2007). "The neuropathology of autism". Brain Pathol. 17 (4): 422–33. doi:10.1111/j.1750-3639.2007.00100.x. PMID 17919128. 
+^ Courchesne E, Pierce K, Schumann CM, Redcay E, Buckwalter JA, Kennedy DP, Morgan J (2007). "Mapping early brain development in autism". Neuron. 56 (2): 399–413. doi:10.1016/j.neuron.2007.10.016. PMID 17964254. 
+^ Schmitz C, Rezaie P (2008). "The neuropathology of autism: where do we stand?". Neuropathol Appl Neurobiol. 34 (1): 4–11. doi:10.1111/j.1365-2990.2007.00872.x. PMID 17971078. 
+^ a b c Persico AM, Bourgeron T (2006). "Searching for ways out of the autism maze: genetic, epigenetic and environmental clues". Trends Neurosci. 29 (7): 349–58. doi:10.1016/j.tins.2006.05.010. PMID 16808981. 
+^ Südhof TC (2008). "Neuroligins and neurexins link synaptic function to cognitive disease". Nature. 455 (7215): 903–11. doi:10.1038/nature07456. PMC 2673233 . PMID 18923512. 
+^ Kelleher RJ, Bear MF (2008). "The autistic neuron: troubled translation?". Cell. 135 (3): 401–6. doi:10.1016/j.cell.2008.10.017. PMID 18984149. 
+^ Bear MF, Dölen G, Osterweil E, Nagarajan N (2008). "Fragile X: translation in action". Neuropsychopharmacology. 33 (1): 84–7. doi:10.1038/sj.npp.1301610 . PMC 4327813 . PMID 17940551. 
+^ Tuchman R, Moshé SL, Rapin I (2009). "Convulsing toward the pathophysiology of autism". Brain Dev. 31 (2): 95–103. doi:10.1016/j.braindev.2008.09.009. PMC 2734903 . PMID 19006654. 
+^ Hsiao EY (2013). "Immune dysregulation in autism spectrum disorder". International Review of Neurobiology. International Review of Neurobiology. 113: 269–302. doi:10.1016/B978-0-12-418700-9.00009-5. ISBN 9780124187009. PMID 24290389. 
+^ a b Onore C, Careaga M, Ashwood P (August 2011). "The role of immune dysfunction in the pathophysiology of autism". Brain, Behavior and Immunity. 26 (3): 383–92. doi:10.1016/j.bbi.2011.08.007. PMC 3418145 . PMID 21906670. 
+^ Rossignol DA, Frye RE (2014). "Evidence linking oxidative stress, mitochondrial dysfunction, and inflammation in the brain of individuals with autism". Frontiers in Physiology. 5: 150. doi:10.3389/fphys.2014.00150. PMC 4001006 . PMID 24795645. 
+^ Patterson PH (July 2011). "Maternal infection and immune involvement in autism". Trends in Molecular Medicine. 17 (7): 389–94. doi:10.1016/j.molmed.2011.03.001. PMC 3135697 . PMID 21482187. 
+^ a b c Chaste P, Leboyer M (2012). "Autism risk factors: genes, environment, and gene-environment interactions". Dialogues Clin Neurosci. 14 (3): 281–92. PMC 3513682 . PMID 23226953. 
+^ Ashwood P, Wills S, Van de Water J (2006). "The immune response in autism: a new frontier for autism research". J Leukoc Biol. 80 (1): 1–15. CiteSeerX 10.1.1.329.777 . doi:10.1189/jlb.1205707. PMID 16698940. 
+^ Lee BK, Magnusson C, Gardner RM, Blomström S, Newschaffer CJ, Burstyn I, Karlsson H, Dalman C (September 2014). "Maternal hospitalization with infection during pregnancy and risk of autism spectrum disorders". Brain, Behavior and Immunity. 44: 100–105. doi:10.1016/j.bbi.2014.09.001. PMC 4418173 . PMID 25218900. 
+^ Atladóttir HO, Thorsen P, Østergaard L, Schendel DE, Lemcke S, Abdallah M, Parner ET (December 2010). "Maternal infection requiring hospitalization during pregnancy and autism spectrum disorders". Journal of Autism and Developmental Disorders. 40 (12): 1423–30. doi:10.1007/s10803-010-1006-y. PMID 20414802. 
+^ a b Dölen G, Osterweil E, Rao BS, Smith GB, Auerbach BD, Chattarji S, Bear MF (2007). "Correction of fragile X syndrome in mice". Neuron. 56 (6): 955–62. doi:10.1016/j.neuron.2007.12.001. PMC 2199268 . PMID 18093519. 
+^ Hughes JR (2009). "Update on autism: A review of 1300 reports published in 2008". Epilepsy Behav. 16 (4): 569–589. doi:10.1016/j.yebeh.2009.09.023. PMID 19896907. 
+^ a b Manzi B, Loizzo AL, Giana G, Curatolo P (2008). "Autism and metabolic diseases". J Child Neurol. 23 (3): 307–14. doi:10.1177/0883073807308698. PMID 18079313. 
+^ MNS and autism:
+
+Williams JH (2008). "Self–other relations in social development and autism: multiple roles for mirror neurons and other brain bases". Autism Res. 1 (2): 73–90. doi:10.1002/aur.15. PMID 19360654. 
+Dinstein I, Thomas C, Behrmann M, Heeger DJ (2008). "A mirror up to nature". Curr Biol. 18 (1): R13–8. doi:10.1016/j.cub.2007.11.004. PMC 2517574 . PMID 18177704. 
+
+
+^ a b Iacoboni M, Dapretto M (2006). "The mirror neuron system and the consequences of its dysfunction". Nature Reviews Neuroscience. 7 (12): 942–51. doi:10.1038/nrn2024. PMID 17115076. 
+^ Frith U, Frith CD (2003). "Development and neurophysiology of mentalizing" (PDF). Philosophical Transactions of the Royal Society B. 358 (1431): 459–73. doi:10.1098/rstb.2002.1218. PMC 1693139 . PMID 12689373. 
+^ Hamilton AF (2008). "Emulation and mimicry for social interaction: a theoretical approach to imitation in autism". Q J Exp Psychol. 61 (1): 101–15. doi:10.1080/17470210701508798. PMID 18038342. 
+^ a b Powell K (2004). "Opening a window to the autistic brain". PLoS Biol. 2 (8): E267. doi:10.1371/journal.pbio.0020267. PMC 509312 . PMID 15314667. Archived from the original on 26 May 2013. 
+^ Di Martino A, Ross K, Uddin LQ, Sklar AB, Castellanos FX, Milham MP (2009). "Functional brain correlates of social and nonsocial processes in autism spectrum disorders: an activation likelihood estimation meta-analysis". Biol Psychiatry. 65 (1): 63–74. doi:10.1016/j.biopsych.2008.09.022. PMC 2993772 . PMID 18996505. 
+^ Broyd SJ, Demanuele C, Debener S, Helps SK, James CJ, Sonuga-Barke EJ (2009). "Default-mode brain dysfunction in mental disorders: a systematic review". Neurosci Biobehav Rev. 33 (3): 279–96. doi:10.1016/j.neubiorev.2008.09.002. PMID 18824195. 
+^ Just MA, Cherkassky VL, Keller TA, Kana RK, Minshew NJ (2007). "Functional and anatomical cortical underconnectivity in autism: evidence from an FMRI study of an executive function task and corpus callosum morphometry". Cereb Cortex. 17 (4): 951–61. doi:10.1093/cercor/bhl006. PMC 4500121 . PMID 16772313. Archived from the original on 7 July 2010. 
+^ Murias M, Webb SJ, Greenson J, Dawson G (2007). "Resting state cortical connectivity reflected in EEG coherence in individuals with autism". Biol Psychiatry. 62 (3): 270–3. doi:10.1016/j.biopsych.2006.11.012. PMC 2001237 . PMID 17336944. 
+^ Minshew NJ, Williams DL (2007). "The new neurobiology of autism: cortex, connectivity, and neuronal organization". Arch Neurol. 64 (7): 945–50. doi:10.1001/archneur.64.7.945. PMC 2597785 . PMID 17620483. 
+^ Jeste SS, Nelson CA (2009). "Event related potentials in the understanding of autism spectrum disorders: an analytical review". J Autism Dev Disord. 39 (3): 495–510. doi:10.1007/s10803-008-0652-9. PMC 4422389 . PMID 18850262. 
+^ Roberts TP, Schmidt GL, Egeth M, Blaskey L, Rey MM, Edgar JC, Levy SE (2008). "Electrophysiological signatures: magnetoencephalographic studies of the neural correlates of language impairment in autism spectrum disorders". Int J Psychophysiol. 68 (2): 149–60. doi:10.1016/j.ijpsycho.2008.01.012. PMC 2397446 . PMID 18336941. 
+^ Crespi B, Stead P, Elliot M (2010). "Evolution in health and medicine Sackler colloquium: Comparative genomics of autism and schizophrenia". Proceedings of the National Academy of Sciences of the United States of America. 107 (Suppl 1): 1736–41. doi:10.1073/pnas.0906080106. PMC 2868282 . PMID 19955444. 
+^ Ha S, Sohn IJ, Kim N, Sim HJ, Cheon KA (December 2015). "Characteristics of Brains in Autism Spectrum Disorder: Structure, Function and Connectivity across the Lifespan". Exp Neurobiol (Review). 24 (4): 273–84. doi:10.5607/en.2015.24.4.273. PMC 4688328 . PMID 26713076. 
+^ a b Baron-Cohen S (2009). "Autism: the empathizing–systemizing (E-S) theory" (PDF). Annals of the New York Academy of Sciences. 1156: 68–80. doi:10.1111/j.1749-6632.2009.04467.x. PMID 19338503. Archived from the original (PDF) on 14 December 2013. 
+^ Hamilton AF (2009). "Goals, intentions and mental states: challenges for theories of autism". J Child Psychol Psychiatry. 50 (8): 881–92. CiteSeerX 10.1.1.621.6275 . doi:10.1111/j.1469-7610.2009.02098.x. PMID 19508497. 
+^ a b Kenworthy L, Yerys BE, Anthony LG, Wallace GL (2008). "Understanding executive control in autism spectrum disorders in the lab and in the real world". Neuropsychol Rev. 18 (4): 320–38. doi:10.1007/s11065-008-9077-7. PMC 2856078 . PMID 18956239. 
+^ O'Hearn K, Asato M, Ordaz S, Luna B (2008). "Neurodevelopment and executive function in autism". Dev Psychopathol. 20 (4): 1103–32. doi:10.1017/S0954579408000527. PMID 18838033. 
+^ Hill EL (2004). "Executive dysfunction in autism". Trends Cogn Sci. 8 (1): 26–32. doi:10.1016/j.dr.2004.01.001. PMID 14697400. 
+^ Happé F, Frith U (2006). "The weak coherence account: detail-focused cognitive style in autism spectrum disorders". J Autism Dev Disord. 36 (1): 5–25. doi:10.1007/s10803-005-0039-0. PMID 16450045. 
+^ Mottron L, Dawson M, Soulières I, Hubert B, Burack J (2006). "Enhanced perceptual functioning in autism: an update, and eight principles of autistic perception". J Autism Dev Disord. 36 (1): 27–43. doi:10.1007/s10803-005-0040-7. PMID 16453071. 
+^ Rajendran G, Mitchell P (2007). "Cognitive theories of autism". Dev Rev. 27 (2): 224–60. doi:10.1016/j.dr.2007.02.001. 
+^ Baird G, Cass H, Slonims V (2003). "Diagnosis of autism". BMJ. 327 (7413): 488–93. doi:10.1136/bmj.327.7413.488. PMC 188387 . PMID 12946972. Archived from the original on 6 March 2009. 
+^ Gotham K, Risi S, Dawson G, Tager-Flusberg H, Joseph R, Carter A, Hepburn S, McMahon W, Rodier P, Hyman SL, Sigman M, Rogers S, Landa R, Spence MA, Osann K, Flodman P, Volkmar F, Hollander E, Buxbaum J, Pickles A, Lord C (2008). "A replication of the Autism Diagnostic Observation Schedule (ADOS) revised algorithms". J Am Acad Child Adolesc Psychiatry. 47 (6): 642–51. doi:10.1097/CHI.0b013e31816bffb7. PMC 3057666 . PMID 18434924. 
+^ Kan, CC; Buitelaar, JK; van der Gaag, RJ (14 June 2008). "[Autism spectrum disorders in adults]". Nederlands tijdschrift voor geneeskunde. 152 (24): 1365–9. PMID 18664213. 
+^ a b c Dover CJ, Le Couteur A (2007). "How to diagnose autism". Arch Dis Child. 92 (6): 540–5. doi:10.1136/adc.2005.086280. PMC 2066173 . PMID 17515625. 
+^ a b Kanne SM, Randolph JK, Farmer JE (2008). "Diagnostic and assessment findings: a bridge to academic planning for children with autism spectrum disorders". Neuropsychol Rev. 18 (4): 367–84. doi:10.1007/s11065-008-9072-z. PMID 18855144. 
+^ Mantovani JF (2000). "Autistic regression and Landau–Kleffner syndrome: progress or confusion?". Dev Med Child Neurol. 42 (5): 349–53. doi:10.1017/S0012162200210621. PMID 10855658. 
+^ Matson JL, Neal D (2009). "Cormorbidity: diagnosing comorbid psychiatric conditions". Psychiatr Times. 26 (4). Archived from the original on 3 April 2013. 
+^ a b c d e Caronna EB, Milunsky JM, Tager-Flusberg H (2008). "Autism spectrum disorders: clinical and research frontiers". Arch Dis Child. 93 (6): 518–23. doi:10.1136/adc.2006.115337. PMID 18305076. 
+^ Schaefer GB, Mendelsohn NJ (2008). "Archived copy". Genet Med. 10 (1): 4–12. doi:10.1097/GIM.0b013e31815efdd7. PMID 18197051. Archived from the original on 1 September 2010. Retrieved 7 February 2008. Lay summary – Medical News Today (7 February 2008). 
+^ Ledbetter DH (2008). "Cytogenetic technology—genotype and phenotype". N Engl J Med. 359 (16): 1728–30. doi:10.1056/NEJMe0806570. PMID 18784093. 
+^ McMahon WM, Baty BJ, Botkin J (2006). "Genetic counseling and ethical issues for autism". American Journal of Medical Genetics. 142C (1): 52–7. doi:10.1002/ajmg.c.30082. PMID 16419100. 
+^ Shattuck PT, Grosse SD (2007). "Issues related to the diagnosis and treatment of autism spectrum disorders". Ment Retard Dev Disabil Res Rev. 13 (2): 129–35. doi:10.1002/mrdd.20143. PMID 17563895. 
+^ Cass H (1998). "Visual impairment and autism: current questions and future research". Autism. 2 (2): 117–38. doi:10.1177/1362361398022002. 
+^ Volkmar FR, State M, Klin A (2009). "Autism and autism spectrum disorders: diagnostic issues for the coming decade". J Child Psychol Psychiatry. 50 (1–2): 108–15. doi:10.1111/j.1469-7610.2008.02010.x. PMID 19220594. 
+^ American Psychiatric Association. Diagnostic and statistical manual of mental disorders: DSM-IV. 4 ed. Washington, DC: American Psychiatric Association; 2000. ISBN 978-0-89042-025-6. OCLC 768475353. Diagnostic criteria for 299.00 Autistic Disorder.
+^ Freitag CM (2007). "The genetics of autistic disorders and its clinical relevance: a review of the literature". Mol Psychiatry. 12 (1): 2–22. doi:10.1038/sj.mp.4001896 . PMID 17033636. 
+^ Piven J, Palmer P, Jacobi D, Childress D, Arndt S (1997). "Broader autism phenotype: evidence from a family history study of multiple-incidence autism families". Am J Psychiatry. 154 (2): 185–90. doi:10.1176/ajp.154.2.185. PMID 9016266. 
+^ Happé F (1999). "Understanding assets and deficits in autism: why success is more interesting than failure" (PDF). Psychologist. 12 (11): 540–7. Archived from the original (PDF) on 17 May 2012. 
+^ Baron-Cohen S (2006). "The hyper-systemizing, assortative mating theory of autism" (PDF). Prog Neuropsychopharmacol Biol Psychiatry. 30 (5): 865–72. doi:10.1016/j.pnpbp.2006.01.010. PMID 16519981. Archived from the original (PDF) on 13 May 2012. 
+^ Cohen D, Pichard N, Tordjman S, Baumann C, Burglen L, Excoffier E, Lazar G, Mazet P, Pinquier C, Verloes A, Héron D (2005). "Specific genetic disorders and autism: clinical contribution towards their identification". J Autism Dev Disord. 35 (1): 103–16. doi:10.1007/s10803-004-1038-2. PMID 15796126. 
+^ Validity of ASD subtypes:
+
+Klin A (2006). "Autism and Asperger syndrome: an overview". Rev Bras Psiquiatr. 28 (suppl 1): S3–S11. doi:10.1590/S1516-44462006000500002 . PMID 16791390. Archived from the original on 29 September 2007. 
+Witwer AN, Lecavalier L (2008). "Examining the validity of autism spectrum disorder subtypes". J Autism Dev Disord. 38 (9): 1611–24. doi:10.1007/s10803-008-0541-2. PMID 18327636. 
+
+
+^ Volkmar F, Chawarska K, Klin A (2005). "Autism in infancy and early childhood". Annu Rev Psychol. 56: 315–36. doi:10.1146/annurev.psych.56.091103.070159. PMID 15709938.  A partial update is in: Volkmar FR, Chawarska K (2008). "Autism in infants: an update". World Psychiatry. 7 (1): 19–21. PMC 2366821 . PMID 18458791. 
+^ Ozonoff S, Heung K, Byrd R, Hansen R, Hertz-Picciotto I (2008). "The onset of autism: patterns of symptom emergence in the first years of life". Autism Res. 1 (6): 320–328. doi:10.1002/aur.53. PMC 2857525 . PMID 19360687. 
+^ Altevogt BM, Hanson SL, Leshner AI (2008). "Autism and the environment: challenges and opportunities for research". Pediatrics. 121 (6): 1225–9. doi:10.1542/peds.2007-3000. PMID 18519493. Archived from the original on 15 January 2010. 
+^ Reiss AL (2009). "Childhood developmental disorders: an academic and clinical convergence point for psychiatry, neurology, psychology and pediatrics". J Child Psychol Psychiatry. 50 (1–2): 87–98. doi:10.1111/j.1469-7610.2008.02046.x. PMID 19220592. 
+^ Piggot J, Shirinyan D, Shemmassian S, Vazirian S, Alarcón M (2009). "Neural systems approaches to the neurogenetics of autism spectrum disorders". Neuroscience. 164 (1): 247–56. doi:10.1016/j.neuroscience.2009.05.054. PMID 19482063. 
+^ Stephan DA (2008). "Unraveling autism". American Journal of Human Genetics. 82 (1): 7–9. doi:10.1016/j.ajhg.2007.12.003. PMC 2253980 . PMID 18179879. 
+^ Siu, AL; US Preventive Services Task Force, (USPSTF); Bibbins-Domingo, K; Grossman, DC; Baumann, LC; Davidson, KW; Ebell, M; García, FA; Gillman, M; Herzstein, J; Kemper, AR; Krist, AH; Kurth, AE; Owens, DK; Phillips, WR; Phipps, MG; Pignone, MP (16 February 2016). "Screening for Autism Spectrum Disorder in Young Children: US Preventive Services Task Force Recommendation Statement". JAMA. 315 (7): 691–6. doi:10.1001/jama.2016.0018. PMID 26881372. 
+^ Wetherby AM, Brosnan-Maddox S, Peace V, Newton L (2008). "Validation of the Infant–Toddler Checklist as a broadband screener for autism spectrum disorders from 9 to 24 months of age". Autism. 12 (5): 487–511. doi:10.1177/1362361308094501. PMC 2663025 . PMID 18805944. 
+^ Wallis KE, Pinto-Martin J (2008). "The challenge of screening for autism spectrum disorder in a culturally diverse society". Acta Paediatr. 97 (5): 539–40. doi:10.1111/j.1651-2227.2008.00720.x. PMID 18373717. 
+^ Lintas C, Persico AM (2009). "Autistic phenotypes and genetic testing: state-of-the-art for the clinical geneticist". Journal of Medical Genetics. 46 (1): 1–8. doi:10.1136/jmg.2008.060871. PMC 2603481 . PMID 18728070. Archived from the original on 30 October 2013. 
+^ a b Duchan E, Patel DR (2012). "Epidemiology of autism spectrum disorders". Pediatr. Clin. North Am. 59 (1): 27–43, ix–x. doi:10.1016/j.pcl.2011.10.003. PMID 22284791. 
+^ Lambert N, Strebel P, Orenstein W, Icenogle J, Poland GA (7 January 2015). "Rubella". Lancet. 385 (9984): 2297–307. doi:10.1016/S0140-6736(14)60539-0. PMC 4514442 . PMID 25576992. 
+^ a b c d e f g Smith, Tristram; Iadarola, Suzannah (2 Nov 2015). "Evidence Base Update for Autism Spectrum Disorder". Journal of Clinical Child & Adolescent Psychology. 44 (6): 897–922. doi:10.1080/15374416.2015.1077448 . ISSN 1537-4416. PMID 26430947. 
+^ Eldevik, Sigmund; Hastings, Richard P.; Hughes, J. Carl; Jahr, Erik; Eikeseth, Svein; Cross, Scott (19 May 2009). "Meta-Analysis of Early Intensive Behavioral Intervention for Children With Autism". Journal of Clinical Child & Adolescent Psychology. 38 (3): 439–450. CiteSeerX 10.1.1.607.9620 . doi:10.1080/15374410902851739. ISSN 1537-4416. PMID 19437303. 
+^ Ospina MB, Krebs Seida J, Clark B, Karkhaneh M, Hartling L, Tjosvold L, Vandermeer B, Smith V (2008). "Behavioural and developmental interventions for autism spectrum disorder: a clinical systematic review". PLoS ONE. 3 (11): e3755. doi:10.1371/journal.pone.0003755. PMC 2582449 . PMID 19015734. Archived from the original on 5 November 2013. 
+^ Seida JK, Ospina MB, Karkhaneh M, Hartling L, Smith V, Clark B (2009). "Systematic reviews of psychosocial interventions for autism: an umbrella review". Dev Med Child Neurol. 51 (2): 95–104. doi:10.1111/j.1469-8749.2008.03211.x. PMID 19191842. 
+^ a b c d Rogers SJ, Vismara LA (2008). "Evidence-based comprehensive treatments for early autism". J Clin Child Adolesc Psychol. 37 (1): 8–38. doi:10.1080/15374410701817808. PMC 2943764 . PMID 18444052. 
+^ Howlin P, Magiati I, Charman T (2009). "Systematic review of early intensive behavioral interventions for children with autism". Am J Intellect Dev Disabil. 114 (1): 23–41. doi:10.1352/2009.114:23-41. PMID 19143460. 
+^ Reichow B, Barton EE, Boyd BA, Hume K (2012). "Early intensive behavioral intervention (EIBI) for young children with autism spectrum disorders (ASD)". Cochrane Database of Systematic Reviews. 10: CD009260. doi:10.1002/14651858.CD009260.pub2. PMID 23076956. 
+^ Eikeseth S (2009). "Outcome of comprehensive psycho-educational interventions for young children with autism". Res Dev Disabil. 30 (1): 158–78. CiteSeerX 10.1.1.615.3336 . doi:10.1016/j.ridd.2008.02.003. PMID 18385012. 
+^ Van Bourgondien ME, Reichle NC, Schopler E (2003). "Effects of a model treatment approach on adults with autism". J Autism Dev Disord. 33 (2): 131–40. doi:10.1023/A:1022931224934. PMID 12757352. 
+^ Simpson RL, de Boer-Ott SR, Smith-Myles B (2003). "Inclusion of Learners with Autism Spectrum Disorders in General Education Settings". Topics in Language Disorders. 23 (2): 116–133. doi:10.1097/00011363-200304000-00005. Archived from the original on 14 July 2011. 
+^ Leskovec TJ, Rowles BM, Findling RL (2008). "Pharmacological treatment options for autism spectrum disorders in children and adolescents". Harv Rev Psychiatry. 16 (2): 97–112. doi:10.1080/10673220802075852. PMID 18415882. 
+^ Oswald DP, Sonenklar NA (2007). "Medication use among children with autism spectrum disorders". J Child Adolesc Psychopharmacol. 17 (3): 348–55. doi:10.1089/cap.2006.17303. PMID 17630868. 
+^ Ji N, Findling RL (March 2015). "An update on pharmacotherapy for autism spectrum disorder in children and adolescents". Curr Opin Psychiatry. 28 (2): 91–101. doi:10.1097/YCO.0000000000000132. PMID 25602248. 
+^ Lack of research on drug treatments:
+
+Angley M, Young R, Ellis D, Chan W, McKinnon R (2007). "Children and autism—part 1—recognition and pharmacological management" (PDF). Aust Fam Physician. 36 (9): 741–4. PMID 17915375. Archived from the original (PDF) on 7 April 2013. 
+Broadstock M, Doughty C, Eggleston M (2007). "Systematic review of the effectiveness of pharmacological treatments for adolescents and adults with autism spectrum disorder". Autism. 11 (4): 335–48. doi:10.1177/1362361307078132. PMID 17656398. 
+
+
+^ Buitelaar JK (2003). "Why have drug treatments been so disappointing?". Novartis Found Symp. Novartis Foundation Symposia. 251: 235–44; discussion 245–9, 281–97. doi:10.1002/0470869380.ch14. ISBN 9780470869383. PMID 14521196. 
+^ Dölen G, Carpenter RL, Ocain TD, Bear MF (2010). "Mechanism-based approaches to treating fragile X". Pharmacol Ther. 127 (1): 78–93. doi:10.1016/j.pharmthera.2010.02.008. PMID 20303363. 
+^ Lack of support for interventions:
+
+Francis K (2005). "Autism interventions: a critical update" (PDF). Dev Med Child Neurol. 47 (7): 493–9. doi:10.1017/S0012162205000952. PMID 15991872. 
+Levy SE, Hyman SL (2008). "Complementary and alternative medicine treatments for children with autism spectrum disorders". Child Adolesc Psychiatr Clin N Am. 17 (4): 803–20, ix. doi:10.1016/j.chc.2008.06.004. PMC 2597185 . PMID 18775371. 
+Rao PA, Beidel DC, Murray MJ (2008). "Social skills interventions for children with Asperger's syndrome or high-functioning autism: a review and recommendations". J Autism Dev Disord. 38 (2): 353–61. doi:10.1007/s10803-007-0402-4. PMID 17641962. 
+
+
+^ Stahmer AC, Collings NM, Palinkas LA (2005). "Early intervention practices for children with autism: descriptions from community providers". Focus Autism Other Dev Disabl. 20 (2): 66–79. doi:10.1177/10883576050200020301. PMC 1350798 . PMID 16467905. 
+^ Hediger ML, England LJ, Molloy CA, Yu KF, Manning-Courtney P, Mills JL (2008). "Archived copy". J Autism Dev Disord. 38 (5): 848–56. doi:10.1007/s10803-007-0453-6. PMID 17879151. Archived from the original on 1 October 2013. Retrieved 17 April 2008. Lay summary – NIH News (29 January 2008). 
+^ Brown MJ, Willis T, Omalu B, Leiker R (2006). "Deaths resulting from hypocalcemia after administration of edetate disodium: 2003–2005". Pediatrics. 118 (2): e534–6. doi:10.1542/peds.2006-0858. PMID 16882789. Archived from the original on 27 July 2009. 
+^ Warren Z, Veenstra-VanderWeele J, Stone W, et al. (April 2011). "Therapies for Children With Autism Spectrum Disorders": 8. PMID 21834171. Hyperbaric therapy, in which oxygen is administered in special chambers that maintain a higher air pressure, has shown possible effects in other chronic neurologic conditions and has also undergone preliminary exploration in ASDs. 
+^ a b Buie T (2013). "The relationship of autism and gluten". Clin Ther (Review). 35 (5): 578–83. doi:10.1016/j.clinthera.2013.04.011. PMID 23688532. At this time, the studies attempting to treat symptoms of autism with diet have not been sufficient to support the general institution of a gluten-free or other diet for all children with autism. 
+^ Marí-Bauset S, Zazpe I, Mari-Sanchis A, Llopis-González A, Morales-Suárez-Varela M (December 2014). "Evidence of the gluten-free and casein-free diet in autism spectrum disorders: a systematic review". J Child Neurol. 29 (12): 1718–27. doi:10.1177/0883073814531330. hdl:10171/37087 . PMID 24789114. 
+^ Millward C, Ferriter M, Calver S, Connell-Jones G (2008). Ferriter M, ed. "Gluten- and casein-free diets for autistic spectrum disorder". Cochrane Database Syst Rev (2): CD003498. doi:10.1002/14651858.CD003498.pub3. PMC 4164915 . PMID 18425890. 
+^ Volta U, Caio G, De Giorgio R, Henriksen C, Skodje G, Lundin KE (June 2015). "Non-celiac gluten sensitivity: a work-in-progress entity in the spectrum of wheat-related disorders". Best Pract Res Clin Gastroenterol. 29 (3): 477–91. doi:10.1016/j.bpg.2015.04.006. PMID 26060112. autism spectrum disorders (ASD) have been hypothesized to be associated with NCGS [47,48]. Notably, a gluten- and casein-free diet might have a positive effect in improving hyperactivity and mental confusion in some patients with ASD. This very exciting association between NCGS and ASD deserves further study before conclusions can be firmly drawn. 
+^ San Mauro I, Garicano E, Collado L, Ciudad MJ (December 2014). "[Is gluten the great etiopathogenic agent of disease in the XXI century?] [Article in Spanish]". Nutr Hosp. 30 (6): 1203–10. doi:10.3305/nh.2014.30.6.7866 (inactive 2017-08-12). PMID 25433099. 
+^ Catassi C, Bai JC, Bonaz B, Bouma G, Calabrò A, Carroccio A, Castillejo G, Ciacci C, Cristofori F, Dolinsek J, Francavilla R, Elli L, Green P, Holtmeier W, Koehler P, Koletzko S, Meinhold C, Sanders D, Schumann M, Schuppan D, Ullrich R, Vécsei A, Volta U, Zevallos V, Sapone A, Fasano A (September 2013). "Non-Celiac Gluten sensitivity: the new frontier of gluten related disorders". Nutrients. 5 (10): 3839–53. doi:10.3390/nu5103839. PMC 3820047 . PMID 24077239. The above data suggest that removing gluten from the diet may positively affect the clinical outcome in some children diagnosed with ASD, indicating that autism may be part of the spectrum of NCGS, at least in some cases. However, a word of caution is necessary to stress the fact that only a small, selected sub-group of children affected by ASD may benefit from an elimination diet. Additional investigations are required in order to identify phenotypes based on best- and non-response to dietary modifications and assess any biological correlates including anthropometry before considering a dietary intervention. 
+^ Federal Reserve Bank of Minneapolis Community Development Project. "Consumer Price Index (estimate) 1800–". Federal Reserve Bank of Minneapolis. Retrieved January 2, 2017. 
+^ Ganz ML (2007). "The lifetime distribution of the incremental societal costs of autism". Arch Pediatr Adolesc Med. 161 (4): 343–9. doi:10.1001/archpedi.161.4.343. PMID 17404130. Archived from the original on 12 December 2009. Lay summary – Harvard School of Public Health (25 April 2006). 
+^ Sharpe DL, Baker DL (2007). "Financial issues associated with having a child with autism". J Fam Econ Iss. 28 (2): 247–64. doi:10.1007/s10834-007-9059-6. 
+^ Montes G, Halterman JS (2008). "Association of childhood autism spectrum disorders and loss of family income". Pediatrics. 121 (4): e821–6. doi:10.1542/peds.2007-1594. PMID 18381511. Archived from the original on 4 March 2010. 
+^ Montes G, Halterman JS (2008). "Child care problems and employment among families with preschool-aged children with autism in the United States". Pediatrics. 122 (1): e202–8. doi:10.1542/peds.2007-3037. PMID 18595965. Archived from the original on 6 December 2009. 
+^ Reinke T (2008). "States increasingly mandate special autism services". Manag Care. 17 (8): 35–6, 39. PMID 18777788. Archived from the original on 24 March 2014. 
+^ Aman MG (2005). "Treatment planning for patients with autism spectrum disorders". J Clin Psychiatry. 66 (Suppl 10): 38–45. PMID 16401149. 
+^ Trivedi, Bijal. "Autistic and proud of it". New Scientist. Retrieved 10 November 2015. 
+^ Shapiro, Joseph (26 June 2006). "Autism Movement Seeks Acceptance, Not Cures". NPR. Retrieved 10 November 2015. 
+^ "World Autism Awareness Day, 2 April". United Nations. Retrieved 17 November 2015. 
+^ "What is LIUB". Autism Speaks. Retrieved 17 November 2015. 
+^ Bascom, Julia (18 June 2015). "Autistic Pride Day 2015: A Message to the Autistic Community". Retrieved 18 November 2015. 
+^ "Autism Sunday – Home". Autism Sunday. 2010. Retrieved 17 November 2015. 
+^ "About Autreat". Autreat.com. 2013. Retrieved 17 November 2015. 
+^ "Other Autism Organizations". Autism Speaks. 25 July 2012. Retrieved 17 November 2015. 
+^ Silverman, Chloe (2008). "Fieldwork on Another Planet: Social Science Perspectives on the Autism Spectrum". BioSocieties. 3 (3): 325–341. doi:10.1017/S1745855208006236. ISSN 1745-8552. 
+^ "Rain Man (1988) - IMDb". Internet Movie Database. Retrieved 17 November 2015. 
+^ "American RadioWorks: Fast Food and Animal Rights – Kill Them With Kindness, Page 1". American Public Media. Retrieved 17 November 2015. 
+^ Page, Tim (20 August 2007). "Parallel Play". The New Yorker. Retrieved 17 November 2015. 
+^ "Famous People With Autism Spectrum Disorder: Autistic Celebrities (List)". Mental Health Daily. Retrieved 18 November 2015. 
+^ Pickett E, Pullara O, O'Grady J, Gordon B (2009). "Speech acquisition in older nonverbal individuals with autism: a review of features, methods, and prognosis". Cogn Behav Neurol. 22 (1): 1–21. doi:10.1097/WNN.0b013e318190d185. PMID 19372766. 
+^ Seltzer MM, Shattuck P, Abbeduto L, Greenberg JS (2004). "Trajectory of development in adolescents and adults with autism". Ment Retard Dev Disabil Res Rev. 10 (4): 234–47. doi:10.1002/mrdd.20038. PMID 15666341. 
+^ Tidmarsh L, Volkmar FR (2003). "Diagnosis and epidemiology of autism spectrum disorders". Can J Psychiatry. 48 (8): 517–25. doi:10.1177/070674370304800803. PMID 14574827. 
+^ Hendricks DR, Wehman P (24 March 2009). "Transition From School to Adulthood for Youth With Autism Spectrum Disorders: Review and Recommendations". Focus on Autism and Other Developmental Disabilities. 24 (2): 77–88. doi:10.1177/1088357608329827. 
+^ a b c Fombonne E (2009). "Epidemiology of pervasive developmental disorders". Pediatr Res. 65 (6): 591–8. doi:10.1203/PDR.0b013e31819e7203 . PMID 19218885. 
+^ CDC | Home | Autism Spectrum Disorder (ASD) | NCBDDD
+^ Wing L, Potter D (2002). "The epidemiology of autistic spectrum disorders: is the prevalence rising?". Ment Retard Dev Disabil Res Rev. 8 (3): 151–61. doi:10.1002/mrdd.10029. PMID 12216059. 
+^ Szpir M (2006). "Tracing the origins of autism: a spectrum of new studies". Environ Health Perspect. 114 (7): A412–8. doi:10.1289/ehp.114-a412. PMC 1513312 . PMID 16835042. 
+^ Schaafsma SM, Pfaf DW (August 2014). "Etiologies underlying sex differences in Autism Spectrum Disorders". Frontiers in Neuroendocrinology. 35 (3): 255–71. doi:10.1016/j.yfrne.2014.03.006. PMID 24705124. 
+^ Gardener H, Spiegelman D, Buka SL (2009). "Prenatal risk factors for autism: comprehensive meta-analysis". Br J Psychiatry. 195 (1): 7–14. doi:10.1192/bjp.bp.108.051672. PMC 3712619 . PMID 19567888. 
+^ Bertoglio K, Hendren RL (2009). "New developments in autism". Psychiatr Clin North Am. 32 (1): 1–14. doi:10.1016/j.psc.2008.10.004. PMID 19248913. 
+^ Folstein SE, Rosen-Sheidley B (2001). "Genetics of autism: complex aetiology for a heterogeneous disorder". Nature Reviews Genetics. 2 (12): 943–55. doi:10.1038/35103559. PMID 11733747. 
+^ Zafeiriou DI, Ververi A, Vargiami E (2007). "Childhood autism and associated comorbidities". Brain Dev. 29 (5): 257–72. doi:10.1016/j.braindev.2006.09.003. PMID 17084999. 
+^ Learning in autism. In: Byrne JH (ed.-in-chief), Roediger HL III (vol. ed.). Learning and Memory: A Comprehensive Reference. Vol. 2. Academic Press; 2008 [Retrieved 26 July 2008]. doi:10.1016/B978-012370509-9.00152-2. ISBN 978-0-12-370504-4. p. 759–72.
+^ Chakrabarti S, Fombonne E (2001). "Pervasive developmental disorders in preschool children". JAMA. 285 (24): 3093–9. doi:10.1001/jama.285.24.3093. PMID 11427137. Archived from the original on 28 August 2010. 
+^ DSM-IV-TR Diagnostical and Statistical Manual of Mental Disorders Fourth edition text revision. American Psychiatric Association, Washington DC; 2000. p. 80.
+^ White SW, Oswald D, Ollendick T, Scahill L (2009). "Anxiety in children and adolescents with autism spectrum disorders". Clin Psychol Rev. 29 (3): 216–29. doi:10.1016/j.cpr.2009.01.003. PMC 2692135 . PMID 19223098. 
+^ Spence SJ, Schneider MT (2009). "The role of epilepsy and epileptiform EEGs in autism spectrum disorders". Pediatr Res. 65 (6): 599–606. doi:10.1203/PDR.0b013e31819e7168. PMC 2692092 . PMID 19454962. 
+^ Ozgen HM, Hop JW, Hox JJ, Beemer FA, van Engeland H (2010). "Minor physical anomalies in autism: a meta-analysis". Mol Psychiatry. 15 (3): 300–7. doi:10.1038/mp.2008.75 . PMID 18626481. 
+^ Steyaert JG, De la Marche W (2008). "What's new in autism?". Eur J Pediatr. 167 (10): 1091–101. doi:10.1007/s00431-008-0764-4. PMID 18597114. 
+^ Richdale AL, Schreck KA (2009). "Sleep problems in autism spectrum disorders: prevalence, nature, & possible biopsychosocial aetiologies". Sleep Med Rev. 13 (6): 403–11. doi:10.1016/j.smrv.2009.02.003. PMID 19398354. 
+^ Wing L (1997). "The history of ideas on autism: legends, myths and reality". Autism. 1 (1): 13–23. doi:10.1177/1362361397011004. 
+^ Miles M (2005). "Martin Luther and childhood disability in 16th century Germany: what did he write? what did he say?". Independent Living Institute. Archived from the original on 3 November 2013. Retrieved 23 December 2008. 
+^ Autism in History: The Case of Hugh Blair of Borgue. Blackwell; 2000. ISBN 978-0-631-22089-3.
+^ a b c Wolff S (2004). "The history of autism". Eur Child Adolesc Psychiatry. 13 (4): 201–8. doi:10.1007/s00787-004-0363-5. PMID 15365889. 
+^ Kuhn R (2004). "Eugen Bleuler's concepts of psychopathology". Hist Psychiatry. 15 (3): 361–6. doi:10.1177/0957154X04044603. PMID 15386868.  The quote is a translation of Bleuler's 1910 original.
+^ Asperger H (1938). "Das psychisch abnormale Kind" [The psychically abnormal child]. Wien Klin Wochenschr (in German). 51: 1314–7. 
+^ Lyons V, Fitzgerald M (2007). "Asperger (1906–1980) and Kanner (1894–1981), the two pioneers of autism". J Autism Dev Disord. 37 (10): 2022–3. doi:10.1007/s10803-007-0383-3. PMID 17922179. 
+^ a b Pallardy, Richard. "Donald Triplett". Encyclopædia Britannica. Retrieved 19 March 2017. 
+^ Donvan, John; Zucker, Caren. "Autism's First Child". The Atlantic. Retrieved 19 March 2017. 
+^ Fombonne E (2003). "Modern views of autism". Can J Psychiatry. 48 (8): 503–5. doi:10.1177/070674370304800801. PMID 14574825. 
+^ Szatmari P. Genetic epidemiology of autism spectrum disorders. In: Volkmar FR. Autism and Pervasive Developmental Disorders. 2nd ed. Cambridge University Press; 2007. ISBN 978-0-521-54957-8. p. 157–78.
+^ Chambres P, Auxiette C, Vansingle C, Gil S (2008). "Adult attitudes toward behaviors of a six-year-old boy with autism". J Autism Dev Disord. 38 (7): 1320–7. doi:10.1007/s10803-007-0519-5. PMID 18297387. 
+^ Heidgerken AD, Geffken G, Modi A, Frakey L (2005). "A survey of autism knowledge in a health care setting". J Autism Dev Disord. 35 (3): 323–30. doi:10.1007/s10803-005-3298-x. PMID 16119473. 
+^ Baker, Jeffrey P. (19 September 2013). "Autism at 70 – Redrawing the Boundaries". New England Journal of Medicine. 369 (12): 1089–1091. doi:10.1056/NEJMp1306380. 
+^ Biever C (2007). "Web removes social barriers for those with autism". New Sci (2610): 26–7. Archived from the original on 20 October 2012. 
+^ Harmon A (20 December 2004). "How about not 'curing' us, some autistics are pleading". The New York Times. Archived from the original on 11 May 2013. 
+
+
+
+External links
+
+
+Classification
+
+V · T · D
+
+
+ICD-10: F84.0
+ICD-9-CM: 299.00
+OMIM: 209850
+MeSH: D001321
+DiseasesDB: 1142
+
+
+
+
+
+External resources
+
+
+
+MedlinePlus: 001526
+eMedicine: med/3202 ped/180
+Patient UK: Autism
+GeneReviews: Autism overview
+
+
+
+
+
+
+ Pervasive developmental disorders portal
+
+Find more aboutAutismat Wikipedia's sister projects
+
+Definitions from Wiktionary
+Media from Commons
+News from Wikinews
+Textbooks from Wikibooks
+Data from Wikidata
+
+
+
+
+Library resources about
+Autism
+
+
+
+
+
+Resources in your library
+Resources in other libraries
+
+
+
+
+
+Autism at DMOZ
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Pervasive developmental disorders and autism spectrum (F84, 299)
+
+
+
+Main
+
+
+
+Causes
+Comorbid conditions
+Epidemiology
+Heritability
+Sociological and cultural aspects
+Medical model
+Therapies
+
+
+
+
+
+Diagnoses
+
+
+
+Autism spectrum (High-functioning autism
+Classic Autism
+Asperger syndrome
+Pervasive developmental disorder not otherwise specified
+Childhood disintegrative disorder
+Rett syndrome)
+
+
+
+
+
+Related conditions
+
+
+
+Alexithymia
+Attention deficit hyperactivity disorder
+Anxiety disorder (obsessive–compulsive disorder)
+Late talkers
+Epilepsy
+Fragile X syndrome
+Hyperlexia
+Savant syndrome
+Sensory processing disorder
+Intellectual disability
+Developmental coordination disorder
+Multiple complex developmental disorder
+
+
+
+
+
+Controversies
+
+
+
+Autism rights movement
+Autistic enterocolitis
+Facilitated communication
+MMR vaccine
+Thiomersal (Chelation)
+
+
+
+
+
+Diagnostic scales
+
+
+
+Gilliam Asperger's disorder scale
+Autism Diagnostic Observation Schedule
+Autism Diagnostic Interview
+Autism-spectrum quotient
+Childhood Autism Rating Scale
+
+
+
+
+
+Lists
+
+
+
+Autism-related topics
+Fictional characters
+Schools
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Mental and behavioral disorders (F 290–319)
+
+
+
+
+
+
+
+
+Neurological/symptomatic
+
+
+
+
+
+
+
+Dementia
+
+
+
+Mild cognitive impairment
+Alzheimer's disease
+Vascular dementia
+Pick's disease
+Creutzfeldt–Jakob disease
+Huntington's disease
+Parkinson's disease
+AIDS dementia complex
+Frontotemporal dementia
+Sundowning
+Wandering
+
+
+
+
+
+Autism spectrum
+
+
+
+Autism
+Asperger syndrome
+Savant syndrome
+PDD-NOS
+High-functioning autism
+
+
+
+
+
+Other
+
+
+
+Delirium
+Post-concussion syndrome
+Organic brain syndrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Psychoactive substances, substance abuse, drug abuse and substance-related disorders
+
+
+
+
+
+
+Intoxication/Drug overdose
+Physical dependence
+Substance dependence
+Rebound effect
+Double rebound
+Withdrawal
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schizophrenia, schizotypal and delusional
+
+
+
+
+
+
+
+Psychosis
+
+
+
+Schizoaffective disorder
+Schizophreniform disorder
+Brief reactive psychosis
+
+
+
+
+
+Schizophrenia
+
+
+
+Disorganized schizophrenia
+Paranoid schizophrenia
+Simple-type schizophrenia
+
+
+
+
+
+Delusional disorders
+
+
+
+Delusional disorder
+Folie à deux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mood (affective)
+
+
+
+
+
+
+Mania
+Bipolar disorder
+(Bipolar I
+Bipolar II
+Cyclothymia
+Bipolar NOS)
+Depression
+(Major depressive disorder
+Dysthymia
+Seasonal affective disorder
+Atypical depression
+Melancholic depression)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neurotic, stress-related and somatoform
+
+
+
+
+
+
+
+Anxiety disorder
+
+
+
+
+Phobia
+
+
+
+Agoraphobia
+Social anxiety
+Social phobia
+(Anthropophobia)
+Specific phobia
+(Claustrophobia)
+Specific social phobia
+
+
+
+
+
+Other
+
+
+
+Panic disorder
+Panic attack
+Generalized anxiety disorder
+OCD
+stress
+(Acute stress reaction
+PTSD)
+
+
+
+
+
+
+
+
+Adjustment disorder
+
+
+
+Adjustment disorder with depressed mood
+
+
+
+
+
+Somatic symptom
+disorder
+
+
+
+Somatization disorder
+Body dysmorphic disorder
+Hypochondriasis
+Nosophobia
+Da Costa's syndrome
+Psychalgia
+Conversion disorder
+(Ganser syndrome
+Globus pharyngis)
+Neurasthenia
+Mass psychogenic illness
+
+
+
+
+
+Dissociative disorder
+
+
+
+Dissociative identity disorder
+Psychogenic amnesia
+Fugue state
+Depersonalization disorder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physiological/physical behavioral
+
+
+
+
+
+
+
+Eating disorder
+
+
+
+Anorexia nervosa
+Bulimia nervosa
+Rumination syndrome
+NOS
+
+
+
+
+
+Nonorganic
+sleep disorders
+
+
+
+(Nonorganic hypersomnia
+Nonorganic insomnia)
+Parasomnia
+(REM sleep behavior disorder
+Night terror
+Nightmare)
+
+
+
+
+
+Sexual
+dysfunction
+
+
+
+sexual desire
+(Hypoactive sexual desire disorder
+Hypersexuality)
+
+
+sexual arousal
+(Female sexual arousal disorder)
+Erectile dysfunction
+
+
+orgasm
+(Anorgasmia
+Delayed ejaculation
+Premature ejaculation
+Sexual anhedonia)
+
+
+pain
+(Vaginismus
+Dyspareunia)
+
+
+
+
+
+Postnatal
+
+
+
+Postpartum depression
+Postpartum psychosis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adult personality and behavior
+
+
+
+
+
+
+
+Gender dysphoria
+
+
+
+Sexual maturation disorder
+Ego-dystonic sexual orientation
+Sexual relationship disorder
+Paraphilia
+(Voyeurism
+Fetishism)
+
+
+
+
+
+Other
+
+
+
+Personality disorder
+Impulse control disorder
+(Kleptomania
+Trichotillomania
+Pyromania
+Dermatillomania)
+Factitious disorder
+(Munchausen syndrome)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disorders typically diagnosed in childhood
+
+
+
+
+
+
+
+Intellectual disability
+
+
+
+X-linked intellectual disability
+(Lujan–Fryns syndrome)
+
+
+
+
+
+Psychological development
+(developmental disabilities)
+
+
+
+Specific
+Pervasive
+
+
+
+
+
+Emotional and behavioral
+
+
+
+ADHD
+Conduct disorder
+(ODD)
+Emotional/behavioral disorder
+(Separation anxiety disorder)
+social functioning
+(Selective mutism
+RAD
+DAD)
+Tic disorder
+(Tourette syndrome)
+Speech
+(Stuttering
+Cluttering)
+Movement disorders
+(Stereotypic)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Symptoms and uncategorized
+
+
+
+
+
+
+Catatonia
+False pregnancy
+Intermittent explosive disorder
+Psychomotor agitation
+Stereotypy
+Psychogenic non-epileptic seizures
+Klüver–Bucy syndrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Autism resources
+
+
+
+
+
+
+Autism
+
+outline
+spectrum
+
+
+
+
+
+
+
+Awareness
+
+
+
+Autism friendly
+Autism Sunday
+Communication Shutdown
+World Autism Awareness Day
+
+
+
+
+
+Culture
+
+
+
+Autistic art
+Autism spectrum disorders in the media
+Fictional characters
+Films about autism
+Circle of Friends
+Neurodiversity
+Medical model of autism
+Sociological and cultural aspects of autism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Therapies
+
+
+
+
+
+
+
+Psychotropic medication (antipsychotics)
+
+
+
+Aripiprazole
+Risperidone
+
+
+
+
+
+Applied behavior analysis (ABA)
+
+
+
+Cognitive behavior therapy
+
+social skills training
+
+
+Discrete trial training (Lovaas)
+Early start denver model
+Pivotal response treatment
+Schoolwide positive behavior support
+
+
+
+
+
+Developmental
+
+
+
+Floortime (The PLAY Project)
+
+
+
+
+
+Controversial
+
+
+
+Auditory integration training
+Aversive therapy/Electric shocks (Judge Rotenberg Educational Center)
+Chelation of mercury
+Ethical challenges to autism treatment
+Facilitated communication
+Gluten-free casein-free diet
+Hug machine
+Hyperbaric oxygen therapy
+Holding therapy
+Relationship development intervention
+Secretin
+Sensory integration therapy
+Son-Rise
+Vitamin B12
+
+
+
+
+
+Related
+
+
+
+Occupational therapy
+Picture Exchange Communication System (PECS)
+Social Stories
+Speech therapy
+SSRI antidepressants
+Structured teaching (TEACCH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Centers
+
+
+
+
+
+
+
+Research
+
+
+
+
+United States
+
+
+
+Association for Science in Autism Treatment
+Simons Foundation Autism Research Initiative
+Autism Research Institute
+Autism Science Foundation
+National Alliance for Autism Research
+Yale Child Study Center
+
+
+
+
+
+United Kingdom
+
+
+
+Autism Research Centre (UK)
+
+
+
+
+
+other / see also
+
+
+
+Conditions and research areas
+Researchers
+
+
+
+
+
+
+
+
+Therapy
+
+
+
+
+United States
+
+
+
+Center for Autism and Related Disorders (CARD)
+MIND Institute
+
+
+
+
+
+
+
+
+Schools
+
+
+
+ESPA College (UK)
+Exceptional Minds (USA)
+Pathlight School (Singapore)
+Sunfield Children's Home (UK)
+TreeHouse School (UK)
+Western Autistic School (Australia)
+List of schools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Organizations
+
+
+
+
+
+
+
+Americas
+
+
+
+
+United States
+
+
+
+Autism National Committee
+Autism Network International
+Autism Science Foundation
+Autistic Self Advocacy Network
+Autism Society of America
+Autism Speaks
+Daniel Jordan Fiddle Foundation
+Generation Rescue
+Interactive Autism Network
+LENA Foundation
+Talk About Curing Autism
+
+
+
+
+
+other
+
+
+
+Centro Ann Sullivan (Peru)
+Filipino-Canadian Autism Parent Support Group (Canada)
+
+
+
+
+
+
+
+
+Asia
+
+
+
+Action for Autism (India)
+Autism Resource Centre (Singapore)
+GetVidya (India)
+
+
+
+
+
+Caribbean
+
+
+
+Autistic Society (Trinidad and Tobago)
+Maia Chung Autism and Disabilities Foundation (Jamaica)
+
+
+
+
+
+Europe
+
+
+
+
+UK
+
+
+
+Autism Anglia
+The Autism Directory
+Autism Awareness Campaign UK
+Autism Cymru
+Autism Plus
+Autistica
+National Autistic Society
+Sacar
+
+
+
+
+
+other
+
+
+
+Specialisterne (Denmark)
+Aspies For Freedom
+Alliance Autiste
+
+
+
+
+
+
+
+
+Oceania
+
+
+
+Luke Priddis Foundation (Australia)
+
+
+
+
+
+International
+
+
+
+Autism rights movement
+Wrong Planet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literature
+
+
+
+
+
+
+
+Non-fiction
+
+
+
+The Accidental Teacher: Life Lessons from My Silent Son
+Aspergirls: Empowering Females with Asperger's Syndrome
+Animals in Translation
+In a Different Key
+Life Animated
+Neurotribes
+Autism's False Prophets
+Freaks, Geeks, and Asperger Syndrome: A User Guide to Adolescence
+Like Colour to the Blind
+Look Me in the Eye
+Mother Warriors
+Nobody Nowhere
+Overcoming Autism
+Somebody Somewhere
+Son-Rise: The Miracle Continues
+Strange Son
+Switched On
+Unstrange Minds
+Extreme Love: Autism
+
+
+
+
+
+Fiction
+
+
+
+The Mu Rhythm Bluff
+The Curious Incident of the Dog in the Night-Time
+Dear John
+House Rules
+Mockingbird
+Saving Max
+Speed of Dark
+The Winter Journey
+With the Light
+
+
+
+
+
+For younger people
+
+
+
+Everybody Is Different: A Book for Young People Who Have Brothers or Sisters With Autism
+Ian's Walk: A Story about Autism
+Marcelo in the Real World
+Rage: A Love Story
+Rules
+
+
+
+
+
+Journals
+
+
+
+Autism
+Journal of Autism and Developmental Disorders
+Molecular Autism
+Research in Autism Spectrum Disorders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Autism-related films
+
+
+
+Documentary
+
+
+
+Autism Every Day
+Autism Is a World
+Autism: The Musical
+Best Kept Secret
+Children of the Stars
+Dad's in Heaven with Nixon
+The Horse Boy
+How to Dance in Ohio
+Life, Animated
+Normal People Scare Me
+Recovered: Journeys Through the Autism Spectrum and Back
+Refrigerator Mothers
+Too Sane for This World
+The Wall or psychoanalysis put to the test for autism
+
+
+
+
+
+Docudrama and biopic
+
+
+
+After Thomas
+Cries from the Heart
+Marathon
+Son-Rise: A Miracle of Love
+Temple Grandin
+Wretches & Jabberers
+
+
+
+
+
+Educational
+
+
+
+The Transporters
+
+
+
+
+
+Fictional
+
+
+
+Adam
+Backstreet Dreams
+Barfi!
+Ben X
+The Black Balloon
+Bless the Child
+The Boy Who Could Fly
+Breaking and Entering
+Burning Bright
+Carne
+Change of Habit
+A Child Is Waiting
+Chocolate
+Cube
+Dark Floors
+David's Mother
+Dear John
+Dr. Pomerantz
+Elling
+Eeshwar
+Extremely Loud & Incredibly Close
+Family Pictures
+Fly Away
+God's Ears
+Haridas
+Henry & Verlin
+House of Cards
+I Am Sam
+Imagination
+Joyful Noise
+Killer Diller
+Koi... Mil Gaya
+Mabul
+Mario
+Mary and Max
+Mercury Rising
+Midwinter Night's Dream
+Miracle Run
+Molly
+Mozart and the Whale
+My Name Is Khan
+Nell
+Nightworld: Lost Souls
+Ocean Heaven
+The Other Sister
+Quantum Apocalypse
+Raam
+Rain Man
+Relative Fear
+Run Wild, Run Free
+Salmon Fishing in the Yemen
+Season of Miracles
+Swati Mutyam
+Swathi Muthu
+Silent Fall
+Simple Simon
+Snow Cake
+The Accountant
+The Story of Luke
+Touch
+Under the Piano
+When the Bough Breaks
+White Frog
+Zig Zag
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Autism&oldid=812196252"					
+Categories: AutismCommunication disordersMental and behavioural disordersNeurological disordersNeurological disorders in childrenPervasive developmental disordersPsychiatric diagnosisHidden categories: Pages with DOIs inactive since 2017CS1 German-language sources (de)Wikipedia indefinitely semi-protected pagesWikipedia indefinitely move-protected pagesUse dmy dates from August 2017Use American English from August 2016All Wikipedia articles written in American EnglishArticles containing potentially dated statements from 2014All articles containing potentially dated statementsWikipedia articles needing clarification from January 2016Articles with DMOZ linksFeatured articlesArticles containing video clips 

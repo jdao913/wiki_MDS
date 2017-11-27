@@ -1,0 +1,766 @@
+4chan - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+4chan
+
+
+The 4chan homepage on December 26, 2015
+
+
+
+
+Type of site
+
+Imageboard
+
+
+Available in
+English
+
+
+Owner
+Hiroyuki Nishimura
+
+
+Created by
+Christopher Poole
+
+
+Website
+www.4chan.org
+
+
+Alexa rank
+ 213 (July 2017[update])[1]
+
+
+Commercial
+Yes
+
+
+Registration
+None available
+
+
+Launched
+October 1, 2003; 14 years ago (2003-10-01)[2]
+
+
+4chan is an English-language imageboard website. Users generally post anonymously, with the most recent posts appearing above the rest. 4chan is split into various boards with their own specific content and guidelines. Registration is not possible (except for staff).
+Launched on October 1, 2003, the site was modeled on Japanese imageboards, particularly Futaba Channel. 4chan's first boards were originally primarily used for posting pictures and discussing manga and anime. The site quickly became popular, expanded, and now features boards dedicated to a wide variety of topics, from anime/manga to videogames, music, literature, fitness, politics, and sports.
+The site has been linked to Internet subcultures and activism groups, most notably Anonymous, the alt-right and Project Chanology.[3][4][5] 4chan users have been responsible for the formation or popularization of Internet memes such as lolcats, Rickrolling, "Chocolate Rain", Pedobear and many others. The site's "Random" board, also known as "/b/", was the first board to be created, and is the one that receives the most traffic.[6][7] As its name suggests, the Random board has minimal rules on posted content. Gawker once jokingly claimed that "reading /b/ will melt your brain".[8] The site's anonymous community and culture have often provoked media attention. For media planners, this enterprise is "further proof that creativity is everywhere and new media is less accessible" to advertisement agencies.[9]
+4chan users have been instrumental in pranks such as hijacking Internet destinations to cause images of Rick Astley to appear in place of their content, coordinating attacks against other websites and Internet users, and posting threats of violence in order to elicit individual and public reactions. The Guardian once summarized the 4chan community as "lunatic, juvenile ... brilliant, ridiculous and alarming".[10]
+
+
+
+Contents
+
+
+1 Background
+2 History
+
+2.1 Christopher Poole
+
+
+3 Links to Anonymous and Project Chanology
+4 Notable imageboards
+
+4.1 /b/
+4.2 /pol/
+
+
+5 Internet memes
+
+5.1 Lolcats
+5.2 Rickrolling
+5.3 "Chocolate Rain"
+5.4 Boxxy
+5.5 Pedobear
+
+
+6 Other media attention
+
+6.1 Arrests for animal abuse
+6.2 "This post is art"
+
+
+7 Controversies
+
+7.1 Internet attacks
+7.2 Threats of violence
+7.3 Arrests for child pornography and cyberbullying
+7.4 Celebrity photo leaks
+7.5 Gamergate
+7.6 Murder in Port Orchard, Washington
+
+
+8 ISP bans
+
+8.1 AT&T temporary ban
+8.2 Verizon temporary ban
+
+
+9 See also
+10 Notes
+11 References
+12 External links
+
+
+
+Background
+
+
+
+
+Christopher Poole, 4chan's founder, at XOXO Festival in 2012
+
+
+The activity of 4chan takes place on message boards and imageboards.[8][11] The website is split into six categories: Japanese culture, Interests, Creative, Adult (18+), Other, and Misc (18+). These provide for on-topic boards to discuss anime, manga, technology, sport, photography, music, hentai, torrents, travel, physical fitness, as well as a random board. 4chan originally hosted discussion boards on a separate domain called "world4ch", but these were later moved to the dis.4chan.org subdomain.[12] The site has had at least one employee, a programmer whom 4chan's founder Christopher Poole met via online Tetris. All other moderators are volunteers.[13] As of 2011, the /b/ (Random), /v/ (Video games), /a/ (Anime and Manga), and /s/ (explicit images) boards were respectively the site's first, second, third, and fourth most popular boards.[note 1]
+4chan is one of the Internet's most trafficked imageboards, according to the Los Angeles Times.[14] 4chan's Alexa rank is generally around 700,[15] though it has been as high as number 56 at times.[16] It is provided to its users free of charge and consumes a large amount of bandwidth; as a result, its financing has often been problematic. Poole acknowledges that donations alone cannot keep the site online, so he has turned to advertising to help make ends meet.[17] However, the explicit content hosted on 4chan has deterred businesses who do not want to be associated with the site's content.[18] In January 2009, Poole signed a new deal with an advertising company; in February 2009, he was $20,000 in debt and the site was continuing to lose money.[19] The 4chan servers were moved from Texas to California in August 2008, which upgraded the maximum bandwidth throughput of 4chan from 100Mbit/s to 1Gbit/s.[20]
+Unlike most web forums, 4chan does not have a registration system, allowing users to post anonymously.[21][22] Any nickname may be used when posting, even one that has been previously adopted, such as "Anonymous" or "moot".[23] In place of registration, 4chan has provided tripcodes as an optional form of authenticating a poster's identity.[24] As making a post without filling in the "Name" field causes posts to be attributed to "Anonymous", general understanding on 4chan holds that Anonymous is not a single person but a collective (hive) of users.[25] Moderators generally post without a name even when performing sysop actions. A "capcode" may be used to attribute the post to "Anonymous ## Mod", although moderators often post without the capcode.[26] In a 2011 interview on Nico Nico Douga, Poole explained that there are approximately 20 volunteer moderators active on 4chan.[note 1] 4chan also has a junior moderation team, called "janitors", who may delete posts or images and suggest that the normal moderation team ban a user, but who can not post with a capcode. Revealing oneself as a janitor is grounds for immediate dismissal.[27]
+4chan has been the target of occasional denial of service attacks. For instance, on December 28, 2010, 4chan and other websites went down due to such an attack, following which Poole said on his blog, "We now join the ranks of MasterCard, Visa, PayPal, et al.—an exclusive club!"[28]
+History
+4chan was started in 2003 in the bedroom of Christopher Poole, a then-15-year-old student from New York City whose 4chan handle is "moot".[13] Prior to starting 4chan, Poole had been a regular participant on the Something Awful forums.[21] He intended 4chan to be an American counterpart to the popular Japanese Futaba Channel ("2chan") imageboard and a place to discuss manga and anime.[11][29] Upon the creation of 4chan, Poole encouraged users from the Something Awful subforum titled "Anime Death Tentacle Rape Whorehouse", who also happened to be dissatisfied with the forum, to discuss anime on his website.[30] Poole originally used the Futaba Channel to obtain anime-related images, and liked the concept of a message board where people anonymously shared images, which eventually led to his idea of creating a similar English-based website. During the creation of 4chan, he obtained the source code for the Futaba Channel website, and translated the Japanese text into English using Altavista's Babelfish online translator.[note 1][31] During 4chan's earliest days, it had only two boards: "/a/ – Anime/General" and "/b/ – Anime/Random" (the very first board to be created); more boards were created over time, and /b/ was eventually renamed to simply "/b/ – Random".[note 1][31]
+During the early days of 4chan, the boards that originally existed were the anime, random, cute, hentai, and yaoi boards; a lolicon board also existed at /l/,[33] but after being disabled for a week around the turn of the year 2004 it was removed in October 2004.[34] The /g/ board also was initially dedicated to guro, before it was deleted and later remade as the "technology" board.[35] During 2004, 4chan briefly went offline,[36] then returned fully online a few months later.[37] Following 4chan's return, some non-anime related boards, such as the weapons, automobile, and video games boards, were introduced.[38] In 2008, nine new boards were created, including the sports board at /sp/, the fashion board at /fa/ and the "Japan/General" (the name later changed to "Otaku culture") board at /jp/.[39]
+In January 2011, Poole announced the deletion of the /r9k/ ("ROBOT9000") and /new/ (News) boards, saying that /new/ had become devoted to racist discussions, and /r9k/ no longer served its original purpose of being a test implementation of xkcd's ROBOT9000 script.[40] During the same year, the /soc/ board was created in an effort to reduce the number of socialization threads on /b/. /r9k/ was restored on October 23, 2011, along with /hc/ ("Hardcore", previously deleted), /pol/ (a rebranding of /new/) and the new /diy/ board, in addition to an apology by Poole where he recalls how he criticized the deletion of Encyclopedia Dramatica, and realized that he had done the same.[41]
+In 2010, 4chan had implemented reCAPTCHA in an effort to thwart spam arising from JavaScript worms. By November 2011, 4chan made the transition to utilizing CloudFlare following a series of distributed denial of service attacks. The 4chan imageboards were rewritten in valid HTML5/CSS3 in May 2012 in an effort to improve client-side performance.[20] On September 28, 2012, 4chan introduced a "4chan pass"[42] that, when purchased, "allows users to bypass typing a reCAPTCHA verification when posting and reporting posts on the 4chan image boards"; the money raised from the passes will go towards supporting the site.[43]
+
+
+
+
+Hiroyuki Nishimura, the owner of 4chan since 2015
+
+
+On January 21, 2015, moot stepped down as the site's administrator citing stress from controversies such as the Gamergate controversy as the reason for his departure.[44][45][46] On September 21, 2015, moot announced that Hiroyuki Nishimura had purchased from him the ownership rights to 4chan, without disclosing the terms of the acquisition.[30][47][48] Nishimura was the former administrator of 2channel between 1999 and 2014, the website forming the basis for anonymous posting culture which influenced later websites such as Futaba Channel and 4chan;[49] Nishimura lost the rights for 2channel to ex-US Army officer[50] Jim Watkins[51][52] following financial difficulties[53] and a series of scandals involving Nishimura's alleged datamining and sales of 2channel personal user data to political parties.[50][54]
+In October 2016, it was reported that the site was facing financial difficulties that could lead to its closure or radical changes.[55] In a post titled "Winter is Coming", Hiroyuki Nishimura said "We had tried to keep 4chan as is. But I failed. I am sincerely sorry", citing server costs, infrastructure costs and network fees.[56]
+Christopher Poole
+Poole kept his real-life identity hidden until it was revealed on July 9, 2008, in The Wall Street Journal. Before that time he had used the alias "moot".[13]
+In April 2009, Poole was voted the world's most influential person of 2008 by an open Internet poll conducted by Time magazine.[57] The results were questioned even before the poll completed, as automated voting programs and manual ballot stuffing were used to influence the vote.[58][59][60] 4chan's interference with the vote seemed increasingly likely, when it was found that reading the first letter of the first 21 candidates in the poll spelled out a phrase containing two 4chan memes: "mARBLECAKE. ALSO, THE GAME."[61]
+On September 12, 2009, Poole gave a talk on why 4chan has a reputation as a "Meme Factory" at the Paraflows Symposium in Vienna, Austria, which was part of the Paraflows 09 festival, themed Urban Hacking. In this talk, Poole mainly attributed this to the anonymous system, and to the lack of data retention on the site ("The site has no memory.").[62][63]
+In April 2010, Poole gave evidence in the trial United States of America v. David Kernell as a government witness.[64] As a witness, he explained the terminology used on 4chan to the prosecutor, ranging from "OP" to "lurker". He also explained to the court the nature of the data given to the FBI as part of the search warrant, including how users can be uniquely identified from site audit logs.[65]
+Links to Anonymous and Project Chanology
+See also: Anonymous (group) and Project Chanology
+4chan has been labeled as the starting point of the Anonymous meme by The Baltimore City Paper,[16] due to the norm of posts signed with the "Anonymous" moniker. The National Post's David George-Cosh said it has been "widely reported" that Anonymous is associated with 4chan and 711chan, as well as numerous Internet Relay Chat (IRC) channels.[66]
+Through its association with Anonymous, 4chan has become associated with Project Chanology, a worldwide protest against the Church of Scientology held by members of Anonymous. On January 15, 2008, a 4chan user posted to /b/, suggesting participants "do something big" against the Church of Scientology's website. This message resulted in the Church receiving threatening phone calls. It quickly grew into a large real-world protest. Unlike previous Anonymous attacks, this action was characterized by 4chan memes including rickrolls and Guy Fawkes masks. The raid drew criticism from some 4chan users who felt it would bring the site undesirable attention.[16]
+Notable imageboards
+As of January 2016, 4chan hosts 66 discussion-based imageboards, one upload-only Flash board, and a number of trial boards.[67]
+/b/
+The "random" board, /b/, follows the design of Futaba Channel's Nijiura board. It was the first board created, and is by far 4chan's most popular board, with 30% of site traffic.[68][69] Gawker.com's Nick Douglas summarized /b/ as a board where "people try to shock, entertain, and coax free porn from each other."[8] /b/ has a "no rules" policy, except for bans on certain illegal content, such as child pornography, invasions of other websites (posting floods of disruptive content), and under-18 viewing, all of which are inherited from site-wide rules. The "no invasions" rule was added in late 2006, after /b/ users spent most of the summer "invading" Habbo Hotel. The "no rules" policy also applies to actions of administrators and moderators, which means that users may be banned at any time, for any reason, including no reason at all.[70] Due partially to its anonymous nature, board moderation is not always successful—indeed, the site's anti-child pornography rule is a subject of jokes on /b/.[16] Christopher Poole told The New York Times, in a discussion on the moderation of /b/, that "the power lies in the community to dictate its own standards" and that site staff simply provided a framework.[71]
+The humor of /b/'s many users, who refer to themselves as "/b/tards",[71][72] is often incomprehensible to newcomers and outsiders, and is characterized by intricate inside jokes and dark comedy.[72] Users often refer to each other, and much of the outside world, as fags.[16] They are often referred to by outsiders as trolls, who regularly act with the intention of "doing it for the lulz": a corruption of "LOL" used to denote amusement at another's expense.[71][73] The New York Observer has described posters as "immature pranksters whose bad behavior is encouraged by the site's total anonymity and the absence of an archive".[74] Douglas said of the board, "reading /b/ will melt your brain", and cited Encyclopedia Dramatica's definition of /b/ as "the asshole of the Internets [sic]".[8] Mattathias Schwartz of The New York Times likened /b/ to "a high-school bathroom stall, or an obscene telephone party line",[71] while Baltimore City Paper wrote that "in the high school of the Internet, /b/ is the kid with a collection of butterfly knives and a locker full of porn."[16] Wired describes /b/ as "notorious".[72]
+Each post is assigned a post number. Certain post numbers are sought after with a large amount of posting taking place to "GET" them. A "GET" occurs when a post's number ends in a special number, such as 12345678, 22222222, or every millionth post.[75] A sign of 4chan's scaling, according to Poole, was when GETs lost meaning due to the high post rate resulting in a GET occurring every few weeks. He estimated /b/'s post rate in July 2008 to be 150,000–200,000 posts per day.[76]
+/pol/
+Main article: /pol/
+/pol/ ("Politically Incorrect") is 4chan's political discussion board. A stickied thread on its front page states that the board's intended purpose is "discussion of news, world events, political issues, and other related topics."[77] /pol/ was created in October 2011 as a rebranding of 4chan's news board, /new/,[41] which was deleted that January for a high volume of racist discussion.[40]
+Media sources have characterized /pol/ as predominantly racist and sexist, with many of its posts taking an explicitly neo-Nazi bent.[78][79][80][81] The Southern Poverty Law Center regards /pol/'s rhetorical style as widely emulated by white supremacist websites such as The Daily Stormer; the Stormer's editor, Andrew Anglin, concurred.[79]
+/pol/ was where screenshots of Trayvon Martin's hacked social media accounts were initially posted.[82][83] The board's users have started antifeminist, transphobic, and anti-Arab Twitter campaigns.[80][84][85]
+Many /pol/ users favored Donald Trump during his 2016 United States presidential campaign. Both Trump and his son, Donald Trump Jr., appeared to acknowledge the support by tweeting /pol/-associated memes. Upon his successful election, a /pol/ moderator embedded a pro-Trump video at the top of all of the board's pages.[86][87][88][89]
+Internet memes
+Many Internet memes – catchphrases or images that spread quickly, peer to peer, across the Internet[90] – have originated on 4chan, usually /b/, as its fast moving, crowd psychology nature enables content to quickly be passed on to large numbers of viewers. Other memes originating on the site have gained media attention of a lesser degree. These include "So I herd u liek mudkipz" [sic], which involves a phrase based on Pokémon and which generated numerous YouTube tribute videos,[21] and the term "an hero" [sic] as a synonym for suicide, after a misspelling in the Myspace online memorial of seventh grader Mitchell Henderson.[91] 4chan, and other websites, such as the satirical Encyclopedia Dramatica, have also contributed to the development of significant amounts of leetspeak.[92] Adult fans of My Little Pony: Friendship Is Magic are also known to frequent 4chan, having had a board dedicated to their interest.[93][94][95][96][97]
+Lolcats
+Main article: Lolcat
+
+
+
+
+A lolcat image using the "I'm in ur..." format
+
+
+A lolcat is an image combining a photograph of a cat with text intended to contribute humour. The text is often idiosyncratic and grammatically incorrect. In 2005, the meme was widely popularized by 4chan in the form of "Caturday". Every Saturday, users posted pictures of cats with image macros relating to that day's theme.[98][99]
+Rickrolling
+Main article: Rickrolling
+In 2005, a meme known as the "duckroll" began, after Poole used a word filter to change "egg" to "duck" across 4chan. Thus, words such as "eggroll" were changed to "duckroll". This led to a bait-and-switch in which external links disguised as relevant to a discussion instead led to a picture of a duck on wheels.[100]
+An unidentified 4chan user applied the concept of the duckroll to a 2007 post relating to the video game Grand Theft Auto IV. In March of that year, the game's trailer had been released, and the game's immense popularity caused publisher Rockstar Games' website to crash. The user posted a YouTube link that purportedly led to the trailer, but in reality directed users to the music video for Rick Astley's 1987 song "Never Gonna Give You Up". Thus, the "rickroll" was born.[100] In an interview with the Los Angeles Times, Astley said he found the meme "bizarre and funny".[10][100][101]
+"Chocolate Rain"
+Main article: Chocolate Rain
+A link to the YouTube video of Tay Zonday's song "Chocolate Rain" was posted on /b/ on July 11, 2007.[102] The Age reported that 4chan posters urged each other to "swarm" the video on YouTube and thus increase its ranking.[103] The video became an immensely popular Internet meme, resulting in cover versions by John Mayer and Green Day drummer Tré Cool.[104] The portion of the song in which Zonday turns away from the microphone, with a caption stating "I move away from the mic to breathe in", became an oft-repeated meme on 4chan and inspired remixes.[102][105]
+Boxxy
+Main article: Boxxy
+The character of Boxxy is portrayed by Catherine "Catie" Wayne, an American Internet celebrity known for her highly energetic vlogs.[106][107][108][109] Her rise to exposure began in late 2008 and early 2009, surrounding self-made videos that were initially made to be posted to her Gaia Online profile.[106][107][108][109] They then spread to 4chan and other sites, resulting in a large online following.[106]
+Pedobear
+Main article: Pedobear
+In his American incarnation, Pedobear is an anthropomorphic bear child predator that is often used within the community to mock contributors showing a sexual interest in children.[110] Pedobear is one of the most popular memes on non-English imageboards, and has gained recognition across Europe. In February 2010, a photoshopped version of Pedobear appeared along with mascots of the 2010 Winter Olympics in an article on the games in Gazeta Olsztyńska, a Polish newspaper. This was done accidentally; due to the image being used from Google Images, the authors were unaware of the joke.[111] Similarly, the Dutch television guide Avrobode[112] used one of the images. It has been used as a symbol of pedophilia by Maltese graffiti vandals prior to a papal visit.[113]
+Other media attention
+Arrests for animal abuse
+On February 15, 2009, a user uploaded two YouTube videos that showed the physical abuse of a domestic cat named Dusty by a person calling himself "Timmy". The 4chan community was able to track down the originator of the videos, a fourteen-year-old from Lawton, Oklahoma, and passed his details to his local police department. As a result of this, a suspect was arrested and the cat was treated by a veterinarian and taken to a safe place.[114][115]
+"This post is art"
+On July 30, 2014, an anonymous user made a reply in a thread on the board /pol/ "Politically Incorrect" of 4chan, criticizing modern art in an ironic fashion, saying:
+
+Art used to be something to cherish
+Now literally anything could be art
+This post is art.
+— Anonymous, [116]
+
+Less than an hour later the post was photographed off the screen and framed by another user who posted another reply in the thread with a photo of the framed quote. Later the user, after endorsement by other anonymous users in the thread, created an auction on eBay for the framed photo which quickly rose to high prices, culminating in a price of $90,900.00.[117][118][119][120]
+Controversies
+Internet attacks
+See also: Anonymous (group) § 4chan raids (2003–2007), and Sarah Palin email hack
+According to the Washington Post, "the site's users have managed to pull off some of the highest-profile collective actions in the history of the Internet."[121]
+Users of 4chan and other websites "raided" Hal Turner by launching DDoS attacks and prank calling his phone-in radio show during December 2006 and January 2007. The attacks caused Turner's website to go offline. This cost thousands of dollars of bandwidth bills according to Turner. In response, Turner sued 4chan, 7chan, and other websites; however, he lost his plea for an injunction and failed to receive letters from the court.[122]
+KTTV Fox 11 aired a report on Anonymous, calling them a group of "hackers on steroids", "domestic terrorists", and collectively an "Internet hate machine" on July 26, 2007.[123] Slashdot founder Rob Malda posted a comment made by another Slashdot user, Miang, stating that the story focused mainly on users of "4chan, 7chan and 420chan". Miang claimed that the report "seems to confuse /b/ raids and motivational poster templates with a genuine threat to the American public", arguing that the "unrelated" footage of a van exploding shown in the report was to "equate anonymous posting with domestic terror".[124]
+On July 10, 2008, the swastika CJK unicode character (卐) appeared at the top of Google's Hot Trends list—a tally of the most popular search terms in the United States—for several hours. It was later reported that the HTML numeric character reference for the symbol had been posted on /b/, with a request to perform a Google search for the string. A multitude of /b/ visitors followed the order and pushed the symbol to the top of the chart, though Google later removed the result.[14]
+Later that year, the private Yahoo! Mail account of Sarah Palin, Republican vice presidential candidate in the 2008 United States presidential election, was hacked by a 4chan user. This followed criticism of Palin and other politicians supposedly using private email accounts for governmental work.[125] The hacker posted the account's password on /b/, and screenshots from within the account to Wikileaks.[126] A /b/ user then logged in and changed the password, posting a screenshot of his sending an email to a friend of Palin's informing her of the new password on the /b/ thread. However, he forgot to blank out the password in the screenshot.[127] A multitude of /b/ users attempted to log in with the new password, and the account was automatically locked out by Yahoo!. The incident was criticized by some /b/ users, in that most reports on the hack focused on 4chan, rather than Palin's violation of campaign law. One user commented, "seriously, /b/. We could have changed history and failed, epically."[128] The FBI and Secret Service began investigating the incident shortly after its occurrence. On September 20 it was revealed they were questioning David Kernell, the son of Democratic Tennessee State Representative Mike Kernell.[129]
+The stock price of Apple Inc. fell significantly in October 2008 after a hoax story was submitted to CNN's user-generated news site iReport.com claiming that company CEO Steve Jobs had suffered a major heart attack. The source of the story was traced back to 4chan.[130][131]
+In May 2009, members of the site attacked YouTube, posting pornographic videos on the site.[132] A 4chan member acknowledged being part of the attack, telling the BBC that it was in response to YouTube "deleting music".[133] In January 2010, members of the site attacked YouTube again in response to the suspension of YouTube user lukeywes1234 for failing to meet the minimum age requirement of thirteen.[134] The videos uploaded by the user had apparently become popular with 4chan members, who subsequently became angered after the account was suspended and called for a new wave of pornographic videos to be uploaded to YouTube on January 6, 2010.[134] Later the same year, 4chan made numerous disruptive pranks directed at singer Justin Bieber.[135]
+In September 2010, in retaliation against the Bollywood film industry's hiring of Aiplex Software to launch cyberattacks against The Pirate Bay, Anonymous members, recruited through posts on 4chan boards, subsequently initiated their own attacks, dubbed Operation Payback, targeting the website of the Motion Picture Association of America and the Recording Industry Association of America.[136][137][138] The targeted websites usually went offline for a short period of time due to the attacks, before recovering.
+The website of the UK law firm ACS:Law, which was associated with an anti-piracy client, was affected by the cyber-attack.[139] In retaliation for the initial attacks being called only a minor nuisance, Anonymous launched more attacks, bringing the site down yet again. After coming back up, the front page accidentally revealed a backup file of the entire website, which contained over 300 megabytes of private company emails, which were leaked to several torrents and across several sites on the Internet.[140] It has been suggested that the data leak could cost the law firm up to £500,000 in fines for breaching British Data Protection Laws.[141] In January 2011, BBC News reported that the law firm have announced they are to stop "chasing illegal file-sharers". Head of ACS:Law Andrew Crossley in a statement to a court addressed issues which influenced the decision to back down "I have ceased my work ... I have been subject to criminal attack. My e-mails have been hacked. I have had death threats and bomb threats."[139]
+In August 2012, 4chan users attacked a third-party sponsored Mountain Dew campaign, Dub the Dew, where users were asked to submit and vote on name ideas for a green apple flavor of the drink. Users submitted entries such as "Diabeetus", "Fapple", several variations of "Gushing Granny", and "Hitler did nothing wrong".[142][143]
+Threats of violence
+On October 18, 2006, the Department of Homeland Security warned National Football League officials in Miami, New York City, Atlanta, Seattle, Houston, Oakland, and Cleveland about a possible threat involving the simultaneous use of dirty bombs at stadiums.[144] The threat claimed that the attack would be carried out on October 22, the final day of the Muslim holy month of Ramadan.[145] Both the FBI and the Department of Homeland Security expressed doubt concerning the credibility of the threats, but warned the relevant organizations as a precaution. The games proceeded as planned but under a higher level of security awareness.[146] The threats came to light in the national media after Jake Brahm admitted to having posted the threats on 4chan and repeating them on other websites approximately 40 times.[145]
+
+
+Hello, /b/.
+On September 11, 2007, at 9:11 am Central time, two pipe bombs will be remote-detonated at Pflugerville High School.
+Promptly after the blast, I, along with two ther Anonymous, will charge the building, armed with a Bushmaster AR-15, IMI Galil AR, a vintage, government-issue M1 .30 Carbine, and a Benelli M4 semi auto shotgun.
+
+—The Pflugerville threat[147]
+Brahm did not expect the message to be taken seriously since he "would never take anything posted on 4chan as fact";[148] an FBI official was quoted as saying the "credibility of [the threat] was beyond ridiculous".[16] As a parody of the incident, 4chan temporarily added "Don't mess with football" as an additional rule for /b/.[16] On October 20, 2006, Brahm turned himself in to federal authorities, and was charged with fabricating a fake terrorist threat and taken into custody.[149] On February 28, 2008, he pleaded guilty to the federal charges. On June 5, 2008, he was sentenced to six months in prison, six months' house arrest, and ordered to pay $26,750 in restitution.[150]
+Around midnight on September 11, 2007, a student posted photographs of mock pipe bombs and another photograph of him holding them while saying he would blow up his high school—Pflugerville High School in Pflugerville, Texas—at 9:11 am on September 11.[147] Users of 4chan helped to track him down by finding the perpetrator's father's name in the Exif data of a photograph he took, and contacted the police.[151] He was arrested before school began that day.[152][153][154][155] The incident turned out to be a hoax; the "weapons" were toys and there were no actual bombs.[156]
+Jarrad Willis, a 20-year-old from Melbourne, Australia was arrested on December 8, 2007, after apparently posting on 4chan that he was "going to shoot and kill as many people as I can until which time I am incapacitated or killed by the police".[157] The post, accompanied by an image of another man holding a shotgun, threatened a shopping mall near Beverly Hills.[158] While the investigation was still open, Willis was charged with criminal defamation for a separate incident[159] but died before the case was heard.[160]
+On February 4, 2009, a posting on the 4chan /b/ board[161] said there would be a school shooting at St Eskils Gymnasium in Eskilstuna, Sweden, leading 1250 students and 50 teachers to be evacuated.[162] A 21-year-old man was arrested after 4chan provided the police with the IP address of the poster. Police said that the suspect called it off as a joke, and they released him after they found no indication that the threat was serious.[163][164]
+On January 21, 2014, an anonymous poster started a thread on /b/ identifying a student named Westley Sullivan who apparently went to the same high school as the poster. The original post included a link to Westley Sullivan's Facebook profile, which has since been taken down, and a screenshot of a post which said "if fairview isnt closed tomorrow im going to blow it up", referring to Sullivan's high school, Fairview High School, in Boyd County, Kentucky. A few anonymous individuals went to Sullivan's Facebook profile and found his address, phone number, school ID number, school schedule and teachers, and other personal information. Information like his teachers and ID number had been posted directly, and the more personal information like his address was found in the EXIF data of some of the pictures posted on his profile. These individuals then contacted Fairview school officials and the local police department, as well as the FBI. The next day it was learned that police had arrested Sullivan in his home and he had been charged with 2nd degree terroristic threatening, a Class D felony in Kentucky.[165][166]
+Arrests for child pornography and cyberbullying
+On November 29, 2010, Ali Saad, a 19-year-old, was arrested and had his home raided by the FBI for posting child pornography and death threats on 4chan. Ali had first visited 4chan "a week before [the FBI raid] happened". He admitted to downloading about 25 child pornography images from 4chan.[167]
+In January 2011, Matthew Riskin Bean, a 20-year-old man from New Jersey, was sentenced to 45 days in prison for cyberbullying on 4chan.[168]
+Collin Campbell, a U.S. Navy Machinist's Mate, was arrested in February 2011 after a fellow seaman found child pornography on his iPhone that he downloaded entirely from 4chan.[169][170][171][172]
+Ronald Ohlson, 37, was raided April 2011 at his upstate New York home by the Department of Homeland Security after he obtained child pornography from 4chan.[173]
+In May 2011, Lucas Henderson, a 22-year-old Rochester Institute of Technology student, was arrested for counterfeit couponing on 4chan.[174]
+After 4chan reported a 15-year-old boy in California who posted child pornography, the United States Department of Homeland Security raided his home on June 7, 2011, and took all his electronic items.[175]
+On February 17, 2012, Thaddeus McMichael was arrested by the FBI for child pornography charges, after posting comments on Facebook claiming that he possessed child pornography.[176] According to the official criminal complaint filed against Thaddeus, he admitted to obtaining child pornography from the /b/ board on 4chan.[177]
+Celebrity photo leaks
+Main article: August 2014 celebrity photo leaks
+On August 31, 2014, a large number of private photographs taken by celebrities were posted online due to a compromise of user passwords at iCloud.[178] The images were initially posted on 4chan.[179] As a result of the incident, 4chan announced that it would enforce a Digital Millennium Copyright Act policy, which would allow content owners to remove material that had been shared on the site illegally, and would ban users who repeatedly posted stolen material.[180]
+Gamergate
+See also: Gamergate controversy
+Also in August 2014, 4chan was involved in the Gamergate controversy, which began with unsubstantiated allegations about indie game developer Zoë Quinn from an ex-boyfriend, followed by false allegations from anonymous Internet users.[181] The allegations were followed by a harassment campaign against several women in the video game industry, organized by 4chan users.[182] Discussion regarding Gamergate was banned on 4chan due to alleged rule violations, and Gamergate supporters moved to alternate forums such as 8chan.[183][184]
+Murder in Port Orchard, Washington
+According to court documents filed on November 5, 2014, there were images posted to 4chan that appeared to be of a murder victim. The body was discovered in Port Orchard, Washington, after the images were posted.[185] The posts were accompanied by the text: "Turns out it's way harder to strangle someone to death than it looks on the movies." A later post said: "Check the news for Port Orchard, Washington, in a few hours. Her son will be home from school soon. He'll find her, then call the cops. I just wanted to share the pics before they find me."[185] The victim was Amber Lynn Coplin, aged 30. The suspect, 33-year-old David Michael Kalac, surrendered to police in Oregon later the same day; he was charged with second-degree murder involving domestic violence.[186] Kalac was convicted in April 2017 and was sentenced to 82 years in prison the following month.[187]
+ISP bans
+AT&T temporary ban
+On July 26, 2009, AT&T's DSL branch temporarily blocked access to the img.4chan.org domain (host of /b/ and /r9k/), which was initially believed to be an attempt at Internet censorship, and met with hostility on 4chan's part.[188][189] The next day, AT&T issued a statement claiming that the block was put in place after an AT&T customer was affected by a DoS attack originating from IP addresses connected to img.4chan.org, and was an attempt to "prevent this attack from disrupting service for the impacted AT&T customer, and... our other customers." AT&T maintains that the block was not related to the content on 4chan.[190]
+4chan's founder Christopher Poole responded with the following:[191]
+
+In the end, this wasn't a sinister act of censorship, but rather a bit of a mistake and a poorly executed, disproportionate response on AT&T's part. Whoever pulled the trigger on blackholing the site probably didn't anticipate [nor intend] the consequences of doing so. We're glad to see this short-lived debacle has prompted renewed interest and debate over net neutrality and Internet censorship—two very important issues that don't get nearly enough attention—so perhaps this was all just a blessing in disguise.[191]
+
+Major news outlets have reported that the issue may be related to the DDoS-ing of 4chan, and that 4chan users suspected the then-owner of Swedish-based website Anontalk.com.[192][193]
+Verizon temporary ban
+On February 4, 2010, 4chan started receiving reports from Verizon Wireless customers that they were having difficulties accessing the site's image boards. After investigating, Poole found out that only the traffic on port 80 to the boards.4chan.org domain was affected, leading members to believe that the block was intentional.[194] Three days later, Verizon Wireless confirmed that 4chan was "explicitly blocked".[195][196] The block was lifted several days later.[197]
+See also
+
+
+Internet portal
+Comedy portal
+
+
+
+Cyberculture
+Internet meme
+Katawa Shoujo
+List of Internet phenomena
+Pepe the Frog
+
+Notes
+
+
+
+^ a b c d As explained by Poole during a live-video online interview with Hiroyuki Nishimura, founder of 2channel, on the Japanese website Nico Nico Douga during his trip to Japan in 2011.[32]
+
+
+
+References
+
+
+^ "4chan.org Site Info". Alexa Internet. Retrieved July 2, 2017. 
+^ moot (October 1, 2003). "Welcome". 4chan. Retrieved August 2, 2008. 
+^ Dewey, Caitlin (September 25, 2014). "Absolutely everything you need to know to understand 4chan, the Internet's own bogeyman". The Washington Post. Retrieved October 20, 2016. 
+^ Bokhari, Allum (March 29, 2016). "An Establishment Conservative's Guide To The Alt-Right". Breitbart. Retrieved October 20, 2016. 
+^ "4Chan: The Rude, Raunchy Underbelly of the Internet". Fox News. April 8, 2009. Retrieved October 20, 2016. 
+^ Bernstein, M. S.; Monroy-Hernandez, A.; Harry, D.; Andre, P.; Panovich, K.; Vargas, G. (2011). "4chan and /b/: An Analysis of Anonymity and Ephemerality in a Large Online Community" (PDF). Association for the Advancement of Artificial Intelligence. MIT Computer Science and Artificial Intelligence Laboratory. Retrieved February 27, 2014. 
+^ Bartlett, Jamie (October 1, 2013). "4chan: The Role of Anonymity in the Meme-Generating Cesspool of the Web". Wired. Retrieved February 27, 2014. 
+^ a b c d Douglas, Nick (January 18, 2008). "What The Hell Are 4chan, ED, Something Awful, And "b"?". Gawker.com. Archived from the original on July 24, 2008. Retrieved July 15, 2008. 
+^ Unattributed (August 7, 2008). "It's all about the money, stupid, not the latest online technology". Marketing Week. p. 13. Archived from the original on April 27, 2009. Retrieved February 4, 2009. 
+^ a b Michaels, Sean (March 19, 2008). "Taking the Rick". The Guardian. London. Archived from the original on July 27, 2008. Retrieved July 24, 2008. 
+^ a b "FAQ – What is 4chan?". 4chan. Retrieved July 15, 2008. 
+^ "FAQ – What were 4channel and world4ch?". 4chan. Retrieved July 15, 2008. 
+^ a b c Brophy-Warren, Jamin (July 9, 2008). "Modest Web Site Is Behind a Bevy of Memes". Wall Street Journal. Archived from the original on August 29, 2008. Retrieved July 24, 2008. 
+^ a b Sarno, David (July 12, 2008). "Rise and fall of the Googled swastika". The Los Angeles Times. Archived from the original on July 15, 2008. Retrieved July 14, 2008. 
+^ "4chan.org – Site Information". Alexa. Retrieved August 26, 2010. 
+^ a b c d e f g h Landers, Chris (March 2, 2008). "Serious Business". Baltimore City Paper. Archived from the original on June 8, 2008. Retrieved July 13, 2008. 
+^ moot (February 12, 2008). "The long and short of it". 4chan. Retrieved August 2, 2008. 
+^ Grossman, Lev (July 9, 2008). "The Master of Memes". TIME. Vol. 172 no. 3. United States. pp. 50–51. Archived from the original on July 24, 2008. Retrieved July 24, 2008. 
+^ Hesse, Monica (February 17, 2009). "A Virtual Unknown; Meet 'Moot,' the Secretive Internet Celeb Who Still Lives With Mom". The Washington Post. pp. 23–24. Retrieved April 16, 2009. 
+^ a b moot (August 6, 2012). "Beyond One Billion". 4chan News. 
+^ a b c Langton, Jerry (September 22, 2007). "Funny how 'stupid' site is addictive". The Toronto Star. Archived from the original on June 22, 2008. Retrieved July 16, 2008. 
+^ "FAQ – How do I post anonymously?". 4chan. Retrieved July 16, 2008. 
+^ "FAQ – Can I register a username?". 4chan. Retrieved July 16, 2008. 
+^ "FAQ – How do I use a "tripcode"?". 4chan. Retrieved July 16, 2008. 
+^ "FAQ – Who is "Anonymous"?". 4chan. Retrieved July 16, 2008. 
+^ "FAQ – What is a capcode?". 4chan. Retrieved July 16, 2008. 
+^ "FAQ – What are "janitors"?". 4chan. Retrieved January 12, 2009. 
+^ "Web attack takes Anonymous activists offline". BBC News. December 29, 2010. Archived from the original on December 30, 2010. Retrieved December 29, 2010. 
+^ O'Brien, Danny (May 2, 2008). "Tuning into innovation outside the confines of English-speaking web". The Irish Times. Retrieved January 17, 2009. 
+^ a b Orsini, Lauren (September 21, 2015). "How The 4chan Sale Returns The Controversial Forum To Its Anime Roots". Forbes. 
+^ a b Dibbell, Julian (September 10, 2010). "Radical Opacity". Technology Review. 
+^ "Moot x Hiroyuki Social Media Talk Session (ID: 57271090)". nicovideo.jp. July 27, 2011. 
+^ "News". 4chan. August 14, 2004. Retrieved October 29, 2011. 
+^ "4chan history | Jonathan's Reference Pages". Jonnydigital.com. Retrieved October 21, 2013. 
+^ "News". 4chan. August 14, 2004. Retrieved October 29, 2011. 
+^ Poole (June 20, 2004). "Ding Dong, 4chan is Dead". 4chan News. 
+^ The Team (August 11, 2004). "We're Back!". 4chan News. 
+^ "News". 4chan. August 14, 2004. Retrieved October 29, 2011. 
+^ "News". 4chan. February 29, 2008. Retrieved April 7, 2017. 
+^ a b "Why were /r9k/ and /new/ removed?". January 19, 2011. Archived from the original on August 21, 2011. 
+^ a b moot (October 23, 2011). "Welcome back, robots". 4chan /r9k/. 
+^ "News". 4chan. Retrieved October 21, 2013. 
+^ "Pass". 4chan. Retrieved October 21, 2013. 
+^ Kushner, David. "4chan's Overlord Christopher Poole Reveals Why He Walked Away". Rolling Stone. Retrieved 24 December 2016. 
+^ moot (January 21, 2015). "The Next Chapter". 4chan. Retrieved January 21, 2015. 
+^ "Christopher Poole Leaves 4chan". International Business Times News. Retrieved January 23, 2015. 
+^ Issac, Mike (September 21, 2015). "4chan Message Board Sold to Founder of 2Channel, a Japanese Web Culture Pioneer". The New York Times. Retrieved September 21, 2015. 
+^ Bolton, Doug (September 21, 2015). "Christopher 'Moot' Poole sells anarchic imageboard 4chan to 2channel owner Hiroyuki Nishimura". The Independent. 
+^ Cuthbertson, Anthony (September 21, 2015). "4chan sold by Moot to 2channel founder Hiroyuki Nishimura". International Business Times. 
+^ a b "Japan's Government Party LDP Sponsored and Cultivated the Right Wing in Underground Anonymous 2channel Board". Echo News. May 12, 2014. 
+^ "Who holds the deeds to gossip bulletin board 2channel?". The Japan Times. March 20, 2014. 
+^ "現2chは「違法な乗っ取り」状態──ひろゆき氏？が新サイト「2ch.sc」開設を予告". ITmedia ニュース (in Japanese). April 1, 2014. 
+^ Watkins, Jim (February 19, 2014). "Let's talk with Jim-san. Part21". Anago.2ch.net. The previous management was not able to generate enough income to pay the bills for the expenses of running 2ch. Previously I allowed some autonomy to them. During that time my name has been slandered. The ability for 2ch to generate enough income to stay open was damaged. I hope that with proper management that 2ch can recover. 
+^ "2ちゃんねるのスポンサーは自民党だった!!? 「ひろゆき」氏周辺に広がる疑惑". Livedoor News (in Japanese). April 24, 2014. 
+^ Woolf, Nicky (October 5, 2016). "Future of 4chan uncertain as controversial site faces financial woes". The Guardian. Retrieved October 5, 2016. 
+^ Dunn, Matthew (October 4, 2016). "4chan could soon be shutdown as the Internet's most notorious community goes broke". news.com.au. Retrieved October 5, 2016. 
+^ "The World's Most Influential Person Is.." TIME. April 27, 2009. Retrieved September 2, 2009. 
+^ Heater, Brian (April 27, 2009). "4Chan Followers Hack Time's 'Influential' Poll". PC Magazine. Archived from the original on April 30, 2009. Retrieved April 27, 2009. 
+^ Schonfeld, Erick (April 21, 2009). "4Chan Takes Over The Time 100". Washington Post. Retrieved April 27, 2009. 
+^ "moot wins, Time Inc. loses « Music Machinery". Musicmachinery.com. April 27, 2009. Archived from the original on May 3, 2009. Retrieved September 2, 2009. 
+^ Reddit Top Links. "Marble Cake Also the Game [PIC]". Buzzfeed.com. Archived from the original on April 15, 2009. Retrieved September 2, 2009. 
+^ "Paraflows 09, Program for Saturday, Sep 12 2009". Paraflows.at. Retrieved May 18, 2010. 
+^ Herwig, Jana (April 6, 2010). "Moot on 4chan and why it works as a meme factory". Digiom Blog. Retrieved April 7, 2010. 
+^ Jamieson, Alastair (August 11, 2010). "Sarah Palin hacker trial provides 'lolz' courtesy of 4chan founder". The Daily Telegraph. London. 
+^ "Transcript of Chris Poole before the Honorable Thomas W. Phillips on April 22, 2010" (PDF). United States of America vs. David C. Kernell, United States District Court for the Eastern District of Tennessee Northern Division. April 22, 2010. Archived from the original (PDF) on August 20, 2010. Retrieved October 29, 2011. 
+^ George-Cosh, David (January 25, 2008). "Online group declares war on Scientology". National Post. Canada. Archived from the original on June 3, 2008. Retrieved July 13, 2008. 
+^ "Frames - 4chan". www.4chan.org. Retrieved January 15, 2016. 
+^ Sorgatz, Rex (February 18, 2009). "An Interview With The Founder of 4chan". Fimoculous.com. Retrieved May 18, 2009. 
+^ moot (July 11, 2008). "/b/". 4chan. Retrieved July 14, 2008. 
+^ "4chan – Rules – /b/ – Random". 4chan. Retrieved August 18, 2006. 
+^ a b c d Schwartz, Mattathias (August 3, 2008). "The Trolls Among Us". The New York Times Magazine. p. 24. Archived from the original on December 11, 2008. Retrieved January 11, 2009. 
+^ a b c Dibbell, Julian (January 18, 2008). "Mutilated Furries, Flying Phalluses: Put the Blame on Griefers". Wired. Retrieved January 18, 2008. 
+^ Kay, Jonathan (August 6, 2008). "You'll miss us when we're gone". National Post. Canada: The National Post. Retrieved August 6, 2008. 
+^ Jeffries, Adrianne (January 31, 2011). "From the Creator of 4chan Comes the More Mature Canvas". The New York Observer. Archived from the original on February 4, 2011. Retrieved February 7, 2011. 
+^ "FAQ on GETs". 4chan. Retrieved March 14, 2007. 
+^ Grossman, Lev (July 10, 2008). "Now in Paper-Vision: The 4chan Guy". TIME. Archived from the original on August 28, 2008. Retrieved July 24, 2008. 
+^ "/pol/ - Politically Incorrect". 4chan. April 6, 2014. 
+^ "Absolutely everything you need to know to understand 4chan, the Internet's own bogeyman". The Washington Post. September 25, 2014. Retrieved July 17, 2015. 
+^ a b "Dylann Roof, 4chan, and the New Online Racism". The Daily Beast. June 29, 2015. Retrieved July 17, 2015. 
+^ a b "#EndFathersDay is the work of 4chan, not feminists". The Daily Dot. Oct 8, 2014. Retrieved July 17, 2015. 
+^ "4chan Trolls Take Over Electronic Billboard, Racism Ensues". Vocativ. December 7, 2014. Retrieved July 17, 2015. 
+^ "White Supremacist Claims to Have Hacked Trayvon Martin's Email, Social Media Accounts". The New Yorker. March 29, 2012. Retrieved July 17, 2015. 
+^ "Bloggers Cherry-Pick From Social Media to Cast Trayvon Martin as a Menace". The New York Times. March 29, 2012. Retrieved July 17, 2015. 
+^ "What the Internet's Most Infamous Trolls Tell Us About Online Feminism". Vice News. June 20, 2014. Retrieved July 17, 2015. 
+^ "Trolls Are Paying Twitter to Promote Hate Speech – And There's Nothing Stopping Them". Mic. May 20, 2015. Retrieved July 17, 2015. 
+^ Lee, Oliver (13 March 2016). "Understanding Trump's Troll Army". Motherboard. Vice Media. Retrieved 14 July 2017. 
+^ Ohlheiser, Abby (9 November 2016). "'We actually elected a meme as president': How 4chan celebrated Trump's victory". The Washington Post. Retrieved 14 July 2017. 
+^ Steinblatt, Jacob (13 October 2015). "Donald Trump Embraces His 4Chan Fans". Vocativ. Retrieved 14 July 2017. 
+^ Schreckinger, Ben (March–April 2017). "World War Meme". Politico. Retrieved 14 July 2017. 
+^ Hodge, Karl (August 10, 2000). "It's all in the memes". The Guardian. London. Archived from the original on August 14, 2008. Retrieved September 13, 2008. 
+^ Schwartz, Mattathis. "The Trolls Among Us". The New York Times. 
+^ Moran, Caitlin (June 20, 2008). "Scientology: the Anonymous protestors". The Times. London. Archived from the original on September 5, 2008. Retrieved August 25, 2008. 
+^ Vara, Vauhini; Zimmerman, Ann (November 4, 2011). "Hey, Bro, That's My Little Pony! Guys' Interest Mounts in Girly TV Show". Wall Street Journal. Archived from the original on December 1, 2011. Retrieved November 4, 2011. 
+^ Watchcutter, Angela (June 9, 2011). "My Little Pony Corrals Unlikely Fanboys Known as 'Bronies'". Wired. Retrieved June 9, 2011. 
+^ Beck, Jerry (September 24, 2011). "We've Created A Bronster!". Cartoon Brew. Archived from the original on September 30, 2011. Retrieved September 25, 2011. 
+^ von Hoffman, Constantine (May 31, 2011). "My Little Pony: the Hip, New Trend Among the Geekerati". BNET. Retrieved May 31, 2011. 
+^ McKean, Erin (December 2, 2011). "The secret language of bros". Boston Globe. Archived from the original on December 4, 2011. Retrieved December 2, 2011. 
+^ Richards, Paul (November 14, 2007). "Iz not cats everywhere? Online trend spreads across campus". The Daily Pennsylvanian. Retrieved July 24, 2008. 
+^ Steel, Sharon (February 1, 2008). "The cuteness surge". The Phoenix. Retrieved July 24, 2008. 
+^ a b c "The Biggest Little Internet Hoax on Wheels Hits Mainstream". Fox News Channel. April 22, 2008. Retrieved July 24, 2008. 
+^ Sarno, David (May 25, 2008). "Web Scout exclusive! Rick Astley, king of the 'Rickroll,' talks about his song's second coming". Los Angeles Times. Archived from the original on March 26, 2008. Retrieved July 24, 2008. 
+^ a b "Thread 32640395". 4chanarchive.org. Archived from the original on June 21, 2008. Retrieved July 14, 2008. 
+^ Ricketson, Matthew (July 16, 2008). "YouTube research shows picture is changing rapidly". The Age. Australia. Archived from the original on July 20, 2008. Retrieved July 16, 2008. 
+^ Ingram, Mathew (August 15, 2007). "Who is Tay Zonday?". Globe and Mail. Canada. Retrieved July 14, 2008. 
+^ Montgomery, Garth (August 1, 2007). "Chocolate Rain goes huge". The Daily Telegraph. news.com.au. Retrieved July 14, 2008. 
+^ a b c Johnson, Bobbie (January 20, 2009). "How Boxxy brought the web to its knees". The Guardian. Archived from the original on July 25, 2011. Retrieved July 26, 2011. 
+^ a b Cario, Erwan (January 11, 2011). "Le grand retour de Boxxy". Libération (in French). Archived from the original on July 26, 2011. Retrieved July 26, 2011. 
+^ a b Jutras, Lisan (February 6, 2009). "The face that launched an online war". Globe and Mail. Canada. Archived from the original on June 27, 2009. 
+^ a b Larrouy, Sophie-Marie (January 22, 2009). "Foxy Boxxy : celle qui parle pour ne rien dire". madmoiZelle.com (in French). Archived from the original on July 26, 2011. Retrieved July 26, 2011. 
+^ "'Pedobear' an Olympic mascot?". Toronto Sun. February 10, 2010. Retrieved February 12, 2010. 
+^ Moore, Matthew (February 8, 2010). "Polish newspaper claims 'Pedobear' is 2010 Vancouver Olympic mascot". The Daily Telegraph. London. Archived from the original on February 11, 2010. Retrieved February 9, 2010. 
+^ "Ook AVRO in de fout met Pedobear". GeenStijl. February 11, 2010. Retrieved October 21, 2013. 
+^ "Papal billboards vandalism 'does not respect people's sentiments'- Curia". The Times. Malta. April 10, 2010. p. 7. 
+^ O'Brien, Danny (February 20, 2009). "Online users stick claws into torturer". Irish Times. 
+^ "4chan /b/ goes after cat abusers, wins". Inquisitr.com. February 16, 2009. Retrieved September 2, 2009. 
+^ "Archived Thread". 4plebs.org. July 30, 2014. 
+^ Dewey, Caitlin (August 5, 2014). "A photo of a 4chan post sold for almost $100,000, because 'art'". The Washington Post. Retrieved January 6, 2015. 
+^ "4chan screenshot sells for $90K on eBay". CNET. August 3, 2014. Retrieved January 6, 2015. 
+^ "Framed 4chan post 'sells' for $90,000 on eBay, screenshot of auction now up for bidding". The Independent. August 4, 2014. Retrieved January 6, 2015. 
+^ "eBay Bidder Buys 4chan Screenshot, as Art, for $90,000". Artnews. August 4, 2014. Retrieved January 6, 2015. 
+^ Cha, Ariana Eunjung (August 10, 2010). "4chan users seize Internet's power for mass disruptions". Washington Post. Retrieved August 10, 2010. 
+^ "Harold C. "Hal" Turner v. 4chan.org". Justia Federal District Court Filings. January 19, 2007. Retrieved July 14, 2008. 
+^ "FOX 11 Investigates: 'Anonymous'". MyFOX Los Angeles. KTTV (Fox Broadcasting Company). July 26, 2007. Archived from the original on May 22, 2008. Retrieved August 11, 2007. 
+^ Miang, CmdrTaco (ed.) (July 28, 2007). "AC=Domestic Terrorists?". Slashdot. Retrieved July 24, 2008. CS1 maint: Extra text: authors list (link)
+^ Bridis, Ted (September 17, 2008). "Hackers claim break-in to Palin's e-mail account". Breitbart.com. Associated Press. Retrieved September 17, 2008. 
+^ Phillips, Tom (September 17, 2008). "Sarah Palin's email gets hacked". Metro. Archived from the original on September 20, 2008. Retrieved September 17, 2008. 
+^ Stephey, M. J. (September 17, 2008). "Sarah Palin's E-mail Hacked". TIME. Archived from the original on September 19, 2008. Retrieved September 17, 2008. 
+^ Sarno, David (September 17, 2008). "4Chan's half-hack of Palin's email goes awry". The Los Angeles Times. Archived from the original on February 7, 2009. Retrieved September 17, 2008. 
+^ Bosak, Steve (September 20, 2008). "Suspect Nabbed in Palin E-mail Hack". NewsFactor. Archived from the original on May 4, 2009. Retrieved September 21, 2008. 
+^ Sandoval, Greg (October 4, 2008). "Who's to blame for spreading phony Jobs story?". CNet News. Retrieved January 11, 2009. 
+^ Cheng, Jacqui (October 3, 2008). "Friday Apple links: Steve Jobs still not dead edition". Ars Technica. Archived from the original on December 9, 2008. Retrieved January 11, 2009. 
+^ Fitzsimmons, Caitlin (May 22, 2009). "YouTube besieged by porn videos". The Guardian. London. Archived from the original on May 27, 2009. Retrieved June 13, 2009. 
+^ Courtney, Siobhan (May 21, 2009). "Pornographic videos flood YouTube". BBC News. Archived from the original on May 30, 2009. Retrieved June 13, 2009. 
+^ a b Bunz, Mercedes (January 6, 2010). "YouTube faces 4chan porn attack". The Guardian. London. Archived from the original on January 10, 2010. Retrieved January 13, 2010. 
+^ Emery, Daniel (July 5, 2010). "Prank leaves Justin Bieber facing tour of North Korea". BBC News. Archived from the original on July 17, 2010. Retrieved July 20, 2010. ; "Record label brands Justin Bieber tour vote "a hoax"". BBC. July 7, 2010. Archived from the original on July 17, 2010. Retrieved July 20, 2010. 
+^ Singh, Divyesh (September 5, 2010). "Bollywood hiring cyber hitmen to combat piracy". Daily News and Analysis. 
+^ Saetang, David (September 20, 2010). "RIAA, MPAA Websites Pummeled By 4chan's Wrath". PCWorld. Retrieved October 29, 2011. 
+^ "4chan Attack Brings Down MPAA Website". Gawker.com. September 18, 2010. Retrieved October 29, 2011. 
+^ a b Wakefield, Jane (January 25, 2011). "Law firm stops chasing pirates". BBC News. Archived from the original on January 25, 2011. Retrieved January 25, 2011. 
+^ enigmax (September 25, 2010). "ACS:Law Anti-Piracy Law Firm Torn Apart By Leaked Emails". TorrentFreak. Archived from the original on September 26, 2010. Retrieved September 25, 2010. 
+^ Williams, Chris (September 28, 2010). "ACS:Law's mocking of 4chan could cost it £500k". The Register. Retrieved January 25, 2011. 
+^ "Web pranksters hijack restaurant's Mountain Dew naming contest". Time. August 12, 2012. Retrieved December 1, 2014. 
+^ "4chan users hijack Mountain Dew contest". The Daily Dot. August 13, 2012. Retrieved December 1, 2014. 
+^ Dolmetsch, Chris; Voreacos, David (October 20, 2006). "Wisconsin Man Is Charged in Fake NFL Stadium Threats". Bloomberg. Retrieved October 20, 2006. 
+^ a b Mark, Roy (October 20, 2006). "Man Charged in Internet Bomb Threats". InternetNews.com. Retrieved July 24, 2008. 
+^ Thomas, Pierre (October 16, 2006). "NFL Stadium Threat: Officials Skeptical But Issue Warning". ABC News. Retrieved July 21, 2008. 
+^ a b "4chanarchive — Thread 39101047". 4chanarchive.com. September 11, 2007. Archived from the original on January 5, 2008. Retrieved January 18, 2008. 
+^ "Ex-Grocery Clerk Gets 6 Months for NFL Stadium Attack Hoax". Fox News Channel. Associated Press. June 5, 2008. Archived from the original on June 8, 2008. Retrieved July 21, 2008. 
+^ Smothers, Ronald (October 20, 2006). "Man, 20, Arrested in Stadium Threat Hoax". New York Times. Retrieved July 27, 2007. 
+^ Gaudin, Sharon (June 16, 2008). "Man gets six months for posting terror threat online". Computerworld. Retrieved July 21, 2008. 
+^ "4chanarchive — Thread 39168208". 4chanarchive.com. September 11, 2007. Archived from the original on February 21, 2008. Retrieved January 18, 2008. 
+^ "Pflugerville Student Arrested After Posting Bomb Threats". KXAN. September 12, 2007. Archived from the original on October 11, 2007. Retrieved January 18, 2008. 
+^ "Police Investigate Bomb Threat at Pflugerville High School". Fox Television Stations, Inc. September 11, 2007. Archived from the original on April 10, 2008. Retrieved January 18, 2008. 
+^ "Teen arrested for threatening to blow up school". Twean News Channel of Austin, L.P. d.b.a. News 8 Austin. September 11, 2007. Retrieved February 6, 2012. 
+^ "Juvenile arrested in Pflugerville H.S. bomb threat". KVUE. September 11, 2007. Archived from the original on January 6, 2008. Retrieved January 18, 2008. 
+^ "Letter from Pflugerville Highschool". Pflugerville High School. Retrieved September 11, 2008. 
+^ Hudson, Fiona; Houlihan, Liam (December 9, 2007). "Student faces jail over online joke". Herald Sun. Australia: news.com.au. Retrieved July 14, 2008. 
+^ "Australian Police Arrest Man Who Threatened to Attack Los Angeles Mall". Fox News Channel. Associated Press. December 8, 2007. Retrieved July 14, 2008. 
+^ Edwards, Geoff (June 30, 2008). "Hoax student charges". Frankston Standard Leader. Leader Community Newspapers. p. 1. Archived from the original on April 25, 2009. Retrieved February 6, 2009. 
+^ Davies, Shaun (July 31, 2008). "Mall massacre hoax accused dies". ninemsn. Archived from the original on August 5, 2008. Retrieved July 31, 2008. 
+^ Sivesson, Sara (February 4, 2009). "Hemsidan som chockar "vuxen-Sverige"". realtid.se (in Swedish). Alternativ Media Stockholm AB. Archived from the original on February 6, 2009. Retrieved February 4, 2009. 
+^ Sæby, Inger-Marit (February 4, 2009). "Svensk skole evakueres etter trusler". Verdens Gang (in Norwegian). Archived from the original on February 5, 2009. Retrieved February 4, 2009. 
+^ "Young man arrested over school threat". The Local / TT. February 4, 2009. Archived from the original on February 5, 2009. Retrieved February 4, 2009. 
+^ "21-åringen släpptes efter förhör". Eskilstuna-Kuriren (in Swedish). February 4, 2009. Retrieved February 4, 2009. [dead link]
+^ WSAZ News Staff. "Teen Arrested for Threatening to Blow Up School". wsaz.com. Retrieved April 27, 2014. 
+^ "Terroristic threatening in the second degree". www.lrc.ky.gov. 
+^ Time Waster. "Another 4chan User Gets Busted By FBI: Student, 19, facing child porn, death threat charges. February 7, 2011". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "Face Behind The Name: Meet Matthew Riskin Bean, Convicted 4chan Cyberstalker. January 25, 2011". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "4chan Child Porn Fan Sentenced To Three Years In Federal Pen June 22, 2011". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "Child Porn Plea On Deck For Navy Man Who Found Illicit Images On 4chan. March 21, 2011". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "Another 4chan Fan Arrested On Federal Charges: Navy man copped to getting child porn from web site. February 14, 2011". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "4chan Linked To Federal Kiddie Porn Probe: NCIS: Sailor obtained illicit images from popular site. November 3, 2010". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "Arrested Man Credits 4chan With Helping Him Grow His Child Porn Collection. May 18, 2011". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "FBI Busts 4chan Man For Extreme Couponing Collegian facing wire fraud, counterfeiting charges". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Time Waster. "Feds Raid Boy's Home Over 4chan Child Porn Post: Notorious site's administrators sparked DHS probe. June 29, 2011". Thesmokinggun.com. Retrieved March 29, 2012. 
+^ Baldas, Tresa (March 2, 2012). "Man, 21, posts bond in child porn case over Facebook postings". Detroit Free Press. Archived from the original on June 12, 2012. 
+^ "Complaint" (PDF), United States of America v. McMichael (Court Filing), E.D.M.I., No. 2:12-mj-30147:12-mj-30147 (Docket 1), February 29, 2012, retrieved July 25, 2017 – via Recap  (PACER current docket view) p. 5
+^ "Apple confirms accounts compromised but denies security breach". BBC News. September 2, 2014. Retrieved September 6, 2014. 
+^ "Jennifer Lawrence, Kate Upton, Ariana Grande Among Celebrities Exposed in Massive Nude Photo Leak". Variety. Retrieved September 3, 2014. 
+^ "Stolen celebrity images prompt policy change at 4Chan". BBC News. September 4, 2014. Retrieved September 4, 2014. 
+^ Stuart, Bob (October 24, 2014). "#GamerGate: the misogynist movement blighting the video games industry". The Daily Telegraph. Retrieved January 25, 2015. Users from the messageboards Reddit – a sprawling series of communities – and 4chan – largely the trolls in the internet's basement – hurled false accusations 
+^ Johnston, Casey (September 9, 2014). "Chat logs show how 4chan users created #GamerGate controversy". Ars Technica. Archived from the original on September 13, 2014. Retrieved September 14, 2014. 
+^ Howell O'Neill, Patrick (November 17, 2014). "8chan, the central hive of Gamergate, is also an active pedophile network". The Daily Dot. 
+^ Chen, Adrian (October 27, 2014). "Gamergate Supporters Partied at a Strip Club This Weekend". New York. 
+^ a b "4chan Pics Match Slay Scene, Suspect David Kalac on Run: Investigators". NBC News. Retrieved November 5, 2014. 
+^ "4chan Murder Suspect David Kalac Surrenders in Oregon". NBC News. November 5, 2014. Retrieved November 5, 2014. 
+^ Binion, Andrew (May 16, 2017). "Port Orchard man sentenced to 82 years for murder". KING-TV. Retrieved May 20, 2017. 
+^ "AT&T Reportedly Blocks 4chan. This Is Going To Get Ugly". TechCrunch. July 26, 2009. Retrieved October 21, 2013. 
+^ Price, Christopher (July 26, 2006). "AT&T Blocking Access to Portions of 4chan (Updated Again)". CentralGadget. Archived from the original on August 7, 2009. Retrieved July 26, 2006. 
+^ Albanesius, Chloe (July 27, 2009). "AT&T Confirms 4chan Block After DoS Attack". PC Mag. Retrieved July 27, 2009. 
+^ a b "4chan Status" (July 27, 2009). Accessed July 27, 2009.
+
+See also: Albanesius, Chloe (July 27, 2009). "AT&T Confirms 4chan Block After DoS Attack". PCMAG. Retrieved May 24, 2016. 
+
+
+^ "Feared Hackers Call Off Attack on AT&T". Fox News. July 28, 2009. 
+^ The Bryant Park Project (July 22, 2008). "When Your Pedicurist Is A Fish". NPR. Retrieved October 21, 2013. 
+^ "4chan – Status". February 3, 2010. Retrieved September 24, 2014. 
+^ "4chan – Status". February 7, 2010. Retrieved September 24, 2014. 
+^ "Verizon confirms block of 4chan sites". AfterDawn. February 8, 2010. Retrieved May 24, 2016. 
+^ "Verizon Wireless restores 4Chan traffic". Wirelessfederation.com. February 10, 2010. Retrieved October 21, 2013. 
+
+
+External links
+
+Listen to this article (info/dl)
+
+
+
+
+
+
+
+
+
+
+
+This audio file was created from a revision of the article "4chan" dated 2010-10-10, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+
+Official website
+TED talk on 4chan
+Now 10 years old, 4chan is the most important site you never visit Daily Dot interview with Christopher Poole
+A more complete history of 4chan
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Anonymous and the Internet
+
+
+
+
+
+
+Guy Fawkes mask
+Imageboard
+Internet vigilantism
+Low Orbit Ion Cannon
+
+
+
+
+
+Related websites
+
+
+
+4chan
+Encyclopedia Dramatica
+WikiLeaks
+
+
+
+
+
+
+
+
+Groups
+
+
+
+Ghost Security
+LulzSec
+MalSec
+RedHack
+
+
+
+
+
+Activities
+
+
+
+February 2010 Australian Cyberattacks
+Habbo raids
+Operation AntiSec
+Operation Leakspin
+Operation Payback
+Operation Tunisia
+Project Chanology
+more
+
+
+
+
+
+
+Internet portal
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Alt-right
+
+
+
+Common ideas
+
+
+
+American nationalism
+Antifeminism
+Antisemitism
+Economic nationalism
+Islamophobia
+Isolationism
+Nativism
+Protectionism
+Right-wing populism
+White nationalism
+
+
+
+
+
+People
+
+
+
+Baked Alaska
+Steve Bannon
+Peter Brimelow
+Christopher Cantwell
+Mike Cernovich
+John Derbyshire
+David Duke
+Mike Enoch
+Ben Garrison
+Sebastian Gorka
+Paul Gottfried
+Matthew Heimbach
+Augustus Sol Invictus
+Charles C. Johnson
+Greg Johnson
+Alex Jones
+Jason Jorjani
+Jason Kessler
+Nick Land
+Laura Loomer
+Kevin B. MacDonald
+Stefan Molyneux
+Henrik Palmgren
+Jack Posobiec
+Paul Ray Ramsey
+Lauren Southern
+Richard B. Spencer
+Paul Joseph Watson
+Milo Yiannopoulos
+
+
+
+
+
+Websites
+
+
+
+4chan
+
+/pol/
+
+
+8chan
+American Renaissance
+Breitbart
+Gateway Pundit
+The Daily Stormer
+/r/The_Donald
+InfoWars
+The Right Stuff
+Metapedia
+Occidental Observer
+VDARE
+
+
+
+
+
+Organizations
+
+
+
+Arktos Media
+Identity Evropa
+League of the South
+Nationalist Front
+National Policy Institute
+New Century Foundation
+Proud Boys
+Traditionalist Worker Party
+Vanguard America
+Washington Summit Publishers
+
+
+
+
+
+Conspiracy theories
+
+
+
+Cultural Marxism
+White genocide
+Sandy Hook shooting
+Seth Rich murder
+Pizzagate
+
+
+
+
+
+Events
+
+
+
+Gamergate controversy
+2016 Donald Trump presidential campaign
+2017 Berkeley protests
+Unite the Right rally
+
+
+
+
+
+Memes
+
+
+
+Basket of deplorables
+Cuckservative
+Fashwave
+Pepe the Frog
+Snowflake
+Social justice warrior
+Triple parentheses
+
+
+
+
+
+Related ideas
+
+
+
+Men's rights movement
+Neo-fascism
+Neo-Nazism
+New nationalism
+New Right
+Paleoconservatism
+Paleolibertarianism
+Radical right
+White nationalism
+White supremacy
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=4chan&oldid=812085071"					
+Categories: 2channelAmerican websitesCommunity websitesInternet forumsImageboardsInternet memesInternet properties established in 2003Internet trollingInternet cultureObscenity controversies4chanEntertainment websitesAnonymous social mediaHidden categories: CS1 Japanese-language sources (ja)CS1 French-language sources (fr)CS1 maint: Extra text: authors listCS1 Swedish-language sources (sv)CS1 Norwegian-language sources (no)All articles with dead external linksArticles with dead external links from September 2010Wikipedia indefinitely move-protected pagesWikipedia pages semi-protected against vandalismUse mdy dates from October 2016Articles containing potentially dated statements from July 2017All articles containing potentially dated statementsSpoken articlesArticles with hAudio microformatsFeatured articles 

@@ -1,0 +1,2798 @@
+Dungeons & Dragons - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the role-playing game. For other uses, see Dungeons & Dragons (disambiguation) and D&D (disambiguation).
+
+Dungeons & Dragons
+
+
+Dungeons & Dragons logo used for the 5th Edition of the game
+
+
+
+Designer(s)
+Gary Gygax
+Dave Arneson
+
+
+Publisher(s)
+TSR, Wizards of the Coast
+
+
+Publication date
+
+
+
+1974 (original)
+1977 (D&D Basic Set 1st version)[1]
+1977–1979 (AD&D)
+1981 (D&D Basic Set 2nd version)
+1983–1986 (D&D Basic Set 3rd version)
+1989 (AD&D 2nd Edition)
+1991 (D&D Rules Cyclopedia)
+2000 (D&D 3rd edition)
+2003 (D&D v3.5)
+2008 (D&D 4th edition)
+2014 (D&D 5th edition)
+
+
+
+
+
+Years active
+1974–present
+
+
+Genre(s)
+Fantasy
+
+
+System(s)
+Dungeons & Dragons
+d20 System (3rd Edition)
+
+
+Playing time
+Varies
+
+
+Random chance
+Dice rolling
+
+
+Skill(s) required
+Role-playing, improvisation, tactics, arithmetic
+
+
+Website
+dnd.wizards.com
+
+
+Dungeons & Dragons (abbreviated as D&D[2] or DnD) is a fantasy tabletop role-playing game (RPG) originally designed by Gary Gygax and Dave Arneson. It was first published in 1974 by Tactical Studies Rules, Inc. (TSR). The game has been published by Wizards of the Coast (now a subsidiary of Hasbro) since 1997. It was derived from miniature wargames with a variation of Chainmail serving as the initial rule system.[3] D&D's publication is commonly recognized as the beginning of modern role-playing games and the role-playing game industry.[4]
+D&D departs from traditional wargaming and assigns each player a specific character to play instead of a military formation. These characters embark upon imaginary adventures within a fantasy setting. A Dungeon Master serves as the game's referee and storyteller while maintaining the setting in which the adventures occur, and playing the role of the inhabitants. The characters form a party that interacts with the setting's inhabitants, and each other. Together they solve dilemmas, engage in battles, and gather treasure and knowledge.[4] In the process the characters earn experience points in order to rise in levels, and become increasingly powerful over a series of sessions.
+The early success of Dungeons & Dragons led to a proliferation of similar game systems. Despite the competition, D&D has remained as the market leader in the role-playing game industry.[5] In 1977, the game was split into two branches: the relatively rules-light game system of basic Dungeons & Dragons and the more structured, rules-heavy game system of Advanced Dungeons & Dragons (abbreviated as AD&D).[1][2][6] AD&D 2nd Edition was published in 1989. In 2000, a new system was released as Dungeons & Dragons 3rd edition. These rules formed the basis of the d20 System which is available under the Open Game License (OGL) for use by other publishers. Dungeons & Dragons version 3.5 was released in June 2003, with a (non-OGL) 4th edition in June 2008.[7][8] A 5th edition was released during the second half of 2014.[9]
+As of 2004[update], Dungeons & Dragons remained the best-known[10] and best-selling[11] role-playing game, with an estimated 20 million people having played the game and more than US$1 billion in book and equipment sales.[12] The game has been supplemented by many pre-made adventures as well as commercial campaign settings suitable for use by regular gaming groups. Dungeons & Dragons is known beyond the game for other D&D-branded products, references in popular culture, and some of the controversies that have surrounded it, particularly a moral panic in the 1980s falsely linking it to Satanism and suicide.[13] The game has won multiple awards and has been translated into many languages beyond the original English.
+
+
+
+Contents
+
+
+1 Play overview
+
+1.1 Game mechanics
+1.2 Adventures, campaigns, and modules
+1.3 Miniature figures
+
+
+2 Game history
+
+2.1 Sources and influences
+2.2 Edition history
+
+2.2.1 Original game
+2.2.2 Two-pronged strategy
+2.2.3 Revised editions
+2.2.4 Wizards of the Coast
+
+
+2.3 Acclaim and influence
+2.4 Licensing
+2.5 Controversy and notoriety
+
+
+3 Related products
+4 In popular culture
+5 See also
+6 Notes
+7 References
+
+7.1 Unknown author
+
+
+8 Further reading
+9 External links
+
+
+
+Play overview[edit]
+
+
+
+
+A D&D game session in progress
+
+
+Dungeons & Dragons is a structured yet open-ended role-playing game. It is normally played indoors with the participants seated around a tabletop. Typically, each player controls only a single character, which represents an individual in a fictional setting.[14] When working together as a group, these player characters (PCs) are often described as a "party" of adventurers, with each member often having their own area of specialty which contributes to the success of the whole.[15][16] During the course of play, each player directs the actions of their character and their interactions with other characters in the game.[17][18] This activity is performed through the verbal impersonation of the characters by the players, while employing a variety of social and other useful cognitive skills, such as logic, basic mathematics and imagination.[19] A game often continues over a series of meetings to complete a single adventure, and longer into a series of related gaming adventures, called a "campaign".[20][21]
+The results of the party's choices and the overall storyline for the game are determined by the Dungeon Master (DM) according to the rules of the game and the DM's interpretation of those rules.[22][23] The DM selects and describes the various non-player characters (NPCs) that the party encounters, the settings in which these interactions occur, and the outcomes of those encounters based on the players' choices and actions.[18][24] Encounters often take the form of battles with "monsters" – a generic term used in D&D to describe potentially hostile beings such as animals, aberrant beings, or mythical creatures.[25] The game's extensive rules – which cover diverse subjects such as social interactions,[26] magic use,[27] combat,[28] and the effect of the environment on PCs[29] – help the DM to make these decisions. The DM may choose to deviate from the published rules[22] or make up new ones if they feel it is necessary.[30]
+
+
+
+
+The "version 3.5" three core rulebooks
+
+
+The most recent versions of the game's rules are detailed in three core rulebooks: The Player's Handbook, the Dungeon Master's Guide and the Monster Manual.
+The only items required to play the game are the rulebooks, a character sheet for each player, and a number of polyhedral dice. Many players also use miniature figures on a grid map as a visual aid, particularly during combat. Some editions of the game presume such usage.[31] Many optional accessories are available to enhance the game, such as expansion rulebooks, pre-designed adventures and various campaign settings.[32]
+Game mechanics[edit]
+Main articles: Dungeons & Dragons gameplay and Character class (Dungeons & Dragons)
+
+
+
+
+D&D uses polyhedral dice to resolve random events. These are abbreviated by a 'd' followed by the number of sides. Shown counter-clockwise from the bottom are: d4, d6, d8, d10, d12 and d20 dice. A pair of d10 can be used together to represent percentile dice, or d100.
+
+
+Before the game begins, each player creates their player character and records the details (described below) on a character sheet. First, a player determines their character's ability scores, which consist of Strength, Constitution, Dexterity, Intelligence, Wisdom, and Charisma. Each edition of the game has offered differing methods of determining these statistics.[33] The player then chooses a race (species) such as human or elf, a character class (occupation) such as fighter or wizard, an alignment (a moral and ethical outlook), and other features to round out the character's abilities and backstory, which have varied in nature through differing editions.
+During the game, players describe their PC's intended actions, such as punching an opponent or picking a lock, and converse with the DM, who then describes the result or response.[34] Trivial actions, such as picking up a letter or opening an unlocked door, are usually automatically successful. The outcomes of more complex or risky actions are determined by rolling dice.[18] Factors contributing to the outcome include the character's ability scores, skills and the difficulty of the task.[35] In circumstances where a character does not have control of an event, such as when a trap or magical effect is triggered or a spell is cast, a saving throw can be used to determine whether the resulting damage is reduced or avoided.[36][37] In this case the odds of success are influenced by the character's class, levels and ability scores.[36][38]
+As the game is played, each PC changes over time and generally increases in capability. Characters gain (or sometimes lose) experience, skills[39] and wealth, and may even alter their alignment[40] or gain additional character classes.[41] The key way characters progress is by earning experience points (XP), which happens when they defeat an enemy or accomplish a difficult task.[42] Acquiring enough XP allows a PC to advance a level, which grants the character improved class features, abilities and skills.[43] XP can be lost in some circumstances, such as encounters with creatures that drain life energy, or by use of certain magical powers that come with an XP cost.[44]
+Hit points (HP) are a measure of a character's vitality and health and are determined by the class, level and constitution of each character. They can be temporarily lost when a character sustains wounds in combat or otherwise comes to harm, and loss of HP is the most common way for a character to die in the game.[45] Death can also result from the loss of key ability scores[46] or character levels.[47] When a PC dies, it is often possible for the dead character to be resurrected through magic, although some penalties may be imposed as a result. If resurrection is not possible or not desired, the player may instead create a new PC to resume playing the game.[48]
+Adventures, campaigns, and modules[edit]
+Main article: Adventure (Dungeons & Dragons)
+A typical Dungeons & Dragons game consists of an "adventure", which is roughly equivalent to a single story.[49] The DM can either design an adventure on their own, or follow one of the many pre-made adventures (also known as "modules") that have been published throughout the history of Dungeons & Dragons. Published adventures typically include a background story, illustrations, maps and goals for PCs to achieve. Some include location descriptions and handouts. Although a small adventure entitled "Temple of the Frog" was included in the Blackmoor rules supplement in 1975, the first stand-alone D&D module published by TSR was 1978's Steading of the Hill Giant Chief, written by Gygax.
+A linked series of adventures is commonly referred to as a "campaign".[50] The locations where these adventures occur, such as a city, country, planet or an entire fictional universe, are referred to as "campaign settings" or "world".[51] D&D settings are based in various fantasy genres and feature different levels and types of magic and technology.[52] Popular commercially published campaign settings for Dungeons & Dragons include Greyhawk, Dragonlance, Forgotten Realms, Mystara, Spelljammer, Ravenloft, Dark Sun, Planescape, Birthright, and Eberron. Alternatively, DMs may develop their own fictional worlds to use as campaign settings.
+Miniature figures[edit]
+Main article: Miniature figure (gaming)
+
+
+
+
+Dungeons & Dragons miniature figures. The grid mat underneath uses one-inch squares.
+
+
+The wargames from which Dungeons & Dragons evolved used miniature figures to represent combatants. D&D initially continued the use of miniatures in a fashion similar to its direct precursors. The original D&D set of 1974 required the use of the Chainmail miniatures game for combat resolution.[53] By the publication of the 1977 game editions, combat was mostly resolved verbally. Thus miniatures were no longer required for game play, although some players continued to use them as a visual reference.[54]
+In the 1970s, numerous companies began to sell miniature figures specifically for Dungeons & Dragons and similar games. Licensed miniature manufacturers who produced official figures include Grenadier Miniatures (1980–1983),[55] Citadel Miniatures (1984–1986),[56] Ral Partha,[57] and TSR itself.[58] Most of these miniatures used the 25 mm scale.
+Periodically, Dungeons & Dragons has returned to its wargaming roots with supplementary rules systems for miniatures-based wargaming. Supplements such as Battlesystem (1985 & 1989) and a new edition of Chainmail (2001)[59] provided rule systems to handle battles between armies by using miniatures.
+Game history[edit]
+Sources and influences[edit]
+Main article: Sources and influences on the development of Dungeons & Dragons
+An immediate predecessor of Dungeons & Dragons was a set of medieval miniature rules written by Jeff Perren. These were expanded by Gary Gygax, whose additions included a fantasy supplement, before the game was published as Chainmail. When Dave Wesely entered the Army in 1970, his friend and fellow Napoleonics wargamer Dave Arneson began a medieval variation of Wesely's Braunstein games, where players control individuals instead of armies.[60] Arneson used Chainmail to resolve combat.[3] As play progressed, Arneson added such innovations as character classes, experience points, level advancement, armor class, and others.[60] Having partnered previously with Gygax on Don't Give Up the Ship!, Arneson introduced Gygax to his Blackmoor game and the two then collaborated on developing "The Fantasy Game", the role-playing game (RPG) that became Dungeons & Dragons, with the final writing and preparation of the text being done by Gygax.[2][61][62] The name was chosen by Gygax's two-year-old daughter Cindy — upon being presented with a number of choices of possible names, she exclaimed, "Oh Daddy, I like Dungeons and Dragons best!"[63]:101
+Many Dungeons & Dragons elements appear in hobbies of the mid-to-late 20th century. For example, character-based role playing can be seen in improvisational theatre.[64] Game-world simulations were well developed in wargaming. Fantasy milieux specifically designed for gaming could be seen in Glorantha's board games among others.[65] Ultimately, however, Dungeons & Dragons represents a unique blending of these elements.
+The world of D&D was influenced by world mythology, history, pulp fiction, and contemporary fantasy novels. The importance of J. R. R. Tolkien's The Lord of the Rings and The Hobbit as an influence on D&D is controversial. The presence in the game of halflings, elves, half-elves, dwarves, orcs, rangers, and the like, draw comparisons to these works. The resemblance was even closer before the threat of copyright action from Tolkien Enterprises prompted the name changes of hobbit to 'halfling', ent to 'treant', and balrog to 'balor'. For many years, Gygax played down the influence of Tolkien on the development of the game.[66][67][68] However, in an interview in 2000, he acknowledged that Tolkien's work had a "strong impact".[69]
+The D&D magic system, in which wizards memorize spells that are used up once cast and must be re-memorized the next day, was heavily influenced by the Dying Earth stories and novels of Jack Vance.[70] The original alignment system (which grouped all characters and creatures into 'Law', 'Neutrality' and 'Chaos') was derived from the novel Three Hearts and Three Lions by Poul Anderson.[71] A troll described in this work influenced the D&D definition of that monster.[67]
+Other influences include the works of Robert E. Howard, Edgar Rice Burroughs, A. Merritt, H. P. Lovecraft, Fritz Leiber, L. Sprague de Camp, Fletcher Pratt, Roger Zelazny, and Michael Moorcock.[72] Monsters, spells, and magic items used in the game have been inspired by hundreds of individual works such as A. E. van Vogt's "Black Destroyer", Coeurl (the Displacer Beast), Lewis Carroll's "Jabberwocky" (vorpal sword) and the Book of Genesis (the clerical spell 'Blade Barrier' was inspired by the "flaming sword which turned every way" at the gates of Eden).[71]
+Edition history[edit]
+Main article: Editions of Dungeons & Dragons
+Dungeons & Dragons has gone through several revisions. Parallel versions and inconsistent naming practices can make it difficult to distinguish between the different editions.
+Original game[edit]
+
+
+
+
+The original Dungeons & Dragons set.
+
+
+The original Dungeons & Dragons, now referred to as OD&D,[73] was a small box set of three booklets published in 1974. It was amateurish in production and assumed the player was familiar with wargaming. Nevertheless, it grew rapidly in popularity, first among wargamers and then expanding to a more general audience of college and high school students. Roughly 1,000 copies of the game were sold in the first year followed by 3,000 in 1975, and much more in the following years.[74] This first set went through many printings and was supplemented with several official additions, such as the original Greyhawk and Blackmoor supplements (both 1975),[75] as well as magazine articles in TSR's official publications and many fanzines.
+Two-pronged strategy[edit]
+
+
+
+
+First edition Advanced Dungeons & Dragons Dungeon Masters Guide.
+
+
+In early 1977, TSR created the first element of a two-pronged strategy that would divide D&D for nearly two decades. A Dungeons & Dragons Basic Set boxed edition was introduced that cleaned up the presentation of the essential rules, made the system understandable to the general public, and was sold in a package that could be stocked in toy stores.[62] Later in 1977, the first part of Advanced Dungeons & Dragons (AD&D) was published,[62] which brought together the various published rules, options and corrections, then expanded them into a definitive, unified game for hobbyist gamers. TSR marketed them as an introductory game for new players and a more complex game for experienced ones; the Basic Set directed players who exhausted the possibilities of that game to switch to the advanced rules.
+As a result of this parallel development, the basic game included many rules and concepts which contradicted comparable ones in AD&D. John Eric Holmes, the editor of the basic game, preferred a lighter tone with more room for personal improvisation. AD&D, on the other hand, was designed to create a tighter, more structured game system than the loose framework of the original game.[6] Between 1977 and 1979, three hardcover rulebooks, commonly referred to as the "core rulebooks", were released: the Player's Handbook (PHB), the Dungeon Master's Guide (DMG), and the Monster Manual (MM). Several supplementary books were published throughout the 1980s, notably Unearthed Arcana (1985) that included a large number of new rules.[62] Confusing matters further, the original D&D boxed set remained in publication until 1979, since it remained a healthy seller for TSR.[65]
+Revised editions[edit]
+In the 1980s, the rules for Advanced Dungeons & Dragons and "basic" Dungeons & Dragons remained separate, each developing along different paths.
+In 1981, the basic version of Dungeons & Dragons was revised by Tom Moldvay to make it even more novice-friendly. It was promoted as a continuation of the original D&D tone, whereas AD&D was promoted as advancement of the mechanics.[6] An accompanying Expert Set, originally written by David "Zeb" Cook, allowed players to continue using the simpler ruleset beyond the early levels of play. In 1983, revisions of those sets by Frank Mentzer were released, revising the presentation of the rules to a more tutorial format. These were followed by Companion (1983), Master (1985), and Immortals (1986) sets.[76][77] Each set covered game play for more powerful characters than the previous.[78] The first four sets were compiled in 1991 as a single hardcover book, the Dungeons & Dragons Rules Cyclopedia, which was released alongside a new introductory boxed set.
+Advanced Dungeons & Dragons 2nd Edition was published in 1989,[62] again as three core rulebooks; the primary designer was David "Zeb" Cook. The Monster Manual was replaced by the Monstrous Compendium, a loose-leaf binder that was subsequently replaced by the hardcover Monstrous Manual in 1993. In 1995, the core rulebooks were slightly revised, although still referred to by TSR as the 2nd Edition,[79] and a series of Player's Option manuals were released as optional rulebooks.[62]
+The release of AD&D 2nd Edition deliberately excluded some aspects of the game that had attracted negative publicity. References to demons and devils, sexually suggestive artwork, and playable, evil-aligned character types – such as assassins and half-orcs – were removed.[80] The edition moved away from a theme of 1960s and 1970s "sword and sorcery" fantasy fiction to a mixture of medieval history and mythology.[81] The rules underwent minor changes, including the addition of non-weapon proficiencies – skill-like abilities that originally appeared in 1st Edition supplements. The game's magic spells were divided into schools and spheres.[2] A major difference was the promotion of various game settings beyond that of traditional fantasy. This included blending fantasy with other genres, such as horror (Ravenloft), science fiction (Spelljammer), and apocalyptic (Dark Sun), as well as alternative historical and non-European mythological settings.[82]
+Wizards of the Coast[edit]
+In 1997, a near-bankrupt TSR was purchased by Wizards of the Coast.[83] Following three years of development, Dungeons & Dragons 3rd edition was released in 2000.[84] The new release folded the Basic and Advanced lines back into a single unified game. It was the largest revision of the D&D rules to date, and served as the basis for a multi-genre role-playing system designed around 20-sided dice, called the d20 System.[85] The 3rd Edition rules were designed to be internally consistent and less restrictive than previous editions of the game, allowing players more flexibility to create the characters they wanted to play.[86] Skills and feats were introduced into the core rules to encourage further customization of characters.[87] The new rules standardized the mechanics of action resolution and combat.[88] In 2003, Dungeons & Dragons v.3.5 was released as a revision of the 3rd Edition rules. This release incorporated hundreds of rule changes, mostly minor, and expanded the core rulebooks.[88]
+In early 2005, Wizards of the Coast's R&D team started to develop Dungeons & Dragons 4th Edition, prompted mainly by the feedback obtained from the D&D playing community and a desire to make the game faster, more intuitive, and with a better play experience than under the 3rd Edition. The new game was developed through a number of design phases spanning from May 2005 until its release.[89] Dungeons & Dragons 4th Edition was announced at Gen Con in August 2007, and the initial three core books were released June 6, 2008.[7] 4th Edition streamlined the game into a simplified form and introduced numerous rules changes. Many character abilities were restructured into "Powers". These altered the spell-using classes by adding abilities that could be used at will, per encounter, or per day. Likewise, non-magic-using classes were provided with parallel sets of options. Software tools, including player character and monster building programs, became a major part of the game.[90]
+On January 9, 2012, Wizards of the Coast announced that it was working on a 5th edition of the game.[91] The company planned to take suggestions from players and let them playtest the rules.[92][93] Public playtesting began on May 24, 2012.[94] At Gen Con 2012 in August, Mike Mearls, lead developer for 5th Edition, said that Wizards of the Coast had received feedback from more than 75,000 playtesters, but that the entire development process would take two years, adding, "I can't emphasize this enough ... we're very serious about taking the time we need to get this right."[95] The release of the 5th Edition, coinciding with D&D's 40th anniversary, occurred in the second half of 2014.[96]
+Acclaim and influence[edit]
+The game had more than three million players around the world by 1981,[97] and copies of the rules were selling at a rate of about 750,000 per year by 1984.[98] Beginning with a French language edition in 1982, Dungeons & Dragons has been translated into many languages beyond the original English.[2][62] By 2004, consumers had spent more than US$1 billion on Dungeons & Dragons products and the game had been played by more than 20 million people.[12] As many as six million people played the game in 2007.[90]
+The various editions of Dungeons & Dragons have won many Origins Awards, including All Time Best Roleplaying Rules of 1977, Best Roleplaying Rules of 1989, and Best Roleplaying Game of 2000 for the three flagship editions of the game.[99] Both Dungeons & Dragons and Advanced Dungeons & Dragons are Origins Hall of Fame Games inductees as they were deemed sufficiently distinct to merit separate inclusion on different occasions.[100] The independent Games magazine placed Dungeons & Dragons on their Games 100 list from 1980 through 1983, then entered the game into the magazine's Hall of Fame in 1984.[101][102] Advanced Dungeons & Dragons was ranked 2nd in the 1996 reader poll of Arcane magazine to determine the 50 most popular roleplaying games of all time.[103]
+Eric Goldberg reviewed Dungeons & Dragons in Ares Magazine #1, rating it a 6 out of 9.[104] Goldberg commented that "Dungeons and Dragons is an impressive achievement based on the concept alone, and also must be credited with cementing the marriage between the fantasy genre and gaming."[104]
+Dungeons & Dragons was the first modern role-playing game and it established many of the conventions that have dominated the genre.[105] Particularly notable are the use of dice as a game mechanic, character record sheets, use of numerical attributes and gamemaster-centered group dynamics.[106] Within months of Dungeons & Dragons's release, new role-playing game writers and publishers began releasing their own role-playing games, with most of these being in the fantasy genre. Some of the earliest other role-playing games inspired by D&D include Tunnels & Trolls (1975),[107] Empire of the Petal Throne (1975), and Chivalry & Sorcery (1976).[108]
+The role-playing movement initiated by D&D would lead to release of the science fiction game Traveller (1977), the fantasy game RuneQuest (1978), and subsequent game systems such as Chaosium's Call of Cthulhu (1981), Champions (1982), GURPS (1986),[109] and Vampire: The Masquerade (1991).[65][110] Dungeons & Dragons and the games it influenced fed back into the genre's origin – miniatures wargames – with combat strategy games like Warhammer Fantasy Battles.[111] D&D also had a large impact on modern video games.[112]
+Director Jon Favreau credits Dungeons & Dragons with giving him "... a really strong background in imagination, storytelling, understanding how to create tone and a sense of balance."[113]
+Licensing[edit]
+Early in the game's history, TSR took no action against small publishers' production of D&D compatible material, and even licensed Judges Guild to produce D&D materials for several years, such as City State of the Invincible Overlord.[114] This attitude changed in the mid-1980s when TSR took legal action to try to prevent others from publishing compatible material. This angered many fans and led to resentment by the other gaming companies.[65] Although TSR took legal action against several publishers in an attempt to restrict third-party usage, it never brought any court cases to completion, instead settling out of court in every instance.[115] TSR itself ran afoul of intellectual property law in several cases.[116]
+With the launch of Dungeons & Dragons's 3rd Edition, Wizards of the Coast made the d20 System available under the Open Game License (OGL) and d20 System trademark license. Under these licenses, authors were free to use the d20 System when writing games and game supplements.[117] The OGL and d20 Trademark License made possible new games, some based on licensed products like Star Wars, and new versions of older games, such as Call of Cthulhu.
+With the release of the fourth edition, Wizards of the Coast introduced its Game System License, which represented a significant restriction compared to the very open policies embodied by the OGL. In part as a response to this, some publishers (such as Paizo Publishing with its Pathfinder Roleplaying Game) who previously produced materials in support of the D&D product line, decided to continue supporting the 3rd Edition rules, thereby competing directly with Wizards of the Coast. Others, such as Kenzer & Company, are returning to the practice of publishing unlicensed supplements and arguing that copyright law does not allow Wizards of the Coast to restrict third-party usage.[118]
+During the 2000s, there has been a trend towards reviving and recreating older editions of D&D, known as the Old School Revival. Game systems based on earlier editions of D&D. Castles & Crusades (2004), by Troll Lord Games, is a reimagining of early editions by streamlining rules from OGL.[119] This in turn inspired the creation of "retro-clones", games which more closely recreate the original rule sets, using material placed under the OGL along with non-copyrightable mechanical aspects of the older rules to create a new presentation of the games.
+Alongside the publication of the fifth edition, Wizards of the Coast established a two-pronged licensing approach. The core of the fifth edition rules have been made available under the OGL, while publishers and independent creators have also been given the opportunity to create licensed materials directly for Dungeons & Dragons and associated properties like the Forgotten Realms under a program called the DM's Guild.[120] The DM's Guild does not function under the OGL, but uses a community agreement intended to foster liberal cooperation between the content creators.
+Controversy and notoriety[edit]
+Main article: Dungeons & Dragons controversies
+At various times in its history, Dungeons & Dragons has received negative publicity, in particular from some Christian groups, for alleged promotion of such practices as devil worship, witchcraft, suicide, and murder, and for the presence of naked breasts in drawings of female humanoids in the original AD&D manuals (mainly monsters such as harpies, succubi, etc.).[13][121] These controversies led TSR to remove many potentially controversial references and artwork when releasing the 2nd Edition of AD&D.[80] Many of these references, including the use of the names "devils" and "demons", were reintroduced in the 3rd edition.[122] The moral panic over the game led to problems for fans of D&D who faced social ostracism, unfair treatment, and false association with the occult and Satanism, regardless of an individual fan's actual religious affiliation and beliefs.[123]
+Dungeons & Dragons has been the subject of rumors regarding players having difficulty separating fantasy from reality, even leading to psychotic episodes.[124] The most notable of these was the saga of James Dallas Egbert III,[125] the facts of which were fictionalized in the novel Mazes and Monsters and later made into a TV movie.[121][126] The game was blamed for some of the actions of Chris Pritchard, who was convicted in 1990 of murdering his stepfather. Research by various psychologists,[127] the first being that of Armando Simon, has concluded that no harmful effects are related to the playing of D&D.[128]
+The game's commercial success was a factor that led to lawsuits regarding distribution of royalties between original creators Gygax and Arneson.[129][130] Gygax later became embroiled in a political struggle for control of TSR which culminated in a court battle and Gygax's decision to sell his ownership interest in the company in 1985.[131]
+Related products[edit]
+Main article: Dungeons & Dragons-related products
+
+
+
+
+An example of an elaborate D&D game in progress. Among the gaming aids shown are dice, a variety of miniatures and a dungeon diorama.
+
+
+D&D's commercial success has led to many other related products, including Dragon Magazine, Dungeon Magazine, an animated television series, a film series, an official role-playing soundtrack, novels, and computer games such as the MMORPG Dungeons & Dragons Online. Hobby and toy stores sell dice, miniatures, adventures, and other game aids related to D&D and its game offspring.
+In popular culture[edit]
+Main article: Dungeons & Dragons in popular culture
+D&D grew in popularity through the late 1970s and 1980s. Numerous games, films, and cultural references based on D&D or D&D-like fantasies, characters or adventures have been ubiquitous since the end of the 1970s. D&D players are (sometimes pejoratively) portrayed as the epitome of geekdom,[132] and have become the basis of much geek and gamer humor and satire.[133][134] Famous D&D players include Pulitzer Prize winning author Junot Díaz, professional basketball player Tim Duncan, comedian Stephen Colbert, and actors Vin Diesel and Robin Williams.[135][136][137][138][139] D&D and its fans have been the subject of spoof films, including Fear of Girls[140] and The Gamers: Dorkness Rising.[141]
+See also[edit]
+
+
+Dungeons & Dragons portal
+
+
+
+D&D Championship Series
+
+Notes[edit]
+
+
+^ a b "D&D Basic Set". Rulebooks and Sets. acaeum.com. Retrieved 16 May 2013. 
+^ a b c d e Mead, Malcomson; Dungeons & Dragons FAQ
+^ a b Birnbaum 2004
+^ a b Williams, Hendricks & Winkler 2006 introduction
+^ "Frankly, the difference in sales between Wizards and all other producers of roleplaying games is so staggering that even saying there is an 'RPG industry' at all may be generous." Cook; "The Open Game License as I see it".
+^ a b c Gygax; "From the Sorcerer's Scroll" in The Dragon #26.
+^ a b Slavicsek; Ampersand: Exciting News!
+^ Johnson, et al.; 30 Years of Adventure, p. 253.
+^ "Dungeons & Dragons Enters a Pivotal Year with Tyranny of Dragons". Wizards.com. 2014-05-19. Archived from the original on 2014-05-21. Retrieved 2013-05-20. 
+^ According to a 1999 survey in the United States, 6% of 12- to 35-year-olds have played role-playing games. Of those who play regularly, two thirds play D&D. (Dancey; Adventure Game Industry Market Research Summary)
+^ Products branded Dungeons & Dragons made up over fifty percent of the RPG products sold in 2005. (Hite; State of the Industry 2005)
+^ a b Waters; What happened to Dungeons and Dragons?
+^ a b Waldron; Role-Playing Games and the Christian Right
+^ Waskul, Lust; "Role-Playing and Playing Roles" in Caliber 27 (3)
+^ Slavicsek, Baker; Dungeons & Dragons for Dummies p. 268
+^ Bethke, Erik (2003). Game development and production. Wordware Game Developer's Library. Wordware Publishing, Inc. p. 12. ISBN 1-55622-951-8. 
+^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 5
+^ a b c Williams, Hendricks & Winkler 2006 "The Role-Playing Game and the Game of Role-Playing"
+^ Spade, Joan Z.; Ballantine, Jeanne H. (2011). "Meso-Level Agents of Gender Socialization". Schools and Society: A Sociological Approach to Education (4 ed.). Pine Forge Press. p. 294. ISBN 1-4129-7924-2. 
+^ "Encounters are to adventures what adventures are to campaigns" (Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 129)
+^ Rouchart & Aylett 2003, p. 245.
+^ a b Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 4
+^ Rouchart & Aylett 2003, p. 245–46.
+^ Slavicsek, Baker; Dungeons & Dragons for Dummies p. 293
+^ Rouchart & Aylett 2003, p. 246.
+^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 98
+^ Gygax; Dungeon Masters Guide p. 114
+^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 114
+^ Mohan; Wilderness Survival Guide
+^ Tweet; Dungeons & Dragons Basic game p. 32
+^ Wizards of the Coast; What is D&D?
+^ Slavicsek, Baker; Dungeons & Dragons for Dummies p. 363
+^ The original game used 3d6 in the order rolled (Gygax, Arneson; Dungeons & Dragons). Variants have since been included (Gygax; Dungeon Masters Guide, p. 11) and the standard for 3rd edition is "rolling four six-sided dice, ignoring the lowest die, and totaling the other three" (Tweet, Cook, Williams; Player's Handbook [3.0], p. 4), arranging the results in any order desired. 4th edition allows for a "point buy" system.
+^ Tweet; Dungeons & Dragons Basic Game p. 24
+^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 62
+^ a b Tweet, Cook, Williams; Player's Handbook v3.5, p. 136
+^ "Generally, when you are subject to an unusual or magical attack, you get a saving throw to avoid or reduce the effect." There is identical language in sections titled 'Saving Throws' in (Tweet 2000:119).
+^ Tweet, Cook, Williams; Player's Handbook (3.0), pp. 119–120
+^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 197
+^ Early editions did not allow or had severe penalties for changing alignment (Gygax; Dungeon Masters Guide, p. 24) but more recent versions are more allowing of change. (Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 134)
+^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 59
+^ Gygax; Dungeon Masters Guide, p. 84
+^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 58
+^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 46
+^ Tweet, Cook, Williams; Player's Handbook v3.5, p. 145
+^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 289
+^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 296
+^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 41
+^ Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 43
+^ "A D&D campaign is an organized framework... to provide a realistic setting for a series of fantastic adventures." (Allston; Rules Cyclopedia, p. 256)
+^ "It is important to distinguish between a campaign and a world, since the terms often seem to be used interchangeably ... A world is a fictional place in which a campaign is set. It's also often called a campaign setting." (Cook, Williams, Tweet; Dungeon Master's Guide v3.5., p. 129)
+^ Williams ; Dungeon Master Option: High Level Campaigns, p. 45
+^ Johnson, et al.; 30 Years of Adventure, p. 23
+^ The first Dungeon Masters Guide gave only a quarter of a page out of a total 240 pages to discussing the option use of miniatures. (Gygax; Dungeon Masters Guide, p. 10)
+^ Pope; Grenadier Models
+^ Scott; Otherworld
+^ Pope; Ral Partha
+^ Pope; TSR
+^ Academy of Adventure Gaming Arts & Design; List of Winners (2002)
+^ a b Arneson; "My Life and Role Playing" in Different Worlds #3
+^ Kushner; Dungeon Master: The Life and Legacy of Gary Gygax
+^ a b c d e f g Wizards of the Coast; The History of TSR
+^ Witwer, Michael (2015). Empire of the Imagination: Gary Gygax and the Birth of Dungeons & Dragons. New York: Bloomsbury Publishing. ISBN 978-1-63286-279-2. 
+^ Grigg; Albert Goes Narrative Contracting
+^ a b c d Schick; Heroic Worlds, pp. 17–34
+^ Kuntz; "Tolkien in Dungeons & Dragons" in Dragon #13
+^ a b Gygax; "On the Influence of J. R. R. Tolkien on the D&D and AD&D games" in Dragon #95
+^ Drout; "J.R.R. Tolkien Encyclopedia", p 229
+^ "Gary Gygax - Creator of Dungeons & Dragons". TheOneRing. Retrieved 2014-01-10. 
+^ Gygax; "The Dungeons and Dragons Magic System" in The Strategic Review, Vol. 2, No. 2
+^ a b DeVarque; Literary Sources of D&D
+^ The first seven listed here are the "most immediate influences". (Gygax; Dungeon Masters Guide, p. 224)
+^ Carroll, Bart; Winter, Steve (2009-02-06). "Name Level". Dragon (372). Wizards of the Coast. 
+^ Peterson, Jon (2012). Playing at the World. Unreason. p. 496. ISBN 978-0-615-64204-8. 
+^ Schick; Heroic Worlds, pp. 132–153
+^ "Basic set". Acaeum.com. 
+^ Schick; Heroic Worlds, p. 133
+^ Gygax; "Dungeons & Dragons: What Is It and Where Is It Going" in The Dragon #21
+^ "This is not AD&D 3rd edition" Winter, Steven (in the forward to Cook; Player's Handbook).
+^ a b Ward; "The Games Wizards: Angry Mothers From Heck (And what we do about them)" in Dragon #154
+^ Cook; Player's Handbook (1989), pp. 25–41
+^ Pryor, Herring, Tweet, Richie; Creative Campaigning
+^ Appelcline, Shannon (August 3, 2006). "Wizards of the Coast: 1990 – present". A Brief History of Game. RPGnet. Archived from the original on August 24, 2006. Retrieved September 1, 2006. 
+^ "After ... the idea of acquiring TSR began to swim in my mind it took me maybe thirty seconds to decide, We've got to do a third edition of Dungeons & Dragons." (Adkison, Peter in Johnson, et al.; 30 Years of Adventure, p. 250).
+^ Johnson, et al.; 30 Years of Adventure, p. 273
+^ Johnson, et al.; 30 Years of Adventure, pp. 255–263
+^ "Countdown to 3rd Edition: Feats and Fighters" in Dragon #270
+^ a b Tweet, Cook, Williams; Player's Handbook v3.5, p. 4
+^ Carter, et al.; Wizards Presents: Races and Classes, pp. 6–9
+^ a b Svensson; Dungeons & Dragons reborn
+^ Harnish, MJ (January 9, 2012). "5th Edition D&D Is in Development — Should We Care?". Wired. Retrieved January 9, 2012. 
+^ Gilsdorf, Ethan (January 9, 2012). "Players Roll the Dice for Dungeons & Dragons Remake". New York Times. p. 2. Retrieved January 9, 2012. 
+^ Mearls, Mike (January 9, 2012). "Charting the Course for D&D: Your Voice, Your Game". Wizards of the Coast. Archived from the original on December 25, 2012. Retrieved January 9, 2012. 
+^ Dungeons & Dragons Roleplaying Game Official Home Page - Article (News on D&D Next)
+^ Ewalt, David M. (August 20, 2012). "What's Next With Dungeons And Dragons?". Forbes. Retrieved August 26, 2012. 
+^ http://edition.cnn.com/2014/05/19/tech/gaming-gadgets/dungeons-and-dragons-5th-edition/index.html
+^ Stewart Alsop II (1982-02-01). "TSR Hobbies Mixes Fact and Fantasy". 
+^ Gilligan, Eugene (May 1, 1984). "Keeping Pace with Packaging". Playthings. Retrieved September 6, 2012.  – via HighBeam Research (subscription required)
+^ Academy of Adventure Gaming Arts & Design; Archive of List of Origins Award Winners
+^ Academy of Adventure Gaming Arts and Design; Hall of Fame
+^ Schick; Heroic Worlds, pp. 414–418
+^ Games Magazine Online; Hall of Fame
+^ Pettengale, Paul (Christmas 1996). "Arcane Presents the Top 50 Roleplaying Games 1996". Arcane. Future Publishing (14): 25–35. 
+^ a b Goldberg, Eric (March 1980). "A Galaxy of Games". Ares Magazine. Simulations Publications, Inc. (1): 33. 
+^ "Although we have come a long way since D&D, the essential concept is still the same, and is one that will endure." (Darlington; "A History of Role-Playing Part IX").
+^ Rilstone; Role-Playing Games: An Overview
+^ Schick; Heroic Worlds, pp. 223–244
+^ Fine; Shared Fantasy, pp. 16–19
+^ Darlington; A History of Role-Playing Part V
+^ Darlington; A History of Role-Playing Part VIII
+^ Grady; In Genre
+^ PC Gamer; How Dungeons & Dragons shaped the modern videogame
+^ Boucher
+^ Sacco, Ciro Alessandro. "The Ultimate Interview with Gary Gygax". thekyngdoms.com. Retrieved 2014-09-02. 
+^ Appelcline, Shannon (July 16, 2008). "Games & The Law, Part Seven: The D&D Dilemma". Retrieved July 7, 2009. 
+^ Copyright conflicts with Tolkien Enterpises led to removal of references to Hobbits, Ents and others. (Hallford, Hallford; Swords & Circuitry)
+^ Wizards of the Coast; The d20 System
+^ Anonymous (July 9, 2008). "Kenzer & Co, D&D, and Trademarks". Robertson Games. Archived from the original on January 18, 2010. Retrieved July 7, 2009. 
+^ "Castles & Crusades is a fantasy RPG, clearly based upon the first edition of AD&D but with streamlined d20-like rules." (Mythmere; Castles & Crusades Players Handbook (4.6 stars))
+^ http://support.dmsguild.com/hc/en-us/articles/217520927-Ownership-and-License-OGL-Questions
+^ a b Cardwell; "The Attacks on Role-Playing Games"
+^ Williams, Tweet, Cook; Monster Manual, pp. 41,47)
+^ Gagne; Moral Panics Over Youth Culture and Video Games
+^ Darlington; A History of Role-Playing Part IV
+^ Hately; The Disappearance of James Dallas Egbert III (Part I)
+^ O'Connor; TV: 'Mazes and Monsters,' Fantasy
+^ Svitavsky; "Geek Culture" in The Bulletin of Bibliography 58 2
+^ Armando; "Emotional Stability Pertaining to Dungeons and Dragons" in Psychology in the Schools 84 (4)
+^ Judges Guild; "Interview with Dave Arneson" in Pegasus #1
+^ Rausch; Dave Arneson Interview
+^ Gygax; Gygax FAQ
+^ Curell; Dungeons & Dragons-30 Years and Going Strong
+^ Onion; "Bill Gates Grants Self 18 Dexterity, 20 Charisma" in The Onion 31 (21)
+^ Cohen, Keler, Rogers; Anthology of Interest I
+^ Manson, Marilyn; Strauss, Neil (1999). The Long Hard Road Out of Hell. HarperCollins. p. 26. ISBN 0-06-098746-4. 
+^ Diesel, Colbert, Lillard: Tonjes; Interview with Charles Ryan on the 2005 Worldwide Dungeons & Dragons Game Day
+^ Diesel, Williams, Moby, Lillard, Colbert: Shanafelt; The growing chic of geek
+^ Briggs; Duncan's unusual hobby and more unusual request
+^ Diesel contributed the introduction, and both Colbert and Wheaton page personal reflections to Johnson, et al.; 30 Years of Adventure
+^ Lees, Jennie. "Fear of Girls." Joystiq
+^ Haberman, Clyde. "When Dungeons & Dragons Set Off a 'Moral Panic'". The New York Times. Retrieved 18 April 2016. 
+
+
+References[edit]
+
+
+Allston, Aaron (1992). Wrath of the Immortals. TSR. ISBN 1-56076-412-0. 
+Appelcline, Shannon (2006). "Chaosium: 1975–present". A Brief History of Game. RPGnet. Retrieved August 13, 2007. 
+Arneson, Dave (June–July 1979). "My Life and Role Playing". Different Worlds #3. Chaosium: 6–9. 
+Birnbaum, Jon (July 20, 2004). "Gary Gygax Interview". Game Banshee. Archived from the original on March 2, 2009. Retrieved March 1, 2007.  Archived copy of the article, taken 2009-07-13: , page 2
+Bledsaw, Bob (July 1979). "From the Sorcerer's Scroll: What has Judges Guild done for Dungeons and Dragons". The Dragon #27. TSR Hobbies. IV (1): 10–11. 
+Boucher, Geoff (May 5, 2008). "Jon Favreau is the action figure behind 'Iron Man'". Los Angeles Times. Los Angeles Times. Archived from the original on May 17, 2008. Retrieved May 17, 2008. 
+Briggs, Jerry (November 30, 1997). "Duncan's unusual hobby and more unusual request". San Antonio Express-News (Texas). 
+Cardwell, Paul, Jr. (1994). "The Attacks on Role-Playing Games". Skeptical Inquirer. 18 (2): 157–165. Retrieved August 4, 2007. 
+Carter, Michele; et al. (2007). Wizards Presents Races and Classes. Wizards of the Coast. ISBN 978-0-7869-4801-7. 
+Cohen, David X.; Keeler, Ken; Rogers, Eric (writers) (2005-05-05). Futurama, Anthology of Interest I (Television production). 20th Century Fox Television. 
+Cook, Monte; Williams, Skip; Tweet, Jonathan (2003) [2000]. Dungeon Master's Guide v.3.5. revised by David Noonan, Rich Redman. Wizards of the Coast. ISBN 0-7869-2889-1. 
+Cook, Monte. "The Open Game License as I See It, Part II". montecook.com. Archived from the original on April 17, 2007. Retrieved March 15, 2007. 
+Currell, Latasha (September 1, 2004). "Dungeons and Dragons—30 Years and Going Strong". The Golden Gate [X]Press Online. The Journalism Department @ San Francisco State University. Archived from the original on November 4, 2004. Retrieved April 3, 2007. 
+Dancey, Ryan (February 7, 2000). "Adventure Game Industry Market Research Summary (RPGs)". V1.0. Wizards of the Coast. Retrieved February 23, 2007. 
+Darlington, Steven (August 1998). "A History of Role-Playing Part IV: Part Four: Hell and High Finance". Places to Go, People to Be (4). Retrieved April 3, 2007. 
+Darlington, Steven (November 1998). "A History of Role-Playing Part V: The Power and the Glory". Places to Go, People to Be. Places to Go, People to Be (5). Retrieved February 28, 2007. 
+Darlington, Steven (June 1999). "A History of Role-Playing Part VIII: Dark Times". Places to Go, People to Be. Places to Go, People to Be (8). Retrieved February 28, 2007. 
+Darlington, Steven (August 1999). "A History of Role-Playing Part IX: The End and The Beginning". Places to Go, People to Be. Places to Go, People to Be (9). Retrieved April 3, 2007. 
+Drout, Michael D. C. (2007). J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment. New York: Routledge. ISBN 978-0-415-96942-0. 
+Cook, David (1989b). Player's Handbook. TSR. ISBN 0-88038-716-5. 
+Cook, David (1995) [1989b]. Player's Handbook (Revised ed.). TSR. ISBN 0-7869-0329-5. 
+DeVarque, Aardy R. "Literary Sources of D&D". Rec.games.frp.dnd FAQs. Archived from the original on 2007-07-21. Retrieved February 21, 2007. 
+Fine, Gary Alan (2002). Shared Fantasy: Role Playing Games as Social Worlds. New York: University of Chicago Press. ISBN 0-226-24944-1. 
+Gagne, Kenneth A. (April 27, 2001). "Moral Panics Over Youth Culture and Video Games". Worcester Polytechnic Institute. Retrieved August 27, 2007. 
+Grady, RJ (August 4, 2004). "In Genre: THE DUNGEON". RPGnet. Retrieved April 5, 2007. 
+Grigg, Robert (June 16–20, 2005). "Albert Goes Narrative Contracting". DiGRA 2005 Papers. Vancouver, British Columbia, Canada: Simon Fraser University. Retrieved August 12, 2007. 
+Gygax, Gary (1979). Dungeon Masters Guide. TSR. ISBN 0-935696-02-4. 
+Gygax, Gary (April 1976). "The Dungeons and Dragons Magic System". The Strategic Review. TSR Hobbies. II (2). 
+Gygax, Gary; Arneson, Dave (1974). Dungeons & Dragons (3-Volume Set). TSR. 
+Gygax, Gary (December 1978). "Dungeons & Dragons: What Is It and Where Is It Going?". The Dragon #21. TSR. III (8): 29–30. ISSN 1062-2101. 
+Gygax, Gary (June 1979). "From the Sorcerer's Scroll: D&D, AD&D and Gaming". The Dragon #26. TSR Hobbies. III (12): 28–30. ISSN 1062-2101. 
+Gygax, Gary. "Gygax FAQ". The Creative World of Gary Gygax. Archived from the original on January 28, 1999. Retrieved July 4, 2006. 
+Gygax, Gary (1977). Monster Manual. TSR. ISBN 0-935696-00-8. 
+Gygax, Gary (March 1985). "On the influence of J.R.R. Tolkien on the D&D and AD&D games". Dragon #95. TSR Hobbies, Inc. IX (10): 12–13. ISSN 0279-6848. 
+Gygax, Gary (1978). Player's Handbook. TSR. ISBN 0-935696-01-6. 
+Hallford, N.; Hallford, J. (2001). Swords & Circuitry: A Designer's Guide to Computer Role Playing Games (1st ed.). Thomson Course Technology PTR. p. 39. ISBN 0-7615-3299-4. 
+Hately, Shaun (February 1999). "The Disappearance of James Dallas Egbert III (Part I)". Places to Go, People to Be (6). Retrieved February 21, 2007. 
+Heinsoo, Rob; Collins, Andy; Wyatt, James (2008). Player's Handbook. Wizards of the Coast. ISBN 978-0-7869-4867-3. 
+Hite, Kenneth (March 30, 2006). "State of the Industry 2005: Another Such Victory Will Destroy Us". GamingReport.com. Archived from the original on February 4, 2009. Retrieved February 21, 2007. 
+Johnson, Harold; et al. (2004). 30 Years of Adventure: A Celebration of Dungeons & Dragons. Wizards of the Coast. ISBN 0-7869-3498-0. 
+Kuntz, Rob (April 1978). "Tolkien in Dungeons & Dragons". The Dragon #13. TSR Hobbies, Inc. II (7). 
+Kushner, David (March 10, 2008). "Dungeon Master: The Life and Legacy of Gary Gygax". Wired.com. Archived from the original on November 13, 2012. Retrieved October 16, 2008. 
+Leckart, Steven (June 26, 2007). "Ratatouille Star Patton Oswalt on Geeks vs. Nerds". Wired. 15 (7). 
+McCuen, Mike (2002). "15mm Battlesystem Paladin 1994". Small Obsessions. Archived from the original on June 8, 2007. Retrieved March 17, 2007. 
+Mead, Lawrence; Malcomson, Ian (2003). "Dungeons & Dragons FAQ". Wizards of the Coast. Retrieved October 3, 2008. 
+Mentzer, Frank (1984). Dungeons & Dragons (Set 3: Companion Rules). TSR. ISBN 0-88038-340-2. 
+Mentzer, Frank (1986). Dungeons & Dragons (Set 5: Immortal Rules). TSR. ISBN 0-88038-341-0. 
+Mohan, Kim (1986). Wilderness Survival Guide. TSR. ISBN 0-88038-291-0. 
+Moore, Jeff. "15mm Scale Fantasy Figures". Humberside Wargames Society. Archived from the original on 2007-04-06. Retrieved March 17, 2007. 
+Mythmere. "Castles & Crusades Players Handbook (4.6 stars)". Mythmere's Wondrous Resource. Retrieved March 19, 2007. 
+O'Connor, John (December 28, 1982). "TV: 'Mazes and Monsters,' Fantasy". New York Times. Retrieved August 4, 2007. 
+Pope, Thomas (March 25, 2004). "Grenadier Models, Advanced Dungeons and Dragons". The Stuff of Legends. Retrieved February 21, 2007. 
+Pope, Thomas (February 27, 2000). "Ral Partha". The Stuff of Legends. Retrieved February 28, 2007. 
+Pope, Thomas (November 5, 1999). "TSR". The Stuff of Legends. Retrieved February 28, 2007. 
+Pramas, Chris (July 14, 2008). "Green Ronin and Fourth Edition D&D". Green Ronin. Retrieved November 20, 2008. 
+Pryor, Tony; Herring, Tony; Tweet, Jonathan; Richie, Norm (1993). Creative Campaigning. TSR. ISBN 1-56076-561-5. 
+Rausch, Allen (August 19, 2004). "Dave Arneson Interview". GameSpy. Retrieved February 23, 2007. 
+Rilstone, Andrew (1994). "Role-Playing Games: An Overview". The Oracle. Archived from the original on August 23, 2000. Retrieved April 4, 2007. 
+Roberts, Tara (September 13, 2005). "'D&D' players defy stereotypes". The Argonaut. University of Idaho. Retrieved April 3, 2007. [permanent dead link]
+Schend, Steven E.; Pickens, Jon; Warty, Dori, eds. (1991). Rules Cyclopedia. TSR. ISBN 1-56076-085-0. 
+Schick, Lawrence (1991). Heroic Worlds: A History and Guide to Role-Playing Games. Amherst, New York: Prometheus Books. ISBN 0-87975-653-5. 
+Scott, Richard. "Otherworld, The Citadel AD&D Miniatures Range". Otherworld Miniatures. Retrieved February 21, 2007. 
+Shanafelt, Steve (November 2, 2005). "The growing chic of geek: How turning 30 made Dungeons & Dragons feel young again". Mountain Xpress. 12 (14). Retrieved August 4, 2007. 
+Simon, Armando (October 1987). "Emotional Stability Pertaining to Dungeons and Dragons". Psychology in the Schools. 24 (4): 329–332. doi:10.1002/1520-6807(198710)24:4<329::AID-PITS2310240406>3.0.CO;2-9. 
+Slavicsek, Bill (October 19, 2007). "Ampersand: Exciting News!". Wizards of the Coast. Archived from the original on June 19, 2009. Retrieved October 22, 2007. 
+Slavicsek, Bill; Sernett, Matthew (2006). Dungeons & Dragons Basic Game. Wizards of the Coast. ISBN 0-7869-3944-3. 
+Slavicsek, Bill; Baker, Richard (2005). Dungeons & Dragons for Dummies. Wiley Publishing. ISBN 0-7645-8459-6. 
+Svensson, Peter (July 21, 2008). "Dungeons & Dragons reborn". Associated Press. Archived from the original on 2008-08-22. Retrieved November 17, 2008. 
+Svitavsky, William (June 2001). "Geek Culture: An Annotated Interdisciplinary Bibliography". The Bulletin of Bibliography. 58 (2): 101–108. Archived from the original on April 14, 2013. Retrieved November 25, 2008. 
+Thorn, Mike (June 9, 2006). "Review of Hackmaster 4th Edition". RPGnet. Retrieved March 19, 2007. 
+Tonjes, Wayne (October 19, 2005). "Interview with Charles Ryan on the 2005 Worldwide Dungeons & Dragons Game Day". Gaming Report. Archived from the original on February 21, 2009. Retrieved August 4, 2007. 
+Tweet, Jonathan (2004). Dungeons & Dragons Basic Game. Wizards of the Coast. ISBN 0-7869-3409-3. 
+Tweet, Jonathan; Cook, Monte; Williams, Skip (2000). Player's Handbook. Wizards of the Coast. ISBN 0-7869-1550-1. 
+Tweet, Jonathan; Cook, Monte; Williams, Skip (2003) [2000]. Player's Handbook v.3.5. revised by Collins, Andy. Wizards of the Coast. ISBN 0-7869-2886-7. 
+Tweet, Jonathan (May 20, 2004). "What Are D&D Miniatures?". Wizards of the Coast. Retrieved February 28, 2007. 
+Waldron, David (Spring 2005). "Role-Playing Games and the Christian Right: Community Formation in Response to a Moral Panic". Journal of Religion and Popular Culture. Department of Religious Studies and Anthropology, The University of Saskatchewan. IX. Archived from the original on February 4, 2012. Retrieved February 27, 2007. 
+Ward, James M. (February 1990). "The Games Wizards: Angry Mothers From Heck (And what we do about them)". Dragon Magazine #154. XIV (9): 9. ISSN 0279-6848. 
+Waskul, Dennis; Lust, Matt (2004). "Role-Playing and Playing Roles: The Person, Player, and Persona in Fantasy Role-Playing" (PDF). Caliber. 27 (3): 222–256. doi:10.1525/si.2004.27.3.333. Archived from the original (PDF) on 2012-12-04. Retrieved December 23, 2008. 
+Waters, Darren (April 26, 2004). "What happened to Dungeons and Dragons?". BBC News Online. Retrieved February 21, 2007. 
+Williams, J. P.; Hendricks, S. Q.; Winkler, W. K. (2006). Williams, J. Patrick; Hendricks, Sean Q.; Winkler, W. Keith, eds. Gaming as Culture, Essays on Reality, Identity and Experience in Fantasy Games. McFarland & Company: Oxford University Press. ISBN 0-7864-2436-2. 
+Williams, Skip (1995). Dungeon Master Option: High Level Campaigns. TSR. ISBN 0-7869-0168-3. 
+Williams, Skip; Tweet, Jonathan; Cook, Monte (2000). Monster Manual. Wizards of the Coast. ISBN 0-7869-1552-8. 
+
+Unknown author[edit]
+
+"Archive of List of Origins Award Winners". Academy of Adventure Gaming Arts and Design. 2006. Archived from the original on 2007-01-25. Retrieved February 22, 2007.  – select year on right of page.
+"Hall of Fame". Academy of Adventure Gaming Arts and Design. 2006. Archived from the original on 2007-06-26. Retrieved July 6, 2007. 
+"List of Winners". Academy of Adventure Gaming Arts & Design. 2001. Archived from the original on 2007-08-30. Retrieved September 1, 2007. 
+"Hall of Fame". Games Magazine Online. 2007. Archived from the original on August 12, 2007. Retrieved August 13, 2007. 
+"Dungeon Crawl Classics". Goodman Games. Archived from the original on 2007-03-24. Retrieved March 20, 2007. 
+"D20 Products with 3rd Edition Rules, 1st Edition Feel". Necromancer Games. 2007. Archived from the original on August 7, 2007. Retrieved August 21, 2007. 
+"Paizo Publishing Announces the Pathfinder RPG". Paizo Publishing. March 18, 2008. Retrieved November 21, 2008. 
+"How Dungeon & Dragons shaped the modern videogame". PC Gamer. Future Publishing Limited. February 8, 2007. Retrieved April 3, 2007. 
+"Castle Zagyg Product Page". Troll Lord Games. [permanent dead link]
+"The d20 System". Wizards of the Coast. Retrieved August 14, 2007. 
+"Dungeons & Dragons Flashes 4-ward at Gen Con" (PDF). Wizards of the Coast. August 16, 2007. Retrieved August 19, 2007. 
+"The History of TSR". Wizards of the Coast. Archived from the original on October 4, 2008. Retrieved August 20, 2005. 
+"What Is D&D?". Wizards of the Coast. Retrieved February 21, 2007. 
+"Wizards of the Coast at Gen Con!". Wizards of the Coast. 2007. Retrieved August 18, 2007. 
+"Mike Myers". Inside the Actors' Studio. Season 7. Episode 9. February 4, 2001. 
+"Countdown to 3rd Edition: Feats and Fighters". Dragon #270. Wizards of the Coast. XXIV (11): 30–31. April 2000. ISSN 1062-2101. 
+"Bill Gates Grants Self 18 Dexterity, 20 Charisma". The Onion. Onion. 31 (21). June 18, 1997. Archived from the original on April 1, 2007. Retrieved April 3, 2007. 
+"Interview with Dave Arneson". Pegasus. Judges Guild (1). April–May 1981. Archived from the original on March 21, 2009. Retrieved February 23, 2007. 
+Rouchart, Sandy; Aylett, Ruth (2003). Rist, Thomas, ed. Solving the Narrative Paradox in VEs — Lessons from RPGs. Intelligent Virtual Agents: 4th International Workshop. Springer. ISBN 978-3-540-20003-1. 
+
+
+Further reading[edit]
+
+
+Barrowcliffe, Mark (2008). The Elfish Gene: Dungeons, Dragons and Growing Up Strange. Soho Press. ISBN 978-1-56947-601-7. 
+Bebergal, Peter (November 15, 2004). "How 'Dungeons' Changed the World". The Boston Globe. The New York Times Company. Retrieved January 4, 2008. 
+Edwards, Ron. "A Hard Look at Dungeons and Dragons". The Forge. Retrieved February 23, 2007.  An essay on the early history of the D&D hobby.
+Ewalt, David M. (2013). Of Dice and Men: The Story of Dungeons & Dragons and the People Who Play It. New York: Scribner. ISBN 978-1-4516-4050-2. OCLC 800031925.  Includes a suggested reading list on pages 255–256.
+Fannon, Sean Patrick. The Fantasy Roleplaying Gamer's Bible, 2nd Edition. Obsidian Studios, 1999. ISBN 0-9674429-0-7
+Garfield, Richard (2007). "Dungeons & Dragons". In Lowder, James. Hobby Games: The 100 Best. Green Ronin Publishing. pp. 86–89. ISBN 978-1-932442-96-0. 
+Gilsdorf, Ethan (2009). Fantasy Freaks and Gaming Geeks. Lyons Press. ISBN 978-1-59921-480-1. 
+Gygax, Gary. Roleplaying Mastery. New York: Perigee, 1987. ISBN 0-399-51293-4.
+Gygax, Gary. Master of the Game. New York: Perigee, 1989. ISBN 0-399-51533-X.
+Miller, John J. "I Was a Teenage Half-Orc", National Review Online, October 15, 2004.
+Miller, John J. "Dungeons & Dragons In a Digital World", The Wall Street Journal, July 1, 2008.
+Mitchell-Smith, Ilan (June 16, 2009). "Chapter 11: Racial Determinism in the Interlocking Economies of Power and Violence in Dungeons & Dragons". In Carley, Robert. Coopting Culture. Lexington/Rowman & Littlefield Books. pp. 207–224. ISBN 978-0739125977. 
+Mona, Erik. "From the Basement to the Basic Set: The Early Years of Dungeons & Dragons". The MIT Press. Retrieved May 6, 2009. 
+Peterson, Jon. Playing at the World: A History of Simulating Wars, People and Fantastic Adventures, from Chess to Role-Playing Games. San Diego: Unreason, 2012. ISBN 978-0-615-64204-8.
+Pulsipher, Lew (1983). "Introduction to Dungeons & Dragons, Parts I–V". The Best of White Dwarf. Games Workshop (Articles Volume II): 10–18. 
+Slavicsek, Bill; Baker, Richard (2006). Dungeon Master for Dummies. Wiley Publishing. ISBN 0-471-78330-7. 
+Wagner, James (March 29, 2000). "Opening the dungeon". Salon. Archived from the original on March 12, 2005.  An article about the conflict over the proprietary or open-source nature of Dungeons & Dragons.
+Studies about fantasy roleplaying games – a list of academic articles about RPGs
+Gamespy's 30th Anniversary of Dungeons & Dragons special
+
+
+External links[edit]
+
+Find more aboutDungeons & Dragonsat Wikipedia's sister projects
+
+Definitions from Wiktionary
+Media from Commons
+Textbooks from Wikibooks
+
+
+
+Listen to this article (info/dl)
+
+
+
+
+
+
+
+
+
+
+
+This audio file was created from a revision of the article "Dungeons & Dragons" dated 2008-11-22, and does not reflect subsequent edits to the article. (Audio help)
+More spoken articles
+
+
+Official website
+Dungeons & Dragons at DMOZ
+Off Book (June 20, 2013). "Dungeons & Dragons and the Influence of Tabletop RPGs". PBS. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dungeons & Dragons
+
+
+
+
+
+
+
+
+Basics
+
+
+
+
+
+
+
+General
+
+
+
+Controversies
+Editions
+Gen Con
+Popular culture
+Related products
+Retro-clones
+RPGA
+Sources and influences
+
+
+
+
+
+Gameplay
+
+
+
+Adventures
+Alignment
+Dungeon Master
+Game mechanics
+Magic
+Magic item
+
+major artifacts
+
+
+Miniatures
+
+
+
+
+
+Creators
+
+
+
+Dave Arneson
+Keith Baker
+Ed Greenwood
+Jeff Grubb
+Gary Gygax
+Tracy Hickman
+Robert J. Kuntz
+Mike Mearls
+Frank Mentzer
+Chris Perkins
+Jim Ward
+Margaret Weis
+
+
+
+
+
+Companies
+
+
+
+Grenadier Models
+Hasbro
+Judges Guild
+Paizo
+Ral Partha
+Strategic Simulations
+TSR
+Wizards of the Coast
+
+
+
+
+
+Licenses
+
+
+
+Game System License
+Open Game License
+System Reference Document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geography and cosmology
+
+
+
+
+
+
+
+Campaign settings
+
+
+
+Al-Qadim
+Birthright
+Blackmoor
+Council of Wyrms
+Dark Sun
+Dragonlance
+Eberron
+Forgotten Realms
+Ghostwalk
+Greyhawk
+Kara-Tur
+Mystara
+Planescape
+Ravenloft
+Spelljammer
+
+
+
+
+
+Worlds
+
+
+
+Abeir-Toril
+Eberron
+Krynn
+Mystara
+Oerth
+Underdark
+
+
+
+
+
+Planes of existence
+
+
+
+Prime Material Plane
+Inner Plane
+Outer Plane
+Far Realm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Player characters
+
+
+
+
+
+
+
+Races
+
+
+
+Dragonborn
+Dwarf
+Eladrin
+Elf
+Gnome
+Halfling
+Half-elf
+Half-orc
+Human
+Tiefling
+
+
+
+
+
+Classes
+
+
+
+Barbarian
+Bard
+Cleric
+Druid
+Fighter
+Magic-User/Mage/Wizard
+Monk/Mystic
+Paladin
+Ranger
+Sorcerer
+Thief/Rogue
+Warlock
+List of alternative classes
+
+
+
+
+
+Character lists
+
+
+
+Dragonlance
+Forgotten Realms
+Greyhawk
+Ravenloft
+
+
+
+
+
+Notable characters
+
+
+
+Drizzt Do'Urden
+Elminster
+Iggwilv
+Raistlin Majere
+Mordenkainen
+Lord Soth
+Strahd von Zarovich
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beasts and other beings
+
+
+
+
+
+
+
+Creatures
+and
+monsters
+
+
+
+
+Creature types
+
+
+
+Aberration
+Celestials
+Constructs
+Deathless
+Draconic creatures
+Dragons
+
+Chromatic dragon
+Metallic dragon
+
+
+Elementals
+Fey
+Fiends
+Giants
+Humanoids
+Lycanthropes
+Monstrous humanoids
+Oozes
+Outsiders
+Undead
+
+
+
+
+
+Notable
+
+
+
+Beholder
+Drow (dark elf)
+Githyanki
+Illithid (mind flayer)
+Lich
+
+
+
+
+
+Lists by edition
+
+
+
+Original
+Classic
+AD&D 1st edition
+AD&D 2nd edition
+D&D 3rd edition
+D&D v3.5
+D&D 4th edition
+D&D 5th edition
+
+
+
+
+
+List of monsters
+
+
+
+A
+B
+
+
+
+
+
+
+
+
+Deities
+and
+powers
+
+
+
+
+Human and demihuman
+
+
+
+Human
+Dwarven deities
+Elven deities (Seldarine)
+Gnome deities
+Halfling deities
+
+
+
+
+
+Monster
+
+
+
+Archdevils
+Demon lords
+Dragon deities
+Drow deities (Dark Seldarine)
+Fey deities (Seelie Court)
+Giant deities
+Goblinoid deities
+Orc deities
+
+
+
+
+
+Lists by setting
+
+
+
+Dragonlance deities
+Forgotten Realms deities
+Greyhawk deities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publications
+
+
+
+
+
+
+
+Core rulebooks
+
+
+
+Player's Handbook
+Dungeon Master's Guide
+Monster Manual
+
+
+
+
+
+Classic rule sets
+
+
+
+Dungeons & Dragons (Original)
+Basic Set
+Expert
+Companion
+Master
+Immortals
+Classic
+Rules Cyclopedia
+Wrath of the Immortals
+
+
+
+
+
+Supplements
+
+
+
+Arms and Equipment Guide
+Battlesystem
+Book of Exalted Deeds
+Book of Vile Darkness
+Deities & Demigods
+Draconomicon
+Dungeon Master Option: High-Level Campaigns
+Fiend Folio
+Forgotten Realms Campaign Setting
+Libris Mortis
+Manual of the Planes
+Player's Option: Combat & Tactics
+Player's Option: Skills & Powers
+Player's Option: Spells & Magic
+Psionics Handbook
+
+AD&D 2nd edition
+D&D 3rd edition
+D&D v3.5 Expanded and Complete
+
+
+Unearthed Arcana
+
+
+
+
+
+Periodicals
+
+
+
+Dragon
+Dungeon
+Imagine
+Living Greyhawk Journal
+Polyhedron
+
+
+
+
+
+Notable
+modules
+
+
+
+List of Eberron modules and sourcebooks
+Against the Giants
+Dead Gods
+Desert of Desolation
+Dragonlance
+Expedition to the Barrier Peaks
+The Gates of Firestorm Peak
+The Isle of Dread
+The Keep on the Borderlands
+The Lost Caverns of Tsojcanth
+Queen of the Spiders
+Ravenloft
+Red Hand of Doom
+The Ruins of Undermountain
+The Temple of Elemental Evil
+Tomb of Horrors
+White Plume Mountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video games
+
+
+
+
+
+
+
+Early games (1975–1983)
+
+
+
+D&D Computer Labyrinth Game
+D&D Computer Fantasy Game
+AD&D: Cloudy Mountain
+AD&D: Treasure of Tarmin
+
+
+
+
+
+Baldur's Gate series
+
+
+
+
+Bhaalspawn Saga
+
+
+
+Baldur's Gate
+
+Tales of the Sword Coast
+Enhanced Edition
+Siege of Dragonspear
+
+
+Baldur's Gate II: Shadows of Amn
+
+Throne of Bhaal
+Enhanced Edition
+
+
+
+
+
+
+
+Dark Alliance
+
+
+
+Baldur's Gate: Dark Alliance
+Baldur's Gate: Dark Alliance II
+
+
+
+
+
+
+
+
+Icewind Dale series
+
+
+
+Icewind Dale
+
+Heart of Winter
+Icewind Dale: Enhanced Edition
+
+
+Icewind Dale II
+
+
+
+
+
+Neverwinter Nights
+series
+
+
+
+Neverwinter Nights
+
+Shadows of Undrentide
+Hordes of the Underdark
+Kingmaker
+Darkness over Daggerford
+
+
+Neverwinter Nights 2
+
+Mask of the Betrayer
+Storm of Zehir
+Mysteries of Westgate
+
+
+
+
+
+
+
+Pool of Radiance series
+
+
+
+Pool of Radiance
+Curse of the Azure Bonds
+Secret of the Silver Blades
+Pools of Darkness
+Ruins of Myth Drannor
+
+
+
+
+
+Savage Frontier series
+
+
+
+Gateway to the Savage Frontier
+Neverwinter Nights
+Treasures of the Savage Frontier
+
+
+
+
+
+Other games by
+campaign setting
+
+
+
+
+Dark Sun
+
+
+
+Dark Sun: Shattered Lands
+Dark Sun: Wake of the Ravager
+Dark Sun Online: Crimson Sands
+
+
+
+
+
+Dragonlance
+
+
+
+Heroes of the Lance
+Dragons of Flame
+War of the Lance
+DragonStrike
+Shadow Sorcerer
+Champions of Krynn
+Death Knights of Krynn
+The Dark Queen of Krynn
+
+
+
+
+
+Eberron
+
+
+
+D&D: Dragonshard
+D&D Online: Stormreach
+
+
+
+
+
+Forgotten
+Realms
+
+
+
+Hillsfar
+Eye of the Beholder
+Eye of the Beholder II: The Legend of Darkmoon
+Eye of the Beholder III: Assault on Myth Drannor
+Dungeon Hack
+Unlimited Adventures
+Menzoberranzan
+Blood & Magic
+Descent to Undermountain
+Demon Stone
+Daggerdale
+Neverwinter
+Lords of Waterdeep
+Sword Coast Legends
+
+
+
+
+
+Mystara
+
+
+
+Order of the Griffon
+Warriors of the Eternal Sun
+Fantasy Empires
+Tower of Doom
+Shadow over Mystara
+Collection
+Chronicles of Mystara
+
+
+
+
+
+Ravenloft
+
+
+
+Ravenloft: Strahd's Possession
+Ravenloft: Stone Prophet
+Iron & Blood: Warriors of Ravenloft
+
+
+
+
+
+Various
+settings
+
+
+
+Spelljammer: Pirates of Realmspace
+D&D: Stronghold
+AD&D: Slayer
+DeathKeep
+Al-Qadim: The Genie's Curse
+Birthright: The Gorgon's Alliance
+Planescape: Torment
+D&D: Heroes
+The Temple of Elemental Evil
+D&D: Tactics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links to related articles
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dungeons & Dragons in media
+
+
+
+Film
+
+
+
+Dungeons & Dragons (2000)
+Dungeons & Dragons: Wrath of the Dragon God (2005)
+Dungeons & Dragons: The Book of Vile Darkness (2012)
+
+
+
+
+
+Other media
+
+
+
+Dungeons & Dragons (1983 TV series
+episodes)
+Dungeons & Dragons (2003 album)
+Dungeons & Dragons (2010 comic book series)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Dungeons & Dragons rulebooks and accessories
+
+
+
+
+
+
+
+
+Original Dungeons & Dragons
+
+
+
+
+
+
+
+Core
+
+
+
+Dungeons & Dragons
+Chainmail
+
+
+
+
+
+Supplements
+
+
+
+Supplement I: Greyhawk
+Supplement II: Blackmoor
+Supplement III: Eldritch Wizardry
+Supplement IV: Gods, Demi-Gods, and Heroes
+Swords & Spells
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basic Dungeons & Dragons
+
+
+
+
+
+
+
+Core
+
+
+
+Basic Set
+Expert Set
+Companion Set
+Master Rules
+Immortals Rules
+Dungeons & Dragons Game (1991)
+Rules Cyclopedia
+Wrath of the Immortals
+
+
+
+
+
+Supplements
+
+
+
+Creature Catalogue
+The Shady Dragon Inn
+
+
+
+
+
+Modules
+
+
+
+Adventures in Blackmoor
+Castle Amber
+Castle Caldwell and Beyond
+City of the Gods
+Combat Shield and Mini-adventure
+Curse of Xanathon
+Death's Ride
+The Duchy of Ten
+Earthshaker!
+The Endless Stair
+The Gem and the Staff
+Ghost of Lion Castle
+Horror on the Hill
+In Search of Adventure
+In Search of the Unknown
+The Isle of Dread
+The Jade Hare
+The Keep on the Borderlands
+The Kidnapping of Princess Arelina
+Legacy of Blood
+The Lost City
+Master Player Screen
+Mystery of the Snow Pearls
+Night's Dark Terror
+Palace of the Silver Princess
+Queen's Harvest
+Rahasia
+The Revenge of Rusak
+Sabre River
+Temple of the Frog
+Test of the Warlords
+The Tree of Life
+The Veiled Society
+War Rafts of Kron
+Where Chaos Reigns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Dungeons & Dragons
+
+
+
+
+
+
+
+Core
+
+
+
+Players Handbook
+Dungeon Masters Guide
+Monster Manual
+
+
+
+
+
+Supplements
+
+
+
+Deities & Demigods
+Dragonlance Adventures
+Dungeoneer's Survival Guide
+Empires of the Sands
+Fiend Folio
+Forgotten Realms Campaign Set
+Greyhawk Adventures
+Lords of Darkness
+The Magister
+Manual of the Planes
+Monster Manual II
+Moonshae
+Oriental Adventures
+The Savage Frontier
+Unearthed Arcana
+Waterdeep and the North
+Wilderness Survival Guide
+World of Greyhawk Fantasy Game Setting
+
+
+
+
+
+Modules
+
+
+
+Against the Cult of the Reptile God
+Against the Giants
+The Assassin's Knot
+Assault on the Aerie of the Slave Lords
+The Bane of Llywelyn
+Beyond the Crystal Cave
+Blood of the Yakuza
+Bloodstone Pass
+The Bloodstone Wars
+Castle Greyhawk
+Conan Against Darkness!
+Conan Unchained!
+Danger at Dunwater
+Day of Al'Akbar
+Deep Dwarven Delve
+Descent into the Depths of the Earth
+Dragonlance modules
+Dragons of Despair
+Dungeonland
+Dwellers of the Forbidden City
+The Final Enemy
+The Forest Oracle
+Forgotten Temple of Tharizdun
+The Gauntlet
+The Ghost Tower of Inverness
+Glacial Rift of the Frost Giant Jarl
+Hall of the Fire Giant King
+The Hidden Shrine of Tamoachan
+In the Dungeons of the Slave Lords
+Isle of the Ape
+The Land Beyond the Magic Mirror
+Lost Caverns of Tsojcanth
+The Lost Island of Castanamir
+Lost Tomb of Martek
+The Mines of Bloodstone
+Oasis of the White Palm
+Pharaoh
+Queen of the Demonweb Pits
+Queen of the Spiders
+Ravager of Time
+Ravenloft
+Ravenloft II: The House on Gryphon Hill
+Red Sonja Unconquered
+Ruins of Adventure
+Scourge of the Slave Lords
+The Secret of Bone Hill
+Secret of the Slavers Stockade
+The Sentinel
+Shrine of the Kuo-Toa
+Sinister Secret of Saltmarsh
+Slave Pits of the Undercity
+Steading of the Hill Giant Chief
+Swords of Deceit
+Swords of the Undercity
+The Temple of Elemental Evil
+The Throne of Bloodstone
+To Find a King
+Tomb of Horrors
+Tomb of the Lizard King
+Treasure Hunt
+Under Illefarn
+Vault of the Drow
+The Village of Hommlet
+White Plume Mountain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Dungeons & Dragons 2nd edition
+
+
+
+
+
+
+
+Core
+
+
+
+Player's Handbook
+Dungeon Master's Guide
+Monstrous Compendium/Monstrous Manual
+
+
+
+
+
+Supplements
+
+
+
+Anauroch
+Arms and Equipment Guide
+Book of Artifacts
+The Code of the Harpers
+The Complete Book of Dwarves
+The Complete Book of Humanoids
+The Complete Fighter's Handbook
+The Complete Psionics Handbook
+The Dalelands
+Demihuman Deities
+Draconomicon
+Drow of the Underdark
+Dwarves Deep
+Earth, Air, Fire, and Water
+Faiths & Avatars
+Forgotten Realms Adventures
+The Forgotten Realms Atlas
+Forgotten Realms Campaign Setting
+From the Ashes
+Greyhawk: The Adventure Begins
+A Guide to the Astral Plane
+Hall of Heroes
+Heroes' Lorebook
+Iuz the Evil
+Jungles of Chult
+Legends & Lore
+The Marklands
+Monster Mythology
+Old Empires
+Ruins of Undermountain
+The Shining South
+Tome of Magic
+Villains' Lorebook
+
+
+
+
+
+Adventures
+
+
+
+Against the Giants: The Liberation of Geoff
+The Bloodstone Lands
+Border Watch
+The City of Skulls
+Crypt of Lyzandred the Mad
+Die Vecna Die!
+The Doomgrinder
+Doom of Daggerdale
+Fate of Istus
+Five Shall Be One
+Gargoyle
+Greyhawk Ruins
+Halls of the High King
+House of Strahd
+Howl from the North
+Mordenkainen's Fantastic Adventure
+Night Below: An Underdark Campaign
+Patriots of Ulek
+Rary the Traitor
+Return of the Eight
+Return to the Keep on the Borderlands
+Return to the Tomb of Horrors
+Return to White Plume Mountain
+Slavers
+The Star Cairns
+Treasures of Greyhawk
+Vecna Lives!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dungeons & Dragons 3rd edition
+
+
+
+
+
+
+
+Core
+
+
+
+Player's Handbook
+Dungeon Master's Guide
+Monster Manual
+
+
+
+
+
+Supplements
+
+
+
+Arms and Equipment Guide
+Book of Challenges
+Book of Vile Darkness
+Defenders of the Faith
+Deities and Demigods
+Enemies and Allies
+Epic Level Handbook
+Faiths and Pantheons
+Fiend Folio
+Forgotten Realms Campaign Setting
+Ghostwalk
+Hero Builder's Guidebook
+Living Greyhawk Gazetteer
+Lords of Darkness
+Magic of Faerûn
+Monsters of Faerûn
+Manual of the Planes
+Masters of the Wild
+Monster Manual II
+Oriental Adventures
+Psionics Handbook
+Races of Faerûn
+Savage Species
+Song and Silence
+Stronghold Builder's Guidebook
+Sword and Fist
+Tome and Blood
+
+
+
+
+
+Adventures
+
+
+
+City of the Spider Queen
+The Fright at Tristor
+Return to the Temple of Elemental Evil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dungeons & Dragons v3.5
+
+
+
+
+
+
+
+Core
+
+
+
+Player's Handbook
+Dungeon Master's Guide
+Monster Manual
+Dungeons & Dragons Basic Game
+
+
+
+
+
+Supplements
+
+
+
+An Adventurer's Guide to Eberron
+Book of Exalted Deeds
+City of Splendors: Waterdeep
+City of Stormreach
+Cityscape
+Complete Adventurer
+Complete Arcane
+Complete Champion
+Complete Divine
+Complete Mage
+Complete Psionic
+Complete Scoundrel
+Complete Warrior
+Draconomicon
+Dragon Magic
+Dragonmarked
+Dragons of Eberron
+Dragons of Faerûn
+Drow of the Underdark
+Dungeon Master's Guide II
+Dungeonscape
+Eberron Campaign Setting
+Elder Evils
+Expanded Psionics Handbook
+Faiths of Eberron
+Fiendish Codex I: Hordes of the Abyss
+Fiendish Codex II: Tyrants of the Nine Hells
+Five Nations
+The Forge of War
+Frostburn
+The Grand History of the Realms
+Heroes of Battle
+Heroes of Horror
+Libris Mortis
+Lords of Madness
+Lost Empires of Faerûn
+Magic Item Compendium
+Magic of Incarnum
+Miniatures Handbook
+Monster Manual III
+Monster Manual IV
+Monster Manual V
+Planar Handbook
+Player's Handbook II
+Races of Destiny
+Races of the Dragon
+Races of Stone
+Races of the Wild
+Sandstorm
+Spell Compendium
+Stormwrack
+Tome of Battle
+Tome of Magic
+Underdark
+Unearthed Arcana
+Weapons of Legacy
+
+
+
+
+
+Adventures
+
+
+
+Expedition to Castle Ravenloft
+Expedition to the Demonweb Pits
+Expedition to the Ruins of Greyhawk
+Fantastic Locations: Dragondown Grotto
+Red Hand of Doom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dungeons & Dragons 4th edition
+
+
+
+
+
+
+
+Core
+
+
+
+Player's Handbook
+Dungeon Master's Guide
+Monster Manual
+
+
+
+
+
+Supplements
+
+
+
+Arcane Power
+Divine Power
+Dark Sun Campaign Setting
+Dungeon Master's Guide 2
+Draconomicon: Chromatic Dragons
+Draconomicon: Metallic Dragons
+Eberron Campaign Guide
+Eberron Player's Guide
+Forgotten Realms Campaign Guide
+Forgotten Realms Player's Guide
+Manual of the Planes
+Martial Power
+Martial Power 2
+Monster Manual 2
+Monster Manual 3
+Player's Handbook 2
+Player's Handbook 3
+Primal Power
+Psionic Power
+
+
+
+
+
+Adventures
+
+
+
+Assault on Nightwyrm Fortress
+Demon Queen's Enclave
+Keep on the Shadowfell
+King of the Trollhaunt Warrens
+Pyramid of Shadows
+Thunderspire Labyrinth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dungeons & Dragons 5th edition
+
+
+
+
+
+
+
+Core
+
+
+
+Player's Handbook
+Dungeon Master's Guide
+Monster Manual
+
+
+
+
+
+Supplements
+
+
+
+Elemental Evil Player's Companion
+Sword Coast Adventurer's Guide
+Volo's Guide to Monsters
+Xanathar's Guide to Everything
+
+
+
+
+
+Adventures
+
+
+
+Hoard of the Dragon Queen
+Rise of Tiamat
+Princes of the Apocalypse
+Out of the Abyss
+Curse of Strahd
+Storm King's Thunder
+Tales from the Yawning Portal
+Tomb of Annihilation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General
+
+
+
+
+
+
+Dragon
+Dungeon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+d20 System
+
+
+
+
+Role-playing game system published by Wizards of the Coast
+
+
+
+Main authors
+
+
+
+Monte Cook
+Jonathan Tweet
+Skip Williams
+
+
+
+
+
+
+
+
+Games
+
+
+
+Dungeons & Dragons
+d20 Modern
+
+d20 Future
+d20 Apocalypse
+d20 Past
+
+
+Star Wars Roleplaying Game
+The Wheel of Time Roleplaying Game
+
+
+
+
+
+Licensing
+
+
+
+System Reference Document
+Open Game License
+Game System License
+
+
+
+
+
+Derived games
+
+
+
+Dragonstar
+Mutants & Masterminds
+Castles & Crusades
+Pathfinder Roleplaying Game
+Dungeon Crawl Classics
+13th Age
+Starfinder Roleplaying Game
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Hasbro
+
+
+
+Intellectual properties
+currently managed
+by Hasbro
+
+
+
+
+Toys
+
+
+
+Action Man
+Baby Alive
+Blythe
+Easy-Bake Oven
+Furby
+G.I. Joe
+Glo Worm
+Jem
+Koosh
+Kre-O
+Lite-Brite
+Littlest Pet Shop
+Mighty Muggs
+Mr. Potato Head
+My Little Pony
+Nerf
+Play-Doh
+Pound Puppies
+Rubik's Cube
+Sit 'n Spin
+Spirograph
+Stickle Bricks
+Super Soaker
+Tinkertoy
+Tonka
+Transformers
+Weeble
+
+
+
+
+
+Games
+
+
+
+Acquire
+Aggravation
+Axis & Allies
+Barrel of Monkeys
+Battleship
+Boggle
+Bop It
+Buckaroo!
+Candy Land
+Catch Phrase
+Chutes & Ladders
+Clue
+Connect 4
+Cootie
+Cranium
+Crocodile Dentist
+Designer's World
+Duel Masters
+Dungeons & Dragons
+Elefun
+Gator Golf
+Girl Talk
+Guess Who?
+Hi Ho! Cherry-O
+Hungry Hungry Hippos
+Jenga
+Lazer Tag
+Life
+Magic: The Gathering
+Mall Madness
+Milton
+Monopoly
+Mouse Trap
+Mystery Date
+Nerf Blaster
+Operation
+Ouija
+Parcheesi
+Perfection
+Pictionary
+Pit
+Risk
+Rook
+Scattergories
+Scrabble (U.S. and Canada)
+Simon
+Sorry!
+Stratego
+Taboo
+Trivial Pursuit
+Trouble
+Twister
+Upwords
+Yahtzee
+
+
+
+
+
+
+
+
+Distributed worldwide
+by Hasbro
+
+
+
+Beyblade (except Japan and parts of Asia)
+CirKis (except U.S., UK, France and Germany)
+FurReal Friends (except Japan)
+iDog (except Japan)
+Yo-kai Watch (except Asia)
+
+
+
+
+
+Licensed products
+
+
+
+Are You Smarter than a 5th Grader?
+Disney
+
+Disney Princess
+Elena of Avalor
+Frozen
+Indiana Jones
+Marvel Legends
+Marvel Super Hero Squad
+Marvel Universe
+Spider-Man Classics
+Star Wars
+
+
+Idaten Jump
+Nickelodeon
+Strawberry Shortcake
+Sid the Science Kid
+The Simpsons
+Wolverine and the X-Men
+X-Men Origins: Wolverine
+
+
+
+
+
+Subsidiaries
+
+
+
+Entertainment and Licensing
+
+Hasbro Studios
+Boulder Media
+Discovery Family (40%)
+
+
+Wizards of the Coast
+
+Avalon Hill
+
+
+Backflip Studios (70%)
+
+
+
+
+
+Divisions and brands
+
+
+
+Nerf
+Playskool
+Tiger Electronics
+Tonka
+
+
+
+
+
+Related media
+
+
+
+Comics
+Films
+Television
+
+
+
+
+
+See also
+
+
+
+Hasbro Universe
+HasCon
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fantasy fiction
+
+
+
+
+
+
+History
+Literature
+Outline
+Sources
+
+
+
+
+
+Subgenres
+
+
+
+Bangsian
+Comic
+Contemporary
+Dark
+Dying Earth
+Fairytale
+Fantastique
+Fantasy of manners
+Folklore Mythology (based)
+Gaslamp
+Gothic
+Hard
+Heroic
+High
+
+list
+
+
+Historical
+Juvenile
+Lost World
+Low
+Magical girl
+Medieval
+Mythic
+Romantic
+Shenmo
+Sword and sorcery
+Urban
+Weird fiction
+
+
+
+
+
+Media
+
+
+
+
+Film and television
+
+
+
+Anime
+Films
+Television programs
+
+
+
+
+
+Literature
+
+
+
+Authors
+Ballantine Adult Fantasy series
+Comics
+
+list
+
+
+The Encyclopedia of Fantasy
+Internet Speculative Fiction Database
+List of novels (A–H)
+(I–R)
+(S–Z)
+Newcastle Forgotten Fantasy Library
+Publishers
+
+
+
+
+
+Magazines
+
+
+
+Fantastic
+Locus
+The Magazine of Fantasy & Science Fiction
+Science Fantasy
+Unknown
+Weird Tales
+
+
+
+
+
+
+
+
+Fandom
+
+
+
+Art
+Filk music
+Harry Potter fandom
+Inklings
+Mythopoeic Society
+Religion
+Tolkien fandom
+Works inspired by J. R. R. Tolkien
+World Fantasy Award
+
+
+
+
+
+Tropes
+
+
+
+
+Creatures
+
+
+
+Angels
+Demons
+Dragons
+Elementals
+Familiars
+Faeries
+Jinns
+Lycanthropes
+Old Ones
+Sirens
+Spirits
+Undead
+Unicorns
+Yōkai
+
+
+
+
+
+Characters
+
+
+
+Barbarian
+Caveman
+Damsel in distress
+Dark Lord
+Heroes
+Fairy godmother
+Magicians
+Occult detective
+
+list
+
+
+Witches
+
+
+
+
+
+Magic (dark / light)
+
+
+
+Animism
+Demonology
+Evocation
+Incantation
+Magocracy
+Necromancy
+Shapeshifting
+Technomancy
+Witchcraft
+
+
+
+
+
+Fantasy races
+
+
+
+Dwarves
+Elves
+Treants
+Giants
+Gnomes
+Goblins
+Gremlins
+Halflings
+Hobgoblins
+Kobolds
+Ogres
+Oni
+Orcs
+Trolls
+
+
+
+
+
+Places and events
+
+
+
+Quests
+Worlds
+
+list
+
+
+Lost city
+Hollow Earth
+Astral plane
+Enchanted forest
+
+
+
+
+
+
+
+
+Related
+
+
+
+Allegory
+Dungeons & Dragons
+Epic poetry
+Fable
+Fairy tale
+Fantastic
+Horror fiction
+
+Ghost stories
+
+
+Human–animal hybrid
+LGBT themes in speculative fiction
+Magic realism
+Mecha
+Mythology
+Science fantasy
+Science fiction
+Superhero fiction
+Supernatural fiction
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 182334673
+LCCN: n92068057
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dungeons_%26_Dragons&oldid=811228237"					
+Categories: American role-playing gamesDungeons & DragonsNerd cultureOrigins Award winnersRole-playing games introduced in 1974Tabletop gamesWizards of the Coast gamesHidden categories: Subscription required using viaPages containing links to subscription-only contentArticles containing potentially dated statements from 2004All articles containing potentially dated statementsAll articles with dead external linksArticles with dead external links from September 2017Articles with permanently dead external linksSpoken articlesArticles with hAudio microformatsArticles with DMOZ linksUse dmy dates from June 2016Featured articlesWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiers 

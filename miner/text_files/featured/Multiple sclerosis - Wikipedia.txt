@@ -1,0 +1,1396 @@
+Multiple sclerosis - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Multiple sclerosis
+
+
+Synonyms
+Disseminated sclerosis, encephalomyelitis disseminata
+
+
+
+
+
+Demyelination by MS. The CD68 colored tissue shows several macrophages in the area of the lesion.
+
+
+Specialty
+Neurology
+
+
+Symptoms
+Double vision, blindness in one eye, muscle weakness, trouble with sensation, trouble with coordination[1]
+
+
+Usual onset
+Age 20–50[2]
+
+
+Duration
+Long term[1]
+
+
+Causes
+Unknown[3]
+
+
+Diagnostic method
+Based on symptoms and medical tests[4]
+
+
+Treatment
+Medications, physical therapy[1]
+
+
+Prognosis
+5–10 year shorter life expectancy[5]
+
+
+Frequency
+2 million (2015)[6]
+
+
+Deaths
+18,900 (2015)[7]
+
+
+
+[edit on Wikidata]
+
+
+
+Multiple sclerosis (MS) is a demyelinating disease in which the insulating covers of nerve cells in the brain and spinal cord are damaged.[1] This damage disrupts the ability of parts of the nervous system to communicate, resulting in a range of signs and symptoms, including physical, mental, and sometimes psychiatric problems.[5][8][9] Specific symptoms can include double vision, blindness in one eye, muscle weakness, trouble with sensation, or trouble with coordination.[1] MS takes several forms, with new symptoms either occurring in isolated attacks (relapsing forms) or building up over time (progressive forms).[10] Between attacks, symptoms may disappear completely; however, permanent neurological problems often remain, especially as the disease advances.[10]
+While the cause is not clear, the underlying mechanism is thought to be either destruction by the immune system or failure of the myelin-producing cells.[3] Proposed causes for this include genetics and environmental factors such as being triggered by a viral infection.[8][11] MS is usually diagnosed based on the presenting signs and symptoms and the results of supporting medical tests.[4]
+There is no known cure for multiple sclerosis.[1] Treatments attempt to improve function after an attack and prevent new attacks.[8] Medications used to treat MS, while modestly effective, can have side effects and be poorly tolerated.[1] Physical therapy can help with people's ability to function.[1] Many people pursue alternative treatments, despite a lack of evidence.[12] The long-term outcome is difficult to predict, with good outcomes more often seen in women, those who develop the disease early in life, those with a relapsing course, and those who initially experienced few attacks.[13] Life expectancy is on average 5 to 10 years lower than that of an unaffected population.[5]
+Multiple sclerosis is the most common autoimmune disorder affecting the central nervous system.[14] In 2015, about 2.3 million people were affected globally with rates varying widely in different regions and among different populations.[6][15] That year about 18,900 people died from MS, up from 12,000 in 1990.[7][16] The disease usually begins between the ages of 20 and 50 and is twice as common in women as in men.[2] MS was first described in 1868 by Jean-Martin Charcot.[17] The name multiple sclerosis refers to the numerous scars (sclerae—better known as plaques or lesions) that develop on the white matter of the brain and spinal cord.[17] A number of new treatments and diagnostic methods are under development.[18]
+
+
+Play media
+
+
+Video explanation
+
+
+
+
+
+Contents
+
+
+1 Signs and symptoms
+2 Causes
+
+2.1 Geography
+2.2 Genetics
+2.3 Infectious agents
+2.4 Other
+
+
+3 Pathophysiology
+
+3.1 Lesions
+3.2 Inflammation
+3.3 Blood–brain barrier
+
+
+4 Diagnosis
+5 Types
+6 Management
+
+6.1 Acute attacks
+6.2 Disease-modifying treatments
+
+6.2.1 Relapsing remitting multiple sclerosis
+6.2.2 Progressive multiple sclerosis
+6.2.3 Adverse effects
+
+
+6.3 Associated symptoms
+6.4 Alternative treatments
+
+
+7 Prognosis
+8 Epidemiology
+9 History
+
+9.1 Medical discovery
+9.2 Diagnosis
+9.3 Historical cases
+
+
+10 Research
+
+10.1 Medications
+10.2 Disease biomarkers
+10.3 Chronic cerebrospinal venous insufficiency
+
+
+11 See also
+12 References
+13 External links
+
+
+
+Signs and symptoms
+Main article: Multiple sclerosis signs and symptoms
+
+
+
+
+Main symptoms of multiple sclerosis
+
+
+A person with MS can have almost any neurological symptom or sign, with autonomic, visual, motor, and sensory problems being the most common.[5] The specific symptoms are determined by the locations of the lesions within the nervous system, and may include loss of sensitivity or changes in sensation such as tingling, pins and needles or numbness, muscle weakness, blurred vision,[19] very pronounced reflexes, muscle spasms, or difficulty in moving; difficulties with coordination and balance (ataxia); problems with speech or swallowing, visual problems (nystagmus, optic neuritis or double vision), feeling tired, acute or chronic pain, and bladder and bowel difficulties, among others.[5] Difficulties thinking and emotional problems such as depression or unstable mood are also common.[5] Uhthoff's phenomenon, a worsening of symptoms due to exposure to higher than usual temperatures, and Lhermitte's sign, an electrical sensation that runs down the back when bending the neck, are particularly characteristic of MS.[5] The main measure of disability and severity is the expanded disability status scale (EDSS), with other measures such as the multiple sclerosis functional composite being increasingly used in research.[20][21][22]
+The condition begins in 85% of cases as a clinically isolated syndrome (CIS) over a number of days with 45% having motor or sensory problems, 20% having optic neuritis, and 10% having symptoms related to brainstem dysfunction, while the remaining 25% have more than one of the previous difficulties.[4] The course of symptoms occurs in two main patterns initially: either as episodes of sudden worsening that last a few days to months (called relapses, exacerbations, bouts, attacks, or flare-ups) followed by improvement (85% of cases) or as a gradual worsening over time without periods of recovery (10–15% of cases).[2] A combination of these two patterns may also occur[10] or people may start in a relapsing and remitting course that then becomes progressive later on.[2] Relapses are usually not predictable, occurring without warning.[5] Exacerbations rarely occur more frequently than twice per year.[5] Some relapses, however, are preceded by common triggers and they occur more frequently during spring and summer.[23] Similarly, viral infections such as the common cold, influenza, or gastroenteritis increase their risk.[5] Stress may also trigger an attack.[24] Women with MS who become pregnant experience fewer relapses; however, during the first months after delivery the risk increases.[5] Overall, pregnancy does not seem to influence long-term disability.[5] Many events have been found not to affect relapse rates including vaccination, breast feeding,[5] physical trauma,[25] and Uhthoff's phenomenon.[23]
+Causes
+The cause of MS is unknown; however, it is believed to occur as a result of some combination of genetic and environmental factors such as infectious agents.[5] Theories try to combine the data into likely explanations, but none has proved definitive. While there are a number of environmental risk factors and although some are partly modifiable, further research is needed to determine whether their elimination can prevent MS.[26]
+Geography
+MS is more common in people who live farther from the equator, although exceptions exist.[5][27] These exceptions include ethnic groups that are at low risk far from the equator such as the Samis, Amerindians, Canadian Hutterites, New Zealand Māori,[28] and Canada's Inuit,[2] as well as groups that have a relatively high risk close to the equator such as Sardinians,[2] inland Sicilians,[29] Palestinians and Parsis.[28] The cause of this geographical pattern is not clear.[2] While the north-south gradient of incidence is decreasing,[27] as of 2010 it is still present.[2]
+MS is more common in regions with northern European populations[5] and the geographic variation may simply reflect the global distribution of these high-risk populations.[2] Decreased sunlight exposure resulting in decreased vitamin D production has also been put forward as an explanation.[30][31][32] A relationship between season of birth and MS lends support to this idea, with fewer people born in the northern hemisphere in November as compared to May being affected later in life.[33] Environmental factors may play a role during childhood, with several studies finding that people who move to a different region of the world before the age of 15 acquire the new region's risk to MS. If migration takes place after age 15, however, the person retains the risk of his home country.[5][26] There is some evidence that the effect of moving may still apply to people older than 15.[5]
+Genetics
+
+
+
+
+HLA region of Chromosome 6. Changes in this area increase the probability of getting MS.
+
+
+MS is not considered a hereditary disease; however, a number of genetic variations have been shown to increase the risk.[34] Some of these genes appear to have higher levels of expression in microglial cells than expected by chance.[35] The probability of developing the disease is higher in relatives of an affected person, with a greater risk among those more closely related.[8] In identical twins both are affected about 30% of the time, while around 5% for non-identical twins and 2.5% of siblings are affected with a lower percentage of half-siblings.[5][8][36] If both parents are affected the risk in their children is 10 times that of the general population.[2] MS is also more common in some ethnic groups than others.[37]
+Specific genes that have been linked with MS include differences in the human leukocyte antigen (HLA) system—a group of genes on chromosome 6 that serves as the major histocompatibility complex (MHC).[5] That changes in the HLA region are related to susceptibility has been known since the 1980s,[38] and additionally this same region has been implicated in the development of other autoimmune diseases such as diabetes type I and systemic lupus erythematosus.[38] The most consistent finding is the association between multiple sclerosis and alleles of the MHC defined as DR15 and DQ6.[5] Other loci have shown a protective effect, such as HLA-C554 and HLA-DRB1*11.[5] Overall, it has been estimated that HLA changes account for between 20 and 60% of the genetic predisposition.[38] Modern genetic methods (genome-wide association studies) have discovered at least twelve other genes outside the HLA locus that modestly increase the probability of MS.[38]
+Infectious agents
+Many microbes have been proposed as triggers of MS, but none have been confirmed.[8] Moving at an early age from one location in the world to another alters a person's subsequent risk of MS.[11] An explanation for this could be that some kind of infection, produced by a widespread microbe rather than a rare one, is related to the disease.[11] Proposed mechanisms include the hygiene hypothesis and the prevalence hypothesis. The hygiene hypothesis proposes that exposure to certain infectious agents early in life is protective, the disease being a response to a late encounter with such agents.[5] The prevalence hypothesis proposes that the disease is due to an infectious agent more common in regions where MS is common and where in most individuals it causes an ongoing infection without symptoms. Only in a few cases and after many years does it cause demyelination.[11][39] The hygiene hypothesis has received more support than the prevalence hypothesis.[11]
+Evidence for a virus as a cause include the presence of oligoclonal bands in the brain and cerebrospinal fluid of most people with MS, the association of several viruses with human demyelination encephalomyelitis, and the occurrence of demyelination in animals caused by some viral infections.[40] Human herpes viruses are a candidate group of viruses. Individuals having never been infected by the Epstein–Barr virus are at a reduced risk of getting MS, whereas those infected as young adults are at a greater risk than those having had it at a younger age.[5][11] Although some consider that this goes against the hygiene hypothesis, since the non-infected have probably experienced a more hygienic upbringing,[11] others believe that there is no contradiction, since it is a first encounter with the causative virus relatively late in life that is the trigger for the disease.[5] Other diseases that may be related include measles, mumps and rubella.[5]
+Other
+Smoking has been shown to be an independent risk factor for MS.[30] Stress may be a risk factor although the evidence to support this is weak.[26] Association with occupational exposures and toxins—mainly solvents—has been evaluated, but no clear conclusions have been reached.[26] Vaccinations were studied as causal factors; however, most studies show no association.[26] Several other possible risk factors, such as diet and hormone intake, have been looked at; however, evidence on their relation with the disease is "sparse and unpersuasive".[30] Gout occurs less than would be expected and lower levels of uric acid have been found in people with MS. This has led to the theory that uric acid is protective, although its exact importance remains unknown.[41]
+Pathophysiology
+Main article: Pathophysiology of multiple sclerosis
+
+
+
+
+Multiple sclerosis
+
+
+
+
+
+
+Nerve axon with myelin sheath
+
+
+The three main characteristics of MS are the formation of lesions in the central nervous system (also called plaques), inflammation, and the destruction of myelin sheaths of neurons. These features interact in a complex and not yet fully understood manner to produce the breakdown of nerve tissue and in turn the signs and symptoms of the disease.[5] Additionally, MS is believed to be an immune-mediated disorder that develops from an interaction of the individual's genetics and as yet unidentified environmental causes.[8] Damage is believed to be caused, at least in part, by attack on the nervous system by a person's own immune system.[5]
+Lesions
+
+
+
+
+Demyelination in MS. On Klüver-Barrera myelin staining, decoloration in the area of the lesion can be appreciated
+
+
+The name multiple sclerosis refers to the scars (sclerae – better known as plaques or lesions) that form in the nervous system. These lesions most commonly affect the white matter in the optic nerve, brain stem, basal ganglia, and spinal cord, or white matter tracts close to the lateral ventricles.[5] The function of white matter cells is to carry signals between grey matter areas, where the processing is done, and the rest of the body. The peripheral nervous system is rarely involved.[8]
+To be specific, MS involves the loss of oligodendrocytes, the cells responsible for creating and maintaining a fatty layer—known as the myelin sheath—which helps the neurons carry electrical signals (action potentials).[5] This results in a thinning or complete loss of myelin and, as the disease advances, the breakdown of the axons of neurons. When the myelin is lost, a neuron can no longer effectively conduct electrical signals.[8] A repair process, called remyelination, takes place in early phases of the disease, but the oligodendrocytes are unable to completely rebuild the cell's myelin sheath.[42] Repeated attacks lead to successively less effective remyelinations, until a scar-like plaque is built up around the damaged axons.[42] These scars are the origin of the symptoms and during an attack magnetic resonance imaging (MRI) often shows more than ten new plaques.[5] This could indicate that there are a number of lesions below which the brain is capable of repairing itself without producing noticeable consequences.[5] Another process involved in the creation of lesions is an abnormal increase in the number of astrocytes due to the destruction of nearby neurons.[5] A number of lesion patterns have been described.[43]
+Inflammation
+Apart from demyelination, the other sign of the disease is inflammation. Fitting with an immunological explanation, the inflammatory process is caused by T cells, a kind of lymphocyte that plays an important role in the body's defenses.[8] T cells gain entry into the brain via disruptions in the blood–brain barrier. The T cells recognize myelin as foreign and attack it, explaining why these cells are also called "autoreactive lymphocytes".[5]
+The attack of myelin starts inflammatory processes, which triggers other immune cells and the release of soluble factors like cytokines and antibodies. Further breakdown of the blood–brain barrier in turn causes a number of other damaging effects such as swelling, activation of macrophages, and more activation of cytokines and other destructive proteins.[8] Inflammation can potentially reduce transmission of information between neurons in at least three ways.[5] The soluble factors released might stop neurotransmission by intact neurons. These factors could lead to or enhance the loss of myelin, or they may cause the axon to break down completely.[5]
+Blood–brain barrier
+The blood–brain barrier is a part of the capillary system that prevents the entry of T cells into the central nervous system. It may become permeable to these types of cells secondary to an infection by a virus or bacteria. After it repairs itself, typically once the infection has cleared, T cells may remain trapped inside the brain.[8] Gadolinium cannot cross a normal BBB and, therefore, gadolinium-enhanced MRI is used to show BBB breakdowns.[44]
+Diagnosis
+
+
+
+
+Animation showing dissemination of brain lesions in time and space as demonstrated by monthly MRI studies along a year
+
+
+
+
+
+
+Multiple sclerosis as seen on MRI
+
+
+Multiple sclerosis is typically diagnosed based on the presenting signs and symptoms, in combination with supporting medical imaging and laboratory testing.[4] It can be difficult to confirm, especially early on, since the signs and symptoms may be similar to those of other medical problems.[5][45] The McDonald criteria, which focus on clinical, laboratory, and radiologic evidence of lesions at different times and in different areas, is the most commonly used method of diagnosis[15] with the Schumacher and Poser criteria being of mostly historical significance.[46]
+Clinical data alone may be sufficient for a diagnosis of MS if an individual has had separate episodes of neurological symptoms characteristic of the disease.[47] In those who seek medical attention after only one attack, other testing is needed for the diagnosis. The most commonly used diagnostic tools are neuroimaging, analysis of cerebrospinal fluid and evoked potentials. Magnetic resonance imaging of the brain and spine may show areas of demyelination (lesions or plaques). Gadolinium can be administered intravenously as a contrast agent to highlight active plaques and, by elimination, demonstrate the existence of historical lesions not associated with symptoms at the moment of the evaluation.[47][48] Testing of cerebrospinal fluid obtained from a lumbar puncture can provide evidence of chronic inflammation in the central nervous system. The cerebrospinal fluid is tested for oligoclonal bands of IgG on electrophoresis, which are inflammation markers found in 75–85% of people with MS.[47][49] The nervous system in MS may respond less actively to stimulation of the optic nerve and sensory nerves due to demyelination of such pathways. These brain responses can be examined using visual- and sensory-evoked potentials.[50]
+While the above criteria allow for a non-invasive diagnosis, and even though some state[5] that the only definitive proof is an autopsy or biopsy where lesions typical of MS are detected,[47][51] currently, as of 2017, there is no single test (including biopsy) that can provide a definitive diagnosis of this disease[52]
+Types
+Several phenotypes (commonly termed types), or patterns of progression, have been described. Phenotypes use the past course of the disease in an attempt to predict the future course. They are important not only for prognosis but also for treatment decisions. Currently, the United States National Multiple Sclerosis Society and the Multiple Sclerosis International Federation, describes four types of MS (revised in 2013):[53][54][55]
+
+Clinically isolated syndrome (CIS)
+Relapsing-remitting MS (RRMS)
+Primary progressive MS (PPMS)
+Secondary progressive MS (SPMS)
+
+Relapsing-remitting MS is characterized by unpredictable relapses followed by periods of months to years of relative quiet (remission) with no new signs of disease activity. Deficits that occur during attacks may either resolve or leave problems, the latter in about 40% of attacks and being more common the longer a person has had the disease.[5][4] This describes the initial course of 80% of individuals with MS.[5] When deficits always resolve between attacks, this is sometimes referred to as benign MS,[56] although people will still build up some degree of disability in the long term.[5] On the other hand, the term malignant multiple sclerosis is used to describe people with MS having reached significant level of disability in a short period.[57] The relapsing-remitting subtype usually begins with a clinically isolated syndrome (CIS). In CIS, a person has an attack suggestive of demyelination, but does not fulfill the criteria for multiple sclerosis.[5][58] 30 to 70% of persons experiencing CIS later develop MS.[58]
+Primary progressive MS occurs in approximately 10–20% of individuals, with no remission after the initial symptoms.[4][59] It is characterized by progression of disability from onset, with no, or only occasional and minor, remissions and improvements.[10] The usual age of onset for the primary progressive subtype is later than of the relapsing-remitting subtype. It is similar to the age that secondary progressive usually begins in relapsing-remitting MS, around 40 years of age.[5]
+Secondary progressive MS occurs in around 65% of those with initial relapsing-remitting MS, who eventually have progressive neurologic decline between acute attacks without any definite periods of remission.[5][10] Occasional relapses and minor remissions may appear.[10] The most common length of time between disease onset and conversion from relapsing-remitting to secondary progressive MS is 19 years.[60]
+Other, unusual types of MS have been described; these include Devic's disease, Balo concentric sclerosis, Schilder's diffuse sclerosis, and Marburg multiple sclerosis. There is debate on whether they are MS variants or different diseases.[61] Multiple sclerosis behaves differently in children, taking more time to reach the progressive stage.[5] Nevertheless, they still reach it at a lower average age than adults usually do.[5]
+Management
+Main article: Management of multiple sclerosis
+Although there is no known cure for multiple sclerosis, several therapies have proven helpful. The primary aims of therapy are returning function after an attack, preventing new attacks, and preventing disability. As with any medical treatment, medications used in the management of MS have several adverse effects. Alternative treatments are pursued by some people, despite the shortage of supporting evidence.
+Acute attacks
+During symptomatic attacks, administration of high doses of intravenous corticosteroids, such as methylprednisolone, is the usual therapy,[5] with oral corticosteroids seeming to have a similar efficacy and safety profile.[62] Although, in general, effective in the short term for relieving symptoms, corticosteroid treatments do not appear to have a significant impact on long-term recovery.[63] The consequences of severe attacks that do not respond to corticosteroids might be treatable by plasmapheresis.[5]
+Disease-modifying treatments
+Relapsing remitting multiple sclerosis
+As of 2017, eleven disease-modifying medications have been approved by regulatory agencies for relapsing-remitting multiple sclerosis (RRMS). They are interferon beta-1a, interferon beta-1b, glatiramer acetate, mitoxantrone, natalizumab, fingolimod, teriflunomide,[64][65] dimethyl fumarate,[66] alemtuzumab,[67][68] daclizumab,[69] and ocrelizumab.[70]
+Their cost effectiveness as of 2012 is unclear.[71] In May 2016 the FDA approved daclizumab for the treatment of relapsing multiple sclerosis in adults, with requirements for postmarketing studies and submission of a formal risk evaluation and mitigation strategy.[72][73] In March 2017 the FDA approved ocrelizumab, a humanized anti-CD20 monoclonal antibody, as a treatment for RRMS,[74][75] with requirements for several Phase IV clinical trials.[76]
+In RRMS they are modestly effective at decreasing the number of attacks.[64] The interferons and glatiramer acetate are first-line treatments[4] and are roughly equivalent, reducing relapses by approximately 30%.[77] Early-initiated long-term therapy is safe and improves outcomes.[78][79] Natalizumab reduces the relapse rate more than first-line agents; however, due to issues of adverse effects is a second-line agent reserved for those who do not respond to other treatments[4] or with severe disease.[77] Mitoxantrone, whose use is limited by severe adverse effects, is a third-line option for those who do not respond to other medications.[4] Treatment of clinically isolated syndrome (CIS) with interferons decreases the chance of progressing to clinical MS.[5][80] Efficacy of interferons and glatiramer acetate in children has been estimated to be roughly equivalent to that of adults.[81] The role of some newer agents such as fingolimod, teriflunomide, and dimethyl fumarate, as of 2011, is not yet entirely clear.[82]
+As of 2017, rituximab was widely used off-label to treat RRMS.[83]
+Progressive multiple sclerosis
+As of 2017, rituximab has been widely used off-label to treat progressive primary MS.[83] In March 2017 the FDA approved ocrelizumab, as a treatment for primary progressive MS, the first drug to gain that approval,[74][75] with requirements for several Phase IV clinical trials.[76]
+As of 2011[update], only one medication, mitoxantrone, has been approved for secondary progressive MS.[84] In this population tentative evidence supports mitoxantrone moderately slowing the progression of the disease and decreasing rates of relapses over two years.[85][86]
+Adverse effects
+
+
+
+
+Irritation zone after injection of glatiramer acetate.
+
+
+The disease-modifying treatments have several adverse effects. One of the most common is irritation at the injection site for glatiramer acetate and the interferons (up to 90% with subcutaneous injections and 33% with intramuscular injections).[87] Over time, a visible dent at the injection site, due to the local destruction of fat tissue, known as lipoatrophy, may develop.[87] Interferons may produce flu-like symptoms;[88] some people taking glatiramer experience a post-injection reaction with flushing, chest tightness, heart palpitations, and anxiety, which usually lasts less than thirty minutes.[89] More dangerous but much less common are liver damage from interferons,[90] systolic dysfunction (12%), infertility, and acute myeloid leukemia (0.8%) from mitoxantrone,[85][91] and progressive multifocal leukoencephalopathy occurring with natalizumab (occurring in 1 in 600 people treated).[4][92]
+Fingolimod may give rise to hypertension and slowed heart rate, macular edema, elevated liver enzymes or a reduction in lymphocyte levels.[82] Tentative evidence supports the short-term safety of teriflunomide, with common side effects including: headaches, fatigue, nausea, hair loss, and limb pain.[64] There have also been reports of liver failure and PML with its use and it is dangerous for fetal development.[82] Most common side effects of dimethyl fumarate are flushing and gastrointestinal problems.[66][82] While dimethyl fumarate may lead to a reduction in the white blood cell count there were no reported cases of opportunistic infections during trials.[93][94]
+Associated symptoms
+Both medications and neurorehabilitation have been shown to improve some symptoms, though neither changes the course of the disease.[95] Some symptoms have a good response to medication, such as an unstable bladder and spasticity, while others are little changed.[5] For neurologic problems, a multidisciplinary approach is important for improving quality of life; however, it is difficult to specify a 'core team' as many health services may be needed at different points in time.[5] Multidisciplinary rehabilitation programs increase activity and participation of people with MS but do not influence impairment level.[96] There is limited evidence for the overall efficacy of individual therapeutic disciplines,[97][98] though there is good evidence that specific approaches, such as exercise,[99][100] and psychology therapies, in particular cognitive behavioral approaches are effective.[101]
+Alternative treatments
+Over 50% of people with MS may use complementary and alternative medicine, although percentages vary depending on how alternative medicine is defined.[12] The evidence for the effectiveness for such treatments in most cases is weak or absent.[12][102] Treatments of unproven benefit used by people with MS include dietary supplementation and regimens,[12][103][104] vitamin D,[105] relaxation techniques such as yoga,[12] herbal medicine (including medical cannabis),[12][106] hyperbaric oxygen therapy,[107] self-infection with hookworms, reflexology, acupuncture,[12][108] and mindfulness.[109] Regarding the characteristics of users, they are more frequently women, have had MS for a longer time, tend to be more disabled and have lower levels of satisfaction with conventional healthcare.[12]
+Prognosis
+
+
+
+
+Disability-adjusted life year for multiple sclerosis per 100,000 inhabitants in 2004
+
+
+
+
+  no data
+  <13
+  13–16
+  16–19
+  19–22
+  22–25
+  25–28
+
+
+  28–31
+  31–34
+  34–37
+  37–40
+  40–43
+  >43
+
+
+
+
+
+
+
+The expected future course of the disease depends on the subtype of the disease; the individual's sex, age, and initial symptoms; and the degree of disability the person has.[13] Female sex, relapsing-remitting subtype, optic neuritis or sensory symptoms at onset, few attacks in the initial years and especially early age at onset, are associated with a better course.[13][110]
+The average life expectancy is 30 years from the start of the disease, which is 5 to 10 years less than that of unaffected people.[5] Almost 40% of people with MS reach the seventh decade of life.[110] Nevertheless, two-thirds of the deaths are directly related to the consequences of the disease.[5] Suicide is more common, while infections and other complications are especially dangerous for the more disabled.[5] Although most people lose the ability to walk before death, 90% are capable of independent walking at 10 years from onset, and 75% at 15 years.[111] [needs update?]
+Epidemiology
+
+
+
+
+Deaths from multiple sclerosis per million persons in 2012
+
+  0-0
+  1-1
+  2-2
+  3–5
+  6–12
+  13–25
+
+
+
+
+MS is the most common autoimmune disorder of the central nervous system.[14] As of 2010, the number of people with MS was 2–2.5 million (approximately 30 per 100,000) globally, with rates varying widely in different regions.[15][2] It is estimated to have resulted in 18,000 deaths that year.[112] In Africa rates are less than 0.5 per 100,000, while they are 2.8 per 100,000 in South East Asia, 8.3 per 100,000 in the Americas, and 80 per 100,000 in Europe.[15] Rates surpass 200 per 100,000 in certain populations of Northern European descent.[2] The number of new cases that develop per year is about 2.5 per 100,000.[15]
+Rates of MS appear to be increasing; this, however, may be explained simply by better diagnosis.[2] Studies on populational and geographical patterns have been common[39] and have led to a number of theories about the cause.[11][26][30]
+MS usually appears in adults in their late twenties or early thirties but it can rarely start in childhood and after 50 years of age.[15][2] The primary progressive subtype is more common in people in their fifties.[59] Similar to many autoimmune disorders, the disease is more common in women, and the trend may be increasing.[5][27] As of 2008, globally it is about two times more common in women than in men.[15] In children, it is even more common in females than males,[5] while in people over fifty, it affects males and females almost equally.[59]
+History
+Medical discovery
+
+
+
+
+Detail of Carswell's drawing of MS lesions in the brain stem and spinal cord (1838)
+
+
+Robert Carswell (1793–1857), a British professor of pathology, and Jean Cruveilhier (1791–1873), a French professor of pathologic anatomy, described and illustrated many of the disease's clinical details, but did not identify it as a separate disease.[113] Specifically, Carswell described the injuries he found as "a remarkable lesion of the spinal cord accompanied with atrophy".[5] Under the microscope, Swiss pathologist Georg Eduard Rindfleisch (1836–1908) noted in 1863 that the inflammation-associated lesions were distributed around blood vessels.[114][115]
+The French neurologist Jean-Martin Charcot (1825–1893) was the first person to recognize multiple sclerosis as a distinct disease in 1868.[113] Summarizing previous reports and adding his own clinical and pathological observations, Charcot called the disease sclerose en plaques.
+Diagnosis
+The first attempt to establish a set of diagnostic criteria was also due to Charcot in 1868. He published what now is known as the "Charcot Triad", consisting in nystagmus, intention tremor, and telegraphic speech (scanning speech)[116] Charcot also observed cognition changes, describing his patients as having a "marked enfeeblement of the memory" and "conceptions that formed slowly".[17]
+Diagnosis was based on Charcot triad and clinical observation until Schumacher made the first attempt to standardize criteria in 1965 by introducing some fundamental requirements: Dissemination of the lesions in time (DIT) and space (DIS), and that "signs and symptoms cannot be explained better by another disease process".[116] Both requirements were later inherited by Poser criteria and McDonald criteria, whose 2010 version is currently in use.
+During the 20th century, theories about the cause and pathogenesis were developed and effective treatments began to appear in the 1990s.[5] Since the beginning of the 21st century, refinements of the concepts have taken place. The 2010 revision of the McDonald criteria allowed for the diagnosis of MS with only one proved lesion (CIS).[117] Subsequently, three years later, the 2013 revision of the "phenotypes for the disease course" were forced to consider CIS as one of the phenotypes of MS, making obsolete some expressions like "conversion from CIS to MS".[118]
+Historical cases
+
+
+
+
+Photographic study of locomotion of an MS female patient with walking difficulties created in 1887 by Muybridge
+
+
+There are several historical accounts of people who probably had MS and lived before or shortly after the disease was described by Charcot.
+A young woman called Halldora who lived in Iceland around 1200 suddenly lost her vision and mobility but, after praying to the saints, recovered them seven days after. Saint Lidwina of Schiedam (1380–1433), a Dutch nun, may be one of the first clearly identifiable people with MS. From the age of 16 until her death at 53, she had intermittent pain, weakness of the legs, and vision loss—symptoms typical of MS.[119] Both cases have led to the proposal of a "Viking gene" hypothesis for the dissemination of the disease.[120]
+Augustus Frederick d'Este (1794–1848), son of Prince Augustus Frederick, Duke of Sussex and Lady Augusta Murray and the grandson of George III of the United Kingdom, almost certainly had MS. D'Este left a detailed diary describing his 22 years living with the disease. His diary began in 1822 and ended in 1846, although it remained unknown until 1948. His symptoms began at age 28 with a sudden transient visual loss (amaurosis fugax) after the funeral of a friend. During his disease, he developed weakness of the legs, clumsiness of the hands, numbness, dizziness, bladder disturbances, and erectile dysfunction. In 1844, he began to use a wheelchair. Despite his illness, he kept an optimistic view of life.[121][122] Another early account of MS was kept by the British diarist W. N. P. Barbellion, nom-de-plume of Bruce Frederick Cummings (1889–1919), who maintained a detailed log of his diagnosis and struggle.[122] His diary was published in 1919 as The Journal of a Disappointed Man.[123]
+Research
+Main article: Multiple sclerosis research
+For the journal formerly known as Multiple Sclerosis, see Multiple Sclerosis Journal.
+Medications
+
+
+
+
+Chemical structure of alemtuzumab
+
+
+There is ongoing research looking for more effective, convenient, and tolerable treatments for relapsing-remitting MS; creation of therapies for the progressive subtypes; neuroprotection strategies; and effective symptomatic treatments.[18]
+During the 2000s and 2010s, there has been approval of several oral drugs that are expected to gain in popularity and frequency of use.[124] Several more oral drugs are under investigation, including ozanimod and laquinimod. Laquinimod was announced in August 2012 and is in a third phase III trial after mixed results in the previous ones.[125] Similarly, studies aimed to improve the efficacy and ease of use of already existing therapies are occurring. This includes the use of new preparations such as the PEGylated version of interferon-β-1a, which it is hoped may be given at less frequent doses with similar effects.[126][127] Request for approval of peginterferon beta-1a is expected during 2013.[127]
+Monoclonal antibodies have also raised high levels of interest. As of 2012 alemtuzumab, daclizumab, and CD20 monoclonal antibodies such as rituximab, ocrelizumab and ofatumumab had all shown some benefit and were under study as potential treatments,[94] and the FDA approved ocrelizumab for relapsing and primary MS in March, 2017.[128] Their use has also been accompanied by the appearance of potentially dangerous adverse effects, the most important of which being opportunistic infections.[124] Related to these investigations is the development of a test for JC virus antibodies, which might help to determine who is at greater risk of developing progressive multifocal leukoencephalopathy when taking natalizumab.[124] While monoclonal antibodies will probably have some role in the treatment of the disease in the future, it is believed that it will be small due to the risks associated with them.[124]
+Another research strategy is to evaluate the combined effectiveness of two or more drugs.[129] The main rationale for using a number of medications in MS is that the involved treatments target different mechanisms and, therefore, their use is not necessarily exclusive.[129] Synergies, in which one drug improves the effect of another are also possible, but there can also be drawbacks such as the blocking of the action of the other or worsened side-effects.[129] There have been several trials of combined therapy, yet none have shown positive enough results to be considered as a useful treatment for MS.[129]
+Research on neuroprotection and regenerative treatments, such as stem cell therapy, while of high importance, are in the early stages.[130] Likewise, there are not any effective treatments for the progressive variants of the disease. Many of the newest drugs as well as those under development are probably going to be evaluated as therapies for PPMS or SPMS.[124]
+Disease biomarkers
+
+
+
+
+MRI brain scan produced using a Gradient-echo phase sequence showing an iron deposit in a white matter lesion (inside green box in the middle of the image; enhanced and marked by red arrow top-left corner)[131]
+
+
+While diagnostic criteria are not expected to change in the near future, work to develop biomarkers that help with diagnosis and prediction of disease progression is ongoing.[124] New diagnostic methods that are being investigated include work with anti-myelin antibodies, and studies with serum and cerebrospinal fluid, but none of them has yielded reliably positive results.[132]
+At the current time, there are no laboratory investigations that can predict prognosis. Several promising approaches have been proposed including: interleukin-6, nitric oxide and nitric oxide synthase, osteopontin, and fetuin-A.[132] Since disease progression is the result of degeneration of neurons, the roles of proteins showing loss of nerve tissue such as neurofilaments, tau, and N-acetylaspartate are under investigation.[132] Other effects include looking for biomarkers that distinguish between those who will and will not respond to medications.[132]
+Improvement in neuroimaging techniques such as positron emission tomography (PET) or magnetic resonance imaging (MRI) carry a promise for better diagnosis and prognosis predictions, although the effect of such improvements in daily medical practice may take several decades.[124] Regarding MRI, there are several techniques that have already shown some usefulness in research settings and could be introduced into clinical practice, such as double-inversion recovery sequences, magnetization transfer, diffusion tensor, and functional magnetic resonance imaging.[133] These techniques are more specific for the disease than existing ones, but still lack some standardization of acquisition protocols and the creation of normative values.[133] There are other techniques under development that include contrast agents capable of measuring levels of peripheral macrophages, inflammation, or neuronal dysfunction,[133] and techniques that measure iron deposition that could serve to determine the role of this feature in MS, or that of cerebral perfusion.[133] Similarly, new PET radiotracers might serve as markers of altered processes such as brain inflammation, cortical pathology, apoptosis, or remylienation.[134] Antibiodies against the Kir4.1 potassium channel may be related to MS.[135]
+Chronic cerebrospinal venous insufficiency
+Main article: Chronic cerebrospinal venous insufficiency
+In 2008, vascular surgeon Paolo Zamboni suggested that MS involves narrowing of the veins draining the brain, which he referred to as chronic cerebrospinal venous insufficiency (CCSVI). He found CCSVI in all patients with MS in his study, performed a surgical procedure, later called in the media the "liberation procedure" to correct it, and claimed that 73% of participants improved.[136] This theory received significant attention in the media and among those with MS, especially in Canada.[137] Concerns have been raised with Zamboni's research as it was neither blinded nor controlled, and its assumptions about the underlying cause of the disease are not backed by known data.[138] Also, further studies have either not found a similar relationship or found one that is much less strong,[139] raising serious objections to the hypothesis.[140] The "liberation procedure" has been criticized for resulting in serious complications and deaths with unproven benefits.[138] It is, thus, as of 2013 not recommended for the treatment of MS.[141] Additional research investigating the CCSVI hypothesis are under way.[142]
+See also
+
+List of multiple sclerosis organizations
+List of people with multiple sclerosis
+
+References
+
+
+
+^ a b c d e f g h "NINDS Multiple Sclerosis Information Page". National Institute of Neurological Disorders and Stroke. 19 November 2015. Archived from the original on 13 February 2016. Retrieved 6 March 2016. 
+^ a b c d e f g h i j k l m n Milo R, Kahana E (March 2010). "Multiple sclerosis: geoepidemiology, genetics and the environment". Autoimmun Rev. 9 (5): A387–94. doi:10.1016/j.autrev.2009.11.010. PMID 19932200. 
+^ a b Nakahara J, Maeda M, Aiso S, Suzuki N (February 2012). "Current concepts in multiple sclerosis: autoimmunity versus oligodendrogliopathy". Clinical reviews in allergy & immunology. 42 (1): 26–34. doi:10.1007/s12016-011-8287-6. PMID 22189514. 
+^ a b c d e f g h i j Tsang BK, Macdonell R (December 2011). "Multiple sclerosis- diagnosis, management and prognosis". Australian family physician. 40 (12): 948–55. PMID 22146321. 
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj ak al am an ao ap aq ar as at au av aw ax ay az ba bb bc bd be bf Compston A, Coles A (October 2008). "Multiple sclerosis". Lancet. 372 (9648): 1502–17. doi:10.1016/S0140-6736(08)61620-7. PMID 18970977. 
+^ a b GBD 2015 Disease and Injury Incidence and Prevalence, Collaborators. (8 October 2016). "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015". Lancet. 388 (10053): 1545–1602. doi:10.1016/S0140-6736(16)31678-6. PMC 5055577 . PMID 27733282. 
+^ a b GBD 2015 Mortality and Causes of Death, Collaborators. (8 October 2016). "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015". Lancet. 388 (10053): 1459–1544. doi:10.1016/s0140-6736(16)31012-1. PMC 5388903 . PMID 27733281. 
+^ a b c d e f g h i j k l Compston A, Coles A (April 2002). "Multiple sclerosis". Lancet. 359 (9313): 1221–31. doi:10.1016/S0140-6736(02)08220-X. PMID 11955556. 
+^ Murray ED, Buttner EA, Price BH (2012). "Depression and Psychosis in Neurological Practice". In Daroff R, Fenichel G, Jankovic J, Mazziotta J. Bradley's neurology in clinical practice (6th ed.). Philadelphia, PA: Elsevier/Saunders. ISBN 1-4377-0434-4. 
+^ a b c d e f Lublin FD, Reingold SC (April 1996). "Defining the clinical course of multiple sclerosis: results of an international survey". Neurology. 46 (4): 907–11. doi:10.1212/WNL.46.4.907. PMID 8780061. 
+^ a b c d e f g h Ascherio A, Munger KL (April 2007). "Environmental risk factors for multiple sclerosis. Part I: the role of infection". Annals of Neurology. 61 (4): 288–99. doi:10.1002/ana.21117. PMID 17444504. 
+^ a b c d e f g h Huntley A (January 2006). "A review of the evidence for efficacy of complementary and alternative medicines in MS". Int MS J. 13 (1): 5–12, 4. PMID 16420779. 
+^ a b c Weinshenker BG (1994). "Natural history of multiple sclerosis". Annals of Neurology. 36 (Suppl): S6–11. doi:10.1002/ana.410360704. PMID 8017890. 
+^ a b Berer K, Krishnamoorthy G (April 2014). "Microbial view of central nervous system autoimmunity". FEBS Letters. 588 (14): 00293–2. doi:10.1016/j.febslet.2014.04.007. PMID 24746689. 
+^ a b c d e f g World Health Organization (2008). Atlas: Multiple Sclerosis Resources in the World 2008 (PDF). Geneva: World Health Organization. pp. 15–16. ISBN 92-4-156375-3. Archived (PDF) from the original on 4 October 2013. 
+^ GBD 2013 Mortality and Causes of Death, Collaborators (17 December 2014). "Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013". Lancet. 385: 117–171 (table 2). doi:10.1016/S0140-6736(14)61682-2. PMC 4340604 . PMID 25530442. 
+^ a b c Clanet M (June 2008). "Jean-Martin Charcot. 1825 to 1893" (PDF). Int MS J. 15 (2): 59–61. PMID 18782501. 
+* Charcot, J. (1868). "Histologie de la sclerose en plaques". Gazette des hopitaux, Paris. 41: 554–5. 
+^ a b Cohen JA (July 2009). "Emerging therapies for relapsing multiple sclerosis". Arch. Neurol. 66 (7): 821–8. doi:10.1001/archneurol.2009.104. PMID 19597083. 
+^ "MS Signs". Webmd. Archived from the original on 30 September 2016. Retrieved 7 October 2016. 
+^ Kurtzke JF (1983). "Rating neurologic impairment in multiple sclerosis: an expanded disability status scale (EDSS)". Neurology. 33 (11): 1444–52. doi:10.1212/WNL.33.11.1444. PMID 6685237. 
+^ Amato MP, Ponziani G (August 1999). "Quantification of impairment in MS: discussion of the scales in use". Mult. Scler. 5 (4): 216–9. doi:10.1191/135245899678846113. PMID 10467378. 
+^ Rudick RA, Cutter G, Reingold S (October 2002). "The multiple sclerosis functional composite: a new clinical outcome measure for multiple sclerosis trials". Mult. Scler. 8 (5): 359–65. doi:10.1191/1352458502ms845oa. PMID 12356200. 
+^ a b Tataru N, Vidal C, Decavel P, Berger E, Rumbach L (2006). "Limited impact of the summer heat wave in France (2003) on hospital admissions and relapses for multiple sclerosis". Neuroepidemiology. 27 (1): 28–32. doi:10.1159/000094233. PMID 16804331. 
+^ Heesen C, Mohr DC, Huitinga I, Bergh FT, Gaab J, Otte C, Gold SM (March 2007). "Stress regulation in multiple sclerosis: current issues and concepts". Mult. Scler. 13 (2): 143–8. doi:10.1177/1352458506070772. PMID 17439878. 
+^ Martinelli V (2000). "Trauma, stress and multiple sclerosis". Neurol. Sci. 21 (4 Suppl 2): S849–52. doi:10.1007/s100720070024. PMID 11205361. [permanent dead link]
+^ a b c d e f Marrie RA (December 2004). "Environmental risk factors in multiple sclerosis aetiology". Lancet Neurol. 3 (12): 709–18. doi:10.1016/S1474-4422(04)00933-0. PMID 15556803. 
+^ a b c Alonso A, Hernán MA (July 2008). "Temporal trends in the incidence of multiple sclerosis: a systematic review". Neurology. 71 (2): 129–35. doi:10.1212/01.wnl.0000316802.35974.34. PMC 4109189 . PMID 18606967. 
+^ a b Pugliatti M, Sotgiu S, Rosati G (July 2002). "The worldwide prevalence of multiple sclerosis". Clin Neurol Neurosurg. 104 (3): 182–91. doi:10.1016/S0303-8467(02)00036-7. PMID 12127652. 
+^ Grimaldi LM, Salemi G, Grimaldi G, et al. (27 November 2001). "High incidence and increasing prevalence of MS in Enna (Sicily), southern Italy". Neurology. 57 (10): 1891–3. doi:10.1212/wnl.57.10.1891. PMID 11723283. 
+^ a b c d Ascherio A, Munger KL (June 2007). "Environmental risk factors for multiple sclerosis. Part II: Noninfectious factors". Annals of Neurology. 61 (6): 504–13. doi:10.1002/ana.21141. PMID 17492755. 
+^ Ascherio A, Munger KL, Simon KC (June 2010). "Vitamin D and multiple sclerosis". Lancet Neurol. 9 (6): 599–612. doi:10.1016/S1474-4422(10)70086-7. PMID 20494325. 
+^ Koch MW, Metz LM, Agrawal SM, Yong VW (2013). "Environmental factors and their regulation of immunity in multiple sclerosis". J. Neurol. Sci. 324 (1–2): 10–16. doi:10.1016/j.jns.2012.10.021. PMID 23154080. CS1 maint: Uses authors parameter (link)
+^ Kulie T, Groff A, Redmer J, Hounshell J, Schrager S (2009). "Vitamin D: an evidence-based review". J Am Board Fam Med. 22 (6): 698–706. doi:10.3122/jabfm.2009.06.090037. PMID 19897699. 
+^ Dyment DA, Ebers GC, Sadovnick AD (February 2004). "Genetics of multiple sclerosis". Lancet Neurol. 3 (92): 104–10. doi:10.1016/S1474-4422(03)00663-X. PMID 14747002. 
+^ Skene, Nathan G.; Grant, Seth G. N. (2016). "Identification of Vulnerable Cell Types in Major Brain Disorders Using Single Cell Transcriptomes and Expression Weighted Cell Type Enrichment". Frontiers in Neuroscience. 10. doi:10.3389/fnins.2016.00016. ISSN 1662-453X. 
+^ Hassan-Smith G, Douglas MR (October 2011). "Epidemiology and diagnosis of multiple sclerosis". British journal of hospital medicine (London, England : 2005). 72 (10): M146–51. PMID 22041658. 
+^ Rosati G (April 2001). "The prevalence of multiple sclerosis in the world: an update". Neurol. Sci. 22 (2): 117–39. doi:10.1007/s100720170011. PMID 11603614. 
+^ a b c d Baranzini SE (June 2011). "Revealing the genetic basis of multiple sclerosis: are we there yet?". Current Opinion in Genetics & Development. 21 (3): 317–24. doi:10.1016/j.gde.2010.12.006. PMC 3105160 . PMID 21247752. 
+^ a b Kurtzke JF (October 1993). "Epidemiologic evidence for multiple sclerosis as an infection". Clin. Microbiol. Rev. 6 (4): 382–427. doi:10.1128/CMR.6.4.382. PMC 358295 . PMID 8269393. 
+^ Gilden DH (March 2005). "Infectious causes of multiple sclerosis". The Lancet Neurology. 4 (3): 195–202. doi:10.1016/S1474-4422(05)01017-3. PMID 15721830. 
+^ Spitsin S, Koprowski H (2008). "Role of uric acid in multiple sclerosis". Curr. Top. Microbiol. Immunol. 318: 325–42. doi:10.1007/978-3-540-73677-6_13. PMID 18219824. 
+^ a b Chari DM (2007). "Remyelination in multiple sclerosis". Int. Rev. Neurobiol. 79: 589–620. doi:10.1016/S0074-7742(07)79026-8. PMID 17531860. 
+^ Pittock SJ, Lucchinetti CF (March 2007). "The pathology of MS: new insights and potential clinical applications". Neurologist. 13 (2): 45–56. doi:10.1097/01.nrl.0000253065.31662.37. PMID 17351524. 
+^ Ferré JC, Shiroishi MS, Law M (November 2012). "Advanced techniques using contrast media in neuroimaging". Magn Reson Imaging Clin N Am. 20 (4): 699–713. doi:10.1016/j.mric.2012.07.007. PMC 3479680 . PMID 23088946. 
+^ Trojano M, Paolicelli D (November 2001). "The differential diagnosis of multiple sclerosis: classification and clinical features of relapsing and progressive neurological syndromes". Neurol. Sci. 22 (Suppl 2): S98–102. doi:10.1007/s100720100044. PMID 11794488. [permanent dead link]
+^ Poser CM, Brinar VV (June 2004). "Diagnostic criteria for multiple sclerosis: an historical review". Clin Neurol Neurosurg. 106 (3): 147–58. doi:10.1016/j.clineuro.2004.02.004. PMID 15177763. 
+^ a b c d McDonald WI, Compston A, Edan G, Goodkin D, Hartung HP, Lublin FD, McFarland HF, Paty DW, Polman CH, Reingold SC, Sandberg-Wollheim M, Sibley W, Thompson A, van den Noort S, Weinshenker BY, Wolinsky JS (July 2001). "Recommended diagnostic criteria for multiple sclerosis: guidelines from the International Panel on the diagnosis of multiple sclerosis". Annals of Neurology. 50 (1): 121–7. doi:10.1002/ana.1032. PMID 11456302. 
+^ Rashid W, Miller DH (February 2008). "Recent advances in neuroimaging of multiple sclerosis". Semin Neurol. 28 (1): 46–55. doi:10.1055/s-2007-1019127. PMID 18256986. 
+^ Link H, Huang YM (November 2006). "Oligoclonal bands in multiple sclerosis cerebrospinal fluid: an update on methodology and clinical usefulness". J. Neuroimmunol. 180 (1–2): 17–28. doi:10.1016/j.jneuroim.2006.07.006. PMID 16945427. 
+^ Gronseth GS, Ashman EJ (May 2000). "Practice parameter: the usefulness of evoked potentials in identifying clinically silent lesions in patients with suspected multiple sclerosis (an evidence-based review): Report of the Quality Standards Subcommittee of the American Academy of Neurology". Neurology. 54 (9): 1720–5. doi:10.1212/WNL.54.9.1720. PMID 10802774. 
+^ Polman CH, Reingold SC, Edan G, Filippi M, Hartung HP, Kappos L, Lublin FD, Metz LM, McFarland HF, O'Connor PW, Sandberg-Wollheim M, Thompson AJ, Weinshenker BG, Wolinsky JS (December 2005). "Diagnostic criteria for multiple sclerosis: 2005 revisions to the "McDonald Criteria"". Annals of Neurology. 58 (6): 840–6. doi:10.1002/ana.20703. PMID 16283615. 
+^ Rovira, À. (November 2017). "Diagnosis of Multiple Sclerosis". Journal of the Belgian Society of Radiology. 101(S1): 12. doi:10.5334/jbr-btr.1426. PMID 11456302. 
+^ National Multiple Sclerosis Society. "Changes in multiple sclerosis disease-course (or "type") descriptions" (PDF). Archived (PDF) from the original on 3 August 2016. Retrieved 21 August 2017. NEW COURSE ADDED: Clinically Isolated Syndrome (CIS)...COURSE ELIMINATED: Progressive Relapsing (PRMS). 
+^ Lublin; et al. (15 July 2014). "Defining the clinical course of multiple sclerosis, The 2013 revisions". doi:10.1212/WNL.0000000000000560. CS1 maint: Explicit use of et al. (link)
+^ National Multiple Sclerosis Society. "Types of MS". Archived from the original on 7 July 2017. Retrieved 21 August 2017. Four disease courses have been identified in multiple sclerosis: clinically isolated syndrome (CIS), relapsing-remitting MS (RRMS), primary progressive MS (PPMS), and secondary progressive MS (SPMS). 
+^ Pittock SJ, Rodriguez M (2008). "Benign multiple sclerosis: a distinct clinical entity with therapeutic implications". Curr. Top. Microbiol. Immunol. Current Topics in Microbiology and Immunology. 318: 1–17. doi:10.1007/978-3-540-73677-6_1. ISBN 978-3-540-73676-9. PMID 18219812. 
+^ Feinstein A (2007). The clinical neuropsychiatry of multiple sclerosis (2nd ed.). Cambridge: Cambridge University Press. p. 20. ISBN 052185234X. 
+^ a b Miller D, Barkhof F, Montalban X, Thompson A, Filippi M (May 2005). "Clinically isolated syndromes suggestive of multiple sclerosis, part I: natural history, pathogenesis, diagnosis, and prognosis". Lancet Neurol. 4 (5): 281–8. doi:10.1016/S1474-4422(05)70071-5. PMID 15847841. 
+^ a b c Miller DH, Leary SM (October 2007). "Primary-progressive multiple sclerosis". Lancet Neurol. 6 (10): 903–12. doi:10.1016/S1474-4422(07)70243-0. PMC 2922818 . PMID 17884680. 
+^ Rovaris M, Confavreux C, Furlan R, Kappos L, Comi G, Filippi M (April 2006). "Secondary progressive multiple sclerosis: current knowledge and future challenges". Lancet Neurol. 5 (4): 343–54. doi:10.1016/S1474-4422(06)70410-0. PMID 16545751. 
+^ Stadelmann C, Brück W (November 2004). "Lessons from the neuropathology of atypical forms of multiple sclerosis". Neurol. Sci. 25 (Suppl 4): S319–22. doi:10.1007/s10072-004-0333-1. PMID 15727225. 
+^ Burton JM, O'Connor PW, Hohol M, Beyene J (12 December 2012). "Oral versus intravenous steroids for treatment of relapses in multiple sclerosis". The Cochrane database of systematic reviews. 12: CD006921. doi:10.1002/14651858.CD006921.pub3. PMID 23235634. 
+^ The National Collaborating Centre for Chronic Conditions (2004). Multiple sclerosis : national clinical guideline for diagnosis and management in primary and secondary care (pdf). London: Royal College of Physicians. pp. 54–57. ISBN 1-86016-182-0. PMID 21290636. Retrieved 6 February 2013. 
+^ a b c He, Dian; Zhang, Chao; Zhao, Xia; Zhang, Yifan; Dai, Qingqing; Li, Yuan; Chu, Lan (2016-03-22). "Teriflunomide for multiple sclerosis". The Cochrane Database of Systematic Reviews. 3: CD009882. doi:10.1002/14651858.CD009882.pub3. ISSN 1469-493X. PMID 27003123. 
+^ "FDA approves new multiple sclerosis treatment Aubagio" (Press release). US FDA. 12 September 2012. Archived from the original on 30 January 2017. Retrieved 22 September 2017. 
+^ a b "Biogen Idec's TECFIDERA™ (Dimethyl Fumarate) Approved in US as a First-Line Oral Treatment for Multiple Sclerosis" (Press release). Biogen Idec. 27 March 2013. Archived from the original on 12 May 2013. Retrieved 4 June 2013. 
+^ "FDA Approves Lemtrada". Biogen Idec Press Release. 14 November 2013. Archived from the original on 19 November 2014. 
+^ Riera, Rachel; Porfírio, Gustavo J. M.; Torloni, Maria R. (2016-04-15). "Alemtuzumab for multiple sclerosis". The Cochrane Database of Systematic Reviews. 4: CD011203. doi:10.1002/14651858.CD011203.pub2. ISSN 1469-493X. PMID 27082500. 
+^ FDA Press Release, May 27, 2016 Archived 30 May 2016 at the Wayback Machine.
+^ "FDA Ocrevus approval". FDA Press Release. 29 March 2017. Archived from the original on 3 April 2017. 
+^ Manouchehrinia A, Constantinescu CS (October 2012). "Cost-effectiveness of disease-modifying therapies in multiple sclerosis". Current Neurology and Neuroscience Reports. 12 (5): 592–600. doi:10.1007/s11910-012-0291-6. PMID 22782520. 
+^ FDA BLA Approval letter Archived 5 July 2016 at the Wayback Machine. May 27, 2016
+^ FDA News Release: FDA approves Zinbryta to treat multiple sclerosis Archived 30 May 2016 at the Wayback Machine. May 27, 2016
+^ a b Ron Winslow (28 March 2017). "After 40-year odyssey, first drug for aggressive MS wins FDA approval". STAT. Archived from the original on 1 April 2017. 
+^ a b "Ocrelizumab label" (PDF). FDA. March 2017. Archived (PDF) from the original on 1 April 2017. Retrieved 1 April 2017.  See FDA index page for BLA 761053 Archived 1 April 2017 at the Wayback Machine. for updates.
+^ a b "BLA Approval Letter" (PDF). FDA. 28 March 2017. Archived (PDF) from the original on 2 April 2017. 
+^ a b Hassan-Smith G, Douglas MR (November 2011). "Management and prognosis of multiple sclerosis". British journal of hospital medicine (London, England : 2005). 72 (11): M174–6. PMID 22082979. 
+^ Freedman MS (January 2011). "Long-term follow-up of clinical trials of multiple sclerosis therapies". Neurology. 76 (1 Suppl 1): S26–34. doi:10.1212/WNL.0b013e318205051d. PMID 21205679. 
+^ Qizilbash N, Mendez I, Sanchez-de la Rosa R (January 2012). "Benefit-risk analysis of glatiramer acetate for relapsing-remitting and clinically isolated syndrome multiple sclerosis". Clin Ther. 34 (1): 159–176.e5. doi:10.1016/j.clinthera.2011.12.006. PMID 22284996. 
+^ Bates D (January 2011). "Treatment effects of immunomodulatory therapies at different stages of multiple sclerosis in short-term trials". Neurology. 76 (1 Suppl 1): S14–25. doi:10.1212/WNL.0b013e3182050388. PMID 21205678. 
+^ Johnston J, So TY (June 2012). "First-line disease-modifying therapies in paediatric multiple sclerosis: a comprehensive overview". Drugs. 72 (9): 1195–211. doi:10.2165/11634010-000000000-00000. PMID 22642799. 
+^ a b c d Killestein J, Rudick RA, Polman CH (November 2011). "Oral treatment for multiple sclerosis". Lancet Neurol. 10 (11): 1026–34. doi:10.1016/S1474-4422(11)70228-9. PMID 22014437. 
+^ a b McGinley, MP; Moss, BP; Cohen, JA (January 2017). "Safety of monoclonal antibodies for the treatment of multiple sclerosis". Expert opinion on drug safety. 16 (1): 89–100. doi:10.1080/14740338.2017.1250881. PMID 27756172. 
+^ Edward T. Bope; Rick D. Kellerman (22 December 2011). Conn's Current Therapy 2012: Expert Consult – Online and Print. Elsevier Health Sciences. pp. 662–. ISBN 1-4557-0738-4. Archived from the original on 24 April 2016. 
+^ a b Martinelli Boneschi F, Vacchi L, Rovaris M, Capra R, Comi G (31 May 2013). "Mitoxantrone for multiple sclerosis". Cochrane Database of Systematic Reviews. 5: CD002127. doi:10.1002/14651858.CD002127.pub3. PMID 23728638. 
+^ Marriott JJ, Miyasaki JM, Gronseth G, O'Connor PW (4 May 2010). "Evidence Report: The efficacy and safety of mitoxantrone (Novantrone) in the treatment of multiple sclerosis: Report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology". Neurology. 74 (18): 1463–70. doi:10.1212/WNL.0b013e3181dc1ae0. PMC 2871006 . PMID 20439849. 
+^ a b Balak DM, Hengstman GJ, Çakmak A, Thio HB (December 2012). "Cutaneous adverse events associated with disease-modifying treatment in multiple sclerosis: a systematic review". Multiple sclerosis (Houndmills, Basingstoke, England). 18 (12): 1705–17. doi:10.1177/1352458512438239. PMID 22371220. 
+^ Sládková T, Kostolanský F (2006). "The role of cytokines in the immune response to influenza A virus infection". Acta Virol. 50 (3): 151–62. PMID 17131933. 
+^ La Mantia, L; Munari, LM; Lovati, R (12 May 2010). "Glatiramer acetate for multiple sclerosis". The Cochrane database of systematic reviews (5): CD004678. doi:10.1002/14651858.CD004678.pub2. PMID 20464733. 
+^ Tremlett H, Oger J (November 2004). "Hepatic injury, liver monitoring and the beta-interferons for multiple sclerosis". J. Neurol. 251 (11): 1297–303. doi:10.1007/s00415-004-0619-5. PMID 15592724. 
+^ Comi G (October 2009). "Treatment of multiple sclerosis: role of natalizumab". Neurol. Sci. 30. Suppl 2 (S2): S155–8. doi:10.1007/s10072-009-0147-2. PMID 19882365. 
+^ Hunt D, Giovannoni G (February 2012). "Natalizumab-associated progressive multifocal leucoencephalopathy: a practical approach to risk profiling and monitoring". Practical Neurology. 12 (1): 25–35. doi:10.1136/practneurol-2011-000092. PMID 22258169. 
+^ "NDA 204063 – FDA Approved Labeling Text" (PDF). US Food and Drug Agency. 27 March 2013. Archived (PDF) from the original on 4 October 2013. Retrieved 5 April 2013. 
+"NDA Approval" (PDF). US Food and Drug Agency. 27 March 2013. Archived (PDF) from the original on 4 October 2013. Retrieved 5 April 2013. 
+^ a b Saidha S, Eckstein C, Calabresi PA (January 2012). "New and emerging disease modifying therapies for multiple sclerosis". Annals of the New York Academy of Sciences. 1247: 117–37. doi:10.1111/j.1749-6632.2011.06272.x. PMID 22224673. 
+^ Kesselring J, Beer S (October 2005). "Symptomatic therapy and neurorehabilitation in multiple sclerosis". Lancet Neurol. 4 (10): 643–52. doi:10.1016/S1474-4422(05)70193-9. PMID 16168933. 
+^ Khan F, Turner-Stokes L, Ng L, Kilpatrick T (2007). Khan F, ed. "Multidisciplinary rehabilitation for adults with multiple sclerosis". Cochrane Database Syst Rev (2): CD006036. doi:10.1002/14651858.CD006036.pub2. PMID 17443610. 
+^ Steultjens EM, Dekker J, Bouter LM, Leemrijse CJ, van den Ende CH (2005). "Evidence of the efficacy of occupational therapy in different conditions: an overview of systematic reviews". Clinical rehabilitation. 19 (3): 247–54. doi:10.1191/0269215505cr870oa. PMID 15859525. 
+^ Steultjens EM, Dekker J, Bouter LM, Cardol M, Van de Nes JC, Van den Ende CH (2003). Steultjens EE, ed. "Occupational therapy for multiple sclerosis". Cochrane Database of Systematic Reviews (3): CD003608. doi:10.1002/14651858.CD003608. PMID 12917976. 
+^ Gallien P, Nicolas B, Robineau S, Pétrilli S, Houedakor J, Durufle A (2007). "Physical training and multiple sclerosis". Ann Readapt Med Phys. 50 (6): 373–6, 369–72. doi:10.1016/j.annrmp.2007.04.004. PMID 17482708. 
+^ Rietberg MB, Brooks D, Uitdehaag BM, Kwakkel G (2005). Kwakkel G, ed. "Exercise therapy for multiple sclerosis". Cochrane Database of Systematic Reviews (1): CD003980. doi:10.1002/14651858.CD003980.pub2. PMID 15674920. 
+^ Thomas PW, Thomas S, Hillier C, Galvin K, Baker R (2006). Thomas PW, ed. "Psychological interventions for multiple sclerosis". Cochrane Database of Systematic Reviews (1): CD004431. doi:10.1002/14651858.CD004431.pub2. PMID 16437487. 
+^ Olsen SA (2009). "A review of complementary and alternative medicine (CAM) by people with multiple sclerosis". Occup Ther Int. 16 (1): 57–70. doi:10.1002/oti.266. PMID 19222053. 
+^ Farinotti, M; Vacchi, L; Simi, S; Di Pietrantonj, C; Brait, L; Filippini, G (12 December 2012). "Dietary interventions for multiple sclerosis". The Cochrane database of systematic reviews. 12: CD004192. doi:10.1002/14651858.CD004192.pub3. PMID 23235605. 
+^ Grigorian A, Araujo L, Naidu NN, Place DJ, Choudhury B, Demetriou M (September 2011). "N-acetylglucosamine inhibits T-helper 1 (Th1)/T-helper 17 (Th17) cell responses and treats experimental autoimmune encephalomyelitis". J Biol Chem. 286 (46): 40133–41. doi:10.1074/jbc.M111.277814. PMC 3220534 . PMID 21965673. 
+^ Pozuelo-Moyano B, Benito-León J, Mitchell AJ, Hernández-Gallego J (2013). "A systematic review of randomized, double-blind, placebo-controlled trials examining the clinical efficacy of vitamin D in multiple sclerosis". Neuroepidemiology (Systematic review). 40 (3): 147–53. doi:10.1159/000345122. PMC 3649517 . PMID 23257784. the available evidence substantiates neither clinically significant benefit nor harm from vitamin D in the treatment of patients with MS 
+^ Chong MS, Wolff K, Wise K, Tanton C, Winstock A, Silber E (2006). "Cannabis use in patients with multiple sclerosis". Mult. Scler. 12 (5): 646–51. doi:10.1177/1352458506070947. PMID 17086912. 
+^ Bennett M, Heard R (2004). Bennett, Michael H, ed. "Hyperbaric oxygen therapy for multiple sclerosis". Cochrane Database of Systematic Reviews (1): CD003057. doi:10.1002/14651858.CD003057.pub2. PMID 14974004. 
+^ Adams, Tim (23 May 2010). "Gut instinct: the miracle of the parasitic hookworm". The Observer. Archived from the original on 24 October 2014. 
+^ Simpson, Robert (2014). "Mindfulness based interventions in multiple sclerosis – a systematic review". BMC Neurology. Archived from the original on 16 February 2017. 
+^ a b Phadke JG (May 1987). "Survival pattern and cause of death in patients with multiple sclerosis: results from an epidemiological survey in north east Scotland". J. Neurol. Neurosurg. Psychiatry. 50 (5): 523–31. doi:10.1136/jnnp.50.5.523. PMC 1031962 . PMID 3495637. 
+^ Myhr KM, Riise T, Vedeler C, Nortvedt MW, Grønning R, Midgard R, Nyland HI (February 2001). "Disability and prognosis in multiple sclerosis: demographic and clinical variables important for the ability to walk and awarding of disability pension". Mult. Scler. 7 (1): 59–65. doi:10.1177/135245850100700110. PMID 11321195. 
+^ Lozano R, Naghavi M, Foreman K, Lim S, Shibuya K, Aboyans V, Abraham J, Adair T, Aggarwal R, Ahn SY (15 December 2012). "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010". Lancet. 380 (9859): 2095–128. doi:10.1016/S0140-6736(12)61728-0. PMID 23245604. 
+^ a b Compston A (October 1988). "The 150th anniversary of the first depiction of the lesions of multiple sclerosis". J. Neurol. Neurosurg. Psychiatry. 51 (10): 1249–52. doi:10.1136/jnnp.51.10.1249. PMC 1032909 . PMID 3066846. 
+^ Lassmann H (October 1999). "The pathology of multiple sclerosis and its evolution". Philosophical Transactions of the Royal Society B. 354 (1390): 1635–40. doi:10.1098/rstb.1999.0508. PMC 1692680 . PMID 10603616. 
+^ Lassmann H (July 2005). "Multiple sclerosis pathology: evolution of pathogenetic concepts". Brain Pathology. 15 (3): 217–22. doi:10.1111/j.1750-3639.2005.tb00523.x. PMID 16196388. 
+^ a b R. Milo, A. Miller, Revised diagnostic criteria of multiple sclerosis, Autoimmunity Reviews 13 (2014), 12 January 2014, 518–524
+^ Polman, CH; Reingold, SC; Banwell, B; Clanet, M; Cohen, JA; Filippi, M; Fujihara, K; Havrdova, E; Hutchinson, M; Kappos, L; Lublin, FD; Montalban, X; O'Connor, P; Sandberg-Wollheim, M; Thompson, AJ; Waubant, E; Weinshenker, B; Wolinsky, JS (February 2011). "Diagnostic criteria for multiple sclerosis: 2010 revisions to the McDonald criteria". Annals of Neurology. 69 (2): 292–302. doi:10.1002/ana.22366. PMC 3084507 . PMID 21387374. 
+^ Lublin, FD; Reingold, SC; Cohen, JA; Cutter, GR; Sørensen, PS; Thompson, AJ; Wolinsky, JS; Balcer, LJ; Banwell, B; Barkhof, F; Bebo B, Jr; Calabresi, PA; Clanet, M; Comi, G; Fox, RJ; Freedman, MS; Goodman, AD; Inglese, M; Kappos, L; Kieseier, BC; Lincoln, JA; Lubetzki, C; Miller, AE; Montalban, X; O'Connor, PW; Petkau, J; Pozzilli, C; Rudick, RA; Sormani, MP; Stüve, O; Waubant, E; Polman, CH (15 July 2014). "Defining the clinical course of multiple sclerosis: the 2013 revisions". Neurology. 83 (3): 278–86. doi:10.1212/WNL.0000000000000560. PMID 24871874. 
+^ Medaer R (September 1979). "Does the history of multiple sclerosis go back as far as the 14th century?". Acta Neurol. Scand. 60 (3): 189–92. doi:10.1111/j.1600-0447.1979.tb08970.x. PMID 390966. 
+^ Holmøy T (2006). "A Norse contribution to the history of neurological diseases". Eur. Neurol. 55 (1): 57–8. doi:10.1159/000091431. PMID 16479124. 
+^ Firth D (1948). The Case of August D`Esté. Cambridge: Cambridge University Press. 
+^ a b Pearce JM (2005). "Historical descriptions of multiple sclerosis". Eur. Neurol. 54 (1): 49–53. doi:10.1159/000087387. PMID 16103678. 
+^ Barbellion, Wilhelm Nero Pilate (1919). The Journal of a Disappointed Man. New York: George H. Doran. ISBN 0-7012-1906-8. 
+^ a b c d e f g Miller AE (2011). "Multiple sclerosis: where will we be in 2020?". Mt. Sinai J. Med. 78 (2): 268–79. doi:10.1002/msj.20242. PMID 21425270. 
+^ Jeffrey, susan (9 August 2012). "CONCERTO: A Third Phase 3 Trial for Laquinimod in MS". Medscape Medical News. Archived from the original on 17 September 2012. Retrieved 21 May 2013. 
+^ Kieseier BC, Calabresi PA (March 2012). "PEGylation of interferon-β-1a: a promising strategy in multiple sclerosis". CNS Drugs. 26 (3): 205–14. doi:10.2165/11596970-000000000-00000. PMID 22201341. 
+^ a b "Biogen Idec Announces Positive Top-Line Results from Phase 3 Study of Peginterferon Beta-1a in Multiple Sclerosis" (Press release). Biogen Idec. 24 January 2013. Archived from the original on 4 October 2013. Retrieved 21 May 2013. 
+^ Ron Winslow (28 March 2017). "After 40-year odyssey, first drug for aggressive MS wins FDA approval". STAT. Archived from the original on 1 April 2017. 
+^ a b c d Milo R, Panitch H (February 2011). "Combination therapy in multiple sclerosis". J. Neuroimmunol. 231 (1–2): 23–31. doi:10.1016/j.jneuroim.2010.10.021. PMID 21111490. 
+^ Luessi F, Siffrin V, Zipp F (September 2012). "Neurodegeneration in multiple sclerosis: novel treatment strategies". Expert Rev Neurother. 12 (9): 1061–76; quiz 1077. doi:10.1586/ern.12.59. PMID 23039386. 
+^ Mehta V, Pei W, Yang G, Li S, Swamy E, Boster A, Schmalbrock P, Pitt D (2013). "Iron is a sensitive biomarker for inflammation in multiple sclerosis lesions". PLoS ONE. 8 (3): e57573. doi:10.1371/journal.pone.0057573. PMC 3597727 . PMID 23516409. 
+^ a b c d Harris VK, Sadiq SA (2009). "Disease biomarkers in multiple sclerosis: potential for use in therapeutic decision making". Mol Diagn Ther. 13 (4): 225–44. doi:10.1007/BF03256329. PMID 19712003. 
+^ a b c d Filippi M, Rocca MA, De Stefano N, Enzinger C, Fisher E, Horsfield MA, Inglese M, Pelletier D, Comi G (December 2011). "Magnetic resonance techniques in multiple sclerosis: the present and the future". Arch. Neurol. 68 (12): 1514–20. doi:10.1001/archneurol.2011.914. PMID 22159052. 
+^ Kiferle L, Politis M, Muraro PA, Piccini P (February 2011). "Positron emission tomography imaging in multiple sclerosis-current status and future applications". Eur. J. Neurol. 18 (2): 226–31. doi:10.1111/j.1468-1331.2010.03154.x. PMID 20636368. 
+^ Methner A, Zipp F (February 2013). "Multiple sclerosis in 2012: Novel therapeutic options and drug targets in MS". Nature Reviews. Neurology. 9 (2): 72–3. doi:10.1038/nrneurol.2012.277. PMID 23338282. 
+^ Zamboni P, Galeotti R, Menegatti E, Malagoni AM, Tacconi G, Dall'Ara S, Bartolomei I, Salvi F (April 2009). "Chronic cerebrospinal venous insufficiency in patients with multiple sclerosis". J. Neurol. Neurosurg. Psychiatry. 80 (4): 392–9. doi:10.1136/jnnp.2008.157164. PMC 2647682 . PMID 19060024. Archived from the original on 4 August 2009. 
+^ Pullman D, Zarzeczny A, Picard A (2013). "Media, politics and science policy: MS and evidence from the CCSVI Trenches". BMC Med Ethics. 14: 6. doi:10.1186/1472-6939-14-6. PMC 3575396 . PMID 23402260. 
+^ a b Qiu J (May 2010). "Venous abnormalities and multiple sclerosis: another breakthrough claim?". Lancet Neurol. 9 (5): 464–5. doi:10.1016/S1474-4422(10)70098-3. PMID 20398855. 
+^ Ghezzi A, Comi G, Federico A (February 2011). "Chronic cerebro-spinal venous insufficiency (CCSVI) and multiple sclerosis". Neurol. Sci. 32 (1): 17–21. doi:10.1007/s10072-010-0458-3. PMID 21161309. 
+^ Dorne H, Zaidat OO, Fiorella D, Hirsch J, Prestigiacomo C, Albuquerque F, Tarr RW (October 2010). "Chronic cerebrospinal venous insufficiency and the doubtful promise of an endovascular treatment for multiple sclerosis". J NeuroIntervent Surg. 2 (4): 309–311. doi:10.1136/jnis.2010.003947. PMID 21990639. 
+^ Baracchini C, Atzori M, Gallo P (March 2013). "CCSVI and MS: no meaning, no fact". Neurol. Sci. 34 (3): 269–79. doi:10.1007/s10072-012-1101-2. PMID 22569567. 
+^ van Zuuren EJ, Fedorowicz Z, Pucci E, Jagannath VA, Robak EW (12 December 2012). "Percutaneous transluminal angioplasty for treatment of chronic cerebrospinal venous insufficiency (CCSVI) in multiple sclerosis patients". Cochrane Database of Systematic Reviews. 12: CD009903. doi:10.1002/14651858.CD009903.pub2. PMID 23235683. 
+
+
+
+External links
+
+
+Classification
+
+V · T · D
+
+
+ICD-10: G35
+ICD-9-CM: 340
+OMIM: 126200
+MeSH: D009103
+DiseasesDB: 8412
+
+
+
+
+
+External resources
+
+
+
+MedlinePlus: 000737
+eMedicine: neuro/228 oph/179 emerg/321 pmr/82 radio/461
+Patient UK: Multiple sclerosis
+GeneReviews: Overview
+
+
+
+
+
+
+
+
+
+Wikimedia Commons has media related to Multiple sclerosis.
+
+
+
+Multiple sclerosis at DMOZ
+Database for analysis and comparison of global data on the epidemiology of MS
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Multiple sclerosis and other demyelinating diseases of CNS (G35–G37, 340–341)
+
+
+
+Signs and symptoms
+
+
+
+Ataxia
+Depression
+Diplopia
+Dysarthria
+Dysphagia
+Fatigue
+Incontinence
+Neurological fatigue
+Nystagmus
+Optic neuritis
+Pain
+Uhthoff's phenomenon
+Dawson's fingers
+
+
+
+
+
+Diagnosis and evolution following
+
+
+
+Diagnostic criteria for MS
+McDonald criteria
+Poser criteria
+EDSS
+Clinically isolated syndrome
+
+
+
+
+
+Investigation
+
+
+
+Pathophysiology
+Experimental autoimmune encephalomyelitis
+Multiple sclerosis drug pipeline
+Multiple sclerosis research
+
+
+
+
+
+Approved treatment
+
+
+
+Interferon beta 1b
+Glatiramer acetate
+Interferon beta 1a
+Mitoxantrone
+Natalizumab
+Fingolimod
+Teriflunomide
+Dimethyl fumarate
+Alemtuzumab
+Daclizumab
+Ocrelizumab
+
+
+
+
+
+Borderline forms
+
+
+
+Acute disseminated encephalomyelitis
+Balo concentric sclerosis
+Neuromyelitis optica
+Marburg multiple sclerosis
+Schilder's disease
+Tumefactive multiple sclerosis (Autoimmune PNS diseases like Guillain-Barré syndrome and CIDP are normally set apart)
+AntiMOG associated encephalomyelitis
+
+
+
+
+
+Other
+
+
+
+List of people with multiple sclerosis
+List of multiple sclerosis organizations
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Diseases of the nervous system, primarily CNS (G04–G47, 323–349)
+
+
+
+Inflammation
+
+
+
+
+Brain
+
+
+
+Encephalitis
+
+Viral encephalitis
+Herpesviral encephalitis
+Limbic encephalitis
+Encephalitis lethargica
+
+
+Cavernous sinus thrombosis
+Brain abscess
+
+Amoebic
+
+
+
+
+
+
+
+Spinal cord
+
+
+
+Myelitis: Poliomyelitis
+Demyelinating disease
+
+Transverse myelitis
+
+
+Tropical spastic paraparesis
+Epidural abscess
+
+
+
+
+
+Both/either
+
+
+
+Encephalomyelitis
+
+Acute disseminated
+Myalgic
+
+
+Meningoencephalitis
+
+
+
+
+
+
+
+
+Brain/
+encephalopathy
+
+
+
+
+Degenerative
+
+
+
+
+Extrapyramidal and
+movement disorders
+
+
+
+Basal ganglia disease
+
+Parkinsonism
+
+PD
+Postencephalitic
+NMS
+
+
+PKAN
+Tauopathy
+
+PSP
+
+
+Striatonigral degeneration
+Hemiballismus
+HD
+OA
+
+
+
+
+Dyskinesia
+
+Dystonia
+
+Status dystonicus
+Spasmodic torticollis
+Meige's
+Blepharospasm
+
+
+Athetosis
+Chorea
+
+Choreoathetosis
+
+
+Myoclonus
+
+Myoclonic epilepsy
+
+
+Akathisia
+
+
+
+
+Tremor
+
+Essential tremor
+Intention tremor
+
+
+Restless legs
+Stiff person
+
+
+
+
+
+Dementia
+
+
+
+Tauopathy
+
+Alzheimer's
+
+Early-onset
+
+
+Primary progressive aphasia
+
+
+Frontotemporal dementia/Frontotemporal lobar degeneration
+
+Pick's
+Dementia with Lewy bodies
+
+
+Posterior cortical atrophy
+
+
+Vascular dementia
+
+
+
+
+
+Mitochondrial disease
+
+
+
+Leigh disease
+
+
+
+
+
+
+
+
+Demyelinating
+
+
+
+autoimmune
+
+Multiple sclerosis
+Neuromyelitis optica
+Schilder's disease
+
+
+hereditary
+
+Adrenoleukodystrophy
+Alexander
+Canavan
+Krabbe
+ML
+PMD
+VWM
+MFC
+CAMFAK syndrome
+
+
+Central pontine myelinolysis
+Marchiafava–Bignami disease
+Alpers' disease
+
+
+
+
+
+Episodic/
+paroxysmal
+
+
+
+
+Seizure/epilepsy
+
+
+
+Focal
+Generalised
+Status epilepticus
+Myoclonic epilepsy
+
+
+
+
+
+Headache
+
+
+
+Migraine
+
+Familial hemiplegic
+
+
+Cluster
+Tension
+
+
+
+
+
+Cerebrovascular
+
+
+
+TIA
+
+Amaurosis fugax
+Transient global amnesia
+Acute aphasia
+
+
+
+
+Stroke
+
+MCA
+ACA
+PCA
+Foville's
+Millard–Gubler
+Lateral medullary
+Weber's
+Lacunar stroke
+
+
+
+
+
+
+
+Sleep disorders
+
+
+
+Insomnia
+Hypersomnia
+Sleep apnea
+
+Obstructive
+Congenital central hypoventilation syndrome
+
+
+Narcolepsy
+Cataplexy
+Kleine–Levin
+Circadian rhythm sleep disorder
+
+Advanced sleep phase disorder
+Delayed sleep phase disorder
+Non-24-hour sleep–wake disorder
+Jet lag
+
+
+
+
+
+
+
+
+
+
+CSF
+
+
+
+Intracranial hypertension
+
+Hydrocephalus/NPH
+Choroid plexus papilloma
+Idiopathic intracranial hypertension
+
+
+Cerebral edema
+Intracranial hypotension
+
+
+
+
+
+Other
+
+
+
+Brain herniation
+Reye's
+Hepatic encephalopathy
+Toxic encephalopathy
+Hashimoto's encephalopathy
+
+
+
+
+
+
+
+
+Spinal cord/
+myelopathy
+
+
+
+Syringomyelia
+Syringobulbia
+Morvan's syndrome
+Vascular myelopathy
+
+Foix–Alajouanine syndrome
+
+
+Spinal cord compression
+
+
+
+
+
+Both/either
+
+
+
+
+Degenerative
+
+
+
+
+SA
+
+
+
+Friedreich's ataxia
+Ataxia-telangiectasia
+
+
+
+
+
+MND
+
+
+
+UMN only:
+
+Primary lateral sclerosis
+Pseudobulbar palsy
+Hereditary spastic paraplegia
+
+
+
+
+LMN only:
+
+Distal hereditary motor neuronopathies
+Spinal muscular atrophies
+
+SMA
+SMAX1
+SMAX2
+DSMA1
+Congenital DSMA
+SMA-PCH
+SMA-LED
+SMA-PME
+
+
+Progressive muscular atrophy
+Progressive bulbar palsy
+
+Fazio–Londe
+Infantile progressive bulbar palsy
+
+
+
+
+
+
+both:
+
+Amyotrophic lateral sclerosis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Hypersensitivity and autoimmune diseases (279.5–6)
+
+
+
+Type I/allergy/atopy
+(IgE)
+
+
+
+
+Foreign
+
+
+
+Atopic eczema
+Allergic urticaria
+Allergic rhinitis (Hay fever)
+Allergic asthma
+Anaphylaxis
+Food allergy
+
+common allergies include: Milk
+Egg
+Peanut
+Tree nut
+Seafood
+Soy
+Wheat
+
+
+Penicillin allergy
+
+
+
+
+
+Autoimmune
+
+
+
+Eosinophilic esophagitis
+
+
+
+
+
+
+
+
+Type II/ADCC
+
+
+
+IgM
+IgG
+
+
+
+
+
+
+
+
+Foreign
+
+
+
+Hemolytic disease of the newborn
+
+
+
+
+
+Autoimmune
+
+
+
+
+Cytotoxic
+
+
+
+Autoimmune hemolytic anemia
+Immune thrombocytopenic purpura
+Bullous pemphigoid
+Pemphigus vulgaris
+Rheumatic fever
+Goodpasture's syndrome
+Guillain–Barré syndrome
+
+
+
+
+
+"Type V"/receptor
+
+
+
+Graves' disease
+Myasthenia gravis
+Pernicious anemia
+
+
+
+
+
+
+
+
+
+
+
+Type III
+(Immune complex)
+
+
+
+
+Foreign
+
+
+
+Henoch–Schönlein purpura
+Hypersensitivity vasculitis
+Reactive arthritis
+Farmer's lung
+Post-streptococcal glomerulonephritis
+Serum sickness
+Arthus reaction
+
+
+
+
+
+Autoimmune
+
+
+
+Systemic lupus erythematosus
+Subacute bacterial endocarditis
+Rheumatoid arthritis
+
+
+
+
+
+
+
+
+Type IV/cell-mediated
+(T cells)
+
+
+
+
+Foreign
+
+
+
+Allergic contact dermatitis
+Mantoux test
+
+
+
+
+
+Autoimmune
+
+
+
+Diabetes mellitus type 1
+Hashimoto's thyroiditis
+Multiple sclerosis
+Coeliac disease
+Giant-cell arteritis
+Postorgasmic illness syndrome
+Reactive arthritis
+
+
+
+
+
+GVHD
+
+
+
+Transfusion-associated graft versus host disease
+
+
+
+
+
+
+
+
+Unknown/
+multiple
+
+
+
+
+Foreign
+
+
+
+Hypersensitivity pneumonitis
+
+Allergic bronchopulmonary aspergillosis
+
+
+Transplant rejection
+Latex allergy (I+IV)
+
+
+
+
+
+Autoimmune
+
+
+
+Sjögren's syndrome
+Autoimmune hepatitis
+Autoimmune polyendocrine syndrome
+
+APS1
+APS2
+
+
+Autoimmune adrenalitis
+Systemic autoimmune disease
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Multiple_sclerosis&oldid=812127582"					
+Categories: Multiple sclerosisEpstein–Barr virus-associated diseasesHidden categories: All articles with dead external linksArticles with dead external links from September 2017Articles with permanently dead external linksCS1 maint: Uses authors parameterCS1 maint: Explicit use of et al.Webarchive template wayback linksWikipedia indefinitely semi-protected pagesUse dmy dates from March 2014Articles containing potentially dated statements from 2011All articles containing potentially dated statementsWikipedia articles in need of updating from September 2015All Wikipedia articles in need of updatingArticles with DMOZ linksFeatured articlesRTT(full)RTTNEURO 
