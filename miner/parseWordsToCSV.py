@@ -11,6 +11,7 @@ If a word not exists in a particular file it would have a 0 for that column.
 import csv
 import string
 import os
+import argparse
 
 def getFileDict(filename, wordDict):
     f = open(filename, 'r')
@@ -21,7 +22,8 @@ def getFileDict(filename, wordDict):
 
             # remove the punctuation and treat all upper case the
             # same as lower case
-            word = word.translate(None, string.punctuation)
+            table = {ord(char): None for char in string.punctuation}
+            word = word.translate(table)
             word = word.lower()
 
             # if it is a valid english word
@@ -34,16 +36,16 @@ def getFileDict(filename, wordDict):
     return result
 
 
-def storeAllFile():
+def storeAllFile(input_file, output_file):
 
     # get all files in the directory
-    allFile = os.listdir('text_files')
+    allFile = os.listdir(input_file)
     wordDict = set()
     articlesInfo = []
 
     # process the files to store the name and count
     for file in allFile:
-        filePath = "text_files/" + file
+        filePath = input_file + file
         info = getFileDict(filePath, wordDict)
         info["Article_Name"] = file
         articlesInfo.append(info)
@@ -54,11 +56,10 @@ def storeAllFile():
 
     rowInfo = fillOutNotExistWord(wordDict, articlesInfo)
 
-    produceCSV(rowInfo)
+    produceCSV(rowInfo, output_file)
 
 def fillOutNotExistWord(wordDict, articlesInfo):
     result = [list(wordDict)]
-
     for info in articlesInfo:
         singleFileList = []
         for word in wordDict:
@@ -70,13 +71,20 @@ def fillOutNotExistWord(wordDict, articlesInfo):
 
     return result
 
-def produceCSV(rowInfo):
-    ofile = open('test.csv', "wb")
+def produceCSV(rowInfo, output_file):
+    ofile = open(output_file, "w")
     writer = csv.writer(ofile, quoting=csv.QUOTE_NONNUMERIC)
+    # print(rowInfo)
     writer.writerows(rowInfo)
 
 if __name__ == "__main__":
-    storeAllFile()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('input_file', type=str, help='Input file')
+    parser.add_argument('-o', '--output_file', type=str, default='out.csv')
+    args = parser.parse_args()
+    filename = args.input_file
+    outname = args.output_file
+    storeAllFile(filename, outname)
 
 
 
