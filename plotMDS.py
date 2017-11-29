@@ -73,5 +73,4 @@ if __name__ == "__main__":
     artNames = next(reader)
     x = next(reader)
     y = next(reader)
-    # print(x)
     makePlot(x, y)

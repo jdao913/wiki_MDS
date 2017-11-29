@@ -84,6 +84,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     filename = args.input_file
     outname = args.output_file
+    outname = "./parsedArticles/" + outname
     storeAllFile(filename, outname)
 
 
