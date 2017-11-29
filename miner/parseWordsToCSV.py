@@ -49,7 +49,7 @@ def storeAllFile(input_file, output_file):
         info = getFileDict(filePath, wordDict)
         info["Article_Name"] = file
         articlesInfo.append(info)
-
+    
     # add in the row for name
     wordDict = list(wordDict)
     wordDict = ["Article_Name"] + wordDict
@@ -80,7 +80,7 @@ def produceCSV(rowInfo, output_file):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('input_file', type=str, help='Input file')
-    parser.add_argument('-o', '--output_file', type=str, default='out.csv')
+    parser.add_argument('-o', '--output_file', type=str, default='articles.csv')
     args = parser.parse_args()
     filename = args.input_file
     outname = args.output_file
