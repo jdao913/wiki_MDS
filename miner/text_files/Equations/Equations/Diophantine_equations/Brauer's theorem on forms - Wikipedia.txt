@@ -1,0 +1,253 @@
+Brauer's theorem on forms - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+There also is Brauer's theorem on induced characters.
+
+In mathematics, Brauer's theorem, named for Richard Brauer, is a result on the representability of 0 by forms over certain fields in sufficiently many variables.[1]
+
+
+
+Contents
+
+
+1 Statement of Brauer's theorem
+2 An application to the field of p-adic numbers
+3 Notes
+4 References
+
+
+
+Statement of Brauer's theorem[edit]
+Let K be a field such that for every integer r > 0 there exists an integer ψ(r) such that for n ≥ ψ(r) every equation
+
+
+
+
+
+(
+∗
+)
+
+
+a
+
+1
+
+
+
+x
+
+1
+
+
+r
+
+
++
+⋯
++
+
+a
+
+n
+
+
+
+x
+
+n
+
+
+r
+
+
+=
+0
+,
+
+
+a
+
+i
+
+
+∈
+K
+,
+
+i
+=
+1
+,
+…
+,
+n
+
+
+{\displaystyle (*)\qquad a_{1}x_{1}^{r}+\cdots +a_{n}x_{n}^{r}=0,\quad a_{i}\in K,\quad i=1,\ldots ,n}
+
+
+
+has a non-trivial (i.e. not all xi are equal to 0) solution in K. Then, given homogeneous polynomials f1,...,fk of degrees r1,...,rk respectively with coefficients in K, for every set of positive integers r1,...,rk and every non-negative integer l, there exists a number ω(r1,...,rk,l) such that for n ≥ ω(r1,...,rk,l) there exists an l-dimensional affine subspace M of Kn (regarded as a vector space over K) satisfying
+
+
+
+
+
+
+f
+
+1
+
+
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+=
+⋯
+=
+
+f
+
+k
+
+
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+=
+0
+,
+
+∀
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+∈
+M
+.
+
+
+{\displaystyle f_{1}(x_{1},\ldots ,x_{n})=\cdots =f_{k}(x_{1},\ldots ,x_{n})=0,\quad \forall (x_{1},\ldots ,x_{n})\in M.}
+
+
+
+An application to the field of p-adic numbers[edit]
+Letting K be the field of p-adic numbers in the theorem, the equation (*) is satisfied, since 
+
+
+
+
+
+Q
+
+
+p
+
+
+∗
+
+
+
+/
+
+
+
+(
+
+
+Q
+
+
+p
+
+
+∗
+
+
+)
+
+
+b
+
+
+
+
+{\displaystyle \mathbb {Q} _{p}^{*}/\left(\mathbb {Q} _{p}^{*}\right)^{b}}
+
+, b a natural number, is finite. Choosing k = 1, one obtains the following corollary:
+
+A homogeneous equation f(x1,...,xn) = 0 of degree r in the field of p-adic numbers has a non-trivial solution if n is sufficiently large.
+
+One can show that if n is sufficiently large according to the above corollary, then n is greater than r2. Indeed, Emil Artin conjectured[2] that every homogeneous polynomial of degree r over Qp in more than r2 variables represents 0. This is obviously true for r = 1, and it is well known that the conjecture is true for r = 2 (see, for example, J.-P. Serre, A Course in Arithmetic, Chapter IV, Theorem 6). See quasi-algebraic closure for further context.
+In 1950 Demyanov[3] verified the conjecture for r = 3 and p ≠ 3, and in 1952 D. J. Lewis[4] independently proved the case r = 3 for all primes p. But in 1966 Guy Terjanian constructed a homogeneous polynomial of degree 4 over Q2 in 18 variables that has no non-trivial zero.[5] On the other hand, the Ax–Kochen theorem shows that for any fixed degree Artin's conjecture is true for all but finitely many Qp.
+Notes[edit]
+
+Davenport, Harold (2005). Analytic methods for Diophantine equations and Diophantine inequalities. Cambridge Mathematical Library. Edited and prepared by T. D. Browning. With a preface by R. C. Vaughan, D. R. Heath-Brown and D. E. Freeman (2nd ed.). Cambridge University Press. ISBN 0-521-60583-0. Zbl 1125.11018. 
+
+References[edit]
+
+
+
+^ R. Brauer, A note on systems of homogeneous algebraic equations, Bulletin of the American Mathematical Society, 51, pages 749-755 (1945)
+^ Collected papers of Emil Artin, page x, Addison–Wesley, Reading, Mass., 1965
+^ Demyanov, V. B. (1950). "На кубических форм дискретных линейных нормированных полей" [On cubic forms over discrete normed fields]. Doklady Akademii Nauk SSSR. 74: 889–891. 
+^ D. J. Lewis, Cubic homogeneous polynomials over p-adic number fields, Annals of Mathematics, 56, pages 473–478, (1952)
+^ Guy Terjanian, Un contre-exemple à une conjecture d'Artin, C. R. Acad. Sci. Paris Sér. A–B, 262, A612, (1966)
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Brauer%27s_theorem_on_forms&oldid=810541822"					
+Categories: Diophantine equationsTheorems in number theory 

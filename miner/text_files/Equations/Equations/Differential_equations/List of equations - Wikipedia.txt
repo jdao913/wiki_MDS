@@ -1,0 +1,260 @@
+List of equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This is a list of equations, by Wikipedia page under appropriate bands of maths, science and engineering.
+
+
+
+Contents
+
+
+1 Eponymous equations
+
+1.1 Mathematics
+1.2 Physics
+1.3 Chemistry
+1.4 Biology
+1.5 Economics
+
+
+2 Other equations
+
+2.1 Mathematics
+2.2 Physics
+2.3 Chemistry
+2.4 Telecommunications engineering
+
+
+3 Lists of equations
+4 See also
+
+
+
+Eponymous equations[edit]
+
+
+
+
+Mathematics[edit]
+
+Cauchy–Riemann equations
+Chapman–Kolmogorov equation
+Clairaut's equation
+Fredholm integral equation
+Hill differential equation
+Ishimori equation
+Laplace's equation
+Maurer–Cartan equation
+Pell's equation
+Poisson's equation
+Riccati equation
+Sine–Gordon equation
+Verhulst equation
+
+
+
+Physics[edit]
+
+Ampère's circuital law
+Bernoulli's equation
+Bogoliubov–Born–Green–Kirkwood–Yvon hierarchy of equations
+Bessel's differential equation
+Boltzmann equation
+Borda–Carnot equation
+Burger's equation
+Darcy–Weisbach equation
+Dirac equation
+
+Dirac equation in the algebra of physical space
+
+
+Doppler equations
+Drake equation (aka Green Bank equation)
+Einstein's field equation
+Einstein–Maxwell–Dirac equations
+Euler equations (fluid dynamics)
+Euler's equations (rigid body dynamics)
+Relativistic Euler equations
+Euler–Lagrange equation
+Faraday's law of induction
+Fokker–Planck equation
+Fresnel equations
+Friedmann equations
+Gauss's law for electricity
+Gauss's law for gravity
+Gauss's law for magnetism
+Gibbs–Helmholtz equation
+Gross–Pitaevskii equation
+Hamilton–Jacobi–Bellman equation
+Helmholtz equation
+Karplus equation
+
+
+
+
+Kepler's equation
+Kepler's laws of planetary motion
+Kirchhoff's diffraction formula
+Klein–Gordon equation
+Korteweg–de Vries equation
+Landau–Lifshitz–Gilbert equation
+Lane–Emden equation
+Langevin equation
+Levy–Mises equations
+Lindblad equation
+Lorentz equation
+Maxwell's equations
+Maxwell's relations
+Newton's laws of motion
+Navier–Stokes equations
+Reynolds-averaged Navier–Stokes equations
+Prandtl–Reuss equations
+Prony equation
+Rankine–Hugoniot equation
+Roothaan equations
+Sackur–Tetrode equation
+Schrödinger equation
+Screened Poisson equation
+Schwinger–Dyson equation
+Sellmeier equation
+Stokes–Einstein relation
+Tsiolkovsky rocket equation
+Van der Waals equation
+Vlasov equation
+Wiener equation
+
+
+
+Chemistry[edit]
+
+Arrhenius equation
+Butler–Volmer equation
+Henderson–Hasselbalch equation
+Michaelis–Menten equation
+Nernst equation
+Schrodinger equation
+
+Biology[edit]
+
+Lotka–Volterra equation
+
+Economics[edit]
+
+Black–Scholes equation
+Fisher equation
+
+
+
+
+
+Other equations[edit]
+
+
+
+
+Mathematics[edit]
+
+Polynomial equations
+
+Linear equation
+Quadratic equation
+Cubic equation
+Biquadratic equation
+Quartic equation
+Quintic equation
+Sextic equation
+
+
+Characteristic equation
+Class equation
+Comparametric equation
+Difference equation
+
+Matrix difference equation
+
+
+Differential equation
+
+Matrix differential equation
+Ordinary differential equation
+Partial differential equation
+Total differential equation
+
+
+Diophantine equation
+Equation
+Modular equation
+Parametric equation
+Replicator equation
+
+
+
+Physics[edit]
+
+Advection equation
+Barotropic vorticity equation
+Continuity equation
+Diffusion equation
+Drag equation
+Equation of motion
+Equation of state
+Equation of time
+Heat equation
+Ideal gas equation
+Ionic equation
+Mass-energy equivalence equation
+Primitive equations
+Relativistic wave equations
+Vorticity equation
+Wave equation
+
+
+
+Chemistry[edit]
+
+Chemical equation (aka molecular equation)
+Thermochemical equation
+
+Telecommunications engineering[edit]
+
+Password length equation
+Telegrapher's equations
+
+
+
+
+
+Lists of equations[edit]
+
+Constitutive equation
+Laws of science
+Defining equation (physical chemistry)
+Defining equation (physics)
+List of equations in classical mechanics
+Table of thermodynamic equations
+List of equations in wave theory
+List of electromagnetism equations
+List of relativistic equations
+List of equations in fluid mechanics
+List of equations in gravitation
+List of photonics equations
+List of equations in quantum mechanics
+List of equations in nuclear and particle physics
+
+See also[edit]
+
+Variables commonly used in physics
+Equation solving
+Theory of equations
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_equations&oldid=793391531"					
+Categories: EquationsDifferential equationsMathematics-related lists 

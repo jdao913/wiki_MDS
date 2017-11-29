@@ -1,0 +1,606 @@
+Transcendental equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs attention from an expert in mathematics. Please add a reason or a talk parameter to this template to explain the issue with the article. WikiProject Mathematics may be able to help recruit an expert. (October 2011)
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2011) (Learn how and when to remove this template message)
+
+
+
+A transcendental equation is an equation containing a transcendental function of the variable(s) being solved for. Such equations often do not have closed-form solutions. Examples include:
+
+
+
+
+
+
+
+
+
+x
+
+
+
+=
+
+e
+
+−
+x
+
+
+
+
+
+
+x
+
+
+
+=
+cos
+⁡
+x
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}x&=e^{-x}\\x&=\cos x\end{aligned}}}
+
+
+
+Solvable transcendental equations[edit]
+Equations where the variable to be solved for appears only once, as an argument to the transcendental function, are easily solvable with inverse functions; similarly if the equation can be factored or transformed to such a case:
+
+
+Equation
+Solutions
+
+
+
+
+
+
+ln
+⁡
+x
+=
+3
+
+
+{\displaystyle \ln x=3}
+
+
+
+
+
+
+x
+=
+
+e
+
+3
+
+
+
+
+{\displaystyle x=e^{3}}
+
+
+
+
+
+
+
+
+sin
+⁡
+x
+=
+0
+
+
+{\displaystyle \sin x=0}
+
+
+
+
+
+
+x
+=
+π
+n
+
+
+{\displaystyle x=\pi n}
+
+ (for 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ an integer)
+
+
+
+
+
+
+cos
+⁡
+x
+=
+sin
+⁡
+
+2
+x
+
+
+
+{\displaystyle \cos x=\sin {2x}}
+
+
+equivalent to 
+
+
+
+cos
+⁡
+x
+=
+2
+sin
+⁡
+x
+cos
+⁡
+x
+
+
+{\displaystyle \cos x=2\sin x\cos x}
+
+ (using the double-angle formula), whose solutions are those of 
+
+
+
+cos
+⁡
+x
+=
+0
+
+
+{\displaystyle \cos x=0}
+
+ and of 
+
+
+
+2
+sin
+⁡
+x
+=
+1
+
+
+{\displaystyle 2\sin x=1}
+
+, namely 
+
+
+
+x
+=
+π
+n
++
+π
+
+/
+
+2
+
+
+{\displaystyle x=\pi n+\pi /2}
+
+ and 
+
+
+
+x
+=
+
+2
+π
+m
+
++
+π
+
+/
+
+6
+
+
+{\displaystyle x={2\pi m}+\pi /6}
+
+ and 
+
+
+
+x
+=
+π
+(
+2
+k
++
+1
+)
+−
+π
+
+/
+
+6
+
+
+{\displaystyle x=\pi (2k+1)-\pi /6}
+
+ (for 
+
+
+
+m
+,
+n
+,
+k
+
+
+{\displaystyle m,n,k}
+
+ integers)
+
+
+Some can be solved because they are compositions of algebraic functions with transcendental functions.
+
+
+Equation
+Solutions
+
+
+
+
+
+
+3
+(
+
+2
+
+x
+
+
+)
+−
+2
+=
+
+4
+
+x
+
+
+
+
+{\displaystyle 3(2^{x})-2=4^{x}}
+
+
+solve 
+
+
+
+3
+q
+−
+2
+=
+
+q
+
+2
+
+
+
+
+{\displaystyle 3q-2=q^{2}}
+
+, giving 
+
+
+
+q
+=
+1
+
+
+{\displaystyle q=1}
+
+ or 
+
+
+
+q
+=
+2
+
+
+{\displaystyle q=2}
+
+, then 
+
+
+
+
+2
+
+x
+
+
+=
+q
+
+
+{\displaystyle 2^{x}=q}
+
+, so 
+
+
+
+x
+=
+0
+
+
+{\displaystyle x=0}
+
+ or 
+
+
+
+x
+=
+1
+
+
+{\displaystyle x=1}
+
+
+
+
+But most equations where the variable appears both as an argument to a transcendental function and elsewhere in the equation are not solvable in closed form, or have only trivial solutions.
+
+
+Equation
+Solutions
+
+
+
+
+
+
+
+e
+
+x
+
+
+=
+x
+
+
+{\displaystyle e^{x}=x}
+
+
+No real solutions, as 
+
+
+
+
+e
+
+x
+
+
+>
+x
+
+
+{\displaystyle e^{x}>x}
+
+ for all 
+
+
+
+x
+
+
+{\displaystyle x}
+
+
+
+
+
+
+
+
+sin
+⁡
+x
+=
+x
+
+
+{\displaystyle \sin x=x}
+
+
+
+
+
+
+x
+=
+0
+
+
+{\displaystyle x=0}
+
+ is the only real solution
+
+
+Approximate solutions[edit]
+Approximate numerical solutions to transcendental equations can be found using numerical, analytical approximations, or graphical methods.
+Numerical methods for solving arbitrary equations are called root-finding algorithms.
+In some cases, the equation can be well approximated using Taylor series near the zero. For example, for 
+
+
+
+k
+≈
+1
+
+
+{\displaystyle k\approx 1}
+
+, the solutions of 
+
+
+
+sin
+⁡
+x
+=
+k
+x
+
+
+{\displaystyle \sin x=kx}
+
+ are approximately those of 
+
+
+
+(
+1
+−
+k
+)
+x
+−
+
+x
+
+3
+
+
+
+/
+
+6
+=
+0
+
+
+{\displaystyle (1-k)x-x^{3}/6=0}
+
+, namely 
+
+
+
+x
+=
+0
+
+
+{\displaystyle x=0}
+
+ and 
+
+
+
+x
+=
+±
+
+
+6
+
+
+
+
+1
+−
+k
+
+
+
+
+{\displaystyle x=\pm {\sqrt {6}}{\sqrt {1-k}}}
+
+.
+For a graphical solution, one method is to set each side of a single variable transcendental equation equal to a dependent variable and plot the two graphs, using their intersecting points to find solutions.
+In some cases, special functions can be used to write the solutions to transcendental equations in closed form. In particular, 
+
+
+
+x
+=
+
+e
+
+−
+x
+
+
+
+
+{\displaystyle x=e^{-x}}
+
+ has a solution in terms of the Lambert W function.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Transcendental_equation&oldid=797898964"					
+Categories: EquationsHidden categories: Articles needing expert attention with no reason or talk parameterArticles needing expert attention from October 2011All articles needing expert attentionMathematics articles needing expert attentionArticles needing additional references from October 2011All articles needing additional references 

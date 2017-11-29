@@ -1,0 +1,28 @@
+Mobile Emergency Alert System - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Mobile Emergency Alert System (M-EAS) is an information distribution system that utilizes existing digital television spectrum and towers to provide information in emergency situations using rich media. The system can push text, web pages, and video to compatible equipment, such as mobile DTV devices.[1][2] M-EAS is different than existing 90-character Wireless Emergency Alerts (WEA) available to cellphones, as it allows video, audio, photos and graphics, too.
+Proponents of the technology point to modern reliance on mobile communication technologies and failures of the cellular network due to overload, power outage or other emergency-related damage. M-EAS does not rely on the network of cellular towers, instead making use of existing digital television broadcast equipment.
+M-EAS is being standardized by the Advanced Television Systems Committee as part of ATSC-M/H, the mobile digital TV standard. WRAL-TV in Raleigh, North Carolina, was the first commercial broadcaster in the United States to demonstrate the system in 2012.[2]
+A similar system in Japan is credited with saving many lives ahead of the 2011 Tōhoku earthquake and tsunami.[3]
+References[edit]
+
+
+
+^ "M-EAS explained". WRAL-TV. 
+^ a b TVTechnology: WRAL-TV to Demo Mobile EAS
+^ Mobile Emergency Alert System Promises Flexible New Option for Emergency Managers and First Responders : PBS
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Mobile_Emergency_Alert_System&oldid=799018755"					
+Categories: Digital television in the United States 

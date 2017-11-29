@@ -1,0 +1,277 @@
+Ionic strength - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+The concept of ionic strength was first introduced by Lewis and Randall in 1921 while describing the activity coefficients of strong electrolytes.[1] The ionic strength of a solution is a measure of the concentration of ions in that solution. Ionic compounds, when dissolved in water, dissociate into ions. The total electrolyte concentration in solution will affect important properties such as the dissociation constant or the solubility of different salts. One of the main characteristics of a solution with dissolved ions is the ionic strength. Ionic strength can be molar (mol/L) or molal (mol/kg water) and to avoid confusion the units should be stated explicitly.[2]
+
+
+
+Contents
+
+
+1 Quantifying ionic strength
+
+1.1 Calculation example
+
+
+2 Non-ideal solutions
+3 Importance
+4 See also
+5 External links
+6 References
+
+
+
+Quantifying ionic strength[edit]
+The molar ionic strength, I, of a solution is a function of the concentration of all ions present in that solution.[3]
+
+
+
+
+I
+=
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+∑
+
+
+
+i
+
+
+=
+1
+
+
+n
+
+
+
+c
+
+
+i
+
+
+
+
+z
+
+
+i
+
+
+
+2
+
+
+
+
+{\displaystyle I={\begin{matrix}{\frac {1}{2}}\end{matrix}}\sum _{{\rm {i}}=1}^{n}c_{\rm {i}}z_{\rm {i}}^{2}}
+
+
+where one half is because we are including both cations and anions, ci is the molar concentration of ion i (M, mol/L), zi is the charge number of that ion, and the sum is taken over all ions in the solution. For a 1:1 electrolyte such as sodium chloride, where each ion is singly-charged, the ionic strength is equal to the concentration. For the electrolyte MgSO4, however, each ion is doubly-charged, leading to an ionic strength that is four times higher than an equivalent concentration of sodium chloride:
+
+
+
+
+I
+=
+
+
+1
+2
+
+
+[
+c
+(
++
+2
+
+)
+
+2
+
+
++
+c
+(
+−
+2
+
+)
+
+2
+
+
+]
+=
+
+
+1
+2
+
+
+[
+4
+c
++
+4
+c
+]
+=
+4
+c
+
+
+{\displaystyle I={\frac {1}{2}}[c(+2)^{2}+c(-2)^{2}]={\frac {1}{2}}[4c+4c]=4c}
+
+
+Generally multivalent ions contribute strongly to the ionic strength.
+Calculation example[edit]
+As a more complex example, the ionic strength of a mixed solution 0.050 M in Na2SO4 and 0.020 M in KCl is:
+
+I = 1/2 × [(concentration of Na2SO4 in M × # of sodium ions × (charge of sodium)2) + (concentration of Na2SO4 in M × # of SO4 ions × (charge of SO4)2) + (concentration of KCl × # of potassium ions × (charge of potassium)2) + (concentration of KCl in M × # of chloride ions × (charge of chloride)2)]
+
+
+I = 1/2 × [(0.050 M × 2 × (+1)2) + (0.050 M × 1 × (−2)2) + (0.020 M × 1 × (+1)2) + (0.020 M × 1 × (−1)2)] = 0.17 M
+
+Non-ideal solutions[edit]
+Because in non-ideal solutions volumes are no longer strictly additive it is often preferable to work with molality b (mol/kg of H2O) rather than molarity c (mol/L). In that case, molal ionic strength is defined as:
+
+
+
+
+I
+=
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+
+∑
+
+
+i
+
+=
+1
+
+
+n
+
+
+
+b
+
+i
+
+
+
+z
+
+i
+
+
+2
+
+
+
+
+{\displaystyle I={\begin{matrix}{\frac {1}{2}}\end{matrix}}\sum _{{i}=1}^{n}b_{i}z_{i}^{2}}
+
+
+in which
+
+i = ion identification number
+z = charge of ion
+
+Importance[edit]
+The ionic strength plays a central role in the Debye–Hückel theory that describes the strong deviations from ideality typically encountered in ionic solutions.[4][5] It is also important for the theory of double layer and related electrokinetic phenomena and electroacoustic phenomena in colloids and other heterogeneous systems. That is, the Debye length, which is the inverse of the Debye parameter (κ), is inversely proportional to the square root of the ionic strength. Both molar and molal ionic strength have been used, often without explicit definition. Debye length is characteristic of the double layer thickness. Increasing the concentration or valence of the counterions compresses the double layer and increases the electrical potential gradient.
+Media of high ionic strength are used in stability constant determination in order to minimize changes, during a titration, in the activity quotient of solutes at lower concentrations. Natural waters such as mineral water and seawater have often a non-negligible ionic strength due to the presence of dissolved salts which significantly affects their properties.
+See also[edit]
+
+Activity (chemistry)
+Activity coefficient
+Bromley equation
+Davies equation
+Debye–Hückel equation
+Debye–Hückel theory
+Double layer (interfacial)
+Double layer (electrode)
+Double layer forces
+Electrical double layer
+Gouy-Chapman model
+Flocculation
+Peptization (the inverse of flocculation)
+DLVO theory (from Derjaguin, Landau, Verwey and Overbeek)
+Interface and colloid science
+Osmotic coefficient
+Pitzer equations
+Poisson–Boltzmann equation
+Specific ion Interaction Theory
+Salting in
+Salting out
+
+External links[edit]
+
+Ionic strength
+Ionic strength introduction at the EPA web site
+
+References[edit]
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2008) (Learn how and when to remove this template message)
+
+
+
+
+
+
+^ Sastre de Vicente, Manuel E. (2004). "The concept of ionic strength eighty years after its introduction in chemistry". Journal of Chemical Education. 81 (5): 750. Bibcode:2004JChEd..81..750S. doi:10.1021/ed081p750. 
+^ Solomon, Theodros (2001). "The definition and unit of ionic strength". Journal of Chemical Education. 78 (12): 1691. Bibcode:2001JChEd..78.1691S. doi:10.1021/ed078p1691. 
+^ IUPAC, Compendium of Chemical Terminology, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "Ionic strength, I".
+^ Debye, P.; Huckel, E. (1923). "Zur Theorie der Elektrolyte. I. Gefrierpunktserniedrigung und verwandte Erscheinungen" [The theory of electrolytes. I. Lowering of freezing point and related phenomena] (PDF). Physikalische Zeitschrift. 24: 185–206. Archived from the original (PDF) on 2013-11-02. 
+^ Skoog, D.A.; West, D.M.; Holler, F.J.; Crouch, S.R. (2004). Fundamentals of analytical chemistry. Brooks/Cole Pub Co. ISBN 0-03-058459-0. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ionic_strength&oldid=810576306"					
+Categories: Analytical chemistryColloidal chemistryElectrochemical equationsElectrochemistryEquilibrium chemistryPhysical chemistryPhysical quantitiesHidden categories: Articles needing additional references from October 2008All articles needing additional references 

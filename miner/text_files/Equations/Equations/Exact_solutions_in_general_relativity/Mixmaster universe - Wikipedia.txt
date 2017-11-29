@@ -1,0 +1,825 @@
+Mixmaster universe - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Mixmaster universe (named after Sunbeam Mixmaster, a brand of Sunbeam Products electric kitchen mixer)[1] is a solution to Einstein field equations of general relativity studied by Charles Misner in an effort to better understand the dynamics of the early universe.[2] He hoped to solve the horizon problem in a natural way by showing that the early universe underwent an oscillatory, chaotic epoch.
+
+
+
+Contents
+
+
+1 Discussion
+2 Metric
+3 Applications to cosmology
+4 See also
+5 References
+
+
+
+Discussion[edit]
+The model is similar to the closed Friedmann–Lemaître–Robertson–Walker universe, in that spatial slices are positively curved and are topologically three-spheres 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+. However, in the FRW universe, the 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+ can only expand or contract: the only dynamical parameter is overall size of the 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+, parameterized by the scale factor 
+
+
+
+a
+(
+t
+)
+
+
+{\displaystyle a(t)}
+
+. In the Mixmaster universe, the 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+ can expand or contract, but also distort anisotropically. Its evolution is described by a scale factor 
+
+
+
+a
+(
+t
+)
+
+
+{\displaystyle a(t)}
+
+ as well as by two shape parameters 
+
+
+
+
+β
+
+±
+
+
+(
+t
+)
+
+
+{\displaystyle \beta _{\pm }(t)}
+
+. Values of the shape parameters describe distortions of the 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+ that preserve its volume and also maintain a constant Ricci curvature scalar. Therefore, as the three parameters 
+
+
+
+a
+,
+
+β
+
+±
+
+
+
+
+{\displaystyle a,\beta _{\pm }}
+
+ assume different values, homogeneity but not isotropy is preserved.
+The model has a rich dynamical structure. Misner showed that the shape parameters 
+
+
+
+
+β
+
+±
+
+
+(
+t
+)
+
+
+{\displaystyle \beta _{\pm }(t)}
+
+ act like the coordinates of a point mass moving in a triangular potential with steeply rising walls with friction. By studying the motion of this point, Misner showed that the physical universe would expand in some directions and contract in others, with the directions of expansion and contraction changing repeatedly. Because the potential is roughly triangular, Misner suggested that the evolution is chaotic.
+Metric[edit]
+The metric studied by Misner (very slightly modified from his notation) is given by,
+
+
+
+
+
+
+d
+
+
+s
+
+2
+
+
+=
+−
+
+d
+
+
+t
+
+2
+
+
++
+
+∑
+
+k
+=
+1
+
+
+3
+
+
+
+
+L
+
+k
+
+
+2
+
+
+(
+t
+)
+
+
+σ
+
+k
+
+
+⊗
+
+σ
+
+k
+
+
+
+
+{\displaystyle {\text{d}}s^{2}=-{\text{d}}t^{2}+\sum _{k=1}^{3}{L_{k}^{2}(t)}\sigma _{k}\otimes \sigma _{k}}
+
+
+
+where
+
+
+
+
+
+
+L
+
+k
+
+
+=
+R
+(
+t
+)
+
+e
+
+
+β
+
+k
+
+
+
+
+
+
+{\displaystyle L_{k}=R(t)e^{\beta _{k}}}
+
+
+
+and the 
+
+
+
+
+σ
+
+k
+
+
+
+
+{\displaystyle \sigma _{k}}
+
+, considered as differential forms, are defined by
+
+
+
+
+
+
+σ
+
+1
+
+
+=
+sin
+⁡
+ψ
+
+d
+
+θ
+−
+cos
+⁡
+ψ
+sin
+⁡
+θ
+
+d
+
+ϕ
+
+
+{\displaystyle \sigma _{1}=\sin \psi {\text{d}}\theta -\cos \psi \sin \theta {\text{d}}\phi }
+
+
+
+
+
+
+
+
+
+σ
+
+2
+
+
+=
+cos
+⁡
+ψ
+
+d
+
+θ
++
+sin
+⁡
+ψ
+sin
+⁡
+θ
+
+d
+
+ϕ
+
+
+{\displaystyle \sigma _{2}=\cos \psi {\text{d}}\theta +\sin \psi \sin \theta {\text{d}}\phi }
+
+
+
+
+
+
+
+
+
+σ
+
+3
+
+
+=
+−
+
+d
+
+ψ
+−
+cos
+⁡
+θ
+
+d
+
+ϕ
+
+
+{\displaystyle \sigma _{3}=-{\text{d}}\psi -\cos \theta {\text{d}}\phi }
+
+
+
+In terms of the coordinates 
+
+
+
+(
+θ
+,
+ψ
+,
+ϕ
+)
+
+
+{\displaystyle (\theta ,\psi ,\phi )}
+
+. These satisfy
+
+
+
+
+
+
+d
+
+
+σ
+
+i
+
+
+=
+
+
+1
+2
+
+
+
+ϵ
+
+i
+j
+k
+
+
+
+σ
+
+j
+
+
+∧
+
+σ
+
+k
+
+
+
+
+{\displaystyle {\text{d}}\sigma _{i}={\frac {1}{2}}\epsilon _{ijk}\sigma _{j}\wedge \sigma _{k}}
+
+
+
+where 
+
+
+
+
+d
+
+
+
+{\displaystyle {\text{d}}}
+
+ is the exterior derivative and 
+
+
+
+∧
+
+
+{\displaystyle \wedge }
+
+ the wedge product of differential forms. This relationship is reminiscent of the commutation relations for the Lie algebra of SU(2). The group manifold for SU(2) is the three-sphere 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+, and indeed the 
+
+
+
+
+σ
+
+k
+
+
+
+
+{\displaystyle \sigma _{k}}
+
+ describe the metric of an 
+
+
+
+
+S
+
+3
+
+
+
+
+{\displaystyle S^{3}}
+
+ that is allowed to distort anisotropically thanks to the presence of the 
+
+
+
+
+L
+
+k
+
+
+(
+t
+)
+
+
+{\displaystyle L_{k}(t)}
+
+. Misner defines parameters 
+
+
+
+Ω
+(
+t
+)
+
+
+{\displaystyle \Omega (t)}
+
+ and 
+
+
+
+R
+(
+t
+)
+
+
+{\displaystyle R(t)}
+
+ which measure the volume of spatial slices, as well as "shape parameters" 
+
+
+
+
+β
+
+k
+
+
+
+
+{\displaystyle \beta _{k}}
+
+, by
+
+
+
+
+
+R
+(
+t
+)
+=
+
+e
+
+−
+Ω
+(
+t
+)
+
+
+=
+(
+
+L
+
+1
+
+
+(
+t
+)
+
+L
+
+2
+
+
+(
+t
+)
+
+L
+
+3
+
+
+(
+t
+)
+
+)
+
+1
+
+/
+
+3
+
+
+,
+
+
+∑
+
+k
+=
+1
+
+
+3
+
+
+
+β
+
+k
+
+
+(
+t
+)
+=
+0
+
+
+{\displaystyle R(t)=e^{-\Omega (t)}=(L_{1}(t)L_{2}(t)L_{3}(t))^{1/3},\quad \sum _{k=1}^{3}\beta _{k}(t)=0}
+
+.
+
+
+Since there is one condition on the three 
+
+
+
+
+β
+
+k
+
+
+
+
+{\displaystyle \beta _{k}}
+
+, there should only be two free functions, which Misner chooses to be 
+
+
+
+
+β
+
+±
+
+
+
+
+{\displaystyle \beta _{\pm }}
+
+, defined as
+
+
+
+
+
+
+β
+
++
+
+
+=
+
+β
+
+1
+
+
++
+
+β
+
+2
+
+
+=
+−
+
+β
+
+3
+
+
+,
+
+
+β
+
+−
+
+
+=
+
+
+
+
+β
+
+1
+
+
+−
+
+β
+
+2
+
+
+
+
+3
+
+
+
+
+
+{\displaystyle \beta _{+}=\beta _{1}+\beta _{2}=-\beta _{3},\quad \beta _{-}={\frac {\beta _{1}-\beta _{2}}{\sqrt {3}}}}
+
+
+
+The evolution of the universe is then described by finding 
+
+
+
+
+β
+
+±
+
+
+
+
+{\displaystyle \beta _{\pm }}
+
+ as functions of 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+.
+Applications to cosmology[edit]
+Misner hoped that the chaos would churn up and smooth out the early universe. Also, during periods in which one direction was static (e.g., going from expansion to contraction) formally the Hubble horizon 
+
+
+
+
+H
+
+−
+1
+
+
+
+
+{\displaystyle H^{-1}}
+
+ in that direction is infinite, which he suggested meant that the horizon problem could be solved. Since the directions of expansion and contraction varied, presumably given enough time the horizon problem would get solved in every direction.
+While an interesting example of gravitational chaos, it is widely recognized that the cosmological problems the Mixmaster universe attempts to solve are more elegantly tackled by cosmic inflation. The metric Misner studied is also known as the Bianchi type IX metric.
+See also[edit]
+
+Bianchi classification
+BKL singularity
+
+References[edit]
+
+
+^ Barry R. Parker, Chaos in the Cosmos: The Stunning Complexity of the Universe, Springer, 2013, p. 257.
+^ Charles W. Misner, "Mixmaster Universe", Physical Review Letters, Vol. 22, Issue 20 (May 1969), pp. 1071-1074, doi:10.1103/PhysRevLett.22.1071, Bibcode: 1969PhRvL..22.1071M. Mirror link. Also available as an entry in the Gravity Research Foundation's 1969 essay competition. Mirror link.
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Mixmaster_universe&oldid=796696259"					
+Categories: Exact solutions in general relativity 

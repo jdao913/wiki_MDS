@@ -1,0 +1,551 @@
+Cahn–Hilliard equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Cahn–Hilliard equation (after John W. Cahn and John E. Hilliard) is an equation of mathematical physics which describes the process of phase separation, by which the two components of a binary fluid spontaneously separate and form domains pure in each component. If 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is the concentration of the fluid, with 
+
+
+
+c
+=
+±
+1
+
+
+{\displaystyle c=\pm 1}
+
+ indicating domains, then the equation is written as
+
+
+
+
+
+
+
+
+∂
+c
+
+
+∂
+t
+
+
+
+=
+D
+
+∇
+
+2
+
+
+
+(
+
+c
+
+3
+
+
+−
+c
+−
+γ
+
+∇
+
+2
+
+
+c
+)
+
+,
+
+
+{\displaystyle {\frac {\partial c}{\partial t}}=D\nabla ^{2}\left(c^{3}-c-\gamma \nabla ^{2}c\right),}
+
+
+
+where 
+
+
+
+D
+
+
+{\displaystyle D}
+
+ is a diffusion coefficient with units of 
+
+
+
+
+
+Length
+
+
+2
+
+
+
+/
+
+
+Time
+
+
+
+{\displaystyle {\text{Length}}^{2}/{\text{Time}}}
+
+ and 
+
+
+
+
+
+γ
+
+
+
+
+{\displaystyle {\sqrt {\gamma }}}
+
+ gives the length of the transition regions between the domains. Here 
+
+
+
+∂
+
+/
+
+
+∂
+t
+
+
+
+{\displaystyle \partial /{\partial t}}
+
+ is the partial time derivative and 
+
+
+
+
+∇
+
+2
+
+
+
+
+{\displaystyle \nabla ^{2}}
+
+ is the Laplacian in 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ dimensions. Additionally, the quantity 
+
+
+
+μ
+=
+
+c
+
+3
+
+
+−
+c
+−
+γ
+
+∇
+
+2
+
+
+c
+
+
+{\displaystyle \mu =c^{3}-c-\gamma \nabla ^{2}c}
+
+ is identified as a chemical potential.
+Related to it is the Allen–Cahn equation, as well as the Stochastic Cahn–Hilliard Equation and the Stochastic Allen–Cahn equation.
+Features and applications[edit]
+Of interest to mathematicians is the existence of a unique solution of the Cahn–Hilliard equation, given by smooth initial data. The proof relies essentially on the existence of a Lyapunov functional. Specifically, if we identify
+
+
+
+
+
+F
+[
+c
+]
+=
+∫
+
+d
+
+n
+
+
+x
+
+[
+
+
+1
+4
+
+
+
+
+(
+
+c
+
+2
+
+
+−
+1
+)
+
+
+2
+
+
++
+
+
+γ
+2
+
+
+
+
+|
+∇
+c
+|
+
+
+2
+
+
+]
+
+,
+
+
+{\displaystyle F[c]=\int d^{n}x\left[{\frac {1}{4}}\left(c^{2}-1\right)^{2}+{\frac {\gamma }{2}}\left|\nabla c\right|^{2}\right],}
+
+
+
+as a free energy functional, then
+
+
+
+
+
+
+
+
+d
+F
+
+
+d
+t
+
+
+
+=
+−
+∫
+
+d
+
+n
+
+
+x
+
+
+|
+∇
+μ
+|
+
+
+2
+
+
+,
+
+
+{\displaystyle {\frac {dF}{dt}}=-\int d^{n}x\left|\nabla \mu \right|^{2},}
+
+
+
+so that the free energy decays to zero. This also indicates segregation into domains is the asymptotic outcome of the evolution of this equation.
+In real experiments, the segregation of an initially mixed binary fluid into domains is observed. The segregation is characterized by the following facts.
+
+
+
+
+Evolution of random initial data under the Cahn–Hilliard equation with 
+
+
+
+γ
+=
+0.5
+
+
+{\displaystyle \gamma =0.5}
+
+ and 
+
+
+
+C
+=
+0
+
+
+{\displaystyle C=0}
+
+, demonstrating phase separation.
+
+
+
+There is a transition layer between the segregated domains, with a profile given by the function 
+
+
+
+c
+(
+x
+)
+=
+tanh
+⁡
+
+(
+
+
+x
+
+2
+γ
+
+
+
+)
+
+,
+
+
+{\displaystyle c(x)=\tanh \left({\frac {x}{\sqrt {2\gamma }}}\right),}
+
+ and hence a typical width 
+
+
+
+
+
+γ
+
+
+
+
+{\displaystyle {\sqrt {\gamma }}}
+
+ because this function is an equilibrium solution of the Cahn–Hilliard equation.
+Of interest also is the fact that the segregated domains grow in time as a power law. That is, if 
+
+
+
+L
+(
+t
+)
+
+
+{\displaystyle L(t)}
+
+ is a typical domain size, then 
+
+
+
+L
+(
+t
+)
+∝
+
+t
+
+1
+
+/
+
+3
+
+
+
+
+{\displaystyle L(t)\propto t^{1/3}}
+
+. This is the Lifshitz–Slyozov law, and has been proved rigorously for the Cahn–Hilliard equation and observed in numerical simulations and real experiments on binary fluids.
+The Cahn–Hilliard equation has the form of a conservation law, 
+
+
+
+
+
+
+∂
+c
+
+
+∂
+t
+
+
+
+=
+∇
+⋅
+
+
+j
+
+
+(
+x
+)
+,
+
+
+{\displaystyle {\frac {\partial c}{\partial t}}=\nabla \cdot {\mathbf {j}}(x),}
+
+ with 
+
+
+
+
+
+j
+
+
+(
+x
+)
+=
+D
+∇
+μ
+
+
+{\displaystyle {\mathbf {j}}(x)=D\nabla \mu }
+
+. Thus the phase separation process conserves the total concentration 
+
+
+
+C
+=
+∫
+
+d
+
+n
+
+
+x
+c
+
+(
+x
+,
+t
+)
+
+
+
+{\displaystyle C=\int d^{n}xc\left(x,t\right)}
+
+, so that 
+
+
+
+
+
+
+d
+C
+
+
+d
+t
+
+
+
+=
+0
+
+
+{\displaystyle {\frac {dC}{dt}}=0}
+
+.
+When one phase is significantly more abundant, the Cahn–Hilliard equation can show the phenomenon known as Ostwald ripening, where the minority phase forms spherical droplets, and the smaller droplets are absorbed through diffusion into the larger ones.
+
+The Cahn–Hilliard equations finds applications in diverse fields: in complex fluids and soft matter (interfacial fluid flow, polymer science and in industrial applications). The solution of the Cahn–Hilliard equation for a binary mixture demonstrated to coincide well with the solution of a Stefan problem and the model of Thomas and Windle.[1] Of interest to researchers at present is the coupling of the phase separation of the Cahn–Hilliard equation to the Navier–Stokes equations of fluid flow.
+References[edit]
+
+
+
+^ F. J. Vermolen, M.G. Gharasoo, P. L. J. Zitha, J. Bruining. (2009). Numerical Solutions of Some Diffuse Interface Problems: The Cahn-Hilliard Equation and the Model of Thomas and Windle. IntJMultCompEng,7(6):523–543.
+
+
+
+
+J. W. Cahn and J. E. Hilliard, “Free energy of a nonuniform system. I. Interfacial free energy,” J. Chem. Phys. 28, 258 (1958).
+A. J. Bray, “Theory of phase-ordering kinetics,” Adv. Phys. 43, 357 (1994).
+J. Zhu, L. Q. Chen, J. Shen, V. Tikare, and A. Onuki, “Coarsening kinetics from a variable mobility Cahn–Hilliard equation: Application of a semi-implicit Fourier spectral method,” Phys. Rev. E 60, 3564 (1999).
+C. M. Elliott and S. Zheng, “On the Cahn–Hilliard equation,” Arch. Rat. Mech. Anal. 96, 339 (1986).
+P. Areias, E. Samaniego and T. Rabczuk, “A staggered approach for the coupling of Cahn--Hilliard type diffusion and finite strain elasticity,” Comp. Mech. 57(2), 339-351 (2016).
+T. Hashimoto, K. Matsuzaka, and E. Moses, “String phase in phase-separating fluids under shear flow,” Phys. Rev. Lett. 74, 126 (1995).
+T. Ursell, “Cahn–Hilliard Kinetics and Spinodal Decomposition in a Diffuse System,” California Institute of Technology (2007).
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Cahn–Hilliard_equation&oldid=801308342"					
+Categories: Equations of fluid dynamicsPartial differential equationsEquations 

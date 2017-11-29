@@ -1,0 +1,474 @@
+Penman–Monteith equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs attention from an expert in Meteorology. Please add a reason or a talk parameter to this template to explain the issue with the article. WikiProject Meteorology may be able to help recruit an expert. (October 2012)
+
+
+
+Like the Penman equation, the Penman–Monteith equation (after Howard Penman and John Monteith) approximates net evapotranspiration (ET), requiring as input daily mean temperature, wind speed, relative humidity and solar radiation. Other than radiation, these parameter are implicit in the derivation of 
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+, 
+
+
+
+
+c
+
+p
+
+
+
+
+{\displaystyle c_{p}}
+
+, and 
+
+
+
+
+δ
+
+q
+
+
+
+
+{\displaystyle \delta _{q}}
+
+, if not conductances below.
+The United Nations Food and Agriculture Organization (FAO) standard methods for modeling evapotranspiration use a Penman–Monteith equation.[1] The standard methods of the American Society of Civil Engineers modify that Penman–Monteith equation for use with an hourly time step. The SWAT model is one of many GIS-integrated hydrologic models[2] estimating ET using Penman–Monteith equations.
+Evapotranspiration contributions are very significant in a watershed's water balance, yet are often not emphasized in results because the precision of this component is often weak relative to more directly measured phenomena, e.g. rain and stream flow. In addition to weather uncertainties, the Penman–Monteith equation is sensitive to vegetation specific parameters, e.g. stomatal resistance or conductance.[3] Gaps in knowledge of such are filled by educated assumptions, until more specific data accumulates.
+Various forms of crop coefficients (Kc) account for differences between specific vegetation modeled and a reference evapotranspiration (RET or ET0) standard. Stress coefficients (Ks) account for reductions in ET due to environmental stress (e.g. soil saturation reduces root-zone O2, low soil moisture induces wilt, air pollution effects, and salinity). Models of native vegetation cannot assume crop management to avoid recurring stress.
+
+
+
+Contents
+
+
+1 Equation
+2 Priestley–Taylor
+3 Further reading
+4 References
+5 External links
+
+
+
+Equation[edit]
+
+
+
+
+
+
+
+
+
+λ
+
+v
+
+
+E
+=
+
+
+
+Δ
+(
+
+R
+
+n
+
+
+−
+G
+)
++
+
+ρ
+
+a
+
+
+
+c
+
+p
+
+
+
+(
+δ
+e
+)
+
+
+g
+
+a
+
+
+
+
+Δ
++
+γ
+
+(
+1
++
+
+g
+
+a
+
+
+
+/
+
+
+g
+
+s
+
+
+)
+
+
+
+
+
+Energy flux rate
+
+
+ 
+
+⟺
+
+ 
+
+
+
+E
+
+T
+
+o
+
+
+=
+
+
+
+Δ
+(
+
+R
+
+n
+
+
+−
+G
+)
++
+
+ρ
+
+a
+
+
+
+c
+
+p
+
+
+
+(
+δ
+e
+)
+
+
+g
+
+a
+
+
+
+
+
+(
+Δ
++
+γ
+
+(
+1
++
+
+g
+
+a
+
+
+
+/
+
+
+g
+
+s
+
+
+)
+
+)
+
+
+L
+
+v
+
+
+
+
+
+
+Volume flux rate
+
+
+
+
+{\displaystyle {\overset {\text{Energy flux rate}}{\lambda _{v}E={\frac {\Delta (R_{n}-G)+\rho _{a}c_{p}\left(\delta e\right)g_{a}}{\Delta +\gamma \left(1+g_{a}/g_{s}\right)}}}}~\iff ~{\overset {\text{Volume flux rate}}{ET_{o}={\frac {\Delta (R_{n}-G)+\rho _{a}c_{p}\left(\delta e\right)g_{a}}{\left(\Delta +\gamma \left(1+g_{a}/g_{s}\right)\right)L_{v}}}}}}
+
+
+
+
+λv = Latent heat of vaporization. Energy required per unit mass of water vaporized. (J g−1)
+Lv = Volumetric latent heat of vaporization. Energy required per water volume vaporized. (Lv = 2453 MJ m−3)
+
+
+E = Mass water evapotranspiration rate (g s−1 m−2)
+ETo = Water volume evapotranspired (mm s−1)
+
+
+Δ = Rate of change of saturation specific humidity with air temperature. (Pa K−1)
+Rn = Net irradiance (W m−2), the external source of energy flux
+G = Ground heat flux (W m−2), usually difficult to measure
+cp = Specific heat capacity of air (J kg−1 K−1)
+ρa = dry air density (kg m−3)
+δe = vapor pressure deficit, or specific humidity (Pa)
+ga = Conductivity of air, atmospheric conductance (m s−1)
+gs = Conductivity of stoma, surface conductance (m s−1)
+γ = Psychrometric constant (γ ≈ 66 Pa K−1)
+
+(Monteith, 1965):[4]
+Note: Often resistances are used rather than conductivities.
+
+
+
+
+
+
+g
+
+a
+
+
+=
+
+
+
+1
+
+r
+
+a
+
+
+
+
+
+ 
+ 
+&
+ 
+ 
+
+g
+
+s
+
+
+=
+
+
+
+1
+
+r
+
+s
+
+
+
+
+
+=
+
+
+
+1
+
+r
+
+c
+
+
+
+
+
+
+
+{\displaystyle g_{a}={\tfrac {1}{r_{a}}}~~\And ~~g_{s}={\tfrac {1}{r_{s}}}={\tfrac {1}{r_{c}}}}
+
+
+
+where rc refers to the resistance to flux from a vegetation canopy to the extent of some defined boundary layer.
+Also note that 
+
+
+
+
+g
+
+s
+
+
+
+
+{\displaystyle g_{s}}
+
+ varies over each day, and in response to conditions as plants adjust such traits as stoma openings. Being sensitive to this parameter value, the Penman–Monteith equation obviates the need for more rigorous treatment of 
+
+
+
+
+g
+
+s
+
+
+
+
+{\displaystyle g_{s}}
+
+ perhaps varying within each day. Penman's equation was derived to estimate daily ET from daily averages.
+This also explains relations used to obtain 
+
+
+
+δ
+q
+
+
+{\displaystyle \delta q}
+
+ & 
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+ in addition to assumptions key to reaching this simplified equation.
+Priestley–Taylor[edit]
+The Priestley–Taylor equation was developed as a substitute to the Penman–Monteith equation to remove dependence on observations. For Priestley–Taylor, only radiation (irradiance) observations are required. This is done by removing the aerodynamic terms from the Penman–Monteith equation and adding an empirically derived constant factor, 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+.
+The underlying concept behind the Priestley–Taylor model is that an air mass moving above a vegetated area with abundant water would become saturated with water. In these conditions, the actual evapotranspiration would match the Penman rate of potential evapotranspiration. However, observations revealed that actual evaporation was 1.26 times greater than potential evaporation, and therefore the equation for actual evaporation was found by taking potential evapotranspiration and multiplying it by 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+. The assumption here is for vegetation with an abundant water supply (i.e. the plants have low moisture stress). Areas like arid regions with high moisture stress are estimated to have higher 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+ values.[5]
+The assumption that an air mass moving over a vegetated surface with abundant water saturates has been questioned later. The lowest and turbulent part of the atmosphere, the atmospheric boundary layer, is not a closed box, but constantly brings in dry air from higher up in the atmosphere towards the surface. As water evaporates more easily into a dry atmosphere, evapotranspiration is enhanced. This explains the larger than unity value of the Priestley-Taylor parameter 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+. The proper equilibrium of the system has been derived and involves the characteristics of the interface of the atmospheric boundary layer and the overlying free atmosphere.[6][7]
+Further reading[edit]
+
+P. G. Jarvis (1976). "The interpretation of the variations in leaf water potential and stomatal conductance found in canopies in the field". Philosophical Transactions of the Royal Society B. 273 (927): 593–610. Bibcode:1976RSPTB.273..593J. doi:10.1098/rstb.1976.0035. JSTOR 2417554. 
+C. H. B. Priestley; R. J. Taylor (1972). "On the assessment of surface heat flux and evaporation using large-scale parameters" (PDF). Monthly Weather Review. 100 (2): 81–82. Bibcode:1972MWRv..100...81P. doi:10.1175/1520-0493(1972)100<0081:OTAOSH>2.3.CO;2. 
+
+References[edit]
+
+
+^ Richard G. Allen; Luis S. Pereira; Dirk Raes; Martin Smith (1998). Crop Evapotranspiration – Guidelines for Computing Crop Water Requirements. FAO Irrigation and drainage paper 56. Rome, Italy: Food and Agriculture Organization of the United Nations. ISBN 92-5-104219-5. 
+^ Examples of GIS integrated continuous simulation hydrologic models
+^ Keith Beven (1979). "A sensitivity analysis of the Penman–Monteith actual evapotranspiration estimates". Journal of Hydrology. 44 (3–4): 169–190. Bibcode:1979JHyd...44..169B. doi:10.1016/0022-1694(79)90130-6. 
+^ J. L. Monteith (1965). "Evaporation and environment". Symposia of the Society for Experimental Biology. 19: 205–224. PMID 5321565.  Obtained from Forest Hydrology and Watershed Management – Hydrologie Forestiere et Amenagement des Bassins Hydrologiques (Proceedings of the Vancouver Symposium, August 1987, Actes du Co11oque de Vancouver, Aout 1987):IAHS-AISH Publ. no. 167, 1987. pp. 319–327.
+^ M. E. Jensen, R. D. Burman & R. G. Allen, ed. (1990). Evapotranspiration and Irrigation Water Requirement. ASCE Manuals and Reports on Engineering Practices. 70. New York, NY: American Society of Civil Engineers. ISBN 978-0-87262-763-5. 
+^ Culf, A. (1994). "Equilibrium evaporation beneath a growing convective boundary layer". Boundary-Layer Meteorology. 70: 34–49. 
+^ van Heerwaarden, C. C.; et al. (2009). "Interactions between dry-air entrainment, surface evaporation and convective boundary layer development". Quarterly Journal of the Royal Meteorological Society. 135: 1277–1291. doi:10.1002/qj.431. 
+
+
+External links[edit]
+
+Derivation of the equation
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Penman–Monteith_equation&oldid=759046840"					
+Categories: EquationsHydrologyAgronomyBasic meteorological concepts and phenomenaHidden categories: Articles needing expert attention with no reason or talk parameterArticles needing expert attention from October 2012All articles needing expert attentionMeteorology articles needing expert attention 

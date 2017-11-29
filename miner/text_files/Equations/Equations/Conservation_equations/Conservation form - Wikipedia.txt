@@ -1,0 +1,377 @@
+Conservation form - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Conservation form or Eulerian form refers to an arrangement of an equation or system of equations, usually representing an hyperbolic system, that emphasizes that a property represented is conserved, i.e. a type of continuity equation. The term is usually used in the context of continuum mechanics.
+
+
+
+Contents
+
+
+1 General form
+2 Example
+3 See also
+4 Further reading
+
+
+
+General form[edit]
+Equations in conservation form take the form
+
+
+
+
+
+
+
+
+d
+ξ
+
+
+d
+t
+
+
+
++
+∇
+⋅
+f
+(
+ξ
+)
+=
+0
+
+
+{\displaystyle {\frac {d\xi }{dt}}+\nabla \cdot f(\xi )=0}
+
+
+
+for any conserved quantity 
+
+
+
+ξ
+
+
+{\displaystyle \xi }
+
+, with a suitable function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+. An equation of this form can be transformed into an integral equation
+
+
+
+
+
+
+
+d
+
+d
+t
+
+
+
+
+∫
+
+V
+
+
+ξ
+d
+V
++
+
+∫
+
+∂
+V
+
+
+f
+(
+ξ
+)
+⋅
+ν
+ 
+d
+S
+
+
+{\displaystyle {\frac {d}{dt}}\int _{V}\xi dV+\int _{\partial V}f(\xi )\cdot \nu ~dS}
+
+
+
+using the divergence theorem. The integral equation states that the change rate of the integral of the quantity 
+
+
+
+ξ
+
+
+{\displaystyle \xi }
+
+ over an arbitrary control volume 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ is given by the flux 
+
+
+
+f
+(
+ξ
+)
+
+
+{\displaystyle f(\xi )}
+
+ through the boundary of the control volume, with 
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+ being the surface normal through the boundary. 
+
+
+
+ξ
+
+
+{\displaystyle \xi }
+
+ is neither produced nor consumed inside of 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ and is hence conserved. A typical choice for 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is 
+
+
+
+f
+(
+ξ
+)
+=
+ξ
+
+
+u
+
+
+
+
+{\displaystyle f(\xi )=\xi {\mathbf {u}}}
+
+, with velocity 
+
+
+
+
+
+u
+
+
+
+
+{\displaystyle {\mathbf {u}}}
+
+, meaning that the quantity 
+
+
+
+ξ
+
+
+{\displaystyle \xi }
+
+ flows with a given velocity field.
+The integral form of such equations is usually the physically more natural formulation, and the differential equation arises from differentiation. Since the integral equation can also have non-differentiable solutions, the equality of both formulations can break down in some cases, leading to weak solutions and severe numerical difficulties in simulations of such equations.
+Example[edit]
+An example of a set of equations written in conservation form are the Euler equations of fluid flow:
+
+
+
+
+
+
+
+
+∂
+ρ
+
+
+∂
+t
+
+
+
++
+∇
+⋅
+(
+ρ
+
+
+u
+
+
+)
+=
+0
+
+
+{\displaystyle {\partial \rho  \over \partial t}+\nabla \cdot (\rho {\mathbf {u}})=0}
+
+
+
+
+
+
+
+
+
+∂
+ρ
+
+
+u
+
+
+
+
+∂
+t
+
+
+
++
+∇
+⋅
+(
+ρ
+
+
+u
+
+
+⊗
+
+
+u
+
+
++
+p
+
+
+I
+
+
+)
+=
+0
+
+
+{\displaystyle {\partial \rho {\mathbf {u}} \over \partial t}+\nabla \cdot (\rho {\mathbf {u}}\otimes {\mathbf {u}}+p{\mathbf {I}})=0}
+
+
+
+
+
+
+
+
+
+∂
+ρ
+E
+
+
+∂
+t
+
+
+
++
+∇
+⋅
+(
+
+
+u
+
+
+(
+E
++
+p
+V
+)
+)
+=
+0
+
+
+{\displaystyle {\partial \rho E \over \partial t}+\nabla \cdot ({\mathbf {u}}(E+pV))=0}
+
+
+
+Each of these represents the conservation of mass, momentum and energy, respectively.
+See also[edit]
+
+Conservation law
+Lagrangian and Eulerian specification of the flow field
+
+Further reading[edit]
+
+Toro, E.F. (1999). Riemann Solvers and Numerical Methods for Fluid Dynamics. Springer-Verlag. ISBN 3-540-65966-8. 
+Randall J. LeVeque: Finite Volume Methods for Hyperbolic Problems. Cambridge University Press, Cambridge 2002, ISBN 0-521-00924-3 (Cambridge Texts in Applied Mathematics).
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Conservation_form&oldid=805119607"					
+Categories: AlgebraConservation equations 

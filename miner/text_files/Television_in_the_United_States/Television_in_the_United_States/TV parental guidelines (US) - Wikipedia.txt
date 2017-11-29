@@ -1,0 +1,130 @@
+TV parental guidelines (US) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The TV parental guidelines are a television content rating system in the United States that was first proposed on December 19, 1996, by the United States Congress, the television industry and the Federal Communications Commission (FCC), and went into effect by January 1, 1997, on most major broadcast and cable networks in response to public concerns[1] about increasingly explicit sexual content, graphic violence and strong profanity in television programs. It was established as a voluntary-participation system, with ratings to be determined by the individually participating broadcast and cable networks.
+The ratings are generally applied to most television series, television films and edited broadcast or basic cable versions of theatrically-released films; premium channels also assign ratings from the TV parental guidelines on broadcasts of some films that have been released theatrically or on home video, either if the Motion Picture Association of America did not assign a rating for the film or if the channel airs the unrated version of the film.
+It was specifically designed to be used with the V-chip, which was mandated to be built into all television sets manufactured since 2000, but the guidelines themselves have no legal force, and are not used on sports or news programs or during commercial advertisements. Many online television services, such as Hulu, Amazon Video and Netflix also use the guidelines system, along with digital video vendors such as the iTunes Store and Google Play.
+
+
+
+Contents
+
+
+1 Development of the guidelines
+2 Ratings
+
+2.1 TV-Y
+2.2 TV-Y7
+2.3 TV-G
+2.4 TV-PG
+2.5 TV-14
+2.6 TV-MA
+2.7 Content descriptors
+
+
+3 Design
+4 Viewer discretion advisories
+5 See also
+6 References
+7 External links
+
+
+
+Development of the guidelines[edit]
+In the Telecommunications Act of 1996, the United States Congress called upon the entertainment industry to establish, within one year, a voluntary television rating system to provide parents with advance information on material in television programming that might be unsuitable for their children. This rating system would work in conjunction with the V-chip, a device embedded in television sets that enables parents to block programming they determine to be inappropriate.[2]
+On February 29, 1996, all segments of the entertainment industry, led by the National Association of Broadcasters (NAB), the National Cable & Telecommunications Association (NCTA), and the Motion Picture Association of America (MPAA), joined together and voluntarily pledged to create such a system. They agreed that the guidelines would be applied by broadcast and cable networks in order to handle the large amount of programming that must be reviewed – some 2,000 hours a day. The guidelines would be applied episodically to all programming based on their content, except for news, sports and advertising.[2]
+On December 19, 1996, the industry announced the creation of the TV Parental Guidelines, a voluntary system of guidelines providing parents with information to help them make more informed choices about the television programs their children watch. The guidelines were modeled after the movie ratings system created by the Motion Picture Association of America in 1968. The television industry agreed to insert a ratings icon on-screen at the beginning of all rated programs, and to encode the guidelines for use with the V-chip.[3] The industry also created a Monitoring Board, composed of TV industry experts, to ensure accuracy, uniformity and consistency of the guidelines and to consider any public questions about the guideline applied to a particular program.[2] The TV Parental Guidelines went into use on January 1, 1997.[3]
+In response to calls to provide additional content information in the ratings system,[4] on August 1, 1997, the television industry, in conjunction with representatives of children's and medical advocacy groups, announced revisions to the rating system. Under this revised system, television programming would continue to fall into one of the six ratings categories (TV-Y, TV-Y7, TV-G, TV-PG, TV-14 or TV-MA), but content descriptors would be added to the ratings where appropriate, based on the type(s) of objectionable content included in the individual program or episode: D (suggestive dialogue), L (coarse language), S (sexual content), V (violence) and FV (fantasy violence – a descriptor exclusively for use in the TV-Y7 category).[5]
+Further, the proposal stated that the icons and associated content symbols would appear for 15 seconds at the beginning of all rated programming, and that the size of the icons would be increased.[6][7] The revised guidelines were supported by leading family and child advocacy groups, as well as television broadcasters, cable systems and networks, and television production companies. Finally, the revised proposal called for five representatives of the advocacy community to be added to the TV Parental Guidelines Monitoring Board. On March 12, 1998, the Federal Communications Commission found that the Industry Video Programming Rating System was acceptable,[8] and adopted technical requirements for the V-chip.[9]
+Ratings[edit]
+TV-Y[edit]
+
+This program is designed to be appropriate for all children.[10]
+Programs rated TV-Y are designed to be appropriate for children of all ages. The thematic elements portrayed in programs with this rating are specifically designed for a very young audience, including children from ages 2–6.
+TV-Y7[edit]
+
+This program is designed for children age 7 and above.[10]
+Programs rated TV-Y7 are designed for children age 7 and older. The FCC states that it "may be more appropriate for children who have acquired the developmental skills needed to distinguish between make-believe and reality."[10] Programs given the "FV" content descriptor exhibit more 'fantasy violence',[10] and are generally more intense or combative than other programs rated TV-Y7.
+TV-G[edit]
+
+Programs suitable for all ages.[10]
+Programs rated TV-G are generally suited for all audiences, though they may not necessarily contain content of interest to children. The FCC states that "this rating does not signify a program designed specifically for children, (and) most parents may let younger children watch this program unattended."[10] The thematic elements portrayed in programs with this rating contain little or no violence, strong language, and sexual dialogue or situations.[11]
+TV-PG[edit]
+
+This program contains material that parents may find unsuitable for younger children.[10]
+Programs rated TV-PG contain material that parents or guardians may find inappropriate for younger children. Programs assigned a TV-PG rating may include some mild to moderate profanity, some sexual content, suggestive dialogue and/or violence.[10]
+TV-14[edit]
+
+This program contains some material that many parents would find unsuitable for children under 14 years of age.[10]
+Programs rated TV-14 may contain some material that parents or adult guardians may find unsuitable for children under the age of 14. The FCC warns that "Parents are cautioned to exercise some care in monitoring this program and are cautioned against letting children under the age of 14 watch unattended."[10]
+TV-MA[edit]
+
+This program is specifically designed to be viewed by adults and therefore may be unsuitable for children under 17.[10]
+Some content may be unsuitable for children under 17. This rating was originally TV-M prior to the announced revisions to the rating system in August 1997, but was changed due to a trademark dispute and in order to remove confusion with the Entertainment Software Rating Board's (ESRB) "M for Mature" rating for video games.[12] This rating is very seldom used by broadcast networks or local television stations due to FCC restrictions on program content (the broadcast pilot of the short-lived series Brooklyn South being a notable exception), although it is commonly applied to television programs featured on certain cable channels (particularly premium networks) and streaming networks for both mainstream and softcore programs. Programs with this rating commonly include strong and frequent sexual content, extreme violence, or both.
+Content descriptors[edit]
+Some thematic elements, according to the FCC, "may call for parental guidance and/or the program may contain one or more of the following" sub-ratings, designated with an alphabetic letter:
+
+D – Suggestive dialogue
+L – Coarse or crude language
+S – Sexual situations
+V – Violence
+FV – Fantasy violence (exclusive to the TV-Y7 rating)
+
+Up to four content descriptors can be applied alongside an assigned rating, depending on the kind of suggestive content featured in a program. The FV descriptor is an exception due to its sole use for the TV-Y7 rating (which is assigned to some children's programs), which can have no descriptor other than FV. As the rating increases pertaining to the age, the content matters generally get more intensive. These descriptors allow for 44 possible combinations for all the ratings total.[13] The 'suggestive dialogue' descriptor is used for TV-PG and TV-14 rated programs only. The violence descriptor was used for TV-Y7 programs until the creation of the 'FV' descriptor in 1997.[14]
+Design[edit]
+For the first 15 seconds of every rated program lasting a half-hour or less, a large rating icon appears in the upper-left hand corner of the screen; previously this had a compulsory design but currently goes with a network's branding scheme. The icon was much smaller until June 2005 and only appeared on-screen for 7.5 seconds. For every rated program running an hour or longer, a rating appears in the upper-left hand corner of the television screen at the beginning of each half-hour. Starting in June 2005, many networks now display the ratings after every commercial break, in addition to the beginning of the program. Ratings icons formerly appeared in the 4:3 safe area, even with a 16:9 HD-designed presentation, but have moved into the top-left corner of the 16:9 picture as time has went on.
+Viewer discretion advisories[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2017) (Learn how and when to remove this template message)
+
+
+
+Some programs may display a visual and voiced disclaimer regarding the show's objectionable content with the TV rating prior to the program starting (or has been seen with several programs such as Scandal and How to Get Away with Murder, in promotional advertising ahead of an episode), with the reason for the rating (e.g. suggestive dialogue, drug and alcohol abuse, language, sexual situations, violence, nudity) and strongly cautioning parents to decide whether the program is suitable for their children.
+Viewer discretion advisories are mostly used for programs rated TV-14 and TV-MA. However, most programs with these ratings will not carry these disclaimers; it is mostly dependent on the episode/program's strong content. They are also commonly used for television broadcasts of theatrical films, albeit depending on the content and rating, though said content might also be edited out.
+See also[edit]
+
+Television content rating systems
+Pay television content descriptors
+Motion Picture Association of America film rating system
+Canadian TV rating systems
+
+References[edit]
+
+
+^ Katz, Richard (January 17, 1994). "Cable agrees to monitor violence". Multichannel News. NewBay Media. Retrieved March 11, 2013.  (subscription required)
+^ a b c Jack Valenti; et al. (January 17, 1997). "Letter to William F. Caton of the FCC from the television industry establishing a voluntary system of parental guidelines for rating television programming" (PDF). Retrieved July 24, 2013. 
+^ a b "TV Networks Ring in the Ratings to Start the New Year". Albany Times Union. January 2, 1997. Retrieved July 24, 2013.  (subscription required)
+^ "Parents Do Not Find New Television Ratings System Helpful, Study Says". Business News. Chicago Tribune. Knight Ridder. September 25, 1998. Retrieved July 24, 2013.  (subscription required)
+^ "Commission Seeks Comment on Revised Industry Proposal for Rating Video Programming (CS Docket No. 97-55)". Public Notice. Federal Communications Commission. September 9, 1997. Retrieved July 24, 2013. 
+^ Jack Valenti et. al. "Revised Industry Proposal for Rating Video Programming". Publication from the television industry. Retrieved July 24, 2013. 
+^ "Notice of proposed rulemaking on technical requirements to enable blocking of programs based on program ratings (FCC 97–340, ET Docket No. 97-206)" (PDF). Federal Communications Commission. September 25, 1997. Retrieved July 24, 2013. 
+^ "Implementation of Section 551 of the Telecommunications Act of 1996 Video Programming Ratings (FCC 98-35, CS Docket No. 97-55)". Federal Communications Commission. March 13, 1998. Retrieved July 24, 2013. 
+^ "Technical Requirements to Enable Blocking of Video Programming based on Program Ratings (FCC 98-36, ET Docket No. 97-206)". Federal Communications Commission. March 13, 1998. Retrieved July 24, 2013. 
+^ a b c d e f g h i j k "V-chip: Viewing Television Responsibly". FCC V-chip. Federal Communications Commission. 2000. Retrieved July 24, 2013. 
+^ "Understanding the TV Ratings". The TV Parental Guidelines. Federal Communications Commission. January 22, 2010. Retrieved July 24, 2013. 
+^ Aversa, Jeannine (March 13, 1997). "Trademark Problem: TV-M To Become TV-MA". The Seattle Times. 
+^ "TV Ratings". KSAS-TV. June 10, 2013. Retrieved July 24, 2013. In all there are 44 combinations of symbols for the TV Parental Guideline system. 
+^ Mifflin, Lawrie (June 25, 1997). "Impasse Snags Proposed TV Rating System". The Ledger (Lakeland ed.). Lakeland, Florida. pp. A1, A4. Retrieved February 13, 2014. 
+
+
+External links[edit]
+
+TV Parental Guidelines – Official site
+transition.fcc.gov/vchip/ V-Chip at the FCC website
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=TV_parental_guidelines_(US)&oldid=812103010"					
+Categories: Media content ratings systemsTelevision in the United States1997 establishments in the United StatesHidden categories: Pages containing links to subscription-only contentUse mdy dates from September 2017Articles needing additional references from March 2017All articles needing additional references 

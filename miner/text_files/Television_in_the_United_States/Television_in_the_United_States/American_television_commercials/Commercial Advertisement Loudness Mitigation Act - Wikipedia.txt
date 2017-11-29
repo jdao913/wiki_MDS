@@ -1,0 +1,66 @@
+Commercial Advertisement Loudness Mitigation Act - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Commercial Advertisement Loudness Mitigation Act (H.R. 1084/S. 2847) (CALM Act) requires the U.S. Federal Communications Commission to bar the audio of TV commercials from being broadcast louder than the TV program material they accompany by requiring all "multichannel video programming" distributors to implement the "Techniques for Establishing and Maintaining Audio Loudness for Digital Television" issued by the international industry group Advanced Television Systems Committee.[1][2] The final bill was passed on September 29, 2010.[3]
+No specific penalties are given; those are to be set by the FCC in its regulations. A TV broadcaster or distributor is "in compliance" if it installs and uses suitable equipment and software.[2] Unlike some FCC regulations, cable system operators are subject to the rule in addition to broadcast stations.[2]
+After issuing regulations, the FCC began enforcing those regulations on December 13, 2012,[4][5][6] after a one-year grace period.[7]
+History[edit]
+
+
+
+
+
+
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (November 2016)
+
+
+
+The bill was the United States Senate companion to proposed legislation in the House of Representatives by Representative Anna Eshoo (D-Calif), a member of the Energy and Commerce Committee. She wrote the bill after a loud commercial interrupted a family dinner. After asking her brother-in-law to turn down the volume, he allegedly said, "Well, you’re the congresswoman. Why don’t you do something about it?".[8] According to Eshoo, no one turned her down when she looked for supporters to the bill, and it passed the Communications Subcommittee. The technical requirements for measuring loudness were taken entirely from a formerly voluntary "recommended practice" issued by the Advanced Television Systems Committee (ATSC) on November 4, 2009.[9] Eshoo told the Wall Street Journal that legislation to mitigate the volume of commercials on TV was among the most popular pieces of legislation she has sponsored in her 18 years in Congress.[10]
+Prior to adjourning for the midterm recess, the United States Senate unanimously passed the bill on September 30, 2010.[11] Before it was signed into law in December, minor differences between the two versions had to be worked out when Congress returned to Washington after the November 2 election.[12] The reconciled bill was signed into law by President Barack Obama on December 15, 2010, as Public Law 111-311.[13]
+On May 27, 2011, the FCC released a Notice of Proposed Rulemaking (NPRM), Media Bureau (MB) Docket 11-93, to implement the CALM Act. Twelve parties filed comments, which are now available in the FCC's Electronic Comment Filing System (ECFS).
+The FCC adopted its rules on December 13, 2011 and they took effect on December 13, 2012. Television viewers are asked to report loud commercials that violate this bill to the FCC.[14]
+References[edit]
+
+
+
+^ Hart, Kim (2008-06-19). "Bringing Down the Volume of Loud Commercials". voices.washingtonpost.com. Retrieved 2016-12-27. 
+^ a b c "111th Congress Public Law 311". From the U.S. Government Printing Office. 
+^ "bill passes". Afterdawn.com. 2010-09-30. Retrieved 2011-02-16. 
+^ "Quieter Commercials: CALM Act Goes Into Affect [sic]". ABC News. 2016. Retrieved 2016-09-17. 
+^ "Shhhh! A new law, the CALM Act is taking effect to keep TV commercials from blasting viewsers". The Washington Post. 2012-12-12. [dead link]
+^ Holmes, Linda (2012-12-13). "The 'Calm Act' Will Quiet Down Commercials, So What Should Congress Do Next?". NPR. Retrieved 2016-09-17. 
+^ Condon, Stephanie (2010-12-02). "Congress Lowers Volume on Blaring Commercials - Political Hotsheet". CBS News. Retrieved 2011-02-16. 
+^ Whitefield, Paul (2012-12-13). "Hugh Hefner will like the CALM Act. Other boomers? Maybe not". Los Angeles Times. 
+^ Dickson, Glen (2009-11-05). "ATSC Makes Progress On Loudness Problem". Broadcasting & Cable. Retrieved 2009-11-10. 
+^ Michaels, Daniel; Williamson, Elizabeth (December 1, 2010). "Well, Hush My Mouth: Congress Is Moving Against LOUD Ads --- After Decades of Complaints, Law Makers Are Yielding to Popular Demand". Wall Street Journal. 
+^ Preston, Mark (September 30, 2010). "Congress to turn down the volume on TV ads". CNN. Retrieved 2010-10-03. 
+^ Taylor, Andrew (September 30, 2010). "Senate votes to turn down volume on TV commercials". The Washington Post. Retrieved 2010-10-04. 
+^ "Public Laws of the 111th Congress, Second Session". Retrieved 2011-04-11. 
+^ "Loud Commercials". FCC.gov. 2011-12-13. Retrieved 2012-10-23. 
+
+
+
+External links[edit]
+
+"111th Congress Public Law 311". From the U.S. Government Printing Office. 
+FCC's Loud Commercials Page
+"Loudness Measurements and the CALM Act" (PDF). Qualis Audio. Retrieved 2011-03-10. 
+ATSC Recommended Practice A/85 – Techniques for Establishing and Maintaining Audio Loudness for Digital Television
+"Optimod 8685 - allowing stations to comply effortlessly with the requirements of the CALM act". Orban. Retrieved 2011-04-13. 
+FCC Encyclopedia: Loud Commercials and the CALM Act
+"Linear Acoustic - Helping broadcasters achieve CALM Act compliance by providing loudness control, metering, and monitoring solutions". Linear Acoustic. 
+"Minntonka Audio - The New Loudness Dilemma" (PDF). Minnetonka Audio Software, Inc. 
+"EBU Recommendation R 128 - Loudness normalisation and permitted maximum level of audio signals" (PDF). EBU. 
+"EBU TECH Doc 3343 v.2 - Practical guidelines for Production and Implementation in accordance with EBU R 128" (PDF). EBU. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Commercial_Advertisement_Loudness_Mitigation_Act&oldid=797270390"					
+Categories: American television commercialsBroadcast lawUnited States federal communications legislationHidden categories: All articles with dead external linksArticles with dead external links from April 2014Wikipedia articles in need of updating from November 2016All Wikipedia articles in need of updating 

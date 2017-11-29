@@ -1,0 +1,1106 @@
+Beal conjecture - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Beal conjecture is the following conjecture in number theory:
+
+If
+
+
+
+
+
+
+
+
+
+A
+
+x
+
+
++
+
+B
+
+y
+
+
+=
+
+C
+
+z
+
+
+,
+
+
+{\displaystyle A^{x}+B^{y}=C^{z},}
+
+
+
+
+
+
+where A, B, C, x, y, and z are positive integers with x, y, z > 2, then A, B, and C have a common prime factor.
+
+Equivalently,
+
+There are no solutions to the above equation in positive integers A, B, C, x, y, z with A, B, and C being pairwise coprime and all of x, y, z being greater than 2.
+
+The conjecture was formulated in 1993 by Andrew Beal, a banker and amateur mathematician, while investigating generalizations of Fermat's last theorem.[1][2] Since 1997, Beal has offered a monetary prize for a peer-reviewed proof of this conjecture or a counterexample.[3] The value of the prize has increased several times and is currently $1 million.[4]
+In some venues, this conjecture has occasionally been referred to as a generalized Fermat equation,[5] the Mauldin conjecture,[6] and the Tijdeman-Zagier conjecture.[7][8][9]
+
+
+
+Contents
+
+
+1 Related examples
+2 Relation to other conjectures
+3 Partial results
+4 Prize
+5 Variants
+6 See also
+7 References
+8 External links
+
+
+
+Related examples[edit]
+To illustrate, the solution 
+
+
+
+
+3
+
+3
+
+
++
+
+6
+
+3
+
+
+=
+
+3
+
+5
+
+
+
+
+{\displaystyle 3^{3}+6^{3}=3^{5}}
+
+ has bases with a common factor of 3, the solution 
+
+
+
+
+7
+
+3
+
+
++
+
+7
+
+4
+
+
+=
+
+14
+
+3
+
+
+
+
+{\displaystyle 7^{3}+7^{4}=14^{3}}
+
+ has bases with a common factor of 7, and 
+
+
+
+
+2
+
+n
+
+
++
+
+2
+
+n
+
+
+=
+
+2
+
+n
++
+1
+
+
+
+
+{\displaystyle 2^{n}+2^{n}=2^{n+1}}
+
+ has bases with a common factor of 2. Indeed the equation has infinitely many solutions where the bases share a common factor, including generalizations of the above three examples, respectively
+
+
+
+
+
+
+3
+
+3
+n
+
+
++
+[
+2
+(
+
+3
+
+n
+
+
+)
+
+]
+
+3
+
+
+=
+
+3
+
+3
+n
++
+2
+
+
+,
+
+
+n
+≥
+1
+;
+
+
+{\displaystyle 3^{3n}+[2(3^{n})]^{3}=3^{3n+2},\quad \quad n\geq 1;}
+
+
+
+
+
+
+
+
+(
+
+a
+
+n
+
+
+−
+1
+
+)
+
+k
+n
+
+
++
+(
+
+a
+
+n
+
+
+−
+1
+
+)
+
+k
+n
++
+1
+
+
+=
+[
+a
+(
+
+a
+
+n
+
+
+−
+1
+
+)
+
+k
+
+
+
+]
+
+n
+
+
+,
+
+
+a
+≥
+2
+,
+
+k
+≥
+1
+,
+
+n
+≥
+3
+;
+
+
+{\displaystyle (a^{n}-1)^{kn}+(a^{n}-1)^{kn+1}=[a(a^{n}-1)^{k}]^{n},\quad \quad a\geq 2,\quad k\geq 1,\quad n\geq 3;}
+
+
+
+and
+
+
+
+
+
+[
+a
+(
+
+a
+
+n
+
+
++
+
+b
+
+n
+
+
+)
+
+]
+
+n
+
+
++
+[
+b
+(
+
+a
+
+n
+
+
++
+
+b
+
+n
+
+
+)
+
+]
+
+n
+
+
+=
+(
+
+a
+
+n
+
+
++
+
+b
+
+n
+
+
+
+)
+
+n
++
+1
+
+
+,
+
+
+a
+≥
+1
+,
+
+b
+≥
+1
+,
+
+n
+≥
+3.
+
+
+{\displaystyle [a(a^{n}+b^{n})]^{n}+[b(a^{n}+b^{n})]^{n}=(a^{n}+b^{n})^{n+1},\quad \quad a\geq 1,\quad b\geq 1,\quad n\geq 3.}
+
+
+
+Furthermore, for each solution (with or without coprime bases), there are infinitely many solutions with the same set of exponents and an increasing set of non-coprime bases. That is, for solution
+
+
+
+
+
+
+A
+
+1
+
+
+x
+
+
++
+
+B
+
+1
+
+
+y
+
+
+=
+
+C
+
+1
+
+
+z
+
+
+
+
+{\displaystyle A_{1}^{x}+B_{1}^{y}=C_{1}^{z}}
+
+
+
+we additionally have
+
+
+
+
+
+
+A
+
+n
+
+
+x
+
+
++
+
+B
+
+n
+
+
+y
+
+
+=
+
+C
+
+n
+
+
+z
+
+
+;
+
+
+{\displaystyle A_{n}^{x}+B_{n}^{y}=C_{n}^{z};}
+
+ 
+
+
+
+n
+≥
+2
+
+
+{\displaystyle n\geq 2}
+
+
+
+where
+
+
+
+
+
+
+A
+
+n
+
+
+=
+(
+
+A
+
+n
+−
+1
+
+
+y
+z
++
+1
+
+
+)
+(
+
+B
+
+n
+−
+1
+
+
+y
+z
+
+
+)
+(
+
+C
+
+n
+−
+1
+
+
+y
+z
+
+
+)
+
+
+{\displaystyle A_{n}=(A_{n-1}^{yz+1})(B_{n-1}^{yz})(C_{n-1}^{yz})}
+
+
+
+
+
+
+
+B
+
+n
+
+
+=
+(
+
+A
+
+n
+−
+1
+
+
+x
+z
+
+
+)
+(
+
+B
+
+n
+−
+1
+
+
+x
+z
++
+1
+
+
+)
+(
+
+C
+
+n
+−
+1
+
+
+x
+z
+
+
+)
+
+
+{\displaystyle B_{n}=(A_{n-1}^{xz})(B_{n-1}^{xz+1})(C_{n-1}^{xz})}
+
+
+
+
+
+
+
+C
+
+n
+
+
+=
+(
+
+A
+
+n
+−
+1
+
+
+x
+y
+
+
+)
+(
+
+B
+
+n
+−
+1
+
+
+x
+y
+
+
+)
+(
+
+C
+
+n
+−
+1
+
+
+x
+y
++
+1
+
+
+)
+
+
+{\displaystyle C_{n}=(A_{n-1}^{xy})(B_{n-1}^{xy})(C_{n-1}^{xy+1})}
+
+
+
+Any solutions to the Beal conjecture will necessarily involve three terms all of which are 3-powerful numbers, i.e. numbers where the exponent of every prime factor is at least three. It is known that there are an infinite number of such sums involving coprime 3-powerful numbers;[10] however, such sums are rare. The smallest two examples are:
+
+
+
+
+
+
+
+
+
+
+271
+
+3
+
+
++
+
+2
+
+3
+
+
+ 
+
+3
+
+5
+
+
+ 
+
+73
+
+3
+
+
+=
+
+919
+
+3
+
+
+
+
+
+=
+776,151,559
+
+
+
+
+
+3
+
+4
+
+
+ 
+
+29
+
+3
+
+
+ 
+
+89
+
+3
+
+
++
+
+7
+
+3
+
+
+ 
+
+11
+
+3
+
+
+ 
+
+167
+
+3
+
+
+=
+
+2
+
+7
+
+
+ 
+
+5
+
+4
+
+
+ 
+
+353
+
+3
+
+
+
+
+
+=
+3,518,958,160,000
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}271^{3}+2^{3}\ 3^{5}\ 73^{3}=919^{3}&=776{,}151{,}559\\3^{4}\ 29^{3}\ 89^{3}+7^{3}\ 11^{3}\ 167^{3}=2^{7}\ 5^{4}\ 353^{3}&=3{,}518{,}958{,}160{,}000\\\end{aligned}}}
+
+
+
+What distinguishes Beal's conjecture is that it requires each of the three terms to be expressible as a single power.
+Relation to other conjectures[edit]
+Fermat's Last Theorem established that 
+
+
+
+
+A
+
+n
+
+
++
+
+B
+
+n
+
+
+=
+
+C
+
+n
+
+
+
+
+{\displaystyle A^{n}+B^{n}=C^{n}}
+
+ has no solutions for n > 2 for positive integers A, B, and C. If any solutions had existed to Fermat's Last Theorem, then by dividing out every common factor, there would also exist solutions with A, B, and C coprime. Hence, Fermat's Last Theorem can be seen as a special case of the Beal conjecture restricted to x = y = z.
+The Fermat–Catalan conjecture is that 
+
+
+
+
+A
+
+x
+
+
++
+
+B
+
+y
+
+
+=
+
+C
+
+z
+
+
+
+
+{\displaystyle A^{x}+B^{y}=C^{z}}
+
+ has only finitely many solutions with A, B, and C being positive integers with no common prime factor and x, y, and z being positive integers satisfying 
+
+
+
+
+
+1
+x
+
+
++
+
+
+1
+y
+
+
++
+
+
+1
+z
+
+
+<
+1.
+
+
+{\displaystyle {\frac {1}{x}}+{\frac {1}{y}}+{\frac {1}{z}}<1.}
+
+ Beal's conjecture can be restated as "All Fermat–Catalan conjecture solutions will use 2 as an exponent."
+The abc conjecture would imply that there are at most finitely many counterexamples to Beal's conjecture.
+Partial results[edit]
+In the cases below where 2 is an exponent, multiples of 2 are also proven, since a power can be squared. Similarly, where n is an exponent, multiples of n are also proven.
+
+The case gcd(x, y, z) > 2 is implied by Fermat's Last Theorem.
+The case (x, y, z) = (2, 4, 4) and all its permutations were proven to have no solutions by Pierre de Fermat in the 1600s. (See one proof here for the x = 2 or y = 2 case.)
+A potential class of solutions to the equation, namely those with A, B, C also forming a Pythagorean triple, were considered by L. Jesmanowicz in the 1950s. J. Jozefiak proved that there are an infinite number of primitive Pythagorean triples that cannot satisfy the Beal equation. Further results are due to Chao Ko.[11]
+The case x = y = z is Fermat's Last Theorem, proven to have no solutions by Andrew Wiles in 1994.[12]
+The cases (x,y,z) = (2,n,n) and (3,n,n) have been proved by Darmon and Merel in 1995.
+The case (x, y, z) = (n, 4, 4) and all its permutations have been proven for n ≥ 2.[13]
+The impossibility of the case A = 1 or B = 1 is implied by Catalan's conjecture, proven in 2002 by Preda Mihăilescu. (Notice C cannot be 1, or one of A and B must be 0, which is not permitted.)
+The case (x, y, z) = (2, 3, 7) and all its permutations were proven to have only five solutions, none of them involving an even power greater than 2, by Bjorn Poonen, Edward F. Schaefer, and Michael Stoll in 2005.[14]
+The case (x, y, z) = (2, 3, 8) and all its permutations are known to have only three solutions, none of them involving an even power greater than 2.[13]
+The case (x, y, z) = (2, 3, 9) and all its permutations are known to have only two solutions, neither of them involving an even power greater than 2.[13][9]
+The case (x, y, z) = (2, 3, 10) and all its permutations were proved by David Brown in 2009.[15]
+The case (x, y, z) = (2, 4, n) and all its permutations were proved for n ≥ 4 by Michael Bennet, Jordan Ellenberg, and Nathan Ng in 2009.[16]
+The case (x, y, z) = (2, 3, 15) and all its permutations were proved by Samir Siksek and Michael Stoll in 2013.[17]
+The case (x, y, z) = (3, 3, n) and all its permutations have been proven for 3 ≤ n ≤ 10000 except n = 7, 11, and 13.[13]
+The cases (5, 5, 7), (5, 5, 19), and (7, 7, 5) and all their permutations were proved by Sander R. Dahmen and Samir Siksek in 2013.[18]
+The Darmon–Granville theorem uses Faltings' theorem to show that for every specific choice of exponents (x, y, z), there are at most finitely many solutions.[19][7]:p. 64
+Peter Norvig, Director of Research at Google, reported having conducted a series of numerical searches for counterexamples to Beal's conjecture. Among his results, he excluded all possible solutions having each of x, y, z ≤ 7 and each of A, B, C ≤ 250,000, as well as possible solutions having each of x, y, z ≤ 100 and each of A, B, C ≤ 10,000.[20]
+
+Prize[edit]
+For a proof or counterexample published in a refereed journal, banker Andrew Beal initially offered a prize of US $5,000 in 1997, raising it to $50,000 over ten years,[3] but has since raised it to US $1,000,000.[4]
+The American Mathematical Society (AMS) holds the $1 million prize in a trust until the Beal conjecture is solved.[21] It is supervised by the Beal Prize Committee (BPC), which is appointed by the AMS president.[22]
+Variants[edit]
+The counterexamples 
+
+
+
+
+7
+
+3
+
+
++
+
+13
+
+2
+
+
+=
+
+2
+
+9
+
+
+
+
+{\displaystyle 7^{3}+13^{2}=2^{9}}
+
+ and 
+
+
+
+
+1
+
+m
+
+
++
+
+2
+
+3
+
+
+=
+
+3
+
+2
+
+
+
+
+{\displaystyle 1^{m}+2^{3}=3^{2}}
+
+ show that the conjecture would be false if one of the exponents were allowed to be 2. The Fermat–Catalan conjecture is an open conjecture dealing with such cases.
+A variation of the conjecture asserting that x, y, z (instead of A, B, C) must have a common prime factor is not true. A counterexample is 
+
+
+
+
+27
+
+4
+
+
++
+
+162
+
+3
+
+
+=
+
+9
+
+7
+
+
+,
+
+
+{\displaystyle 27^{4}+162^{3}=9^{7},}
+
+ in which 4, 3, and 7 have no common prime factor. (In fact, the maximum common prime factor of the exponents that is valid is 2; a common factor greater than 2 would be a counterexample to Fermat's Last Theorem.)
+The conjecture is not valid over the larger domain of Gaussian integers. After a prize of $50 was offered for a counterexample, Fred W. Helenius provided 
+
+
+
+(
+−
+2
++
+i
+
+)
+
+3
+
+
++
+(
+−
+2
+−
+i
+
+)
+
+3
+
+
+=
+(
+1
++
+i
+
+)
+
+4
+
+
+.
+
+
+{\displaystyle (-2+i)^{3}+(-2-i)^{3}=(1+i)^{4}.}
+
+[23]
+See also[edit]
+
+Euler's sum of powers conjecture
+Jacobi–Madden equation
+Prouhet–Tarry–Escott problem
+Taxicab number
+Pythagorean quadruple
+Sums of powers, a list of related conjectures and theorems
+Distributed computing
+BOINC
+
+References[edit]
+
+
+^ "Beal Conjecture". American Mathematical Society. Retrieved 21 August 2016. 
+^ "Beal Conjecture". Bealconjecture.com. Retrieved 2014-03-06. 
+^ a b R. Daniel Mauldin (1997). "A Generalization of Fermat's Last Theorem: The Beal Conjecture and Prize Problem" (PDF). Notices of the AMS. 44 (11): 1436–1439. 
+^ a b "Beal Prize". Ams.org. Retrieved 2014-03-06. 
+^ Bennett, Michael A.; Chen, Imin; Dahmen, Sander R.; Yazdani, Soroosh (June 2014). "Generalized Fermat Equations: A Miscellany" (PDF). Simon Fraser University. Retrieved 1 October 2016. 
+^ "Mauldin / Tijdeman-Zagier Conjecture". Prime Puzzles. Retrieved 1 October 2016. 
+^ a b Elkies, Noam D. (2007). "The ABC's of Number Theory" (PDF). The Harvard College Mathematics Review. 1 (1). 
+^ Michel Waldschmidt (2004). "Open Diophantine Problems". Moscow Mathematics. 4: 245–305. 
+^ a b Crandall, Richard; Pomerance, Carl (2000). Prime Numbers: A Computational Perspective. Springer. p. 417. ISBN 978-0387-25282-7. 
+^ Nitaj, Abderrahmane (1995). "On A Conjecture of Erdos on 3-Powerful Numbers". Bulletin of the London Mathematical Society. 27 (4): 317–318. doi:10.1112/blms/27.4.317. 
+^ Wacław Sierpiński, Pythagorean triangles, Dover, 2003, p. 55 (orig. Graduate School of Science, Yeshiva University, 1962).
+^ "Billionaire Offers $1 Million to Solve Math Problem | ABC News Blogs – Yahoo". Gma.yahoo.com. 2013-06-06. Retrieved 2014-03-06. 
+^ a b c d Frits Beukers (January 20, 2006). "The generalized Fermat equation" (PDF). Staff.science.uu.nl. Retrieved 2014-03-06. 
+^ Poonen, Bjorn; Schaefer, Edward F.; Stoll, Michael (2005). "Twists of X(7) and primitive solutions to x2 + y3 = z7". Duke Mathematical Journal. 137: 103–158. arXiv:math/0508174v1 . doi:10.1215/S0012-7094-07-13714-1. 
+^ Brown, David (2009). "Primitive Integral Solutions to x2 + y3 = z10". arXiv:0911.2932  [math.NT]. 
+^ "The Diophantine Equation" (PDF). Math.wisc.edu. Retrieved 2014-03-06. 
+^ Siksek, Samir; Stoll, Michael (2013). "The Generalised Fermat Equation x2 + y3 = z15". Archiv der Mathematik. 102: 411–421. arXiv:1309.4421  [math.NT]. doi:10.1007/s00013-014-0639-z. 
+^ Dahmen, Sander R.; Siksek, Samir (2013). "Perfect powers expressible as sums of two fifth or seventh powers". arXiv:1309.4030  [math.NT]. 
+^ Darmon, H.; Granville, A. (1995). "On the equations zm = F(x, y) and Axp + Byq = Czr". Bulletin of the London Mathematical Society. 27: 513–43. 
+^ Norvig, Peter. "Beal's Conjecture: A Search for Counterexamples". Norvig.com. Retrieved 2014-03-06. 
+^ Walter Hickey (5 June 2013). "If You Can Solve This Math Problem, Then A Texas Banker Will Give You $1 Million". Business Insider. Retrieved 8 July 2016. 
+^ "$1 Million Math Problem: Banker D. Andrew Beal Offers Award To Crack Conjecture Unsolved For 30 Years". International Science Times. 5 June 2013. Retrieved 8 July 2016. 
+^ "Neglected Gaussians". Mathpuzzle.com. Retrieved 2014-03-06. 
+
+
+External links[edit]
+
+The Beal Prize office page
+Bealconjecture.com
+Math.unt.edu
+Beal Conjecture at PlanetMath.org.
+Mathoverflow.net mathoverflow.net discussion about the name and date of origin of the theorem
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Beal_conjecture&oldid=802988929"					
+Categories: Diophantine equationsConjecturesUnsolved problems in mathematicsNumber theory 

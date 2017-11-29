@@ -1,0 +1,319 @@
+Hybrid system - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A hybrid system is a dynamical system that exhibits both continuous and discrete dynamic behavior – a system that can both flow (described by a differential equation) and jump (described by a state machine or automaton). Often, the term "hybrid dynamical system" is used, to distinguish over hybrid systems such as those that combine neural nets and fuzzy logic, or electrical and mechanical drivelines. A hybrid system has the benefit of encompassing a larger class of systems within its structure, allowing for more flexibility in modeling dynamic phenomena.
+In general, the state of a hybrid system is defined by the values of the continuous variables and a discrete mode. The state changes either continuously, according to a flow condition, or discretely according to a control graph. Continuous flow is permitted as long as so-called invariants hold, while discrete transitions can occur as soon as given jump conditions are satisfied. Discrete transitions may be associated with events.
+
+
+
+Contents
+
+
+1 Examples
+
+1.1 Bouncing ball
+
+
+2 Hybrid Systems Verification
+3 Other modeling approaches
+4 Tools
+5 See also
+6 Further reading
+7 External links
+8 References
+
+
+
+Examples[edit]
+Hybrid systems have been used to model several cyber-physical systems, including physical systems with impact, logic-dynamic controllers, and even Internet congestion.
+Bouncing ball[edit]
+A canonical example of a hybrid system is the bouncing ball, a physical system with impact. Here, the ball (thought of as a point-mass) is dropped from an initial height and bounces off the ground, dissipating its energy with each bounce. The ball exhibits continuous dynamics between each bounce; however, as the ball impacts the ground, its velocity undergoes a discrete change modeled after an inelastic collision. A mathematical description of the bouncing ball follows. Let 
+
+
+
+
+x
+
+1
+
+
+
+
+{\displaystyle x_{1}}
+
+ be the height of the ball and 
+
+
+
+
+x
+
+2
+
+
+
+
+{\displaystyle x_{2}}
+
+ be the velocity of the ball. A hybrid system describing the ball is as follows:
+When 
+
+
+
+x
+∈
+C
+=
+{
+
+x
+
+1
+
+
+>
+0
+}
+
+
+{\displaystyle x\in C=\{x_{1}>0\}}
+
+, flow is governed by 
+
+
+
+
+
+
+
+x
+
+1
+
+
+˙
+
+
+
+=
+
+x
+
+2
+
+
+,
+
+
+
+
+x
+
+2
+
+
+˙
+
+
+
+=
+−
+g
+
+
+{\displaystyle {\dot {x_{1}}}=x_{2},{\dot {x_{2}}}=-g}
+
+, where 
+
+
+
+g
+
+
+{\displaystyle g}
+
+ is the acceleration due to gravity. These equations state that when the ball is above ground, it is being drawn to the ground by gravity.
+When 
+
+
+
+x
+∈
+D
+=
+{
+
+x
+
+1
+
+
+=
+0
+}
+
+
+{\displaystyle x\in D=\{x_{1}=0\}}
+
+, jumps are governed by 
+
+
+
+
+x
+
+1
+
+
++
+
+
+=
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
++
+
+
+=
+−
+γ
+
+x
+
+2
+
+
+
+
+{\displaystyle x_{1}^{+}=x_{1},x_{2}^{+}=-\gamma x_{2}}
+
+, where 
+
+
+
+0
+<
+γ
+<
+1
+
+
+{\displaystyle 0<\gamma <1}
+
+ is a dissipation factor. This is saying that when the height of the ball is zero (it has impacted the ground), its velocity is reversed and decreased by a factor of 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+. Effectively, this describes the nature of the inelastic collision.
+The bouncing ball is an especially interesting hybrid system, as it exhibits Zeno behavior. Zeno behavior has a strict mathematical definition, but can be described informally as the system making an infinite number of jumps in a finite amount of time. In this example, each time the ball bounces it loses energy, making the subsequent jumps (impacts with the ground) closer and closer together in time.
+It is noteworthy that the dynamical model is complete if and only if one adds the contact force between the ground and the ball. Indeed, without forces, one cannot properly define the bouncing ball and the model is, from a mechanical point of view, meaningless. The simplest contact model that represents the interactions between the ball and the ground, is the complementarity relation between the force and the distance (the gap) between the ball and the ground. This is written as 
+
+
+
+0
+≤
+λ
+⊥
+
+x
+
+1
+
+
+≥
+0
+
+
+{\displaystyle 0\leq \lambda \perp x_{1}\geq 0}
+
+ Such a contact model does not incorporate magnetic forces, nor gluing effects. When the complementarity relations are in, one can continue to integrate the system after the impacts have accumulated and vanished: the equilibrium of the system is well-defined as the static equilibrium of the ball on the ground, under the action of gravity compensated by the contact force 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+. One also notices from basic convex analysis that the complementarity relation can equivalently be rewritten as the inclusion into a normal cone, so that the bouncing ball dynamics is a differential inclusion into a normal cone to a convex set. See Chapters 1, 2 and 3 in Acary-Brogliato's book cited below (Springer LNACM 35, 2008). See also the other references on non-smooth mechanics.
+Hybrid Systems Verification[edit]
+There are approaches to automatically proving properties of hybrid systems (e.g., some of the tools mentioned below). Most verification tasks are undecidable,[1] making verification impossible. Instead, the tools are analyzed for their capabilities on benchmark problems. A possible theoretical characterization of this is algorithms that succeed with hybrid systems verification in all robust cases[2] implying that many problems for hybrid systems, while undecidable, are at least quasi-decidable[3]
+Other modeling approaches[edit]
+Two basic hybrid system modeling approaches can be classified, an implicit and an explicit one. The explicit approach is often represented by a hybrid automaton, a hybrid program or a hybrid Petri net. The implicit approach is often represented by guarded equations to result in systems of differential algebraic equations (DAEs) where the active equations may change, for example by means of a hybrid bond graph.
+As a unified simulation approach for hybrid system analysis, there is a method based on DEVS formalism in which integrators for differential equations are quantized into atomic DEVS models. These methods generate traces of system behaviors in discrete event system manner which are different from discrete time systems. Detailed of this approach can be found in references [Kofman2004] [CF2006] [Nutaro2010] and the software tool PowerDEVS.
+Tools[edit]
+
+Ariadne: A C++ library for reachability analysis of nonlinear hybrid systems
+C2E2: Nonlinear hybrid system verifier
+Flow*: A tool for reachability analysis of nonlinear hybrid systems
+HyCreate: A Tool for Overapproximating Reachability of Hybrid Automata
+HyEQ: A Hybrid System Solver for Matlab
+HyPro: A C++ library for state set representations for hybrid systems reachability analysis
+HSolver: Verification of Hybrid Systems
+HyTech: A Model Checker for Hybrid Systems
+KeYmaera: A Hybrid Theorem Prover for Hybrid Systems
+PHAVer: Polyhedral Hybrid Automaton Verifier
+PowerDEVS: A general-purpose software tool for DEVS modeling and simulation oriented to the simulation of hybrid systems
+SpaceEx: State-Space Explorer
+S-TaLiRo: A MATLAB Toolbox for verification of Hybrid Systems with respect to Temporal Logic Specifications
+
+See also[edit]
+
+Sliding mode control
+Variable structure system
+Variable structure control
+Joint spectral radius
+Cyber-physical system
+Behavior trees (artificial intelligence, robotics and control)
+
+Further reading[edit]
+
+Henzinger, Thomas A. (1996), "The Theory of Hybrid Automata", 11th Annual Symposium on Logic in Computer Science (LICS), IEEE Computer Society Press, pp. 278–292, archived from the original on 2010-01-27 
+Alur, Rajeev; Courcoubetis, Costas; Halbwachs, Nicolas; Henzinger, Thomas A.; Ho, Pei-Hsin; Nicollin, Xavier; Olivero, Alfredo; Sifakis, Joseph; Yovine, Sergio (1995), "The algorithmic analysis of hybrid systems", Theoretical Computer Science, 138 (1): 3–34, doi:10.1016/0304-3975(94)00202-T, archived from the original on 2010-01-27 
+Goebel, Rafal; Sanfelice, Ricardo G.; Teel, Andrew R. (2009), "Hybrid dynamical systems", IEEE Control Systems Magazine, 29 (2): 28–93, doi:10.1109/MCS.2008.931718 
+Acary, Vincent; Brogliato, Bernard (2008), "Numerical Methods for Nonsmooth Dynamical Systems", Lecture Notes in Applied and Computational Mechanics, 35 
+[Kofman2004] Kofman, E (2004), "Discrete Event Simulation of Hybrid Systems", SIAM Journal on Scientific Computing, 25 (5): 1771–1797, doi:10.1137/S1064827502418379 
+[CF2006] Francois E. Cellier and Ernesto Kofman (2006), Continuous System Simulation (first ed.), Springer, ISBN 978-0-387-26102-7 
+[Nutaro2010] James Nutaro (2010), Building Software for Simulation: Theory, Algorithms, and Applications in C++ (first ed.), Wiley 
+
+External links[edit]
+
+IEEE CSS Committee on Hybrid Systems
+
+References[edit]
+
+
+
+^ Thomas A. Henzinger, Peter W. Kopke, Anuj Puri, and Pravin Varaiya: What's Decidable about Hybrid Automata, Journal of Computer and System Sciences, 1998
+^ Martin Fränzle: Analysis of Hybrid Systems: An ounce of realism can save an infinity of states, Springer LNCS 1683
+^ Stefan Ratschan: Safety verification of non-linear hybrid systems is quasi-decidable, Formal Methods in System Design, volume 44, pp. 71-90, 2014, doi:10.1007/s10703-013-0196-2
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Hybrid_system&oldid=808335989"					
+Categories: Systems theoryDifferential equationsDynamical systemsControl theory 

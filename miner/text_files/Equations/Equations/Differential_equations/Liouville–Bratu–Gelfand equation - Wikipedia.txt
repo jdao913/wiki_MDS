@@ -1,0 +1,705 @@
+Liouville–Bratu–Gelfand equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+For Liouville's equation in differential geometry, see Liouville's equation.
+
+In mathematics, Liouville–Bratu–Gelfand equation or Liouville's equation is a non-linear eigenvalue Poisson equation, named after the mathematicians Joseph Liouville,[1] G. Bratu[2] and Israel Gelfand.[3] The equation reads
+
+
+
+
+
+
+∇
+
+2
+
+
+ψ
++
+λ
+
+e
+
+ψ
+
+
+=
+0
+
+
+{\displaystyle \nabla ^{2}\psi +\lambda e^{\psi }=0}
+
+
+
+The equation appears in thermal runaway as Frank-Kamenetskii theory, astrophysics for example, Chandrasekhar equation. This equation also describes space charge of electricity round a glowing wire[4] and describes planetary nebula.
+Liouville's solution[5][edit]
+In two dimension with Cartesian Coordinates 
+
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle (x,y)}
+
+, Joseph Liouville proposed a solution in 1853 as
+
+
+
+
+
+λ
+
+e
+
+ψ
+
+
+(
+
+u
+
+2
+
+
++
+
+v
+
+2
+
+
++
+1
+
+)
+
+2
+
+
+=
+2
+
+[
+
+
+(
+
+
+
+∂
+u
+
+
+∂
+x
+
+
+
+)
+
+
+2
+
+
++
+
+
+(
+
+
+
+∂
+u
+
+
+∂
+y
+
+
+
+)
+
+
+2
+
+
+]
+
+
+
+{\displaystyle \lambda e^{\psi }(u^{2}+v^{2}+1)^{2}=2\left[\left({\frac {\partial u}{\partial x}}\right)^{2}+\left({\frac {\partial u}{\partial y}}\right)^{2}\right]}
+
+
+
+where 
+
+
+
+f
+(
+z
+)
+=
+u
++
+i
+v
+
+
+{\displaystyle f(z)=u+iv}
+
+ is an arbitrary analytic function with 
+
+
+
+z
+=
+x
++
+i
+y
+
+
+{\displaystyle z=x+iy}
+
+. In 1915, G.W. Walker[6] found a solution by assuming a form for 
+
+
+
+f
+(
+z
+)
+
+
+{\displaystyle f(z)}
+
+. If 
+
+
+
+
+r
+
+2
+
+
+=
+
+x
+
+2
+
+
++
+
+y
+
+2
+
+
+
+
+{\displaystyle r^{2}=x^{2}+y^{2}}
+
+, then Walker's solution is
+
+
+
+
+
+8
+
+e
+
+−
+ψ
+
+
+=
+λ
+
+
+[
+
+
+(
+
+
+r
+a
+
+
+)
+
+
+n
+
+
++
+
+
+(
+
+
+a
+r
+
+
+)
+
+
+n
+
+
+]
+
+
+2
+
+
+
+
+{\displaystyle 8e^{-\psi }=\lambda \left[\left({\frac {r}{a}}\right)^{n}+\left({\frac {a}{r}}\right)^{n}\right]^{2}}
+
+
+
+where 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ is some finite radius. This solution decays at infinity for any 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, but becomes infinite at the origin for 
+
+
+
+n
+<
+1
+
+
+{\displaystyle n<1}
+
+ , becomes finite at the origin for 
+
+
+
+n
+=
+1
+
+
+{\displaystyle n=1}
+
+ and becomes zero at the origin for 
+
+
+
+n
+>
+1
+
+
+{\displaystyle n>1}
+
+. Walker also proposed two more solutions in 1915 paper.
+Radially symmetric forms[edit]
+If the system to be studied is radially symmetric, then the equation in 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ dimension becomes
+
+
+
+
+
+
+ψ
+″
+
++
+
+
+
+n
+−
+1
+
+r
+
+
+
+ψ
+′
+
++
+λ
+
+e
+
+ψ
+
+
+=
+0
+
+
+{\displaystyle \psi ''+{\frac {n-1}{r}}\psi '+\lambda e^{\psi }=0}
+
+
+
+where 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ is the distance from the origin. With the boundary conditions
+
+
+
+
+
+
+ψ
+′
+
+(
+0
+)
+=
+0
+,
+
+ψ
+(
+1
+)
+=
+0
+
+
+{\displaystyle \psi '(0)=0,\quad \psi (1)=0}
+
+
+
+and for 
+
+
+
+λ
+≥
+0
+
+
+{\displaystyle \lambda \geq 0}
+
+, the solution exists only for 
+
+
+
+λ
+∈
+[
+0
+,
+
+λ
+
+c
+
+
+]
+
+
+{\displaystyle \lambda \in [0,\lambda _{c}]}
+
+, where 
+
+
+
+
+λ
+
+c
+
+
+
+
+{\displaystyle \lambda _{c}}
+
+ is the critical parameter. The critical parameter is 
+
+
+
+
+λ
+
+c
+
+
+=
+0.88
+
+
+{\displaystyle \lambda _{c}=0.88}
+
+ for 
+
+
+
+n
+=
+1
+
+
+{\displaystyle n=1}
+
+, 
+
+
+
+
+λ
+
+c
+
+
+=
+2
+
+
+{\displaystyle \lambda _{c}=2}
+
+ for 
+
+
+
+n
+=
+2
+
+
+{\displaystyle n=2}
+
+ and 
+
+
+
+
+λ
+
+c
+
+
+=
+3.32
+
+
+{\displaystyle \lambda _{c}=3.32}
+
+ for 
+
+
+
+n
+=
+3
+
+
+{\displaystyle n=3}
+
+. For 
+
+
+
+n
+=
+1
+,
+ 
+2
+
+
+{\displaystyle n=1,\ 2}
+
+, two solution exists and for 
+
+
+
+3
+≤
+n
+≤
+9
+
+
+{\displaystyle 3\leq n\leq 9}
+
+ infinitely many solution exists with solutions oscillating about the point 
+
+
+
+λ
+=
+2
+(
+n
+−
+2
+)
+
+
+{\displaystyle \lambda =2(n-2)}
+
+. For 
+
+
+
+n
+≥
+10
+
+
+{\displaystyle n\geq 10}
+
+, the solution is unique and in these cases the critical parameter is given by 
+
+
+
+
+λ
+
+c
+
+
+=
+2
+(
+n
+−
+2
+)
+
+
+{\displaystyle \lambda _{c}=2(n-2)}
+
+. Multiplicity of solution for 
+
+
+
+n
+=
+3
+
+
+{\displaystyle n=3}
+
+ is discovered by Israel Gelfand in 1963 and in later 1973 generalized for all 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ by Daniel D. Joseph and Thomas S. Lundgren[7].
+References[edit]
+
+
+^ Liouville, J. "Sur l’équation aux différences partielles 
+
+
+
+
+
+
+
+d
+
+2
+
+
+log
+⁡
+λ
+
+
+d
+u
+d
+v
+
+
+
+±
+
+
+λ
+
+2
+
+a
+
+2
+
+
+
+
+
+=
+0
+
+
+{\displaystyle {\frac {d^{2}\log \lambda }{dudv}}\pm {\frac {\lambda }{2a^{2}}}=0}
+
+." Journal de mathématiques pures et appliquées (1853): 71–72. http://sites.mathdoc.fr/JMPA/PDF/JMPA_1853_1_18_A3_0.pdf
+^ Bratu, G. "Sur les équations intégrales non linéaires." Bulletin de la Société Mathématique de France 42 (1914): 113–142.http://archive.numdam.org/article/BSMF_1914__42__113_0.pdf
+^ Gelfand, I. M. "Some problems in the theory of quasilinear equations." Amer. Math. Soc. Transl 29.2 (1963): 295–381. http://www.mathnet.ru/links/aa75c5d339030f17940afb64e17793d8/rm7290.pdf
+^ Richardson, Owen Willans. The emission of electricity from hot bodies. Longmans, Green and Company, 1921.
+^ Bateman, Harry. "Partial differential equations of mathematical physics." Partial Differential Equations of Mathematical Physics, by H. Bateman, Cambridge, UK: Cambridge University Press, 1932 (1932).
+^ Walker, George W. "Some problems illustrating the forms of nebulae." Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character 91.631 (1915): 410-420.http://www.jstor.org/stable/pdf/93512.pdf?refreqid=excelsior%3Af4a4cc9656b8bbd9266f9d32587d02b1
+^ Joseph, D. D., and T. S. Lundgren. "Quasilinear Dirichlet problems driven by positive sources." Archive for Rational Mechanics and Analysis 49.4 (1973): 241-269.
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Liouville–Bratu–Gelfand_equation&oldid=803572607"					
+Categories: Equations of physicsDifferential equations 

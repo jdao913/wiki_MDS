@@ -1,0 +1,841 @@
+Fermat's right triangle theorem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Two right triangles with the two sides of the top one equal to the side and hypotenuse of the bottom one. According to Fermat's right triangle theorem, it is not possible for all four lengths a, b, c, and d to be integers.
+
+
+Fermat's right triangle theorem is a non-existence proof in number theory, the only complete proof left by Pierre de Fermat.[1] It has several equivalent formulations:
+
+If three square numbers form an arithmetic progression, then the gap between consecutive numbers in the progression (called a congruum) cannot itself be square.
+There do not exist two Pythagorean triangles in which the two legs of one triangle are the leg and hypotenuse of the other triangle.
+A right triangle for which all three side lengths are rational numbers cannot have an area that is the square of a rational number. An area defined in this way is called a congruent number, so no congruent number can be square.
+A right triangle and a square with equal areas cannot have all sides commensurate with each other.
+The only rational points on the elliptic curve 
+
+
+
+
+y
+
+2
+
+
+=
+x
+(
+x
+−
+1
+)
+(
+x
++
+1
+)
+
+
+{\displaystyle y^{2}=x(x-1)(x+1)}
+
+ are the three trivial points (0,0), (1,0), and (−1,0).
+The Diophantine equation 
+
+
+
+
+x
+
+4
+
+
+−
+
+y
+
+4
+
+
+=
+
+z
+
+2
+
+
+
+
+{\displaystyle x^{4}-y^{4}=z^{2}}
+
+ has no integer solution.
+
+An immediate consequence of the last of these formulations is that Fermat's last theorem is true for the exponent 
+
+
+
+n
+=
+4
+
+
+{\displaystyle n=4}
+
+.
+
+
+
+Contents
+
+
+1 Formulation
+
+1.1 Squares in arithmetic progression
+1.2 Areas of right triangles
+1.3 Elliptic curve
+
+
+2 Fermat's proof
+3 References
+
+
+
+Formulation[edit]
+Squares in arithmetic progression[edit]
+In 1225, Fibonacci was challenged to find a construction for triples of square numbers that are equally spaced from each other, forming an arithmetic progression, and for the spacing between these numbers, which he called a congruum.[2] One way of describing Fibonacci's solution is that the numbers to be squared are the difference of legs, hypotenuse, and sum of legs of a Pythagorean triangle, and that the congruum is four times the area of the same triangle.[3] In his later work on the congruum problem, published in The Book of Squares, Fibonacci observed that it is impossible for a congruum to be a square number itself, but did not present a satisfactory proof of this fact.[4][5]
+If three squares 
+
+
+
+
+a
+
+2
+
+
+
+
+{\displaystyle a^{2}}
+
+, 
+
+
+
+
+b
+
+2
+
+
+
+
+{\displaystyle b^{2}}
+
+, and 
+
+
+
+
+c
+
+2
+
+
+
+
+{\displaystyle c^{2}}
+
+ could form an arithmetic progression whose congruum was also a square 
+
+
+
+
+d
+
+2
+
+
+
+
+{\displaystyle d^{2}}
+
+, then these numbers would satisfy the Diophantine equations
+
+
+
+
+
+
+a
+
+2
+
+
++
+
+d
+
+2
+
+
+=
+
+b
+
+2
+
+
+
+
+{\displaystyle a^{2}+d^{2}=b^{2}}
+
+ and 
+
+
+
+
+b
+
+2
+
+
++
+
+d
+
+2
+
+
+=
+
+c
+
+2
+
+
+
+
+{\displaystyle b^{2}+d^{2}=c^{2}}
+
+.
+
+That is, by the Pythagorean theorem, they would form two integer-sided right triangles in which the pair 
+
+
+
+(
+d
+,
+b
+)
+
+
+{\displaystyle (d,b)}
+
+ gives one leg and the hypotenuse of the smaller triangle and the same pair also forms the two legs of the larger triangle. But if (as Fibonacci asserted) no square congruum can exist, then there can be no two integer right triangles that share two sides in this way.[6]
+Areas of right triangles[edit]
+Because the congrua are exactly the numbers that are four times the area of a Pythagorean triangle, and multiplication by four does not change whether a number is square, the existence of a square congruum is equivalent to the existence of a Pythagorean triangle with a square area. It is this variant of the problem that Fermat's proof concerns: he shows that there is no such triangle.[1] In considering this problem, Fermat was inspired not by Fibonacci but by an edition of Diophantus published by Claude Gaspard Bachet de Méziriac.[1] This book described various special right triangles whose areas had forms related to squares, but did not consider the case of areas that were themselves square.[7]
+By rearranging the equations for the two Pythagorean triangles above, and then multiplying them together, one obtains the single Diophantine equation
+
+
+
+
+
+
+b
+
+4
+
+
+−
+
+d
+
+4
+
+
+=
+(
+
+b
+
+2
+
+
+−
+
+d
+
+2
+
+
+)
+(
+
+b
+
+2
+
+
++
+
+d
+
+2
+
+
+)
+=
+
+a
+
+2
+
+
+
+c
+
+2
+
+
+
+
+{\displaystyle b^{4}-d^{4}=(b^{2}-d^{2})(b^{2}+d^{2})=a^{2}c^{2}}
+
+
+
+which can be simplified to
+
+
+
+
+
+
+b
+
+4
+
+
+−
+
+d
+
+4
+
+
+=
+
+e
+
+2
+
+
+.
+
+
+{\displaystyle b^{4}-d^{4}=e^{2}.}
+
+
+
+Conversely, any solution to this equation could be factored to give a square congruum. Thus, the solvability of this equation is equivalent to the existence of a square congruum. But, if Fermat's last theorem were false for the exponent 
+
+
+
+n
+=
+4
+
+
+{\displaystyle n=4}
+
+, then squaring one of the three numbers in any counterexample would also give three numbers that solve this equation. Therefore, Fermat's proof that no Pythagorean triangle has a square area implies that this equation has no solution, and that this case of Fermat's last theorem is true.[7]
+Another equivalent formulation of the same problem involves congruent numbers, the numbers that are areas of right triangles whose three sides are all rational numbers. By multiplying the sides by a common denominator, any congruent number may be transformed into the area of a Pythagorean triangle, from which it follows that the congruent numbers are exactly the numbers formed by multiplying a congruum by the square of a rational number. Thus, there is no square congruum if and only if the number 1 is not a congruent number.[8][9] Equivalently, it is impossible for a square (the geometric shape) and a right triangle to have both equal areas and all sides commensurate with each other.[5]
+Elliptic curve[edit]
+Yet another equivalent form of Fermat's theorem involves the elliptic curve consisting of the points whose Cartesian coordinates 
+
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle (x,y)}
+
+ satisfy the equation
+
+
+
+
+
+
+y
+
+2
+
+
+=
+x
+(
+x
++
+1
+)
+(
+x
+−
+1
+)
+.
+
+
+{\displaystyle y^{2}=x(x+1)(x-1).}
+
+
+
+This equation has the obvious pairs of solutions (0,0), (1,0), and (−1,0). Fermat's theorem is equivalent to the statement that these are the only points on the curve for which both x and y are rational.[9][10]
+Fermat's proof[edit]
+During his lifetime, Fermat challenged several other mathematicians to prove the non-existence of a Pythagorean triangle with square area, but did not publish the proof himself. However, he wrote a proof in his copy of Bachet's Diophantus, which his son discovered and published posthumously.[1][5][11]
+Fermat's proof is a proof by infinite descent. It shows that, from any example of a Pythagorean triangle with square area, one can derive a smaller example. Since Pythagorean triangles have positive integer areas, and there does not exist an infinite descending sequence of positive integers, there also cannot exist a Pythagorean triangle with square area.[1][5]
+In more detail, suppose that 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, 
+
+
+
+y
+
+
+{\displaystyle y}
+
+, and 
+
+
+
+z
+
+
+{\displaystyle z}
+
+ are the integer sides of a right triangle with square area. By dividing by any common factors, one can assume that this triangle is primitive[5] and from the known form of all primitive Pythagorean triples, one can set 
+
+
+
+x
+=
+2
+p
+q
+
+
+{\displaystyle x=2pq}
+
+, 
+
+
+
+y
+=
+
+p
+
+2
+
+
+−
+
+q
+
+2
+
+
+
+
+{\displaystyle y=p^{2}-q^{2}}
+
+, and 
+
+
+
+z
+=
+
+p
+
+2
+
+
++
+
+q
+
+2
+
+
+
+
+{\displaystyle z=p^{2}+q^{2}}
+
+, by which the problem is transformed into finding relatively prime integers 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ and 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ (one of which is even) such that 
+
+
+
+p
+q
+(
+
+p
+
+2
+
+
+−
+
+q
+
+2
+
+
+)
+
+
+{\displaystyle pq(p^{2}-q^{2})}
+
+ is square. The four linear factors 
+
+
+
+p
+
+
+{\displaystyle p}
+
+, 
+
+
+
+q
+
+
+{\displaystyle q}
+
+, 
+
+
+
+p
++
+q
+
+
+{\displaystyle p+q}
+
+, and 
+
+
+
+p
+−
+q
+
+
+{\displaystyle p-q}
+
+ are relatively prime and therefore must themselves be squares; let 
+
+
+
+p
++
+q
+=
+
+r
+
+2
+
+
+
+
+{\displaystyle p+q=r^{2}}
+
+ and 
+
+
+
+p
+−
+q
+=
+
+s
+
+2
+
+
+
+
+{\displaystyle p-q=s^{2}}
+
+. Both 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ and 
+
+
+
+s
+
+
+{\displaystyle s}
+
+ must be odd since exactly one of 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ or 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ is even and the other is odd. Therefore, both 
+
+
+
+(
+r
+−
+s
+)
+
+
+{\displaystyle (r-s)}
+
+ and 
+
+
+
+(
+r
++
+s
+)
+
+
+{\displaystyle (r+s)}
+
+ are even, one of which is divisible by 4. From these two numbers Fermat derives two more numbers 
+
+
+
+u
+=
+(
+r
+−
+s
+)
+
+/
+
+2
+
+
+{\displaystyle u=(r-s)/2}
+
+ and 
+
+
+
+v
+=
+(
+r
++
+s
+)
+
+/
+
+2
+
+
+{\displaystyle v=(r+s)/2}
+
+, one of which is even by the previous sentence. Because 
+
+
+
+
+u
+
+2
+
+
++
+
+v
+
+2
+
+
+=
+p
+
+
+{\displaystyle u^{2}+v^{2}=p}
+
+ is a square, 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ and 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ are the legs of another primitive Pythagorean triangle whose area 
+
+
+
+(
+u
+v
+)
+
+/
+
+2
+=
+q
+
+/
+
+4
+
+
+{\displaystyle (uv)/2=q/4}
+
+. Since 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ is itself a square and since 
+
+
+
+u
+v
+
+
+{\displaystyle uv}
+
+ is even, 
+
+
+
+q
+
+/
+
+4
+
+
+{\displaystyle q/4}
+
+ is a square. Thus, any Pythagorean triangle with square area leads to a smaller Pythagorean triangle with square area, completing the proof.[1][5][7]
+References[edit]
+
+
+^ a b c d e f Edwards, Harold M. (2000), "1.6 Fermat's one proof", Fermat's Last Theorem: A Genetic Introduction to Algebraic Number Theory, Graduate Texts in Mathematics, 50, Springer, pp. 10–14, ISBN 978-0-387-95002-0 
+^ Bradley, Michael John (2006), The Birth of Mathematics: Ancient Times to 1300, Infobase Publishing, p. 124, ISBN 978-0-8160-5423-7 
+^ Beiler, Albert H. (1964), Recreations in the Theory of Numbers: The Queen of Mathematics Entertains, Courier Corporation, p. 153, ISBN 978-0-486-21096-4 
+^ Ore, Øystein (2012), Number Theory and Its History, Courier Dover Corporation, pp. 202–203, ISBN 978-0-486-13643-1 
+^ a b c d e f Dickson, Leonard Eugene (1999), "XXII. Equations of degree four. Sum or difference of two biquadrates never a square; area of a rational right triangle never a square", History of the Theory of Numbers, Volume 2, American Mathematical Society, pp. 615–626, ISBN 978-0-8218-1935-7 
+^ The fact that there can be no two right triangles that share two of their sides, and the connection between this problem and the problem of squares in arithmetic progression, is described as "well known" by Cooper, Joshua; Poirel, Chris (2008), Pythagorean Partition-Regularity and Ordered Triple Systems with the Sum Property, 0809, p. 3478, arXiv:0809.3478 , Bibcode:2008arXiv0809.3478C 
+^ a b c Stillwell, John (1998), "4.7 The area of rational right triangles", Numbers and Geometry, Undergraduate Texts in Mathematics, Springer, pp. 131–133, ISBN 978-0-387-98289-2 
+^ Conrad, Keith (Fall 2008), "The congruent number problem" (PDF), Harvard College Mathematical Review, 2 (2): 58–73, archived from the original (PDF) on 20 January 2013 
+^ a b Koblitz, Neal (1984), Introduction to Elliptic Curves and Modular Forms, Graduate Texts in Mathematics, no. 97, Springer-Verlag, ISBN 0-387-97966-2 
+^ Kato, Kazuya; Saitō, Takeshi (2000), Number Theory: Fermat's dream, Translations of mathematical monographs, translated by Nobushige Kurokawa, American Mathematical Society, p. 17, ISBN 978-0-8218-0863-4 
+^ For other proofs, see Grant, Mike; Perella, Malcolm (July 1999), "Descending to the irrational", Mathematical Gazette, 83: 263–267 .; Barbara, Roy (July 2007), "Fermat's last theorem in the case 
+
+
+
+n
+=
+4
+
+
+{\displaystyle n=4}
+
+", Mathematical Gazette, 91: 260–262 .
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Fermat%27s_right_triangle_theorem&oldid=791375258"					
+Categories: Diophantine equationsTheorems in number theoryArithmetic problems of plane geometryFermat's Last Theorem 

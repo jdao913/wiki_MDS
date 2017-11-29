@@ -1,0 +1,316 @@
+Fredholm integral equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, the Fredholm integral equation is an integral equation whose solution gives rise to Fredholm theory, the study of Fredholm kernels and Fredholm operators. The integral equation was studied by Ivar Fredholm. A useful method to solve such equations, the Adomian decomposition method, is due to George Adomian.
+
+
+
+Contents
+
+
+1 Equation of the first kind
+2 Equation of the second kind
+3 General theory
+4 Applications
+5 See also
+6 References
+
+
+
+Equation of the first kind[edit]
+A Fredholm equation is an integral equation in which the term containing the kernel function (defined below) has constants as integration limits. A closely related form is the Volterra integral equation which has variable integral limits.
+An inhomogeneous Fredholm equation of the first kind is written as
+
+
+
+
+
+g
+(
+t
+)
+=
+
+∫
+
+a
+
+
+b
+
+
+K
+(
+t
+,
+s
+)
+f
+(
+s
+)
+
+
+d
+
+s
+ 
+,
+
+
+{\displaystyle g(t)=\int _{a}^{b}K(t,s)f(s)\,\mathrm {d} s~,}
+
+
+
+and the problem is, given the continuous kernel function K(t,s) and the function g(t), to find the function f(s).
+If the kernel is a function only of the difference of its arguments, namely K(t,s) = K(t−s), and the limits of integration are ±∞, then the right hand side of the equation can be rewritten as a convolution of the functions K and f and therefore the solution is given by
+
+
+
+
+
+f
+(
+t
+)
+=
+
+
+
+F
+
+
+
+ω
+
+
+−
+1
+
+
+
+[
+
+
+
+
+
+
+F
+
+
+
+t
+
+
+[
+g
+(
+t
+)
+]
+(
+ω
+)
+
+
+
+
+
+F
+
+
+
+t
+
+
+[
+K
+(
+t
+)
+]
+(
+ω
+)
+
+
+
+]
+
+=
+
+∫
+
+−
+∞
+
+
+∞
+
+
+
+
+
+
+
+
+F
+
+
+
+t
+
+
+[
+g
+(
+t
+)
+]
+(
+ω
+)
+
+
+
+
+
+F
+
+
+
+t
+
+
+[
+K
+(
+t
+)
+]
+(
+ω
+)
+
+
+
+
+e
+
+2
+π
+i
+ω
+t
+
+
+
+d
+
+ω
+
+
+{\displaystyle f(t)={\mathcal {F}}_{\omega }^{-1}\left[{{\mathcal {F}}_{t}[g(t)](\omega ) \over {\mathcal {F}}_{t}[K(t)](\omega )}\right]=\int _{-\infty }^{\infty }{{\mathcal {F}}_{t}[g(t)](\omega ) \over {\mathcal {F}}_{t}[K(t)](\omega )}e^{2\pi i\omega t}\mathrm {d} \omega }
+
+
+
+where Ft and Fω−1 are the direct and inverse Fourier transforms, respectively.
+Equation of the second kind[edit]
+An inhomogeneous Fredholm equation of the second kind is given as
+
+
+
+
+
+
+
+
+
+φ
+(
+t
+)
+=
+f
+(
+t
+)
++
+λ
+
+∫
+
+a
+
+
+b
+
+
+K
+(
+t
+,
+s
+)
+φ
+(
+s
+)
+
+
+d
+
+s
+.
+
+
+{\displaystyle \varphi (t)=f(t)+\lambda \int _{a}^{b}K(t,s)\varphi (s)\,\mathrm {d} s.}
+
+
+
+
+
+
+
+Given the kernel K(t,s), and the function f(t), the problem is typically to find the function φ(t).
+A standard approach to solving this is to use iteration, amounting to the resolvent formalism; written as a series, the solution is known as the Liouville–Neumann series.
+General theory[edit]
+The general theory underlying the Fredholm equations is known as Fredholm theory. One of the principal results is that the kernel K yields a compact operator. Compactness may be shown by invoking equicontinuity. As an operator, it has a spectral theory that can be understood in terms of a discrete spectrum of eigenvalues that tend to 0.
+Applications[edit]
+Fredholm equations arise naturally in the theory of signal processing, for example as the famous spectral concentration problem popularized by David Slepian. The operators involved are the same as linear filters. They also commonly arise in linear forward modeling and inverse problems. In physics, the solution of such integral equations allows for experimental spectra to be related to various underlying distributions, for instance the mass distribution of polymers in a polymeric melt,[1] or the distribution of relaxation times in the system.[2]
+See also[edit]
+
+Liouville–Neumann series
+Volterra integral equation
+Fredholm alternative
+
+References[edit]
+
+
+
+^ Honerkamp, J.; Weese, J. (1990). "Tikhonovs regularization method for ill-posed problems". Continuum Mechanics and Thermodynamics. 2 (1): 17–30. doi:10.1007/BF01170953. 
+^ Schäfer, H.; Sternin, E.; Stannarius, R.; Arndt, M.; Kremer, F. (18 March 1996). "Novel Approach to the Analysis of Broadband Dielectric Spectra". Physical Review Letters. 76 (12): 2177–2180. doi:10.1103/PhysRevLett.76.2177. PMID 10060625. 
+
+
+
+
+Integral Equations at EqWorld: The World of Mathematical Equations.
+A.D. Polyanin and A.V. Manzhirov, Handbook of Integral Equations, CRC Press, Boca Raton, 1998. ISBN 0-8493-2876-4
+Khvedelidze, B.V.; Litvinov, G.L. (2001) [1994], "Fredholm kernel", in Hazewinkel, Michiel, Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+Simons, F. J.; Wieczorek, M. A.; Dahlen, F. A. (2006). "Spatiospectral concentration on a sphere". SIAM Review. 48 (3): 504–536. doi:10.1137/S0036144504445765. 
+Slepian, D. (1983). "Some comments on Fourier Analysis, uncertainty and modeling". SIAM Review. 25 (3): 379–393. doi:10.1137/1025078. 
+Press, WH; Teukolsky, SA; Vetterling, WT; Flannery, BP (2007). "Section 19.1. Fredholm Equations of the Second Kind". Numerical Recipes: The Art of Scientific Computing (3rd ed.). New York: Cambridge University Press. ISBN 978-0-521-88068-8. 
+Mathews, Jon; Walker, Robert L. (1970), Mathematical methods of physics (2nd ed.), New York: W. A. Benjamin, ISBN 0-8053-7002-1
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Fredholm_integral_equation&oldid=800621989"					
+Categories: Fredholm theoryIntegral equations 

@@ -1,0 +1,1070 @@
+Phonevision - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the pay television experiments. For the photograph record video recording experiments, see Phonovision.
+
+
+Phonevision
+
+
+
+
+
+Launched
+1951
+
+
+Closed
+1969
+
+
+Owned by
+Zenith Radio Company
+
+
+Picture format
+480i (SDTV)
+
+
+Country
+United States
+
+
+Language
+English
+
+
+Broadcast area
+Chicago, New York City and Hartford, Connecticut
+
+
+Headquarters
+Chicago, Illinois
+
+
+Phonevision was a project by Zenith Radio Company to create the world's first pay television system.[1] It was developed and first launched in Chicago, followed by further trials in New York City and Hartford, Connecticut.
+
+
+
+Contents
+
+
+1 History
+2 Phonevision concept
+3 Technical information
+4 References
+
+
+
+History[edit]
+Zenith had experimented with pay television as early as 1931, believing that advertising alone could not support television broadcasting as a viable enterprise in the long term.[2] Zenith had originally occupied television channel 1 in Chicago starting on February 2, 1939, when W9XZV went on the air.[3][4] W9XZV was one of America's first non-mechanical television stations and, until October 1940, the only television station in Chicago.[3] Zenith's allocation was later moved to channel 2.[4] In 1947, Zenith announced a perfected pay television system and selected the name "Phonevision" as the trademark for the concept.[2] In 1950, in preparation for the public pay television test, the experimental station moved from the Zenith factory to the Field Building and became KS2XBS.[3][4]
+In July 1953, Zenith was forced to shut down KS2XBS when WBBM-TV was moved from channel 4 to channel 2 by the Federal Communications Commission as a side effect of channel shuffling in Wisconsin.[4] The KS2XBS station's transmitter was later donated to Chicago's first educational station, PBS member station WTTW (channel 11).
+In 1954, Zenith resumed testing in the eastern United States (on WOR-TV in New York City, now WWOR-TV and licensed to nearby Secaucus, New Jersey) and later negotiated foreign contracts in Australia and New Zealand. It also broadcast for a short time in Connecticut. In spite of its failure to gain national success, a significant amount of publicity and advertising for Phonevision was created for a short time.
+The Phonevision system was operational on station WHCT in Hartford, Connecticut for at least two years, ending in 1969. The station would run conventional (non-subscription) entertainment programming during the day as an "independent", and then switch to Phonevision-encoded programming in the evening.
+Phonevision concept[edit]
+The concept behind Phonevision involved making Hollywood films available to home viewers at $1 per movie (equivalent to $9.23/movie after inflation). Viewers were required to purchase a descrambler unit that sat on top of the television, plugged into the TV's antenna leads and also into the telephone line.[4] Someone wishing to view a movie would call the Phonevision operator, who would add them to the viewer queue. A signal sent via phone lines would allow the box to descramble the signal and at the end of the month, viewers would be billed for the movie on their regular telephone bill.[1] Some of Zenith's 1951 model TV sets were equipped with a special connector for Phonevision, and included a section in the owner's manual explaining the Phonevision concept, providing instructions on how to order, and a schedule for film broadcasts.[5]
+The Theatre Owners of America called the service a monumental flop. However, according to then Zenith president Eugene F. McDonald, the service was a roaring success.[6] Even though the three films initially available to the first 300 test households were more than two years old, only about 18 percent of Phonevision viewers had seen them at the movies, and 92 percent of Phonevision households reported that they would prefer to see films at home.[6]
+Technical information[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2010) (Learn how and when to remove this template message)
+
+
+
+The system operated by switching a delay line in and out of the video, which chopped the picture into slats (like looking through an open venetian blind). Half of the slats would be shifted to the right by a significant amount. Decoding reversed the process and slid the other slats over the same amount, realigning the picture. The video information was also reversed in phase, exchanging black and white. The audio was processed by "frequency inversion scrambling", shifting the audio spectrum up 2.625 kHz in frequency. This produced audio that sounded much like single sideband radio except that only high frequencies were present.
+Decoding of the audio was done by a dual-conversion processor. The audio was first shifted up 31.5 kHz, and then shifted down 34.125 kHz, producing a net "downshift" of 2.625 kHz. 31.5 was double the horizontal sweep frequency of 15.750 kHz, and 34.125 kHz was 13/6 ths of 15.750, giving a convenient frequency reference. The frequency tolerance was so tight that if encoded audio were recorded during a Phonevision broadcast, and then played back later into a homemade processor running on normal network programming, a slight frequency error could be detected in the restored audio. Also, when the station switched to local sync to run a local commercial, the frequency change could be heard.
+One of the major limitations of the Phonevision system was that due to the delay line being switched in and out, color could not be broadcast, as the 3.58 MHz phase lock necessary for NTSC color broadcasting could not be held. This limitation contributed to the demise of the system, along with the FCC authorization of subscription programming in 1969.
+References[edit]
+
+
+
+^ a b "Phonevision" Time January 8, 1951
+^ a b "Phonevision". The Zenith Story. Zenith Electronics. 1954. Retrieved 2010-04-29. 
+^ a b c "Zenith Enters FM and TV Broadcasting". The Zenith Story. Zenith Electronics. 1954. Retrieved 2010-04-29. February 2, 1939, Zenith went on the air with W9XZV 
+^ a b c d e "Phonevision- Aired on KS2XBS Channel 2". Chicago Television. Steve Jajkowski. 2005-10-03. Retrieved 2010-04-29. McDonald cried foul and petitioned the FCC to allow Zenith to continue its experiments on channel 2 since "they had occupied the channel since 1939" when W9XZV, Zenith's original station on channel 1, first went on the air on March 30, 1939. A shuffling of VHF allocations found the station at the number two position. 
+^ Zenith Owner's Manual, 1951
+^ a b "Report on Phonevision" Time June 4, 1951
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Television in Chicagoland and Northwest Indiana
+
+
+
+
+Network O&Os are in bold
+
+
+
+English-language
+stations
+
+
+
+WBBM-TV (2.1 CBS, 2.2 Decades)
+WMAQ-TV (5.1 NBC, 5.2 Cozi TV)
+WRME-LP 6 (MeTV-FM/oldies audio)
+WLS-TV (7.1 ABC, 7.2 LWN, 7.3 Laff)
+WGN-TV (9.1 Ind., 9.2 Antenna TV, 9.3 This TV)
+WOCK-CD (13.1 Infomercials, 13.3 Veria Living, 13.4 blank/color bars, 13.5 Arirang)
+WWME-CD (23.1 Ind./MeTV, 23.2 H&I)
+WPVN-CD (24.1 Movee4U, 24.3 Tuff TV)
+W25DW-D (25.1 HSN, 25.2 Retro TV, 25.3 Rev'n, 25.4 On4uTV)
+WCIU-TV (26.1 Ind., 26.2 The U Too, 26.3 MeTV, 26.4 H&I, 26.5 Bounce TV)
+WLPD-CD 30 (Youtoo TV)
+WFLD (32.1 Fox)
+WCPX-TV (38.1 Ion, 38.2 Qubo, 38.3 Ion Life, 38.4 Ion Shop, 38.5 QVC Over Air, 38.6 HSN)
+WMEU-CD (48.1 Ind., 48.2 Off-schedule replay of WCIU, 48.3 CBS, 48.4 Decades)
+WPWR-TV (50.1 CW/MNTV, 50.2 Movies!, 50.3 Light TV, 50.4 Buzzr)
+WXFT-DT (60.2 Escape)
+WGBO-DT (66.2 GetTV, 66.3 Grit)
+
+
+
+
+
+Public television
+
+
+
+WTTW (11.1 PBS, 11.2 PBS Encore, 11.3 Create/World, 11.4 PBS Kids)
+W40CN-D (Edu Ind.)
+WYIN (56.1 PBS)
+
+
+
+
+
+Spanish-language
+stations
+
+
+
+W25DW-D (25.5 LATV)
+WESV-LD (40.1 Estrella)
+WSNS-TV (44.1 Telemundo, 44.2 TeleXitos)
+WXFT-DT (60.1 UniMás)
+WCHU-LD (61.1 Azteca)
+WGBO-DT (66.1 Univision)
+
+
+
+
+
+Religious
+
+
+
+WPVN-CD 24.6 (MC-TV)
+W25DW-D (25.6 ALMA)
+WEDE-CD (34.1 Ind.)
+WWTO-TV (35.1 TBN, 35.2 Hillsong, 35.3 Smile/JUCE TV, 35.4 Enlace USA, 35.5 TBN Salsa)
+WDCI-LD (57.1 Daystar)
+WJYS (62.1 Ind., 62.2 WEDE-CD, 62.4 PRISM)
+
+
+
+
+
+Ethnic stations
+
+
+
+WOCK-CD (13.2 KBC-TV)
+WODN-LP 13 (DW)
+WPVN-CD (24.4 Polvision, 24.5 Win TV/MBC, 24.7 KBS World)
+W25DW-D (25.7 Peace TV)
+WCHU-LD (61.2 CCTV News, 61.3 CCTV-9)
+
+
+
+
+
+Local cable channels
+
+
+
+Bostel
+CAN-TV
+CLTV
+NBC Sports Chicago
+TLN
+WGN America (satellite)
+
+
+
+
+
+Defunct stations
+
+
+
+FSN Chicago
+Hawkvision
+KS2XBS
+ONTV
+Spectrum
+Sportsvision
+WHNW-LD 18 / WHVI-LP 24 (18.1/24 LeSEA)
+WYCC (20.1 MHz Worldview, 20.2 FNX, 20.3 MHz)
+WOCH-CD (41.1 Charge!, 41.2 Comet)
+
+
+
+
+
+Adjacent areas
+
+
+
+Milwaukee
+Rockford
+South Bend
+Central Illinois
+Lafayette, IN
+Indianapolis
+Peoria
+Madison
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Premium television services in the United States
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Premium television services in the United States (movies, series and specials)
+
+
+
+Movies, series, and specials
+
+
+
+Home Box Office Inc.
+
+HBO
+Cinemax
+
+
+Showtime Networks
+
+Showtime
+The Movie Channel
+Flix
+
+
+Starz Inc.
+
+Starz
+Starz Encore
+MoviePlex
+
+
+Metro-Goldwyn-Mayer
+
+Epix
+
+
+
+
+
+
+
+Adult
+
+
+
+Playboy TV
+Penthouse TV
+Hustler TV
+
+
+
+
+
+Other
+
+
+
+Fox Soccer Plus
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Pay-per-view television services in the United States
+
+
+
+Pay-per-view
+
+
+
+In Demand (HD)
+TVN Entertainment
+
+
+
+
+
+Adult
+
+
+
+
+Playboy TV
+
+
+
+Playboy TV
+Playgirl
+Climax
+
+
+
+
+
+Spice Networks
+
+
+
+RKTV
+Brazzers TV
+BangU.
+Mofos
+
+
+
+
+
+The Erotic Network
+
+
+
+Blox
+Blue
+Clips
+Juicy
+Real
+Xtsy
+Penthouse TV (HD)
+TEN
+
+
+
+
+
+Other
+
+
+
+Hot Choice
+Hustler TV
+In Demand
+TVN Entertainment
+Too Much For TV
+
+
+
+
+
+
+
+
+Sports packages
+
+
+
+
+Pro sports
+
+
+
+ESPN College Extra
+NHL Center Ice (HD)
+NFL RedZone (HD)
+NFL Sunday Ticket (HD)
+NBA League Pass (HD)
+MLB Extra Innings (HD)
+MLS Direct Kick (HD)
+
+
+
+
+
+College sports
+
+
+
+NCAA Mega March Madness (HD)
+
+
+
+
+
+Other
+
+
+
+Cricket Ticket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Defunct premium television services in the United States
+
+
+
+Premium services
+
+
+
+AMC1
+Bravo1
+Channel 100
+Disney Channel1
+Front Row (TV channel)
+Festival
+Galavisión1
+Home Theater Network
+Spotlight
+Starion Premiere Cinema
+Sundance Channel1
+
+
+Star Channel2
+Take Two (TV channel)
+
+
+
+
+
+Adult premium
+
+
+
+American Exxxtasy
+Escapade (TV channel)
+Uptown (TV channel)
+
+
+
+
+
+Pay-per-view
+
+
+
+Action Pay-Per-View
+Cable Video Store
+Drive-In Cinema
+Guest Cinema
+The HiLife Channel
+Rendezvous (TV channel)
+Request TV
+Spectradyne
+
+
+
+
+
+Sports
+
+
+
+ESPN GamePlan
+ESPN Full Court
+Mega March Madness
+NASCAR Hot Pass
+PASS Sports
+
+
+
+
+
+Subscription TV
+
+
+
+Hawkvision
+In-Home Theatre
+MovieBeam
+ONTV
+Phonevision
+Preview
+PRISM
+SCORE
+SelecTV
+Spectrum
+Sportsvision
+SuperTV
+Tele1st
+Telemeter
+VEU
+Wometco Home Theater
+Z Channel
+
+
+
+
+
+
+1 Indicates the channel is still in existence, but currently operates as a basic cable channel.
+2 Star Channel was part of Warner Communications' QUBE interactive cable service, and was the precursor to present-day The Movie Channel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+See also
+U.S. movie channels
+Canadian movie channels
+Canadian premium channels
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Movie-oriented television services in the United States
+
+
+
+Over-the-air
+digital television
+
+
+
+Escape
+GetTV
+Grit
+Movies!
+This TV
+
+
+
+
+
+Cable television
+
+
+
+
+Cable and satellite
+television only
+
+
+
+AMC
+Chiller
+Cinelatino
+FX Movie Channel
+HDNet Movies
+Hallmark Movies & Mysteries
+IFC
+LMN
+MGM HD
+PixL
+ShortsHD
+Sony Movie Channel
+SundanceTV
+Turner Classic Movies
+ViendoMovies
+
+
+
+
+
+Premium television
+
+
+
+HBO (Multiplex)
+Cinemax (Multiplex)
+Showtime (Multiplex)
+The Movie Channel (Multiplex)
+Flix
+Starz (Multiplex)
+Starz Encore (Multiplex)
+MoviePlex (Multiplex)
+Epix (Multiplex)
+
+
+
+
+
+
+
+
+Defunct
+
+
+
+
+Cable, satellite
+and terrestrial TV
+
+
+
+Documentary Channel
+Fearnet
+Festival
+Home Theater Network
+Spotlight
+Star Channel
+Take 2
+White Springs TV
+
+
+
+
+
+Subscription TV
+
+
+
+MovieBeam
+ONTV
+Phonevision
+Preview
+PRISM
+SelecTV
+Spectrum
+SuperTV
+VEU
+Wometco Home Theater
+Z Channel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+See also
+U.S. premium channels
+Canadian movie channels
+Canadian premium channels
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Phonevision&oldid=754127859"					
+Categories: Experimental television stationsHistory of televisionTelevision pioneersAmerican subscription television servicesDefunct television stations in the United StatesTelevision stations in ChicagoHidden categories: Pages using deprecated image syntaxArticles needing additional references from April 2010All articles needing additional references 

@@ -1,0 +1,66 @@
+Haller index - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+A CT scan showing a 3.58 index
+
+
+The Haller index, created in 1987 by Dr. Haller, Dr. Kramer, and Dr. Lietman,[1] is a mathematical relationship that exists in a human chest section observed with a CT scan. It is defined as the ratio of the transverse diameter (the horizontal distance of the inside of the ribcage) and the anteroposterior diameter (the shortest distance between the vertebrae and sternum).[2] It is of diagnostic use in vivo.
+
+
+
+
+
+ 
+H
+I
+=
+
+
+distance 1
+distance 2
+
+
+
+
+{\displaystyle \ HI={\frac {\text{distance 1}}{\text{distance 2}}}}
+
+
+
+where:
+
+HI is the Haller Index
+distance 1 is the distance of the inside ribcage (at the level of maximum deformity or at the lower third of the sternum)
+distance 2 is the distance between the sternal notch and vertebrae.
+
+A normal Haller index should be about 2.5. Chest wall deformities such as pectus excavatum can cause the sternum to invert, thus increasing the index, which can reach 3.25 or even as high as 5.5[3][4]
+See also[edit]
+
+Pectus carinatum
+Nuss procedure
+
+Sources[edit]
+
+
+
+^ Haller JA, Kramer SS, Lietman A. Use of CT scans in selection of patients for pectus excavatum surgery: a preliminary report. Journal Pediatric Surgery 1987;22:904-6
+^ "How the Haller is measured. Departament of Cardiology and Pulmonology of the Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo – Thoracic Surgery Sector" (PDF). 
+^ Swoveland, Barbara (2001). "Haller ranges". AORN Journal. 
+^ "Haller Index. Pigeon Chest Problems". 2015. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Haller_index&oldid=745206951"					
+Categories: Equations 

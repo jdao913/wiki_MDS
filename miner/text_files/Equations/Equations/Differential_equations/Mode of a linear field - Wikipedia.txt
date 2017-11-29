@@ -1,0 +1,62 @@
+Mode of a linear field - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article needs attention from an expert on the subject. Please add a reason or a talk parameter to this template to explain the issue with the article. Consider associating this request with a WikiProject. (September 2014)
+
+
+
+
+
+
+
+
+
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article may be confusing or unclear to readers. Please help us clarify the article. There might be a discussion about this on the talk page. (July 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+In physics, a vector field is linear if it is a solution of a set of linear equations E. For instance, in physics, the electromagnetic field in vacuum, defined in the usual (3 + 1)-dimensional space S, obeys Maxwell's equations. A linear combination of electromagnetic fields, with constant, real coefficients, is a new field which obeys Maxwell's equations.
+The solutions of the linear equations are represented in a real vector space M. A radius of M, which represents proportional solutions, is called a "mode".[clarification needed]
+A norm may be defined. For instance, in electromagnetism, it is usually the energy of the solution assuming that there is no other field in S. From the norm are defined the orthogonality and the scalar product of solutions. The orthogonality of solutions extends to the corresponding modes.
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Mode_of_a_linear_field&oldid=646598991"					
+Categories: Linear algebraDifferential equationsFunctional analysisElectromagnetismField theoryHidden categories: Articles needing expert attention with no reason or talk parameterArticles needing unspecified expert attentionArticles needing expert attention from September 2014All articles needing expert attentionArticles lacking sources from July 2011All articles lacking sourcesWikipedia articles needing clarification from July 2011All Wikipedia articles needing clarificationWikipedia articles needing clarification from August 2011 

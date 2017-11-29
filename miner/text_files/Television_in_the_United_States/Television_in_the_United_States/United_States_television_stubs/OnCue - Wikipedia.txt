@@ -1,0 +1,403 @@
+OnCue - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the Intel-Verizon online Pay TV service. For the bricks and mortar music store, see On Cue.
+Not to be confused with Cue (disambiguation).
+
+
+
+
+
+
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (March 2015)
+
+
+
+OnCue was an online pay-TV service developed by Intel. In December 2013, Intel sought to sell the OnCue service. Verizon purchased the service for $200 million. Verizon repurposed the service for its Go90 internet video service. The Go90 service is estimated to launch in late July or early August 2015. [1]
+References[edit]
+
+
+
+^ "Verizon Is Said to Be Near Deal to Buy Intel's TV Service". Retrieved 27 June 2017 – via www.bloomberg.com. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Intel
+
+
+
+Subsidiaries
+
+
+
+3Dlabs
+Altera
+Comneon
+Intel Security
+Mobileye
+Recon Instruments
+Virtutech
+Wind River Systems
+4Group Holdings (50% owned by Technicolor SA)
+
+
+
+
+
+Products
+
+
+
+Intel AZ210
+3D XPoint
+Accounts & SSO
+Amplify Tablet
+Advanced Programmable Interrupt Controller
+Cache Acceleration Software
+Client Initiated Remote Access
+Direct Media Interface
+Flexible Display Interface
+Hella Zippy
+Intel 1103
+Intel Display Power Saving Technology
+Intel Modular Server System
+Intel Reader
+Intel SPSH4
+Intel System Development Kit
+Intel Upgrade Service
+Intel740
+InTru3D
+IXP1200
+OFono
+Omni-Path
+Performance acceleration technology
+Shooting Star
+Smart Cache
+Stable Image Platform
+Virtual 8086 mode
+WiDi
+X25-M
+X86
+Intel Clear Video
+Intel Quick Sync Video
+
+
+
+
+
+Litigation
+
+
+
+Advanced Micro Devices, Inc. v. Intel Corp.
+High-Tech Employee Antitrust Litigation
+Intel Corp. v. Advanced Micro Devices, Inc.
+Intel Corp. v. Hamidi
+Intel Corporation Inc. v CPM United Kingdom Ltd
+Silvaco Data Systems v. Intel Corp.
+
+
+
+
+
+People
+
+
+
+Gordon Moore
+Robert Noyce
+
+
+
+
+
+Related
+
+
+
+Intel Foundation Achievement Award
+Apple's transition to Intel processors
+Intel Architecture Labs
+ASCI Red
+BiiN
+Classmate PC
+Convera Corporation
+Copy Exactly!
+Cornell Cup USA
+Intel Developer Forum
+Dynamic video memory technology
+Intel Extreme Masters
+List of Intel microprocessors
+List of Intel graphics processing units (2013 or earlier)
+I/O Acceleration Technology
+IA-32 Execution Layer
+IM Flash Technologies
+The Innovators
+Inside
+Inside Films
+Intel ADX
+Intel Capital
+Intel Cluster Ready
+Intel Compute Stick
+Intel Ireland
+Intel Mobile Communications
+Intel Outstanding Researcher Award
+Intel SHA extensions
+Intel Teach
+List of semiconductor fabrication plants
+List of Intel manufacturing sites
+Intel Museum
+OnCue
+Intel PRO/Wireless
+Intel International Science and Engineering Fair
+Regeneron Science Talent Search
+Simple Firmware Interface
+Single-chip Cloud Computer
+Software Guard Extensions
+Supervisor Mode Access Prevention
+Tarari
+Intel Technology Journal
+Intel Tera-Scale
+Timeline of Intel
+Xircom
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Verizon Communications
+
+
+
+Directors
+
+
+
+Lowell McAdam (Chairman and CEO)
+Shellye Archambeau
+Mark Bertolini
+Richard Carrión
+Melanie Healey
+M. Frances Keeth
+Karl-Ludwig Kley
+Clarence Otis, Jr.
+Rodney E. Slater
+Kathryn Tesija
+Gregory Wasson
+Gregory G. Weaver
+
+
+
+
+
+Divisions
+
+
+
+Verizon Customer & Product Operation
+Verizon Media & Telematics
+Verizon Network & Technology
+
+
+
+
+
+Telecom services
+
+
+
+
+Business
+
+
+
+Verizon Enterprise Solutions
+
+
+
+
+
+Wireless
+
+
+
+Verizon Wireless
+
+
+
+
+
+Residential
+
+
+
+Verizon Fios
+Verizon High Speed Internet
+
+
+
+
+
+
+
+
+Local telephone companies
+
+
+
+Verizon Delaware
+Verizon Maryland
+Verizon North
+Verizon New England
+Verizon New Jersey
+Verizon New York
+Verizon Pennsylvania
+Verizon South
+Verizon Washington, DC
+Verizon Virginia
+
+
+
+
+
+Media and tech companies
+
+
+
+Oath
+
+AOL
+go90
+Yahoo!
+
+
+Verizon Hearst Media Partners (50%)
+
+AwesomenessTV
+Complex Networks
+
+
+Verizon Telematics
+
+Fleetmatics
+Telogis
+Verizon Hum
+Verizon Networkfleet
+
+
+
+
+
+
+
+Acquired companies
+
+
+
+GTE
+MCI
+NYNEX
+XO Communications
+
+
+
+
+
+Other assets
+
+
+
+Empire City Subway
+Terremark
+
+
+
+
+
+
+
+
+ Category
+ Commons
+
+
+
+
+
+
+
+
+
+This United States corporation or company article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This Internet-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This article about television in the United States is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=OnCue&oldid=787768602"					
+Categories: Intel CorporationVerizon CommunicationsUnited States company stubsInternet stubsUnited States television stubsHidden categories: Wikipedia articles in need of updating from March 2015All Wikipedia articles in need of updatingAll stub articles 

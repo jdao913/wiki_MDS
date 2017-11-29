@@ -1,0 +1,73 @@
+Levich constant - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A Levich constant (B) is often used in order to simplify the Levich equation.[1] Furthermore, B is readily extracted from rotating disk electrode experimental data.
+The B can be defined as:[2]
+
+
+
+
+B
+=
+(
+0.620
+)
+n
+F
+A
+
+D
+
+
+2
+3
+
+
+
+
+v
+
+
+
+−
+1
+
+6
+
+
+
+C
+
+
+{\displaystyle B=(0.620)nFAD^{\frac {2}{3}}v^{\frac {-1}{6}}C}
+
+
+where
+
+n is the number of moles of electrons transferred in the half reaction (number)
+F is the Faraday constant (C/mol)
+A is the electrode area (cm2)
+D is the diffusion coefficient (see Fick's law of diffusion) (cm2/s)
+v is the kinematic viscosity (cm2/s)
+C is the analyte concentration (mol/cm3)
+
+References[edit]
+
+
+
+^ Bard, Allen; Faulkner, Larry (2000). Electrochemical Methods: Fundamentals and Applications. J. Wiley and Sons. ISBN 0-471-04372-9. 
+^ Wiberg, Gustav K. H.; Zana, Alessandro (12 October 2016). "Levich Analysis and the Apparent Potential Dependency of the Levich B Factor". Analytical Letters. 49 (15): 2397–2404. doi:10.1080/00032719.2016.1149188. ISSN 0003-2719. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Levich_constant&oldid=804477638"					
+Categories: Electrochemical equationsElectrochemistryHidden categories: Use dmy dates from October 2017 

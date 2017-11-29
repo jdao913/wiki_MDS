@@ -1,0 +1,98 @@
+Variational bicomplex - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (October 2009) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (June 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+In mathematics, the Lagrangian theory on fiber bundles is globally formulated in algebraic terms of the variational bicomplex, without appealing to the calculus of variations. For instance, this is the case of classical field theory on fiber bundles (covariant classical field theory).
+The variational bicomplex is a cochain complex of the differential graded algebra of exterior forms on jet manifolds of sections of a fiber bundle. Lagrangians and Euler–Lagrange operators on a fiber bundle are defined as elements of this bicomplex. Cohomology of the variational bicomplex leads to the global first variational formula and first Noether's theorem.
+Extended to Lagrangian theory of even and odd fields on graded manifolds, the variational bicomplex provides strict mathematical formulation of classical field theory in a general case of reducible degenerate Lagrangians and the Lagrangian BRST theory.
+See also[edit]
+
+Calculus of variations
+Lagrangian system
+Jet bundle
+
+References[edit]
+
+Takens, Floris (1979), "A global version of the inverse problem of the calculus of variations", Journal of Differential Geometry, 14 (4): 543–562, ISSN 0022-040X, MR 0600611 
+Anderson, I., "Introduction to variational bicomplex", Contemp. Math. 132 (1992) 51.
+Barnich, G., Brandt, F., Henneaux, M., "Local BRST cohomology", Phys. Rep. 338 (2000) 439.
+Giachetta, G., Mangiarotti, L., Sardanashvily, G., Advanced Classical Field Theory, World Scientific, 2009, ISBN 978-981-283-895-7.
+
+External links[edit]
+
+Dragon, N., BRS symmetry and cohomology, arXiv: hep-th/9602163
+Sardanashvily, G., Graded infinite-order jet manifolds, Int. G. Geom. Methods Mod. Phys. 4 (2007) 1335; arXiv: 0708.2434v1
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This mathematical analysis–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Variational_bicomplex&oldid=786593293"					
+Categories: Calculus of variationsDifferential equationsDifferential geometryPhysics stubsMathematical analysis stubsHidden categories: Wikipedia articles needing context from October 2009All Wikipedia articles needing contextWikipedia introduction cleanup from October 2009All pages needing cleanupArticles lacking in-text citations from June 2012All articles lacking in-text citationsAll stub articles 

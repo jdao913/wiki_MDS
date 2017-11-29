@@ -1,0 +1,283 @@
+Fuchs' theorem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (June 2017) (Learn how and when to remove this template message)
+
+
+
+In mathematics, Fuchs' theorem, named after Lazarus Fuchs, states that a second order differential equation of the form
+
+
+
+
+
+
+y
+″
+
++
+p
+(
+x
+)
+
+y
+′
+
++
+q
+(
+x
+)
+y
+=
+g
+(
+x
+)
+
+
+{\displaystyle y''+p(x)y'+q(x)y=g(x)}
+
+
+
+has a solution expressible by a generalised Frobenius series when 
+
+
+
+p
+(
+x
+)
+
+
+{\displaystyle p(x)}
+
+, 
+
+
+
+q
+(
+x
+)
+
+
+{\displaystyle q(x)}
+
+ and 
+
+
+
+g
+(
+x
+)
+
+
+{\displaystyle g(x)}
+
+ are analytic at 
+
+
+
+x
+=
+a
+
+
+{\displaystyle x=a}
+
+ or 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ is a regular singular point. That is, any solution to this second order differential equation can be written as
+
+
+
+
+
+y
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+a
+
+n
+
+
+(
+x
+−
+a
+
+)
+
+n
++
+s
+
+
+,
+
+
+a
+
+0
+
+
+≠
+0
+
+
+{\displaystyle y=\sum _{n=0}^{\infty }a_{n}(x-a)^{n+s},\quad a_{0}\neq 0}
+
+
+
+for some real s, or
+
+
+
+
+
+y
+=
+
+y
+
+0
+
+
+ln
+⁡
+(
+x
+−
+a
+)
++
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+b
+
+n
+
+
+(
+x
+−
+a
+
+)
+
+n
++
+r
+
+
+,
+
+
+b
+
+0
+
+
+≠
+0
+
+
+{\displaystyle y=y_{0}\ln(x-a)+\sum _{n=0}^{\infty }b_{n}(x-a)^{n+r},\quad b_{0}\neq 0}
+
+
+
+for some real r, where y0 is a solution of the first kind.
+Its radius of convergence is at least as large as the minimum of the radii of convergence of 
+
+
+
+p
+(
+x
+)
+
+
+{\displaystyle p(x)}
+
+, 
+
+
+
+q
+(
+x
+)
+
+
+{\displaystyle q(x)}
+
+ and 
+
+
+
+g
+(
+x
+)
+
+
+{\displaystyle g(x)}
+
+.
+See also[edit]
+
+Frobenius method
+
+References[edit]
+
+Asmar, Nakhlé H. (2005), Partial differential equations with Fourier series and boundary value problems, Upper Saddle River, NJ: Pearson Prentice Hall, ISBN 0-13-148096-0 .
+Butkov, Eugene (1995), Mathematical Physics, Reading, MA: Addison-Wesley, ISBN 0-201-00727-4 .
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Fuchs%27_theorem&oldid=810834259"					
+Categories: Differential equationsTheorems in analysisHidden categories: Articles lacking in-text citations from June 2017All articles lacking in-text citations 

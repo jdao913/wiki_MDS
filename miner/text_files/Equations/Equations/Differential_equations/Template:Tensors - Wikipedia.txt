@@ -1,0 +1,228 @@
+Template:Tensors - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Tensors
+
+
+
+
+Glossary of tensor theory
+
+
+
+Scope
+
+
+
+
+Mathematics
+
+
+
+coordinate system
+multilinear algebra
+Euclidean geometry
+tensor algebra
+dyadic algebra
+differential geometry
+exterior calculus
+tensor calculus
+
+
+
+
+
+
+
+
+Physics
+Engineering
+
+
+
+
+
+
+continuum mechanics
+electromagnetism
+transport phenomena
+general relativity
+computer vision
+
+
+
+
+
+
+
+
+Notation
+
+
+
+index notation
+multi-index notation
+Einstein notation
+Ricci calculus
+Penrose graphical notation
+Voigt notation
+abstract index notation
+tetrad (index notation)
+Van der Waerden notation
+
+
+
+
+
+Tensor definitions
+
+
+
+tensor (intrinsic definition)
+tensor field
+tensor density
+tensors in curvilinear coordinates
+mixed tensor
+antisymmetric tensor
+symmetric tensor
+tensor operator
+tensor bundle
+
+
+
+
+
+Operations
+
+
+
+tensor product
+exterior product
+tensor contraction
+transpose (2nd-order tensors)
+raising and lowering indices
+Hodge star operator
+covariant derivative
+exterior derivative
+exterior covariant derivative
+Lie derivative
+
+
+
+
+
+Related abstractions
+
+
+
+dimension
+basis
+vector, vector space
+multivector
+covariance and contravariance of vectors
+linear transformation
+matrix
+spinor
+Cartan formalism (physics)
+differential form
+exterior form
+connection form
+geodesic
+manifold
+fiber bundle
+Levi-Civita connection
+affine connection
+
+
+
+
+
+Notable tensors
+
+
+
+
+Mathematics
+
+
+
+Kronecker delta
+Levi-Civita symbol
+metric tensor
+nonmetricity tensor
+Christoffel symbols
+Ricci curvature
+Riemann curvature tensor
+Weyl tensor
+torsion tensor
+
+
+
+
+
+Physics
+
+
+
+moment of inertia
+angular momentum tensor
+spin tensor
+Cauchy stress tensor
+stress–energy tensor
+EM tensor
+gluon field strength tensor
+Einstein tensor
+metric tensor (GR)
+
+
+
+
+
+
+
+
+Mathematicians
+
+
+
+Leonhard Euler
+Carl Friedrich Gauss
+Augustin-Louis Cauchy
+Hermann Grassmann
+Gregorio Ricci-Curbastro
+Tullio Levi-Civita
+Jan Arnoldus Schouten
+Bernhard Riemann
+Elwin Bruno Christoffel
+Woldemar Voigt
+Élie Cartan
+Hermann Weyl
+Albert Einstein
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Tensors&oldid=802268705"					
+Categories: Mathematics navigational boxesDifferential equations 

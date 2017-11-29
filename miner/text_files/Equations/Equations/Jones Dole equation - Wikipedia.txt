@@ -1,0 +1,105 @@
+Jones Dole equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2016) (Learn how and when to remove this template message)
+
+
+
+The Jones Dole equation or Jones Dole expression describes the relationship between the viscosity of an aqueous salt solution and the concentration of salt within the solution (at a fixed temperature and pressure).[1]
+The Jones Dole equation is written as:
+
+
+
+
+
+
+
+n
+(
+a
+q
+)
+
+
+
+n
+
+l
+
+
+∗
+
+
+(
+l
+)
+
+
+
+=
+1
++
+A
+
+C
+
+
+1
+2
+
+
+
++
+B
+C
+
+
+{\displaystyle {\frac {n(aq)}{n_{l}^{*}(l)}}=1+AC^{\frac {1}{2}}+BC}
+
+
+where
+
+n(aq) is the viscosity of the aqueous salt solution (at a fixed temperature and pressure)
+nl*(l) is the viscosity of water at the same temperature and pressure
+A is a coefficient that describes the impact of charge-charge interactions on the viscosity of a solution (it is usually positive)
+C is the concentration of the salt
+B is a coefficient which characterises the ion-solvent interactions at a defined temperature and pressure. It is interpreted as a measure of the structure forming and structure-breaking capacity of an ion in solution.
+
+
+References[edit]
+
+
+^ http://www.le.ac.uk/chemistry/thermodynamics/pdfs/3000/Topic2930.pdf
+
+
+
+
+
+This physical chemistry-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Jones_Dole_equation&oldid=706157184"					
+Categories: Physical chemistry stubsEquationsHidden categories: Articles needing additional references from February 2016All articles needing additional referencesAll stub articles 

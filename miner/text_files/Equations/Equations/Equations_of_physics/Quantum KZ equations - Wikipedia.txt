@@ -1,0 +1,30 @@
+Quantum KZ equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematical physics, the quantum KZ equations or quantum Knizhnik–Zamolodchikov equations or qKZ equations are the analogue for quantum affine algebras of the Knizhnik–Zamolodchikov equations for affine Kac–Moody algebras. They are a consistent system of difference equations satisfied by the N-point functions, the vacuum expectations of products of primary fields. In the limit as the deformation parameter q approaches 1, the N-point functions of the quantum affine algebra tend to those of the affine Kac–Moody algebra and the difference equations become partial differential equations. The quantum KZ equations have been used to study exactly solved models in quantum statistical mechanics.
+See also[edit]
+
+Quantum affine algebras
+Yang–Baxter equation
+Quantum group
+Affine Hecke algebra
+Kac–Moody algebra
+Two-dimensional conformal field theory
+
+References[edit]
+
+Frenkel, I. B.; Reshetikhin, N. Yu. (1992), "Quantum affine algebras and holonomic difference equations", Comm. Math. Phys., 146 (1): 1–60, Bibcode:1992CMaPh.146....1F, doi:10.1007/BF02099206 
+Etingof, Pavel I.; Frenkel, Igor; Kirillov, Alexander A. (1998), Lectures on representation theory and Knizhnik–Zamolodchikov equations, Mathematical Surveys and Monographs, 58, American Mathematical Society, ISBN 0821804960 
+Jimbo, Michio; Miwa, Tetsuji (1995), Algebraic analysis of solvable lattice models, CBMS Regional Conference Series in Mathematics, 85, ISBN 0-8218-0320-4 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Quantum_KZ_equations&oldid=812480206"					
+Categories: Mathematical physicsConformal field theoryQuantum groupsEquations of physics 

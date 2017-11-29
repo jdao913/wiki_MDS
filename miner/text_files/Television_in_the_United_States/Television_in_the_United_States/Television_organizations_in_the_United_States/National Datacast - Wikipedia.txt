@@ -1,0 +1,286 @@
+National Datacast - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+National Datacast Incorporated (NDI) is a pioneer in data broadcasting.[1] It is a for-profit subsidiary of the Public Broadcasting Service (PBS) which handles datacasting on PBS TV stations throughout the United States.[1] Services using ATSC digital TV include MovieBeam and UpdateTV, for which bandwidth is leased by other companies.
+National Datacast was formed in 1988 based on PBS' early work in closed captioning for the hearing impaired.[1]
+It uses line 21 and other vertical interval lines for data transmission.[1]
+References[edit]
+
+
+
+^ a b c d Jones, Graham A.; et al. (2007). National Association of Broadcasters Engineering Handbook, 10th ed. Focal Press. p. 1458. ISBN 978-0-240-80751-5. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+This PBS article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=National_Datacast&oldid=746685265"					
+Categories: Public Broadcasting ServiceTelevision organizations in the United States1988 establishments in the United StatesPBS stubsHidden categories: All stub articles 

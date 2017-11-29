@@ -1,0 +1,2968 @@
+Gödel metric - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+"Gödel universe" redirects here. It is not to be confused with Gödel's constructible universe.
+
+
+General relativity
+
+
+
+
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+
+
+
+
+
+
+
+
+
+
+Introduction
+History
+
+
+
+Mathematical formulation
+
+
+
+Tests
+
+
+
+
+
+
+
+
+
+Fundamental concepts
+
+
+Equivalence principle
+Special relativity
+World line
+Riemannian geometry
+
+
+
+
+
+
+
+
+Phenomena
+
+
+
+
+
+Kepler problem
+Time dilation
+Gravitational field
+Gravitational collapse
+Gravitational lensing
+Gravitational waves
+Gravitational redshift
+Gravitational time delay
+Gravitational time dilation
+Gravitational potential
+Gravitational compression
+Frame-dragging
+Geodetic effect
+Gravity well
+Event horizon
+Singularity
+Naked singularity
+Black hole
+White hole
+
+
+
+
+Spacetime
+
+
+
+
+Space
+Time
+Spacetime diagrams
+Minkowski spacetime
+Closed timelike curve (CTC)
+Wormhole
+
+Ellis wormhole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+Formalisms
+
+
+
+
+
+
+Equations
+
+
+
+
+Linearized gravity
+Einstein field equations
+Friedmann
+Geodesics
+Mathisson–Papapetrou–Dixon
+Hamilton–Jacobi–Einstein
+
+
+
+
+Formalisms
+
+
+
+
+ADM
+BSSN
+Post-Newtonian
+
+
+
+
+Advanced theory
+
+
+
+
+Kaluza–Klein theory
+Quantum gravity
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Lemaître–Tolman
+Taub-NUT
+Milne
+Robertson–Walker
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedman
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Raychaudhuri
+Taylor
+Hulse
+van Stockum
+Taub
+Newman
+Yau
+Thorne
+others
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The Gödel metric is an exact solution of the Einstein field equations in which the stress–energy tensor contains two terms, the first representing the matter density of a homogeneous distribution of swirling dust particles (dust solution), and the second associated with a nonzero cosmological constant (see lambdavacuum solution). It is also known as the Gödel solution.
+This solution has many unusual properties—in particular, the existence of closed timelike curves that would allow time travel in a universe described by the solution. Its definition is somewhat artificial in that the value of the cosmological constant must be carefully chosen to match the density of the dust grains, but this spacetime is an important pedagogical example.
+The solution was found in 1949 by Kurt Gödel.[1]
+
+
+
+Contents
+
+
+1 Definition
+2 Properties
+
+2.1 Einstein tensor
+2.2 Topology
+2.3 Curvature invariants
+2.4 Killing vectors
+2.5 Petrov type and Bel decomposition
+2.6 Rigid rotation
+2.7 Optical effects
+2.8 Shape of absolute future
+2.9 Closed timelike curves
+2.10 Globally nonhyperbolic
+
+
+3 A cylindrical chart
+
+3.1 Derivation
+3.2 Appearance of the light cones
+3.3 A congruence of closed timelike curves
+3.4 Null geodesics
+3.5 The absolute future
+
+
+4 Cosmological interpretation
+5 See also
+6 Notes
+7 References
+
+
+
+Definition[edit]
+Like any other Lorentzian spacetime, the Gödel solution presents the metric tensor in terms of some local coordinate chart. It may be easiest to understand the Gödel universe using the cylindrical coordinate system (presented below), but this article uses the chart that Gödel originally used. In this chart, the line element is
+
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+
+
+1
+
+2
+
+ω
+
+2
+
+
+
+
+
+[
+−
+(
+d
+t
++
+
+e
+
+x
+
+
+d
+z
+
+)
+
+2
+
+
++
+d
+
+x
+
+2
+
+
++
+d
+
+y
+
+2
+
+
++
+
+
+
+1
+2
+
+
+
+
+e
+
+2
+x
+
+
+d
+
+z
+
+2
+
+
+]
+,
+
+
+−
+∞
+<
+t
+,
+x
+,
+y
+,
+z
+<
+∞
+,
+
+
+{\displaystyle ds^{2}={\frac {1}{2\omega ^{2}}}[-(dt+e^{x}dz)^{2}+dx^{2}+dy^{2}+{\tfrac {1}{2}}e^{2x}dz^{2}],\qquad \qquad -\infty <t,x,y,z<\infty ,}
+
+
+
+where 
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+ is a nonzero real constant, which turns out to be the angular velocity of the surrounding dust grains around the y axis, as measured by a "non-spinning" observer riding one of the dust grains. "Non-spinning" means that it doesn't feel centrifugal forces, but in this coordinate frame it would actually be turning on an axis parallel to the y axis. As we shall see, the dust grains stay at constant values of x, y, and z. Their density in this coordinate chart increases with x, but their density in their own frames of reference is the same everywhere.
+Properties[edit]
+To study the properties of the Gödel solution, we will adopt the frame field (dual to the coframe read off the metric as given above),
+
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+=
+
+
+2
+
+
+ω
+
+
+∂
+
+t
+
+
+
+
+{\displaystyle {\vec {e}}_{0}={\sqrt {2}}\omega \,\partial _{t}}
+
+
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+1
+
+
+=
+
+
+2
+
+
+ω
+
+
+∂
+
+x
+
+
+
+
+{\displaystyle {\vec {e}}_{1}={\sqrt {2}}\omega \,\partial _{x}}
+
+
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+2
+
+
+=
+
+
+2
+
+
+ω
+
+
+∂
+
+y
+
+
+
+
+{\displaystyle {\vec {e}}_{2}={\sqrt {2}}\omega \,\partial _{y}}
+
+
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
+=
+2
+ω
+
+
+(
+exp
+⁡
+(
+−
+x
+)
+
+
+∂
+
+z
+
+
+−
+
+
+∂
+
+t
+
+
+)
+
+.
+
+
+{\displaystyle {\vec {e}}_{3}=2\omega \,\left(\exp(-x)\,\partial _{z}-\,\partial _{t}\right).}
+
+
+
+This frame defines a family of inertial observers who are comoving with the dust grains. However, computing the Fermi–Walker derivatives with respect to 
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+
+
+{\displaystyle {\vec {e}}_{0}}
+
+ shows that the spatial frames are spinning about 
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+2
+
+
+
+
+{\displaystyle {\vec {e}}_{2}}
+
+ with angular velocity 
+
+
+
+−
+ω
+
+
+{\displaystyle -\omega }
+
+. It follows that the nonspinning inertial frame comoving with the dust particles is
+
+
+
+
+
+
+
+
+
+f
+→
+
+
+
+
+0
+
+
+=
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+
+
+{\displaystyle {\vec {f}}_{0}={\vec {e}}_{0}}
+
+
+
+
+
+
+
+
+
+
+f
+→
+
+
+
+
+1
+
+
+=
+cos
+⁡
+(
+ω
+t
+)
+
+
+
+
+
+e
+→
+
+
+
+
+1
+
+
+−
+sin
+⁡
+(
+ω
+t
+)
+
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
+
+
+{\displaystyle {\vec {f}}_{1}=\cos(\omega t)\,{\vec {e}}_{1}-\sin(\omega t)\,{\vec {e}}_{3}}
+
+
+
+
+
+
+
+
+
+
+f
+→
+
+
+
+
+2
+
+
+=
+
+
+
+
+e
+→
+
+
+
+
+2
+
+
+
+
+{\displaystyle {\vec {f}}_{2}={\vec {e}}_{2}}
+
+
+
+
+
+
+
+
+
+
+f
+→
+
+
+
+
+3
+
+
+=
+sin
+⁡
+(
+ω
+t
+)
+
+
+
+
+
+e
+→
+
+
+
+
+1
+
+
++
+cos
+⁡
+(
+ω
+t
+)
+
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
+.
+
+
+{\displaystyle {\vec {f}}_{3}=\sin(\omega t)\,{\vec {e}}_{1}+\cos(\omega t)\,{\vec {e}}_{3}.}
+
+
+
+Einstein tensor[edit]
+The components of the Einstein tensor (with respect to either frame above) are
+
+
+
+
+
+
+G
+
+
+
+
+a
+^
+
+
+
+
+
+
+b
+^
+
+
+
+
+
+=
+
+ω
+
+2
+
+
+
+diag
+⁡
+(
+−
+1
+,
+1
+,
+1
+,
+1
+)
++
+2
+
+ω
+
+2
+
+
+
+diag
+⁡
+(
+1
+,
+0
+,
+0
+,
+0
+)
+.
+
+
+{\displaystyle G^{{\hat {a}}{\hat {b}}}=\omega ^{2}\,\operatorname {diag} (-1,1,1,1)+2\omega ^{2}\,\operatorname {diag} (1,0,0,0).}
+
+
+
+Here, the first term is characteristic of a lambdavacuum solution and the second term is characteristic of a pressureless perfect fluid or dust solution. Notice that the cosmological constant is carefully chosen to partially cancel the matter density of the dust.
+Topology[edit]
+The Gödel spacetime is a rare example of a regular (singularity-free) solution of the Einstein field equation. Gödel's original chart (given here) is geodesically complete and singularity free; therefore, it is a global chart, and the spacetime is homeomorphic to R4, and therefore, simply connected.
+Curvature invariants[edit]
+In any Lorentzian spacetime, the fourth-rank Riemann tensor is a multilinear operator on the four-dimensional space of tangent vectors (at some event), but a linear operator on the six-dimensional space of bivectors at that event. Accordingly, it has a characteristic polynomial, whose roots are the eigenvalues. In the Gödel spacetime, these eigenvalues are very simple:
+
+triple eigenvalue zero,
+double eigenvalue -
+
+
+
+
+ω
+
+2
+
+
+
+
+{\displaystyle \omega ^{2}}
+
+,
+simple eigenvalue 
+
+
+
+
+ω
+
+2
+
+
+
+
+{\displaystyle \omega ^{2}}
+
+.
+
+Killing vectors[edit]
+This spacetime admits a five-dimensional Lie algebra of Killing vectors, which can be generated by time translation 
+
+
+
+
+∂
+
+t
+
+
+
+
+{\displaystyle \partial _{t}}
+
+, two spatial translations 
+
+
+
+
+∂
+
+y
+
+
+,
+
+
+∂
+
+z
+
+
+
+
+{\displaystyle \partial _{y},\;\partial _{z}}
+
+, plus two further Killing vector fields:
+
+
+
+
+
+
+∂
+
+x
+
+
+−
+z
+
+
+∂
+
+z
+
+
+
+
+{\displaystyle \partial _{x}-z\,\partial _{z}}
+
+
+
+and
+
+
+
+
+
+−
+2
+exp
+⁡
+(
+−
+x
+)
+
+
+∂
+
+t
+
+
++
+z
+
+
+∂
+
+x
+
+
++
+
+(
+exp
+⁡
+(
+−
+2
+x
+)
+−
+
+z
+
+2
+
+
+
+/
+
+2
+)
+
+
+
+∂
+
+z
+
+
+.
+
+
+{\displaystyle -2\exp(-x)\,\partial _{t}+z\,\partial _{x}+\left(\exp(-2x)-z^{2}/2\right)\,\partial _{z}.}
+
+
+
+The isometry group acts transitively (since we can translate in 
+
+
+
+t
+,
+y
+,
+z
+
+
+{\displaystyle t,y,z}
+
+, and using the fourth vector we can move along 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ as well), so the spacetime is homogeneous. However, it is not isotropic, as we shall see.
+It is obvious from the generators just given that the slices 
+
+
+
+x
+=
+
+x
+
+0
+
+
+
+
+{\displaystyle x=x_{0}}
+
+ admit a transitive abelian three-dimensional transformation group, so a quotient of the solution can be reinterpreted as a stationary cylindrically symmetric solution. Less obviously, the slices 
+
+
+
+y
+=
+
+y
+
+0
+
+
+
+
+{\displaystyle y=y_{0}}
+
+ admit an SL(2,R) action, and the slices 
+
+
+
+t
+=
+
+t
+
+0
+
+
+
+
+{\displaystyle t=t_{0}}
+
+ admit a Bianchi III (c.f. the fourth Killing vector field). We can restate this by saying that our symmetry group includes as three-dimensional subgroups examples of Bianchi types I, III and VIII. Four of the five Killing vectors, as well as the curvature tensor, do not depend upon the coordinate y. Indeed, the Gödel solution is the Cartesian product of a factor R with a three-dimensional Lorentzian manifold (signature -++).
+It can be shown that the Gödel solution is, up to local isometry, the only perfect fluid solution of the Einstein field equation admitting a five-dimensional Lie algebra of Killing vectors.
+Petrov type and Bel decomposition[edit]
+The Weyl tensor of the Gödel solution has Petrov type D. This means that for an appropriately chosen observer, the tidal forces have Coulomb form.
+To study the tidal forces in more detail, we compute the Bel decomposition of the Riemann tensor into three pieces, the tidal or electrogravitic tensor (which represents tidal forces), the magnetogravitic tensor (which represents spin-spin forces on spinning test particles and other gravitational effects analogous to magnetism), and the topogravitic tensor (which represents the spatial sectional curvatures).
+Interestingly enough, observers comoving with the dust particles find that the tidal tensor (with respect to 
+
+
+
+
+
+
+u
+→
+
+
+
+=
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+
+
+{\displaystyle {\vec {u}}={\vec {e}}_{0}}
+
+, which components evaluated in our frame) has the form
+
+
+
+
+
+
+
+E
+
+[
+
+
+
+u
+→
+
+
+
+]
+
+
+
+
+
+
+m
+^
+
+
+
+
+
+
+n
+^
+
+
+
+
+
+=
+
+ω
+
+2
+
+
+
+diag
+⁡
+(
+1
+,
+0
+,
+1
+)
+.
+
+
+{\displaystyle {E\left[{\vec {u}}\right]}_{{\hat {m}}{\hat {n}}}=\omega ^{2}\,\operatorname {diag} (1,0,1).}
+
+
+
+That is, they measure isotropic tidal tension orthogonal to the distinguished direction 
+
+
+
+
+∂
+
+y
+
+
+
+
+{\displaystyle \partial _{y}}
+
+.
+The gravitomagnetic tensor vanishes identically
+
+
+
+
+
+
+
+B
+
+[
+
+
+
+u
+→
+
+
+
+]
+
+
+
+
+
+
+m
+^
+
+
+
+
+
+
+n
+^
+
+
+
+
+
+=
+0.
+
+
+{\displaystyle {B\left[{\vec {u}}\right]}_{{\hat {m}}{\hat {n}}}=0.}
+
+
+
+This is an artifact of the unusual symmetries of this spacetime, and implies that the putative "rotation" of the dust does not have the gravitomagnetic effects usually associated with the gravitational field produced by rotating matter.
+The principal Lorentz invariants of the Riemann tensor are
+
+
+
+
+
+
+R
+
+a
+b
+c
+d
+
+
+
+
+R
+
+a
+b
+c
+d
+
+
+=
+12
+
+ω
+
+4
+
+
+,
+
+
+R
+
+a
+b
+c
+d
+
+
+
+
+
+
+
+
+⋆
+
+
+R
+
+
+a
+b
+c
+d
+
+
+=
+0.
+
+
+{\displaystyle R_{abcd}\,R^{abcd}=12\omega ^{4},\;R_{abcd}{{}^{\star }R}^{abcd}=0.}
+
+
+
+The vanishing of the second invariant means that some observers measure no gravitomagnetism, which of course is consistent with what we just said. The fact that the first invariant (the Kretschmann invariant) is constant reflects the homogeneity of the Gödel spacetime.
+Rigid rotation[edit]
+The frame fields given above are both inertial, 
+
+
+
+
+∇
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+=
+0
+
+
+{\displaystyle \nabla _{{\vec {e}}_{0}}{\vec {e}}_{0}=0}
+
+, but the vorticity vector of the timelike geodesic congruence defined by the timelike unit vectors is
+
+
+
+
+
+−
+ω
+
+
+
+
+e
+→
+
+
+
+
+2
+
+
+
+
+{\displaystyle -\omega {\vec {e}}_{2}}
+
+
+
+This means that the world lines of nearby dust particles are twisting about one another. Furthermore, the shear tensor of the congruence 
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+
+
+{\displaystyle {\vec {e}}_{0}}
+
+ vanishes, so the dust particles exhibit rigid rotation.
+Optical effects[edit]
+If we study the past light cone of a given observer, we find that null geodesics moving orthogonally to 
+
+
+
+
+∂
+
+y
+
+
+
+
+{\displaystyle \partial _{y}}
+
+ spiral inwards toward the observer, so that if he looks radially, he sees the other dust grains in progressively time-lagged positions. However, the solution is stationary, so it might seem that an observer riding on a dust grain will not see the other grains rotating about himself. However, recall that while the first frame given above (the 
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+j
+
+
+
+
+{\displaystyle {\vec {e}}_{j}}
+
+) appears static in our chart, the Fermi–Walker derivatives show that, in fact, it is spinning with respect to gyroscopes. The second frame (the 
+
+
+
+
+
+
+
+f
+→
+
+
+
+
+j
+
+
+
+
+{\displaystyle {\vec {f}}_{j}}
+
+) appears to be spinning in our chart, but in fact it is gyrostabilized, and of course a nonspinning inertial observer riding on a dust grain will indeed see the other dust grains rotating clockwise with angular velocity 
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+ about his axis of symmetry. It turns out that in addition, optical images are expanded and sheared in the direction of rotation.
+If a nonspinning inertial observer looks along his axis of symmetry, he sees his coaxial nonspinning inertial peers apparently nonspinning with respect to himself, as we would expect.
+Shape of absolute future[edit]
+According to Hawking and Ellis, another remarkable feature of this spacetime is the fact that, if we suppress the inessential y coordinate, light emitted from an event on the world line of a given dust particle spirals outwards, forms a circular cusp, then spirals inward and reconverges at a subsequent event on the world line of the original dust particle. This means that observers looking orthogonally to the 
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+2
+
+
+
+
+{\displaystyle {\vec {e}}_{2}}
+
+ direction can see only finitely far out, and also see themselves at an earlier time.
+The cusp is a nongeodesic closed null curve. (See the more detailed discussion below using an alternative coordinate chart.)
+Closed timelike curves[edit]
+Because of the homogeneity of the spacetime and the mutual twisting of our family of timelike geodesics, it is more or less inevitable that the Gödel spacetime should have closed timelike curves (CTCs). Indeed, there are CTCs through every event in the Gödel spacetime. This causal anomaly seems to have been regarded as the whole point of the model by Gödel himself, who was apparently striving to prove, and arguably succeeded in proving, that Einstein's equations of spacetime are not consistent with what we intuitively understand time to be (i.e. that it passes and the past no longer exists, the position philosophers call presentism, whereas Gödel seems to have been arguing for something more like the philosophy of eternalism), much as he, conversely, succeeded with his Incompleteness Theorems in showing that intuitive mathematical concepts could not be completely described by formal mathematical systems of proof. See the book A World Without Time (ISBN 0465092942).
+Einstein was aware of Gödel's solution and commented in Albert Einstein: Philosopher-Scientist [2] that if you can have a series of causally-connected events in which "the series is closed in itself" (in other words, a closed timelike curve), then this suggests that there is no good physical way to define whether a given event in the series happened "earlier" or "later" than another event in the series:
+
+In that case the distinction "earlier-later" is abandoned for world-points which lie far apart in a cosmological sense, and those paradoxes, regarding the direction of the causal connection, arise, of which Mr. Gödel has spoken.
+
+
+Such cosmological solutions of the gravitation-equations (with not vanishing A-constant) have been found by Mr. Gödel. It will be interesting to weigh whether these are not to be excluded on physical grounds.
+
+Globally nonhyperbolic[edit]
+If the Gödel spacetime admitted any boundaryless spatial hyperslices (e.g. a Cauchy surface), any such CTC would have to intersect it an odd number of times, contradicting the fact that the spacetime is simply connected. Therefore, this spacetime is not globally hyperbolic.
+A cylindrical chart[edit]
+In this section, we introduce another coordinate chart for the Gödel solution, in which some of the features mentioned above are easier to see.
+Derivation[edit]
+Gödel did not explain how he found his solution, but there are in fact many possible derivations. We will sketch one here, and at the same time verify some of the claims made above.
+Start with a simple frame in a cylindrical type chart, featuring two undetermined functions of the radial coordinate:
+
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+=
+
+∂
+
+t
+
+
+,
+
+
+
+
+
+e
+→
+
+
+
+
+1
+
+
+=
+
+∂
+
+z
+
+
+,
+
+
+
+
+
+e
+→
+
+
+
+
+2
+
+
+=
+
+∂
+
+r
+
+
+,
+
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
+=
+
+
+1
+
+b
+(
+r
+)
+
+
+
+
+
+(
+−
+a
+(
+r
+)
+
+
+∂
+
+t
+
+
++
+
+∂
+
+ϕ
+
+
+)
+
+
+
+{\displaystyle {\vec {e}}_{0}=\partial _{t},\;{\vec {e}}_{1}=\partial _{z},\;{\vec {e}}_{2}=\partial _{r},\,{\vec {e}}_{3}={\frac {1}{b(r)}}\,\left(-a(r)\,\partial _{t}+\partial _{\phi }\right)}
+
+
+
+Here, we think of the timelike unit vector field 
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+
+
+{\displaystyle {\vec {e}}_{0}}
+
+ as tangent to the world lines of the dust particles, and their world lines will in general exhibit nonzero vorticity but vanishing expansion and shear. Let us demand that the Einstein tensor match a dust term plus a vacuum energy term. This is equivalent to requiring that it match a perfect fluid; i.e., we require that the components of the Einstein tensor, computed with respect to our frame, take the form
+
+
+
+
+
+
+G
+
+
+
+
+i
+^
+
+
+
+
+
+
+j
+^
+
+
+
+
+
+=
+μ
+
+diag
+⁡
+(
+1
+,
+0
+,
+0
+,
+0
+)
++
+p
+
+diag
+⁡
+(
+0
+,
+1
+,
+1
+,
+1
+)
+
+
+{\displaystyle G^{{\hat {i}}{\hat {j}}}=\mu \,\operatorname {diag} (1,0,0,0)+p\,\operatorname {diag} (0,1,1,1)}
+
+
+
+This gives the conditions
+
+
+
+
+
+
+b
+
+′
+′
+′
+
+
+=
+
+
+
+
+b
+
+′
+′
+
+
+
+
+b
+
+′
+
+
+
+b
+
+
+,
+
+
+
+(
+
+a
+
+′
+
+
+)
+
+
+2
+
+
+=
+2
+
+
+b
+
+′
+′
+
+
+
+b
+
+
+{\displaystyle b^{\prime \prime \prime }={\frac {b^{\prime \prime }\,b^{\prime }}{b}},\;\left(a^{\prime }\right)^{2}=2\,b^{\prime \prime }\,b}
+
+
+
+Plugging these into the Einstein tensor, we see that in fact we now have 
+
+
+
+μ
+=
+p
+
+
+{\displaystyle \mu =p}
+
+. The simplest nontrivial spacetime we can construct in this way evidently would have this coefficient be some nonzero but constant function of the radial coordinate. Specifically, with a bit of foresight, let us choose 
+
+
+
+μ
+=
+
+ω
+
+2
+
+
+
+
+{\displaystyle \mu =\omega ^{2}}
+
+. This gives
+
+
+
+
+
+b
+(
+r
+)
+=
+
+
+
+sinh
+⁡
+(
+
+
+2
+
+
+ω
+
+r
+)
+
+
+
+
+2
+
+
+ω
+
+
+
+,
+
+a
+(
+r
+)
+=
+
+
+
+cosh
+⁡
+(
+
+
+2
+
+
+ω
+r
+)
+
+ω
+
+
++
+c
+
+
+{\displaystyle b(r)={\frac {\sinh({\sqrt {2}}\omega \,r)}{{\sqrt {2}}\omega }},\;a(r)={\frac {\cosh({\sqrt {2}}\omega r)}{\omega }}+c}
+
+
+
+Finally, let us demand that this frame satisfy
+
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
+=
+
+
+1
+r
+
+
+
+
+∂
+
+ϕ
+
+
++
+O
+
+(
+
+
+1
+
+r
+
+2
+
+
+
+
+)
+
+
+
+{\displaystyle {\vec {e}}_{3}={\frac {1}{r}}\,\partial _{\phi }+O\left({\frac {1}{r^{2}}}\right)}
+
+
+
+This gives 
+
+
+
+c
+=
+−
+1
+
+/
+
+ω
+
+
+{\displaystyle c=-1/\omega }
+
+, and our frame becomes
+
+
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+=
+
+∂
+
+t
+
+
+,
+
+
+
+
+
+e
+→
+
+
+
+
+1
+
+
+=
+
+∂
+
+z
+
+
+,
+
+
+
+
+
+e
+→
+
+
+
+
+2
+
+
+=
+
+∂
+
+r
+
+
+,
+
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
+=
+
+
+
+
+
+2
+
+
+ω
+
+
+sinh
+⁡
+(
+
+
+2
+
+
+ω
+r
+)
+
+
+
+
+
+∂
+
+ϕ
+
+
+−
+
+
+
+
+
+2
+
+
+sinh
+⁡
+(
+
+
+2
+
+
+ω
+r
+)
+
+
+1
++
+cosh
+⁡
+(
+
+
+2
+
+
+ω
+r
+)
+
+
+
+
+
+∂
+
+t
+
+
+
+
+{\displaystyle {\vec {e}}_{0}=\partial _{t},\;{\vec {e}}_{1}=\partial _{z},\;{\vec {e}}_{2}=\partial _{r},\;{\vec {e}}_{3}={\frac {{\sqrt {2}}\omega }{\sinh({\sqrt {2}}\omega r)}}\,\partial _{\phi }-{\frac {{\sqrt {2}}\sinh({\sqrt {2}}\omega r)}{1+\cosh({\sqrt {2}}\omega r)}}\,\partial _{t}}
+
+
+
+Appearance of the light cones[edit]
+From the metric tensor we find that the vector field 
+
+
+
+
+∂
+
+ϕ
+
+
+
+
+{\displaystyle \partial _{\phi }}
+
+, which is of course spacelike for small radii, becomes null at 
+
+
+
+r
+=
+
+r
+
+c
+
+
+
+
+{\displaystyle r=r_{c}}
+
+ where
+
+
+
+
+
+
+r
+
+c
+
+
+=
+
+
+
+arccosh
+⁡
+(
+3
+)
+
+
+
+
+2
+
+
+ω
+
+
+
+
+
+{\displaystyle r_{c}={\frac {\operatorname {arccosh} (3)}{{\sqrt {2}}\omega }}}
+
+
+
+This is because at that radius we find that 
+
+
+
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
+=
+
+
+ω
+2
+
+
+
+
+∂
+
+ϕ
+
+
+−
+
+∂
+
+t
+
+
+,
+
+
+{\displaystyle {\vec {e}}_{3}={\frac {\omega }{2}}\,\partial _{\phi }-\partial _{t},}
+
+ so 
+
+
+
+
+
+ω
+2
+
+
+
+
+∂
+
+ϕ
+
+
+=
+
+
+
+
+e
+→
+
+
+
+
+3
+
+
++
+
+
+
+
+e
+→
+
+
+
+
+0
+
+
+
+
+{\displaystyle {\frac {\omega }{2}}\,\partial _{\phi }={\vec {e}}_{3}+{\vec {e}}_{0}}
+
+ and is therefore null. The circle 
+
+
+
+r
+=
+
+r
+
+c
+
+
+
+
+{\displaystyle r=r_{c}}
+
+ at a given t is a closed null curve, but not a null geodesic.
+Examining the frame above, we can see that the coordinate 
+
+
+
+z
+
+
+{\displaystyle z}
+
+ is inessential; our spacetime is the direct product of a factor R with a signature -++ three-manifold. Suppressing 
+
+
+
+z
+
+
+{\displaystyle z}
+
+ in order to focus our attention on this three-manifold, let us examine how the appearance of the light cones changes as we travel out from the axis of symmetry 
+
+
+
+r
+=
+0
+
+
+{\displaystyle r=0}
+
+:
+
+
+
+Two light cones (with their accompanying frame vectors) in the cylindrical chart for the Gödel lambda dust solution. As we move outwards from the nominal symmetry axis, the cones tip forward and widen. Note that vertical coordinate lines (representing the world lines of the dust particles) are always timelike.
+
+
+
+When we get to the critical radius, the cones become tangent to the closed null curve.
+A congruence of closed timelike curves[edit]
+At the critical radius 
+
+
+
+r
+=
+
+r
+
+c
+
+
+
+
+{\displaystyle r=r_{c}}
+
+, the vector field 
+
+
+
+
+∂
+
+ϕ
+
+
+
+
+{\displaystyle \partial _{\phi }}
+
+ becomes null. For larger radii, it is timelike. Thus, corresponding to our symmetry axis we have a timelike congruence made up of circles and corresponding to certain observers. This congruence is however only defined outside the cylinder 
+
+
+
+r
+=
+
+r
+
+c
+
+
+
+
+{\displaystyle r=r_{c}}
+
+.
+This is not a geodesic congruence; rather, each observer in this family must maintain a constant acceleration in order to hold his course. Observers with smaller radii must accelerate harder; as 
+
+
+
+r
+→
+
+r
+
+c
+
+
+
+
+{\displaystyle r\rightarrow r_{c}}
+
+ the magnitude of acceleration diverges, which is of course just what we should expect, given that 
+
+
+
+r
+=
+
+r
+
+c
+
+
+
+
+{\displaystyle r=r_{c}}
+
+ is a null curve.
+Null geodesics[edit]
+If we examine the past light cone of an event on the axis of symmetry, we find the following picture:
+
+
+
+The null geodesics spiral counterclockwise toward an observer on the axis of symmetry. This shows them from "above".
+
+
+
+Recall that vertical coordinate lines in our chart represent the world lines of the dust particles, but despite their straight appearance in our chart, the congruence formed by these curves has nonzero vorticity, so the world lines are actually twisting about each other. The fact that the null geodesics spiral inwards in the manner shown above means that when our observer looks radially outwards, he sees nearby dust particles, not at their current locations, but at their earlier locations. This is just what we would expect if the dust particles are in fact rotating about one another.
+Note that the null geodesics are of course geometrically straight; in the figure, they appear to be spirals only because the coordinates are "rotating" in order to permit the dust particles to appear stationary.
+The absolute future[edit]
+According to Hawking and Ellis (see monograph cited below), all light rays emitted from an event on the symmetry axis reconverge at a later event on the axis, with the null geodesics forming a circular cusp (which is a null curve, but not a null geodesic):
+
+
+
+Hawking and Ellis picture of expansion and reconvergence of light emitted by an observer on the axis of symmetry.
+
+
+
+This implies that in the Gödel lambdadust solution, the absolute future of each event has a character very different from what we might naively expect.
+Cosmological interpretation[edit]
+Following Gödel, we can interpret the dust particles as galaxies, so that the Gödel solution becomes a cosmological model of a rotating universe. Besides rotating, this model exhibits no Hubble expansion, so it is not a realistic model of the universe in which we live, but can be taken as illustrating an alternative universe which would in principle be allowed by general relativity (if one admits the legitimacy of a nonzero cosmological constant). Less well known solutions of Gödel's exhibit both rotation and Hubble expansion and have other qualities of his first model, but travelling into the past is not possible. According to S. W. Hawking, these models could well be a reasonable description of the universe that we observe, however observational data are compatible only with a very low rate of rotation.[3] The quality of these observations improved continually up until Gödel's death, and he would always ask "is the universe rotating yet?" and be told "no, it isn't."[4]
+We have seen that observers lying on the y axis (in the original chart) see the rest of the universe rotating clockwise about that axis. However, the homogeneity of the spacetime shows that the direction but not the position of this "axis" is distinguished.
+Some have interpreted the Gödel universe as a counterexample to Einstein's hopes that general relativity should exhibit some kind of Mach principle,[3] citing the fact that the matter is rotating (world lines twisting about each other) in a manner sufficient to pick out a preferred direction, although with no distinguished axis of rotation.
+Others[citation needed] take Mach principle to mean some physical law tying the definition of nonspinning inertial frames at each event to the global distribution and motion of matter everywhere in the universe, and say that because the nonspinning inertial frames are precisely tied to the rotation of the dust in just the way such a Mach principle would suggest, this model does accord with Mach's ideas.
+Many other exact solutions which can be interpreted as cosmological models of rotating universes are known. See the book by Ryan and Shepley for some of these generalizations.
+See also[edit]
+
+van Stockum dust, for another rotating dust solution with (true) cylindrical symmetry,
+Dust solution, an article about dust solutions in general relativity.
+
+Notes[edit]
+
+
+
+^ Gödel, K., "An Example of a New Type of Cosmological Solutions of Einstein's Field Equations of Gravitation," Rev. Mod. Phys. 21, 447, published July 1, 1949 [1].
+^ Einstein, Albert (1949). "Einstein's Reply to Criticisms". Albert Einstein: Philosopher-Scientist. Cambridge University Press. Retrieved 29 November 2012. 
+^ a b S. W. Hawking, Introductory note to 1949 and 1952 in Kurt Gödel, Collected works, Volume II (S. Feferman et al., eds)
+^ Reflections on Kurt Gödel, by Hao Wang, MIT Press, (1987), p.183.
+
+
+
+References[edit]
+
+G.Dautcourt and M. Abdel-Megied (2006). "Revisiting the Light Cone of the Goedel Universe". Classical and Quantum Gravity. 23 (4): 1269–1288. arXiv:gr-qc/0511015 . Bibcode:2006CQGra..23.1269D. doi:10.1088/0264-9381/23/4/013. 
+Stephani, Hans; Kramer, Dietrich; MacCallum, Malcolm; Hoenselaers, Cornelius; Herlt, Eduard (2003). Exact Solutions to Einstein's Field Equations (2nd ed.). Cambridge: Cambridge University Press. ISBN 0-521-46136-7.  See section 12.4 for the uniqueness theorem.
+Ryan, M. P.; Shepley, L. C. (1975). Homogeneous Relativistic Cosmologies. Princeton: Princeton University Press. ISBN 0-691-08153-0. 
+Hawking, Stephen; Ellis, G. F. R. (1973). The Large Scale Structure of Space-Time. Cambridge: Cambridge University Press. ISBN 0-521-09906-4.  See section 5.7 for a classic discussion of CTC's in the Gödel spacetime. Warning: in Fig. 31, the light cones do indeed tip over but they also widen, so that vertical coordinate lines are always timelike; indeed, these represent the world lines of the dust particles so they are timelike geodesics.
+Gödel, K. (1949). "An example of a new type of cosmological solution of Einstein's field equations of gravitation". Rev. Mod. Phys. 21 (3): 447–450. Bibcode:1949RvMP...21..447G. doi:10.1103/RevModPhys.21.447. 
+Gödel universe on arxiv.org
+Vukovic R. (2014): Tensor Model of the Rotating Universe, Exercise in Special Relativity
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Time travel
+
+
+
+General terms and concepts
+
+
+
+Chronology protection conjecture
+Closed timelike curve
+Novikov self-consistency principle
+Self-fulfilling prophecy
+Quantum mechanics of time travel
+
+
+
+
+
+Time travel in fiction
+
+
+
+Timelines in fiction
+
+in science fiction
+in games
+
+
+
+
+
+
+
+Temporal paradoxes
+
+
+
+Grandfather paradox
+Causal loop
+
+
+
+
+
+Parallel timelines
+
+
+
+Alternate history
+Many-worlds interpretation
+Multiverse
+Parallel universe (fiction)
+Alternative future
+
+
+
+
+
+Philosophy of space and time
+
+
+
+Butterfly effect
+Determinism
+Eternalism
+Fatalism
+Free will
+Predestination
+
+
+
+
+
+Spacetimes in general relativity that
+can contain closed timelike curves
+
+
+
+Alcubierre metric
+BTZ black hole
+Gödel metric
+Kerr metric
+Krasnikov tube
+Misner space
+Tipler cylinder
+van Stockum dust
+Traversable wormholes
+
+
+
+
+
+Time travel claims and urban legends
+
+
+
+Moberly–Jourdain incident
+Philadelphia Experiment
+Montauk Project
+Chronovisor
+Billy Meier
+Rudolph Fentz
+John Titor
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Relativity
+
+
+
+Special
+relativity
+
+
+
+
+Background
+
+
+
+Principle of relativity
+Special relativity
+
+
+
+
+
+Foundations
+
+
+
+Frame of reference
+Speed of light
+Hyperbolic orthogonality
+Rapidity
+Maxwell's equations
+
+
+
+
+
+Formulation
+
+
+
+Galilean relativity
+Galilean transformation
+Lorentz transformation
+
+
+
+
+
+Consequences
+
+
+
+Time dilation
+Relativistic mass
+Mass–energy equivalence
+Length contraction
+Relativity of simultaneity
+Relativistic Doppler effect
+Thomas precession
+Relativistic disks
+
+
+
+
+
+Spacetime
+
+
+
+Light cone
+World line
+Spacetime diagram
+Biquaternions
+Minkowski space
+
+
+
+
+
+
+
+
+
+
+
+General
+relativity
+
+
+
+
+Background
+
+
+
+Introduction
+Mathematical formulation
+
+
+
+
+
+Fundamental
+concepts
+
+
+
+Special relativity
+Equivalence principle
+World line
+Riemannian geometry
+Minkowski diagram
+Penrose diagram
+
+
+
+
+
+Phenomena
+
+
+
+Black hole
+Event horizon
+Frame-dragging
+Geodetic effect
+Lenses
+Singularity
+Waves
+Ladder paradox
+Twin paradox
+Two-body problem
+BKL singularity
+
+
+
+
+
+Equations
+
+
+
+ADM formalism
+BSSN formalism
+Einstein field equations
+Geodesic equation
+Friedmann equations
+Linearized gravity
+Post-Newtonian formalism
+Raychaudhuri equation
+Hamilton–Jacobi–Einstein equation
+Ernst equation
+Tolman-Oppenheimer-Volkoff equation
+
+
+
+
+
+Advanced
+theories
+
+
+
+Brans–Dicke theory
+Kaluza–Klein
+Mach's principle
+Quantum gravity
+
+
+
+
+
+Solutions
+
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Friedmann–Lemaître–Robertson–Walker
+Taub–NUT
+Milne
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedmann
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Taylor
+Hulse
+Stockum
+Taub
+Newman
+Yau
+Thorne
+Weiss
+Bondi
+Misner
+others
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Gödel_metric&oldid=791940996"					
+Categories: Exact solutions in general relativityMetric tensorsWorks by Kurt GödelHidden categories: All articles with unsourced statementsArticles with unsourced statements from July 2015 

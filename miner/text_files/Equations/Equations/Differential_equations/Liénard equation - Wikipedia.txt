@@ -1,0 +1,545 @@
+Liénard equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, more specifically in the study of dynamical systems and differential equations, a Liénard equation[1] is a second order differential equation, named after the French physicist Alfred-Marie Liénard.
+During the development of radio and vacuum tube technology, Liénard equations were intensely studied as they can be used to model oscillating circuits. Under certain additional assumptions Liénard's theorem guarantees the uniqueness and existence of a limit cycle for such a system.
+
+
+
+Contents
+
+
+1 Definition
+2 Liénard system
+3 Example
+4 Liénard's theorem
+5 See also
+6 Footnotes
+7 External links
+
+
+
+Definition[edit]
+Let f and g be two continuously differentiable functions on R, with g an odd function and f an even function. Then the second order ordinary differential equation of the form
+
+
+
+
+
+
+
+
+
+d
+
+2
+
+
+x
+
+
+d
+
+t
+
+2
+
+
+
+
+
++
+f
+(
+x
+)
+
+
+
+d
+x
+
+
+d
+t
+
+
+
++
+g
+(
+x
+)
+=
+0
+
+
+{\displaystyle {d^{2}x \over dt^{2}}+f(x){dx \over dt}+g(x)=0}
+
+
+
+is called the Liénard equation.
+Liénard system[edit]
+The equation can be transformed into an equivalent two-dimensional system of ordinary differential equations. We define
+
+
+
+
+
+F
+(
+x
+)
+:=
+
+∫
+
+0
+
+
+x
+
+
+f
+(
+ξ
+)
+d
+ξ
+
+
+{\displaystyle F(x):=\int _{0}^{x}f(\xi )d\xi }
+
+
+
+
+
+
+
+x
+
+1
+
+
+:=
+x
+
+
+{\displaystyle x_{1}:=x}
+
+
+
+
+
+
+
+x
+
+2
+
+
+:=
+
+
+
+d
+x
+
+
+d
+t
+
+
+
++
+F
+(
+x
+)
+
+
+{\displaystyle x_{2}:={dx \over dt}+F(x)}
+
+
+
+then
+
+
+
+
+
+
+
+[
+
+
+
+
+
+
+
+x
+˙
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+x
+˙
+
+
+
+
+2
+
+
+
+
+
+]
+
+
+=
+
+h
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
+:=
+
+
+[
+
+
+
+
+x
+
+2
+
+
+−
+F
+(
+
+x
+
+1
+
+
+)
+
+
+
+
+−
+g
+(
+
+x
+
+1
+
+
+)
+
+
+
+]
+
+
+
+
+{\displaystyle {\begin{bmatrix}{\dot {x}}_{1}\\{\dot {x}}_{2}\end{bmatrix}}=\mathbf {h} (x_{1},x_{2}):={\begin{bmatrix}x_{2}-F(x_{1})\\-g(x_{1})\end{bmatrix}}}
+
+
+
+is called a Liénard system.
+Alternatively, since Liénard equation itself is also an autonomous differential equation, the substitution 
+
+
+
+v
+=
+
+
+
+d
+x
+
+
+d
+t
+
+
+
+
+
+{\displaystyle v={dx \over dt}}
+
+ leads the Liénard equation to become a first order differential equation:
+
+
+
+
+
+v
+
+
+
+d
+v
+
+
+d
+x
+
+
+
++
+f
+(
+x
+)
+v
++
+g
+(
+x
+)
+=
+0
+
+
+{\displaystyle v{dv \over dx}+f(x)v+g(x)=0}
+
+
+
+which belongs to Abel equation of the second kind.[2][3]
+Example[edit]
+The Van der Pol oscillator
+
+
+
+
+
+
+
+
+
+d
+
+2
+
+
+x
+
+
+d
+
+t
+
+2
+
+
+
+
+
+−
+μ
+(
+1
+−
+
+x
+
+2
+
+
+)
+
+
+
+d
+x
+
+
+d
+t
+
+
+
++
+x
+=
+0
+
+
+{\displaystyle {d^{2}x \over dt^{2}}-\mu (1-x^{2}){dx \over dt}+x=0}
+
+
+
+is a Liénard equation. The solution of Van der Pol oscillator has a limit cycle. Such cycle has a solution of a Liénard equation with negative 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ at small 
+
+
+
+
+|
+
+x
+
+|
+
+
+
+{\displaystyle |x|}
+
+ and positive 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ otherwise. Van der Pol equation hasn’t exact, analytic solution. Such solution for limit cycle exists if 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ is constant piece-wise function.[4]
+Liénard's theorem[edit]
+A Liénard system has a unique and stable limit cycle surrounding the origin if it satisfies the following additional properties:[5]
+
+g(x) > 0 for all x > 0;
+
+
+
+
+
+lim
+
+x
+→
+∞
+
+
+F
+(
+x
+)
+:=
+
+lim
+
+x
+→
+∞
+
+
+
+∫
+
+0
+
+
+x
+
+
+f
+(
+ξ
+)
+d
+ξ
+ 
+=
+∞
+;
+
+
+{\displaystyle \lim _{x\to \infty }F(x):=\lim _{x\to \infty }\int _{0}^{x}f(\xi )d\xi \ =\infty ;}
+
+
+F(x) has exactly one positive root at some value p, where F(x) < 0 for 0 < x < p and F(x) > 0 and monotonic for x > p.
+
+See also[edit]
+
+Autonomous differential equation
+Abel equation of the second kind
+
+Footnotes[edit]
+
+
+
+^ Liénard, A. (1928) "Etude des oscillations entretenues," Revue générale de l'électricité 23, pp. 901–912 and 946–954.
+^ Liénard equation at eqworld.
+^ Abel equation of the second kind at eqworld.
+^ Pilipenko A. M., and Biryukov V. N. «Investigation of Modern Numerical Analysis Methods of Self-Oscillatory Circuits Efficiency», Journal of Radio Electronics, No 9, (2013). http://jre.cplire.ru/jre/aug13/9/text-engl.html
+^ For a proof, see Perko, Lawrence (1991). Differential Equations and Dynamical Systems (Third ed.). New York: Springer. pp. 254–257. ISBN 0-387-97443-1. 
+
+
+
+External links[edit]
+
+Hazewinkel, Michiel, ed. (2001) [1994], "Liénard equation", Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+LienardSystem at PlanetMath.org.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Liénard_equation&oldid=801219965"					
+Categories: Dynamical systemsDifferential equationsTheorems in dynamical systems 

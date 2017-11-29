@@ -1,0 +1,565 @@
+Eyring equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article has an unclear citation style. The references used may be made clearer with a different or consistent style of citation, footnoting, or external linking. (March 2012) (Learn how and when to remove this template message)
+
+
+
+The Eyring equation (occasionally also known as Eyring–Polanyi equation) is an equation used in chemical kinetics to describe the variance of the rate of a chemical reaction with temperature. It was developed almost simultaneously in 1935 by Henry Eyring, Meredith Gwynne Evans and Michael Polanyi. This equation follows from the transition state theory (a.k.a. activated-complex theory) and is trivially equivalent to the empirical Arrhenius equation which are both readily derived from statistical thermodynamics in the kinetic theory of gases.[1]
+
+
+
+Contents
+
+
+1 General form
+2 Accuracy
+3 Notes
+4 References
+5 External links
+
+
+
+General form[edit]
+The general form of the Eyring–Polanyi equation somewhat resembles the Arrhenius equation:
+
+
+
+
+ 
+k
+=
+
+
+
+
+k
+
+
+B
+
+
+
+T
+
+h
+
+
+
+
+e
+
+
+−
+
+
+
+Δ
+
+G
+
+‡
+
+
+
+
+R
+T
+
+
+
+
+
+
+
+{\displaystyle \ k={\frac {k_{\mathrm {B} }T}{h}}\mathrm {e} ^{-{\frac {\Delta G^{\ddagger }}{RT}}}}
+
+
+where ΔG‡ is the Gibbs energy of activation, kB is Boltzmann's constant, and h is Planck's constant.
+It can be rewritten as:
+
+
+
+
+k
+=
+
+
+
+
+k
+
+
+B
+
+
+
+T
+
+h
+
+
+
+
+e
+
+
+
+
+Δ
+
+S
+
+‡
+
+
+
+R
+
+
+
+
+
+e
+
+
+−
+
+
+
+Δ
+
+H
+
+‡
+
+
+
+
+R
+T
+
+
+
+
+
+
+
+{\displaystyle k={\frac {k_{\mathrm {B} }T}{h}}\mathrm {e} ^{\frac {\Delta S^{\ddagger }}{R}}\mathrm {e} ^{-{\frac {\Delta H^{\ddagger }}{RT}}}}
+
+
+To find the linear form of the Eyring-Polanyi equation:
+
+
+
+
+ln
+⁡
+
+
+k
+T
+
+
+=
+
+
+
+−
+Δ
+
+H
+
+‡
+
+
+
+R
+
+
+⋅
+
+
+1
+T
+
+
++
+ln
+⁡
+
+
+
+k
+
+
+B
+
+
+
+h
+
+
++
+
+
+
+Δ
+
+S
+
+‡
+
+
+
+R
+
+
+
+
+{\displaystyle \ln {\frac {k}{T}}={\frac {-\Delta H^{\ddagger }}{R}}\cdot {\frac {1}{T}}+\ln {\frac {k_{\mathrm {B} }}{h}}+{\frac {\Delta S^{\ddagger }}{R}}}
+
+
+where:
+
+
+
+
+
+ 
+k
+
+
+{\displaystyle \ k}
+
+ = reaction rate constant
+
+
+
+
+ 
+T
+
+
+{\displaystyle \ T}
+
+ = absolute temperature
+
+
+
+
+ 
+Δ
+
+H
+
+‡
+
+
+
+
+{\displaystyle \ \Delta H^{\ddagger }}
+
+ = enthalpy of activation
+
+
+
+
+ 
+R
+
+
+{\displaystyle \ R}
+
+ = gas constant
+
+
+
+
+ 
+
+k
+
+
+B
+
+
+
+
+
+{\displaystyle \ k_{\mathrm {B} }}
+
+ = Boltzmann constant
+
+
+
+
+ 
+h
+
+
+{\displaystyle \ h}
+
+ = Planck's constant
+
+
+
+
+ 
+Δ
+
+S
+
+‡
+
+
+
+
+{\displaystyle \ \Delta S^{\ddagger }}
+
+ = entropy of activation
+
+A certain chemical reaction is performed at different temperatures and the reaction rate is determined. The plot of 
+
+
+
+ 
+ln
+⁡
+(
+k
+
+/
+
+T
+)
+
+
+{\displaystyle \ \ln(k/T)}
+
+ versus 
+
+
+
+ 
+1
+
+/
+
+T
+
+
+{\displaystyle \ 1/T}
+
+ gives a straight line with slope 
+
+
+
+ 
+−
+Δ
+
+H
+
+‡
+
+
+
+/
+
+R
+
+
+{\displaystyle \ -\Delta H^{\ddagger }/R}
+
+ from which the enthalpy of activation can be derived and with intercept 
+
+
+
+ 
+ln
+⁡
+(
+
+k
+
+
+B
+
+
+
+
+/
+
+h
+)
++
+Δ
+
+S
+
+‡
+
+
+
+/
+
+R
+
+
+{\displaystyle \ \ln(k_{\mathrm {B} }/h)+\Delta S^{\ddagger }/R}
+
+ from which the entropy of activation is derived.
+Accuracy[edit]
+Transition state theory requires a value of a certain transmission coefficient, called 
+
+
+
+ 
+κ
+
+
+{\displaystyle \ \kappa }
+
+ in that theory, as an additional prefactor in the Eyring equation above. This value is usually taken to be unity (i.e., the transition state 
+
+
+
+ 
+A
+
+B
+
+‡
+
+
+
+
+{\displaystyle \ AB^{\ddagger }}
+
+ always proceeds to products 
+
+
+
+ 
+A
+B
+
+
+{\displaystyle \ AB}
+
+ and never reverts to reactants 
+
+
+
+ 
+A
+
+
+{\displaystyle \ A}
+
+ and 
+
+
+
+ 
+B
+
+
+{\displaystyle \ B}
+
+), and we have followed this convention above. Alternatively, to avoid specifying a value of 
+
+
+
+ 
+κ
+
+
+{\displaystyle \ \kappa }
+
+, the ratios of rate constants can be compared to the value of a rate constant at some fixed reference temperature (i.e., 
+
+
+
+ 
+k
+(
+T
+)
+
+/
+
+k
+(
+
+T
+
+R
+e
+f
+
+
+)
+
+
+{\displaystyle \ k(T)/k(T_{Ref})}
+
+) which eliminates the 
+
+
+
+ 
+κ
+
+
+{\displaystyle \ \kappa }
+
+ term in the resulting expression.
+Notes[edit]
+
+
+^ Chapman & Enskog 1939
+
+
+References[edit]
+
+Evans, M.G.; Polanyi M. (1935). "Some applications of the transition state method to the calculation of reaction velocities, especially in solution". Trans. Faraday Soc. 31: 875–894. doi:10.1039/tf9353100875. 
+
+
+Eyring, H. (1935). "The Activated Complex in Chemical Reactions". J. Chem. Phys. 3 (2): 107–115. Bibcode:1935JChPh...3..107E. doi:10.1063/1.1749604. 
+
+
+Eyring, H.; Polanyi M. (1931). "Über Einfache Gasreaktionen". Z. Phys. Chem. B. 12: 279–311. 
+
+
+Laidler, K.J.; King M.C. (1983). "The development of Transition-State Theory". J. Phys. Chem. 87 (15): 2657–2664. doi:10.1021/j100238a002. 
+
+
+Polanyi, J.C. (1987). "Some concepts in reaction dynamics". Science. 236 (4802): 680–690. Bibcode:1987Sci...236..680P. doi:10.1126/science.236.4802.680. 
+
+
+Chapman, S. and Cowling, T.G. (1991). "The Mathematical Theory of Non-uniform Gases: An Account of the Kinetic Theory of Viscosity, Thermal Conduction and Diffusion in Gases" (3rd Edition). Cambridge University Press, ISBN 9780521408448
+
+External links[edit]
+
+Eyring equation at the University of Regensburg (archived from the original)
+Online-tool to calculate the reaction rate from an energy barrier (in kJ/mol) using the Eyring equation
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Eyring_equation&oldid=808384528"					
+Categories: Chemical kineticsEquationsPhysical chemistryHidden categories: Wikipedia references cleanup from March 2012All articles needing references cleanupArticles covered by WikiProject Wikify from March 2012All articles covered by WikiProject Wikify 

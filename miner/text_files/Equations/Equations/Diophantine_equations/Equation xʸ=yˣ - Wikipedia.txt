@@ -1,0 +1,605 @@
+Equation xʸ=yˣ - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Graph of xy = yx.
+
+
+In general, exponentiation fails to be commutative. However, the equation 
+
+
+
+
+x
+
+y
+
+
+=
+
+y
+
+x
+
+
+
+
+{\displaystyle x^{y}=y^{x}}
+
+ holds in special cases, such as 
+
+
+
+x
+=
+2
+,
+y
+=
+4.
+
+
+{\displaystyle x=2,y=4.}
+
+[1]
+
+
+
+Contents
+
+
+1 History
+2 Positive real solutions
+3 References
+4 External links
+
+
+
+History[edit]
+The equation 
+
+
+
+
+x
+
+y
+
+
+=
+
+y
+
+x
+
+
+
+
+{\displaystyle x^{y}=y^{x}}
+
+ is mentioned in a letter of Bernoulli to Goldbach (29 June 1728[2]). The letter contains a statement that when 
+
+
+
+x
+≠
+y
+,
+
+
+{\displaystyle x\neq y,}
+
+ the only solutions in natural numbers are 
+
+
+
+(
+2
+,
+4
+)
+
+
+{\displaystyle (2,4)}
+
+ and 
+
+
+
+(
+4
+,
+2
+)
+,
+
+
+{\displaystyle (4,2),}
+
+ although there are infinitely many solutions in rational numbers.[3][4] The reply by Goldbach (31 January 1729[2]) contains general solution of the equation obtained by substituting 
+
+
+
+y
+=
+v
+x
+.
+
+
+{\displaystyle y=vx.}
+
+[3] A similar solution was found by Euler.[4]
+J. van Hengel pointed out that if 
+
+
+
+r
+,
+n
+
+
+{\displaystyle r,n}
+
+ are positive integers, 
+
+
+
+r
+≥
+3
+
+
+{\displaystyle r\geq 3}
+
+ or 
+
+
+
+n
+≥
+3
+
+
+{\displaystyle n\geq 3}
+
+ then 
+
+
+
+
+r
+
+r
++
+n
+
+
+>
+(
+r
++
+n
+
+)
+
+r
+
+
+;
+
+
+{\displaystyle r^{r+n}>(r+n)^{r};}
+
+ therefore it is enough to consider possibilities 
+
+
+
+x
+=
+1
+
+
+{\displaystyle x=1}
+
+ and 
+
+
+
+x
+=
+2
+
+
+{\displaystyle x=2}
+
+ in order to find solutions in natural numbers.[4][5]
+The problem was discussed in a number of publications.[2][3][4] In 1960, the equation was among questions on William Lowell Putnam Competition[6][7] which prompted A. Hausner to extend results to algebraic number fields.[3][8]
+Positive real solutions[edit]
+
+Main source:[1]
+
+An infinite set of trivial solutions in positive real numbers is given by 
+
+
+
+x
+=
+y
+.
+
+
+{\displaystyle x=y.}
+
+
+Nontrivial solutions can be found by assuming 
+
+
+
+x
+≠
+y
+
+
+{\displaystyle x\neq y}
+
+ and letting 
+
+
+
+y
+=
+v
+x
+.
+
+
+{\displaystyle y=vx.}
+
+ Then
+
+
+
+
+
+(
+v
+x
+
+)
+
+x
+
+
+=
+
+x
+
+v
+x
+
+
+=
+(
+
+x
+
+v
+
+
+
+)
+
+x
+
+
+.
+
+
+{\displaystyle (vx)^{x}=x^{vx}=(x^{v})^{x}.}
+
+
+
+Raising both sides to the power 
+
+
+
+
+
+
+1
+x
+
+
+
+
+
+{\displaystyle {\tfrac {1}{x}}}
+
+ and dividing by 
+
+
+
+x
+,
+
+
+{\displaystyle x,}
+
+
+
+
+
+
+
+v
+=
+
+x
+
+v
+−
+1
+
+
+.
+
+
+{\displaystyle v=x^{v-1}.}
+
+
+
+Then nontrivial solutions in positive real numbers are expressed as
+
+
+
+
+
+x
+=
+
+v
+
+
+1
+
+v
+−
+1
+
+
+
+
+,
+
+
+{\displaystyle x=v^{\frac {1}{v-1}},}
+
+
+
+
+
+
+y
+=
+
+v
+
+
+v
+
+v
+−
+1
+
+
+
+
+.
+
+
+{\displaystyle y=v^{\frac {v}{v-1}}.}
+
+
+
+Setting 
+
+
+
+v
+=
+2
+
+
+{\displaystyle v=2}
+
+ or 
+
+
+
+v
+=
+
+
+
+1
+2
+
+
+
+
+
+{\displaystyle v={\tfrac {1}{2}}}
+
+ generates the nontrivial solution in positive integers, 
+
+
+
+
+4
+
+2
+
+
+=
+
+2
+
+4
+
+
+.
+
+
+{\displaystyle 4^{2}=2^{4}.}
+
+
+The trivial and non-trivial solutions intersect when 
+
+
+
+v
+=
+1
+
+
+{\displaystyle v=1}
+
+. The equations above cannot be evaluated directly, but we can take the limit as 
+
+
+
+v
+→
+1
+
+
+{\displaystyle v\to 1}
+
+. This is most conveniently done by substituting 
+
+
+
+v
+=
+1
++
+1
+
+/
+
+n
+
+
+{\displaystyle v=1+1/n}
+
+ and letting 
+
+
+
+n
+→
+∞
+
+
+{\displaystyle n\to \infty }
+
+, so
+
+
+
+
+
+x
+=
+
+lim
+
+v
+→
+1
+
+
+
+v
+
+
+1
+
+v
+−
+1
+
+
+
+
+=
+
+lim
+
+n
+→
+∞
+
+
+(
+1
++
+
+
+1
+n
+
+
+
+)
+
+n
+
+
+=
+e
+.
+
+
+{\displaystyle x=\lim _{v\to 1}v^{\frac {1}{v-1}}=\lim _{n\to \infty }(1+{\frac {1}{n}})^{n}=e.}
+
+
+
+Thus, the line and curve intersect at x = y = e.
+References[edit]
+
+
+
+^ a b Lajos Lóczi. "On commutative and associative powers". KöMaL. Archived from the original on 2002-10-15.  Translation of: "Mikor kommutatív, illetve asszociatív a hatványozás?" (in Hungarian). Archived from the original on 2016-05-06. 
+^ a b c David Singmaster. "Sources in recreational mathematics: an annotated bibliography. 8th preliminary edition". Archived from the original on April 16, 2004. CS1 maint: Unfit url (link)
+^ a b c d Marta Sved (1990). "On the Rational Solutions of xy = yx" (PDF). Mathematics Magazine. Archived from the original (PDF) on 2016-03-04. 
+^ a b c d Leonard Eugene Dickson (1920), "Rational solutions of xy = yx", History of the Theory of Numbers, II, Washington, p. 687 
+^ Hengel, Johann van (1888). "Beweis des Satzes, dass unter allen reellen positiven ganzen Zahlen nur das Zahlenpaar 4 und 2 für a und b der Gleichung ab = ba genügt". 
+^ A. M. Gleason, R. E. Greenwood, L. M. Kelly (1980), "The twenty-first William Lowell Putnam mathematical competition (December 3, 1960), afternoon session, problem 1", The William Lowell Putnam mathematical competition problems and solutions: 1938-1964, MAA, p. 59, ISBN 0-88385-428-7 CS1 maint: Multiple names: authors list (link)
+^ "21st Putnam 1960. Problem B1". 20 Oct 1999. Archived from the original on 2008-03-30. CS1 maint: BOT: original-url status unknown (link)
+^ A. Hausner, Algebraic number fields and the Diophantine equation mn = nm, Amer. Math. Monthly 68 (1961), 856—861.
+
+
+
+External links[edit]
+
+"Rational Solutions to x^y = y^x". CTK Wiki Math. 
+"x^y = y^x - commuting powers". Arithmetical and Analytical Puzzles. Torsten Sillke. Archived from the original on 2015-12-28. 
+dborkovitz (2012-01-29). "Parametric Graph of x^y=y^x". GeoGebra. 
+"Sloane's A073084 : Decimal expansion of -x, where x is the negative solution to the equation 2^x = x^2". The On-Line Encyclopedia of Integer Sequences. OEIS Foundation. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Equation_xʸ%3Dyˣ&oldid=810436767"					
+Categories: Diophantine equationsRecreational mathematicsHidden categories: CS1 Hungarian-language sources (hu)CS1 maint: Unfit urlCS1 maint: Multiple names: authors listCS1 maint: BOT: original-url status unknown 

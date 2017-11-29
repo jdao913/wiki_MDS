@@ -1,0 +1,989 @@
+Exact solutions in general relativity - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article may be confusing or unclear to readers. Please help us clarify the article. There might be a discussion about this on the talk page. (March 2007) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article contains instructions, advice, or how-to content. The purpose of Wikipedia is to present facts, not to train. Please help improve this article either by rewriting the how-to content or by moving it to Wikiversity, Wikibooks or Wikivoyage. (March 2017)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+
+This article needs attention from an expert on the subject. Please add a reason or a talk parameter to this template to explain the issue with the article.
+When placing this tag, consider associating this request with a WikiProject. (March 2017)
+
+
+
+
+
+General relativity
+
+
+
+
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+
+
+
+
+
+
+
+
+
+
+Introduction
+History
+
+
+
+Mathematical formulation
+
+
+
+Tests
+
+
+
+
+
+
+
+
+
+Fundamental concepts
+
+
+Equivalence principle
+Special relativity
+World line
+Riemannian geometry
+
+
+
+
+
+
+
+
+Phenomena
+
+
+
+
+
+Kepler problem
+Time dilation
+Gravitational field
+Gravitational collapse
+Gravitational lensing
+Gravitational waves
+Gravitational redshift
+Gravitational time delay
+Gravitational time dilation
+Gravitational potential
+Gravitational compression
+Frame-dragging
+Geodetic effect
+Gravity well
+Event horizon
+Singularity
+Naked singularity
+Black hole
+White hole
+
+
+
+
+Spacetime
+
+
+
+
+Space
+Time
+Spacetime diagrams
+Minkowski spacetime
+Closed timelike curve (CTC)
+Wormhole
+
+Ellis wormhole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+Formalisms
+
+
+
+
+
+
+Equations
+
+
+
+
+Linearized gravity
+Einstein field equations
+Friedmann
+Geodesics
+Mathisson–Papapetrou–Dixon
+Hamilton–Jacobi–Einstein
+
+
+
+
+Formalisms
+
+
+
+
+ADM
+BSSN
+Post-Newtonian
+
+
+
+
+Advanced theory
+
+
+
+
+Kaluza–Klein theory
+Quantum gravity
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Lemaître–Tolman
+Taub-NUT
+Milne
+Robertson–Walker
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedman
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Raychaudhuri
+Taylor
+Hulse
+van Stockum
+Taub
+Newman
+Yau
+Thorne
+others
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In general relativity, an exact solution is a Lorentzian manifold[clarification needed] equipped with tensor fields modeling states of ordinary matter, such as a fluid, or classical nongravitational fields such as the electromagnetic field.
+
+
+
+Contents
+
+
+1 Background and definition
+2 Difficulties with the definition
+3 Types of exact solution
+
+3.1 Examples
+
+
+4 Constructing solutions
+5 Existence of solutions
+6 Global stability theorems
+7 The positive energy theorem
+8 See also
+9 References
+10 Further reading
+11 External links
+
+
+
+Background and definition[edit]
+These tensor fields should obey any relevant physical laws (for example, any electromagnetic field must satisfy Maxwell's equations). Following a standard recipe[which?] which is widely used in mathematical physics, these tensor fields should also give rise to specific contributions to the stress–energy tensor 
+
+
+
+
+T
+
+α
+β
+
+
+
+
+{\displaystyle T^{\alpha \beta }}
+
+.[1] (A field is described by a Lagrangian, varying with respect to the field should give the field equations and varying with respect to the metric should give the stress-energy contribution due to the field.)
+Finally, when all the contributions to the stress–energy tensor are added up, the result must be a solution of the Einstein field equations (written here in geometrized units, where speed of light c = Gravitational constant G = 1)
+
+
+
+
+
+
+G
+
+α
+β
+
+
+=
+8
+π
+
+
+T
+
+α
+β
+
+
+.
+
+
+{\displaystyle G^{\alpha \beta }=8\pi \,T^{\alpha \beta }.}
+
+
+
+In the above field equations, 
+
+
+
+
+G
+
+α
+β
+
+
+
+
+{\displaystyle G^{\alpha \beta }}
+
+ is the Einstein tensor, computed uniquely from the metric tensor which is part of the definition of a Lorentzian manifold. Since giving the Einstein tensor does not fully determine the Riemann tensor, but leaves the Weyl tensor unspecified (see the Ricci decomposition), the Einstein equation may be considered a kind of compatibility condition: the spacetime geometry must be consistent with the amount and motion of any matter or nongravitational fields, in the sense that the immediate presence "here and now" of nongravitational energy–momentum causes a proportional amount of Ricci curvature "here and now". Moreover, taking covariant derivatives of the field equations and applying the Bianchi identities, it is found that a suitably varying amount/motion of nongravitational energy–momentum can cause ripples in curvature to propagate as gravitational radiation, even across vacuum regions, which contain no matter or nongravitational fields.
+Difficulties with the definition[edit]
+Any Lorentzian manifold is a solution of the Einstein field equation for some right hand side. This is illustrated by the following procedure:
+
+take any Lorentzian manifold, compute its Einstein tensor 
+
+
+
+
+G
+
+α
+β
+
+
+
+
+{\displaystyle G^{\alpha \beta }}
+
+, which is a purely mathematical operation
+divide by 
+
+
+
+8
+π
+
+
+{\displaystyle 8\pi }
+
+
+declare the resulting symmetric second rank tensor field to be the stress–energy tensor 
+
+
+
+
+T
+
+α
+β
+
+
+
+
+{\displaystyle T^{\alpha \beta }}
+
+.
+
+This shows that there are two complementary ways to use general relativity:
+
+One can fix the form of the stress–energy tensor (from some physical reasons, say) and study the solutions of the Einstein equations with such right hand side (for example, if the stress–energy tensor is chosen to be that of the perfect fluid, a spherically symmetric solution can serve as a stellar model)
+Alternatively, one can fix some geometrical properties of a spacetime and look for a matter source that could provide these properties. This is what cosmologists have done since the 2000s: they assume that the Universe is homogeneous, isotropic, and accelerating and try to realize what matter (called dark energy) can support such a structure.
+
+Within the first approach the alleged stress–energy tensor must arise in the standard way from a "reasonable" matter distribution or nongravitational field. In practice, this notion is pretty clear, especially if you restrict the admissible nongravitational fields to the only one known in 1916, the electromagnetic field. But ideally we would like to have some mathematical characterization that states some purely mathematical test which we can apply to any putative "stress–energy tensor", which passes everything which might arise from a "reasonable" physical scenario, and rejects everything else. Unfortunately, no such characterization is known. Instead, we have crude tests known as the energy conditions, which are similar to placing restrictions on the eigenvalues and eigenvectors of a linear operator. But these conditions, it seems, can satisfy no-one. On the one hand, they are far too permissive: they would admit "solutions" which almost no-one believes are physically reasonable. On the other, they may be far too restrictive: the most popular energy conditions are apparently violated by the Casimir effect.
+Einstein also recognized another element of the definition of an exact solution: it should be a Lorentzian manifold (meeting additional criteria), i.e. a smooth manifold. But in working with general relativity, it turns out to be very useful to admit solutions which are not everywhere smooth; examples include many solutions created by matching a perfect fluid interior solution to a vacuum exterior solution, and impulsive plane waves. Once again, the creative tension between elegance and convenience, respectively, has proven difficult to resolve satisfactorily.
+In addition to such local objections, we have the far more challenging problem that there are very many exact solutions which are locally unobjectionable, but globally exhibit causally suspect features such as closed timelike curves or structures with points of separation ("trouser worlds"). Some of the best known exact solutions, in fact, have globally a strange character.
+Types of exact solution[edit]
+Many well-known exact solutions belong to one of several types, depending upon the intended physical interpretation of the stress–energy tensor:
+
+Vacuum solutions: 
+
+
+
+
+T
+
+α
+β
+
+
+=
+0
+
+
+{\displaystyle T^{\alpha \beta }=0}
+
+; these describe regions in which no matter or nongravitational fields are present,
+Electrovacuum solutions: 
+
+
+
+
+T
+
+α
+β
+
+
+
+
+{\displaystyle T^{\alpha \beta }}
+
+ must arise entirely from an electromagnetic field which solves the source-free Maxwell equations on the given curved Lorentzian manifold; this means that the only source for the gravitational field is the field energy (and momentum) of the electromagnetic field,
+Null dust solutions: 
+
+
+
+
+T
+
+α
+β
+
+
+
+
+{\displaystyle T^{\alpha \beta }}
+
+ must correspond to a stress–energy tensor which can be interpreted as arising from incoherent electromagnetic radiation, without necessarily solving the Maxwell field equations on the given Lorentzian manifold,
+Fluid solutions: 
+
+
+
+
+T
+
+α
+β
+
+
+
+
+{\displaystyle T^{\alpha \beta }}
+
+ must arise entirely from the stress–energy tensor of a fluid (often taken to be a perfect fluid); the only source for the gravitational field is the energy, momentum, and stress (pressure and shear stress) of the matter comprising the fluid.
+
+In addition to such well established phenomena as fluids or electromagnetic waves, one can contemplate models in which the gravitational field is produced entirely by the field energy of various exotic hypothetical fields:
+
+Scalar field solutions: 
+
+
+
+
+T
+
+α
+β
+
+
+
+
+{\displaystyle T^{\alpha \beta }}
+
+ must arise entirely from a scalar field (often a massless scalar field); these can arise in classical field theory treatments of meson beams, or as quintessence,
+Lambdavacuum solutions (not a standard term, but a standard concept for which no name yet exists): 
+
+
+
+
+T
+
+α
+β
+
+
+
+
+{\displaystyle T^{\alpha \beta }}
+
+ arises entirely from a nonzero cosmological constant.
+
+One possibility which has received little attention (perhaps because the mathematics is so challenging) is the problem of modeling an elastic solid. Presently, it seems that no exact solutions for this specific type are known.
+Below we have sketched a classification by physical interpretation. This is probably more useful for most readers than the Segre classification of the possible algebraic symmetries of the Ricci tensor, but for completeness we note the following facts:
+
+nonnull electrovacuums have Segre type 
+
+
+
+{
+
+(
+1
+,
+1
+)
+(
+11
+)
+}
+
+
+{\displaystyle \{\,(1,1)(11)\}}
+
+ and isotropy group SO(1,1) x SO(2),
+null electrovacuums and null dusts have Segre type 
+
+
+
+{
+
+(
+2
+,
+11
+)
+}
+
+
+{\displaystyle \{\,(2,11)\}}
+
+ and isotropy group E(2),
+perfect fluids have Segre type 
+
+
+
+{
+
+1
+,
+(
+111
+)
+}
+
+
+{\displaystyle \{\,1,(111)\}}
+
+ and isotropy group SO(3),
+Lambdavacuums have Segre type 
+
+
+
+{
+
+(
+1
+,
+111
+)
+}
+
+
+{\displaystyle \{\,(1,111)\}}
+
+ and isotropy group SO(1,3).
+
+The remaining Segre types have no particular physical interpretation and most of them cannot correspond to any known type of contribution to the stress–energy tensor.
+Examples[edit]
+Noteworthy examples of vacuum solutions, electrovacuum solutions, and so forth, are listed in specialized articles (see below). These solutions contain at most one contribution to the energy–momentum tensor, due to a specific kind of matter or field. However, there are some notable exact solutions which contain two or three contributions, including:
+
+NUT-Kerr–Newman–de Sitter solution contains contributions from an electromagnetic field and a positive vacuum energy, as well as a kind of vacuum perturbation of the Kerr vacuum which is specified by the so-called NUT parameter,
+Gödel dust contains contributions from a pressureless perfect fluid (dust) and from a positive vacuum energy.
+
+Some hypothetical possibilities which don't fit into our rough classification[clarification needed] are:
+
+certain wormhole metrics[which?],
+Alcubierre metric.
+"Time machines", i.e. initially nice spacetimes[clarification needed] in which at some stage of evolution closed causal curves appear[clarification needed].
+
+Some doubt has been cast[according to whom?] upon whether sufficient quantity of exotic matter needed for wormholes and Alcubierre bubbles can exist.[2] Later, however, these doubts were shown[3] to be mostly groundless. The third of these examples, in particular, is an instructive example of the procedure mentioned above for turning any Lorentzian manifold into a "solution". It is along this way that Hawking succeeded in proving[4] that time machines of a certain type (those with a "compactly generated Cauchy horizon") cannot appear without exotic matter. Such spacetimes are also a good illustration of the fact that unless a spacetime is especially nice ("globally hyperbolic") the Einstein equations do not determine its evolution uniquely. Any spacetime may evolve into a time machine, but it never has to do so.[5]
+Constructing solutions[edit]
+The Einstein field equations are a system of coupled, nonlinear partial differential equations. In general, this makes them hard to solve[why?]. Nonetheless, several effective techniques for obtaining exact solutions have been established.
+The simplest involves imposing symmetry conditions on the metric tensor, such as stationarity (symmetry under time translation) or axisymmetry (symmetry under rotation about some symmetry axis). With sufficiently clever assumptions of this sort, it is often possible to reduce the Einstein field equation to a much simpler system of equations, even a single partial differential equation (as happens in the case of stationary axisymmetric vacuum solutions, which are characterized by the Ernst equation) or a system of ordinary differential equations (as happens in the case of the Schwarzschild vacuum).
+This naive approach usually works best if one uses a frame field rather than a coordinate basis.
+A related idea involves imposing algebraic symmetry conditions on the Weyl tensor, Ricci tensor, or Riemann tensor. These are often stated in terms of the Petrov classification of the possible symmetries of the Weyl tensor, or the Segre classification of the possible symmetries of the Ricci tensor. As will be apparent from the discussion above, such Ansätze often do have some physical content, although this might not be apparent from their mathematical form.
+This second kind of symmetry approach has often been used with the Newman–Penrose formalism, which uses spinorial quantities for more efficient bookkeeping.
+Even after such symmetry reductions, the reduced system of equations is often difficult to solve. For example, the Ernst equation is a nonlinear partial differential equation somewhat resembling the nonlinear Schrödinger equation (NLS).
+But recall that the conformal group on Minkowski spacetime is the symmetry group of the Maxwell equations. Recall too that solutions of the heat equation can be found by assuming a scaling Ansatz. These notions are merely special cases of Sophus Lie's notion of the point symmetry of a differential equation (or system of equations), and as Lie showed, this can provide an avenue of attack upon any differential equation which has a nontrivial symmetry group. Indeed, both the Ernst equation and the NLS have nontrivial symmetry groups, and some solutions can be found by taking advantage of their symmetries. These symmetry groups are often infinite dimensional, but this is not always a useful feature.
+Emmy Noether showed that a slight but profound generalization of Lie's notion of symmetry can result in an even more powerful method of attack. This turns out to be closely related to the discovery that some equations, which are said to be completely integrable, enjoy an infinite sequence of conservation laws. Quite remarkably, both the Ernst equation (which arises several ways in the studies of exact solutions) and the NLS turn out to be completely integrable. They are therefore susceptible to solution by techniques resembling the inverse scattering transform which was originally developed to solve the Korteweg-de Vries (KdV) equation, a nonlinear partial differential equation which arises in the theory of solitons, and which is also completely integrable. Unfortunately, the solutions obtained by these methods are often not as nice as one would like. For example, in a manner analogous to the way that one obtains a multiple soliton solution of the KdV from the single soliton solution (which can be found from Lie's notion of point symmetry), one can obtain a multiple Kerr object solution, but unfortunately, this has some features which make it physically implausible.[6]
+There are also various transformations (see Belinski-Zakharov transform) which can transform (for example) a vacuum solution found by other means into a new vacuum solution, or into an electrovacuum solution, or a fluid solution. These are analogous to the Bäcklund transformations known from the theory of certain partial differential equations, including some famous examples of soliton equations. This is no coincidence, since this phenomenon is also related to the notions of Noether and Lie regarding symmetry. Unfortunately, even when applied to a "well understood", globally admissible solution, these transformations often yield a solution which is poorly understood and their general interpretation is still unknown.
+Existence of solutions[edit]
+Given the difficulty of constructing explicit small families of solutions, much less presenting something like a "general" solution to the Einstein field equation, or even a "general" solution to the vacuum field equation, a very reasonable approach is to try to find qualitative properties which hold for all solutions, or at least for all vacuum solutions. One of the most basic questions one can ask is: do solutions exist, and if so, how many?
+To get started, we should adopt a suitable initial value formulation of the field equation, which gives two new systems of equations, one giving a constraint on the initial data, and the other giving a procedure for evolving this initial data into a solution. Then, one can prove that solutions exist at least locally, using ideas not terribly dissimilar from those encountered in studying other differential equations.
+To get some idea of "how many" solutions we might optimistically expect, we can appeal to Einstein's constraint counting method. A typical conclusion from this style of argument is that a generic vacuum solution to the Einstein field equation can be specified by giving four arbitrary functions of three variables and six arbitrary functions of two variables. These functions specify initial data, from which a unique vacuum solution can be evolved. (In contrast, the Ernst vacuums, the family of all stationary axisymmetric vacuum solutions, are specified by giving just two functions of two variables, which are not even arbitrary, but must satisfy a system of two coupled nonlinear partial differential equations. This may give some idea of how just tiny a typical "large" family of exact solutions really is, in the grand scheme of things.)
+However, this crude analysis falls far short of the much more difficult question of global existence of solutions. The global existence results which are known so far turn out to involve another idea.
+Global stability theorems[edit]
+We can imagine "disturbing" the gravitational field outside some isolated massive object by "sending in some radiation from infinity". We can ask: what happens as the incoming radiation interacts with the ambient field? In the approach of classical perturbation theory, we can start with Minkowski vacuum (or another very simple solution, such as the de Sitter lambdavacuum), introduce very small metric perturbations, and retain only terms up to some order in a suitable perturbation expansion—somewhat like evaluating a kind of Taylor series for the geometry of our spacetime. This approach is essentially the idea behind the post-Newtonian approximations used in constructing models of a gravitating system such as a binary pulsar. However, perturbation expansions are generally not reliable for questions of long-term existence and stability, in the case of nonlinear equations.
+The full field equation is highly nonlinear, so we really want to prove that the Minkowski vacuum is stable under small perturbations which are treated using the fully nonlinear field equation. This requires the introduction of many new ideas. The desired result, sometimes expressed by the slogan that the Minkowski vacuum is nonlinearly stable, was finally proven by Demetrios Christodoulou and Sergiu Klainerman only in 1993. Analogous results are known for lambdavac perturbations of the de Sitter lambdavacuum (Helmut Friedrich) and for electrovacuum perturbations of the Minkowski vacuum (Nina Zipser).
+The positive energy theorem[edit]
+Main article: Positive energy theorem
+Another issue we might worry about is whether the net mass-energy of an isolated concentration of positive mass-energy density (and momentum) always yields a well-defined (and non-negative) net mass. This result, known as the positive energy theorem was finally proven by Richard Schoen and Shing-Tung Yau in 1979, who made an additional technical assumption about the nature of the stress–energy tensor. The original proof is very difficult; Edward Witten soon presented a much shorter "physicist's proof", which has been justified by mathematicians—using further very difficult arguments. Roger Penrose and others have also offered alternative arguments for variants of the original positive energy theorem.
+See also[edit]
+
+Friedmann–Lemaître–Robertson–Walker metric
+Petrov classification, for algebraic symmetries of the Weyl tensor
+
+References[edit]
+
+
+
+^ Stephani, H.; Kramer, D.; MacCallum, M.; Hoenselaers, C.; Herlt, E. (2003). Exact Solutions of Einstein's Field Equations (2nd edn.). Cambridge: Cambridge University Press. ISBN 0-521-46136-7. 
+^ L. H. Ford and T. A. Roman (1996) "Quantum field theory constrains traversable wormhole geometries" Phys. Rev. D 53 5496, See also the Ford; Roman (1995). "Quantum Field Theory Constrains Traversable Wormhole Geometries". Physical Review D. 53 (10): 5496–5507. arXiv:gr-qc/9510071 . Bibcode:1996PhRvD..53.5496F. doi:10.1103/PhysRevD.53.5496. 
+^ S. Krasnikov (2003) "The quantum inequalities do not forbid spacetime shortcuts" Phys. Rev. D 67 104013, See also the Krasnikov (2005). "Evaporation induced traversability of the Einstein--Rosen wormhole". Physical Review D. 73 (8). arXiv:gr-qc/0507079 . Bibcode:2006PhRvD..73h4006K. doi:10.1103/PhysRevD.73.084006. 
+^ S. W. Hawking (1992) "Chronology protection conjecture" Phys. Rev. D 46 603 doi:10.1103/PhysRevD.46.603
+^ S. Krasnikov (2002) "No time machines in classical general relativity" Class. and Quantum Grav. 19 4109, arXiv:gr-qc/0111054
+^ Belinski, V.; Verdaguer, E. (2001). Gravitational solitons. Cambridge: Cambridge University Press. ISBN 0-521-80586-4.  A monograph on the use of soliton methods to produce stationary axisymmetric vacuum solutions, colliding gravitational plane waves, and so forth.
+
+
+
+Further reading[edit]
+
+Krasiński, A. (1997). Inhomogeneous Cosmological Models. Cambridge: Cambridge University Press. ISBN 0-521-48180-5. 
+MacCallum, M. A. H. (2006). "AIP Conference Proceedings". AIP Conf. Proc. 841: 129–143. arXiv:gr-qc/0601102 . Bibcode:2006AIPC..841..129M. doi:10.1063/1.2218172.  |chapter= ignored (help) An up-to-date review article, but too brief, compared to the review articles by Bičák or Bonnor et al. (see below).
+Exact Solutions of Einstein's equations Malcolm A.H. MacCallum Scholarpedia, 8(12):8584. doi:10.4249/scholarpedia.8584
+Rendall, Alan M. "Local and Global Existence Theorems for the Einstein Equations". Living Reviews in Relativity. Retrieved August 11, 2005.  A thorough and up-to-date review article.
+Friedrich, Helmut (2005). "Is general relativity 'essentially understood' ?". Annalen der Physik. 15: 84–108. arXiv:gr-qc/0508016 . Bibcode:2006AnP...518...84F. doi:10.1002/andp.200510173.  An excellent and more concise review.
+Bičák, Jiří (2000). "Selected exact solutions of Einstein's field equations: their role in general relativity and astrophysics". Lect. Notes Phys. Lecture Notes in Physics. 540: 1–126. arXiv:gr-qc/0004031 . doi:10.1007/3-540-46580-4_1. ISBN 978-3-540-67073-5.  An excellent modern survey.
+Bonnor, W. B.; Griffiths, J. B.; MacCallum, M. A. H. (1994). "Physical interpretation of vacuum solutions of Einstein's equations. Part II. Time-dependent solutions". Gen. Rel. Grav. 26 (7): 637–729. Bibcode:1994GReGr..26..687B. doi:10.1007/BF02116958. 
+Bonnor, W. B. (1992). "Physical interpretation of vacuum solutions of Einstein's equations. Part I. Time-independent solutions". Gen. Rel. Grav. 24 (5): 551–573. Bibcode:1992GReGr..24..551B. doi:10.1007/BF00760137.  A wise review, first of two parts.
+Griffiths, J. B. (1991). Colliding Plane Waves in General Relativity. Oxford: Clarendon Press. ISBN 0-19-853209-1.  The definitive resource on colliding plane waves, but also useful to anyone interested in other exact solutions. available online by the author
+Hoenselaers, C.; Dietz, W. (1985). Solutions of Einstein's Equations: Techniques and Results. New York: Springer. ISBN 3-540-13366-6. 
+Ehlers, Jürgen; Kundt, Wolfgang (1962). "Exact solutions of the gravitational field equations". In Witten, L. Gravitation: An Introduction to Current Research. New York: Wiley. pp. 49–101.  A classic survey, including important original work such as the symmetry classification of vacuum pp-wave spacetimes.
+Stephani, Hans; Dietrich Kramer; Malcolm MacCallum; Cornelius Hoenselaers; Eduard Herlt (2009). Exact Solutions of Einstein's Field Equations (2nd ed.). Cambridge: Cambridge University Press. ISBN 978-0-521-46702-5. 
+
+External links[edit]
+
+
+
+
+
+
+v
+t
+e
+
+
+Relativity
+
+
+
+Special
+relativity
+
+
+
+
+Background
+
+
+
+Principle of relativity
+Special relativity
+
+
+
+
+
+Foundations
+
+
+
+Frame of reference
+Speed of light
+Hyperbolic orthogonality
+Rapidity
+Maxwell's equations
+
+
+
+
+
+Formulation
+
+
+
+Galilean relativity
+Galilean transformation
+Lorentz transformation
+
+
+
+
+
+Consequences
+
+
+
+Time dilation
+Relativistic mass
+Mass–energy equivalence
+Length contraction
+Relativity of simultaneity
+Relativistic Doppler effect
+Thomas precession
+Relativistic disks
+
+
+
+
+
+Spacetime
+
+
+
+Light cone
+World line
+Spacetime diagram
+Biquaternions
+Minkowski space
+
+
+
+
+
+
+
+
+
+
+
+General
+relativity
+
+
+
+
+Background
+
+
+
+Introduction
+Mathematical formulation
+
+
+
+
+
+Fundamental
+concepts
+
+
+
+Special relativity
+Equivalence principle
+World line
+Riemannian geometry
+Minkowski diagram
+Penrose diagram
+
+
+
+
+
+Phenomena
+
+
+
+Black hole
+Event horizon
+Frame-dragging
+Geodetic effect
+Lenses
+Singularity
+Waves
+Ladder paradox
+Twin paradox
+Two-body problem
+BKL singularity
+
+
+
+
+
+Equations
+
+
+
+ADM formalism
+BSSN formalism
+Einstein field equations
+Geodesic equation
+Friedmann equations
+Linearized gravity
+Post-Newtonian formalism
+Raychaudhuri equation
+Hamilton–Jacobi–Einstein equation
+Ernst equation
+Tolman-Oppenheimer-Volkoff equation
+
+
+
+
+
+Advanced
+theories
+
+
+
+Brans–Dicke theory
+Kaluza–Klein
+Mach's principle
+Quantum gravity
+
+
+
+
+
+Solutions
+
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Friedmann–Lemaître–Robertson–Walker
+Taub–NUT
+Milne
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedmann
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Taylor
+Hulse
+Stockum
+Taub
+Newman
+Yau
+Thorne
+Weiss
+Bondi
+Misner
+others
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Exact_solutions_in_general_relativity&oldid=808588838"					
+Categories: Exact solutions in general relativityHidden categories: Wikipedia articles needing clarification from March 2007All Wikipedia articles needing clarificationArticles needing cleanup from March 2017All pages needing cleanupArticles containing how-to sectionsArticles needing expert attention with no reason or talk parameterArticles needing unspecified expert attentionArticles needing expert attention from March 2017All articles needing expert attentionWikipedia articles needing clarification from March 2017All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from March 2017CS1 errors: chapter ignored 

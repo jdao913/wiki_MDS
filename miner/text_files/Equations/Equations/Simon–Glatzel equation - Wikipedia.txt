@@ -1,0 +1,144 @@
+Simon–Glatzel equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (December 2009)
+
+
+
+The Simon–Glatzel equation[1] is an empirical correlation describing the pressure dependence of the melting temperature of a solid. The pressure dependence of the melting temperature is small for small pressure changes because the volume change during fusion or melting is rather small. However, at very high pressures higher melting temperatures are generally observed as the liquid usually occupies a larger volume than the solid making melting more thermodynamically unfavorable at elevated pressure. If the liquid has a smaller volume than the solid (as for ice and liquid water) a higher pressure leads to a lower melting point.
+The equation[edit]
+
+
+
+
+
+T
+
+M
+
+
+=
+
+T
+
+R
+e
+f
+
+
+
+
+(
+
+
+
+
+P
+
+M
+
+
+−
+
+P
+
+R
+e
+f
+
+
+
+a
+
+
++
+1
+)
+
+
+
+1
+c
+
+
+
+
+
+{\displaystyle T_{M}=T_{Ref}\left({\frac {P_{M}-P_{Ref}}{a}}+1\right)^{\frac {1}{c}}}
+
+
+TRef and PRef are normally the temperature and the pressure of the triple point, but the normal melting temperature at atmospheric pressure are also commonly used as reference point because the normal melting point is much easier accessible. Typically PRef is then set to 0. a and c are adjustable and component specific parameters.
+Example parameters[edit]
+
+
+
+
+Methanol melting temperature versus pressure
+
+
+For Methanol the following parameters[2] can be obtained:
+
+
+a
+188158
+kPa
+
+
+a
+188.158
+MPa
+
+
+c
+5.15905
+
+
+Tmin
+174.61
+K
+
+
+Tmax
+228.45
+K
+
+
+Pmax
+575000
+kPa
+
+
+Pmax
+575.000
+MPa
+
+
+The reference temperature has been TRef = TM = 174.61 K and the reference pressure PRef has been set to 0 kPa.
+Methanol is a component where the Simon-Glatzel works well in the given validity range. The Simon–Glatzel equation cannot be used if the melting curve is falling or has maximums.[3]
+References[edit]
+
+
+
+^ Simon F. E., Glatzel G., Z. Anorg. (Allg.) Chem., 1929, 178, 309-312
+^ Dortmund Data Bank
+^ Kechin V.V., J. Phys. Condens. Matter, 1995, 7, 531-535
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Simon–Glatzel_equation&oldid=761520899"					
+Categories: Phase transitionsEquationsHidden categories: Orphaned articles from December 2009All orphaned articles 

@@ -1,0 +1,466 @@
+Exner equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Exner equation is a statement of conservation of mass that applies to sediment in a fluvial system such as a river.[1] It was developed by the Austrian meteorologist and sedimentologist Felix Maria Exner, from whom it derives its name.[2]
+
+
+
+Contents
+
+
+1 The equation
+
+1.1 Basic equation
+1.2 Including external changes in elevation
+
+
+2 References
+
+
+
+The equation[edit]
+The Exner equation describes conservation of mass between sediment in the bed of a channel and sediment that is being transported. It states that bed elevation increases (the bed aggrades) proportionally to the amount of sediment that drops out of transport, and conversely decreases (the bed degrades) proportionally to the amount of sediment that becomes entrained by the flow.
+Basic equation[edit]
+The equation states that the change in bed elevation, 
+
+
+
+η
+
+
+{\displaystyle \eta }
+
+, over time, 
+
+
+
+t
+
+
+{\displaystyle t}
+
+, is equal to one over the grain packing density, 
+
+
+
+
+ε
+
+o
+
+
+
+
+{\displaystyle \varepsilon _{o}}
+
+, times the negative divergence of sediment flux, 
+
+
+
+
+q
+
+s
+
+
+
+
+{\displaystyle q_{s}}
+
+.
+
+
+
+
+
+
+
+
+∂
+η
+
+
+∂
+t
+
+
+
+=
+−
+
+
+1
+
+ε
+
+o
+
+
+
+
+∇
+⋅
+
+
+q
+
+s
+
+
+
+
+
+{\displaystyle {\frac {\partial \eta }{\partial t}}=-{\frac {1}{\varepsilon _{o}}}\nabla \cdot \mathbf {q_{s}} }
+
+
+
+Note that 
+
+
+
+
+ε
+
+o
+
+
+
+
+{\displaystyle \varepsilon _{o}}
+
+ can also be expressed as 
+
+
+
+(
+1
+−
+
+λ
+
+p
+
+
+)
+
+
+{\displaystyle (1-\lambda _{p})}
+
+, where 
+
+
+
+
+λ
+
+p
+
+
+
+
+{\displaystyle \lambda _{p}}
+
+ equals the bed porosity.
+Good values of 
+
+
+
+
+ε
+
+o
+
+
+
+
+{\displaystyle \varepsilon _{o}}
+
+ for natural systems range from 0.45 to 0.75.[3] A typical good value for spherical grains is 0.64, as given by random close packing. An upper bound for close-packed spherical grains is 0.74048. (See sphere packing for more details); this degree of packing is extremely improbable in natural systems, making random close packing the more realistic upper bound on grain packing density.
+Often, for reasons of computational convenience and/or lack of data, the Exner equation is used in its one-dimensional form. This is generally done with respect to the down-stream direction 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, as one is typically interested in the down-stream distribution of erosion and deposition though a river reach.
+
+
+
+
+
+
+
+
+∂
+η
+
+
+∂
+t
+
+
+
+=
+−
+
+
+1
+
+ε
+
+o
+
+
+
+
+
+
+
+∂
+
+
+q
+
+s
+
+
+
+
+
+∂
+x
+
+
+
+
+
+{\displaystyle {\frac {\partial \eta }{\partial t}}=-{\frac {1}{\varepsilon _{o}}}{\frac {\partial \mathbf {q_{s}} }{\partial x}}}
+
+
+
+Including external changes in elevation[edit]
+An additional form of the Exner equation adds a subsidence term, 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+, to the mass-balance. This allows the absolute elevation of the bed 
+
+
+
+η
+
+
+{\displaystyle \eta }
+
+ to be tracked over time in a situation in which it is being changed by outside influences, such as tectonic or compression-related subsidence (isostatic compression or rebound). In the convention of the following equation, 
+
+
+
+σ
+
+
+{\displaystyle \sigma }
+
+ is positive with an increase in elevation over time and is negative with a decrease in elevation over time.
+
+
+
+
+
+
+
+
+∂
+η
+
+
+∂
+t
+
+
+
+=
+−
+
+
+1
+
+ε
+
+o
+
+
+
+
+∇
+⋅
+
+
+q
+
+s
+
+
+
++
+σ
+
+
+{\displaystyle {\frac {\partial \eta }{\partial t}}=-{\frac {1}{\varepsilon _{o}}}\nabla \cdot \mathbf {q_{s}} +\sigma }
+
+
+
+References[edit]
+
+
+^ Paola, C.; Voller, V. R. (2005). "A generalized Exner equation for sediment mass balance". Journal of Geophysical Research. 110: F04014. Bibcode:2005JGRF..11004014P. doi:10.1029/2004JF000274. 
+^ Parker, G. (2006), 1D Sediment Transport Morphodynamics with applications to Rivers and Turbidity Currents, Chapter 1, http://vtchl.uiuc.edu/people/parkerg/_private/e-bookPowerPoint/RTe-bookCh1IntroMorphodynamics.ppt.
+^ Parker, G. (2006), 1D Sediment Transport Morphodynamics with applications to Rivers and Turbidity Currents, Chapter 4, http://vtchl.uiuc.edu/people/parkerg/_private/e-bookPowerPoint/RTe-bookCh4ConservationBedSed.ppt.
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+River morphology
+
+
+
+Large-scale features
+
+
+
+Drainage basin
+Drainage system (geomorphology)
+Estuary
+Strahler number (stream order)
+River valley
+River delta
+River sinuosity
+
+
+
+
+
+Alluvial rivers
+
+
+
+Anabranch
+Avulsion (river)
+Bar (river morphology)
+Braided river
+Channel pattern
+Cut bank
+Floodplain
+Meander
+Meander cutoff
+Mouth bar
+Oxbow lake
+Point bar
+Riffle
+Rapids
+Riparian zone
+River bifurcation
+River channel migration
+River mouth
+Slip-off slope
+Stream pool
+Thalweg
+
+
+
+
+
+Bedrock river
+
+
+
+Canyon
+Knickpoint
+Plunge pool
+
+
+
+
+
+Bedforms
+
+
+
+Ait
+Antidune
+Dune
+Current ripple
+
+
+
+
+
+Regional processes
+
+
+
+Aggradation
+Base level
+Degradation (geology)
+Erosion and tectonics
+River rejuvenation
+
+
+
+
+
+Mechanics
+
+
+
+Deposition (geology)
+Water erosion
+Exner equation
+Hack's law
+Helicoidal flow
+Playfair's law
+Sediment transport
+
+
+
+
+
+
+
+
+Category
+Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Exner_equation&oldid=788330230"					
+Categories: GeomorphologySedimentologyPartial differential equationsConservation equations 

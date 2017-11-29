@@ -1,0 +1,9399 @@
+Loewy decomposition - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs more links to other articles to help integrate it into the encyclopedia. Please help improve this article by adding links that are relevant to the context within the existing text. (December 2013) (Learn how and when to remove this template message)
+
+
+
+In the study of differential equations, the Loewy decomposition breaks every linear ordinary differential equation (ODE) into what are called largest completely reducible components. It was introduced by Alfred Loewy.[1]
+Solving differential equations is one of the most important subfields in mathematics. Of particular interest are solutions in closed form. Breaking ODEs into largest irreducible components, reduces the process of solving the original equation to solving irreducible equations of lowest possible order. This procedure is algorithmic, so that the best possible answer for solving a reducible equation is guaranteed. A detailed discussion may be found in.[2]
+Loewy's results have been extended to linear partial differential equations (PDEs) in two independent variables. In this way, algorithmic methods for solving large classes of linear pde's have become available.
+
+
+
+Contents
+
+
+1 Decomposing linear ordinary differential equations
+2 Basic facts from differential algebra
+3 Decomposing second-order linear partial differential equations in the plane
+4 Decomposing linear pde's of order higher than 2
+5 References
+
+
+
+Decomposing linear ordinary differential equations[edit]
+Let 
+
+
+
+D
+≡
+
+
+d
+
+d
+x
+
+
+
+
+
+{\displaystyle D\equiv {\frac {d}{dx}}}
+
+ denote the derivative w.r.t. the variable 
+
+
+
+x
+
+
+{\displaystyle x}
+
+. A differential operator of order 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is a polynomial of the form
+
+
+
+
+
+L
+≡
+
+D
+
+n
+
+
++
+
+a
+
+1
+
+
+
+D
+
+n
+−
+1
+
+
++
+⋯
++
+
+a
+
+n
+−
+1
+
+
+D
++
+
+a
+
+n
+
+
+
+
+{\displaystyle L\equiv D^{n}+a_{1}D^{n-1}+\cdots +a_{n-1}D+a_{n}}
+
+
+
+where the coefficients 
+
+
+
+
+a
+
+i
+
+
+
+
+{\displaystyle a_{i}}
+
+, 
+
+
+
+i
+=
+1
+,
+…
+,
+n
+
+
+{\displaystyle i=1,\ldots ,n}
+
+ are from some function field, the base field of 
+
+
+
+L
+
+
+{\displaystyle L}
+
+. Usually it is the field of rational functions in the variable 
+
+
+
+x
+
+
+{\displaystyle x}
+
+, i.e. 
+
+
+
+
+a
+
+i
+
+
+∈
+
+
+Q
+
+
+(
+x
+)
+
+
+{\displaystyle a_{i}\in {\mathbb {Q} }(x)}
+
+. If 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ is an indeterminate with 
+
+
+
+
+
+
+d
+y
+
+
+d
+x
+
+
+
+≠
+0
+
+
+{\displaystyle {\frac {dy}{dx}}\neq 0}
+
+, 
+
+
+
+L
+y
+
+
+{\displaystyle Ly}
+
+ becomes a differential polynomial, and 
+
+
+
+L
+y
+=
+0
+
+
+{\displaystyle Ly=0}
+
+ is the differential equation corresponding to 
+
+
+
+L
+
+
+{\displaystyle L}
+
+.
+An operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ of order 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is called reducible if it may be represented as the product of two operators 
+
+
+
+
+L
+
+1
+
+
+
+
+{\displaystyle L_{1}}
+
+ and 
+
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L_{2}}
+
+, both of order lower than 
+
+
+
+n
+
+
+{\displaystyle n}
+
+. Then one writes 
+
+
+
+L
+=
+
+L
+
+1
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L=L_{1}L_{2}}
+
+, i.e. juxtaposition means the operator product, it is defined by the rule 
+
+
+
+D
+
+a
+
+i
+
+
+=
+
+a
+
+i
+
+
+D
++
+
+a
+
+i
+
+′
+
+
+
+{\displaystyle Da_{i}=a_{i}D+a_{i}'}
+
+; 
+
+
+
+
+L
+
+1
+
+
+
+
+{\displaystyle L_{1}}
+
+ is called a left factor of 
+
+
+
+L
+
+
+{\displaystyle L}
+
+, 
+
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L_{2}}
+
+ a right factor. By default, the coefficient domain of the factors is assumed to be the base field of 
+
+
+
+L
+
+
+{\displaystyle L}
+
+, possibly extended by some algebraic numbers, i.e. 
+
+
+
+
+
+
+
+Q
+
+¯
+
+
+
+(
+x
+)
+
+
+{\displaystyle {\bar {\mathbb {Q} }}(x)}
+
+ is allowed. If an operator does not allow any right factor it is called irreducible.
+For any two operators 
+
+
+
+
+L
+
+1
+
+
+
+
+{\displaystyle L_{1}}
+
+ and 
+
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L_{2}}
+
+ the least common left multiple 
+
+
+
+L
+c
+l
+m
+(
+
+L
+
+1
+
+
+,
+
+L
+
+2
+
+
+)
+
+
+{\displaystyle Lclm(L_{1},L_{2})}
+
+ is the operator of lowest order such that both 
+
+
+
+
+L
+
+1
+
+
+
+
+{\displaystyle L_{1}}
+
+ and 
+
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L_{2}}
+
+ divide it from the right. The greatest common right divisior 
+
+
+
+G
+c
+r
+d
+(
+
+L
+
+1
+
+
+,
+
+L
+
+2
+
+
+)
+
+
+{\displaystyle Gcrd(L_{1},L_{2})}
+
+ is the operator of highest order that divides both 
+
+
+
+
+L
+
+1
+
+
+
+
+{\displaystyle L_{1}}
+
+ and 
+
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L_{2}}
+
+ from the right. If an operator may be represented as 
+
+
+
+L
+c
+l
+m
+
+
+{\displaystyle Lclm}
+
+ of irreducible operators it is called completely reducible. By definition, an irreducible operator is called completely reducible.
+If an operator is not completely reducible, the 
+
+
+
+L
+c
+l
+m
+
+
+{\displaystyle Lclm}
+
+ of its irreducible right factors is divided out and the same procedure is repeated with the quotient. Due to the lowering of order in each step, this proceeding terminates after a finite number of iterations and the desired decomposition is obtained. Based on these considerations, Loewy [1] obtained the following fundamental result.
+Theorem 1 (Loewy 1906) Let 
+
+
+
+D
+=
+
+
+d
+
+d
+x
+
+
+
+
+
+{\displaystyle D={\frac {d}{dx}}}
+
+ be a derivative and 
+
+
+
+
+a
+
+i
+
+
+∈
+
+
+Q
+
+(
+x
+)
+
+
+
+{\displaystyle a_{i}\in {\mathbb {Q} (x)}}
+
+. A differential operator
+
+
+
+
+
+L
+≡
+
+D
+
+n
+
+
++
+
+a
+
+1
+
+
+
+D
+
+n
+−
+1
+
+
++
+⋯
++
+
+a
+
+n
+−
+1
+
+
+D
++
+
+a
+
+n
+
+
+
+
+{\displaystyle L\equiv D^{n}+a_{1}D^{n-1}+\cdots +a_{n-1}D+a_{n}}
+
+
+
+of order 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ may be written uniquely as the product of completely reducible factors 
+
+
+
+
+L
+
+k
+
+
+(
+
+d
+
+k
+
+
+)
+
+
+
+
+{\displaystyle L_{k}^{(d_{k})}}
+
+ of maximal order 
+
+
+
+
+d
+
+k
+
+
+
+
+{\displaystyle d_{k}}
+
+ over 
+
+
+
+
+
+Q
+
+
+(
+x
+)
+
+
+{\displaystyle {\mathbb {Q} }(x)}
+
+ in the form
+
+
+
+
+
+L
+=
+
+L
+
+m
+
+
+(
+
+d
+
+m
+
+
+)
+
+
+
+L
+
+m
+−
+1
+
+
+(
+
+d
+
+m
+−
+1
+
+
+)
+
+
+…
+
+L
+
+1
+
+
+(
+
+d
+
+1
+
+
+)
+
+
+
+
+{\displaystyle L=L_{m}^{(d_{m})}L_{m-1}^{(d_{m-1})}\ldots L_{1}^{(d_{1})}}
+
+
+
+with 
+
+
+
+
+d
+
+1
+
+
++
+…
++
+
+d
+
+m
+
+
+=
+n
+
+
+{\displaystyle d_{1}+\ldots +d_{m}=n}
+
+. The factors 
+
+
+
+
+L
+
+k
+
+
+(
+
+d
+
+k
+
+
+)
+
+
+
+
+{\displaystyle L_{k}^{(d_{k})}}
+
+ are unique. Any factor 
+
+
+
+
+L
+
+k
+
+
+(
+
+d
+
+k
+
+
+)
+
+
+
+
+{\displaystyle L_{k}^{(d_{k})}}
+
+, 
+
+
+
+k
+=
+1
+,
+…
+,
+m
+
+
+{\displaystyle k=1,\ldots ,m}
+
+ may be written as
+
+
+
+
+
+
+L
+
+k
+
+
+(
+
+d
+
+k
+
+
+)
+
+
+=
+L
+c
+l
+m
+(
+
+l
+
+
+j
+
+1
+
+
+
+
+(
+
+e
+
+1
+
+
+)
+
+
+,
+
+l
+
+
+j
+
+2
+
+
+
+
+(
+
+e
+
+2
+
+
+)
+
+
+,
+…
+,
+
+l
+
+
+j
+
+k
+
+
+
+
+(
+
+e
+
+k
+
+
+)
+
+
+)
+
+
+{\displaystyle L_{k}^{(d_{k})}=Lclm(l_{j_{1}}^{(e_{1})},l_{j_{2}}^{(e_{2})},\ldots ,l_{j_{k}}^{(e_{k})})}
+
+
+
+with 
+
+
+
+
+e
+
+1
+
+
++
+
+e
+
+2
+
+
++
+…
++
+
+e
+
+k
+
+
+=
+
+d
+
+k
+
+
+
+
+{\displaystyle e_{1}+e_{2}+\ldots +e_{k}=d_{k}}
+
+; 
+
+
+
+
+l
+
+
+j
+
+i
+
+
+
+
+(
+
+e
+
+i
+
+
+)
+
+
+
+
+{\displaystyle l_{j_{i}}^{(e_{i})}}
+
+ for 
+
+
+
+i
+=
+1
+,
+…
+,
+k
+
+
+{\displaystyle i=1,\ldots ,k}
+
+, denotes an irreducible operator of order 
+
+
+
+
+e
+
+i
+
+
+
+
+{\displaystyle e_{i}}
+
+ over 
+
+
+
+
+
+Q
+
+
+(
+x
+)
+
+
+{\displaystyle {\mathbb {Q} }(x)}
+
+.
+The decomposition determined in this theorem is called the Loewy decomposition of 
+
+
+
+L
+
+
+{\displaystyle L}
+
+. It provides a detailed description of the function space containing the solution of a reducible linear differential equation 
+
+
+
+L
+y
+=
+0
+
+
+{\displaystyle Ly=0}
+
+.
+For operators of fixed order the possible Loewy decompositions, differing by the number and the order of factors, may be listed explicitly; some of the factors may contain parameters. Each alternative is called a type of Loewy decomposition. The complete answer for 
+
+
+
+n
+=
+2
+
+
+{\displaystyle n=2}
+
+ is detailed in the following corollary to the above theorem.[3]
+Corollary 1 Let 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ be a second-order operator. Its possible Loewy decompositions are denoted by 
+
+
+
+
+
+
+L
+
+
+
+0
+
+
+2
+
+
+,
+…
+
+
+
+L
+
+
+
+3
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{0}^{2},\ldots {\mathcal {L}}_{3}^{2}}
+
+, they may be described as follows; 
+
+
+
+
+l
+
+(
+i
+)
+
+
+
+
+{\displaystyle l^{(i)}}
+
+ and 
+
+
+
+
+l
+
+j
+
+
+(
+i
+)
+
+
+
+
+{\displaystyle l_{j}^{(i)}}
+
+ are irreducible operators of order 
+
+
+
+i
+
+
+{\displaystyle i}
+
+; 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is a constant.
+
+
+
+
+
+
+
+
+L
+
+
+
+1
+
+
+2
+
+
+:
+L
+=
+
+l
+
+2
+
+
+(
+1
+)
+
+
+
+l
+
+1
+
+
+(
+1
+)
+
+
+;
+
+
+{\displaystyle {\mathcal {L}}_{1}^{2}:L=l_{2}^{(1)}l_{1}^{(1)};}
+
+    
+
+
+
+
+
+
+
+L
+
+
+
+2
+
+
+2
+
+
+:
+L
+=
+L
+c
+l
+m
+(
+
+l
+
+2
+
+
+(
+1
+)
+
+
+,
+
+l
+
+1
+
+
+(
+1
+)
+
+
+)
+;
+
+
+{\displaystyle {\mathcal {L}}_{2}^{2}:L=Lclm(l_{2}^{(1)},l_{1}^{(1)});}
+
+   
+
+
+
+
+
+
+
+L
+
+
+
+3
+
+
+2
+
+
+:
+L
+=
+L
+c
+l
+m
+(
+
+l
+
+(
+1
+)
+
+
+(
+C
+)
+)
+.
+
+
+{\displaystyle {\mathcal {L}}_{3}^{2}:L=Lclm(l^{(1)}(C)).}
+
+
+
+The decomposition type of an operator is the decomposition 
+
+
+
+
+
+
+L
+
+
+
+i
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{i}^{2}}
+
+ with the highest value of 
+
+
+
+i
+
+
+{\displaystyle i}
+
+. An irreducible second-order operator is defined to have decomposition type 
+
+
+
+
+
+
+L
+
+
+
+0
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{0}^{2}}
+
+.
+The decompositions 
+
+
+
+
+
+
+L
+
+
+
+0
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{0}^{2}}
+
+, 
+
+
+
+
+
+
+L
+
+
+
+2
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{2}^{2}}
+
+ and 
+
+
+
+
+
+
+L
+
+
+
+3
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{3}^{2}}
+
+ are completely reducible.
+If a decomposition of type 
+
+
+
+
+
+
+L
+
+
+
+i
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{i}^{2}}
+
+, 
+
+
+
+i
+=
+1
+,
+2
+
+
+{\displaystyle i=1,2}
+
+ or 
+
+
+
+3
+
+
+{\displaystyle 3}
+
+ has been obtained for a second-order equation 
+
+
+
+L
+y
+=
+0
+
+
+{\displaystyle Ly=0}
+
+, a fundamental system may be given explicitly.
+Corollary 2 Let 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ be a second-order differential operator, 
+
+
+
+D
+≡
+
+
+d
+
+d
+x
+
+
+
+
+
+{\displaystyle D\equiv {\frac {d}{dx}}}
+
+, 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ a differential indeterminate, and 
+
+
+
+
+a
+
+i
+
+
+∈
+
+
+Q
+
+
+(
+x
+)
+
+
+{\displaystyle a_{i}\in {\mathbb {Q} }(x)}
+
+. Define 
+
+
+
+
+ε
+
+i
+
+
+(
+x
+)
+≡
+exp
+⁡
+
+(
+−
+∫
+
+a
+
+i
+
+
+d
+x
+)
+
+
+
+{\displaystyle \varepsilon _{i}(x)\equiv \exp {(-\int a_{i}dx)}}
+
+ for 
+
+
+
+i
+=
+1
+,
+2
+
+
+{\displaystyle i=1,2}
+
+ and 
+
+
+
+ε
+(
+x
+,
+C
+)
+≡
+exp
+⁡
+
+(
+−
+∫
+a
+(
+C
+)
+d
+x
+)
+
+
+
+{\displaystyle \varepsilon (x,C)\equiv \exp {(-\int a(C)dx)}}
+
+, 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ is a parameter; the barred quantities 
+
+
+
+
+
+
+C
+¯
+
+
+
+
+
+{\displaystyle {\bar {C}}}
+
+ and 
+
+
+
+
+
+
+
+
+C
+¯
+
+
+¯
+
+
+
+
+
+{\displaystyle {\bar {\bar {C}}}}
+
+ are arbitrary numbers, 
+
+
+
+
+
+
+C
+¯
+
+
+
+≠
+
+
+
+
+
+C
+¯
+
+
+¯
+
+
+
+
+
+{\displaystyle {\bar {C}}\neq {\bar {\bar {C}}}}
+
+. For the three nontrivial decompositions of Corollary 1 the following elements 
+
+
+
+
+y
+
+1
+
+
+
+
+{\displaystyle y_{1}}
+
+ and 
+
+
+
+
+y
+
+2
+
+
+
+
+{\displaystyle y_{2}}
+
+ of a fundamental system are obtained.
+
+
+
+
+
+
+
+
+L
+
+
+
+1
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{1}^{2}}
+
+: 
+
+
+
+L
+y
+=
+(
+D
++
+
+a
+
+2
+
+
+)
+(
+D
++
+
+a
+
+1
+
+
+)
+y
+=
+0
+
+
+{\displaystyle Ly=(D+a_{2})(D+a_{1})y=0}
+
+;   
+
+
+
+
+
+
+y
+
+1
+
+
+=
+
+ε
+
+1
+
+
+(
+x
+)
+,
+
+
+{\displaystyle y_{1}=\varepsilon _{1}(x),}
+
+
+
+
+
+
+
+
+y
+
+2
+
+
+=
+
+ε
+
+1
+
+
+(
+x
+)
+∫
+
+
+
+
+ε
+
+2
+
+
+(
+x
+)
+
+
+
+ε
+
+1
+
+
+(
+x
+)
+
+
+
+
+d
+x
+.
+
+
+{\displaystyle y_{2}=\varepsilon _{1}(x)\int {\frac {\varepsilon _{2}(x)}{\varepsilon _{1}(x)}}\,dx.}
+
+
+
+
+
+
+
+
+
+
+
+L
+
+
+
+2
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{2}^{2}}
+
+: 
+
+
+
+L
+y
+=
+L
+c
+l
+m
+(
+D
++
+
+a
+
+2
+
+
+,
+D
++
+
+a
+
+1
+
+
+)
+y
+=
+0
+;
+
+
+{\displaystyle Ly=Lclm(D+a_{2},D+a_{1})y=0;}
+
+
+
+
+
+
+
+
+
+y
+
+i
+
+
+=
+
+ε
+
+i
+
+
+(
+x
+)
+;
+
+
+{\displaystyle y_{i}=\varepsilon _{i}(x);}
+
+
+
+
+
+
+
+
+a
+
+1
+
+
+
+
+{\displaystyle a_{1}}
+
+ is not equivalent to 
+
+
+
+
+a
+
+2
+
+
+
+
+{\displaystyle a_{2}}
+
+.
+
+
+
+
+
+
+
+
+L
+
+
+
+3
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{3}^{2}}
+
+: 
+
+
+
+L
+y
+=
+L
+c
+l
+m
+(
+D
++
+a
+(
+C
+)
+)
+y
+=
+0
+;
+
+
+{\displaystyle Ly=Lclm(D+a(C))y=0;}
+
+
+
+
+
+
+
+
+
+y
+
+1
+
+
+=
+ε
+(
+x
+,
+
+
+
+C
+¯
+
+
+
+)
+
+
+{\displaystyle y_{1}=\varepsilon (x,{\bar {C}})}
+
+}
+
+
+
+
+
+
+
+y
+
+2
+
+
+=
+ε
+(
+x
+,
+
+
+
+
+
+C
+¯
+
+
+¯
+
+
+
+)
+.
+
+
+{\displaystyle y_{2}=\varepsilon (x,{\bar {\bar {C}}}).}
+
+
+
+Here two rational functions 
+
+
+
+p
+,
+q
+∈
+
+
+Q
+
+
+(
+x
+)
+
+
+{\displaystyle p,q\in {\mathbb {Q} }(x)}
+
+ are called equivalent if there exists another rational function 
+
+
+
+r
+∈
+
+
+Q
+
+
+(
+x
+)
+
+
+{\displaystyle r\in {\mathbb {Q} }(x)}
+
+ such that
+
+
+
+
+
+p
+−
+q
+=
+
+
+
+r
+′
+
+r
+
+
+
+
+{\displaystyle p-q={\frac {r'}{r}}}
+
+.
+
+There remains the question how to obtain a factorization for a given equation or operator. It turns out that for linear ode's finding the factors comes down to determining rational solutions of Riccati equations or linear ode's; both may be determined algorithmically. The two examples below show how the above corollary is applied.
+Example 1 Equation 2.201 from Kamke's collection.[4] has the 
+
+
+
+
+
+
+L
+
+
+
+2
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{2}^{2}}
+
+ decomposition
+
+
+
+
+
+y
+″
+
++
+(
+2
++
+
+
+1
+x
+
+
+)
+
+y
+′
+
+−
+
+
+4
+
+x
+
+2
+
+
+
+
+y
+=
+L
+c
+l
+m
+
+
+(
+
+
+D
++
+
+
+2
+x
+
+
+−
+
+
+
+2
+x
+−
+2
+
+
+
+x
+
+2
+
+
+−
+2
+x
++
+
+
+3
+2
+
+
+
+
+
+,
+D
++
+2
++
+
+
+2
+x
+
+
+−
+
+
+1
+
+x
++
+
+
+3
+2
+
+
+
+
+
+
+
+)
+
+
+y
+=
+0.
+
+
+{\displaystyle y''+(2+{\frac {1}{x}})y'-{\frac {4}{x^{2}}}y=Lclm{\Big (}D+{\frac {2}{x}}-{\frac {2x-2}{x^{2}-2x+{\frac {3}{2}}}},D+2+{\frac {2}{x}}-{\frac {1}{x+{\frac {3}{2}}}}{\Big )}y=0.}
+
+
+The coefficients 
+
+
+
+
+a
+
+1
+
+
+=
+2
++
+
+
+2
+x
+
+
+−
+
+
+1
+
+x
++
+
+
+3
+2
+
+
+
+
+
+
+
+{\displaystyle a_{1}=2+{\frac {2}{x}}-{\frac {1}{x+{\frac {3}{2}}}}}
+
+ and 
+
+
+
+
+a
+
+2
+
+
+=
+
+
+2
+x
+
+
+−
+
+
+
+2
+x
+−
+2
+
+
+
+x
+
+2
+
+
+−
+2
+x
++
+
+
+3
+2
+
+
+
+
+
+
+
+{\displaystyle a_{2}={\frac {2}{x}}-{\frac {2x-2}{x^{2}-2x+{\frac {3}{2}}}}}
+
+ are rational solutions of the Riccati equation 
+
+
+
+
+a
+′
+
+−
+
+a
+
+2
+
+
++
+
+
+(
+
+
+2
++
+
+
+1
+x
+
+
+
+
+)
+
+
++
+
+
+4
+
+x
+
+2
+
+
+
+
+=
+0
+
+
+{\displaystyle a'-a^{2}+{\big (}2+{\frac {1}{x}}{\big )}+{\frac {4}{x^{2}}}=0}
+
+, they yield the fundamental system
+
+
+
+
+
+
+y
+
+1
+
+
+=
+
+
+2
+3
+
+
+−
+
+
+4
+
+3
+x
+
+
+
++
+
+
+1
+
+x
+
+2
+
+
+
+
+,
+
+
+{\displaystyle y_{1}={\frac {2}{3}}-{\frac {4}{3x}}+{\frac {1}{x^{2}}},}
+
+
+
+
+
+
+
+y
+
+2
+
+
+=
+
+
+2
+x
+
+
++
+
+
+3
+
+x
+
+2
+
+
+
+
+
+e
+
+−
+2
+x
+
+
+.
+
+
+{\displaystyle y_{2}={\frac {2}{x}}+{\frac {3}{x^{2}}}e^{-2x}.}
+
+
+
+Example 2 An equation with a type 
+
+
+
+
+
+
+L
+
+
+
+3
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{3}^{2}}
+
+ decomposition is
+
+
+
+
+
+
+y
+″
+
+−
+
+
+6
+
+x
+
+2
+
+
+
+
+y
+=
+L
+c
+l
+m
+
+
+(
+
+
+D
++
+
+
+2
+x
+
+
+−
+
+
+
+5
+
+x
+
+4
+
+
+
+
+
+x
+
+5
+
+
++
+C
+
+
+
+
+
+)
+
+
+y
+=
+0.
+
+
+{\displaystyle y''-{\frac {6}{x^{2}}}y=Lclm{\big (}D+{\frac {2}{x}}-{\frac {5x^{4}}{x^{5}+C}}{\big )}y=0.}
+
+
+
+The coefficient of the first-order factor is the rational solution of 
+
+
+
+
+a
+′
+
+−
+
+a
+
+2
+
+
++
+
+
+6
+
+x
+
+2
+
+
+
+
+=
+0
+
+
+{\displaystyle a'-a^{2}+{\frac {6}{x^{2}}}=0}
+
+. Upon integration the fundamental system 
+
+
+
+
+y
+
+1
+
+
+=
+
+x
+
+3
+
+
+
+
+{\displaystyle y_{1}=x^{3}}
+
+ and 
+
+
+
+
+y
+
+2
+
+
+=
+
+
+1
+
+x
+
+2
+
+
+
+
+
+
+{\displaystyle y_{2}={\frac {1}{x^{2}}}}
+
+ for 
+
+
+
+C
+=
+0
+
+
+{\displaystyle C=0}
+
+ and 
+
+
+
+C
+→
+∞
+
+
+{\displaystyle C\rightarrow \infty }
+
+ respectively is obtained.
+These results show that factorization provides an algorithmic scheme for solving reducible linear ode's. Whenever an equation of order 2 factorizes according to one of the types defined above the elements of a fundamental system are explicitly known, i.e. factorization is equivalent to solving it.
+A similar scheme may be set up for linear ode's of any order, although the number of alternatives grows considerably with the order; for order 
+
+
+
+n
+=
+3
+
+
+{\displaystyle n=3}
+
+ the answer is given in full detail in.[2]
+If an equation is irreducible it may occur that its Galois group is nontrivial, then algebraic solutions may exist.[5] If the Galois group is trivial it may be possible to express the solutions in terms of special function like e.g. Bessel or Legendre functions, see [6] or.[7]
+Basic facts from differential algebra[edit]
+In order to generalize Loewy's result to linear pde's it is necessary to apply the more general setting of differential algebra. Therefore, a few basic concepts that are required for this purpose are given next.
+A field 
+
+
+
+
+
+F
+
+
+
+
+{\displaystyle {\mathcal {F}}}
+
+ is called a differential field if it is equipped with a derivation operator. An operator 
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+ on a field 
+
+
+
+
+
+F
+
+
+
+
+{\displaystyle {\mathcal {F}}}
+
+ is called a derivation operator if 
+
+
+
+δ
+(
+a
++
+b
+)
+=
+δ
+(
+a
+)
++
+δ
+(
+b
+)
+
+
+{\displaystyle \delta (a+b)=\delta (a)+\delta (b)}
+
+ and 
+
+
+
+δ
+(
+a
+b
+)
+=
+δ
+(
+a
+)
+b
++
+a
+δ
+(
+b
+)
+
+
+{\displaystyle \delta (ab)=\delta (a)b+a\delta (b)}
+
+ for all elements 
+
+
+
+a
+,
+b
+∈
+
+
+F
+
+
+
+
+{\displaystyle a,b\in {\mathcal {F}}}
+
+. A field with a single derivation operator is called an ordinary differential field; if there is a finite set containing several commuting derivation operators the field is called a partial differential field.
+Here differential operators with derivatives 
+
+
+
+
+∂
+
+x
+
+
+=
+
+
+∂
+
+∂
+x
+
+
+
+
+
+{\displaystyle \partial _{x}={\frac {\partial }{\partial x}}}
+
+ and 
+
+
+
+
+∂
+
+y
+
+
+=
+
+
+∂
+
+∂
+y
+
+
+
+
+
+{\displaystyle \partial _{y}={\frac {\partial }{\partial y}}}
+
+ with coefficients from some differential field are considered. Its elements have the form 
+
+
+
+
+∑
+
+i
+,
+j
+
+
+
+r
+
+i
+,
+j
+
+
+(
+x
+,
+y
+)
+
+∂
+
+x
+
+
+i
+
+
+
+∂
+
+y
+
+
+j
+
+
+
+
+{\displaystyle \sum _{i,j}r_{i,j}(x,y)\partial _{x}^{i}\partial _{y}^{j}}
+
+; almost all coefficients 
+
+
+
+
+r
+
+i
+,
+j
+
+
+
+
+{\displaystyle r_{i,j}}
+
+ are zero. The coefficient field is called the base field. If constructive and algorithmic methods are the main issue it is 
+
+
+
+
+
+Q
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle {\mathbb {Q} }(x,y)}
+
+. The respective ring of differential operators is denoted by 
+
+
+
+
+
+D
+
+
+=
+
+
+Q
+
+
+(
+x
+,
+y
+)
+[
+
+∂
+
+x
+
+
+,
+
+∂
+
+y
+
+
+]
+
+
+{\displaystyle {\mathcal {D}}={\mathbb {Q} }(x,y)[\partial _{x},\partial _{y}]}
+
+ or 
+
+
+
+
+
+D
+
+
+=
+
+
+F
+
+
+[
+
+∂
+
+x
+
+
+,
+
+∂
+
+y
+
+
+]
+
+
+{\displaystyle {\mathcal {D}}={\mathcal {F}}[\partial _{x},\partial _{y}]}
+
+. The ring 
+
+
+
+
+
+D
+
+
+
+
+{\displaystyle {\mathcal {D}}}
+
+ is non-commutative, 
+
+
+
+
+∂
+
+x
+
+
+a
+=
+a
+
+∂
+
+x
+
+
++
+
+
+
+∂
+a
+
+
+∂
+x
+
+
+
+
+
+{\displaystyle \partial _{x}a=a\partial _{x}+{\frac {\partial a}{\partial x}}}
+
+ and similarly for the other variables; 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ is from the base field.
+For an operator 
+
+
+
+L
+=
+
+∑
+
+i
++
+j
+≤
+n
+
+
+
+r
+
+i
+,
+j
+
+
+(
+x
+,
+y
+)
+
+∂
+
+x
+
+
+i
+
+
+
+∂
+
+y
+
+
+j
+
+
+
+
+{\displaystyle L=\sum _{i+j\leq n}r_{i,j}(x,y)\partial _{x}^{i}\partial _{y}^{j}}
+
+ of order 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ the symbol of L is the homogeneous algebraic polynomial 
+
+
+
+s
+y
+m
+b
+(
+L
+)
+≡
+
+∑
+
+i
++
+j
+=
+n
+
+
+
+r
+
+i
+,
+j
+
+
+(
+x
+,
+y
+)
+
+X
+
+i
+
+
+
+Y
+
+j
+
+
+
+
+{\displaystyle symb(L)\equiv \sum _{i+j=n}r_{i,j}(x,y)X^{i}Y^{j}}
+
+ where 
+
+
+
+X
+
+
+{\displaystyle X}
+
+ and 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ algebraic indeterminates.
+Let 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ be a left ideal which is generated by 
+
+
+
+
+l
+
+i
+
+
+∈
+
+
+D
+
+
+
+
+{\displaystyle l_{i}\in {\mathcal {D}}}
+
+, 
+
+
+
+i
+=
+1
+,
+…
+,
+p
+
+
+{\displaystyle i=1,\ldots ,p}
+
+. Then one writes 
+
+
+
+I
+=
+⟨
+
+l
+
+1
+
+
+,
+…
+,
+
+l
+
+p
+
+
+⟩
+
+
+{\displaystyle I=\langle l_{1},\ldots ,l_{p}\rangle }
+
+. Because right ideals are not considered here, sometimes 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ is simply called an ideal.
+The relation between left ideals in 
+
+
+
+
+
+D
+
+
+
+
+{\displaystyle {\mathcal {D}}}
+
+ and systems of linear pde's is established as follows. The elements 
+
+
+
+
+l
+
+i
+
+
+∈
+
+
+D
+
+
+
+
+{\displaystyle l_{i}\in {\mathcal {D}}}
+
+ are applied to a single differential indeterminate 
+
+
+
+z
+
+
+{\displaystyle z}
+
+. In this way the ideal 
+
+
+
+I
+=
+⟨
+
+l
+
+1
+
+
+,
+
+l
+
+2
+
+
+,
+…
+⟩
+
+
+{\displaystyle I=\langle l_{1},l_{2},\ldots \rangle }
+
+ corresponds to the system of pde's 
+
+
+
+
+l
+
+1
+
+
+z
+=
+0
+
+
+{\displaystyle l_{1}z=0}
+
+, 
+
+
+
+
+l
+
+2
+
+
+z
+=
+0
+,
+…
+
+
+{\displaystyle l_{2}z=0,\ldots }
+
+ for the single function 
+
+
+
+z
+
+
+{\displaystyle z}
+
+.
+The generators of an ideal are highly non-unique; its members may be transformed in infinitely many ways by taking linear combinations of them or its derivatives without changing the ideal. Therefore, M. Janet[8] introduced a normal form for systems of linear pde's (see Janet basis).[9] They are the differential analog to Gröbner bases of commutative algebra (which were originally introduced by Bruno Buchberger);[10] therefore they are also sometimes called differential Gröbner basis.
+In order to generate a Janet basis, a ranking of derivatives must be defined. It is a total ordering such that for any derivatives 
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+, 
+
+
+
+
+δ
+
+1
+
+
+
+
+{\displaystyle \delta _{1}}
+
+ and 
+
+
+
+
+δ
+
+2
+
+
+
+
+{\displaystyle \delta _{2}}
+
+, and any derivation operator 
+
+
+
+θ
+
+
+{\displaystyle \theta }
+
+ the relations 
+
+
+
+δ
+⪯
+θ
+δ
+
+
+{\displaystyle \delta \preceq \theta \delta }
+
+, and 
+
+
+
+
+δ
+
+1
+
+
+⪯
+
+δ
+
+2
+
+
+→
+δ
+
+δ
+
+1
+
+
+⪯
+δ
+
+δ
+
+2
+
+
+
+
+{\displaystyle \delta _{1}\preceq \delta _{2}\rightarrow \delta \delta _{1}\preceq \delta \delta _{2}}
+
+ are valid. Here graded lexicographic term orderings 
+
+
+
+g
+r
+l
+e
+x
+
+
+{\displaystyle grlex}
+
+ are applied. For partial derivatives of a single function their definition is analogous to the monomial orderings in commutative algebra. The S-pairs in commutative algebra correspond to the integrability conditions.
+If it is assured that the generators 
+
+
+
+
+l
+
+1
+
+
+,
+…
+,
+
+l
+
+p
+
+
+
+
+{\displaystyle l_{1},\ldots ,l_{p}}
+
+ of an ideal 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ form a Janet basis the notation 
+
+
+
+I
+=
+
+
+
+⟨
+
+
+
+
+⟨
+
+
+
+
+l
+
+1
+
+
+,
+…
+,
+
+l
+
+p
+
+
+
+
+
+⟩
+
+
+
+
+⟩
+
+
+
+
+
+{\displaystyle I={{\big \langle }{\big \langle }}l_{1},\ldots ,l_{p}{{\big \rangle }{\big \rangle }}}
+
+ is applied.
+Example 3 Consider the ideal
+
+ 
+  
+    
+      
+        I
+        =
+        
+          
+            ⟨
+          
+        
+        
+          l
+          
+            1
+          
+        
+        ≡
+        
+          ∂
+          
+            x
+            x
+          
+        
+        −
+        
+          
+            1
+            x
+          
+        
+        
+          ∂
+          
+            x
+          
+        
+        −
+        
+          
+            y
+            
+              x
+              (
+              x
+              +
+              y
+              )
+            
+          
+        
+        
+          ∂
+          
+            y
+          
+        
+        ,
+      
+    
+    {\displaystyle I={\Big \langle }l_{1}\equiv \partial _{xx}-{\frac {1}{x}}\partial _{x}-{\frac {y}{x(x+y)}}\partial _{y},}
+  
+ 
+
+
+
+
+
+
+l
+
+2
+
+
+≡
+
+∂
+
+x
+y
+
+
++
+
+
+1
+
+x
++
+y
+
+
+
+
+∂
+
+y
+
+
+,
+
+
+{\displaystyle l_{2}\equiv \partial _{xy}+{\frac {1}{x+y}}\partial _{y},}
+
+  
+
+
+
+
+l
+
+3
+
+
+≡
+
+∂
+
+y
+y
+
+
++
+
+
+1
+
+x
++
+y
+
+
+
+
+∂
+
+y
+
+
+
+
+⟩
+
+
+
+
+{\displaystyle l_{3}\equiv \partial _{yy}+{\frac {1}{x+y}}\partial _{y}{\Big \rangle }}
+
+
+in 
+
+
+
+g
+r
+l
+e
+x
+
+
+{\displaystyle grlex}
+
+ term order with 
+
+
+
+x
+≻
+y
+
+
+{\displaystyle x\succ y}
+
+. Its generators are autoreduced. If the integrability condition
+
+
+  
+    
+      
+        
+          l
+          
+            1
+            ,
+            y
+          
+        
+        =
+        
+          l
+          
+            2
+            ,
+            x
+          
+        
+        −
+        
+          l
+          
+            2
+            ,
+            y
+          
+        
+        =
+        
+          
+            
+              y
+              +
+              2
+              x
+            
+            
+              x
+              (
+              x
+              +
+              y
+              )
+            
+          
+        
+        
+          ∂
+          
+            x
+            y
+          
+        
+        +
+        
+          
+            y
+            
+              x
+              (
+              x
+              +
+              y
+              )
+            
+          
+        
+        
+          ∂
+          
+            y
+            y
+          
+        
+      
+    
+    {\displaystyle l_{1,y}=l_{2,x}-l_{2,y}={\frac {y+2x}{x(x+y)}}\partial _{xy}+{\frac {y}{x(x+y)}}\partial _{yy}}
+  
+
+
+is reduced w.r.t. to 
+
+
+
+I
+
+
+{\displaystyle I}
+
+, the new generator 
+
+
+
+
+∂
+
+y
+
+
+
+
+{\displaystyle \partial _{y}}
+
+ is obtained. Adding it to the generators and performing all possible reductions, the given ideal is represented as 
+
+
+
+I
+=
+
+
+
+⟨
+
+
+
+
+⟨
+
+
+
+
+∂
+
+x
+x
+
+
+−
+
+
+1
+x
+
+
+
+∂
+
+x
+
+
+,
+
+∂
+
+y
+
+
+
+
+
+⟩
+
+
+
+
+⟩
+
+
+
+
+
+{\displaystyle I={{\Big \langle }{\Big \langle }}\partial _{xx}-{\frac {1}{x}}\partial _{x},\partial _{y}{{\Big \rangle }{\Big \rangle }}}
+
+. Its generators are autoreduced and the single integrability condition is satisfied, i.e. they form a Janet basis.
+Given any ideal 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ it may occur that it is properly contained in some larger ideal 
+
+
+
+J
+
+
+{\displaystyle J}
+
+ with coefficients in the base field of 
+
+
+
+I
+
+
+{\displaystyle I}
+
+; then 
+
+
+
+J
+
+
+{\displaystyle J}
+
+ is called a divisor of 
+
+
+
+I
+
+
+{\displaystyle I}
+
+. In general, a divisor in a ring of partial differential operators need not be principal.
+The greatest common right divisor (Gcrd) or sum of two ideals 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ and 
+
+
+
+J
+
+
+{\displaystyle J}
+
+ is the smallest ideal with the property that both 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ and 
+
+
+
+J
+
+
+{\displaystyle J}
+
+ are contained in it. If they have the representation 
+
+
+
+I
+≡
+⟨
+
+f
+
+1
+
+
+,
+…
+,
+
+f
+
+p
+
+
+⟩
+
+
+{\displaystyle I\equiv \langle f_{1},\ldots ,f_{p}\rangle }
+
+ and 
+
+
+
+J
+≡
+⟨
+
+g
+
+1
+
+
+,
+…
+,
+
+g
+
+q
+
+
+⟩
+,
+
+
+{\displaystyle J\equiv \langle g_{1},\ldots ,g_{q}\rangle ,}
+
+ 
+
+
+
+
+f
+
+i
+
+
+
+
+{\displaystyle f_{i}}
+
+, 
+
+
+
+
+g
+
+j
+
+
+∈
+
+
+D
+
+
+
+
+{\displaystyle g_{j}\in {\mathcal {D}}}
+
+ for all 
+
+
+
+i
+
+
+{\displaystyle i}
+
+ and 
+
+
+
+j
+
+
+{\displaystyle j}
+
+, the sum is generated by the union of the generators of 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ and 
+
+
+
+J
+
+
+{\displaystyle J}
+
+. The solution space of the equations corresponding to 
+
+
+
+G
+c
+r
+d
+(
+I
+,
+J
+)
+
+
+{\displaystyle Gcrd(I,J)}
+
+ is the intersection of the solution spaces of its arguments.
+The least common left multiple (Lclm) or left intersection of two ideals 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ and 
+
+
+
+J
+
+
+{\displaystyle J}
+
+ is the largest ideal with the property that it is contained both in 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ and 
+
+
+
+J
+
+
+{\displaystyle J}
+
+. The solution space of 
+
+
+
+L
+c
+l
+m
+(
+I
+,
+J
+)
+z
+=
+0
+
+
+{\displaystyle Lclm(I,J)z=0}
+
+ is the smallest space containing the solution spaces of its arguments.
+A special kind of divisor is the so-called Laplace divisor of a given operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+,[2] page 34. It is defined as follows.
+Definition Let 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ be a partial differential operator in the plane; define
+
+
+  
+    
+      
+        
+          
+            
+              l
+            
+          
+          
+            m
+          
+        
+        ≡
+        
+          ∂
+          
+            
+              x
+              
+                m
+              
+            
+          
+        
+        +
+        
+          a
+          
+            m
+            −
+            1
+          
+        
+        
+          ∂
+          
+            
+              x
+              
+                m
+                −
+                1
+              
+            
+          
+        
+        +
+        …
+        +
+        
+          a
+          
+            1
+          
+        
+        
+          ∂
+          
+            x
+          
+        
+        +
+        
+          a
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {l}}_{m}\equiv \partial _{x^{m}}+a_{m-1}\partial _{x^{m-1}}+\ldots +a_{1}\partial _{x}+a_{0}}
+  
+ and
+
+
+
+  
+    
+      
+        
+          
+            
+              k
+            
+          
+          
+            n
+          
+        
+        ≡
+        
+          ∂
+          
+            
+              y
+              
+                n
+              
+            
+          
+        
+        +
+        
+          b
+          
+            n
+            −
+            1
+          
+        
+        
+          ∂
+          
+            
+              y
+              
+                n
+                −
+                1
+              
+            
+          
+        
+        +
+        …
+        +
+        
+          b
+          
+            1
+          
+        
+        
+          ∂
+          
+            y
+          
+        
+        +
+        
+          b
+          
+            0
+          
+        
+      
+    
+    {\displaystyle {\mathfrak {k}}_{n}\equiv \partial _{y^{n}}+b_{n-1}\partial _{y^{n-1}}+\ldots +b_{1}\partial _{y}+b_{0}}
+  
+
+
+be ordinary differential operators w.r.t. 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ or 
+
+
+
+y
+
+
+{\displaystyle y}
+
+; 
+
+
+
+
+a
+
+i
+
+
+,
+
+b
+
+i
+
+
+∈
+
+
+Q
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle a_{i},b_{i}\in {\mathbb {Q} }(x,y)}
+
+ for all i; 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ and 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ are natural numbers not less than 2. Assume the coefficients 
+
+
+
+
+a
+
+i
+
+
+
+
+{\displaystyle a_{i}}
+
+, 
+
+
+
+i
+=
+0
+,
+…
+,
+m
+−
+1
+
+
+{\displaystyle i=0,\ldots ,m-1}
+
+ are such that 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ and 
+
+
+
+
+
+
+l
+
+
+
+m
+
+
+
+
+{\displaystyle {\mathfrak {l}}_{m}}
+
+ form a Janet basis. If 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ is the smallest integer with this property then 
+
+
+
+
+
+
+L
+
+
+
+
+x
+
+m
+
+
+
+
+(
+L
+)
+≡
+
+⟨
+⟨
+
+L
+,
+
+
+
+l
+
+
+
+m
+
+
+
+⟩
+⟩
+
+
+
+{\displaystyle {\mathbb {L} }_{x^{m}}(L)\equiv {\langle \langle }L,{\mathfrak {l}}_{m}{\rangle \rangle }}
+
+ is called a Laplace divisor of 
+
+
+
+L
+
+
+{\displaystyle L}
+
+. Similarly, if 
+
+
+
+
+b
+
+j
+
+
+
+
+{\displaystyle b_{j}}
+
+, 
+
+
+
+j
+=
+0
+,
+…
+,
+n
+−
+1
+
+
+{\displaystyle j=0,\ldots ,n-1}
+
+ are such that 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ and 
+
+
+
+
+
+
+k
+
+
+
+n
+
+
+
+
+{\displaystyle {\mathfrak {k}}_{n}}
+
+ form a Janet basis and 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is minimal, then 
+
+
+
+
+
+
+L
+
+
+
+
+y
+
+n
+
+
+
+
+(
+L
+)
+≡
+
+⟨
+⟨
+
+L
+,
+
+
+
+k
+
+
+
+n
+
+
+
+⟩
+⟩
+
+
+
+{\displaystyle {\mathbb {L} }_{y^{n}}(L)\equiv {\langle \langle }L,{\mathfrak {k}}_{n}{\rangle \rangle }}
+
+ is also called a Laplace divisor of 
+
+
+
+L
+
+
+{\displaystyle L}
+
+.
+In order for a Laplace divisor to exist the coeffients of an operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ must obey certain constraints.[3] An algorithm for determining an upper bound for a Laplace divisor is not known at present, therefore in general the existence of a Laplace divisor may be undecidable
+Decomposing second-order linear partial differential equations in the plane[edit]
+Applying the above concepts Loewy's theory may be generalized to linear pde's. Here it is applied to individual linear pde's of second order in the plane with coordinates 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+y
+
+
+{\displaystyle y}
+
+, and the principal ideals generated by the corresponding operators.
+Second-order equations have been considered extensively in the literature of the 19th century,.[11][12] Usually equations with leading derivatives 
+
+
+
+
+∂
+
+x
+x
+
+
+
+
+{\displaystyle \partial _{xx}}
+
+ or 
+
+
+
+
+∂
+
+x
+y
+
+
+
+
+{\displaystyle \partial _{xy}}
+
+ are distinguished. Their general solutions contain not only constants but undetermined functions of varying numbers of arguments; determining them is part of the solution procedure. For equations with leading derivative 
+
+
+
+
+∂
+
+x
+x
+
+
+
+
+{\displaystyle \partial _{xx}}
+
+ Loewy's results may be generalized as follows.
+Theorem 2 Let the differential operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ be defined by
+
+  
+  
+    
+      
+        L
+        ≡
+        
+          ∂
+          
+            x
+            x
+          
+        
+        +
+        
+          A
+          
+            1
+          
+        
+        
+          ∂
+          
+            x
+            y
+          
+        
+        +
+        
+          A
+          
+            2
+          
+        
+        
+          ∂
+          
+            y
+            y
+          
+        
+        +
+        
+          A
+          
+            3
+          
+        
+        
+          ∂
+          
+            x
+          
+        
+        +
+        
+          A
+          
+            4
+          
+        
+        
+          ∂
+          
+            y
+          
+        
+        +
+        
+          A
+          
+            5
+          
+        
+      
+    
+    {\displaystyle L\equiv \partial _{xx}+A_{1}\partial _{xy}+A_{2}\partial _{yy}+A_{3}\partial _{x}+A_{4}\partial _{y}+A_{5}}
+  
+ where 
+  
+    
+      
+        
+          A
+          
+            i
+          
+        
+        ∈
+        
+          
+            Q
+          
+        
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle A_{i}\in {\mathbb {Q} }(x,y)}
+  
+ for all 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+.
+
+Let 
+
+
+
+
+l
+
+i
+
+
+≡
+
+∂
+
+x
+
+
++
+
+a
+
+i
+
+
+
+∂
+
+y
+
+
++
+
+b
+
+i
+
+
+
+
+{\displaystyle l_{i}\equiv \partial _{x}+a_{i}\partial _{y}+b_{i}}
+
+ for 
+
+
+
+i
+=
+1
+
+
+{\displaystyle i=1}
+
+ and 
+
+
+
+i
+=
+2
+
+
+{\displaystyle i=2}
+
+, and 
+
+
+
+l
+(
+Φ
+)
+≡
+
+∂
+
+x
+
+
++
+a
+
+∂
+
+y
+
+
++
+b
+(
+Φ
+)
+
+
+{\displaystyle l(\Phi )\equiv \partial _{x}+a\partial _{y}+b(\Phi )}
+
+ be first-order operators with 
+
+
+
+
+a
+
+i
+
+
+,
+
+b
+
+i
+
+
+,
+a
+∈
+
+
+Q
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle a_{i},b_{i},a\in {\mathbb {Q} }(x,y)}
+
+; 
+
+
+
+Φ
+
+
+{\displaystyle \Phi }
+
+ is an undetermined function of a single argument. Then 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ has a Loewy decomposition according to one of the following types.
+
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+1
+
+
+:
+L
+=
+
+l
+
+2
+
+
+
+l
+
+1
+
+
+;
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{1}:L=l_{2}l_{1};}
+
+   
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+2
+
+
+:
+L
+=
+L
+c
+l
+m
+(
+
+l
+
+2
+
+
+,
+
+l
+
+1
+
+
+)
+;
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{2}:L=Lclm(l_{2},l_{1});}
+
+   
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+3
+
+
+:
+L
+=
+L
+c
+l
+m
+(
+l
+(
+Φ
+)
+)
+.
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{3}:L=Lclm(l(\Phi )).}
+
+
+The decomposition type of an operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ is the decomposition 
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+i
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{i}}
+
+ with the highest value of 
+
+
+
+i
+
+
+{\displaystyle i}
+
+. If 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ does not have any first-order factor in the base field, its decomposition type is defined to be 
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+0
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{0}}
+
+. Decompositions 
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+0
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{0}}
+
+, 
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+2
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{2}}
+
+ and 
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+3
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{3}}
+
+ are completely reducible.
+In order to apply this result for solving any given differential equation involving the operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ the question arises whether its first-order factors may be determined algorithmically. The subsequent corollary provides the answer for factors with coefficients either in the base field or a universal field extension.
+Corollary 3 In general, first-order right factors of a linear pde in the base field cannot be determined algorithmically. If the symbol polynomial is separable any factor may be determined. If it has a double root in general it is not possible to determine the right factors in the base field. The existence of factors in a universal field, i.e. absolute irreducibility, may always be decided.
+The above theorem may be applied for solving reducible equations in closed form. Because there are only principal divisors involved the answer is similar as for ordinary second-order equations.
+Proposition 1 Let a reducible second-order equation
+
+ 
+  
+    
+      
+        L
+        z
+        ≡
+        
+          z
+          
+            x
+            x
+          
+        
+        +
+        
+          A
+          
+            1
+          
+        
+        
+          z
+          
+            x
+            y
+          
+        
+        +
+        
+          A
+          
+            2
+          
+        
+        
+          z
+          
+            y
+            y
+          
+        
+        +
+        
+          A
+          
+            3
+          
+        
+        
+          z
+          
+            x
+          
+        
+        +
+        
+          A
+          
+            4
+          
+        
+        
+          z
+          
+            y
+          
+        
+        +
+        
+          A
+          
+            5
+          
+        
+        z
+        =
+        0
+      
+    
+    {\displaystyle Lz\equiv z_{xx}+A_{1}z_{xy}+A_{2}z_{yy}+A_{3}z_{x}+A_{4}z_{y}+A_{5}z=0}
+  
+ where 
+  
+    
+      
+        
+          A
+          
+            1
+          
+        
+        ,
+        …
+        ,
+        
+          A
+          
+            5
+          
+        
+        ∈
+        
+          
+            Q
+          
+        
+        (
+        x
+        ,
+        y
+        )
+      
+    
+    {\displaystyle A_{1},\ldots ,A_{5}\in {\mathbb {Q} }(x,y)}
+  
+.
+
+Define 
+
+
+
+
+l
+
+i
+
+
+≡
+
+∂
+
+x
+
+
++
+
+a
+
+i
+
+
+
+∂
+
+y
+
+
++
+
+b
+
+i
+
+
+
+
+{\displaystyle l_{i}\equiv \partial _{x}+a_{i}\partial _{y}+b_{i}}
+
+, 
+
+
+
+
+a
+
+i
+
+
+,
+
+b
+
+i
+
+
+∈
+
+
+Q
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle a_{i},b_{i}\in {\mathbb {Q} }(x,y)}
+
+ for 
+
+
+
+i
+=
+1
+,
+2
+
+
+{\displaystyle i=1,2}
+
+; 
+
+
+
+
+φ
+
+i
+
+
+(
+x
+,
+y
+)
+=
+c
+o
+n
+s
+t
+
+
+{\displaystyle \varphi _{i}(x,y)=const}
+
+ is a rational first integral of 
+
+
+
+
+
+
+d
+y
+
+
+d
+x
+
+
+
+=
+
+a
+
+i
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle {\frac {dy}{dx}}=a_{i}(x,y)}
+
+; 
+
+
+
+
+
+
+y
+¯
+
+
+
+≡
+
+φ
+
+i
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle {\bar {y}}\equiv \varphi _{i}(x,y)}
+
+ and the inverse 
+
+
+
+y
+=
+
+ψ
+
+i
+
+
+(
+x
+,
+
+
+
+y
+¯
+
+
+
+)
+
+
+{\displaystyle y=\psi _{i}(x,{\bar {y}})}
+
+; both 
+
+
+
+
+φ
+
+i
+
+
+
+
+{\displaystyle \varphi _{i}}
+
+ and 
+
+
+
+
+ψ
+
+i
+
+
+
+
+{\displaystyle \psi _{i}}
+
+ are assumed to exist. Furthermore, define
+
+
+
+
+
+
+
+E
+
+
+
+i
+
+
+(
+x
+,
+y
+)
+≡
+exp
+⁡
+
+
+(
+
+
+−
+
+
+∫
+
+
+
+b
+
+i
+
+
+(
+x
+,
+y
+)
+
+
+
+|
+
+
+
+y
+=
+
+ψ
+
+i
+
+
+(
+x
+,
+
+
+
+y
+¯
+
+
+
+)
+
+
+d
+x
+
+
+)
+
+
+
+
+
+|
+
+
+
+
+
+
+y
+¯
+
+
+
+=
+
+φ
+
+i
+
+
+(
+x
+,
+y
+)
+
+
+
+
+{\displaystyle {\mathcal {E}}_{i}(x,y)\equiv \exp {\Big (}-{\displaystyle \int }b_{i}(x,y){\big |}_{y=\psi _{i}(x,{\bar {y}})}dx{\Big )}{\Big |}_{{\bar {y}}=\varphi _{i}(x,y)}}
+
+ for 
+
+
+
+i
+=
+1
+,
+2
+
+
+{\displaystyle i=1,2}
+
+.
+A differential fundamental system has the following structure for the various decompositions into first-order components.
+
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+1
+
+
+:
+
+z
+
+1
+
+
+(
+x
+,
+y
+)
+=
+
+
+
+E
+
+
+
+1
+
+
+(
+x
+,
+y
+)
+
+F
+
+1
+
+
+(
+
+φ
+
+1
+
+
+)
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{1}:z_{1}(x,y)={\mathcal {E}}_{1}(x,y)F_{1}(\varphi _{1})}
+
+, 
+
+
+
+
+z
+
+2
+
+
+(
+x
+,
+y
+)
+=
+
+
+
+E
+
+
+
+1
+
+
+(
+x
+,
+y
+)
+
+
+∫
+
+
+
+
+
+
+
+
+E
+
+
+
+2
+
+
+(
+x
+,
+y
+)
+
+
+
+
+
+E
+
+
+
+1
+
+
+(
+x
+,
+y
+)
+
+
+
+
+F
+
+2
+
+
+
+
+(
+
+
+
+φ
+
+2
+
+
+(
+x
+,
+y
+)
+
+
+)
+
+
+
+
+
+|
+
+
+
+y
+=
+
+ψ
+
+1
+
+
+(
+x
+,
+
+
+
+y
+¯
+
+
+
+)
+
+
+d
+x
+
+
+
+|
+
+
+
+
+
+
+y
+¯
+
+
+
+=
+
+φ
+
+1
+
+
+(
+x
+,
+y
+)
+
+
+;
+
+
+{\displaystyle z_{2}(x,y)={\mathcal {E}}_{1}(x,y){\displaystyle \int }{\frac {{\mathcal {E}}_{2}(x,y)}{{\mathcal {E}}_{1}(x,y)}}F_{2}{\big (}\varphi _{2}(x,y){\big )}{\big |}_{y=\psi _{1}(x,{\bar {y}})}dx{\Big |}_{{\bar {y}}=\varphi _{1}(x,y)};}
+
+
+
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+2
+
+
+:
+
+z
+
+i
+
+
+(
+x
+,
+y
+)
+=
+
+
+
+E
+
+
+
+i
+
+
+(
+x
+,
+y
+)
+
+F
+
+i
+
+
+
+
+(
+
+
+
+φ
+
+i
+
+
+(
+x
+,
+y
+)
+
+
+)
+
+
+,
+i
+=
+1
+,
+2
+;
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{2}:z_{i}(x,y)={\mathcal {E}}_{i}(x,y)F_{i}{\big (}\varphi _{i}(x,y){\big )},i=1,2;}
+
+
+
+
+
+
+
+
+
+L
+
+
+
+x
+x
+
+
+3
+
+
+:
+
+z
+
+i
+
+
+(
+x
+,
+y
+)
+=
+
+
+
+E
+
+
+
+i
+
+
+(
+x
+,
+y
+)
+
+F
+
+i
+
+
+
+
+(
+
+
+φ
+(
+x
+,
+y
+)
+
+
+)
+
+
+,
+i
+=
+1
+,
+2.
+
+
+{\displaystyle {\mathcal {L}}_{xx}^{3}:z_{i}(x,y)={\mathcal {E}}_{i}(x,y)F_{i}{\big (}\varphi (x,y){\big )},i=1,2.}
+
+
+The 
+
+
+
+
+F
+
+i
+
+
+
+
+{\displaystyle F_{i}}
+
+ are undetermined functions of a single argument; 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+, 
+
+
+
+
+φ
+
+1
+
+
+
+
+{\displaystyle \varphi _{1}}
+
+ and 
+
+
+
+
+φ
+
+2
+
+
+
+
+{\displaystyle \varphi _{2}}
+
+ are rational in all arguments; 
+
+
+
+
+ψ
+
+1
+
+
+
+
+{\displaystyle \psi _{1}}
+
+ is assumed to exist. In general 
+
+
+
+
+φ
+
+1
+
+
+≠
+
+φ
+
+2
+
+
+
+
+{\displaystyle \varphi _{1}\neq \varphi _{2}}
+
+, they are determined by the coefficients 
+
+
+
+
+A
+
+1
+
+
+
+
+{\displaystyle A_{1}}
+
+, 
+
+
+
+
+A
+
+2
+
+
+
+
+{\displaystyle A_{2}}
+
+ and 
+
+
+
+
+A
+
+3
+
+
+
+
+{\displaystyle A_{3}}
+
+ of the given equation.
+A typical example of a linear pde where factorization applies is an equation that has been discussed by Forsyth ,[13] vol. VI, page 16,
+Example 5 (Forsyth 1906)} Consider the differential equation 
+
+
+
+
+z
+
+x
+x
+
+
+−
+
+z
+
+y
+y
+
+
++
+
+
+4
+
+x
++
+y
+
+
+
+
+z
+
+x
+
+
+=
+0
+
+
+{\displaystyle z_{xx}-z_{yy}+{\frac {4}{x+y}}z_{x}=0}
+
+. Upon factorization the representation
+
+
+
+
+L
+z
+≡
+
+l
+
+2
+
+
+
+l
+
+1
+
+
+z
+=
+
+
+(
+
+
+
+∂
+
+x
+
+
++
+
+∂
+
+y
+
+
++
+
+
+2
+
+x
++
+y
+
+
+
+
+
+)
+
+
+
+
+(
+
+
+
+∂
+
+x
+
+
+−
+
+∂
+
+y
+
+
++
+
+
+2
+
+x
++
+y
+
+
+
+
+
+)
+
+
+z
+=
+0
+
+
+{\displaystyle Lz\equiv l_{2}l_{1}z={\Big (}\partial _{x}+\partial _{y}+{\frac {2}{x+y}}{\Big )}{\Big (}\partial _{x}-\partial _{y}+{\frac {2}{x+y}}{\Big )}z=0}
+
+ is obtained. There follows
+
+
+
+
+
+φ
+
+1
+
+
+(
+x
+,
+y
+)
+=
+x
++
+y
+,
+
+ψ
+
+1
+
+
+(
+x
+,
+y
+)
+=
+
+
+
+y
+¯
+
+
+
+−
+x
+,
+
+
+
+E
+
+
+
+1
+
+
+(
+x
+,
+y
+)
+=
+exp
+⁡
+
+
+
+(
+
+
+
+
+
+2
+y
+
+
+x
++
+y
+
+
+
+
+
+)
+
+
+
+
+
+{\displaystyle \varphi _{1}(x,y)=x+y,\psi _{1}(x,y)={\bar {y}}-x,{\mathcal {E}}_{1}(x,y)=\exp {{\Big (}{\frac {2y}{x+y}}{\Big )}}}
+
+,
+
+
+
+
+
+φ
+
+2
+
+
+(
+x
+,
+y
+)
+=
+x
+−
+y
+,
+
+ψ
+
+2
+
+
+(
+x
+,
+y
+)
+=
+x
+−
+
+
+
+y
+¯
+
+
+
+,
+
+
+
+E
+
+
+
+2
+
+
+(
+x
+,
+y
+)
+=
+−
+
+
+1
+
+x
++
+y
+
+
+
+.
+
+
+{\displaystyle \varphi _{2}(x,y)=x-y,\psi _{2}(x,y)=x-{\bar {y}},{\mathcal {E}}_{2}(x,y)=-{\frac {1}{x+y}}.}
+
+
+Consequently, a differential fundamental system is
+
+
+
+
+
+z
+
+1
+
+
+(
+x
+,
+y
+)
+=
+exp
+⁡
+
+
+
+(
+
+
+
+
+
+2
+y
+
+
+x
++
+y
+
+
+
+
+
+)
+
+
+
+F
+(
+x
++
+y
+)
+,
+
+
+{\displaystyle z_{1}(x,y)=\exp {{\Big (}{\frac {2y}{x+y}}{\Big )}}F(x+y),}
+
+ 
+
+
+
+
+z
+
+2
+
+
+(
+x
+,
+y
+)
+=
+
+
+1
+
+x
++
+y
+
+
+
+exp
+⁡
+
+
+
+(
+
+
+
+
+
+2
+y
+
+
+x
++
+y
+
+
+
+
+
+)
+
+
+
+
+
+∫
+
+
+exp
+⁡
+
+
+
+(
+
+
+
+
+
+2
+x
+−
+
+
+
+y
+¯
+
+
+
+
+
+
+y
+¯
+
+
+
+
+
+
+)
+
+
+
+G
+(
+2
+x
+−
+
+
+
+y
+¯
+
+
+
+)
+d
+x
+
+
+
+|
+
+
+
+
+
+
+y
+¯
+
+
+
+=
+x
++
+y
+
+
+.
+
+
+{\displaystyle z_{2}(x,y)={\frac {1}{x+y}}\exp {{\Big (}{\frac {2y}{x+y}}{\Big )}}{\displaystyle \int }\exp {{\Big (}{\frac {2x-{\bar {y}}}{\bar {y}}}{\Big )}}G(2x-{\bar {y}})dx{\Big |}_{{\bar {y}}=x+y}.}
+
+
+
+
+
+
+F
+
+
+{\displaystyle F}
+
+ and 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ are undetermined functions.
+If the only second-order derivative of an operator is 
+
+
+
+
+∂
+
+x
+y
+
+
+
+
+{\displaystyle \partial _{xy}}
+
+, its possible decompositions involving only principal divisors may be described as follows.
+Theorem 3 Let the differential operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ be defined by
+
+
+
+
+L
+≡
+
+∂
+
+x
+y
+
+
++
+
+A
+
+1
+
+
+
+∂
+
+x
+
+
++
+
+A
+
+2
+
+
+
+∂
+
+y
+
+
++
+
+A
+
+3
+
+
+
+
+{\displaystyle L\equiv \partial _{xy}+A_{1}\partial _{x}+A_{2}\partial _{y}+A_{3}}
+
+ where 
+
+
+
+
+A
+
+i
+
+
+∈
+
+
+Q
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle A_{i}\in {\mathbb {Q} }(x,y)}
+
+ for all 
+
+
+
+i
+
+
+{\displaystyle i}
+
+.
+Let 
+
+
+
+l
+≡
+
+∂
+
+x
+
+
++
+
+A
+
+2
+
+
+
+
+{\displaystyle l\equiv \partial _{x}+A_{2}}
+
+ and 
+
+
+
+k
+≡
+
+∂
+
+y
+
+
++
+
+A
+
+1
+
+
+
+
+{\displaystyle k\equiv \partial _{y}+A_{1}}
+
+ are first-order operators. 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ has Loewy decompositions involving first-order principal divisors of the following form.
+
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+1
+
+
+:
+L
+=
+k
+l
+;
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{1}:L=kl;}
+
+   
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+2
+
+
+:
+L
+=
+l
+k
+;
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{2}:L=lk;}
+
+   
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+3
+
+
+:
+L
+=
+L
+c
+l
+m
+(
+k
+,
+l
+)
+.
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{3}:L=Lclm(k,l).}
+
+
+The decomposition type of an operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ is the decomposition 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+i
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{i}}
+
+ with highest value of 
+
+
+
+i
+
+
+{\displaystyle i}
+
+. The decomposition of type 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+3
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{3}}
+
+ is completely reducible
+In addition there are five more possible decomposition types involving non-principal Laplace divisors as shown next.
+Theorem 4 Let the differential operator 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ be defined by
+
+
+
+
+L
+≡
+
+∂
+
+x
+y
+
+
++
+
+A
+
+1
+
+
+
+∂
+
+x
+
+
++
+
+A
+
+2
+
+
+
+∂
+
+y
+
+
++
+
+A
+
+3
+
+
+
+
+{\displaystyle L\equiv \partial _{xy}+A_{1}\partial _{x}+A_{2}\partial _{y}+A_{3}}
+
+ where 
+
+
+
+
+A
+
+i
+
+
+∈
+
+
+Q
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle A_{i}\in {\mathbb {Q} }(x,y)}
+
+ for all 
+
+
+
+i
+
+
+{\displaystyle i}
+
+.
+
+
+
+
+
+
+L
+
+
+
+x
+
+m
+
+
+
+
+(
+L
+)
+
+
+{\displaystyle \mathbb {L} _{x^{m}}(L)}
+
+ and 
+
+
+
+
+
+L
+
+
+
+y
+
+n
+
+
+
+
+(
+L
+)
+
+
+{\displaystyle \mathbb {L} _{y^{n}}(L)}
+
+ as well as 
+
+
+
+
+
+
+l
+
+
+
+m
+
+
+
+
+{\displaystyle {\mathfrak {l}}_{m}}
+
+ and 
+
+
+
+
+
+
+k
+
+
+
+n
+
+
+
+
+{\displaystyle {\mathfrak {k}}_{n}}
+
+ are defined above; furthermore 
+
+
+
+l
+≡
+
+∂
+
+x
+
+
++
+a
+
+
+{\displaystyle l\equiv \partial _{x}+a}
+
+, 
+
+
+
+k
+≡
+
+∂
+
+y
+
+
++
+b
+
+
+{\displaystyle k\equiv \partial _{y}+b}
+
+, 
+
+
+
+a
+,
+b
+∈
+
+
+Q
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle a,b\in {\mathbb {Q} }(x,y)}
+
+. 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ has Loewy decompositions involving Laplace divisors according to one of the following types; 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ and 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ obey 
+
+
+
+m
+,
+n
+≥
+2
+
+
+{\displaystyle m,n\geq 2}
+
+.
+
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+4
+
+
+:
+L
+=
+L
+c
+l
+m
+
+
+(
+
+
+
+
+L
+
+
+
+x
+
+m
+
+
+
+
+(
+L
+)
+,
+
+
+L
+
+
+
+y
+
+n
+
+
+
+
+(
+L
+)
+
+
+)
+
+
+;
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{4}:L=Lclm{\big (}\mathbb {L} _{x^{m}}(L),\mathbb {L} _{y^{n}}(L){\big )};}
+
+
+
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+5
+
+
+:
+L
+=
+E
+x
+q
+u
+o
+
+
+(
+
+
+L
+,
+
+
+L
+
+
+
+x
+
+m
+
+
+
+
+(
+L
+)
+
+
+)
+
+
+
+
+L
+
+
+
+x
+
+m
+
+
+
+
+(
+L
+)
+=
+
+(
+
+
+
+
+1
+
+
+0
+
+
+
+
+0
+
+
+
+∂
+
+y
+
+
++
+
+A
+
+1
+
+
+
+
+
+
+)
+
+
+(
+
+
+
+
+L
+
+
+
+
+
+
+
+l
+
+
+
+m
+
+
+
+
+
+
+)
+
+;
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{5}:L=Exquo{\big (}L,\mathbb {L} _{x^{m}}(L){\big )}\mathbb {L} _{x^{m}}(L)=\left({\begin{array}{cc}1&0\\0&\partial _{y}+A_{1}\end{array}}\right)\left({\begin{array}{c}L\\{\mathfrak {l}}_{m}\end{array}}\right);}
+
+
+
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+6
+
+
+:
+L
+=
+E
+x
+q
+u
+o
+
+
+(
+
+
+L
+,
+
+
+L
+
+
+
+y
+
+n
+
+
+
+
+(
+L
+)
+
+
+)
+
+
+
+
+L
+
+
+
+y
+
+n
+
+
+
+
+(
+L
+)
+=
+
+(
+
+
+
+
+1
+
+
+0
+
+
+
+
+0
+
+
+
+∂
+
+x
+
+
++
+
+A
+
+2
+
+
+
+
+
+
+)
+
+
+(
+
+
+
+
+L
+
+
+
+
+
+
+
+k
+
+
+
+n
+
+
+
+
+
+
+)
+
+;
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{6}:L=Exquo{\big (}L,\mathbb {L} _{y^{n}}(L){\big )}\mathbb {L} _{y^{n}}(L)=\left({\begin{array}{cc}1&0\\0&\partial _{x}+A_{2}\end{array}}\right)\left({\begin{array}{c}L\\{\mathfrak {k}}_{n}\end{array}}\right);}
+
+
+
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+7
+
+
+:
+L
+=
+L
+c
+l
+m
+
+
+(
+
+
+k
+,
+
+
+L
+
+
+
+x
+
+m
+
+
+
+
+(
+L
+)
+
+
+)
+
+
+;
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{7}:L=Lclm{\big (}k,\mathbb {L} _{x^{m}}(L){\big )};}
+
+ 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+8
+
+
+:
+L
+=
+L
+c
+l
+m
+
+
+(
+
+
+l
+,
+
+
+L
+
+
+
+y
+
+n
+
+
+
+
+(
+L
+)
+
+
+)
+
+
+.
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{8}:L=Lclm{\big (}l,\mathbb {L} _{y^{n}}(L){\big )}.}
+
+
+If 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ does not have a first order right factor and it may be shown that a Laplace divisor does not exist its decomposition type is defined to be 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+0
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{0}}
+
+. The decompositions 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+0
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{0}}
+
+, 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+4
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{4}}
+
+, 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+7
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{7}}
+
+ and 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+8
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{8}}
+
+ are completely reducible.
+An equation that does not allow a decomposition involving principal divisors but is completely reducible w.r.t. non-principal Laplace divisors of type 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+4
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{4}}
+
+ has been considered by Forsyth.
+Example 6 (Forsyth 1906) Define
+
+
+
+
+L
+≡
+
+∂
+
+x
+y
+
+
++
+
+
+2
+
+x
+−
+y
+
+
+
+
+∂
+
+x
+
+
+−
+
+
+2
+
+x
+−
+y
+
+
+
+
+∂
+
+y
+
+
+−
+
+
+4
+
+(
+x
+−
+y
+
+)
+
+2
+
+
+
+
+
+
+
+{\displaystyle L\equiv \partial _{xy}+{\frac {2}{x-y}}\partial _{x}-{\frac {2}{x-y}}\partial _{y}-{\frac {4}{(x-y)^{2}}}}
+
+
+generating the principal ideal 
+
+
+
+⟨
+L
+⟩
+
+
+{\displaystyle \langle L\rangle }
+
+. A first-order factor does not exist. However, there are Laplace divisors
+
+
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            
+              x
+              
+                2
+              
+            
+          
+        
+        (
+        L
+        )
+        ≡
+        
+          
+            
+              ⟨
+            
+          
+          
+            
+              ⟨
+            
+          
+        
+        
+          ∂
+          
+            x
+            x
+          
+        
+        −
+        
+          
+            2
+            
+              x
+              −
+              y
+            
+          
+        
+        
+          ∂
+          
+            x
+          
+        
+        +
+        
+          
+            2
+            
+              (
+              x
+              −
+              y
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+        L
+        
+          
+            
+              ⟩
+            
+          
+          
+            
+              ⟩
+            
+          
+        
+      
+    
+    {\displaystyle {\mathbb {L} }_{x^{2}}(L)\equiv {{\Big \langle }{\Big \langle }}\partial _{xx}-{\frac {2}{x-y}}\partial _{x}+{\frac {2}{(x-y)^{2}}},L{{\Big \rangle }{\Big \rangle }}}
+  
+ and 
+  
+    
+      
+        
+          
+            
+              L
+            
+          
+          
+            
+              y
+              
+                2
+              
+            
+          
+        
+        (
+        L
+        )
+        ≡
+        
+          
+            
+              ⟨
+            
+          
+          
+            
+              ⟨
+            
+          
+        
+        L
+        ,
+        
+          ∂
+          
+            y
+            y
+          
+        
+        +
+        
+          
+            2
+            
+              x
+              −
+              y
+            
+          
+        
+        
+          ∂
+          
+            y
+          
+        
+        +
+        
+          
+            2
+            
+              (
+              x
+              −
+              y
+              
+                )
+                
+                  2
+                
+              
+            
+          
+        
+        
+          
+            
+              ⟩
+            
+          
+          
+            
+              ⟩
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {\mathbb {L} }_{y^{2}}(L)\equiv {{\Big \langle }{\Big \langle }}L,\partial _{yy}+{\frac {2}{x-y}}\partial _{y}+{\frac {2}{(x-y)^{2}}}{{\Big \rangle }{\Big \rangle }}.}
+  
+
+
+The ideal generated by 
+
+
+
+L
+
+
+{\displaystyle L}
+
+ has the representation 
+
+
+
+⟨
+L
+⟩
+=
+L
+c
+l
+m
+
+
+(
+
+
+
+
+
+L
+
+
+
+
+x
+
+2
+
+
+
+
+(
+L
+)
+,
+
+
+
+L
+
+
+
+
+y
+
+2
+
+
+
+
+(
+L
+)
+
+
+)
+
+
+
+
+{\displaystyle \langle L\rangle =Lclm{\big (}{\mathbb {L} }_{x^{2}}(L),{\mathbb {L} }_{y^{2}}(L){\big )}}
+
+, i.e. it is completely reducible; its decomposition type is 
+
+
+
+
+
+
+L
+
+
+
+x
+y
+
+
+4
+
+
+
+
+{\displaystyle {\mathcal {L}}_{xy}^{4}}
+
+. Therefore, the equation 
+
+
+
+L
+z
+=
+0
+
+
+{\displaystyle Lz=0}
+
+ has the differential fundamental system
+
+
+  
+    
+      
+        
+          z
+          
+            1
+          
+        
+        (
+        x
+        ,
+        y
+        )
+        =
+        2
+        (
+        x
+        −
+        y
+        )
+        F
+        (
+        y
+        )
+        +
+        (
+        x
+        −
+        y
+        
+          )
+          
+            2
+          
+        
+        
+          F
+          ′
+        
+        (
+        y
+        )
+      
+    
+    {\displaystyle z_{1}(x,y)=2(x-y)F(y)+(x-y)^{2}F'(y)}
+  
+ and 
+  
+    
+      
+        
+          z
+          
+            2
+          
+        
+        (
+        x
+        ,
+        y
+        )
+        =
+        2
+        (
+        y
+        −
+        x
+        )
+        G
+        (
+        x
+        )
+        +
+        (
+        y
+        −
+        x
+        
+          )
+          
+            2
+          
+        
+        
+          G
+          ′
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle z_{2}(x,y)=2(y-x)G(x)+(y-x)^{2}G'(x)}
+  
+.
+
+Decomposing linear pde's of order higher than 2[edit]
+It turns out that operators of higher order have more complicated decompositions and there are more alternatives, many of them in terms of non-principal divisors. The solutions of the corresponding equations get more complex. For equations of order three in the plane a fairly complete answer may be found in.[2] A typical example of a third-order equation that is also of historical interest is due to Blumberg .[14]
+Example 7 (Blumberg 1912) In his dissertation Blumberg considered the third order operator
+
+
+
+
+L
+≡
+
+∂
+
+x
+x
+x
+
+
++
+x
+
+∂
+
+x
+x
+y
+
+
++
+2
+
+∂
+
+x
+x
+
+
++
+2
+(
+x
++
+1
+)
+
+∂
+
+x
+y
+
+
++
+
+∂
+
+x
+
+
++
+(
+x
++
+2
+)
+
+∂
+
+y
+
+
+
+
+{\displaystyle L\equiv \partial _{xxx}+x\partial _{xxy}+2\partial _{xx}+2(x+1)\partial _{xy}+\partial _{x}+(x+2)\partial _{y}}
+
+.
+It allows the two first-order factors 
+
+
+
+
+l
+
+1
+
+
+≡
+
+∂
+
+x
+
+
++
+1
+
+
+{\displaystyle l_{1}\equiv \partial _{x}+1}
+
+ and 
+
+
+
+
+l
+
+2
+
+
+≡
+
+∂
+
+x
+
+
++
+x
+
+∂
+
+y
+
+
+
+
+{\displaystyle l_{2}\equiv \partial _{x}+x\partial _{y}}
+
+. Their intersection is not principal; defining
+
+
+
+
+
+L
+
+1
+
+
+≡
+
+∂
+
+x
+x
+x
+
+
+−
+
+x
+
+2
+
+
+
+∂
+
+x
+y
+y
+
+
++
+3
+
+∂
+
+x
+x
+
+
++
+(
+2
+x
++
+3
+)
+
+∂
+
+x
+y
+
+
+−
+
+x
+
+2
+
+
+
+∂
+
+y
+y
+
+
++
+2
+
+∂
+
+x
+
+
++
+(
+2
+x
++
+3
+)
+
+∂
+
+y
+
+
+
+
+{\displaystyle L_{1}\equiv \partial _{xxx}-x^{2}\partial _{xyy}+3\partial _{xx}+(2x+3)\partial _{xy}-x^{2}\partial _{yy}+2\partial _{x}+(2x+3)\partial _{y}}
+
+
+
+
+
+
+
+L
+
+2
+
+
+≡
+
+∂
+
+x
+x
+y
+
+
++
+x
+
+∂
+
+x
+y
+y
+
+
+−
+
+
+1
+x
+
+
+
+∂
+
+x
+x
+
+
+−
+
+
+1
+x
+
+
+
+∂
+
+x
+y
+
+
++
+x
+
+∂
+
+y
+
+
+y
+−
+
+
+1
+x
+
+
+
+∂
+
+x
+
+
+−
+
+
+(
+
+
+1
++
+
+
+1
+x
+
+
+
+
+)
+
+
+
+∂
+
+y
+
+
+
+
+
+⟩
+
+
+
+
+⟩
+
+
+
+.
+
+
+{\displaystyle L_{2}\equiv \partial _{xxy}+x\partial _{xyy}-{\frac {1}{x}}\partial _{xx}-{\frac {1}{x}}\partial _{xy}+x\partial _{y}y-{\frac {1}{x}}\partial _{x}-{\big (}1+{\frac {1}{x}}{\big )}\partial _{y}{{\big \rangle }{\big \rangle }}.}
+
+
+it may be written as 
+
+
+
+L
+c
+l
+m
+(
+
+l
+
+2
+
+
+,
+
+l
+
+1
+
+
+)
+=
+
+⟨
+⟨
+
+
+L
+
+1
+
+
+,
+
+L
+
+2
+
+
+
+⟩
+⟩
+
+
+
+{\displaystyle Lclm(l_{2},l_{1})={\langle \langle }L_{1},L_{2}{\rangle \rangle }}
+
+. Consequently, the Loewy decomposition of Blumbergs's operator is
+
+
+
+
+L
+=
+
+(
+
+
+
+
+1
+
+
+x
+
+
+
+
+0
+
+
+
+∂
+
+x
+
+
++
+1
++
+
+
+1
+x
+
+
+
+
+
+
+)
+
+
+(
+
+
+
+
+
+L
+
+1
+
+
+
+
+
+
+
+L
+
+2
+
+
+
+
+
+
+)
+
+.
+
+
+{\displaystyle L=\left({\begin{array}{cc}1&x\\0&\partial _{x}+1+{\frac {1}{x}}\end{array}}\right)\left({\begin{array}{c}L_{1}\\L_{2}\end{array}}\right).}
+
+
+It yields the following differential fundamental system for the differential equation 
+
+
+
+L
+z
+=
+0
+
+
+{\displaystyle Lz=0}
+
+.
+
+
+
+
+
+z
+
+1
+
+
+(
+x
+,
+y
+)
+=
+F
+(
+y
+−
+
+
+1
+2
+
+
+
+x
+
+2
+
+
+)
+
+
+{\displaystyle z_{1}(x,y)=F(y-{\frac {1}{2}}x^{2})}
+
+,  
+
+
+
+
+z
+
+2
+
+
+(
+x
+,
+y
+)
+=
+G
+(
+y
+)
+
+e
+
+−
+x
+
+
+
+
+{\displaystyle z_{2}(x,y)=G(y)e^{-x}}
+
+,   
+
+
+
+
+z
+
+3
+
+
+(
+x
+,
+y
+)
+=
+
+
+∫
+
+
+x
+
+e
+
+−
+x
+
+
+H
+
+
+(
+
+
+
+
+
+y
+¯
+
+
+
++
+
+
+1
+2
+
+
+
+x
+
+2
+
+
+
+
+)
+
+
+d
+x
+
+
+
+|
+
+
+
+
+
+
+y
+¯
+
+
+
+=
+y
+−
+
+
+1
+2
+
+
+
+x
+
+2
+
+
+
+
+
+
+{\displaystyle z_{3}(x,y)={\displaystyle \int }xe^{-x}H{\big (}{\bar {y}}+{\frac {1}{2}}x^{2}{\big )}dx{\Big |}_{{\bar {y}}=y-{\frac {1}{2}}x^{2}}}
+
+
+
+
+
+
+F
+,
+G
+
+
+{\displaystyle F,G}
+
+ and 
+
+
+
+H
+
+
+{\displaystyle H}
+
+ are an undetermined functions.
+Factorizations and Loewy decompositions turned out to be an extremely useful method for determining solutions of linear differential equations in closed form, both for ordinary and partial equations. It should be possible to generalize these methods to equations of higher order, equations in more variables and system of differential equations.
+References[edit]
+
+
+^ a b Loewy, A. (1906). "Über vollständig reduzible lineare homogene Differentialgleichungen". Mathematische Annalen. 62: 89–117. doi:10.1007/bf01448417. 
+^ a b c d , F.Schwarz, Loewy Decomposition of Linear Differential Equations, Springer, 2012
+^ a b Schwarz, F. (2013). "Loewy Decomposition of linear Differential Equations". Bulletin of Mathematical Sciences. 3: 19–71. doi:10.1007/s13373-012-0026-7. 
+^ E. Kamke, Differentialgleichungen I. Gewoehnliche Differentialgleichungen, Akademische Verlagsgesellschaft, Leipzig, 1964
+^ M. van der Put, M.Singer, Galois theory of linear differential equations}, Grundlehren der Math. Wiss. 328, Springer, 2003
+^ M.Bronstein, S.Lafaille, Solutions of linear ordinary differential equations in terms of special functions, Proceedings of the 2002 International Symposium on Symbolic and Algebraic Computation; T.Mora, ed., ACM, New York, 2002, pp. 23–28
+^ F. Schwarz, Algorithmic Lie Theory for Solving Ordinary Differential Equations, CRC Press, 2007, page 39
+^ Janet, M. (1920). "Les systemes d'equations aux derivees partielles". Journal de mathematiques. 83: 65–123. 
+^ Janet Bases for Symmetry Groups, in: Gröbner Bases and Applications Lecture Notes Series 251, London Mathematical Society, 1998, pages 221–234, B. Buchberger and F. Winkler, Edts.
+^ Buchberger, B. (1970). "Ein algorithmisches Kriterium fuer die Loesbarkeit eines algebraischen Gleichungssystems". Aequ. Math. 4: 374–383. doi:10.1007/bf01844169. 
+^ E. Darboux, Leçons sur la théorie générale des surfaces, vol. II, Chelsea Publishing Company, New York, 1972
+^ Édouard Goursat, Leçon sur l'intégration des équations aux dérivées partielles, vol. I and II, A. Hermann, Paris, 1898
+^ A.R.Forsyth, Theory of Differential Equations, vol. I,...,VI, Cambridge, At the University Press, 1906
+^ H.Blumberg, Ueber algebraische Eigenschaften von linearen homogenen Differentialausdruecken, Inaugural-Dissertation, Goettingen, 1912
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Loewy_decomposition&oldid=807165402"					
+Categories: Differential equationsHidden categories: Articles with too few wikilinks from December 2013All articles with too few wikilinksArticles covered by WikiProject Wikify from December 2013All articles covered by WikiProject Wikify 

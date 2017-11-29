@@ -1,0 +1,115 @@
+Vieta jumping - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In number theory, Vieta jumping, also known as root flipping, is a proof technique. It is most often used for problems in which a relation between two positive integers is given, along with a statement to prove about its solutions. There are multiple methods of Vieta jumping, all of which involve the common theme of infinite descent by finding new solutions to an equation using Vieta's formulas.
+
+
+
+Contents
+
+
+1 History
+2 Standard Vieta jumping
+3 Constant descent Vieta jumping
+4 Geometric interpretation
+5 See also
+6 Notes
+7 External links
+
+
+
+History[edit]
+Vieta jumping is a relatively new technique in solving mathematical olympiad problems, as the first olympiad problem to use it in a solution was proposed in 1988 for the International Mathematics Olympiad and assumed to be the most difficult problem on the contest.[1] Arthur Engel wrote the following about the problem difficulty:
+
+Nobody of the six members of the Australian problem committee could solve it. Two of the members were husband and wife George and Esther Szekeres, both famous problem solvers and problem creators. Since it was a number theoretic problem it was sent to the four most renowned Australian number theorists. They were asked to work on it for six hours. None of them could solve it in this time. The problem committee submitted it to the jury of the XXIX IMO marked with a double asterisk, which meant a superhard problem, possibly too hard to pose. After a long discussion, the jury finally had the courage to choose it as the last problem of the competition. Eleven students gave perfect solutions.
+
+Among the eleven students receiving the maximum score for solving this problem were future Fields-medallist Ngô Bảo Châu, Stanford math professor Ravi Vakil, and Mills College professor Zvezdelina Stankova.[2]
+Standard Vieta jumping[edit]
+The concept of standard Vieta jumping is a proof by contradiction, and consists of the following three steps:[3]
+
+It is assumed for contradiction that solutions to the given relation exist that do not satisfy the statement we wish to prove.
+The minimal solution (A, B) with respect to some function of A and B, usually A + B, is taken. The equation is then rearranged into a quadratic with coefficients in terms of B, one of whose roots is A, and Vieta's formulas are used to determine the other root to the quadratic.
+It is shown that the other root gives a solution that is both valid and smaller, by our previously determined definition, thus disproving the minimality of the solution (A, B) and contradicting the existence of a solution for which the conclusion is false.
+
+
+Example
+
+Problem #6 at IMO 1988: Let a and b be positive integers such that ab + 1 divides a2 + b2. Prove that a2 + b2/ab + 1 is a perfect square.[4][5]
+
+Let k = a2 + b2/ab + 1. We assume that there exist one or more solutions to the given condition for which k is not a perfect square.
+For a given value of k, let (A, B) be the solution to this equation that minimizes the value of A + B and without loss of generality A ≥ B. We can rearrange the equation and replace A with a variable x to yield x2 – (kB)x + (B2 – k) = 0. One root of this equation is x1 = A. By Vieta's formulas, the other root may be expressed in the following two ways: x2 = kB – A and x2 = B2 – k/A.
+The first expression for x2 shows that x2 is an integer, while the second expression implies that x2 ≠ 0 since k is not a perfect square. From x22 + B2/x2B + 1 = k > 0 it further follows that x2 is positive. Finally, A ≥ B implies that x2 = B2 − k/A < A and thus x2 + B < A + B, which contradicts the minimality of (A, B).
+
+Constant descent Vieta jumping[edit]
+The method of constant descent Vieta jumping is used when we wish to prove a statement regarding a constant k having something to do with the relation between a and b. Unlike standard Vieta jumping, constant descent is not a proof by contradiction, and it consists of the following four steps:[6]
+
+The equality case is proven so that it may be assumed that a > b.
+b and k are fixed and the expression relating a, b, and k is rearranged to form a quadratic with coefficients in terms of b and k, one of whose roots is a. The other root, x2 is determined using Vieta's formulas.
+It is shown that for all (a, b) above a certain base case, 0 < x2 < b < a and that x2 is an integer. Thus we may replace (a, b) with (b, x2) and repeat this process until we arrive at the base case.
+The statement is proven for the base case, and as k has remained constant through this process, this is sufficient to prove the statement for all ordered pairs.
+
+
+Example
+
+Let a and b be positive integers such that ab divides a2 + b2 + 1. Prove that 3ab= a2 + b2 + 1.[7]
+
+If a = b, a2 must divide 2a2 + 1 and thus a = b = 1 and 3(1)(1) = 12 + 12 + 1. So, without loss of generality, assume that a > b.
+Let k = a2 + b2 + 1/ab and rearrange and substitute to get x2 − (kb)x + (b2 + 1) = 0. One root to this quadratic is a, so by Vieta's formulas the other root may be written as follows: x2 = kb − a = b2 + 1/a.
+The first equation shows that x2 is an integer and the second that it is positive. Because a > b, x2 = b2 + 1/a < b as long as b > 1.
+The base case we arrive at is the case where b = 1. For this to satisfy the given condition, a must divide a2 + 2, making a either 1 or 2. The first case is eliminated because a ≠ b. In the second case, k = a2 + b2 + 1/ab = 6/2 = 3. As k has remained constant throughout this process, this is sufficient to show that k will always equal 3.
+
+Geometric interpretation[edit]
+Vieta jumping can be described in terms of lattice points on hyperbolas in the first quadrant.[1] The same process of finding smaller roots is used instead to find lower lattice points on a hyperbola while remaining in the first quadrant. The procedure is as follows:
+
+From the given condition we obtain the equation of a family of hyperbolas that are unchanged by switching x and y so that they are symmetric about the line y = x.
+Prove the desired statement for the intersections of the hyperbolas and the line y = x.
+Assume there is some lattice point (x, y) on some hyperbola and without loss of generality x < y. Then by Vieta's formulas, there is a corresponding lattice point with the same x-coordinate on the other branch of the hyperbola, and by reflection through y = x a new point on the original branch of the hyperbola is obtained.
+It is shown that this process produces lower points on the same branch and can be repeated until some condition (such as x = 0) is achieved. Then by substitution of this condition into the equation of the hyperbola, the desired conclusion will be proven.
+
+
+Example
+
+This method can be applied to problem #6 at IMO 1988: Let a and b be positive integers such that ab + 1 divides a2 + b2. Prove that a2 + b2/ab + 1 is a perfect square.
+
+Let a2 + b2/ab + 1 = q and fix the value of q. Then (a,b) represents a lattice point on the hyperbola H defined by the equation x2 + y2 − qxy − q = 0.
+If x = y then we find x = y = q = 1, which trivially satisfies the statement.
+Let (x, y) be a lattice point on a branch H, and assume x < y so that it is on the higher branch. By applying Vieta's Formulas, (x, qx − y) is a lattice point on the lower branch of H. Then, by reflection (qx − y, x) is a lattice point on the original branch. This new point has smaller y-coordinate, and thus is below the original point. Since this point is on the upper branch, it is still above y = x.
+This process can be repeated. From the equation of H, it is not possible for this process to move into the second quadrant. Thus, this process must terminate at x = 0 and by substitution, q = y2 is a square as required.
+
+See also[edit]
+
+Vieta's formulas
+Proof by contradiction
+Infinite descent
+Markov number
+Apollonian gasket
+
+Notes[edit]
+
+
+
+^ a b Arthur Engel (1998). Problem Solving Strategies. Springer. p. 127. doi:10.1007/b97682. ISBN 978-0-387-98219-9. 
+^ "Results of International Mathematical Olympiad 1988". Imo-official.org. Retrieved 2013-03-03. 
+^ Yimin Ge (2007). "The Method of Vieta Jumping" (PDF). Mathematical Reflections. 5. 
+^ "AoPS Forum – One of my favourites problems, yeah!". Artofproblemsolving.com. Retrieved 2013-03-03. 
+^ K. S. Brown. "N = (x^2 + y^2)/(1+xy) is a Square". MathPages.com. Retrieved 2016-09-26. 
+^ "AoPS Forum — Lemur Numbers". Artofproblemsolving.com. Retrieved 2013-03-03. 
+^ "AoPS Forum – x*y | x^2+y^2+1". ArtOfProblemSolving.com. 2005-06-07. Retrieved 2013-03-03. 
+
+
+
+External links[edit]
+
+Vieta Root Jumping at Brilliant.org
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Vieta_jumping&oldid=807003904"					
+Categories: Number theoryDiophantine equations 

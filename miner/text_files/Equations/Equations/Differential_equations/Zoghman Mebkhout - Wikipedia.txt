@@ -1,0 +1,64 @@
+Zoghman Mebkhout - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Zoghman Mebkhout at ICM 2006 Satellite Conference Algebraic Geometry, Segovia.
+
+
+Zoghman Mebkhout (born 1949[1] ) (مبخوت زغمان) is a French-Algerian mathematician known for his work in algebraic analysis, geometry, and representation theory, more precisely on the theory of D-modules.
+Zoghman is one of the first modern international-caliber North-African mathematicians, a symposium in Spain having been held on his sixtieth birthday, he was also invited to the Institute for Advanced Study on two occasions.
+Alexander Grothendieck writes on page 106 of "Récoltes et Sémailles":[2]
+
+La "version Mebkhout" dont j’ai voulu me faire l’interprète, me semble consister pour l’essentiel en les deux thèses que voici: 1. Entre 1972 et 1979, Mebkhout aurait été seul, dans l’indifférence générale et en s’inspirant de mon oeuvre, à développer la "philosophie des D -Modules", en tant que nouvelle théorie des "coefficients cohomologiques" en mon sens. 2. Il y aurait eu un consensus unanime, tant en France qu’au niveau international, pour escamoter son nom et son rôle dans cette théorie nouvelle, une fois que sa portée a commencé à être reconnue. [...] Je viens d’avoir connaissance de plusieurs faits nouveaux, qui montrent qu’il y a lieu de nuancer fortement le point 1 ci-dessus.
+
+Grothendieck says that Mebkhout's name was hidden and his role neglected for a theory Zoghman was the first to develop.
+Zoghman Mebkhout is currently a research director at the French National Centre for Scientific Research.[3] In 2002 Zoghman received the Servant Medal from the CNRS.
+Notable works[edit]
+Zoghman Mebkhout proved in September 1979 the Riemann–Hilbert correspondence,[4] which is a generalization of Hilbert's twenty-first problem to higher dimensions. The original setting was for Riemann surfaces, where it was about the existence of regular differential equations with prescribed monodromy groups. In higher dimensions, Riemann surfaces are replaced by complex manifolds of dimension > 1, and there is a correspondence between certain systems of partial differential equations (linear and having very special properties for their solutions) and possible monodromies of their solutions. See http://adsabs.harvard.edu/abs/1980LNP...126...90M The result was also proved independently by Masaki Kashiwara 8 months later in April 1980. See "Faisceaux constructibles et systemes holonomes d'équations aux derivées partielles linéaires à points singuliers réguliers Se. Goulaouic-Schwartz, 1979–80, Exp. 19. [5]
+Zoghman is now largely known as a specialist in D-modules theory.[2]
+References[edit]
+
+
+
+^ Conference on D-modules in Honor of Zoghman Mebkhout´s 60th Birthday. January 26–29, 2009. Seville (Spain)
+^ a b Alexander Grothendieck, "Récoltes et sémailles, Réflexions et témoignage sur un passé de mathématicien." Archived October 13, 2013, at the Wayback Machine.
+^ Institut de mathématiques de Jussieu[permanent dead link]
+^ Z. Mebkhout, Sur le probleme de Hilbert–Riemann, Lecture notes in physics 129 (1980) 99–110.
+^ M. Kashiwara
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 215990332
+LCCN: nr89015535
+ISNI: 0000 0000 8132 551X
+SUDOC: 029807077
+BNF: cb12135461r (data)
+MGP: 95814
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Zoghman_Mebkhout&oldid=811683848"					
+Categories: Differential equationsRepresentation theory1949 birthsAlgerian mathematiciansLiving peopleHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from July 2016Articles with permanently dead external linksWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with BNF identifiers 

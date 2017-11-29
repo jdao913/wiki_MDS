@@ -1,0 +1,420 @@
+Must-carry - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In cable television, governments apply a must-carry regulation stating that locally licensed television stations must be carried on a cable provider's system.
+
+
+
+Contents
+
+
+1 North America
+
+1.1 Canada
+1.2 United States
+
+1.2.1 Applicability
+1.2.2 Digital must-carry
+1.2.3 Other networks
+1.2.4 Retransmission consent
+1.2.5 See also
+
+
+1.3 Mexico
+
+1.3.1 Applicability
+1.3.2 Reactions and conflicts
+
+
+
+
+2 Europe
+
+2.1 Czech Republic
+2.2 Ireland
+2.3 Netherlands
+
+
+3 Asia
+
+3.1 India
+3.2 Philippines
+3.3 Thailand
+
+
+4 References
+5 External links
+
+
+
+North America[edit]
+Canada[edit]
+See also: 9(1)(h) order
+In the mid-to-late 1970s, the Canadian Radio-television and Telecommunications Commission (CRTC) implemented a rule that a cable system must carry a broadcast television station at no cost to the broadcaster so long as the transmitter emitted an equivalent isotropically radiated power of at least 5 watts. This CRTC rule may have changed over the years, but in principle, a broadcast television station transmitting at 1 kW EIRP must be carried. The status of terrestrial digital only channels with respect to the must-carry requirement is untested as, unlike the U.S., some television stations in Canada did not operate digital signals until the August 2011 and the digital broadcasters that were active prior to then were merely high definition simulcasts of those stations' existing analog signals in major centres such as Toronto and Vancouver with no additional digital subchannels offered due to broadcasters opting not to carry any due to CRTC rules that require subchannels to be licensed separately.
+CITY-TV in Toronto (according to its own website and annual reports) owes its financial success as an independent station to this CRTC must-carry rule. It is assumed that this must-carry rule was aimed at smaller television stations in Ontario and Quebec, many of which are not carried by satellite television providers.
+For many years, the Canadian must-carry rules created very little friction between terrestrial broadcasters and cable systems, as providers are allowed to more aggressively implement other digital telecommunications services (like cable internet services and IP telephony) with less overall regulation than their U.S. counterparts. However, in 2008, Canada's two largest commercial television networks, CTV and Global, began to demand that the CRTC permit them to charge a fee for cable carriage, even alleging that some smaller market stations would be forced to cease operations if this was not allowed.
+In regards to cable channels, services which are licensed as Category A networks must be distributed (though not necessarily as part of the basic service) by all digital television service providers which have the capability to do so.
+United States[edit]
+In the United States, the Federal Communications Commission (FCC) regulates this area of business and public policy pursuant to 47 U.S.C. Part II.[1] These rules were upheld in a 5-4 decision by the Supreme Court of the United States in 1997 in the case Turner Broadcasting v. FCC (95-992).
+Although cable television service providers routinely carried local affiliates of the major broadcast networks, independent stations and affiliates of minor networks were sometimes not carried, on the premise it would allow cable providers to instead carry non-local programming which they believed would attract more customers to their service.
+Many cable operators were also equity owners in these cable channels, especially Tele-Communications, Inc., then the nation's largest multiple system operator (MSO), and had moved to replace local channels with equity-owned programming (at the time, TCI held a large stake in Discovery Communications). This pressure was especially strong on cable systems with limited bandwidth for channels.
+The smaller local broadcasters argued that by hampering their access to this increasing segment of the local television audience, this posed a threat to the viability of free-to-view broadcast television, which they argued was a worthy public good.
+Local broadcast stations also argued cable systems were attempting to serve as a "gatekeeper" in competing unfairly for advertising revenue. Some affiliates of major networks also feared that non-local affiliates might negotiate to provide television programming to local cable services to expand their advertising market, taking away this audience from local stations, with similar adverse impact on free broadcast television.
+Although cable providers argued that such regulation would impose an undue burden on their flexibility in selecting which services would be most appealing to their customers, the current "must-carry" rules were enacted by the United States Congress in 1992 (via the Cable Television Protection and Competition Act), and the U.S. Supreme Court upheld the rules in rejecting the arguments of the cable industry and programmers in the majority decision authored by Justice Anthony Kennedy. That decision also held that MSOs were functioning as a vertically integrated monopoly.
+A side effect of the must-carry rules is that a broadcast station cannot charge a cable television provider license fees for the program content retransmitted on the cable network under the rule. But note that must-carry is an option of the station and the station may, in lieu of must-carry, negotiate license fees as part of a retransmission consent agreement.
+Applicability[edit]
+There are a few exceptions to must-carry, most notably:
+
+Must-carry is the default assumption even if a station does not make a formal request [see US Code Title 47, Section 76.64(f)3 ].
+Must-carry may be applied only if the television station does not want to be carried under the retransmission consent provisions. This applies only to non-commercial educational (NCE) stations. Station operators are allowed to demand payment from cable operators, or negotiate private agreements for carriage, or threaten revocation against the cable operator (see Sinclair, Time Warner Cable). Must-carry is a privilege given to television stations, not a cable company. A cable company cannot use must-carry to demand the right to carry an over-the-air station against the station's wishes.
+A station is not entitled to distribution under must-carry legislation until a certain time after it provides usable signal to the headend for the cable or satellite provider; the station must pay the expense of leased lines to reach providers such as Colorado-based Dish Network or California-based DirecTV.
+Foreign signals, such as Windsor, Ontario stations CBET-DT and CICO, or McAllen, Texas's CW affiliate (XHRIO-TV), are not required to be carried, but are often carried on border-area cable systems close to the foreign stations.
+Most low-power broadcast stations are not required to be carried, although often in these cases they are bundled to be carried as part of a retransmission consent agreement with a full-power sister station.
+
+Digital must-carry[edit]
+Digital must-carry (also incorrectly called "dual must-carry") is the requirement that cable companies carry either the analog (over a hybrid analog/digital cable system) or digital (over a digital-only pay television system like AT&T U-verse or Verizon FiOS) signal. They must still meet the every-subscriber/television receiver laws, i.e. "Pursuant to Section 614(b)(7) and 615(h), the operator of a cable system is required to ensure that signals carried in fulfillment of the must-carry requirements are provided to EVERY subscriber of the system,” of local stations. This has been opposed by numerous cable networks, which might be bumped off of digital cable were this to happen, and promoted by television stations and the National Association of Broadcasters, whom it would benefit by passing their high definition or digital multicast signals through to their cable viewers.[citation needed] In June 2006, the FCC was poised to pass new digital must-carry rules, but the item was pulled before a vote actually took place, apparently due to insufficient support for the chairman's position.[citation needed]
+In September 2007, the Commission approved a regulation that requires cable systems to carry the analog signals if the cable system uses both types of transmission. The FCC left the decision to also retransmit the digital signal up to the cable provider. Digital-only operators are not required to provide an analog signal for their customers (AT&T U-verse, Verizon FiOS). Small cable operators were allowed to request a waiver. The regulation ended three years after the date of the digital television transition (which occurred on June 12, 2009), and applies only to stations not opting for retransmission consent.
+Cable operators (analog and digital) that transmit more than 12 channels need only provide a maximum 1/3 of their total channel size to this must-carry requirement. Thus with about 150 channels available to a 1 GHz operator, they are only required to support up to 50 analog channels (42 for 850 MHz, 36 for 750 MHz). Cable providers that decide to scale back their analog selection merely need provide written notification on their bill (or equivalent) for 30 days prior to their change. Customers already using digital cable set-top boxes will usually be unaffected (if anything after the change, they may get a large number of additional channels because each analog channel can be replaced by 2-51 digital channels). The requirement only applies to must-carry stations; most metro providers carry many more analog stations by choice, not law.
+Other networks[edit]
+A variation of "must-carry" also applies to DBS services like DirecTV and Dish Network, as first mandated by the Satellite Home Viewer Act. These providers are not required to carry local stations in every metropolitan area in which they provide service, but must carry all of an area's local stations if they carry any at all. Sometimes, these will be placed on spot beams: narrowly directed satellite signals targeted to an area of no more than a few hundred miles diameter, in order to allow the transponder frequencies to be re-used in other markets. In some cases, stations of lower perceived importance are placed on "side satellites" which require a second antenna. This practice has raised some controversy within the industry, leading to the requirement that the satellite provider offer to install any extra dish antenna hardware for free and place a notice to this effect in place of any missing channels.
+Retransmission consent[edit]
+Main article: Retransmission consent
+If a broadcaster elects retransmission consent, there is no obligation for the cable system to carry the signal.[2] This option allows broadcasters who own stations, including those affiliated with major networks such as CBS, NBC and ABC or Fox to request cash or other compensation from cable or satellite providers for signals. These networks have usually attempted to gain further distribution of cable services and/or co-owned low-power television stations in which they also hold an equity position rather than direct cash compensation, which cable systems have almost universally balked at paying. In some cases, these channels have been temporarily removed from distribution by systems who felt broadcasters were asking too steep a price for their signal. Examples include the removal of all CBS-owned local stations as well as MTV, VH1 and Nickelodeon from Dish Network for two days in 2004, the removal of ABC-owned stations from Time Warner Cable for a little under a day in 2000, and the removal of all Hearst Television local stations from Time Warner for more than a week in 2012.[3]
+In August 2013, Time Warner Cable and CBS Corporation reached an impasse in negotiations over retransmission fees, forcing a one-month blackout of CBS-owned broadcast and cable networks similar to the 2004 Dish Network blackout. It was the longest such blackout to date, and has produced calls for Congress to revisit the issue of retransmission consent. TWC had offered affected customers a $20 credit on their bill for the inconvenience, but the blackout caused at least one class-action lawsuit against the cable operator, and others are pending.[4]
+In the U.S., retransmission consent has often been chosen over must-carry by the major commercial television networks.[citation needed] Under the present rules, a new agreement is negotiated every three years, and stations must choose must-carry or retransmission consent for each cable system they wish their signal to be carried on. Non-commercial stations (such as local PBS stations) may not seek retransmission consent and may only invoke must-carry status.[5]
+See also[edit]
+
+Significantly viewed
+
+Mexico[edit]
+See also: Federal Telecommunications Institute
+Before 2013, there was no regulation on the obligation to offer national network signals in pay TV companies. The scheme used consisted of allowing free negotiation between the operators of open television and restricted television. Open-TV companies (Televisa and TV Azteca) had been negotiating with pay-TV companies to offer their television signals on national networks. However, the national network channels were offered together, and without option, alongside restricted TV channels. In addition, regional and local channels were not broadcast on restricted TV companies except individual agreements. This caused that few companies had the same channels in all the cities where they operated. This mechanism was designed considering that, in the event of anti-competitive situations, the competent authority would intervene to correct and punish anticompetitive misconduct and conduct.
+On March 22, 2013, the Mexican government announced a series of reforms to Mexican television broadcasting laws. The constitutional reform incorporated the must-carry and must-offer figures, consisting of the obligation of "Paid television" providers to retransmit the "Open TV" (Free-to-air channels) signals and the latter, to make available such signal, free of charge.
+Applicability[edit]
+According to Telecommunications and Broadcasting Federal Law (in Spanish, “Ley Federal de Telecomunicaciones y Radiodifusión”), this is the list of restrictions and rules about must-carry; being the next:
+
+Las Estrellas (The Stars), Channel 5 of Mexico, Azteca 7 and Azteca 13 had their own national coverage beyond 50%; so the channel signals must be carry without conditions or restrictions.
+The elements declared preponderant economic agent will not be able to accede to the rule of gratuitousness; and they will not even be able to recover it as an additional cost.
+In the scenario where there are two channels of the same television signal, it must be transmitted the most favorable to the population where it transmits.
+The restricted Television Dealers must block content from live public events that are not broadcast by the Open-TV enterprise.
+The retransmission of the broadcast signals shall be made to the highest possible quality and may not be advertised in such a way as to generate a false and artificial advantage in the signals.
+The channels that are broadcast by multitasking must be also carry and offer, considering the most-view channels.
+The Free-charge and agreement would end when there were conditions of competition in restricted television; which would renegotiate the price. The institute would determine the price if there was no consensus between involved parts.
+The elements declared preponderant economic agent will not be able to accede to broadcast more than 50% of the broadcast channels in the city where are assigned.
+The payment for royalties of copyright on television channels should not involve additional costs for pay-TV consumers.
+The open television signals to be retransmitted are placed together in the pay television services at the beginning of the programming channel alignment. Pay television companies must accommodate the channels respecting the order and numerical identity in terms of the allocation of broadcast television virtual channels.
+The Pay television companies must to order in the referred form the broadcast signals of stations that have not obtained authorization to multiprogram, As well as multiprogrammed broadcast signals with a larger audience, regardless of the secondary number with which they count.
+
+Reactions and conflicts[edit]
+This new law provoked complaints from television companies TV Azteca and Televisa, who argued copyright infringement and royalties for the transmission of channels. In addition, Televisa requested a right of amparo to declare that the Institute did not have constitutional power to decide on the television channels. This controversy was solved when the President of Mexico announced the filing of a constitutional controversy before the Supreme Court, to reaffirm the regulatory powers of the Institute; Which gave him legal and judicial power to make decisions on the matter.
+The same Telecommunications and Broadcasting Federal Law (in Spanish, “Ley Federal de Telecomunicaciones y Radiodifusión”) also declared every TV Channel broadcast in the zone must be offered by the Cable TV enterprises, according to the city or state where works in free of charge.
+Europe[edit]
+Czech Republic[edit]
+In the Czech Republic, all television stations that have a terrestrial licence (analog or digital) are required to be placed in the lowest (cheapest) offer of all cable, IPTV and satellite companies.
+Must-carry regulations is applied to:
+
+All channels of Czech Television - ČT1, ČT2, ČT24 and ČT4 (sport)
+All channels of TV Prima - Prima, Prima Cool and R1 TV
+Two of three channels of TV Nova - Nova and Nova Cinema
+New digital television stations - TV Barrandov and Z1
+Future television stations TV7 (regional news) and RTA (regional television)
+Carriage of TV Pohoda and Febio TV was also mandated by must-carry regulations; however, as investments for these channels were pulled, these channels never commenced broadcasting.
+
+Ireland[edit]
+In Ireland, cable, multichannel multipoint distribution services and satellite providers have Comreg regulated "must-carry" stations. For cable companies, this covers RTÉ One, RTÉ Two, TV3 and TG4.
+The same rules apply to digital MMDS systems. Analogue MMDS companies are required to carry only TV3 due to serious bandwidth limitations.
+Netherlands[edit]
+
+NPO 1
+NPO 2
+NPO 3
+Eén (Flanders (Belgium))
+Canvas (Flanders (Belgium))
+Ketnet (Flanders (Belgium))
+Regional (provincial) broadcasters (when available)
+Local broadcaster (when available)
+
+Asia[edit]
+India[edit]
+The Indian government has applied a must-carry rule for public broadcaster channels from Doordarshan by Cable, DTH and IPTV network. Cable TV operators must offer National (DD1), DD News, Loksabha, Rajyasabha and Regional channels to all subscribers. In addition, DD Bharti and DD Urdu must also be carried in their appropriate tiers.
+Philippines[edit]
+The National Telecommunications Commission (NTC) requires pay-TV operators to carry licensed free-to-air stations on their all their packages. The rule particularly forbids pay-TV operators from excluding such stations to places which ordinarily cannot receive a decent broadcast signal. [6]
+Thailand[edit]
+In Thailand, all terrestrial television channels are required to be carried on satellite and cable television platform as free-to-air channels and required to be placed on same EPG number as terrestrial platform. Must-carry rule was applied to the analogue terrestrial television channels and was dropped in 2014 replacing by digital terrestrial television channels. Thailand's National Broadcasting and Telecommunication Commission (NBTC) said the must-carry rule will be used to guarantee Thais' basic right to watch free-TV programmes via any platform such as antennas and cable and satellite receivers.[7]
+References[edit]
+
+
+
+^ See 47 USC § 531 - § 537 for relevant sections of the Communications Act of 1934, and FCC regulations promulgated pursuant to the Act at 47 CFR 76.56: Signal carriage obligations
+^ 47CFR76.64: Retransmission consent
+^ Tampa Bay Times: "Hearst dispute with Bright House pulls WMOR-Ch. 32 and digital THIS TV off Tampa Bay cable system", July 10, 2012.
+^ http://www.hollywoodreporter.com/news/cbs-time-warner-cable-reach-619367
+^ http://www.fcc.gov/guides/cable-carriage-broadcast-stations
+^ "What is the so-called "Must-Carry Rule"?". BATASnatin Philippine Law Library. Libayan & Associates. Retrieved 20 October 2017. 
+^ "Must-carry rule will not threaten copyrights: NBTC - The Nation". Nation Multimedia Group Public Company Limited, Nationmultimedia.com,. Retrieved 18 August 2016. 
+
+
+
+External links[edit]
+
+"Museum of Television and Radio article on must-carry". Archived from the original on 2009-01-26. 
+"Must-carry explanation by C-SPAN". Archived from the original on 2009-04-13. 
+"Turner Broadcasting System v. FCC, 520 U.S. 180 (1997), Docket Number: 95-992, Abstract". Archived from the original on 2006-02-14. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Must-carry&oldid=807747215"					
+Categories: Broadcast lawTelevision terminologyUnited States communications regulationCable television in the United StatesCable television in CanadaHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2008Articles with unsourced statements from June 2009Articles with unsourced statements from November 2014 

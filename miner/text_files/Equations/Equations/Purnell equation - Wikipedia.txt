@@ -1,0 +1,153 @@
+Purnell equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Purnell equation is an equation used in analytical chemistry to calculate the resolution Rs between two peaks in a chromatogram:[1][2][3]
+
+
+
+
+
+R
+
+s
+
+
+=
+
+
+
+
+N
+
+2
+
+
+
+4
+
+
+
+(
+
+
+
+α
+−
+1
+
+α
+
+
+)
+
+
+(
+
+
+
+k
+
+2
+
+′
+
+
+1
++
+
+k
+
+2
+
+′
+
+
+
+
+)
+
+
+
+{\displaystyle R_{s}={\frac {\sqrt {N_{2}}}{4}}\left({\frac {\alpha -1}{\alpha }}\right)\left({\frac {k'_{2}}{1+k'_{2}}}\right)}
+
+
+where
+
+
+
+Rs is the resolution between the two peaks
+
+
+
+
+
+
+N2 is the plate number of the second peak
+
+
+
+
+
+
+α is the separation factor between the two peaks
+
+
+
+
+
+
+k '2 is the retention factor of the second peak.
+
+
+
+The higher the resolution, the better the separation.
+References[edit]
+
+
+
+^ Miller, J. M., Chromatography: Concepts and Contrasts, second edition, John Wiley & Sons, Inc., Hoboken, NJ, USA, 2005.
+^ Dean, J. R. et al., Practical Skills in Chemistry, first edition, Pearson Education Ltd., Harlow, UK, 2002, p. 205–224.
+^ C. Legido-Quigley, HPLC theory
+
+
+
+
+
+
+
+This article about analytical chemistry is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This article related to chromatography is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Purnell_equation&oldid=601119224"					
+Categories: ChromatographyEquationsAnalytical chemistry stubsChemistry stubsHidden categories: All stub articles 

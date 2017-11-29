@@ -1,0 +1,22 @@
+Siegel's theorem on integral points - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, Siegel's theorem on integral points is the 1929 result of Carl Ludwig Siegel, that for a smooth algebraic curve C of genus g defined over a number field K, presented in affine space in a given coordinate system, there are only finitely many points on C with coordinates in the ring of integers O of K, provided g > 0. This result covers the Mordell curve, for example.
+This was proved by combining a version of the Thue–Siegel–Roth theorem, from diophantine approximation, with the Mordell–Weil theorem from diophantine geometry (required in Weil's version, to apply to the Jacobian variety of C). It was the first major result on diophantine equations that depended only on the genus, not any special algebraic form of the equations. For g > 1 it was in the end superseded by Faltings' theorem.
+Siegel's result was ineffective (see effective results in number theory), since Thue's method in diophantine approximation also is ineffective in describing possible very good rational approximations to algebraic numbers. Effective results in some cases derive from Baker's method.
+References[edit]
+
+Bombieri, Enrico; Gubler, Walter (2006). Heights in Diophantine Geometry. New Mathematical Monographs. 4. Cambridge University Press. doi:10.2277/0521846153. ISBN 978-0-521-71229-3. Zbl 1130.11034. 
+Serge Lang (1978). Elliptic curves: Diophantine analysis. Grundlehren der mathematischen Wissenschaften. 231. pp. 128–153. ISBN 3-540-08489-4. Zbl 0388.10001. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Siegel%27s_theorem_on_integral_points&oldid=502613101"					
+Categories: Diophantine equationsTheorems in number theory 

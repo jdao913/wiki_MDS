@@ -1,0 +1,61 @@
+Theory of equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Not to be confused with equational theory.
+
+
+
+
+
+
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2014) (Learn how and when to remove this template message)
+
+
+
+In algebra, the theory of equations is the analysis of the nature and algebraic solutions of algebraic equations (also called polynomial equations), which are equations defined by a polynomial. The term "theory of equations" is mainly used in the context of the history of mathematics.
+
+
+
+Contents
+
+
+1 History
+2 Further problems
+3 See also
+4 Further reading
+
+
+
+History[edit]
+Until the end of the 19th century, "theory of equations" was almost synonymous with "algebra". For a long time, the main problem was to find the solutions of a single non-linear equation in a single unknown. The fact that a complex solution always exists is the fundamental theorem of algebra, which was proved only at the beginning of the 19th century and does not have a purely algebraic proof. Nevertheless, the main concern of the algebraists was to solve in terms of radicals, that is to express the solutions by a formula which is built with the four operations of arithmetics and nth roots. This was done up to degree four during the 16th century. Scipione del Ferro and Niccolò Fontana Tartaglia discovered solutions for cubic equations. Gerolamo Cardano published them in his 1545 book Ars Magna, together with a solution for the quartic equations, discovered by his student Lodovico Ferrari. In 1572 Rafael Bombelli published his L'Algebra in which he showed how to deal with the imaginary quantities that could appear in Cardano's formula for solving cubic equations.
+The case of higher degrees remained open until the 19th century, when Niels Henrik Abel proved that some fifth degree equations cannot be solved in radicals (Abel–Ruffini theorem) and Évariste Galois introduced a theory (presently called Galois theory) to decide which equations are solvable by radicals.
+Further problems[edit]
+Other classical problems of the theory of equations are the following:
+
+Linear equations: this problem was solved during antiquity.
+Simultaneous linear equations: The general theoretical solution was provided by Gabriel Cramer in 1750. However devising efficient methods (algorithms) to solve these systems remains an active subject of research now called linear algebra.
+Finding the integer solutions of an equation or of a system of equations. These problems are now called Diophantine equations, which are considered a part of number theory (see also integer programming).
+Systems of polynomial equations: Because of their difficulty, these systems, with few exceptions, have been studied only since the second part of the 19th century. They have led to the development of algebraic geometry.
+
+See also[edit]
+
+Root-finding algorithm
+Properties of polynomial roots
+Quintic function
+
+Further reading[edit]
+
+Uspensky, James Victor, Theory of Equations (McGraw-Hill),1963 [1]
+Dickson, Leonard E., Elementary Theory of Equations (Classic Reprint, Forgotten Books), 2012 [2]
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Theory_of_equations&oldid=800948161"					
+Categories: History of algebraPolynomialsEquationsHidden categories: Articles lacking sources from May 2014All articles lacking sources 

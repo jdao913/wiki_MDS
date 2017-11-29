@@ -1,0 +1,311 @@
+Template:Differential equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+ Template documentation[view] [edit] [history] [purge]
+
+
+Differential equations
+
+
+
+Navier–Stokes differential equations used to simulate airflow around an obstruction.
+
+
+
+
+
+
+Scope
+
+
+
+
+
+
+
+Natural sciences
+Engineering
+
+
+
+
+
+
+
+Astronomy
+Physics
+Chemistry
+
+Biology
+Geology
+
+
+
+
+Applied mathematics
+
+
+
+
+Continuum mechanics
+Chaos theory
+Dynamical systems
+
+
+
+
+Social sciences
+
+
+
+
+Economics
+Population dynamics
+
+
+
+
+
+
+
+
+
+Classification
+
+
+
+
+Types
+
+
+
+
+
+
+Ordinary
+Partial
+Differential-algebraic
+Integro-differential
+Fractional
+Linear
+Non-linear
+
+
+
+
+
+By variable type
+
+
+
+
+Dependent and independent variables
+
+
+
+Autonomous
+Complex
+Coupled / Decoupled
+Exact
+Homogeneous / Nonhomogeneous
+
+
+
+
+
+Features
+
+
+
+
+
+Order
+Operator
+
+
+
+Notation
+
+
+
+
+
+
+
+
+
+
+
+Relation to processes
+
+
+Difference (discrete analogue)
+
+
+
+Stochastic
+Delay
+
+
+
+
+
+
+
+Solution
+
+
+
+
+General topics
+
+
+
+Picard–Lindelöf theorem
+Wronskian
+
+
+
+
+Phase portrait
+Phase space
+
+
+
+Lyapunov / Asymptotic / Exponential stability
+Rate of convergence
+Series / Integral solutions
+
+
+
+Numerical integration
+Dirac delta function
+
+
+
+
+
+
+
+
+
+Solution methods
+
+
+
+Inspection
+Method of characteristics
+
+Euler
+Exponential response formula
+Finite difference (Crank–Nicolson)
+Finite element
+
+Infinite element
+
+
+Finite volume
+Galerkin
+
+Petrov–Galerkin
+
+
+Integrating factor
+Integral transforms
+Perturbation theory
+Runge–Kutta
+
+
+
+Separation of variables
+Undetermined coefficients
+
+
+
+
+
+
+
+
+
+People
+
+
+
+
+Isaac Newton
+Leonhard Euler
+Émile Picard
+Józef Maria Hoene-Wroński
+Ernst Lindelöf
+Rudolf Lipschitz
+Augustin-Louis Cauchy
+John Crank
+Phyllis Nicolson
+Carl David Tolmé Runge
+Martin Wilhelm Kutta
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+This template includes collapsible lists.
+
+
+
+
+• To set it to display all lists when it appears (i.e. all lists expanded), use:
+ {{Differential equations |expanded=all}} or, if enabled, {{Differential equations |all}}  (i.e. omitting "expanded=").
+
+
+
+
+
+
+
+
+• To set it to display one particular list while keeping the remainder collapsed (i.e. hidden apart from their headings), use:
+ {{Differential equations |expanded=listname}} or, if enabled, {{Differential equations |listname}}
+…where listname is one of the following (do not include any quotemarks):
+scope, types, processes, solution, "solution methods", people
+For example, {{Differential equations |expanded=solution methods}} or, if enabled, {{Differential equations |solution methods}}
+
+
+
+
+
+
+
+
+
+The above documentation is transcluded from Template:Differential equations/doc. (edit | history)
+Editors can experiment in this template's sandbox (create | mirror) and testcases (create) pages.
+Please add categories to the /doc subpage. Subpages of this template.
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Differential_equations&oldid=801543675"					
+Categories: Mathematics sidebar templatesDifferential equations 

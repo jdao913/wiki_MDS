@@ -1,0 +1,905 @@
+Master equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For the master equation used in quantum physics, see Lindblad equation. For the classical and quantum master equations in quantum field theory, see Batalin–Vilkovisky formalism.
+In physics, chemistry and related fields, master equations are used to describe the time evolution of a system that can be modelled as being in a probabilistic combination of states at any given time and the switching between states is determined by a transition rate matrix. The equations are a set of differential equations over time of the probabilities that the system occupies each of the different states.
+
+
+
+Contents
+
+
+1 Introduction
+
+1.1 Detailed description of the matrix 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+, and properties of the system
+1.2 Examples of master equations
+
+
+2 Quantum master equations
+3 See also
+4 References
+5 External links
+
+
+
+Introduction[edit]
+A master equation is a phenomenological set of first-order differential equations describing the time evolution of (usually) the probability of a system to occupy each one of a discrete set of states with regard to a continuous time variable t. The most familiar form of a master equation is a matrix form:
+
+
+
+
+
+
+
+
+d
+
+
+
+P
+→
+
+
+
+
+
+d
+t
+
+
+
+=
+
+A
+
+
+
+
+P
+→
+
+
+
+,
+
+
+{\displaystyle {\frac {d{\vec {P}}}{dt}}=\mathbf {A} {\vec {P}},}
+
+
+
+where 
+
+
+
+
+
+
+P
+→
+
+
+
+
+
+{\displaystyle {\vec {P}}}
+
+ is a column vector (where element i represents state i), and 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+ is the matrix of connections. The way connections among states are made determines the dimension of the problem; it is either
+
+a d-dimensional system (where d is 1,2,3,...), where any state is connected with exactly its 2d nearest neighbors, or
+a network, where every pair of states may have a connection (depending on the network's properties).
+
+When the connections are time-independent rate constants, the master equation represents a kinetic scheme, and the process is Markovian (any jumping time probability density function for state i is an exponential, with a rate equal to the value of the connection). When the connections depend on the actual time (i.e. matrix 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+ depends on the time, 
+
+
+
+
+A
+
+→
+
+A
+
+(
+t
+)
+
+
+{\displaystyle \mathbf {A} \rightarrow \mathbf {A} (t)}
+
+ ), the process is not stationary and the master equation reads
+
+
+
+
+
+
+
+
+d
+
+
+
+P
+→
+
+
+
+
+
+d
+t
+
+
+
+=
+
+A
+
+(
+t
+)
+
+
+
+P
+→
+
+
+
+.
+
+
+{\displaystyle {\frac {d{\vec {P}}}{dt}}=\mathbf {A} (t){\vec {P}}.}
+
+
+
+When the connections represent multi exponential jumping time probability density functions, the process is semi-Markovian, and the equation of motion is an integro-differential equation termed the generalized master equation:
+
+
+
+
+
+
+
+
+d
+
+
+
+P
+→
+
+
+
+
+
+d
+t
+
+
+
+=
+
+∫
+
+0
+
+
+t
+
+
+
+A
+
+(
+t
+−
+τ
+)
+
+
+
+P
+→
+
+
+
+(
+τ
+)
+d
+τ
+.
+
+
+{\displaystyle {\frac {d{\vec {P}}}{dt}}=\int _{0}^{t}\mathbf {A} (t-\tau ){\vec {P}}(\tau )d\tau .}
+
+
+
+The matrix 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+ can also represent birth and death, meaning that probability is injected (birth) or taken from (death) the system, where then, the process is not in equilibrium.
+Detailed description of the matrix 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+, and properties of the system[edit]
+Let 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+ be the matrix describing the transition rates (also known as kinetic rates or reaction rates). As always, the first subscript represents the row, the second subscript the column. That is, the source is given by the second subscript, and the destination by the first subscript. This is the opposite of what one might expect, but it is technically convenient.
+For each state k, the increase in occupation probability depends on the contribution from all other states to k, and is given by:
+
+
+
+
+
+
+∑
+
+ℓ
+
+
+
+A
+
+k
+ℓ
+
+
+
+P
+
+ℓ
+
+
+,
+
+
+{\displaystyle \sum _{\ell }A_{k\ell }P_{\ell },}
+
+
+
+where 
+
+
+
+
+P
+
+ℓ
+
+
+
+
+{\displaystyle P_{\ell }}
+
+ is the probability for the system to be in the state 
+
+
+
+ℓ
+
+
+{\displaystyle \ell }
+
+, while the matrix 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+ is filled with a grid of transition-rate constants. Similarly, 
+
+
+
+
+P
+
+k
+
+
+
+
+{\displaystyle P_{k}}
+
+ contributes to the occupation of all other states 
+
+
+
+
+P
+
+ℓ
+
+
+,
+
+
+{\displaystyle P_{\ell },}
+
+
+
+
+
+
+
+
+∑
+
+ℓ
+
+
+
+A
+
+ℓ
+k
+
+
+
+P
+
+k
+
+
+,
+
+
+{\displaystyle \sum _{\ell }A_{\ell k}P_{k},}
+
+
+
+In probability theory, this identifies the evolution as a continuous-time Markov process, with the integrated master equation obeying a Chapman–Kolmogorov equation.
+The master equation can be simplified so that the terms with ℓ = k do not appear in the summation. This allows calculations even if the main diagonal of the 
+
+
+
+
+A
+
+
+
+{\displaystyle \mathbf {A} }
+
+ is not defined or has been assigned an arbitrary value.
+
+
+
+
+
+
+
+
+d
+
+P
+
+k
+
+
+
+
+d
+t
+
+
+
+=
+
+∑
+
+ℓ
+
+
+(
+
+A
+
+k
+ℓ
+
+
+
+P
+
+ℓ
+
+
+)
+=
+
+∑
+
+ℓ
+≠
+k
+
+
+(
+
+A
+
+k
+ℓ
+
+
+
+P
+
+ℓ
+
+
+)
++
+
+A
+
+k
+k
+
+
+
+P
+
+k
+
+
+=
+
+∑
+
+ℓ
+≠
+k
+
+
+(
+
+A
+
+k
+ℓ
+
+
+
+P
+
+ℓ
+
+
+−
+
+A
+
+ℓ
+k
+
+
+
+P
+
+k
+
+
+)
+.
+
+
+{\displaystyle {\frac {dP_{k}}{dt}}=\sum _{\ell }(A_{k\ell }P_{\ell })=\sum _{\ell \neq k}(A_{k\ell }P_{\ell })+A_{kk}P_{k}=\sum _{\ell \neq k}(A_{k\ell }P_{\ell }-A_{\ell k}P_{k}).}
+
+
+
+The final equality arises from the fact that
+
+
+
+
+
+
+∑
+
+ℓ
+k
+
+
+(
+
+A
+
+ℓ
+k
+
+
+
+P
+
+k
+
+
+)
+=
+
+
+d
+
+d
+t
+
+
+
+
+∑
+
+ℓ
+
+
+(
+
+P
+
+ℓ
+
+
+)
+=
+0
+
+
+{\displaystyle \sum _{\ell k}(A_{\ell k}P_{k})={\frac {d}{dt}}\sum _{\ell }(P_{\ell })=0}
+
+
+
+because the summation over the probabilities 
+
+
+
+
+P
+
+ℓ
+
+
+
+
+{\displaystyle P_{\ell }}
+
+ yields one, a constant function. Since this has to hold for any probability 
+
+
+
+
+
+
+P
+→
+
+
+
+
+
+{\displaystyle {\vec {P}}}
+
+ (and in particular for any probability of the form 
+
+
+
+
+P
+
+ℓ
+
+
+=
+
+δ
+
+ℓ
+k
+
+
+
+
+{\displaystyle P_{\ell }=\delta _{\ell k}}
+
+ for some k) we get
+
+
+
+
+
+
+∑
+
+ℓ
+k
+
+
+(
+
+A
+
+ℓ
+k
+
+
+)
+=
+0
+
+∀
+k
+.
+
+
+{\displaystyle \sum _{\ell k}(A_{\ell k})=0\qquad \forall k.}
+
+
+
+Using this we can write the diagonal elements as
+
+
+
+
+
+
+A
+
+k
+k
+
+
+=
+−
+
+∑
+
+ℓ
+≠
+k
+
+
+(
+
+A
+
+ℓ
+k
+
+
+)
+⇒
+
+A
+
+k
+k
+
+
+
+P
+
+k
+
+
+=
+−
+
+∑
+
+ℓ
+≠
+k
+
+
+(
+
+A
+
+ℓ
+k
+
+
+
+P
+
+k
+
+
+)
+
+
+{\displaystyle A_{kk}=-\sum _{\ell \neq k}(A_{\ell k})\Rightarrow A_{kk}P_{k}=-\sum _{\ell \neq k}(A_{\ell k}P_{k})}
+
+.
+
+The master equation exhibits detailed balance if each of the terms of the summation disappears separately at equilibrium — i.e. if, for all states k and ℓ having equilibrium probabilities 
+
+
+
+
+
+π
+
+k
+
+
+
+
+
+{\displaystyle \scriptstyle \pi _{k}}
+
+ and 
+
+
+
+
+
+π
+
+ℓ
+
+
+
+
+
+{\displaystyle \scriptstyle \pi _{\ell }}
+
+,
+
+
+
+
+
+
+A
+
+k
+ℓ
+
+
+
+π
+
+ℓ
+
+
+=
+
+A
+
+ℓ
+k
+
+
+
+π
+
+k
+
+
+.
+
+
+{\displaystyle A_{k\ell }\pi _{\ell }=A_{\ell k}\pi _{k}.}
+
+
+
+These symmetry relations were proved on the basis of the time reversibility of microscopic dynamics (microscopic reversibility) as Onsager reciprocal relations.
+Examples of master equations[edit]
+Many physical problems in classical, quantum mechanics and problems in other sciences, can be reduced to the form of a master equation, thereby performing a great simplification of the problem (see mathematical model).
+The Lindblad equation in quantum mechanics is a generalization of the master equation describing the time evolution of a density matrix. Though the Lindblad equation is often referred to as a master equation, it is not one in the usual sense, as it governs not only the time evolution of probabilities (diagonal elements of the density matrix), but also of variables containing information about quantum coherence between the states of the system (non-diagonal elements of the density matrix).
+Another special case of the master equation is the Fokker-Planck equation which describes the time evolution of a continuous probability distribution.[1] Complicated master equations which resist analytic treatment can be cast into this form (under various approximations), by using approximation techniques such as the system size expansion.
+Quantum master equations[edit]
+A quantum master equation is a generalization of the idea of a master equation. Rather than just a system of differential equations for a set of probabilities (which only constitutes the diagonal elements of a density matrix), quantum master equations are differential equations for the entire density matrix, including off-diagonal elements. A density matrix with only diagonal elements can be modeled as a classical random process, therefore such an "ordinary" master equation is considered classical. Off-diagonal elements represent quantum coherence which is a physical characteristic that is intrinsically quantum mechanical.
+The Redfield equation and Lindblad equation are examples of approximate quantum master equations assumed to be Markovian. More accurate quantum master equations for certain applications include the polaron transformed quantum master equation, and the variational polaron transformed quantum master equation.[2]
+See also[edit]
+
+Kolmogorov equations (Markov jump process)
+Continuous-time Markov process
+Quantum master equation
+Fermi's golden rule
+Detailed balance
+Boltzmann's H-theorem
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (June 2011) (Learn how and when to remove this template message)
+
+
+
+References[edit]
+
+
+
+^ Honerkamp, Josef (1998). Statistical physics : an advanced approach with applications ; with 7 tables and 57 problems with solutions. Berlin [u.a.]: Springer. p. 173. ISBN 3-540-63978-0. 
+^ McCutcheon, D.; Dattani, N. S.; Gauger, E.; Lovett, B.; Nazir, A. (25 August 2011). "A general approach to quantum dynamics using a variational master equation: Application to phonon-damped Rabi rotations in quantum dots". Physical Review B. 84: 081305R. arXiv:1105.6015 . Bibcode:2011PhRvB..84h1305M. doi:10.1103/PhysRevB.84.081305. 
+
+
+
+
+van Kampen, N. G. (1981). Stochastic processes in physics and chemistry. North Holland. ISBN 978-0-444-52965-7. 
+Gardiner, C. W. (1985). Handbook of Stochastic Methods. Springer. ISBN 3-540-20882-8. 
+Risken, H. (1984). The Fokker-Planck Equation. Springer. ISBN 3-540-61530-X. 
+
+External links[edit]
+
+Timothy Jones, A Quantum Optics Derivation (2006)
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Master_equation&oldid=809137042"					
+Categories: Statistical mechanicsStochastic calculusEquationsConcepts in physicsHidden categories: Articles lacking in-text citations from June 2011All articles lacking in-text citations 

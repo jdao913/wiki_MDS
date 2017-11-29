@@ -1,0 +1,114 @@
+Chaplygin's equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In gas dynamics, Chaplygin's equation, named after Sergei Alekseevich Chaplygin, is a partial differential equation useful in the study of transonic flow.[1] It is
+
+
+
+
+
+
+f
+
+θ
+θ
+
+
++
+
+
+
+v
+
+2
+
+
+
+1
+−
+
+
+
+v
+
+2
+
+
+
+c
+
+2
+
+
+
+
+
+
+
+
+f
+
+v
+v
+
+
++
+v
+
+f
+
+v
+
+
+=
+0.
+
+
+{\displaystyle f_{\theta \theta }+{\frac {v^{2}}{1-{\frac {v^{2}}{c^{2}}}}}f_{vv}+vf_{v}=0.}
+
+
+
+Here, 
+
+
+
+c
+=
+c
+(
+v
+)
+
+
+{\displaystyle c=c(v)}
+
+ is the speed of sound, determined by the equation of state of the fluid and conservation of energy.
+See also[edit]
+
+Euler–Tricomi equation
+
+References[edit]
+
+
+
+Wikimedia Commons has media related to Chaplygin equation.
+
+
+
+
+
+^ Landau, L. D.; Lifshitz, E. M. (1982). Fluid Mechanics (2 ed.). Pergamon Press. p. 432. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Chaplygin%27s_equation&oldid=775567853"					
+Categories: Partial differential equationsEquations 

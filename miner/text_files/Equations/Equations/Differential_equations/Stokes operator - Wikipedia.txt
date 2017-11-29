@@ -1,0 +1,719 @@
+Stokes operator - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Stokes operator, named after George Gabriel Stokes, is an unbounded linear operator used in the theory of partial differential equations, specifically in the fields of fluid dynamics and electromagnetics.
+Definition[edit]
+If we define 
+
+
+
+
+P
+
+σ
+
+
+
+
+{\displaystyle P_{\sigma }}
+
+ as the Leray projection onto divergence free vector fields, then the Stokes Operator 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is defined by
+
+
+
+
+
+A
+:=
+−
+
+P
+
+σ
+
+
+Δ
+,
+
+
+{\displaystyle A:=-P_{\sigma }\Delta ,}
+
+
+
+where 
+
+
+
+Δ
+≡
+
+∇
+
+2
+
+
+
+
+{\displaystyle \Delta \equiv \nabla ^{2}}
+
+ is the Laplacian. Since 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is unbounded, we must also give its domain of definition, which is defined as 
+
+
+
+
+
+D
+
+
+(
+A
+)
+=
+
+H
+
+2
+
+
+∩
+V
+
+
+{\displaystyle {\mathcal {D}}(A)=H^{2}\cap V}
+
+, where 
+
+
+
+V
+=
+{
+
+
+
+u
+→
+
+
+
+∈
+(
+
+H
+
+0
+
+
+1
+
+
+(
+Ω
+)
+
+)
+
+n
+
+
+
+|
+
+div
+
+
+
+
+u
+→
+
+
+
+=
+0
+}
+
+
+{\displaystyle V=\{{\vec {u}}\in (H_{0}^{1}(\Omega ))^{n}|\operatorname {div} \,{\vec {u}}=0\}}
+
+. Here, 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+ is a bounded open set in 
+
+
+
+
+
+R
+
+
+n
+
+
+
+
+{\displaystyle \mathbb {R} ^{n}}
+
+ (usually n = 2 or 3), 
+
+
+
+
+H
+
+2
+
+
+(
+Ω
+)
+
+
+{\displaystyle H^{2}(\Omega )}
+
+ and 
+
+
+
+
+H
+
+0
+
+
+1
+
+
+(
+Ω
+)
+
+
+{\displaystyle H_{0}^{1}(\Omega )}
+
+ are the standard Sobolev spaces, and the divergence of 
+
+
+
+
+
+
+u
+→
+
+
+
+
+
+{\displaystyle {\vec {u}}}
+
+ is taken in the distribution sense.
+Properties[edit]
+For a given domain 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+ which is open, bounded, and has 
+
+
+
+
+C
+
+2
+
+
+
+
+{\displaystyle C^{2}}
+
+ boundary, the Stokes operator 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is a self-adjoint positive-definite operator with respect to the 
+
+
+
+
+L
+
+2
+
+
+
+
+{\displaystyle L^{2}}
+
+ inner product. It has an orthonormal basis of eigenfunctions 
+
+
+
+{
+
+w
+
+k
+
+
+
+}
+
+k
+=
+1
+
+
+∞
+
+
+
+
+{\displaystyle \{w_{k}\}_{k=1}^{\infty }}
+
+ corresponding to eigenvalues 
+
+
+
+{
+
+λ
+
+k
+
+
+
+}
+
+k
+=
+1
+
+
+∞
+
+
+
+
+{\displaystyle \{\lambda _{k}\}_{k=1}^{\infty }}
+
+ which satisfy
+
+
+
+
+
+0
+<
+
+λ
+
+1
+
+
+<
+
+λ
+
+2
+
+
+≤
+
+λ
+
+3
+
+
+⋯
+≤
+
+λ
+
+k
+
+
+≤
+⋯
+
+
+{\displaystyle 0<\lambda _{1}<\lambda _{2}\leq \lambda _{3}\cdots \leq \lambda _{k}\leq \cdots }
+
+
+
+and 
+
+
+
+
+λ
+
+k
+
+
+→
+∞
+
+
+{\displaystyle \lambda _{k}\rightarrow \infty }
+
+ as 
+
+
+
+k
+→
+∞
+
+
+{\displaystyle k\rightarrow \infty }
+
+. Note that the smallest eigenvalue is unique and non-zero. These properties allow one to define powers of the Stokes operator. Let 
+
+
+
+α
+>
+0
+
+
+{\displaystyle \alpha >0}
+
+ be a real number. We define 
+
+
+
+
+A
+
+α
+
+
+
+
+{\displaystyle A^{\alpha }}
+
+ by its action on 
+
+
+
+
+
+
+u
+→
+
+
+
+∈
+
+
+D
+
+
+(
+A
+)
+
+
+{\displaystyle {\vec {u}}\in {\mathcal {D}}(A)}
+
+:
+
+
+
+
+
+
+A
+
+α
+
+
+
+
+
+u
+→
+
+
+
+=
+
+∑
+
+k
+=
+1
+
+
+∞
+
+
+
+λ
+
+k
+
+
+α
+
+
+
+u
+
+k
+
+
+
+
+
+
+w
+
+k
+
+
+→
+
+
+
+
+
+{\displaystyle A^{\alpha }{\vec {u}}=\sum _{k=1}^{\infty }\lambda _{k}^{\alpha }u_{k}{\vec {w_{k}}}}
+
+
+
+where 
+
+
+
+
+u
+
+k
+
+
+:=
+(
+
+
+
+u
+→
+
+
+
+,
+
+
+
+
+w
+
+k
+
+
+→
+
+
+
+)
+
+
+{\displaystyle u_{k}:=({\vec {u}},{\vec {w_{k}}})}
+
+ and 
+
+
+
+(
+⋅
+,
+⋅
+)
+
+
+{\displaystyle (\cdot ,\cdot )}
+
+ is the 
+
+
+
+
+L
+
+2
+
+
+(
+Ω
+)
+
+
+{\displaystyle L^{2}(\Omega )}
+
+ inner product.
+The inverse 
+
+
+
+
+A
+
+−
+1
+
+
+
+
+{\displaystyle A^{-1}}
+
+ of the Stokes operator is a bounded, compact, self-adjoint operator in the space 
+
+
+
+H
+:=
+{
+
+
+
+u
+→
+
+
+
+∈
+(
+
+L
+
+2
+
+
+(
+Ω
+)
+
+)
+
+n
+
+
+
+|
+
+div
+
+
+
+
+u
+→
+
+
+
+=
+0
+
+ and 
+
+γ
+(
+
+
+
+u
+→
+
+
+
+)
+=
+0
+}
+
+
+{\displaystyle H:=\{{\vec {u}}\in (L^{2}(\Omega ))^{n}|\operatorname {div} \,{\vec {u}}=0{\text{ and }}\gamma ({\vec {u}})=0\}}
+
+, where 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+ is the trace operator. Furthermore, 
+
+
+
+
+A
+
+−
+1
+
+
+:
+H
+→
+V
+
+
+{\displaystyle A^{-1}:H\rightarrow V}
+
+ is injective.
+References[edit]
+
+Temam, Roger (2001), Navier-Stokes Equations: Theory and Numerical Analysis, AMS Chelsea Publishing, ISBN 0-8218-2737-5 
+Constantin, Peter and Foias, Ciprian. Navier-Stokes Equations, University of Chicago Press, (1988)
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Stokes_operator&oldid=808159807"					
+Categories: Linear algebraDifferential equations 

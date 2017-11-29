@@ -1,0 +1,307 @@
+Grand Alliance (HDTV) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Grand Alliance (GA) was a consortium created in 1993 at the behest of the Federal Communications Commission (FCC) to develop the American digital television (SDTV, EDTV) and HDTV specification, with the aim of pooling the best work from different companies. It consisted of AT&T Corporation, General Instrument Corporation, Massachusetts Institute of Technology, Philips Consumer Electronics, David Sarnoff Research Center, Thomson Consumer Electronics, and Zenith Electronics Corporation. The Grand Alliance DTV system is the basis for the ATSC standard.
+Recognizing that earlier proposed systems demonstrated particular strengths in the FCC's Advisory Committee on Advanced Television Service (ACATS) testing and evaluation process, the Grand Alliance system was proposed to combine the advantages of all of the previously proposed terrestrial digital HDTV systems. At the time of its inception, the Grand Alliance HDTV system was specified to include:
+
+Flexible picture formats with a header/Descriptor approach, allowing the inclusion of both 1050 and 787.5 raster formats.
+Progressive scanning and square pixel capabilities in both raster formats.
+Interlaced scanning and rectangular pixel formats.
+Video compression based on MPEG-2, with additional syntax elements that represent contributions from each previously proposed system.
+A packetized, prioritized data format, providing flexibility of services and extensibility.
+
+Audio and transmission systems had not been decided at the time of the GA agreement. Five channel audio was specified, but a decision among the Dolby AC-3, multi-channel MUSICAM audio, and MIT "AC" systems had not yet been made. Candidate transmission approaches included QAM, Spectrally-Shaped QAM, 6 VSB (with trellis code) and 4/2 VSB. COFDM had been proposed by third parties, but was rejected as not being mature, and not offering fringe-area coverage equivalent to analog transmission. A thorough analysis of service area, interference characteristics, transmission robustness and system attributes would be performed to determine the "best approach."
+In the end, 1080, 720 and 480-line resolutions were implemented at various aspect ratios and frame rates, with progressive and interlaced scanning (the so-called "18 formats"), together with 8-VSB modulation and Dolby AC-3 audio. However, the selection of transmission and audio systems was not without controversy. The choice of 8-VSB was later criticised by several groups as being inferior to COFDM under conditions of multipath interference. Improvements in receiver designs would later render this apparently moot. With MUSICAM originally faltering during GA testing, the GA issued a statement finding the MPEG-2 audio system to be "essentially equivalent" to Dolby, but only after the Dolby selection had been made.[1] Later, a story emerged that MIT had entered into an agreement with Dolby whereupon the university would be awarded a large sum if the MUSICAM system was rejected.[2] Following a five-year lawsuit for breach of contract, MIT and its GA representative received a total of $30 million from Dolby, after the litigants reached a last-minute out-of-court settlement.[2] Dolby also offered an incentive for Zenith to switch their vote (which they did), however it is unknown whether they accepted the offer.[2]
+Grand Alliance Chronology[edit]
+
+1987 - Advisory Committee on Advanced Television Service is formed, with Richard E. Wiley as chairman
+1990 - Simulcast principle advocated by the FCC
+1990 - Four competing digital HDTV systems announced
+1992 - Systems tested at Advanced Television Test Center (ATTC)
+1992 - All competitors announce planned improvements
+1993 - ACATS Special Panel recommends retesting
+1993 - Grand Alliance forms, "collaborative" phase begins
+1994 - Grand Alliance system undergoes ATTC verification testing
+1995 - ATSC Standard A/53 is published, incorporating Grand Alliance System
+1996 - FCC Adopts ATSC A/53 as standard for the transmission of digital television, but excludes requirements with respect to scanning formats, aspect ratios, and lines of vertical resolution
+1997 - Academy of Television Arts & Sciences presents Primetime Engineering Emmy Award to Grand Alliance companies for developing and standardizing the transmission and technology for digital TV.
+
+References[edit]
+
+
+
+^ High Definition Television: The Creation, Development and Implementation of HDTV Technology, McFarland & Company, 2012, retrieved 2016-03-22 [permanent dead link]
+^ a b c MIT Getting Millions For Digital TV Deal
+
+
+
+
+Randall M. Sukow, "Technology: Could HDTV's answer be a 'grand alliance'?", Broadcasting & Cable, retrieved 2007-03-04 , March 1, 1993.
+
+
+A/53: ATSC Digital Television Standard, Advanced Television Systems Committee, archived from the original on 2009-02-01, retrieved 2007-03-04 , December 27, 2005.
+
+
+Fourth Report and Order in MM Docket No. 87-268, FCC 96-493 (PDF), Federal Communications Commission, retrieved 2007-03-04 , December 24, 1996.
+
+
+Brinkley, Joel, Defining Vision: How Broadcasters Lured the Government into Inciting a Revolution in Television, Harcourt Brace, ISBN 978-0-15-600597-5 , August 1998.
+DTV REPORT ON COFDM AND 8-VSB PERFORMANCE (PDF), FCC Office of Engineering and Technology, retrieved 2007-03-04 , September 30, 1999.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Grand_Alliance_(HDTV)&oldid=791499630"					
+Categories: Technology consortiaTelevision organizations in the United StatesHidden categories: All articles with dead external linksArticles with dead external links from March 2017Articles with permanently dead external links 

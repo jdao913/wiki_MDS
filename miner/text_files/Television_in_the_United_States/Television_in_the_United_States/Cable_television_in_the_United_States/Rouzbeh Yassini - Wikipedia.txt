@@ -1,0 +1,183 @@
+Rouzbeh Yassini - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Rouzbeh Yassini
+
+
+Native name
+روزبه یاسینی
+
+
+Born
+Rouzbeh Yassini-Fard
+Tehran, Iran
+
+
+Residence
+North Hampton, New Hampshire, United States
+
+
+Alma mater
+West Virginia University
+
+
+Occupation
+CEO, YAS Capital Partners (1996–present)
+Executive Director, University of New Hampshire Broadband Center of Excellence (2012–present)
+President & CEO, LANcity (1990 – 1996)
+
+
+Years active
+1981–present
+
+
+Website
+yas.com
+
+
+Rouzbeh Yassini (Persian: روزبه یاسینی‎‎), Ph.D., "Father of the Cable Modem",[1][2][3] is an Iranian-American[4] author,[5] inventor,[6][7][8] and engineer,[4] who has gained an international reputation as a "broadband visionary"[9][10][11] for his pioneering work in broadband industry and inventing the cable modem,[1][4] establishing the cable modem industry standards (DOCSIS) through Cable Television Laboratories (CableLabs), the Society of Cable Telecommunications Engineers (SCTE) and the International Telecommunication Union (ITU).[1][12][13][14] He is Executive Director of the University Of New Hampshire Broadband Center Of Excellence[12] and the CEO of YAS Capital Partners.[14] Yassini is the author of “Planet Broadband” (Cisco Press, 2003), a humanized look at broadband technology and its contributions to the society,[5] as well as “Broadband Intelligent Series”, a series of white papers on digital services (voice, data, video).[15][16] He is a worldwide speaker and is often interviewed and quoted in the press for his vision on the future of broadband.[17][18][19] His lifetime vision and dream is that all the people in the world have ubiquitous access to the broadband and be connected all the time. He believes that broadband connectivity is a fundamental right for all the human beings, what he has referred to it frequently as "Broadband Equality".[20]
+Yassini is founder, CEO, and president of LANcity,[1][9][12] the early pioneer in cable modems (acquired by Bay Networks in 1996). He has worked with Cable Television Laboratories, Inc. (CableLabs) a research arm of the cable television industry in charge of the DOCSIS and on CableHome projects as the cable industry’s point man on standardizing the cable modem’s global footprint.[1][4] He has served as a senior executive consultant to the cable industry’s CEOs while being president and CEO of YAS.[14][21] He also has worked with Comcast and Cablevision on numerous programs relating to innovation of broadband technologies. From 2004-2007, Yassini worked with the CTO’s office at Comcast to create the first industry standard IP-Set top Box specification known as the RNG specification.[1][21] He has been involved in managing and advising companies ranging from $100 million to $50 billion and served as member of the board of directors on BAS (acquired by ADC in 2000), TrueChat (acquired by Terayon in 2001), and Entropic from 2001 to 2008 (IPO 2007), and UPC Technical Advisory Committee.[4][12] He created and chairs the Vendor and Operator Executive Advisory Forum of the U.S. Cable Center.[21] He has been a member of the Liberty Global Inc. (LGI) advisory technology board since 2001.[12] Yassini has been a director of Visteon since January 2015.[22]
+Working for more than 30 years in the broadband industry and achieving major accomplishments, Yassini received many awards from different organizations. He was named multiple times as CED Broadband 50 designate.[11] CED Magazine named him “1998 Man of the Year” for creating and fostering the multibillion-dollar cable modem broadband industry.[1] The National Cable & Telecommunications Association (NCTA) awarded Yassini with a 2004 Vanguard Award, the Cable Industry’s highest honor in recognition of his contributions and dedication to the industry.[4] The Cable Television Pioneers also inducted Yassini into the class of 2012 for his tremendous and meaningful contributions to the cable industry.[4][12] He is a member of the Lane Department Academy as well as West Virginia University Academy of Distinguished Alumni.[20]
+
+
+
+Contents
+
+
+1 Life and career
+2 LANcity
+3 DOCSIS
+4 YAS
+
+4.1 Yassini Broadband Knowledge Center (YBKC)
+
+
+5 UNHBCoE
+6 Education
+7 Selected Awards and Achievements
+8 Bibliography
+9 References
+10 External links
+
+
+
+Life and career[edit]
+Born in Tehran, Iran, Yassini went to Kharazami high school and attended University of Pahlavi for one year before immigrating to the United States in 1977. Settling in Morgantown, WV, he continued his education at WVU, pursuing a bachelor's degree in Science and Electrical Engineering. As a senior, he was fascinated by the burgeoning satellite communications industry, and toiled with classmates to build one of the first 3.7 – 4.2 GHz down converters.[1]
+Upon graduation in 1981, he was recruited by General Electric, the place that entered him into high-tech industry.[4] In 1984 he had his first brush with the cable TV industry, working with GE’s Comband division developing the company's first 5,000-gate custom designed set-top chip.[1] After numerous promotions, as the "Engineering Manager for Cable TV systems and microwave" he left GE in 1986 to work for Proteon a data networking company manufacturing token ring networking products like routers and bridges.[1]
+It was at Proteon, that the idea of using the same cable for transmitting video and data came to him. Though, people told him video and data couldn't mix. From 1988 to 1990 he oversaw Applitek, a data networking company, as president and CEO where he was persuaded that mixing video and data is possible, although the vision remained on hold until 1990 when he bought Applitek's assets and formed LANcity where the cable modem was born and the DNA of broadband was built.[1]
+LANcity[edit]
+
+
+
+
+Rouzbeh Yassini pose with original LANcity modem at the Cable Center in Denver, Colorado.
+
+
+In 1990, Yassini founded LANcity,[9] introducing the first high-speed communications modem designed to integrate with cable television networks, spawning a new consumer electronics technology category known as the cable modem used today by more than 12 million U.S. households.[5] Yassini knew that he had to build a product that was based on industry standards, and not proprietary protocols. Hence, the priority of his small company with 13 employees was to develop an "Ethernet bridge" that interfaced between an Ethernet data network on one side, and the broadband cable TV network on the other. His vision and tremendous effort in Cable Technology and Data Networking eventually resulted in the invention of Cable Modems, creation of the broadband industry and the era of the high-speed cable modem.[1]
+The first generation of modems costs $15,000 for LANcity, and was not compatible with all cable configurations. Yassini took assistance from DEC to build the second generation modems. However, with the advent of personal computers DEC faced financial problems, so Yassini brought in John Ulm from Hewlett Packard to redesign the modem, and Kurt Baty was hired to develop a new 200,000-gate silicon chip. With his new team and more than a decade of his vision in cable and data technology, in 1993 LANcity launched its second generation modems, at $5000 which was more affordable and more reliable and drew the attention of respected industry engineers. By 1995, LANcity deployed its third-generation "plug-and-play" modem for less than $500, obtained 80 percent of the admittedly small cable modem market share. Bringing the technology from $15,000 to $500 within five years and making it more affordable for personal use was a great achievement for LANcity that was acquired by Bay Networks in mid-1996.[1]
+DOCSIS[edit]
+In late 1996 Yassini was invited to join Cable Television Laboratories (CableLabs) to establish the Cable Modem Industry Standards DOCSIS.[1] Since then, he has put in 18-hour days at the CableLabs office in Denver, CO, driving a team of volunteer staff from 400 suppliers and 20 cable operators, and key contributors to establish Data over Cable Service Interface Specifications (DOCSIS), a pillar of today’s worldwide, multibillion-dollar broadband industry.[23] His tremendous effort within the first six years of working with CableLabs with responsibility over strategic vision, tactical execution, and budgeting resulted in a fully interoperable cable modem standard, a complex document that is used by many cable operators to transfer data over their cable infrastructures. Yassini also worked through the Society of Cable and Telecommunications Engineers (SCTE) and the International Telecommunications Union (ITU) to establish DOCSIS as an international standard.[11] His prominent contribution to DOCSIS and his pioneering work in cable broadband technology as founder and CEO of LANcity, earned him the title of “Father of Cable Modem”.[1] Yassini is still actively working with CableLabs to improve DOCSIS to address the issues on Bandwidth and business quality Services.[3]
+YAS[edit]
+Yassini is founder, CEO, and president of YAS Capital Partners LLC. founded in 1997 in Boston, MA.[1][9] As founder, president and CEO of “YAS” (which refers to a pleasant-smelling Iranian flower Of Jasmine), Yassini has been instrumental in the creation of multiple start-up companies that have either been acquired or have successfully staged initial public stock offerings. He also led hundreds of strategic and tactical projects that improved the quality of life for citizens across the world.[12] He served as senior executive consultant and member of the board of directors on a number of privately and publicly held companies, ranging from small innovative start-ups (Broadband Access Systems, TrueChat, Entropic Communications, and others) to leading broadband service providers such as Comcast, Cablevision Systems Corp., Cox Communications and Time Warner Cable, which collectively serve tens of millions of customers. He is currently a member of the Liberty Global Inc. (LGI) advisory technology board and UPC Technical Advisory Committee.[1][4][12]
+Yassini Broadband Knowledge Center (YBKC)[edit]
+In the spring of 2008, Yassini opened the Yassini Broadband Knowledge Center (YKBC), in Boston, MA.[24] The Broadband Academy, which is the research division of YAS, built and operated the first ever broadband building with 50 Broadband applications showcasing TRUE POWER OF Broadband, and offering grants and facilities to advance and promote broadband technologies, services, and applications. The center was transferred later to the University of New Hampshire in 2012, through the Broadband Center of Excellence (UNHBCoE).[15]
+UNHBCoE[edit]
+In September 2013 Yassini announced opening of the University Of New Hampshire Broadband Center Of Excellence (UNHBCoE)[25][26] in Durham, N.H where he acts as its executive director and board member, oversees the center’s efforts to investigate fresh ideas in broadband Internet technology and makes it a ubiquitous service available to everyone, everywhere.[12]
+At UNHBCoE, Yassini with a team of researchers, professors, and broadband pioneers (the same team at YKBC) put all his effort to extend broadband to unserved and under-served communities, promotes UNH as a fully broadband-enabled university and home to the UNH Interoperability Laboratory, a world-recognized independent networking and data communications testing facility and to show how an entire city or state can use broadband services and improve the quality of life.[27] His lifetime dream is that all the people in the world are connected to the broadband 24×7 no matter where they are located.
+Education[edit]
+
+2006: Honorary PhD in Science and Technology from Merrimack College, N. Andover, MA
+2003: Honorary Ph.D., in Science from West Virginia University
+1984-86: M.B.A equivalent, GE, Financial Management Program (FMP)
+1982-83: O.D.U., Norfolk, VA, Nine hour graduate study
+1977-1981: West Virginia University BS. Electrical Engineering [9]
+
+Selected Awards and Achievements[edit]
+
+2013: Established Broadband Center of Excellence at UNH to empower the world with Ubiquitous Broadband.[25][26]
+2013: Inducted to WVU Distinguished Alumni class of 2013.[28]
+2012: Inducted to Cable TV Pioneer class of 2012, and Cablevision Executive Award
+2011: Endeca Acquired by Oracle (1997 Investment)
+2010: Broadsoft - VOIP- IPO (2000 Investment)
+2009: Wild Blue (Satellite Internet access) was acquired by Viasat (1999 Investment)
+2008: Created Yassini Broadband Knowledge Center (Broadband Research Center)[24]
+2007: Entropic - Home Networking silicon vendor – IPO 2007 (2001 investment)
+2006: Honorary PhD in Science and Technology from Merrimack College, N. Andover, MA
+2005: Inducted as the youngest member of the WVU Lane Department of Academy[20]
+2004: The NCTA awarded Yassini with a 2004 Vanguard award, The Cable Industry’s highest honor, in recognition of his contributions and dedication to creating the first ever industry standards
+2003: Honorary Ph.D. in Science from West Virginia University [20]
+2003: Chair of The Cable Industry’s first Vendor & Operator Executive Advisory Forum[21]
+2002: CED Broadband Top 50 leadership designates to lead 3 separate DOCSIS versions in less than 40 months[11]
+2001: Enabled and managed the development of the state-of-the-art DOCSIS 2.0 symmetrical services worldwide
+2000: Created and Introduced DOCSIS 1.1 Standards to the industry
+1999: Principal contributor behind retail (CE) availability of DOCSIS 1.0, marking the cable industry’s first-ever cable modem certification process in which a consumer product met a cable industry standardized specification
+1997-99: CED Magazine named him "1998 Man of the Year and “father of Cable Modem" for creating and fostering the cable modem “Broadband”. Innovated first ever industry standards process that led to creation of worldwide DOCSIS standards & certifications through the Cable Television Laboratories and SCTE which led to its acceptance by the ITU in 2000. These standards are pillar of Multibillion dollars Broadband industry revolution[1][11]
+1996–present: Founder, CEO of YAS Capital Partners LLC. The firm has created 9+ start-up companies that have been either sold ($10M to $2.3 B) or IPO. Firms provides CEO consulting to Service provider[9]
+1990-96: Founder, CEO & President, LANcity Corporation (Created the Broadband Industry via its innovation and creation of first Cable Modem). LANcity was purchased by Nortel (Bay Networks) in 1996[9]
+1988-89: Turn-around a $30 M investment in badly run Applitek to a successful acquisition by LANcity[1]
+1986-88: Developed first intelligent Network hub as Dir. of Engineering, Proteon Inc.[1]
+1981-86: Build first ever digital TV platform with ITT at General Electric as well as member of team for first ever Bandwidth Compression Set-Top-Box. Member of GE Financial Management Program
+
+Bibliography[edit]
+
+Rouzbeh Yassini, Planet Broadband, (Cisco Press, 2004), ISBN 978-1587200908
+Rouzbeh Yassini, Internet Of People: The Future Of Broadband, Broadband Library, Winter 2014[29]
+Rouzbeh Yassini, Television White Spaces: Assessing TVWS for Rural Broadband Access, UNHBCoE, November 2014[30]
+Rouzbeh Yassini, Broadband 2030: The Networked Future, Broadband Intelligent Series, UNHBCoE, December 2013[16]
+Rouzbeh Yassini, Broadband 2020: Achieving Ubiquity, Broadband Intelligent Series, UNHBCoE, November 2013[15]
+
+References[edit]
+
+
+^ a b c d e f g h i j k l m n o p q r s t Roger Brown (31 December 1998). "Rouzbeh Yassini Fulfills a Tall Order". CED Magazine. Retrieved 24 January 2014. 
+^ Jamie Adams (24 September 2003). "Cisco Press Author Rouzbeh Yassini, Father of the Cable Modem, Tells How Broadband Will Change Our Lives". 
+^ a b "'Father' Knows Best". 22 October 2012. 
+^ a b c d e f g h i "Rouzbeh Yassini-Fard ('81 BS)". 
+^ a b c "Rouzbeh Yassini". 
+^ Efrain Viscarolasaga (26 Mar 2009). "Broadband boosterism blooms on Newbury Street". Boston Business Journal. 
+^ Efrain Viscarolasaga (28 Apr 2009). "Northeastern program targets product commercialization". Boston Business Journal. 
+^ Planet Broadband By Rouzbeh Yassini. 
+^ a b c d e f g "Rouzbeh Yassini". 
+^ "Rouzbeh Yassini". 
+^ a b c d e "Rouzbeh Yassini, Ph.D". 
+^ a b c d e f g h i "Rouzbeh Yassini, Ph.D. Executive Director, Broadband Center of Excellence". 
+^ "Rouzbeh Yassini, Ph.D. Executive Director, Broadband Center of Excellence". 
+^ a b c "Rouzbeh Yassini". 
+^ a b c "Broadband 2020: Achieving Ubiquity". 
+^ a b "A 2030 vision for broadband". 
+^ "Dr. Rouzbeh Yassini - Rural Connectivity". 
+^ "UNH BCoE Yassini TVWS 0514". 
+^ "UNH BCOE". 
+^ a b c d "Rouzbeh Yassini on the past, present and future of broadband". 
+^ a b c d "Dr. Rouzbeh Yassini". 
+^ "Visteon Board, Eyeing Growth of Connected Car Market, Appoints Joanne M. Maguire and Rouzbeh Yassini-Fard as Directors". 
+^ ,. "Dr. Rouzbeh Yassini". 
+^ a b "Research". 
+^ a b Shayna Sylvia (2 October 2013). "Broadband Center of Excellence Conference". 
+^ a b Gretyl Macalaster (19 January 2014). "Broadband pioneer starts new initiative at UNH". 
+^ "University of New Hampshire Broadband Center of Excellence". 
+^ "WVU honors award-winning journalist, cable modem founder and feed industry executive". 6 February 2013. 
+^ http://broadbandlibrary.com/index.shtml
+^ http://www.unhbcoe.org/sites/unhbcoe.org/files/bcoe_tvws_trial_november_2014_final_locked.pdf
+
+
+External links[edit]
+
+https://twitter.com/YASCapital
+Dr. Rouzbeh Yassini: Oral and Video History Collection Interview on YouTube
+Rouzbeh Yassini talks at the cable center - Denver on YouTube
+'Father' Knows Best on YouTube
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Rouzbeh_Yassini&oldid=789003346"					
+Categories: Cable television in the United StatesAmerican people of Iranian descentAmerican technology writersLiving peopleHidden categories: Articles with hCardsArticles containing Persian-language text 

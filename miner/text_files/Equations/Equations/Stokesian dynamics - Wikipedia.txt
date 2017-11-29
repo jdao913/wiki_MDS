@@ -1,0 +1,605 @@
+Stokesian dynamics - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Stokesian dynamics[1] is a solution technique for the Langevin equation, which is the relevant form of Newton's 2nd law for a Brownian particle. The method treats the suspended particles in a discrete sense while the continuum approximation remains valid for the surrounding fluid, i.e., the suspended particles are generally assumed to be significantly larger than the molecules of the solvent. The particles then interact through hydrodynamic forces transmitted via the continuum fluid, and when the particle Reynolds number is small, these forces are determined through the linear Stokes equations (hence the name of the method). In addition, the method can also resolve non-hydrodynamic forces, such as Brownian forces, arising from the fluctuating motion of the fluid, and interparticle or external forces. Stokesian Dynamics can thus be applied to a variety of problems, including sedimentation, diffusion and rheology, and it aims to provide the same level of understanding for multiphase particulate systems as molecular dynamics does for statistical properties of matter. For 
+
+
+
+N
+
+
+{\displaystyle N}
+
+ rigid particles of radius 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ suspended in an incompressible Newtonian fluid of viscosity 
+
+
+
+η
+
+
+{\displaystyle \eta }
+
+ and density 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+, the motion of the fluid is governed by the Navier–Stokes equations, while the motion of the particles is described by the coupled equation of motion:
+
+
+
+
+
+
+m
+
+
+
+
+d
+
+U
+
+
+
+d
+t
+
+
+
+=
+
+
+F
+
+
+
+H
+
+
+
++
+
+
+F
+
+
+
+B
+
+
+
++
+
+
+F
+
+
+
+P
+
+
+
+.
+
+
+{\displaystyle \mathbf {m} {\frac {d\mathbf {U} }{dt}}=\mathbf {F} ^{\mathrm {H} }+\mathbf {F} ^{\mathrm {B} }+\mathbf {F} ^{\mathrm {P} }.}
+
+
+
+In the above equation 
+
+
+
+
+U
+
+
+
+{\displaystyle \mathbf {U} }
+
+ is the particle translational/rotational velocity vector of dimension 6N. 
+
+
+
+
+
+F
+
+
+
+H
+
+
+
+
+
+{\displaystyle \mathbf {F} ^{\mathrm {H} }}
+
+ is the hydrodynamic force, i.e., force exerted by the fluid on the particle due to relative motion between them. 
+
+
+
+
+
+F
+
+
+
+B
+
+
+
+
+
+{\displaystyle \mathbf {F} ^{\mathrm {B} }}
+
+ is the stochastic Brownian force due to thermal motion of fluid particles. 
+
+
+
+
+
+F
+
+
+
+P
+
+
+
+
+
+{\displaystyle \mathbf {F} ^{\mathrm {P} }}
+
+ is the deterministic nonhydrodynamic force, which may be almost any form of interparticle or external force, e.g. electrostatic repulsion between like charged particles. Brownian dynamics is one of the popular techniques of solving the Langevin equation, but the hydrodynamic interaction in Brownian dynamics is highly simplified and normally includes only the isolated body resistance. On the other hand, Stokesian dynamics includes the many body hydrodynamic interactions. Hydrodynamic interaction is very important for non-equilibrium suspensions, like a sheared suspension, where it plays a vital role in its microstructure and hence its properties. Stokesian dynamics is used primarily for non-equilibrium suspensions where it has been shown to provide results which agree with experiments.[2]
+
+
+
+Contents
+
+
+1 Hydrodynamic interaction
+2 Brownian force
+3 See also
+4 References
+
+
+
+Hydrodynamic interaction[edit]
+When the motion on the particle scale is such that the particle Reynolds number is small, the hydrodynamic force exerted on the particles in a suspension undergoing a bulk linear shear flow is:
+
+
+
+
+
+
+
+F
+
+
+
+H
+
+
+
+=
+−
+
+
+R
+
+
+
+F
+U
+
+
+
+(
+
+U
+
+−
+
+
+U
+
+
+∞
+
+
+)
++
+
+
+R
+
+
+
+F
+E
+
+
+
+:
+
+
+E
+
+
+∞
+
+
+.
+
+
+{\displaystyle \mathbf {F} ^{\mathrm {H} }=-\mathbf {R} _{\mathrm {FU} }(\mathbf {U} -\mathbf {U} ^{\infty })+\mathbf {R} ^{\mathrm {FE} }:\mathbf {E} ^{\infty }.}
+
+
+
+Here, 
+
+
+
+
+
+U
+
+
+∞
+
+
+
+
+{\displaystyle \mathbf {U} ^{\infty }}
+
+ is the velocity of the bulk shear flow evaluated at the particle center, 
+
+
+
+
+
+E
+
+
+∞
+
+
+
+
+{\displaystyle \mathbf {E} ^{\infty }}
+
+ is the symmetric part of the velocity-gradient tensor; 
+
+
+
+
+
+R
+
+
+
+F
+U
+
+
+
+
+
+{\displaystyle \mathbf {R} _{\mathrm {FU} }}
+
+ and 
+
+
+
+
+
+R
+
+
+
+F
+E
+
+
+
+
+
+{\displaystyle \mathbf {R} _{\mathrm {FE} }}
+
+ are the configuration-dependent resistance matrices that give the hydrodynamic force/torque on the particles due to their motion relative to the fluid (
+
+
+
+
+
+R
+
+
+
+F
+U
+
+
+
+
+
+{\displaystyle \mathbf {R} _{\mathrm {FU} }}
+
+) and due to the imposed shear flow (
+
+
+
+
+
+R
+
+
+
+F
+E
+
+
+
+
+
+{\displaystyle \mathbf {R} _{\mathrm {FE} }}
+
+). Note that the subscripts on the matrices indicate the coupling between kinematic (
+
+
+
+
+U
+
+
+
+{\displaystyle \mathbf {U} }
+
+) and dynamic (
+
+
+
+
+F
+
+
+
+{\displaystyle \mathbf {F} }
+
+) quantities.
+One of the key features of Stokesian dynamics is its handing of the hydrodynamic interactions, which is fairly accurate without being computationally inhibitive (like boundary integral methods) for a large number of particles. Classical Stokesian dynamics requires 
+
+
+
+O
+(
+
+N
+
+3
+
+
+)
+
+
+{\displaystyle O(N^{3})}
+
+ operations where N is the number of particles in the system (usually a periodic box). Recent advances have reduced the computational cost to about 
+
+
+
+O
+(
+
+N
+
+1.25
+
+
+
+log
+⁡
+N
+)
+.
+
+
+{\displaystyle O(N^{1.25}\,\log N).}
+
+[3][4]
+Brownian force[edit]
+The stochastic or Brownian force 
+
+
+
+
+
+F
+
+
+
+B
+
+
+
+
+
+{\displaystyle \mathbf {F} ^{\mathrm {B} }}
+
+ arises from the thermal fluctuations in the fluid and is characterized by:
+
+
+
+
+
+
+⟨
+
+
+F
+
+
+
+B
+
+
+
+⟩
+
+=
+0
+
+
+{\displaystyle \left\langle \mathbf {F} ^{\mathrm {B} }\right\rangle =0}
+
+
+
+
+
+
+
+⟨
+
+
+F
+
+
+
+B
+
+
+
+(
+0
+)
+
+
+F
+
+
+
+B
+
+
+
+(
+t
+)
+⟩
+
+=
+2
+k
+T
+
+
+R
+
+
+
+F
+U
+
+
+
+δ
+(
+t
+)
+
+
+{\displaystyle \left\langle \mathbf {F} ^{\mathrm {B} }(0)\mathbf {F} ^{\mathrm {B} }(t)\right\rangle =2kT\mathbf {R} _{\mathrm {FU} }\delta (t)}
+
+
+
+The angle brackets denote an ensemble average, 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ is the Boltzmann constant, 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is the absolute temperature and 
+
+
+
+δ
+(
+t
+)
+
+
+{\displaystyle \delta (t)}
+
+ is the delta function. The amplitude of the correlation between the Brownian forces at time 
+
+
+
+0
+
+
+{\displaystyle 0}
+
+ and at time 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ results from the fluctuation-dissipation theorem for the N-body system.
+See also[edit]
+
+Immersed boundary method
+Stochastic Eulerian Lagrangian method
+
+References[edit]
+
+
+
+^ Brady, John; Bossis, Georges (1988). "Stokesian Dynamics". Annu. Rev. Fluid Mech. 20: 111–157. Bibcode:1988AnRFM..20..111B. doi:10.1146/annurev.fl.20.010188.000551. 
+^ Seto, Ryohei; Romain Mari (2013). "Discontinuous Shear Thickening of Frictional Hard-Sphere Suspensions". Phys. Rev. Lett. 111: 218301. arXiv:1306.5985 . Bibcode:2013PhRvL.111u8301S. doi:10.1103/PhysRevLett.111.218301. PMID 24313532. 
+^ Brady, John; Sierou, Asimina (2001). "Accelerated Stokesian Dynamics simulations". Journal of Fluid Mechanics. 448: 115–146. doi:10.1017/S0022112001005912. 
+^ Banchio, Adolfo J.; John F. Brady (2003). "Accelerated Stokesian dynamics: Brownian motion". Journal of Chemical Physics. 118 (22): 10323. Bibcode:2003JChPh.11810323B. doi:10.1063/1.1571819. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Stokesian_dynamics&oldid=802631498"					
+Categories: Statistical mechanicsEquationsFluid mechanics 

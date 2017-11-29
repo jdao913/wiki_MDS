@@ -1,0 +1,116 @@
+Tijdeman's theorem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In number theory, Tijdeman's theorem states that there are at most a finite number of consecutive powers. Stated another way, the set of solutions in integers x, y, n, m of the exponential diophantine equation
+
+
+
+
+
+
+y
+
+m
+
+
+=
+
+x
+
+n
+
+
++
+1
+,
+
+
+{\displaystyle y^{m}=x^{n}+1,}
+
+
+
+for exponents n and m greater than one, is finite.[1][2]
+History[edit]
+The theorem was proven by Dutch number theorist Robert Tijdeman in 1976,[3] making use of Baker's method in transcendental number theory to give an effective upper bound for x,y,m,n. Michel Langevin computed a value of exp exp exp exp 730 for the bound.[1][4][5]
+Tijdeman's theorem provided a strong impetus towards the eventual proof of Catalan's conjecture by Preda Mihăilescu.[6] Mihăilescu's theorem states that there is only one member to the set of consecutive power pairs, namely 9=8+1.[7]
+Generalized Tijdeman problem[edit]
+That the powers are consecutive is essential to Tijdeman's proof; if we replace the difference of 1 by any other difference k and ask for the number of solutions of
+
+
+
+
+
+
+y
+
+m
+
+
+=
+
+x
+
+n
+
+
++
+k
+
+
+{\displaystyle y^{m}=x^{n}+k}
+
+
+
+with n and m greater than one we have an unsolved problem,[8] called the generalized Tijdeman problem. It is conjectured that this set also will be finite. This would follow from a yet stronger conjecture of Pillai (1931), see Catalan's conjecture, stating that the equation 
+
+
+
+A
+
+y
+
+m
+
+
+=
+B
+
+x
+
+n
+
+
++
+k
+
+
+{\displaystyle Ay^{m}=Bx^{n}+k}
+
+ only has a finite number of solutions. The truth of Pillai's conjecture, in turn, would follow from the truth of the abc conjecture.[9]
+References[edit]
+
+
+
+^ a b Narkiewicz, Wladyslaw (2011), Rational Number Theory in the 20th Century: From PNT to FLT, Springer Monographs in Mathematics, Springer-Verlag, p. 352, ISBN 0-857-29531-4 
+^ Schmidt, Wolfgang M. (1996), Diophantine approximations and Diophantine equations, Lecture Notes in Mathematics, 1467 (2nd ed.), Springer-Verlag, p. 207, ISBN 3-540-54058-X, Zbl 0754.11020 
+^ Tijdeman, Robert (1976), "On the equation of Catalan", Acta Arithmetica, 29 (2): 197–209, Zbl 0286.10013 
+^ Ribenboim, Paulo (1979), 13 Lectures on Fermat's Last Theorem, Springer-Verlag, p. 236, ISBN 0-387-90432-8, Zbl 0456.10006 
+^ Langevin, Michel (1977), "Quelques applications de nouveaux résultats de Van der Poorten", Séminaire Delange-Pisot-Poitou, 17e année (1975/76), Théorie des nombres, Paris: Secrétariat Math., 2 (G12), MR 0498426 
+^ Metsänkylä, Tauno (2004), "Catalan's conjecture: another old Diophantine problem solved" (PDF), Bulletin of the American Mathematical Society, 41 (1): 43–57, doi:10.1090/S0273-0979-03-00993-5 
+^ Mihăilescu, Preda (2004), "Primary Cyclotomic Units and a Proof of Catalan's Conjecture", Journal für die reine und angewandte Mathematik, 572 (572): 167–195, doi:10.1515/crll.2004.048, MR 2076124 
+^ Shorey, T.N.; Tijdeman, R. (1986). Exponential Diophantine equations. Cambridge Tracts in Mathematics. 87. Cambridge University Press. p. 202. ISBN 0-521-26826-5. Zbl 0606.10011. 
+^ Narkiewicz (2011), pp. 253–254
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Tijdeman%27s_theorem&oldid=790777974"					
+Categories: Theorems in number theoryDiophantine equations 

@@ -1,0 +1,352 @@
+Estimated date of confinement - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+"Due date" redirects here. For the 2010 film, see Due Date.
+The Estimated Date of Confinement (EDC), also known as expected date of delivery/estimated due date (EDD) or simply due date, is a term describing the estimated delivery date for a pregnant woman.[1] Normal pregnancies last between 37 and 42 weeks.[2]
+
+
+
+Contents
+
+
+1 Origins of the term
+2 Estimation methods
+
+2.1 Estimation of gestational age
+2.2 Estimation of gestational age at childbirth
+
+2.2.1 Variability
+2.2.2 Standard 280 days
+
+2.2.2.1 Naegele's rule
+2.2.2.2 Mobile apps
+
+
+2.2.3 Other suggested durations
+2.2.4 Individualized
+
+
+
+
+3 References
+
+
+
+Origins of the term[edit]
+Confinement is a traditional term referring to the period of pregnancy whereby a woman would be confined to bed (in an effort to reduce risk of premature delivery).[citation needed] Except in threatened pregnancies (for example, in pre-eclampsia), this is no longer a part of antenatal care.
+Estimation methods[edit]
+Due date estimation basically follows two steps:
+
+Determination of which time point is to be used as the origin for gestational age. This starting point is the woman's last normal menstrual period (LMP) or the corresponding time as estimated by a more accurate method if available. Such methods include adding 14 days to a known duration since fertilization (as is possible in in vitro fertilization), or by obstetric ultrasonography.
+Adding the estimated gestational age at childbirth to the above time point. Childbirth on average occurs at a gestational age of 280 days (40 weeks), which is therefore often used as a standard estimation for individual pregnancies.[3] However, alternative durations as well as more individualized methods have also been suggested.
+
+Estimation of gestational age[edit]
+Main article: Gestational age
+According to American Congress of Obstetricians and Gynecologists, the main methods to calculate gestational age are:[4]
+
+Directly calculating the days since the beginning of the last menstrual period
+Early obstetric ultrasound, comparing the size of an embryo or fetus to that of a reference group of pregnancies of known gestational age (such as calculated from last menstrual periods), and using the mean gestational age of other embryos or fetuses of the same size. If the gestational age as calculated from an early ultrasound is contradictory to the one calculated directly from the last menstrual period, it is still the one from the early ultrasound that is used for the rest of the pregnancy.[4]
+In case of in vitro fertilization, calculating days since oocyte retrieval or co-incubation and adding 14 days.[5]
+
+
+Estimation of gestational age at childbirth[edit]
+Childbirth on average occurs at a gestational age of 280 days (40 weeks), which is therefore often used as a standard estimation for individual pregnancies.[3] However, alternative durations as well as more individualized methods have also been suggested. There is in any case considerable variation among individual pregnancies.
+Variability[edit]
+
+
+
+
+Distribution of gestational age at childbirth among singleton live births, given both when gestational age is estimated by first trimester ultrasound and directly by last menstrual period. About 80% of childbirths occur between 37 and 41 weeks of gestational age, with a somewhat more narrow span when based on first trimester ultrasound.[6]
+
+
+Given that these gestation lengths are only estimates of an average, it is helpful to consider gestation time as a range of dates rather than as a single "due date". The median is merely a guideline for the day at which half of all births occur earlier, and half of all births occur later. Births rarely occur on a due date, but they are clustered around due dates.[7] A study of singleton live births in the US came to the result that childbirth has a standard deviation of 14 days when gestational age is estimated by first trimester ultrasound, and 16 days when estimated directly by last menstrual period.[6]
+Standard 280 days[edit]
+Naegele's rule[edit]
+Naegele's rule is a standard way of calculating the due date for a pregnancy when assuming a gestational age of 280 days at childbirth. The rule estimates the expected date of delivery (EDD) by adding a year, subtracting three months, and adding seven days to the origin of gestational age. The result is approximately 280 days (40 weeks) from the start of the last menstrual period. Another method is by adding 9 months and 7 days to the first day of the last menstrual period.
+Naegele's rule is named after Franz Karl Naegele (1778–1851), the German obstetrician who devised the rule. Naegele was born July 12, 1778, in Düsseldorf, Germany. In 1806, Naegele became ordinary professor and director of the lying-in hospital in Heidelberg. His Lehrbuch der Geburtshilfe, published in 1830 for midwives, enjoyed a successful 14 editions.
+Example:
+LMP = 8 May 2009
+
++1 year = 8 May 2010
+−3 months = 8 February 2010
++7 days = 15 February 2010
+
+280 days past the start of the last menstrual period is found by checking the day of the week of the LMP and adjusting the calculated date to land on the same day of the week. Using the example above, 8 May 2009 is a Friday. The calculated date (15 February) is a Monday; adjusting to the closest Friday produces 12 February, which is exactly 280 days past 8 May. The calculation method does not always result in 280 days because not all calendar months are the same length; it does not account for leap years.
+Mobile apps[edit]
+Mobile apps essentially always give consistent estimations compared to each other and correct for leap year, while pregnancy wheels made of paper can differ from each other by 7 days and generally do not correct for leap year.[8]
+Other suggested durations[edit]
+
+276 days for both ultrasound-estimated and LMP-estimated gestational age in a US study of 1867 singleton live births.[6]
+281 days after LMP with a standard deviation of 13 days, was the result of a population-based study of 427,581 singleton births in Sweden.[9]
+281 days after LMP for first-time mothers and 280 days for all others were the medians found by a 1995 American study of 1,970 spontaneous births. Standard deviation was 7–9 days.[10][11]
+282 days after LMP was recommended for cases where LMP is the only known factor, in a study of 17,450 patients combining LMP and ultrasound measurement techniques.[12]
+A median of 288 days (274 days from the date of ovulation) for first-time mothers and 283 days (269 days from the date of ovulation) for mothers with at least one previous pregnancy was found by a 1990 study of 114 white, private-care patients with uncomplicated pregnancies and spontaneous labor. The authors suggest that excluding pregnancies involving complications (that often lead to pre-term deliveries) accounts for the longer periods.[13]
+
+Individualized[edit]
+
+Parikh's formula is a calculation method that considers cycle duration. Naegele's rule assumes an average cycle length of 28 days, which is not true for everyone. EDD is calculated using Parikh's formula by adding nine months to the start of the last menstrual period, subtracting 21 days, then adding duration of previous cycles.[14]
+Multiple linear regression models have also been developed that account for maternal parity, age, and race, all which have been found to be important variables determining the length of human gestation. Multiparous women, women aged less than 19 or more than 34 years, and black women have been found to have shorter gestations than primiparous women, women aged 19 to 34 years, or white women.[15]
+
+References[edit]
+
+
+
+^ "Definition of Estimated date of confinement (EDC)". MedicineNet, Inc. Retrieved 13 January 2010. 
+^ Durham, Janelle (2004). "How accurate is your Due Date?". www.transitiontoparenthood.com. Retrieved 13 January 2010. 
+^ a b "Calculating Your Due Date". Healthline Networks, Inc. Retrieved 13 January 2010. 
+^ a b Obstetric Data Definitions Issues and Rationale for Change - Gestational Age & Term Archived 2013-11-06 at the Wayback Machine. from Patient Safety and Quality Improvement at American Congress of Obstetricians and Gynecologists. Created November 2012.
+^ Tunon, K.; Eik-Nes, S. H.; Grøttum, P.; Von Düring, V.; Kahn, J. A. (2000). "Gestational age in pregnancies conceived after in vitro fertilization: A comparison between age assessed from oocyte retrieval, crown-rump length and biparietal diameter". Ultrasound in Obstetrics and Gynecology. 15 (1): 41–46. doi:10.1046/j.1469-0705.2000.00004.x. PMID 10776011. 
+^ a b c Hoffman, Caroline S.; Messer, Lynne C.; Mendola, Pauline; Savitz, David A.; Herring, Amy H.; Hartmann, Katherine E. (2008). "Comparison of gestational age at birth based on last menstrual period and ultrasound during the first trimester". Paediatric and Perinatal Epidemiology. 22 (6): 587–596. doi:10.1111/j.1365-3016.2008.00965.x. ISSN 0269-5022. 
+^ Evaluation of Gestation at eMedicine
+^ Chambliss LR, Clark SL (2014). "Paper gestational age wheels are generally inaccurate". Am. J. Obstet. Gynecol. 210 (2): 145.e1–4. doi:10.1016/j.ajog.2013.09.013. PMID 24036402. 
+^ Bergsjø P, Denman DW 3rd, Hoffman HJ, Meirik O. (1990). "Duration of human singleton pregnancy. A population-based study". Acta Obstet Gynecol Scand: 197–207. CS1 maint: Multiple names: authors list (link)
+^ Gray, H (1962). "Duration of pregnancy". Stanford Medical Bulletin. 20: 24–8. PMID 13901307. 
+^ H. Kieler; O. Axelsson; S. Nilsson; U. Waldenströ (1995). "The length of human pregnancy as calculated by ultrasonographic measurement of the fetal biparietal diameter". Ultrasound in Obstetrics & Gynecology. 6 (5): 353–357. doi:10.1046/j.1469-0705.1995.06050353.x. PMID 8590208. 
+^ Nguyen T, Larsen T, Engholm G, Møller H (1999). "Evaluation of ultrasound-estimated date of delivery in 17,450 spontaneous singleton births: do we need to modify Naegele's rule?". Ultrasound Obstet Gynecol. 14 (1): 23–8. doi:10.1046/j.1469-0705.1999.14010023.x. PMID 10461334. 
+^ Mittendorf R, Williams MA, Berkey CS, Cotter PF (1990). "The length of uncomplicated human gestation". Obstet Gynecol. 75 (5): 929–32. PMID 2342739. 
+^ Rakesh M. Parikh (2007). "Parikh's formula to minimize errors in calculating expected date of delivery". Medical Hypotheses. 68 (4): 928. doi:10.1016/j.mehy.2006.10.004. 
+^ Mittendorf R, Williams MA, Berkey CS, Lieberman E, Monson RR (1993). "Predictors of human gestational length". American Journal of Obstetrics and Gynecology. 168 (2): 480–484. doi:10.1016/0002-9378(93)90476-Y. PMID 8438913. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Pregnancy and childbirth
+
+
+
+Planning
+
+
+
+Birth control
+Natural family planning
+Pre-conception counseling
+
+
+
+
+
+Conception
+
+
+
+Assisted reproductive technology
+
+Artificial insemination
+Fertility medication
+In vitro fertilisation
+
+
+Fertility awareness
+Unintended pregnancy
+
+
+
+
+
+Testing
+
+
+
+3D ultrasound
+Obstetric ultrasonography
+Pregnancy test
+
+Home testing
+
+
+Prenatal diagnosis
+
+
+
+
+
+Prenatal
+
+
+
+
+Anatomy
+
+
+
+Amniotic fluid
+Amniotic sac
+Endometrium
+Placenta
+
+
+
+
+
+Development
+
+
+
+Fundal height
+Gestational age
+Human embryogenesis
+Maternal physiological changes
+Postpartum physiological changes
+
+
+
+
+
+Care
+
+
+
+Nutrition
+
+Environmental toxicants
+In pregnancy
+Prenatal
+
+
+Concomitant conditions
+
+Drinking
+Diabetes mellitus
+Smoking
+Vaping
+SLE
+
+
+Sexual activity during pregnancy
+
+
+
+
+
+Procedures
+
+
+
+Amniocentesis
+Cardiotocography
+Chorionic villus sampling
+Nonstress test
+Abortion
+
+
+
+
+
+
+
+
+Childbirth
+
+
+
+
+Preparation
+
+
+
+Adaptation to extrauterine life
+Bradley method
+Hypnobirthing
+Lamaze
+Nesting instinct
+
+
+
+
+
+Roles
+
+
+
+Doula
+Men's roles
+Midwife
+Obstetrician
+Perinatal nurse
+
+
+
+
+
+Delivery
+
+
+
+Bloody show
+Childbirth positions
+Home birth
+Multiple birth
+Natural childbirth
+Pelvimetry / Bishop score
+
+Cervical dilation
+Cervical effacement
+Position
+
+
+Presentation
+
+Breech
+Cephalic
+Shoulder
+
+
+Rupture of membranes
+Unassisted childbirth
+Uterine contraction
+Water birth
+
+
+
+
+
+
+
+
+Postpartum
+
+
+
+Child care
+Congenital disorders
+Sex after pregnancy
+
+
+
+
+
+Obstetric history
+
+
+
+Gravidity
+Parity
+TPAL
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Estimated_date_of_confinement&oldid=808448583"					
+Categories: Human pregnancyObstetricsMedical ultrasonographyEquationsRules of thumbMidwiferyHidden categories: Webarchive template wayback linksCS1 maint: Multiple names: authors listAll articles with unsourced statementsArticles with unsourced statements from December 2012 

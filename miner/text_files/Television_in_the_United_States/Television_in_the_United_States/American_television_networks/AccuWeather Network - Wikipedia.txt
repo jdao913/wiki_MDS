@@ -1,0 +1,322 @@
+AccuWeather Network - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the national channel available on Fios. For the local subchannel, see The Local AccuWeather Channel.
+
+
+AccuWeather Network
+
+
+
+
+
+Launched
+March 10, 2015 (2015-03-10)
+
+
+Owned by
+AccuWeather
+
+
+Picture format
+1080i (HDTV)
+480i (SDTV)
+
+
+Slogan
+All Weather, All the Time
+
+
+Country
+ United States
+
+
+Language
+English
+
+
+Broadcast area
+Nationwide (available in select markets)
+
+
+Headquarters
+State College, Pennsylvania, USA
+
+
+Sister channel(s)
+The Local AccuWeather Channel
+
+
+Website
+www.accuweather.com
+
+
+
+Availability
+
+
+
+Cable
+
+
+Fios
+119 (SD)
+619 (HD)
+
+
+The AccuWeather Network is an American cable television network that is owned by AccuWeather. The network broadcasts pre-recorded national and regional weather forecasts, analysis of ongoing weather events, and weather-related news, along with local weather segments for mostly the Northeastern United States. The network's studio and master control facilities are based at AccuWeather's headquarters in State College, Pennsylvania.
+
+
+
+Contents
+
+
+1 History
+2 Programming
+
+2.1 Local forecasts
+
+
+3 See also
+4 References
+5 External links
+
+
+
+History[edit]
+AccuWeather, which for many years had distributed its forecast content to participating broadcast television stations around the United States, launched its first 24-hour television venture in 2007, with the launch of The Local AccuWeather Channel (now AccuWeather Channel), a network distributed via the digital subchannels of various commercial (and in one case, non-commercial) stations, primarily featuring pre-recorded local, regional, and national forecast segments.
+On January 13, 2014, AccuWeather announced that it would launch a new national weather channel, tentatively named "AccuWeather Channel", in the third quarter of that year.[1][2] The channel aimed to focus its programming on forecasts and other weather information, designed as an alternative to The Weather Channel, which, since its purchase by NBCUniversal, Bain Capital, and The Blackstone Group in 2008, shifted towards a mix of forecasts and reality series which had a tenuous or limited connection to weather.
+Plans to form a competing network began to be developed by AccuWeather in 2013; however, the company did not intend to publicly announce the launch until later the following year, with founder and president Dr. Joel N. Myers citing the decision to announce the launch earlier based on the limited "availability of quality forecasts on TV", and a then-ongoing carriage dispute between The Weather Channel and satellite provider DirecTV to make notice of the new service.[3][1] Barry Lee Myers, chief executive officer of AccuWeather, cited the company's decision to start the new channel as it had already offered "coverage in virtually every other medium" and, because of its existing digital presence, created a channel that would have the "look and feel of a digital device".[4] AccuWeather Network was announced as a multi-platform service that would be streamed on the internet and mobile websites of AccuWeather and on its affiliate partners (which did not occur upon its initial launch), in addition to cable and satellite distribution.[3] The channel's launch was eventually delayed until the channel was able to secure carriage on pay television providers.
+The network was launched on March 10, 2015, with Verizon Fios as the first provider to offer the new network; Verizon Fios began carrying AccuWeather Network on channels 119 (in standard definition) and 619 (in high definition) after the provider's carriage agreement with The Weather Channel (which was replaced by AccuWeather Network in its respective channel slots) and its sister network Weatherscan (itself initially replaced on the provider by a widget featuring forecast content sourced from WeatherBug) expired without a renewal.[5][6][7] Ironically, Verizon's decision to replace The Weather Channel with AccuWeather Network was despite its claim that the former's removal was a long-term business decision based on the increasing consumer availability of weather information on digital media (via the Internet and mobile devices), although the need for weather coverage without filler programming to pad periods when no significant weather was occurring was also cited.[6][8][9][10]
+Programming[edit]
+AccuWeather Network provides national, regional, and local weather forecast segments as well as specialty forecasts and weather-related feature segments. Segments providing forecasts, meteorological analysis on weather conditions around the United States, and severe weather information are presented by on-camera personalities and meteorologists employed by AccuWeather to provide forecasts for the company's website and the AccuWeather Channel broadcast service.
+AccuWeather Network also displays continuous weather information on a "L"-shaped ticker placed at the lower and left-sides of the TV screen, which is visible even during commercial breaks. The left top third of the ticker displays current weather conditions with sky condition and both actual and RealFeel™ (or apparent) temperature displayed at all times; while the bottom two-thirds of that area cycles between additional observations (wind speed/direction, humidity, visibility, and ultraviolet indexes) and six-hour forecasts for each city. The bottom of the ticker displays descriptive 24-hour forecasts as well as five-day forecasts (showing the forecasted sky conditions and temperatures) for individual cities below a rundown bar containing segments and forecast locations.
+Local forecasts[edit]
+At launch, all Verizon FiOS customers were provided with the same feed that focused on the cities where FiOS provides service, which is mostly across the Northeastern U.S.[11]
+Regional feeds of the network were launched for FiOS customers in the Northeast on September 10, 2015. One feed covers FiOS customers in Maryland, D.C., and Virginia. The other feed covers customers in New York, New Jersey, Connecticut, Rhode Island, and Massachusetts.
+Local forecasts aired on AccuWeather Network (similar in format to The Weather Channel's "Local on the 8s") are generated by a computer unit installed at the provider's headend, which inserts data over the channel's national feed. The localized segments provide current weather observations, and high and low temperatures observed since 12:00 a.m. local time for a given city; MinuteCast™ forecasts, incremental forecasts (pioneered by AccuWeather, Inc.[3]) for the next hour; at-a-glance forecasts for the current day and the day after; extended forecasts (which, in addition to the traditional seven-day outlooks, includes 10-, 15-, 25-, 30- and 45-day forecasts, longer-term forecasts also pioneered by AccuWeather[3]); almanacs (showing temperature averages and extremes for the current date, and recorded precipitation for the past 24 hours, historical maximum precipitation for the date, and month-to-date and departure from average precipitation in the area); and computer models showing forecasted sky conditions and temperatures in the surrounding metropolitan area and region for the succeeding 24- to 36-hour period.
+See also[edit]
+
+The Weather Channel
+Weatherscan
+WeatherNation TV
+
+References[edit]
+
+
+
+^ a b Mark Pynes; Anna Orso (January 15, 2014). "State College-based AccuWeather to launch 24/7 cable network to compete with The Weather Channel". The Patriot-News. Advance Publications. Retrieved March 22, 2015. 
+^ "AccuWeather Announces the Launch of the AccuWeather Channel in Q3 2014". AccuWeather. January 16, 2014. Retrieved March 22, 2015. 
+^ a b c d "New AccuWeather Channel will Deliver 'All Weather, All the Time'". AccuWeather. January 21, 2014. Retrieved March 22, 2015. 
+^ Beatrice Verhoeven (March 13, 2015). "AccuWeather Launches Its First National Weather Channel". The Hollywood Reporter. Retrieved March 22, 2015. 
+^ Claire Suddath (March 11, 2015). "AccuWeather's New 24-Hour TV Channel Just Has the Weather". Bloomberg L.P. Retrieved March 22, 2015. 
+^ a b Mackenzie Carpenter (March 10, 2015). "Verizon drops Weather Channel in favor of AccuWeather coverage". [Pittsburgh Post-Gazette]]. Retrieved March 22, 2015. 
+^ "AccuWeather Launches 24/7 Network Featuring 'All Weather, All the Time' With Superior Accuracy". AccuWeather. March 17, 2015. Retrieved March 22, 2015. 
+^ Yvonne Villarreal (March 11, 2015). "Verizon FiOS drops the Weather Channel". Los Angeles Times. Tribune Publishing. Retrieved March 22, 2015. 
+^ Brian Stelter (March 10, 2015). "Verizon FiOS drops the Weather Channel". CNN Money. Retrieved March 22, 2015. 
+^ Roger Yu (March 10, 2015). "Verizon FiOS drops Weather Channel over contract". USA Today. Gannett Company. Retrieved March 22, 2015. 
+^ "Verizon FiOS Availability Map". fiberforall.org. Retrieved 2 November 2015. 
+
+
+
+External links[edit]
+
+Official website
+AccuWeather Network page on corporate website
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Television news in the United States
+
+
+
+Broadcast divisions
+
+
+
+ABC News
+CBS News
+NBC News
+PBS NewsHour
+Noticias Telemundo
+Noticias Univision
+
+
+
+
+
+National cable/
+satellite channels
+
+
+
+BBC World News
+CGTN America
+CNN
+
+HLN
+CNN International
+CNN en Español
+
+
+Fox News
+i24 News
+MSNBC
+Newsmax TV
+One America News
+RT America
+TheBlaze
+Non-profits
+
+Free Speech TV
+Link TV
+
+
+
+
+
+
+
+Business channels
+
+
+
+Bloomberg TV
+Cheddar
+CNBC
+
+CNBC World
+
+
+Fox Business
+
+
+
+
+
+Specialty channels
+
+
+
+C-SPAN
+ESPNews
+Fusion
+
+
+
+
+
+Weather
+
+
+
+AccuWeather
+
+Channel
+Network
+
+
+The Weather Channel
+
+Local Now
+Weatherscan
+
+
+WeatherNation TV
+
+
+
+
+
+Broadband services
+
+
+
+National
+
+CBSN
+Shift
+
+
+Specialty
+
+AJ+
+Vice News
+
+
+
+
+
+
+
+Outsourcing
+
+
+
+AerisWeather
+Independent News Network
+Weather Services International
+
+
+
+
+
+Defunct
+
+
+
+ABC channels
+
+ABC News Now
+Satellite News
+
+
+Al Jazeera America
+All News Channel
+CNN channels
+
+CNNfn
+CNN Pipeline
+CNNSI
+
+
+Current TV
+FNN-SCORE
+News Central
+NBC channels
+
+America's Talking
+NBC Weather Plus
+
+
+CBC Newsworld International
+The Weather Cast
+TouchVision
+UPI Newstime
+Univision Noticias
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=AccuWeather_Network&oldid=798080559"					
+Categories: American television networksWeather television networksEnglish-language television stations in the United StatesTelevision channels and stations established in 20152015 establishments in PennsylvaniaHidden categories: Official website not in Wikidata 

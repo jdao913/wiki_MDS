@@ -1,0 +1,428 @@
+MovieBeam - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+MovieBeam was a video-on-demand service started by Disney, specifically its subsidiary Buena Vista Datacasting, LLC.[1][2] Movies were sent wirelessly into the subscriber's home by embedding digital data (datacasting) within local Public Broadcasting Service (PBS)[3] stations' analog TV (NTSC) broadcast to deliver the movies to a set-top box. The data was embedded using dNTSC technology licensed from Dotcast, and distributed to TV stations via National Datacast. Up to 10 new movies were delivered to the player each week. The player also contained free movie trailers, previews, and other extras.
+The set-top box was sold for a one-time fee ($149.99 as of August 2007). The cost of viewing a movie varied from $1.99 for older movies in standard definition to $4.99 for newer releases in HD. Movie rentals expired 24 hours after the rental period began.
+The box had high-end hardware, including HDMI, component video outputs, and coaxial (SPDIF) and optical (TosLink) digital audio outputs. The box also had USB and Ethernet ports, although these were not activated in the last release of the firmware. An HDMI or DVI connection was required to watch HD content, which was in 720p resolution.[4]
+MovieBeam connected to the servers by telephone line to trigger billing of rented movies. The modem may or may not have worked with VOIP lines, depending on the quality of the connection.
+Disney spun off this company in January 2006. Intel Corporation, Cisco, Disney and several venture capital firms including Intel Capital, Mayfield Fund, Norwest Venture Partners and Vantage Point Venture Partners had invested $48.5 million in MovieBeam.[5]
+On March 7, 2007, Movie Gallery, Inc. acquired MovieBeam, Inc. Movie Gallery at the time stated that the expected cost of acquisition, plus operating expenses for 2007, was $10 million.
+On December 5, 2007, MovieBeam began calling its customers informing them that MovieBeam would be ceasing operations on December 15, 2007,[6] and on that date MovieBeam officially shut-down service.[7]
+The main reason for failure of the service to penetrate and capture a portion of the video-on-demand market was the presumption that viewers would watch those movies that the network thought they would be interested in. The dependence on precise positioning of the reception TV antenna to obtain movies was another big problem. Differences of a centimeter or two, or poor weather conditions, could cause movies to be missed being downloaded over-the-air. Cable TV and satellite TV set-top boxes now provide video-on-demand services with far better features than MovieBeam. The video quality of MovieBeam was greatly criticized by viewers due to excessive video compression, made necessary by using distribution via analog instead of digital TV (ATSC). Analog TV broadcasting was already slated to end in the United States in mid-2009 (and subsequently did so). These and other challenges sealed the fate of this much-hyped company into a flop of technology history.[8]
+See also[edit]
+
+Datacasting
+
+UDcast
+
+
+ONTV
+Phonevision
+SelecTV
+Spectrum
+SuperTV
+Z Channel
+Videotex
+
+Viewdata
+Prestel
+Captain (videotex)
+Minitel
+Viewtron
+
+
+Teletext
+
+Ceefax
+ORACLE (teletext)
+World System Teletext
+NABTS
+Telidon
+
+NAPLPS
+
+
+Electra (teletext)
+Antiope (teletext)
+
+
+Vertical blanking interval
+closed captioning
+Multimedia Home Platform
+MHEG-5
+HbbTV
+Broadcast Markup Language
+Ginga (SBTVD Middleware)
+Extended Data Services
+Intercast
+MSN TV
+Guide Plus
+
+References[edit]
+
+
+
+^ "Disney to offer MovieBeam on-demand movie service via datacasting". TVTechnology. NewBay Media. Retrieved 18 April 2014. 
+^ "Wysk Company Profile for BUENA VISTA DATACASTING, LLC". Wysk. Retrieved 18 April 2014. 
+^ "[1]", PBS / National Datacast (URL accessed 26 January 2008).
+^ ""Archived copy". Archived from the original on 2006-11-18. Retrieved 2006-12-30. ", MovieBeam (URL accessed 29 December 2006).
+^ http://www.geek.com/news/disney-to-launch-over-the-air-on-demand-movie-service-562124/
+^ "[2]", [MovieBeam Ceasing Operations] (URL accessed 5 December 2007).
+^ "[3]", [On-Demand Video Service MovieBeam Closes] (URL accessed 19 December 2007). Archived December 21, 2007, at the Wayback Machine.
+^ "[4]", [MovieBeam's (sort of) video on demand] (URL accessed 26 July 2008).
+
+
+
+External links[edit]
+
+Official site
+Interview with Carl Crabill, MovieBeam VP of Sales and Marketing
+Moviebeam review (part 1) review part 2
+MovieBeam's (sort of) video on demand
+Dotcast dNTSC tutorial (PDF)
+Moviebeam ceasing operations
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Defunct premium television services in the United States
+
+
+
+Premium services
+
+
+
+AMC1
+Bravo1
+Channel 100
+Disney Channel1
+Front Row (TV channel)
+Festival
+Galavisión1
+Home Theater Network
+Spotlight
+Starion Premiere Cinema
+Sundance Channel1
+
+
+Star Channel2
+Take Two (TV channel)
+
+
+
+
+
+Adult premium
+
+
+
+American Exxxtasy
+Escapade (TV channel)
+Uptown (TV channel)
+
+
+
+
+
+Pay-per-view
+
+
+
+Action Pay-Per-View
+Cable Video Store
+Drive-In Cinema
+Guest Cinema
+The HiLife Channel
+Rendezvous (TV channel)
+Request TV
+Spectradyne
+
+
+
+
+
+Sports
+
+
+
+ESPN GamePlan
+ESPN Full Court
+Mega March Madness
+NASCAR Hot Pass
+PASS Sports
+
+
+
+
+
+Subscription TV
+
+
+
+Hawkvision
+In-Home Theatre
+MovieBeam
+ONTV
+Phonevision
+Preview
+PRISM
+SCORE
+SelecTV
+Spectrum
+Sportsvision
+SuperTV
+Tele1st
+Telemeter
+VEU
+Wometco Home Theater
+Z Channel
+
+
+
+
+
+
+1 Indicates the channel is still in existence, but currently operates as a basic cable channel.
+2 Star Channel was part of Warner Communications' QUBE interactive cable service, and was the precursor to present-day The Movie Channel.
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Movie-oriented television services in the United States
+
+
+
+Over-the-air
+digital television
+
+
+
+Escape
+GetTV
+Grit
+Movies!
+This TV
+
+
+
+
+
+Cable television
+
+
+
+
+Cable and satellite
+television only
+
+
+
+AMC
+Chiller
+Cinelatino
+FX Movie Channel
+HDNet Movies
+Hallmark Movies & Mysteries
+IFC
+LMN
+MGM HD
+PixL
+ShortsHD
+Sony Movie Channel
+SundanceTV
+Turner Classic Movies
+ViendoMovies
+
+
+
+
+
+Premium television
+
+
+
+HBO (Multiplex)
+Cinemax (Multiplex)
+Showtime (Multiplex)
+The Movie Channel (Multiplex)
+Flix
+Starz (Multiplex)
+Starz Encore (Multiplex)
+MoviePlex (Multiplex)
+Epix (Multiplex)
+
+
+
+
+
+
+
+
+Defunct
+
+
+
+
+Cable, satellite
+and terrestrial TV
+
+
+
+Documentary Channel
+Fearnet
+Festival
+Home Theater Network
+Spotlight
+Star Channel
+Take 2
+White Springs TV
+
+
+
+
+
+Subscription TV
+
+
+
+MovieBeam
+ONTV
+Phonevision
+Preview
+PRISM
+SelecTV
+Spectrum
+SuperTV
+VEU
+Wometco Home Theater
+Z Channel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+See also
+U.S. premium channels
+Canadian movie channels
+Canadian premium channels
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=MovieBeam&oldid=799801988"					
+Categories: Video on demand services2007 disestablishmentsAmerican subscription television servicesDefunct broadcasting companies of the United StatesTelevision in the United StatesThe Walt Disney Company subsidiariesTelecommunications-related introductions in 2004Hidden categories: Webarchive template wayback links 

@@ -1,0 +1,158 @@
+Strange–Rahman–Smith equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs more links to other articles to help integrate it into the encyclopedia. Please help improve this article by adding links that are relevant to the context within the existing text. (September 2013) (Learn how and when to remove this template message)
+
+
+
+The Strange–Rahman–Smith equation is used in the cryoporometry method of measuring porosity. NMR cryoporometry [1][2][3] is a recent technique for measuring total porosity and pore size distributions. NMRC is based on two equations, the Gibbs–Thomson equation, that maps the melting point depression to pore size, and the Strange–Rahman–Smith equation [1] that maps the melted signal amplitude at a particular temperature to pore volume.
+Equation[edit]
+If the pores of the porous material are filled with a liquid, then the incremental volume of the pores 
+
+
+
+Δ
+v
+
+
+{\displaystyle \Delta v}
+
+ with pore diameter between 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ and 
+
+
+
+x
++
+Δ
+
+x
+
+
+{\displaystyle x+\Delta \,x}
+
+ may be obtained from the increase in melted liquid volume for an increase of temperature between 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ and 
+
+
+
+T
++
+Δ
+T
+
+
+{\displaystyle T+\Delta T}
+
+ by:[1]
+
+
+
+
+
+
+
+d
+v
+
+
+d
+x
+
+
+
+=
+
+
+
+d
+v
+
+
+d
+
+T
+
+
+
+
+
+
+k
+
+G
+T
+
+
+
+x
+
+2
+
+
+
+
+
+
+{\displaystyle {\frac {dv}{dx}}={\frac {dv}{d\,T}}{\frac {k_{GT}}{x^{2}}}}
+
+
+Where: 
+
+
+
+
+k
+
+G
+T
+
+
+
+
+{\displaystyle k_{GT}}
+
+ is the Gibbs–Thomson coefficient for the liquid in the pores.
+References[edit]
+
+
+
+^ a b c Strange, J.H.; Rahman, M.; Smith, E.G. (Nov 1993), "Characterization of Porous Solids by NMR", Phys. Rev. Lett., 71 (21): 3589–3591, Bibcode:1993PhRvL..71.3589S, doi:10.1103/PhysRevLett.71.3589, PMID 10055015 
+^ Mitchell, J.; Webber, J. Beau W.; Strange, J.H. (2008), "Nuclear Magnetic Resonance Cryoporometry", Phys. Rep. (Review), 461: 1–36, Bibcode:2008PhR...461....1M, doi:10.1016/j.physrep.2008.02.001 
+^ SE-10044 Stockholm Sweden. [Furo Istvan Royal Inst TechnolDiv Phys Chem Dept Chem SE-10044 Stockholm Sweden. Royal Inst Chem SE-10044 Stockholm Sweden. [Furo Istvan] Royal Inst Technol Technol Ind NMR Ctr Dept Chem SE-10044 Stockholm Sweden. Div Phys Chem Dept Chem SE-10044 Stockholm Sweden. Royal Inst], "NMR cryoporometry: Principles applications and potential" 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Strange–Rahman–Smith_equation&oldid=711969621"					
+Categories: Equations of physicsHidden categories: Articles with too few wikilinks from September 2013All articles with too few wikilinksArticles covered by WikiProject Wikify from September 2013All articles covered by WikiProject Wikify 

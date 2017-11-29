@@ -1,0 +1,279 @@
+Archard equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Archard wear equation is a simple model used to describe sliding wear and is based on the theory of asperity contact. The Archard equation was developed later than the Reye's hypothesis, though both came to the same physical conclusions, that the volume of the removed debris due to wear is proportional to the work done by friction forces. Reye’s model[1] became very popular in Europe and it is still taught in university courses of applied mechanics. This theory has, however, been totally ignored in English and American literature where subsequent works by Ragnar Holm[2] and John F. Archard are usually cited.
+
+
+
+Contents
+
+
+1 Equation
+2 Derivation
+3 References
+4 Bibliography
+
+
+
+Equation[edit]
+
+
+
+
+
+Q
+=
+
+
+
+K
+W
+L
+
+H
+
+
+
+
+{\displaystyle Q={\frac {KWL}{H}}}
+
+
+
+where:[3]
+
+Q is the total volume of wear debris produced
+K is a dimensionless constant
+W is the total normal load
+L is the sliding distance
+H is the hardness of the softest contacting surfaces
+
+Note that 
+
+
+
+W
+L
+
+
+{\displaystyle WL}
+
+ is proportional to the work done by the friction forces as described by Reye's hypothesis.
+Derivation[edit]
+The equation can be derived by first examining the behavior of a single asperity.
+The local load 
+
+
+
+
+δ
+W
+
+
+{\displaystyle \,\delta W}
+
+, supported by an asperity, assumed to have a circular cross-section with a radius 
+
+
+
+
+a
+
+
+{\displaystyle \,a}
+
+, is:
+
+
+
+
+
+δ
+W
+=
+P
+π
+
+
+a
+
+2
+
+
+
+
+
+
+
+{\displaystyle \delta W=P\pi {a^{2}}\,\!}
+
+
+
+where P is the yield pressure for the asperity, assumed to be deforming plastically. P will be close to the indentation hardness, H, of the asperity.
+If the volume of wear debris, 
+
+
+
+
+δ
+V
+
+
+{\displaystyle \,\delta V}
+
+, for a particular asperity is a hemisphere sheared off from the asperity, it follows that:
+
+
+
+
+
+δ
+V
+=
+
+
+2
+3
+
+
+π
+
+a
+
+3
+
+
+
+
+{\displaystyle \delta V={\frac {2}{3}}\pi a^{3}}
+
+
+
+This fragment is formed by the material having slid a distance 2a
+Hence, 
+
+
+
+
+δ
+Q
+
+
+{\displaystyle \,\delta Q}
+
+, the wear volume of material produced from this asperity per unit distance moved is:
+
+
+
+
+
+δ
+Q
+=
+
+
+
+δ
+V
+
+
+2
+a
+
+
+
+=
+
+
+
+π
+
+a
+
+2
+
+
+
+3
+
+
+≡
+
+
+
+δ
+W
+
+
+3
+P
+
+
+
+≈
+
+
+
+δ
+W
+
+
+3
+H
+
+
+
+
+
+{\displaystyle \delta Q={\frac {\delta V}{2a}}={\frac {\pi a^{2}}{3}}\equiv {\frac {\delta W}{3P}}\approx {\frac {\delta W}{3H}}}
+
+ making the approximation that 
+
+
+
+
+P
+≈
+H
+
+
+{\displaystyle \,P\approx H}
+
+
+
+However, not all asperities will have had material removed when sliding distance 2a. Therefore, the total wear debris produced per unit distance moved, 
+
+
+
+
+Q
+
+
+{\displaystyle \,Q}
+
+ will be lower than the ratio of W to 3H. This is accounted for by the addition of a dimensionless constant K, which also incorporates the factor 3 above. These operations produce the Archard equation as given above.Archard interpreted K factor as a probability of forming wear debris from asperity encounters.[4] Typically for 'mild' wear, K ≈ 10−8, whereas for 'severe' wear, K ≈ 10−2. Recently,[5] it has been shown that there exists a critical length scale that controls the wear debris formation at the asperity level. This length scale defines a critical junction size, where bigger junctions produce debris, while smaller ones deform plastically.
+References[edit]
+
+
+^ Reye, Th. (1860). "Zur Theorie der Zapfenreibung". J. Der Civilingenieur. 4: 235–255. 
+^ Holm, R. (1946). Electrical Contacts. Stockholm: H. Gerber. 
+^ Archard, J.F. (1953). "Contact and Rubbing of Flat Surface". J. Appl. Phis. 24 (8): 981–988. doi:10.1063/1.1721448. 
+^ Archard, J.F.; Hirst, W. (1956). "The Wear of Metals under Unlubricated Conditions". Proceedings of the Royal Society. A-236: 397–410. doi:10.1098/rspa.1956.0144. 
+^ Aghababaei, R.; Warner D.H.; Molinari J.F. (2016). "Critical length scale controls adhesive wear mechanisms". Nature Communications. 7: 11816. doi:10.1038/ncomms11816. PMC 4897754 . PMID 27264270. 
+
+
+Bibliography[edit]
+
+Peterson, M.B.; Winer, W.O. (1980). Wear Control Handbook. New York: American Society of Mechanical Engineers (ASME). 
+Friction, Lubrication, and Wear Technology. ASM Handbook. 1992. ISBN 0-87170-380-7. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Archard_equation&oldid=797004607"					
+Categories: SurfacesMaterials scienceEquations 

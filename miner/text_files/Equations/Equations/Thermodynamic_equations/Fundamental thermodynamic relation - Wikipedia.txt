@@ -1,0 +1,2360 @@
+Fundamental thermodynamic relation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Thermodynamics
+
+
+
+The classical Carnot heat engine
+
+
+
+
+
+Branches
+
+
+
+Classical
+Statistical
+Chemical
+
+
+
+Equilibrium / Non-equilibrium
+
+
+
+
+
+
+
+
+Laws
+
+
+
+Zeroth
+First
+Second
+Third
+
+
+
+
+
+
+
+
+
+Systems
+
+
+
+State
+
+
+
+
+Equation of state
+Ideal gas
+Real gas
+State of matter
+Equilibrium
+Control volume
+Instruments
+
+
+
+
+Processes
+
+
+
+
+Isobaric
+Isochoric
+Isothermal
+Adiabatic
+Isentropic
+Isenthalpic
+Quasistatic
+Polytropic
+Free expansion
+Reversibility
+Irreversibility
+Endoreversibility
+
+
+
+
+Cycles
+
+
+
+
+Heat engines
+Heat pumps
+Thermal efficiency
+
+
+
+
+
+
+
+
+
+
+
+System properties
+
+Note: Conjugate variables in italics
+
+
+
+
+Property diagrams
+Intensive and extensive properties
+
+
+
+
+Functions of state
+
+
+
+
+Temperature / Entropy (introduction)
+Pressure / Volume
+Chemical potential / Particle number
+Vapor quality
+Reduced properties
+
+
+
+
+Process functions
+
+
+
+
+
+Work
+Heat
+
+
+
+
+
+
+
+
+
+
+
+
+Material properties
+
+
+Property databases
+
+
+
+
+Specific heat capacity 
+
+
+
+
+c
+=
+
+
+{\displaystyle c=}
+
+
+
+
+
+
+
+
+
+T
+
+
+{\displaystyle T}
+
+
+
+
+
+
+∂
+S
+
+
+{\displaystyle \partial S}
+
+
+
+
+
+
+
+
+N
+
+
+{\displaystyle N}
+
+
+
+
+
+
+∂
+T
+
+
+{\displaystyle \partial T}
+
+
+
+
+
+
+
+Compressibility 
+
+
+
+
+β
+=
+−
+
+
+{\displaystyle \beta =-}
+
+
+
+
+
+
+
+
+
+1
+
+
+{\displaystyle 1}
+
+
+
+
+
+
+∂
+V
+
+
+{\displaystyle \partial V}
+
+
+
+
+
+
+
+
+V
+
+
+{\displaystyle V}
+
+
+
+
+
+
+∂
+p
+
+
+{\displaystyle \partial p}
+
+
+
+
+
+
+
+Thermal expansion 
+
+
+
+
+α
+=
+
+
+{\displaystyle \alpha =}
+
+
+
+
+
+
+
+
+
+1
+
+
+{\displaystyle 1}
+
+
+
+
+
+
+∂
+V
+
+
+{\displaystyle \partial V}
+
+
+
+
+
+
+
+
+V
+
+
+{\displaystyle V}
+
+
+
+
+
+
+∂
+T
+
+
+{\displaystyle \partial T}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+
+
+
+Carnot's theorem
+Clausius theorem
+Fundamental relation
+Ideal gas law
+
+
+
+Maxwell relations
+Onsager reciprocal relations
+Bridgman's equations
+Table of thermodynamic equations
+
+
+
+
+
+
+
+
+Potentials
+
+
+
+Free energy
+Free entropy
+
+
+
+
+Internal energy
+
+
+
+
+U
+(
+S
+,
+V
+)
+
+
+{\displaystyle U(S,V)}
+
+
+Enthalpy
+
+
+
+
+H
+(
+S
+,
+p
+)
+=
+U
++
+p
+V
+
+
+{\displaystyle H(S,p)=U+pV}
+
+
+Helmholtz free energy
+
+
+
+
+A
+(
+T
+,
+V
+)
+=
+U
+−
+T
+S
+
+
+{\displaystyle A(T,V)=U-TS}
+
+
+Gibbs free energy
+
+
+
+
+G
+(
+T
+,
+p
+)
+=
+H
+−
+T
+S
+
+
+{\displaystyle G(T,p)=H-TS}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History
+Culture
+
+
+
+
+
+
+History
+
+
+
+
+
+General
+Heat
+Entropy
+Gas laws
+
+
+
+"Perpetual motion" machines
+
+
+
+
+Philosophy
+
+
+
+
+
+Entropy and time
+Entropy and life
+Brownian ratchet
+Maxwell's demon
+Heat death paradox
+Loschmidt's paradox
+Synergetics
+
+
+
+
+
+Theories
+
+
+
+
+
+Caloric theory
+Theory of heat
+
+
+
+Vis viva ("living force")
+Mechanical equivalent of heat
+Motive power
+
+
+
+
+Key publications
+
+
+
+
+
+"An Experimental Enquiry
+Concerning ... Heat"
+
+
+"On the Equilibrium of
+Heterogeneous Substances"
+
+
+"Reflections on the
+Motive Power of Fire"
+
+
+
+
+
+Timelines
+
+
+
+
+
+Thermodynamics
+Heat engines
+
+
+
+
+
+
+
+
+Art
+Education
+
+
+
+
+
+
+
+Maxwell's thermodynamic surface
+Entropy as energy dispersal
+
+
+
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Bernoulli
+Boltzmann
+Carnot
+Clapeyron
+Clausius
+Carathéodory
+Duhem
+Gibbs
+von Helmholtz
+Joule
+Maxwell
+von Mayer
+Onsager
+Rankine
+Smeaton
+Stahl
+Thompson
+Thomson
+van der Waals
+Waterston
+
+
+
+
+
+
+
+Book:Thermodynamics
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In thermodynamics, the fundamental thermodynamic relation is generally expressed as an microscopic change in internal energy in terms of microscopic changes in entropy, and volume for a closed system in thermal equilibrium in the following way.
+
+
+
+
+
+
+d
+
+U
+=
+T
+
+
+d
+
+S
+−
+P
+
+
+d
+
+V
+
+
+
+{\displaystyle \mathrm {d} U=T\,\mathrm {d} S-P\,\mathrm {d} V\,}
+
+
+
+Here, U is internal energy, T is absolute temperature, S is entropy, P is pressure, and V is volume. This relation applies to a reversible change, or to a change in a closed system of uniform temperature and pressure at constant composition.[1]
+This is only one expression of the fundamental thermodynamic relation. It may be expressed in other ways, using different variables (e.g. using thermodynamic potentials). For example, the fundamental relation may be expressed in terms of the enthalpy as
+
+
+
+
+
+d
+H
+=
+T
+
+
+d
+
+S
++
+V
+
+
+d
+
+P
+
+
+
+{\displaystyle dH=T\,\mathrm {d} S+V\,\mathrm {d} P\,}
+
+
+
+in terms of the Helmholtz free energy (F) as
+
+
+
+
+
+
+d
+
+F
+=
+−
+S
+
+
+d
+
+T
+−
+P
+
+
+d
+
+V
+
+
+
+{\displaystyle \mathrm {d} F=-S\,\mathrm {d} T-P\,\mathrm {d} V\,}
+
+
+
+and in terms of the Gibbs free energy (G) as
+
+
+
+
+
+
+d
+
+G
+=
+−
+S
+
+
+d
+
+T
++
+V
+
+
+d
+
+P
+
+
+
+{\displaystyle \mathrm {d} G=-S\,\mathrm {d} T+V\,\mathrm {d} P\,}
+
+.
+
+
+
+
+Contents
+
+
+1 Derivation from the first and second laws of thermodynamics
+2 Derivation from statistical mechanical principles
+3 References
+4 External links
+
+
+
+Derivation from the first and second laws of thermodynamics[edit]
+The first law of thermodynamics states that:
+
+
+
+
+
+
+d
+
+U
+=
+δ
+Q
+−
+δ
+W
+
+
+
+{\displaystyle \mathrm {d} U=\delta Q-\delta W\,}
+
+
+
+where 
+
+
+
+δ
+Q
+
+
+{\displaystyle \delta Q}
+
+ and 
+
+
+
+δ
+W
+
+
+{\displaystyle \delta W}
+
+ are infinitesimal amounts of heat supplied to the system by its surroundings and work done by the system on its surroundings, respectively.
+According to the second law of thermodynamics we have for a reversible process:
+
+
+
+
+
+
+d
+
+S
+=
+
+
+
+δ
+Q
+
+T
+
+
+
+
+
+{\displaystyle \mathrm {d} S={\frac {\delta Q}{T}}\,}
+
+
+
+Hence:
+
+
+
+
+
+δ
+Q
+=
+T
+
+
+d
+
+S
+
+
+
+{\displaystyle \delta Q=T\,\mathrm {d} S\,}
+
+
+
+By substituting this into the first law, we have:
+
+
+
+
+
+
+d
+
+U
+=
+T
+
+
+d
+
+S
+−
+δ
+W
+
+
+
+{\displaystyle \mathrm {d} U=T\,\mathrm {d} S-\delta W\,}
+
+
+
+Letting 
+
+
+
+δ
+W
+
+
+{\displaystyle \delta W}
+
+ be reversible pressure-volume work done by the system on its surroundings,
+
+
+
+
+
+δ
+W
+ 
+=
+P
+
+d
+
+V
+
+
+
+{\displaystyle \delta W\ =P\mathrm {d} V\,}
+
+
+
+we have:
+
+
+
+
+
+
+d
+
+U
+=
+T
+
+
+d
+
+S
+−
+P
+
+
+d
+
+V
+
+
+
+{\displaystyle \mathrm {d} U=T\,\mathrm {d} S-P\,\mathrm {d} V\,}
+
+
+
+This equation has been derived in the case of reversible changes. However, since U, S, and V are thermodynamic state functions, the above relation holds also for non-reversible changes in a system of uniform pressure and temperature at constant composition.[1] If the composition, i.e. the amounts 
+
+
+
+
+n
+
+i
+
+
+
+
+{\displaystyle n_{i}}
+
+ of the chemical components, in a system of uniform temperature and pressure can also change, e.g. due to a chemical reaction, the fundamental thermodynamic relation generalizes to:
+
+
+
+
+
+
+d
+
+U
+=
+T
+
+
+d
+
+S
+−
+P
+
+
+d
+
+V
+ 
++
+
+∑
+
+i
+
+
+
+μ
+
+i
+
+
+
+
+d
+
+
+n
+
+i
+
+
+
+
+
+{\displaystyle \mathrm {d} U=T\,\mathrm {d} S-P\,\mathrm {d} V\ +\sum _{i}\mu _{i}\,\mathrm {d} n_{i}\,}
+
+
+
+The 
+
+
+
+
+μ
+
+j
+
+
+
+
+{\displaystyle \mu _{j}}
+
+ are the chemical potentials corresponding to particles of type 
+
+
+
+j
+
+
+{\displaystyle j}
+
+. The last term must be zero for a reversible process.
+If the system has more external parameters than just the volume that can change, the fundamental thermodynamic relation generalizes to
+
+
+
+
+
+
+d
+
+U
+=
+T
+
+
+d
+
+S
+−
+
+∑
+
+j
+
+
+
+X
+
+j
+
+
+
+
+d
+
+
+x
+
+j
+
+
++
+
+∑
+
+i
+
+
+
+μ
+
+i
+
+
+
+
+d
+
+
+n
+
+i
+
+
+
+
+
+{\displaystyle \mathrm {d} U=T\,\mathrm {d} S-\sum _{j}X_{j}\,\mathrm {d} x_{j}+\sum _{i}\mu _{i}\,\mathrm {d} n_{i}\,}
+
+
+
+Here the 
+
+
+
+
+X
+
+i
+
+
+
+
+{\displaystyle X_{i}}
+
+ are the generalized forces corresponding to the external parameters 
+
+
+
+
+x
+
+i
+
+
+
+
+{\displaystyle x_{i}}
+
+.
+Derivation from statistical mechanical principles[edit]
+The above derivation uses the first and second laws of thermodynamics. The first law of thermodynamics is essentially a definition of heat, i.e. heat is the change in the internal energy of a system that is not caused by a change of the external parameters of the system.
+However, the second law of thermodynamics is not a defining relation for the entropy. The fundamental definition of entropy of an isolated system containing an amount of energy of 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ is:
+
+
+
+
+
+S
+=
+k
+log
+⁡
+
+[
+Ω
+
+(
+E
+)
+
+]
+
+
+
+
+{\displaystyle S=k\log \left[\Omega \left(E\right)\right]\,}
+
+
+
+where 
+
+
+
+Ω
+
+(
+E
+)
+
+
+
+{\displaystyle \Omega \left(E\right)}
+
+ is the number of quantum states in a small interval between 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ and 
+
+
+
+E
++
+δ
+E
+
+
+{\displaystyle E+\delta E}
+
+. Here 
+
+
+
+δ
+E
+
+
+{\displaystyle \delta E}
+
+ is a macroscopically small energy interval that is kept fixed. Strictly speaking this means that the entropy depends on the choice of 
+
+
+
+δ
+E
+
+
+{\displaystyle \delta E}
+
+. However, in the thermodynamic limit (i.e. in the limit of infinitely large system size), the specific entropy (entropy per unit volume or per unit mass) does not depend on 
+
+
+
+δ
+E
+
+
+{\displaystyle \delta E}
+
+. The entropy is thus a measure of the uncertainty about exactly which quantum state the system is in, given that we know its energy to be in some interval of size 
+
+
+
+δ
+E
+
+
+{\displaystyle \delta E}
+
+.
+Deriving the fundamental thermodynamic relation from first principles thus amounts to proving that the above definition of entropy implies that for reversible processes we have:
+
+
+
+
+
+d
+S
+=
+
+
+
+δ
+Q
+
+T
+
+
+
+
+{\displaystyle dS={\frac {\delta Q}{T}}}
+
+
+
+The fundamental assumption of statistical mechanics is that all the 
+
+
+
+Ω
+
+(
+E
+)
+
+
+
+{\displaystyle \Omega \left(E\right)}
+
+ states are equally likely. This allows us to extract all the thermodynamical quantities of interest. The temperature is defined as:
+
+
+
+
+
+
+1
+
+k
+T
+
+
+
+≡
+β
+≡
+
+
+
+d
+log
+⁡
+
+[
+Ω
+
+(
+E
+)
+
+]
+
+
+
+d
+E
+
+
+
+
+
+
+{\displaystyle {\frac {1}{kT}}\equiv \beta \equiv {\frac {d\log \left[\Omega \left(E\right)\right]}{dE}}\,}
+
+
+This definition can be derived from the microcanonical ensemble, which is a system of a constant number of particles, a constant volume and that does not exchange energy with its environment. Suppose that the system has some external parameter, x, that can be changed. In general, the energy eigenstates of the system will depend on x. According to the adiabatic theorem of quantum mechanics, in the limit of an infinitely slow change of the system's Hamiltonian, the system will stay in the same energy eigenstate and thus change its energy according to the change in energy of the energy eigenstate it is in.
+The generalized force, X, corresponding to the external parameter x is defined such that 
+
+
+
+X
+d
+x
+
+
+{\displaystyle Xdx}
+
+ is the work performed by the system if x is increased by an amount dx. E.g., if x is the volume, then X is the pressure. The generalized force for a system known to be in energy eigenstate 
+
+
+
+
+E
+
+r
+
+
+
+
+{\displaystyle E_{r}}
+
+ is given by:
+
+
+
+
+
+X
+=
+−
+
+
+
+d
+
+E
+
+r
+
+
+
+
+d
+x
+
+
+
+
+
+{\displaystyle X=-{\frac {dE_{r}}{dx}}}
+
+
+
+Since the system can be in any energy eigenstate within an interval of 
+
+
+
+δ
+E
+
+
+{\displaystyle \delta E}
+
+, we define the generalized force for the system as the expectation value of the above expression:
+
+
+
+
+
+X
+=
+−
+
+⟨
+
+
+
+d
+
+E
+
+r
+
+
+
+
+d
+x
+
+
+
+⟩
+
+
+
+
+{\displaystyle X=-\left\langle {\frac {dE_{r}}{dx}}\right\rangle \,}
+
+
+
+To evaluate the average, we partition the 
+
+
+
+Ω
+
+(
+E
+)
+
+
+
+{\displaystyle \Omega \left(E\right)}
+
+ energy eigenstates by counting how many of them have a value for 
+
+
+
+
+
+
+d
+
+E
+
+r
+
+
+
+
+d
+x
+
+
+
+
+
+{\displaystyle {\frac {dE_{r}}{dx}}}
+
+ within a range between 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ and 
+
+
+
+Y
++
+δ
+Y
+
+
+{\displaystyle Y+\delta Y}
+
+. Calling this number 
+
+
+
+
+Ω
+
+Y
+
+
+
+(
+E
+)
+
+
+
+{\displaystyle \Omega _{Y}\left(E\right)}
+
+, we have:
+
+
+
+
+
+Ω
+
+(
+E
+)
+
+=
+
+∑
+
+Y
+
+
+
+Ω
+
+Y
+
+
+
+(
+E
+)
+
+
+
+
+{\displaystyle \Omega \left(E\right)=\sum _{Y}\Omega _{Y}\left(E\right)\,}
+
+
+
+The average defining the generalized force can now be written:
+
+
+
+
+
+X
+=
+−
+
+
+1
+
+Ω
+
+(
+E
+)
+
+
+
+
+
+∑
+
+Y
+
+
+Y
+
+Ω
+
+Y
+
+
+
+(
+E
+)
+
+
+
+
+{\displaystyle X=-{\frac {1}{\Omega \left(E\right)}}\sum _{Y}Y\Omega _{Y}\left(E\right)\,}
+
+
+
+We can relate this to the derivative of the entropy with respect to x at constant energy E as follows. Suppose we change x to x + dx. Then 
+
+
+
+Ω
+
+(
+E
+)
+
+
+
+{\displaystyle \Omega \left(E\right)}
+
+ will change because the energy eigenstates depend on x, causing energy eigenstates to move into or out of the range between 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ and 
+
+
+
+E
++
+δ
+E
+
+
+{\displaystyle E+\delta E}
+
+. Let's focus again on the energy eigenstates for which 
+
+
+
+
+
+
+d
+
+E
+
+r
+
+
+
+
+d
+x
+
+
+
+
+
+{\displaystyle {\frac {dE_{r}}{dx}}}
+
+ lies within the range between 
+
+
+
+Y
+
+
+{\displaystyle Y}
+
+ and 
+
+
+
+Y
++
+δ
+Y
+
+
+{\displaystyle Y+\delta Y}
+
+. Since these energy eigenstates increase in energy by Y dx, all such energy eigenstates that are in the interval ranging from E - Y dx to E move from below E to above E. There are
+
+
+
+
+
+
+N
+
+Y
+
+
+
+(
+E
+)
+
+=
+
+
+
+
+Ω
+
+Y
+
+
+
+(
+E
+)
+
+
+
+δ
+E
+
+
+
+Y
+d
+x
+
+
+
+{\displaystyle N_{Y}\left(E\right)={\frac {\Omega _{Y}\left(E\right)}{\delta E}}Ydx\,}
+
+
+
+such energy eigenstates. If 
+
+
+
+Y
+d
+x
+≤
+δ
+E
+
+
+{\displaystyle Ydx\leq \delta E}
+
+, all these energy eigenstates will move into the range between 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ and 
+
+
+
+E
++
+δ
+E
+
+
+{\displaystyle E+\delta E}
+
+ and contribute to an increase in 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+. The number of energy eigenstates that move from below 
+
+
+
+E
++
+δ
+E
+
+
+{\displaystyle E+\delta E}
+
+ to above 
+
+
+
+E
++
+δ
+E
+
+
+{\displaystyle E+\delta E}
+
+ is, of course, given by 
+
+
+
+
+N
+
+Y
+
+
+
+(
+E
++
+δ
+E
+)
+
+
+
+{\displaystyle N_{Y}\left(E+\delta E\right)}
+
+. The difference
+
+
+
+
+
+
+N
+
+Y
+
+
+
+(
+E
+)
+
+−
+
+N
+
+Y
+
+
+
+(
+E
++
+δ
+E
+)
+
+
+
+
+{\displaystyle N_{Y}\left(E\right)-N_{Y}\left(E+\delta E\right)\,}
+
+
+
+is thus the net contribution to the increase in 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+. Note that if Y dx is larger than 
+
+
+
+δ
+E
+
+
+{\displaystyle \delta E}
+
+ there will be energy eigenstates that move from below 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ to above 
+
+
+
+E
++
+δ
+E
+
+
+{\displaystyle E+\delta E}
+
+. They are counted in both 
+
+
+
+
+N
+
+Y
+
+
+
+(
+E
+)
+
+
+
+{\displaystyle N_{Y}\left(E\right)}
+
+ and 
+
+
+
+
+N
+
+Y
+
+
+
+(
+E
++
+δ
+E
+)
+
+
+
+{\displaystyle N_{Y}\left(E+\delta E\right)}
+
+, therefore the above expression is also valid in that case.
+Expressing the above expression as a derivative with respect to E and summing over Y yields the expression:
+
+
+
+
+
+
+
+(
+
+
+
+∂
+Ω
+
+
+∂
+x
+
+
+
+)
+
+
+E
+
+
+=
+−
+
+∑
+
+Y
+
+
+Y
+
+
+(
+
+
+
+∂
+
+Ω
+
+Y
+
+
+
+
+∂
+E
+
+
+
+)
+
+
+x
+
+
+=
+
+
+(
+
+
+
+∂
+
+(
+Ω
+X
+)
+
+
+
+∂
+E
+
+
+
+)
+
+
+x
+
+
+
+
+
+{\displaystyle \left({\frac {\partial \Omega }{\partial x}}\right)_{E}=-\sum _{Y}Y\left({\frac {\partial \Omega _{Y}}{\partial E}}\right)_{x}=\left({\frac {\partial \left(\Omega X\right)}{\partial E}}\right)_{x}\,}
+
+
+
+The logarithmic derivative of 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+ with respect to x is thus given by:
+
+
+
+
+
+
+
+(
+
+
+
+∂
+log
+⁡
+
+(
+Ω
+)
+
+
+
+∂
+x
+
+
+
+)
+
+
+E
+
+
+=
+β
+X
++
+
+
+(
+
+
+
+∂
+X
+
+
+∂
+E
+
+
+
+)
+
+
+x
+
+
+
+
+
+{\displaystyle \left({\frac {\partial \log \left(\Omega \right)}{\partial x}}\right)_{E}=\beta X+\left({\frac {\partial X}{\partial E}}\right)_{x}\,}
+
+
+
+The first term is intensive, i.e. it does not scale with system size. In contrast, the last term scales as the inverse system size and thus vanishes in the thermodynamic limit. We have thus found that:
+
+
+
+
+
+
+
+(
+
+
+
+∂
+S
+
+
+∂
+x
+
+
+
+)
+
+
+E
+
+
+=
+
+
+X
+T
+
+
+
+
+
+{\displaystyle \left({\frac {\partial S}{\partial x}}\right)_{E}={\frac {X}{T}}\,}
+
+
+
+Combining this with
+
+
+
+
+
+
+
+(
+
+
+
+∂
+S
+
+
+∂
+E
+
+
+
+)
+
+
+x
+
+
+=
+
+
+1
+T
+
+
+
+
+
+{\displaystyle \left({\frac {\partial S}{\partial E}}\right)_{x}={\frac {1}{T}}\,}
+
+
+
+Gives:
+
+
+
+
+
+d
+S
+=
+
+
+(
+
+
+
+∂
+S
+
+
+∂
+E
+
+
+
+)
+
+
+x
+
+
+d
+E
++
+
+
+(
+
+
+
+∂
+S
+
+
+∂
+x
+
+
+
+)
+
+
+E
+
+
+d
+x
+=
+
+
+
+d
+E
+
+T
+
+
++
+
+
+X
+T
+
+
+d
+x
+
+
+
+{\displaystyle dS=\left({\frac {\partial S}{\partial E}}\right)_{x}dE+\left({\frac {\partial S}{\partial x}}\right)_{E}dx={\frac {dE}{T}}+{\frac {X}{T}}dx\,}
+
+
+
+which we can write as:
+
+
+
+
+
+d
+E
+=
+T
+d
+S
+−
+X
+d
+x
+
+
+
+{\displaystyle dE=TdS-Xdx\,}
+
+
+
+References[edit]
+
+
+
+^ a b Schmidt-Rohr, K (2014). "Expansion Work without the External Pressure, and Thermodynamics in Terms of Quasistatic Irreversible Processes". J. Chem. Educ. 91: 402–409. Bibcode:2014JChEd..91..402S. doi:10.1021/ed3008704. 
+
+
+
+External links[edit]
+
+The Fundamental Thermodynamic Relation
+Thermodynamics and Heat Transfer
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Fundamental_thermodynamic_relation&oldid=800294305"					
+Categories: ThermodynamicsStatistical mechanicsThermodynamic equations 

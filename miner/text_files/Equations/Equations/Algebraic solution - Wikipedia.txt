@@ -1,0 +1,156 @@
+Algebraic solution - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Not to be confused with Algebraic number.
+An algebraic solution or solution in radicals is a closed form expression, and more specifically a closed-form algebraic expression, that is the solution of an algebraic equation in terms of the coefficients, relying only on addition, subtraction, multiplication, division, raising to integer powers, and the extraction of nth roots (square roots, cube roots, and other integer roots).
+The most well-known example is the solution
+
+
+
+
+
+x
+=
+
+
+
+−
+b
+±
+
+
+
+b
+
+2
+
+
+−
+4
+a
+c
+ 
+
+
+
+
+2
+a
+
+
+
+,
+
+
+{\displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac\ }}}{2a}},}
+
+
+
+introduced in secondary school, of the quadratic equation
+
+
+
+
+
+a
+
+x
+
+2
+
+
++
+b
+x
++
+c
+=
+0
+
+
+{\displaystyle ax^{2}+bx+c=0}
+
+
+
+(where a ≠ 0).
+There exist more complicated algebraic solutions for the general cubic equation[1] and quartic equation.[2] The Abel-Ruffini theorem[3]:211 states that the general quintic equation lacks an algebraic solution, and this directly implies that the general polynomial equation of degree n, for n ≥ 5, cannot be solved algebraically. However, under certain conditions algebraic solutions can be obtained; for example, the equation 
+
+
+
+
+x
+
+10
+
+
+=
+a
+
+
+{\displaystyle x^{10}=a}
+
+ can be solved as 
+
+
+
+x
+=
+
+a
+
+1
+
+/
+
+10
+
+
+.
+
+
+{\displaystyle x=a^{1/10}.}
+
+
+Évariste Galois introduced a criterion allowing one to decide which equations are solvable in radicals. See Radical extension for the precise formulation of his result.
+Algebraic solutions form a subset of closed-form expressions, because the latter permit transcendental functions (non-algebraic functions) such as the exponential function, the logarithmic function, and the trigonometric functions and their inverses.
+See also[edit]
+
+Solvable quintics
+Solvable sextics
+Solvable septics
+
+References[edit]
+
+
+
+^ Nickalls, R. W. D., "A new approach to solving the cubic: Cardano's solution revealed," Mathematical Gazette 77, November 1993, 354-359.
+^ Carpenter, William, "On the solution of the real quartic," Mathematics Magazine 39, 1966, 28-30.
+^ Jacobson, Nathan (2009), Basic Algebra 1 (2nd ed.), Dover, ISBN 978-0-486-47189-1
+
+
+
+
+
+
+This algebra-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Algebraic_solution&oldid=797946385"					
+Categories: Algebra stubsAlgebraEquationsHidden categories: All stub articles 

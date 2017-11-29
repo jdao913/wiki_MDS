@@ -1,0 +1,1843 @@
+Google Fiber - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+Fiber Internet Services LLC[1]
+
+
+
+
+Area served
+9 areas across the contiguous United States
+
+
+Owner
+Google (2010–2015)
+Alphabet Inc. (2015–present)
+
+
+Industry
+Multiple-system operator
+
+
+Products
+Broadband Internet
+IPTV
+VoIP telephone
+
+
+Slogan(s)
+"A different kind of Internet and TV"
+
+
+Website
+fiber.google.com
+
+
+Launched
+February 10, 2010; 7 years ago (2010-02-10)
+
+
+Current status
+Active
+
+
+Google Fiber is part of the Access division of Alphabet Inc.[2] It provides fiber-to-the-premises service in the United States, providing broadband Internet and IPTV to a small and slowly increasing number of locations.[3] In mid-2016, Google Fiber had 68,715 television subscribers and was estimated to have about 453,000 broadband customers.[4]
+The service was first introduced to the Kansas City metropolitan area,[5] including 20 Kansas City area suburbs within the first 3 years. Initially proposed as an experimental project,[6] Google Fiber was announced as a viable business model on December 12, 2012, when Google executive chairman Eric Schmidt stated "It's actually not an experiment, we're actually running it as a business," at the New York Times' DealBook Conference.[7]
+Google Fiber announced expansion to Austin, Texas, and Provo, Utah, in April 2013, and subsequent expansions in 2014 and 2015 to Atlanta, Charlotte, the Triangle, Nashville, Salt Lake City, and San Antonio.[8]
+On August 10, 2015, Google announced its intention to restructure the company moving less central services and products into a new umbrella corporation, Alphabet Inc. As part of this restructuring plan, Google Fiber would become a subsidiary of Alphabet and may become part of the Access and Energy business unit.[9] In October 2016, all expansion plans were put on hold and some jobs were cut.[10] Google Fiber will continue to provide service in the cities where it is already installed.
+
+
+
+Contents
+
+
+1 Services
+2 Distribution
+3 First city selection process
+4 Operating locations
+
+4.1 Stanford University
+4.2 Kansas City
+4.3 Austin
+4.4 Provo
+4.5 Salt Lake City
+4.6 Charlotte
+4.7 Atlanta
+4.8 Research Triangle (Raleigh–Durham)
+4.9 Nashville, Tennessee
+
+
+5 Announced future locations
+
+5.1 California
+5.2 San Antonio, Texas
+5.3 Huntsville, Alabama
+5.4 Louisville, Kentucky
+
+
+6 Possible future expansion
+
+6.1 2014
+6.2 2015
+6.3 2016
+
+
+7 Acquisition of Webpass
+8 Technical specifications
+9 Prohibition of servers
+10 April Fools' hoaxes
+11 Reactions
+12 See also
+13 Notes
+14 References
+15 External links
+
+
+
+Services[edit]
+
+
+
+
+A map of cities with Google Fiber
+
+
+
+
+
+
+Google Fiber Network Box
+
+
+Google Fiber offers five options, depending on location: a free Internet option, a 100 Mbit/s option, a 1 Gbit/s Internet option, and an option including television service (in addition to the 1 Gbit/s Internet) and an option for home phone. The Internet service includes one terabyte of Google Drive service and the television service includes a two terabyte DVR in addition to the Google Drive. The DVR can record up to eight live television shows simultaneously. In addition, television service will also stream live program content on iPad and Android tablet computers.
+Google offers several different service plans to their customers:[11][1]
+
+
+Plan
+Gigabit + TV
+Gigabit Internet
+Basic Internet
+
+
+Internet bandwidth (download)
+1 Gbit/s
+1 Gbit/s
+100 Mbit/s
+
+
+Internet bandwidth (upload)
+1 Gbit/s
+1 Gbit/s
+100 Mbit/s
+
+
+TV service included
+yes
+no
+no
+
+
+Construction Fee
+None
+None
+None
+
+
+Monthly Recurring Cost
+$160
+$70
+$50
+
+
+Storage included
+1 TB Google Drive
+2 TB DVR
+(8 tuners)
+1 TB Google Drive
+None
+
+
+Hardware included
+Network box
+TV box
+TV remote control
+8-tuner DVR
+Network box
+Network box
+
+
+Google also offers free Google Fiber Internet connectivity in each of its markets to select public and affordable housing properties.[12]
+Distribution[edit]
+In order to avoid underground cabling complexity for the last mile, Google Fiber relies on aggregators dubbed Google Fiber Huts.
+From these Google Fiber Huts, the fiber cables travel along utility poles into neighborhoods and homes, and stop at a Fiber Jack (an Optical Network Terminal or ONT) in each home.[13]
+The estimated cost of wiring a fiber network like Google Fiber into a major American city is $1 billion.[14][15]
+First city selection process[edit]
+The initial location was chosen following a competitive selection process.[16] Over 1,100 communities applied to be the first recipient of the service.[17][18] Google originally stated that they would announce the winner or winners by the end of 2010; however, in mid-December, Google pushed back the announcement to "early 2011" due to the number of applications.[19][20][21]
+The request form was simple, and, some have argued, too straightforward.[22] This led to various attention-getting behaviors by those hoping to have their town selected.[22] Some examples are given below:
+
+Baton Rouge, Louisiana supporters remade the Supertramp song "Give a Little Bit" to "Give a Gigabit".
+Greenville, South Carolina utilized 1,000 of their citizens and glow sticks to create "The World's First and Largest People-Powered Google Chain."[23] From an aerial view, the title "Google" was colorfully visible.
+Topeka, Kansas, temporarily renamed itself "Google".
+A small plane bearing a banner reading "Will Google Play in Peoria, IL?" flew over the Google campus in Mountain View, California.[24]
+The mayor of Duluth, Minnesota, jokingly proclaimed that every first-born child will be named either Google Fiber or Googlette Fiber.[25]
+The city of Rancho Cucamonga, California, dubbed their city, "Rancho Googlemonga".[26]
+One of the islands in Sarasota, Florida, was temporarily renamed "Google Island".[22]
+
+Municipalities and citizens have also uploaded YouTube videos to support their bids. Some examples:
+
+A YouTube video in support of Sarasota, Florida, used the Bobby McFerrin song "Don't Worry, Be Happy"[22] A video for Sarasota was uploaded through Facebook’s video service.[22]
+Comedian and United States Senator Al Franken made a YouTube video to support the bid of Duluth, Minnesota.[27]
+Ann Arbor, Michigan, has its own YouTube channel[28] featuring a David Letterman-style Top Ten list delivered by town VIPs such as Mayor John Hieftje and University of Michigan President Mary Sue Coleman. Ann Arbor also held a city-wide GoogleFest,[29] kicking off with a gathering of hundreds of participants dancing and chanting "Ann Arbor Google Fiber, ain't Nothing any finer."[30]
+
+Operating locations[edit]
+In 2011, Google launched a trial in a residential community of Palo Alto, California.[31] On March 30 of the same year, Kansas City, Kansas, was selected as the first city to receive Google Fiber.[5] In 2013, Austin, Texas, and Provo, Utah, were announced as expansion cities for Google Fiber on April 9 and 17 respectively.
+Stanford University[edit]
+
+In summer 2011, Google launched a free trial of its forthcoming fiber service in one residential community near Stanford University in Palo Alto, California.[31]
+
+Kansas City[edit]
+
+
+
+
+Google Fiber goes to Kansas City
+
+
+Google found that affluent neighborhoods in Kansas City signed up for the faster service while those in poorer neighborhoods did not sign up for even the free option. In response to this digital divide, Google sent a team of 60 employees to the under-served areas to promote the Google Fiber service. Additionally, Google offered micro-grants to community organizations that want to start up digital literacy programs in Kansas City.[32]
+The following are chronological announcements of service in the Kansas City metropolitan area. Neighborhoods are said to be selected based on demand:[33]
+
+Kansas City, Kansas – On March 30, 2011, Kansas City, Kansas, was selected from over 1,100 applicants to be the first Google Fiber community.[5]
+Kansas City, Missouri – On May 17, 2011,[34] Google announced the decision to include Kansas City, Missouri, thus offering service to both sides of the state line. The network became available to residents in September 2012.
+Olathe, Kansas – On March 19, 2013, Google announced that the project would be expanded to Olathe.[35]
+North Kansas City, Missouri – On April 19, 2013, Google announced that they were to begin a 20-year lease on dark fiber in the existing LiNKCity fiber network in North Kansas City.[36][36] The original news article was incomplete and later articles clarified the lease.[37] Independent of Google's network the system in North Kansas City will also be upgraded to Gigabit capacity and managed by a local company based out of North Kansas City.
+
+
+
+Shawnee, Kansas – May 2, 2013[38]
+Raytown, Missouri – May 3, 2013[39]
+Grandview, Missouri – May 7, 2013[40]
+Gladstone, Missouri – May 13, 2013[41]
+Raytown, Missouri – May 22, 2013[42]
+Lee's Summit, Missouri – June 21, 2013[43]
+Mission, Kansas – June 27, 2013[44]
+Prairie Village, Kansas – August 5, 2013 [45]
+Leawood, Kansas – August 19, 2013[46] - (cancelled July 24, 2014)[47]
+Merriam, Kansas – August 26, 2013[48]
+Roeland Park, Kansas – September 3, 2013[49]
+Mission Hills, Kansas – September 9, 2013[50]
+Fairway, Kansas – September 9, 2013[50]
+Lenexa, Kansas – September 17, 2013[51]
+
+
+Google placed deployment in Overland Park, Kansas, on indefinite hold in October 2013, following delays by the City Council over concerns about whether an indemnification clause that Google required might force the city to repair any damage caused by the project.[52] As of July 2014, Overland Park's City Council had voted on a deal that would allow for Google Fiber. Soon after, the city appeared on Google Fiber's website.[53]
+Austin[edit]
+
+Austin, Texas – On April 9, 2013, it was announced that Austin would become a Google Fiber City.[54]
+On October 15, 2014, it was announced that Austin signups for Google Fiber would start in December 2014.[55]
+On December 3, 2014, Google started taking registrations from residents and small businesses.[56]
+
+
+
+
+
+
+
+
+Google Fiber store entrance, Austin
+
+
+
+
+
+
+
+
+
+Google Fiber store, Austin
+
+
+
+
+
+
+
+
+
+Google Fiber store, Austin
+
+
+
+
+
+
+
+
+
+TV box and Network box at Google Fiber store, Austin
+
+
+
+
+Provo[edit]
+
+Provo, Utah – On April 17, 2013, it was announced that Provo would become the third Google Fiber City.[57] Expansion of Google Fiber service to Provo, Utah will be accomplished through an agreement[58] with the City of Provo to allow Google to acquire the existing fiber network known as "iProvo". The agreement will allow Google to purchase the iProvo network for $1, while requiring Google to upgrade the aging network to gigabit capacity, offer free gigabit service to 25 local public institutions, and offer 5 Mbit/s service to every home in the city for free after a $300 activation fee.[59][60]
+
+Salt Lake City[edit]
+On March 24, 2015, Google announced that Google Fiber would expand into Salt Lake City, Utah. Service became available for signup on August 24, 2016.[61]
+Charlotte[edit]
+On July 12, 2016, sign-ups opened in Highland Creek (Charlotte neighborhood).[62]
+On October 4, 2016, sign-ups opened in Prosperity Village.[63]
+Atlanta[edit]
+In the original announcement of 2015, the following areas were announced:[64]
+
+Avondale Estates
+Brookhaven
+Castleberry Hill
+College Park
+Decatur
+East Point
+Hapeville
+Sandy Springs
+Smyrna
+Vine City
+
+In August 2016, sign-ups were opened.[65]
+Research Triangle (Raleigh–Durham)[edit]
+In the original announcement of 2015, the following areas were announced:[64]
+
+Cary
+Chapel Hill
+Durham
+Garner
+Morrisville
+Raleigh
+
+On September 13, 2016, sign-ups opened.[66]
+Nashville, Tennessee[edit]
+The areas initially announced in February 2015 were:[64]
+
+Oak Hill
+Forest Hills
+Berry Hill
+Belle Meade
+
+As of December 2016, construction is underway.[67] Sign-ups are open.
+As of August 2017, Google Fiber announced that the Sylvan Park neighborhood in West Nashville had Google Fiber service officially operating, making Nashville a city currently with Google Fiber service.[68]
+Announced future locations[edit]
+California[edit]
+On January 27, 2015, Google announced that Google Fiber would expand into additional markets:[64]
+
+Southern California
+
+Long Beach
+Huntington Beach (Orange County)
+
+
+
+Irvine, California, previously announced separately, is in Orange County.
+San Antonio, Texas[edit]
+On April 14, 2016, Google sent a blast email to early adopters of Google Fiber announcing that they were indeed behind the visible construction across the city. A few details were given about the vast extent of the construction that was being undertaken, Google is in the process of deploying about 4,000 linear miles (6,500 km) of fiber-optic cable throughout San Antonio.[69] In advance of the imminent deployment of the new fiber network the direct competitors of Google Fiber, AT&T U-Verse, Time Warner Cable, and Grande Communications have dropped prices and increased the speeds of their networks. San Antonio, the 7th largest city in the nation, is the largest project that Google Fiber has taken on to date.
+On August 5, 2015, expansion into San Antonio was announced.[70] As of December 2016, construction is underway.[71] However, in January 2017, construction was halted pending concerns about the placement of Google Fiber huts in city parks.[72] Mayor Ivy Taylor expressed commitment to working with Google to address community concerns and allow the project to continue.[73]
+Huntsville, Alabama[edit]
+On February 22, 2016, Google announced that Google Fiber would expand into Huntsville, Alabama.[74]
+Louisville, Kentucky[edit]
+In April 2017, Google announced that Google Fiber will start construction in Louisville, Kentucky.[75]
+Possible future expansion[edit]
+2014[edit]
+In February 2014, Google announced it had "invited cities in nine metro areas around the U.S.—34 cities altogether—to work with us to explore what it would take to bring them Google Fiber."[76]
+The remaining metropolitan areas where Fiber has not yet begun constructing are: Phoenix, Portland, San Antonio and San Jose.[76] Of these, the following have yet to be selected by Google for fiber deployments:[77]
+
+Arizona – Phoenix, Scottsdale, Tempe. These plans were put on hold in October 2016.[10]
+California – These plans were put on hold in October 2016.[10]
+
+San Jose.
+Santa Clara
+Sunnyvale
+Mountain View
+Palo Alto
+
+
+Oregon – Portland, Beaverton, Hillsboro, Gresham, Lake Oswego, Tigard These plans were put on hold in October 2016.[10]
+
+On April 15, 2014, Google began polling business users on their need for gigabit service, that they would be "conducting a pilot program where we'll connect a limited number of small businesses to our network."[78]
+2015[edit]
+On September 10, 2015, Google tweeted[79] that it was exploring the possibility of adding Irvine and San Diego, California, as future expansion cities.
+On October 28, 2015, Jill Szuchmacher, Google Fiber Director of Expansion, announced ongoing negotiations with local governments in Jacksonville, Florida, Tampa, Florida, and Oklahoma City, Oklahoma. Szuchmacher stated that Google is interested in the installation of Google Fiber networks in each of the cities and that construction could take up to eighteen months once the project is underway.[80] In October 2016, those plans were put on hold.[10]
+On December 8, 2015, the Seattle City Council's Director of Communications [81] indicating that the city was in the process of applying for Google Fiber service. On December 8, 2015, Jill Szuchmacher said the company will work with Chicago city leaders to collect information and study factors that could affect construction of Google Fiber.[82]
+2016[edit]
+On June 14, 2016, Jill Szuchmacher said the company will work with Dallas mayor Mike Rawlings to try and bring another hub to Texas.[83]
+In October 2016, all expansion plans were put on hold and some jobs were cut.[10] Google Fiber will continue to provide service in the cities where it is already installed.
+Acquisition of Webpass[edit]
+Google Fiber bought Webpass on June 22, 2016. They are an Internet service provider that has been in business for 13 years and specializes in high-speed Internet for business and residential customers. They have a large presence in California and specifically the Bay Area as well as San Diego, Miami, Miami Beach, Coral Gables, Chicago, and Boston. The deal closed in October 2016.[84][85]
+Technical specifications[edit]
+Google Fiber provides an Internet connection speed of up to one gigabit per second (1,000 Mbit/s) for both download and upload[86] which is roughly 100 times faster access than what most Americans have.[11] Google Fiber says its service allows for the download of a full movie in less than two minutes.[87]
+In order to use gigabit speeds as of 2013, devices would require support for Gigabit Ethernet and category 5e or greater cabling, or a 802.11ac compatible WiFi router and wireless adapter.[note 1][88]
+Prohibition of servers[edit]
+When first launched, Google Fiber's terms of service stated that its subscribers were not allowed to create any type of server: "Your Google Fiber account is for your use and the reasonable use of your guests. Unless you have a written agreement with Google Fiber permitting you do so, you should not host any type of server using your Google Fiber connection, use your Google Fiber account to provide a large number of people with Internet access, or use your Google Fiber account to provide commercial services to third parties (including, but not limited to, selling Internet access to third parties)."[89]
+The Electronic Frontier Foundation criticized the practice, noting the ambiguity of the word "server" which might (or might not) include such common application protocols as BitTorrent, and Spotify, as well as the effect of and on IPv6 adoption due its lack of NAT technical limitations on network servers, but also noted similar prohibitions from other ISPs such as Comcast, Verizon, Cox, and AT&T.[90]
+In October 2013, the acceptable use policy for Google Fiber was modified to allow "personal, non-commercial use of servers".[91][92]
+April Fools' hoaxes[edit]
+See also: List of Google April Fools' Day hoaxes
+On April Fools' Day 2007, Google hosted a signup for Google TiSP offering "a fully functional, end-to-end system that provides in-home wireless access by connecting your commode-based TiSP wireless router to one of thousands of TiSP Access Nodes via fiber-optic cable strung through your local municipal sewage lines."[93]
+On April Fools' Day 2012, Google Fiber announced that their product was an edible Google Fiber bar instead of fiber-optic Internet broadband. It is stated that the Google Fiber bar delivers "what the body needs to sustain activity, energy, and productivity."[94]
+On April Fools' Day 2013, Google Fiber announced the introduction of Google Fiber to the Pole. The description provided was "Google Fiber to the Pole provides ubiquitous gigabit connectivity to fiberhoods across Kansas City. This latest innovation in Google Fiber technology enables users to access Google Fiber's ultrafast gigabit speeds even when they are out and about." Clicking on the "Learn more" and "Find a pole near you" buttons displayed a message reading "April Fool’s! While Fiber Poles don’t exist, we are working on a bunch of cool stuff that does. Keep posted on all things Fiber by checking out our blog."[95]
+The April Fools' Day 2014 prank was an announcement of Coffee To The Home, using a spout on the fiber jack where the service enters the customer's home to deliver customized coffee drinks.[96]
+On April Fools' Day 2015, Google Fiber announced Dial-Up Mode for people who prefer slower Internet. It reaches speeds up to 56k and helps people get back to real life more often.[97]
+For the 2016 April Fools' Day joke, Google Fiber announced it was "exploring 1 billion times faster speeds".[98]
+Reactions[edit]
+Time Magazine has claimed that rather than wanting to actually operate as an Internet service provider, the company was just hoping to shame the major cable operators into improving their service so that Google searches could be done faster. Google has neither confirmed nor denied this claim.[32]
+AT&T and other Internet Service Providers have launched their own gigabit services since Google Fiber was revealed. Some cable subscribers have also had their speeds increased without additional costs. [99]
+According to a Goldman Sachs report, Google could connect approximately 830,000 homes a year at the cost of $1.25 billion a year, or a total of 7.5 million homes in nine years at a cost of slightly over $10 billion.[100]
+In January 2014 a bill was introduced in the Kansas Legislature (Senate Bill 304, referred to as the "Municipal Communications Network and Private Telecommunications Investment Safeguards Act") which would prevent Google Fiber from expanding further in Kansas using the model used in Kansas City.[101][102] The bill proposes: "Except with regard to unserved areas, a municipality may not, directly or indirectly:
+
+Offer to provide to one or more subscribers, video, telecommunications or broadband service; or
+purchase, lease, construct, maintain or operate any facility for the purpose of enabling a private business or entity to offer, provide, carry, or deliver video, telecommunications or broadband service to one or more subscribers."
+
+By February 2014, Senate Bill 304 (SB304) had lost momentum in the Kansas state senate, and the bill's sponsor, Kansas Cable Telecommunications Association (KCTA), indicated that it is highly unlikely that it will continue to pursue the legislation in the current legislative session.[103]
+See also[edit]
+
+Google WiFi, Google's municipal wireless network
+NetBlazr, competitor of similar technology.
+Project Loon, Google's research project aiming to provide Internet access to rural and remote areas via high-altitude balloons
+AT&T U-verse
+Verizon Fios
+List of multiple-system operators
+
+Notes[edit]
+
+
+
+^ The 802.11a/b/g/n wireless protocols cannot achieve 1 gigabit speeds. The one exception, 802.11ac theoretically supports up to 1.3 Gbit/s (162.5 megabytes per second). However, as of 2013 commercially available 802.11ac devices achieve ≤0.5 Gbit/s under optimum conditions.
+
+
+
+References[edit]
+
+
+^ https://www.bloomberg.com/news/articles/2017-09-01/alphabet-wraps-up-reorganization-with-a-new-company-called-xxvi
+^ Wakabayashi, Daisuke (October 25, 2016). "Google Curbs Expansion of Fiber Optic Network, Cutting Jobs". The New York Times. Retrieved March 25, 2017. 
+^ Helft, Miguel (March 21, 2010). "Hoping for Gift From Google? Go Jump in the Lake". The New York Times. Retrieved March 25, 2017. 
+^ Baumgartner, Jeff (September 9, 2016). "Google Fiber 'Very Pleased' with TV Sign-Ups". Multichannel News. NewBay Media. Retrieved March 25, 2017. 
+^ a b c Medin, Milo (March 30, 2011). "Ultra high-speed broadband is coming to Kansas City, Kansas". Official Google Blog. Google. Retrieved March 25, 2017. 
+^ Ingersoll, Minnie; Kelly, James (February 10, 2010). "Think big with a gig: Our experimental fiber network". Official Google Blog. Google. Retrieved March 25, 2017. 
+^ Copeland, Michael V. (December 12, 2012). "Eric Schmidt Says Google Fiber Won't Stop With Kansas City". Wired. Condé Nast. Retrieved March 25, 2017. 
+^ Brodkin, Jon (August 5, 2015). "Google Fiber plans service in San Antonio, its biggest city yet". Ars Technica. Condé Nast. Retrieved March 25, 2017. 
+^ Bergen, Mark (November 30, 2015). "Meet Access, the Google Unit That's Taking On Comcast and the Rest of the Cable Biz". Recode. Vox Media. Retrieved March 25, 2017. 
+^ a b c d e f Brodkin, Jon (October 26, 2016). "Google Fiber division cuts staff by 9%, "pauses" fiber plans in 11 cities". Ars Technica. Condé Nast. Retrieved March 25, 2017. 
+^ a b "Service plans and pricing". Fiber Help. Google. Retrieved March 25, 2017. 
+^ Swanson, Erica (July 15, 2015). "Bringing Internet access to public housing residents". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (April 4, 2012). "A Construction Update". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Bergen, Mark (May 11, 2016). "Google Fiber is the most audacious part of the whole Alphabet". Recode. Vox Media. Retrieved March 25, 2017. 
+^ Bray, Hiawatha (June 23, 2016). "Could Google's purchase of a wireless company boost Boston's Internet?". The Boston Globe. Retrieved March 25, 2017. 
+^ Malik, Om (February 11, 2010). "How Much Will Google's Fiber Network Cost?". Gigaom. Retrieved March 25, 2017. 
+^ Rao, Leena (March 27, 2010). "The Final Tally: More Than 1100 Cities Apply For Google's Fiber Network". TechCrunch. AOL. Retrieved March 25, 2017. 
+^ Blodget, Henry (March 28, 2010). "Google: 1,100 Cities Want Us To Build Them Huge Fiber Networks". Business Insider. Axel Springer SE. Retrieved March 25, 2017. 
+^ Medin, Milo (December 15, 2010). "An update on Google Fiber". Official Google Blog. Google. Retrieved March 25, 2017. 
+^ Anderson, Nate (December 15, 2010). "Google delays its 1Gbps fiber announcement". Ars Technica. Condé Nast. Retrieved March 25, 2017. 
+^ L. Flatley, Joseph (December 16, 2010). "Google Fiber's 1Gbps ISP 'test community' selection delayed until 2011". Engadget. AOL. Retrieved March 25, 2017. 
+^ a b c d e Van Buskirk, Eliot (March 11, 2010). "Al Franken Jokes, But Google Fiber Is No Laughing Matter". Wired. Condé Nast. Retrieved March 25, 2017. 
+^ "Greenville Feels Lucky". Archived from the original on February 1, 2014. Retrieved 2014-01-28. 
+^ Helft, Miguel (March 26, 2010). "Cities Rush to Woo Google Broadband Before Friday Deadline". New York Times blog. 
+^ Silver, Curtis (March 10, 2010). "I, Google". Wired. Condé Nast. Retrieved March 25, 2017. 
+^ Murphy, David (March 7, 2010). "The 5 Strangest City Pitches for Google's New Fiber-Optic Service". PC Magazine. Ziff Davis. Retrieved March 25, 2017. 
+^ "Al Franken YouTube video". Youtube.com. Retrieved 2014-02-20. 
+^ "Ann Arbor YouTube channel". Youtube.com. Retrieved 2014-02-20. 
+^ Ann Arbor GoogleFest
+^ Reed, Tina (March 26, 2010). "Ann Arbor 'mob' makes another case to attract Google Fiber". AnnArbor.com. 
+^ a b "Google Fiber Goes Live Near Stanford". anandtech.com. August 22, 2011. 
+^ a b Gustin, Sam (September 14, 2012). "Google Fiber Issues Public Challenge: Get Up To Speed!". Time. Retrieved 2013-05-26. 
+^ Google Gets Into the Cable TV Business, for Real, All Things Digital, July 26, 2012.
+^ Medin, Milo (May 17, 2011). "Everything's up to date in Kansas City". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (March 19, 2013). "Google Fiber is coming to Olathe, Kansas". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ a b Farivar, Cyrus. "North Kansas City leases network to Google Fiber". Kansas City Business Journal. Retrieved April 19, 2013. North Kansas City will lease two paths of its LINKCity fiber-optic data network to Google Fiber. The City Council approved a 20-year agreement Tuesday worth $3.2 million 
+^ Vockrodt, Steve (May 7, 2013). "Google Fiber bails out North Kansas City's fiber-optic misfire". The Pitch. Retrieved May 14, 2013. This doesn't mean we're delivering Google Fiber service to the city of North Kansas City," Google spokeswoman Jenna Wandres says. "It just means we're using their fiber as a pass-through to get to surrounding areas. 
+^ Hack, Rachel (May 2, 2013). "Welcome, Shawnee, Kansas!". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Canon, Scott (May 3, 2013). "Raytown latest city promised Google Fiber". Kansas City Star. Retrieved May 3, 2013. 
+^ Hack, Rachel (May 7, 2013). "Grandview, Mo. — our newest Fiber community". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (May 13, 2013). "Another local expansion into Gladstone, Mo". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (May 22, 2013). "Raytown, Mo. approves Google Fiber". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (June 20, 2013). "Fiber for Lee's Summit". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (June 26, 2013). "Mission, Kansas: from the Santa Fe Trail to the information speedway". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ "Prairie Village approves deal for Google Fiber", Jonathan Bender, Kansas City Star, August 5, 2013. Retrieved September 18, 2013.
+^ Hack, Rachel (August 19, 2013). "Leawood, Kansas Approves Fiber". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ http://www.kshb.com/news/local-news/investigations/google-fiber-ended-contract-with-leawood-over-underground-utility-ordinance
+^ Hack, Rachel (August 26, 2013). "Fiber for Merriam, Kansas". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (September 3, 2013). "Rolling into Roeland Park, Kan". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ a b Hack, Rachel (September 9, 2013). "Fiber's coming to Mission Hills and Fairway". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Hack, Rachel (September 17, 2013). "Bringing Fiber to Lenexa, Kan". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Canon, Scott; Bhargava, Jennifer (October 25, 2013). "Momentary stall in Overland Park puts Google Fiber on long hold". Kansas City Star. McClatchy. Retrieved January 23, 2014. 
+^ "Overland Park reaches deal to bring in Google Fiber". KMBC. Retrieved 24 July 2014. 
+^ Medin, Milo (April 9, 2013). "Google Fiber's Next Stop: Austin, Texas". Official Google Blog. Google. Retrieved March 25, 2017. 
+^ "Google Announces December Fiber Signups for South Austin". kut.org. 2014-10-15. Retrieved 2014-10-15. 
+^ "Google Fiber goes live in Austin". Rapid TV News. 2014-12-03. Retrieved 2014-12-03. 
+^ Lo, Kevin (April 17, 2013). "Google Fiber—On the Silicon Prairie, the Silicon Hills, and now the Silicon Slopes". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ "Asset Purchase Agreement" (PDF). THIS ASSET PURCHASE AGREEMENT... ...between Google Fiber Inc., a Delaware corporation ("Purchaser"), and Provo City Corporation, a Utah municipal corporation ("Seller"). [permanent dead link]
+^ "Network Services Agreement" (PDF). ...terms and conditions upon which Google Fiber will provide high speed broadband Internet access services to the City and certain residents of Provo, free of charge. [permanent dead link]
+^ "Google Fiber Pricing Provo". Retrieved 14 February 2015. 
+^ Brodkin, Jon (August 24, 2016). "Google Fiber hits Salt Lake City, now available in seven metro areas". Ars Technica. Condé Nast. Retrieved March 25, 2017. 
+^ https://twitter.com/googlefiber/status/752868949730000900
+^ https://twitter.com/googlefiber/status/783339903002173441
+^ a b c d Kish, Dennis (January 27, 2015). "Google Fiber is coming to Atlanta, Charlotte, Nashville and Raleigh-Durham". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ http://atlanta.curbed.com/2016/8/10/12418522/google-fiber-atlanta-sign-up
+^ http://www.bizjournals.com/triangle/blog/techflash/2016/09/its-here-where-google-fiber-is-starting-its.html
+^ https://archive.is/20161207154114/https://fiber.google.com/cities/nashville/
+^ http://nashvillepublicradio.org/post/one-nashville-neighborhood-finally-gets-google-fiber-theres-high-speed-competition#stream/0
+^ "Google Fiber is coming to San Antonio – Sign up for updates". fiber.google.com. Retrieved 2016-04-17. 
+^ Strama, Mark (August 5, 2015). "Everything's faster in Texas: Google Fiber is coming to San Antonio". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ https://archive.is/20161207152333/https://fiber.google.com/cities/sanantonio/
+^ Flahive, Paul. "San Antonio Pushes Pause on Google Fiber Deployment". Texas Public Radio. Texas Public Radio. Retrieved 13 January 2017. 
+^ Gonzales, Charles. "City halts huts for Google fiber; mayoral candidates weigh-in". KSAT 12. Graham Media Group. Retrieved 13 January 2017. 
+^ Szuchmacher, Jill (February 22, 2016). "Working with Huntsville to connect more people". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Shafer, Sheldon S. (April 26, 2017). "Google Fiber confirms it will wire Louisville". Courier-Journal. Retrieved July 7, 2017. 
+^ a b Medin, Milo (February 19, 2014). "Exploring new cities for Google Fiber". Official Google Blog. Google. Retrieved March 25, 2017. 
+^ "The future of Fiber". Google. February 19, 2014. Retrieved 2014-02-20. 
+^ "Google Fiber - Questionnaire for small business". Google. Retrieved 15 April 2014. 
+^ https://twitter.com/googlefiber/status/642033385620140032
+^ "Google Fiber begins negotiations to lay super-fast Internet network in Jacksonville". jacksonville.com. Retrieved 2015-10-29. 
+^ replied to a tweet
+^ Sky, Blue. "Google Fiber superfast Internet service may come to Chicago". chicagotribune.com. Retrieved 2016-02-24. 
+^ Szuchmacher, Jill (June 14, 2016). "Exploring Dallas for Google Fiber". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ Russell, Jon (June 22, 2016). "Google Fiber is buying high-speed internet provider Webpass". TechCrunch. AOL. Retrieved March 25, 2017. 
+^ Brodkin, Jon (October 3, 2016). "Google Fiber is now a fiber and wireless ISP". Ars Technica. Condé Nast. Retrieved March 25, 2017. 
+^ "Google Fiber". Fiber.google.com. Retrieved 2015-06-04. 
+^ "Google Wants To Expand Its Ultrafast Internet In USA". What is USA News. 21 February 2014. Retrieved 2013-09-12. 
+^ "Router Charts - 5 GHz Downlink". SmallNetBuilder. 2013-10-01. Retrieved 2013-10-01. 
+^ Singel, Ryan (July 30, 2017). "Now That It's in the Broadband Game, Google Flip-Flops on Network Neutrality". Wired. Condé Nast. Retrieved March 25, 2017. 
+^ Auerbach, Dan (12 August 2013). "Google Fiber Continues Awful ISP Tradition of Banning 'Servers'". Electronic Frontier Foundation. 
+^ Fenley, John (15 October 2013). "Google Fiber has changed its terms of service.." GoogleProtest.com. 
+^ Brodkin, Jon (October 15, 2013). "Google Fiber now explicitly permits home servers". Ars Technica. Condé Nast. Retrieved March 25, 2017. 
+^ Google (1 April 2007). "Welcome to Google TiSP". Retrieved 6 August 2014. 
+^ Google (1 April 2012). "Introducing the Google Fiber Bar" (video). YouTube. Retrieved 5 May 2013. 
+^ Google Fiber (31 March 2013). "Google Fiber to the Pole" (video). YouTube. Retrieved 6 August 2014. 
+^ Google Fiber (1 April 2014). "Introducing Coffee to the Home" (video). YouTube. Retrieved 1 April 2014. 
+^ Google Fiber (April 1, 2015). "Introducing Dial-Up Mode" (video). YouTube. Retrieved April 1, 2015. 
+^ Takácsi, Pál (April 1, 2016). "Exploring 1 billion times faster speeds". Official Google Fiber Blog. Google. Retrieved March 25, 2017. 
+^ "The Wait-for-Google-to-Do-It Strategy.", James Surowiecki, MIT Technology Review, July 2015. Retrieved April 2017.
+^ "Google Fiber Could Reach 8 Million Homes By 2022", Elise Ackerman, Forbes, June 14, 2013. Retrieved September 2013.
+^ "Senate Bill No. 304 : AN ACT enacting the municipal communications network and private telecommunications investment safeguards act" (PDF). Kslegislature.org\accessdate=2015-06-04. 
+^ "Kansas To Nix Expansion of Google Fiber and Municipal Broadband - Slashdot". Tech.slashdot.org. 2014-01-31. Retrieved 2014-02-20. 
+^ Brodkin, Jon (February 20, 2014). ""It's dead": Kansas municipal Internet ban was "stabbed, shot, and hanged"". Ars Technica. Condé Nast. Retrieved March 25, 2017. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Google Fiber.
+
+
+
+Official website
+
+
+
+
+WebPass (Acquired)
+
+
+
+
+Google Fiber on Blogger
+Google Fiber on Google+
+Google Fiber's channel on YouTube
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Alphabet Inc.
+
+
+
+Divisions
+
+
+
+Access
+Calico
+CapitalG
+DeepMind
+Google
+GV
+Jigsaw
+Nest
+Sidewalk
+Verily
+X
+Waymo
+
+
+
+
+
+People
+
+
+
+Arthur D. Levinson
+Astro Teller
+David Krane
+Eric Schmidt
+Ruth Porat
+Sundar Pichai
+Tony Fadell
+Andrew Conrad
+
+
+
+
+Founders
+
+
+
+Larry Page
+Sergey Brin
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Portal
+ Task Force
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Google
+
+
+
+Overview
+
+
+
+Alphabet Inc.
+History
+List of mergers and acquisitions by Alphabet
+Products
+Criticism
+
+Privacy concerns
+
+
+Censorship
+Easter eggs
+Don't be evil
+
+
+
+
+
+Advertising
+
+
+
+AdMob
+Adscape
+AdSense
+AdWords
+Analytics
+Contributor
+Partners
+DoubleClick
+DoubleClick for Publishers
+Wallet
+
+
+
+
+
+Communication
+
+
+
+Allo
+Alerts
+Apps Script
+Duo
+Calendar
+Contacts
+Gmail
+
+history
+interface
+
+
+Google+
+Groups
+Hangouts
+Inbox
+Sync
+Text-to-Speech
+Translate
+Transliteration
+Voice
+
+
+
+
+
+Software
+
+
+
+Assistant
+
+Lens
+
+
+Chrome
+
+for Android
+for iOS
+Chrome Web Store
+Apps
+Extensions
+
+
+Cloud Print
+Earth
+
+Sky
+Moon
+Mars
+
+
+Gadgets
+Gboard
+Goggles
+IME
+
+Japanese
+Pinyin
+
+
+Photos
+Keep
+News & Weather
+Now
+OpenRefine
+Search
+
+
+
+
+
+Operating
+systems
+
+
+
+Android
+
+version history
+software development
+Android Auto
+Android Pay
+Android TV
+Android Wear
+
+
+Chrome OS
+
+Chromebit
+Chromebook
+Chromebox
+Chrome Zone
+
+
+Fuchsia
+
+
+
+
+
+Programming
+languages
+
+
+
+Dart
+Go
+Sawzall
+
+
+
+
+
+Platforms
+
+
+
+Account
+Authenticator
+Body
+Books
+
+Library Project
+
+
+Caja
+Virtual reality
+
+Cardboard
+Daydream
+
+
+Cast
+Chromecast
+Cloud Platform
+
+App Engine
+BigQuery
+Bigtable
+Compute Engine
+Storage
+
+
+Contact Lens
+Custom Search
+Daydream
+Earth Engine
+Fit
+GFS
+Firebase
+G Suite
+
+Classroom
+
+
+Home
+Jamboard
+Marketplace
+Native Client
+Nexus
+OnHub
+OpenSocial
+Primer
+Pixel
+Play
+
+Books
+Games
+Movies & TV
+Music
+Newsstand
+
+
+Public DNS
+URL Shortener
+Wallet
+Wifi
+
+
+
+
+
+Development
+tools
+
+
+
+AJAX APIs
+App Inventor
+Closure Tools
+CS First
+Developers
+Dialogflow
+Flutter
+GData
+Googlebot
+Guava
+Guice
+GWS
+KML
+Kythe
+MapReduce
+Mediabot
+Sitemaps
+Summer of Code
+Web Toolkit
+Search Console
+Website Optimizer
+Swiffy
+
+
+
+
+
+Publishing
+
+
+
+Blogger
+Bookmarks
+Drive
+Docs, Sheets, Slides, Forms
+Drawings
+My Maps
+Sites
+Fusion Tables
+Domains
+FeedBurner
+Map Maker
+YouTube
+YouTube Instant
+YouTube Red
+Vevo
+Zagat
+
+
+
+
+
+Search
+(timeline)
+
+
+
+Appliance
+Blog Search
+Books
+
+Ngram Viewer
+
+
+Custom Search
+Finance
+Flights
+Images
+Maps
+
+Mars
+Moon
+Sky
+Street View
+
+Coverage
+Competition
+Privacy concerns
+
+
+
+
+News
+
+Archive
+
+
+Patents
+Public Data
+Scholar
+Shopping
+Usenet
+Videos
+
+
+
+
+Algorithms
+
+
+
+PageRank
+Panda
+Penguin
+Hummingbird
+
+
+
+
+
+Features
+
+
+
+Personalized
+Real-Time
+Instant Search
+SafeSearch
+Voice Search
+
+
+
+
+
+Analysis
+
+
+
+Insights for Search
+Trends
+Knowledge Graph
+Knowledge Vault
+
+
+
+
+
+
+
+
+Discontinued
+
+
+
+Aardvark
+Answers
+Ara
+Browser Sync
+Base
+Buzz
+Checkout
+Chrome Frame
+Click-to-Call
+Cloud Connect
+Code Search
+Currents
+Desktop
+Dictionary
+Directory
+Dodgeball
+Fast Flip
+Friend Connect
+Gears
+Glass
+Glass OS
+GOOG-411
+Google TV
+Jaiku
+Knol
+Health
+iGoogle
+Image Labeler
+Labs
+Latitude
+Lively
+Mashup Editor
+Notebook
+Offers
+Orkut
+Pack
+Page Creator
+Panoramio
+Picasa
+Picasa Web Albums
+Picnik
+PowerMeter
+Q & A
+Reader
+Script Converter
+SearchWiki
+Sidewiki
+Slide
+Squared
+Talk
+Updater
+Urchin
+Videos
+Wave
+Web Accelerator
+Toolbar
+
+
+
+
+
+Other
+
+
+
+Art Project
+Calico
+Current
+Chrome Experiments
+Code-in
+Code Jam
+Developer Day
+Google Business Groups
+Made with Code
+Data Liberation
+
+Takeout
+
+
+Google Developer Expert
+Google for Work
+Self-driving car
+Earth Outreach
+Fiber
+GV
+"Google"
+Google China
+Google Express
+Googlization
+Grants
+Google.org
+Lunar X Prize
+Project Fi
+Material Design
+Motorola Mobility
+reCAPTCHA
+WiFi
+X
+
+
+
+
+Events
+
+
+
+Science Fair
+Searchology
+I/O
+Developer Day
+Code Jam
+Highly Open Participation Contest
+Code-in
+
+
+
+
+
+Projects
+
+
+
+Loon
+Tango
+Sunroof
+
+
+
+
+
+Real estate
+
+
+
+111 Eighth Avenue
+Googleplex
+
+
+
+
+
+Logo
+
+
+
+Doodle4Google
+Google Doodles
+
+
+
+
+
+
+
+
+People
+
+
+
+Al Gore
+Alan Eustace
+Alan Mulally
+Amit Singhal
+Ann Mather
+David Drummond
+Eric Schmidt
+Jeff Dean
+John Doerr
+John L. Hennessy
+Krishna Bharat
+Matt Cutts
+Patrick Pichette
+Paul Otellini
+Omid Kordestani
+Rachel Whetstone
+Rajen Sheth
+Ram Shriram
+Ray Kurzweil
+Ruth Porat
+Salar Kamangar
+Shirley M. Tilghman
+Sundar Pichai
+Susan Wojcicki
+Urs Hölzle
+Vint Cerf
+Hal Varian
+Gayglers
+
+
+
+
+Founders
+
+
+
+Larry Page
+Sergey Brin
+
+
+
+
+
+
+
+
+Related
+
+
+
+AI Challenge
+Bomb
+GmailFS
+"Google: Behind the Screen" (2006 documentary)
+Google: The Thinking Factory (2008 documentary)
+Google and the World Brain (2013 documentary)
+Goojje
+Monopoly City Streets
+Unity
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Internet service providers of the United States
+
+
+
+Cable ISP
+
+
+
+Adams Cable
+Advanced Cable Communications
+Allegiance Communications
+Altice USA
+
+Optimum
+Suddenlink Communications
+
+
+Armstrong
+Atlantic Broadband
+Blue Ridge Communications
+Broadstripe
+Buckeye Broadband
+Cable One
+Charter Spectrum
+Comcast Xfinity
+Consolidated Communications
+
+FairPoint Communications
+
+
+Cox Communications
+Docomo Pacific
+Emery Telcom
+Full Channel
+GCI
+Hargray
+Mediacom
+Midco
+Northland Communications
+OneLink Communications
+Satview Broadband
+Service Electric
+SRT Communications
+TDS Telecom
+TPG
+
+Grande Communications
+RCN Corporation
+Wave Broadband
+
+
+TruVista Communications
+WOW!
+
+
+
+
+
+Satellite ISP
+
+
+
+Dish (HughesNet)
+Exede
+
+
+
+
+
+Fiber ISP
+
+
+
+AT&T Fiber
+CenturyLink
+Cincinnati Bell FiOptics
+Claro
+Consolidated Communications
+
+FairPoint Communications
+
+
+Digital West
+EPB
+Frontier FiOS
+Google Fiber
+GTA Teleguam
+Hawaiian Telcom
+Midco
+NEP Telephone
+TDS Telecom
+Verizon FiOS
+Windstream
+
+
+
+
+
+Copper / DSL ISP
+
+
+
+AT&T Internet (U-Verse)
+CenturyLink
+Consolidated Communications
+
+FairPoint Communications
+
+
+Digital West
+Frontier Communications
+TDS Telecom
+Verizon
+Windstream
+
+
+
+
+
+Defunct ISP
+
+
+
+AGIS
+ANS
+Atala T
+Boston CitiNet
+ATMNet
+Excite@Home
+Prodigy
+Pure TalkUSA
+Texas.net
+WorldWide Access
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cable, satellite, and other specialty television providers in the United States
+
+
+
+Cable MVPD
+
+
+
+Adams Cable
+Altice USA
+
+Optimum
+Suddenlink Communications
+
+
+Armstrong
+Atlantic Broadband
+Blue Ridge Communications
+Blue Stream
+Broadstripe
+Buckeye Broadband
+Cable One
+Charter Spectrum
+Comcast Xfinity
+Consolidated Communications
+
+FairPoint Communications
+
+
+Cox Communications
+Docomo Pacific
+Emery Telcom
+Full Channel
+GCI
+Hargray
+Mediacom
+Midco
+Northland Communications
+Liberty Puerto Rico
+Satview Broadband
+Service Electric
+SRT Communications
+TDS Telecom
+TPG
+
+Grande Communications
+RCN Corporation
+Wave Broadband
+
+
+TruVista Communications
+WOW!
+
+
+
+
+
+Satellite MVPD
+
+
+
+Claro
+Dish Network
+DirecTV
+Glorystar
+Headend in the Sky
+Home2US
+
+
+
+
+
+Fiber MVPD / IPTV
+
+
+
+AT&T U-verse
+CenturyLink Prism TV
+Cincinnati Bell FiOptics
+Claro
+Consolidated Communications
+
+FairPoint Communications
+
+
+EPB
+Frontier FiOS
+Google Fiber
+GTA Teleguam
+Hawaiian Telcom
+Midco
+NEP Datastream TV
+TDS Telecom
+Verizon FiOS
+Windstream Kinetic
+
+
+
+
+
+Virtual MVPD
+
+
+
+DirecTV Now
+FuboTV
+Hulu with Live TV
+Philo
+PlayStation Vue
+Sling TV
+Spectrum TV Stream
+Xfinity Instant TV
+YouTube TV
+
+
+
+
+
+Over-the-top
+
+
+
+Amazon Video
+Anime Network
+Apple TV (iTunes Store)
+CBS All Access
+Crackle
+Crunchyroll
+CW Seed
+CuriosityStream
+DramaFever
+Fandor
+Feeln
+FunimationNow
+go90
+HBO Now
+History Vault
+Hulu
+iON (IPTV)
+Lifetime Movie Club
+Netflix
+Noggin
+Pluto TV
+Roku
+Seeso
+Showtime
+StarzPlay
+Tribeca Shortlist
+Tubi TV
+Univision NOW
+Yupptv
+WWE Network
+
+
+
+
+
+Defunct cable
+
+
+
+Adelphia Communications Corporation
+Alameda Power and Telecom1
+Astound Broadband
+AT&T Broadband
+
+MediaOne / Continental Cablevision
+Tele-Communications Inc.
+
+
+Baja Broadband
+
+US Cable
+
+
+Bresnan Communications
+Bright House Networks
+Cablevision
+Champion Broadband
+Cobridge Communications
+Community Home Entertainment
+Graceba Total Communications
+Insight Communications
+Jones Intercable
+King Videocable
+Knology
+Marcus Cable
+NPG Cable
+Paragon Cable
+Rapid Communications
+TelePrompTer / Group W Cable
+Time Warner Cable
+UA-Columbia Cablevision
+Windjammer Communications
+
+1 – Still in operation, but no longer offers cable or Internet as part of its services
+
+
+
+
+Defunct satellite
+
+
+
+AlphaStar
+GlobeCast World TV
+PrimeStar
+United States Satellite Broadcasting
+Voom HD Networks
+
+
+
+
+
+Defunct IPTV
+
+
+
+Sky Angel
+Virtual Digital Cable
+
+
+
+
+
+Defunct terrestrial
+
+
+
+Aereo
+USDTV
+MovieBeam
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+Africa, Asia, and Oceania
+Americas
+Europe
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+United States wireless communications service providers
+
+
+
+National
+
+
+
+AT&T Mobility
+Sprint Corporation
+T-Mobile US
+Verizon Wireless
+
+
+
+
+
+Regional
+
+
+
+Atlantic Tele-Network
+C Spire Wireless
+Cellcom
+Cellular One
+Claro Puerto Rico
+GCI
+GTA Teleguam
+Indigo Wireless
+IWireless
+Open Mobile
+United Wireless
+U.S. Cellular
+West Central Wireless
+
+
+
+
+
+Mobile virtual network operators
+
+
+
+List of United States mobile virtual network operators
+
+
+
+
+
+Defunct
+Defunct virtual operators
+
+
+
+Advanced Mobile Phone Service
+AirTouch
+Alaska Communications
+Alltel
+AT&T Wireless Services
+Cincinnati Bell
+Dobson Cellular
+Edge Wireless
+Element Mobile
+First Cellular of Southern Illinois
+Houston Cellular
+Midwest Wireless
+NEP Wireless
+Nextel Communications
+Northcoast PCS
+nTelos
+Pocket Communications
+Powertel
+PrimeCo
+Revol Wireless
+Rural Cellular
+SunCom
+Unicel
+Upoc Networks
+Western Wireless Corporation
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Google_Fiber&oldid=805556282"					
+Categories: GoogleBroadbandFiber to the premisesInternet service providers of the United StatesDigital television in the United StatesAlphabet Inc.Hidden categories: All articles with dead external linksArticles with dead external links from March 2017Articles with permanently dead external linksOfficial website different in Wikidata and Wikipedia 

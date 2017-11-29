@@ -1,0 +1,1813 @@
+Schrödinger–Newton equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Schrödinger–Newton equation, sometimes referred to as the Newton–Schrödinger or Schrödinger–Poisson equation, is a nonlinear modification of the Schrödinger equation with a Newtonian gravitational potential, where the gravitational potential emerges from the treatment of the wave function as a mass density, including a term that represents interaction of a particle with its own gravitational field. The inclusion of a self-interaction term represents a fundamental alteration of quantum mechanics.[1] It can be written either as a single integro-differential equation or as a coupled system of a Schrödinger and a Poisson equation. In the latter case it is also referred to in the plural form.
+The Schrödinger–Newton equation was first considered by Ruffini and Bonazzola[2] in connection with self-gravitating boson stars. In this context of classical general relativity it appears as the non-relativistic limit of either the Klein–Gordon equation or the Dirac equation in a curved space-time together with the Einstein field equations.[3]
+Later on it was proposed as a model to explain the quantum wave function collapse by Diósi[4] and Penrose,[5][6][7] from whom the name "Schrödinger–Newton equation" originates. In this context, matter has quantum properties while gravity remains classical even at the fundamental level. The Schrödinger–Newton equation was therefore also suggested as a way to test the necessity of quantum gravity.[8]
+In a third context, the Schrödinger–Newton equation appears as a Hartree approximation for the mutual gravitational interaction in a system of a large number of particles. In this context, a corresponding equation for the electromagnetic Coulomb interaction was suggested by Philippe Choquard at the 1976 Symposium on Coulomb Systems in Lausanne to describe one-component plasmas. Elliott H. Lieb provided the proof for the existence and uniqueness of a stationary ground state and referred to the equation as the Choquard equation.[9]
+
+
+
+Contents
+
+
+1 Overview
+
+1.1 Relation to semiclassical and quantum gravity
+
+
+2 Many-body equation and centre-of-mass motion
+3 Significance of effects
+4 Quantum wave function collapse
+
+4.1 Problems and open matters
+
+
+5 See also
+6 References
+
+
+
+Overview[edit]
+As a coupled system, the Schrödinger–Newton equations are the usual Schrödinger equation with a self-interaction gravitational potential
+
+
+
+
+
+
+i
+
+ℏ
+
+
+
+∂
+Ψ
+
+
+∂
+t
+
+
+
+=
+−
+
+
+
+ℏ
+
+2
+
+
+
+2
+m
+
+
+
+
+∇
+
+2
+
+
+Ψ
++
+V
+Ψ
++
+m
+Φ
+Ψ
+
+,
+
+
+{\displaystyle \mathrm {i} \hbar {\frac {\partial \Psi }{\partial t}}=-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}\Psi +V\Psi +m\Phi \Psi \,,}
+
+
+
+where V is an ordinary potential and the gravitational potential 
+
+
+
+Φ
+
+
+{\displaystyle \Phi }
+
+, representing the interaction of the particle with its own gravitational field, satisfies the Poisson equation
+
+
+
+
+
+
+∇
+
+2
+
+
+Φ
+=
+4
+π
+G
+m
+
+|
+
+Ψ
+
+
+|
+
+
+2
+
+
+
+.
+
+
+{\displaystyle \nabla ^{2}\Phi =4\pi Gm|\Psi |^{2}\,.}
+
+
+
+Because of the back coupling of the wave-function into the potential it is a nonlinear system.
+The integro-differential form of the equation is
+
+
+
+
+
+
+i
+
+ℏ
+
+
+
+∂
+Ψ
+
+
+∂
+t
+
+
+
+=
+
+[
+−
+
+
+
+ℏ
+
+2
+
+
+
+2
+m
+
+
+
+
+∇
+
+2
+
+
++
+V
+−
+G
+
+m
+
+2
+
+
+∫
+
+
+
+
+|
+
+Ψ
+(
+t
+,
+
+y
+
+)
+
+
+|
+
+
+2
+
+
+
+
+
+|
+
+
+x
+
+−
+
+y
+
+
+|
+
+
+
+
+
+
+
+d
+
+
+3
+
+
+
+y
+
+]
+
+Ψ
+
+.
+
+
+{\displaystyle \mathrm {i} \hbar {\frac {\partial \Psi }{\partial t}}=\left[-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V-Gm^{2}\int {\frac {|\Psi (t,\mathbf {y} )|^{2}}{|\mathbf {x} -\mathbf {y} |}}\,\mathrm {d} ^{3}\mathbf {y} \right]\Psi \,.}
+
+
+
+It is obtained from the above system of equations by integration of the Poisson equation under the assumption that the potential must vanish at infinity.
+Mathematically, the Schrödinger–Newton equation is a special case of the Hartree equation for n = 2. The equation retains most of the properties of the linear Schrödinger equation. In particular it is invariant under constant phase shifts, leading to conservation of probability, and it exhibits full Galilei invariance. In addition to these symmetries, a simultaneous transformation
+
+
+
+
+
+m
+→
+μ
+m
+,
+
+t
+→
+
+μ
+
+−
+5
+
+
+t
+,
+
+
+
+x
+
+→
+
+μ
+
+−
+3
+
+
+
+x
+
+,
+
+
+ψ
+(
+t
+,
+
+x
+
+)
+→
+
+μ
+
+9
+
+/
+
+2
+
+
+ψ
+(
+
+μ
+
+5
+
+
+t
+,
+
+μ
+
+3
+
+
+
+x
+
+)
+
+
+{\displaystyle m\to \mu m,\;t\to \mu ^{-5}t,\;\;\mathbf {x} \to \mu ^{-3}\mathbf {x} ,\;\;\psi (t,\mathbf {x} )\to \mu ^{9/2}\psi (\mu ^{5}t,\mu ^{3}\mathbf {x} )}
+
+
+
+maps solutions of the Schrödinger–Newton equation to solutions.[10][11] The stationary equation, which can be obtained in the usual manner via a separation of variables, possesses an infinite family of normalisable solutions of which only the stationary ground state is stable.[12][13][14]
+Relation to semiclassical and quantum gravity[edit]
+The Schrödinger–Newton equation can be derived under the assumption that gravity remains classical, even at the fundamental level, and that the right way to couple quantum matter to gravity is by means of the semiclassical Einstein equations. In this case, a Newtonian gravitational potential term is added to the Schrödinger equation, where the source of this gravitational potential is the expectation value of the mass density operator. In this regard, if gravity is fundamentally classical, the Schrödinger–Newton equation is a fundamental one-particle equation, which can be generalised to the case of many particles (see below).
+If, on the other hand, the gravitational field is quantised, the fundamental Schrödinger equation remains linear. The Schrödinger–Newton equation is then only valid as an approximation for the gravitational interaction in systems of a large number of particles, and has no effect on the centre of mass.[15]
+Many-body equation and centre-of-mass motion[edit]
+If the Schrödinger–Newton equation is considered as a fundamental equation, there is a corresponding N-body equation that was already given by Diósi,[4] and can be derived from semiclassical gravity in the same way as the one-particle equation:
+
+
+
+
+
+
+
+
+
+
+i
+
+ℏ
+
+
+
+∂
+Ψ
+(
+t
+,
+
+
+x
+
+1
+
+
+
+,
+…
+,
+
+
+x
+
+N
+
+
+
+)
+
+
+∂
+t
+
+
+
+=
+
+
+(
+
+
+
+
+
+−
+
+∑
+
+i
+=
+1
+
+
+N
+
+
+
+
+
+ℏ
+
+2
+
+
+
+2
+
+m
+
+i
+
+
+
+
+
+
+∇
+
+i
+
+
+2
+
+
++
+
+∑
+
+i
+≠
+j
+
+
+
+V
+
+i
+j
+
+
+(
+
+|
+
+
+
+x
+
+i
+
+
+
+−
+
+
+x
+
+j
+
+
+
+
+|
+
+)
+
+
+
+
+
+
+−
+G
+
+∑
+
+i
+,
+j
+=
+1
+
+
+N
+
+
+
+m
+
+i
+
+
+
+m
+
+j
+
+
+∫
+
+
+d
+
+
+3
+
+
+
+
+y
+
+1
+
+
+
+⋯
+
+
+d
+
+
+3
+
+
+
+
+y
+
+N
+
+
+
+
+
+
+
+
+|
+
+Ψ
+(
+t
+,
+
+
+y
+
+1
+
+
+
+,
+…
+,
+
+
+y
+
+N
+
+
+
+)
+
+
+|
+
+
+2
+
+
+
+
+
+|
+
+
+
+x
+
+i
+
+
+
+−
+
+
+y
+
+j
+
+
+
+
+|
+
+
+
+
+
+
+)
+
+
+Ψ
+(
+t
+,
+
+
+x
+
+1
+
+
+
+,
+…
+,
+
+
+x
+
+N
+
+
+
+)
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\mathrm {i} \hbar {\frac {\partial \Psi (t,\mathbf {x_{1}} ,\dots ,\mathbf {x_{N}} )}{\partial t}}={\Bigg (}&-\sum _{i=1}^{N}{\frac {\hbar ^{2}}{2m_{i}}}\nabla _{i}^{2}+\sum _{i\not =j}V_{ij}(|\mathbf {x_{i}} -\mathbf {x_{j}} |)\\&-G\sum _{i,j=1}^{N}m_{i}m_{j}\int \mathrm {d} ^{3}\mathbf {y_{1}} \cdots \mathrm {d} ^{3}\mathbf {y_{N}} \,{\frac {|\Psi (t,\mathbf {y_{1}} ,\dots ,\mathbf {y_{N}} )|^{2}}{|\mathbf {x_{i}} -\mathbf {y_{j}} |}}{\Bigg )}\Psi (t,\mathbf {x_{1}} ,\dots ,\mathbf {x_{N}} )\,.\end{aligned}}}
+
+
+
+The potential 
+
+
+
+
+V
+
+i
+j
+
+
+
+
+{\displaystyle V_{ij}}
+
+ contains all the mutual linear interactions, e.g. electrodynamical Coulomb interactions, while the gravitational potential term is based on the assumption that all particles perceive the same gravitational potential generated by all the marginal distributions for all the particles together.
+In a Born–Oppenheimer-like approximation, this N-particle equation can be separated into two equations, one describing the relative motion, the other providing the dynamics of the centre-of-mass wave-function. For the relative motion, the gravitational interaction does not play a role, since it is usually weak compared to the other interactions represented by 
+
+
+
+
+V
+
+i
+j
+
+
+
+
+{\displaystyle V_{ij}}
+
+. But it has a significant influence on the centre-of-mass motion. While 
+
+
+
+
+V
+
+i
+j
+
+
+
+
+{\displaystyle V_{ij}}
+
+ only depends on relative coordinates and therefore does not contribute to the centre-of-mass dynamics at all, the nonlinear Schrödinger–Newton interaction does contribute. In the aforementioned approximation, the centre-of-mass wave-function satisfies the following nonlinear Schrödinger equation:
+
+
+
+
+
+
+i
+
+ℏ
+
+
+
+∂
+
+ψ
+
+c
+
+
+(
+t
+,
+
+R
+
+)
+
+
+∂
+t
+
+
+
+=
+
+
+(
+
+
+
+
+
+ℏ
+
+2
+
+
+
+2
+M
+
+
+
+
+∇
+
+2
+
+
+−
+G
+∫
+
+
+d
+
+
+3
+
+
+
+
+R
+′
+
+
+
+∫
+
+
+d
+
+
+3
+
+
+
+y
+
+
+∫
+
+
+d
+
+
+3
+
+
+
+z
+
+
+
+
+
+
+|
+
+
+ψ
+
+c
+
+
+(
+t
+,
+
+
+R
+′
+
+
+)
+
+
+|
+
+
+2
+
+
+
+
+ρ
+
+c
+
+
+(
+
+y
+
+)
+
+ρ
+
+c
+
+
+(
+
+z
+
+)
+
+
+
+|
+
+
+R
+
+−
+
+
+R
+′
+
+
+−
+
+y
+
++
+
+z
+
+
+|
+
+
+
+
+
+
+)
+
+
+
+ψ
+
+c
+
+
+(
+t
+,
+
+R
+
+)
+
+
+
+{\displaystyle \mathrm {i} \hbar {\frac {\partial \psi _{c}(t,\mathbf {R} )}{\partial t}}={\Bigg (}{\frac {\hbar ^{2}}{2M}}\nabla ^{2}-G\int \mathrm {d} ^{3}\mathbf {R'} \,\int \mathrm {d} ^{3}\mathbf {y} \,\int \mathrm {d} ^{3}\mathbf {z} \,{\frac {|\psi _{c}(t,\mathbf {R'} )|^{2}\,\rho _{c}(\mathbf {y} )\rho _{c}(\mathbf {z} )}{|\mathbf {R} -\mathbf {R'} -\mathbf {y} +\mathbf {z} |}}{\Bigg )}\psi _{c}(t,\mathbf {R} )\,}
+
+
+
+where M is the total mass, R is the relative coordinate, 
+
+
+
+
+ψ
+
+c
+
+
+
+
+{\displaystyle \psi _{c}}
+
+ the centre-of-mass wave-function, and 
+
+
+
+
+ρ
+
+c
+
+
+
+
+{\displaystyle \rho _{c}}
+
+ is the mass density of the many-body system (e.g. a molecule or a rock) relative to its centre of mass.[16]
+In the limiting case of a wide wave-function, i.e. where the width of the centre-of-mass distribution is large compared to the size of the considered object, the centre-of-mass motion is approximated well by the Schrödinger–Newton equation for a single particle. The opposite case of a narrow wave-function can be approximated by a harmonic oscillator potential, where the Schrödinger–Newton dynamics leads to a rotation in phase space.[17]
+In the context where the Schrödinger–Newton equation appears as a Hartree approximation, the situation is different. In this case the full N-particle wave-function is considered a product state of N single-particle wave-functions, where each of those factors obeys the Schrödinger–Newton equation. The dynamics of the centre-of-mass, however, remain strictly linear in this picture. This is true in general: nonlinear Hartree equations never have an influence on the centre of mass.
+Significance of effects[edit]
+A rough order-of-magnitude estimate of the regime where effects of the Schrödinger–Newton equation become relevant can be obtained by a rather simple reasoning.[8] For a spherically-symmetric Gaussian,
+
+
+
+
+
+Ψ
+(
+t
+=
+0
+,
+r
+)
+=
+(
+π
+
+σ
+
+2
+
+
+
+)
+
+−
+3
+
+/
+
+4
+
+
+exp
+⁡
+
+(
+−
+
+
+
+r
+
+2
+
+
+
+2
+
+σ
+
+2
+
+
+
+
+
+)
+
+
+,
+
+
+{\displaystyle \Psi (t=0,r)=(\pi \sigma ^{2})^{-3/4}\exp \left(-{\frac {r^{2}}{2\sigma ^{2}}}\right)\,,}
+
+
+
+the free linear Schrödinger equation has the solution
+
+
+
+
+
+Ψ
+(
+t
+,
+r
+)
+=
+(
+π
+
+σ
+
+2
+
+
+
+)
+
+−
+3
+
+/
+
+4
+
+
+
+
+(
+1
++
+
+
+
+
+i
+
+ℏ
+t
+
+
+m
+
+σ
+
+2
+
+
+
+
+
+)
+
+
+−
+3
+
+/
+
+2
+
+
+exp
+⁡
+
+(
+−
+
+
+
+r
+
+2
+
+
+
+2
+
+σ
+
+2
+
+
+
+(
+1
++
+
+
+
+
+i
+
+ℏ
+t
+
+
+m
+
+σ
+
+2
+
+
+
+
+
+)
+
+
+
+
+)
+
+
+.
+
+
+{\displaystyle \Psi (t,r)=(\pi \sigma ^{2})^{-3/4}\left(1+{\frac {\mathrm {i} \hbar t}{m\sigma ^{2}}}\right)^{-3/2}\exp \left(-{\frac {r^{2}}{2\sigma ^{2}\left(1+{\frac {\mathrm {i} \hbar t}{m\sigma ^{2}}}\right)}}\right)\,.}
+
+
+
+The peak of the radial probability density 
+
+
+
+4
+π
+
+r
+
+2
+
+
+
+|
+
+Ψ
+
+
+|
+
+
+2
+
+
+
+
+{\displaystyle 4\pi r^{2}|\Psi |^{2}}
+
+ can be found at
+
+
+
+
+
+
+r
+
+p
+
+
+=
+σ
+
+
+1
++
+
+
+
+
+ℏ
+
+2
+
+
+
+t
+
+2
+
+
+
+
+
+m
+
+2
+
+
+
+σ
+
+4
+
+
+
+
+
+
+
+
+.
+
+
+{\displaystyle r_{p}=\sigma {\sqrt {1+{\frac {\hbar ^{2}t^{2}}{m^{2}\sigma ^{4}}}}}\,.}
+
+
+
+Now we set the acceleration
+
+
+
+
+
+
+
+
+
+r
+¨
+
+
+
+
+p
+
+
+=
+
+
+
+ℏ
+
+2
+
+
+
+
+m
+
+2
+
+
+
+r
+
+p
+
+
+3
+
+
+
+
+
+
+
+{\displaystyle {\ddot {r}}_{p}={\frac {\hbar ^{2}}{m^{2}r_{p}^{3}}}}
+
+
+
+of this peak probability equal to the acceleration due to Newtonian gravity,
+
+
+
+
+
+
+
+
+r
+¨
+
+
+
+=
+−
+
+
+
+G
+m
+
+
+r
+
+2
+
+
+
+
+
+,
+
+
+{\displaystyle {\ddot {r}}=-{\frac {Gm}{r^{2}}}\,,}
+
+
+
+using that 
+
+
+
+
+r
+
+p
+
+
+=
+σ
+
+
+{\displaystyle r_{p}=\sigma }
+
+ at time 
+
+
+
+t
+=
+0
+
+
+{\displaystyle t=0}
+
+. This yields the relation
+
+
+
+
+
+
+m
+
+3
+
+
+σ
+=
+
+
+
+ℏ
+
+2
+
+
+G
+
+
+≈
+1.7
+×
+
+10
+
+−
+58
+
+
+
+m
+
+k
+
+g
+
+3
+
+
+
+
+,
+
+
+{\displaystyle m^{3}\sigma ={\frac {\hbar ^{2}}{G}}\approx 1.7\times 10^{-58}\mathrm {m\,kg^{3}} \,,}
+
+
+
+which allows us to determine a critical width for a given mass value and vice versa. We also recognise the scaling law mentioned above. Numerical simulations[11][1] show that this equation gives a rather good estimate of the regime where effects of the Schrödinger–Newton equation become significant.
+For an atom the critical width is around 1022 metres, while it is already down to 10−31 metres for a mass of one microgram. The regime where the mass is around 1010 atomic mass units while the width is of the order of micrometers is expected to allow for an experimental test of the Schrödinger–Newton equation in the future. A possible candidate are interferometry experiments with heavy molecules, which currently reach masses up to 10,000 atomic mass units.
+Quantum wave function collapse[edit]
+The idea that gravity causes (or somehow influences) the wavefunction collapse dates back to the 1960s and was originally proposed by Károlyházy.[18] The Schrödinger–Newton equation was proposed in this context by Diósi.[4] There the equation provides an estimation for the "line of demarcation" between microscopic (quantum) and macroscopic (classical) objects. The stationary ground state has a width of
+
+
+
+
+
+
+a
+
+0
+
+
+≈
+
+
+
+ℏ
+
+2
+
+
+
+G
+
+m
+
+3
+
+
+
+
+
+
+.
+
+
+{\displaystyle a_{0}\approx {\frac {\hbar ^{2}}{Gm^{3}}}\,.}
+
+
+
+For a well-localised homogeneous sphere, i.e. a sphere with a centre-of-mass wave-function that is narrow compared to the radius of the sphere, Diósi finds as an estimate for the width of the ground-state centre-of-mass wave-function
+
+
+
+
+
+
+a
+
+0
+
+
+(
+R
+)
+
+
+≈
+
+a
+
+0
+
+
+1
+
+/
+
+4
+
+
+
+R
+
+3
+
+/
+
+4
+
+
+
+.
+
+
+{\displaystyle a_{0}^{(R)}\approx a_{0}^{1/4}R^{3/4}\,.}
+
+
+
+Assuming a usual density around 1000 kg/m³, a critical radius can be calculated for which 
+
+
+
+
+a
+
+0
+
+
+(
+R
+)
+
+
+≈
+R
+
+
+{\displaystyle a_{0}^{(R)}\approx R}
+
+. This critical radius is around a tenth of a micrometer.
+Roger Penrose proposed that the Schrödinger–Newton equation mathematically describes the basis states involved in a gravitationally induced wavefunction collapse scheme.[5][6][7] Penrose suggests that a superposition of two or more quantum states which have a significant amount of mass displacement ought to be unstable and reduce to one of the states within a finite time. He hypothesises that there exists a "preferred" set of states which could collapse no further, specifically the stationary states of the Schrödinger–Newton equation. A macroscopic system can therefore never be in a spatial superposition since the nonlinear gravitational self-interaction immediately leads to a collapse to a stationary state of the Schrödinger–Newton equation. According to Penrose's idea, when a quantum particle is measured, there is an interplay of this nonlinear collapse and environmental decoherence. The gravitational interaction leads to the reduction of the environment to one distinct state and decoherence leads to the localisation of the particle, e.g. as a dot on a screen.
+Problems and open matters[edit]
+Three major problems occur with this interpretation of the Schrödinger–Newton equation as the cause of the wave-function collapse. First, numerical studies[11][14][1] agreeingly find that when a wave packet "collapses" to a stationary solution, a small portion of it seems to run away to infinity. This would mean that even a completely collapsed quantum system still can be found at a distant location. Since the solutions of the linear Schrödinger equation tend towards infinity even faster, this only indicates that the Schrödinger–Newton equation alone is not sufficient to explain the wave-function collapse. If the environment is taken into account, this effect might disappear and therefore not be present in the scenario described by Penrose.
+A second problem, also arising in Penrose's proposal, is the origin of the Born rule. To solve the measurement problem, a mere explanation why a wave-function collapses to, e.g., a dot on a screen is not enough. A good model for the collapse process also has to explain why the dot appears on different positions of the screen with probabilities that are determined by the absolute-value squared of the wave-function. Although it might be possible that a model based on Penrose's idea could provide such an explanation, there is no evident way how the Born rule could arise naturally from it.
+Finally, since the gravitational potential is linked to the wave-function in the picture of the Schrödinger–Newton equation, the wave-function must be interpreted as a real object. Therefore, at least in principle, it becomes a measurable quantity. Making use of the nonlocal nature of entangled quantum systems, this could be used to send signals faster than light, which is generally thought to be in contradiction with causality. It is, however, not clear if this problem can be resolved by applying the right collapse prescription, yet to be found, consistently to the full quantum system. Also, since gravity is such a weak interaction, it is not clear that such an experiment can be actually performed within the parameters given in our universe (cf. the discussion[19] about a similar thought experiment proposed by Eppley and Hannah[20]).
+See also[edit]
+
+Nonlinear Schrödinger equation
+Semiclassical gravity
+Penrose interpretation
+
+References[edit]
+
+
+
+^ a b c van Meter, J. R. (2011), "Schrödinger–Newton 'collapse' of the wave function", Classical and Quantum Gravity, 28 (21): 215013, arXiv:1105.1579 , Bibcode:2011CQGra..28u5013V, doi:10.1088/0264-9381/28/21/215013 
+^ Ruffini, Remo; Bonazzola, Silvano (1969), "Systems of Self-Gravitating Particles in General Relativity and the Concept of an Equation of State", Physical Review, 187 (5): 1767–1783, Bibcode:1969PhRv..187.1767R, doi:10.1103/PhysRev.187.1767 
+^ Giulini, Domenico; Großardt, André (2012), "The Schrödinger–Newton equation as a non-relativistic limit of self-gravitating Klein–Gordon and Dirac fields", Classical and Quantum Gravity, 29: 215010, arXiv:1206.4250 , Bibcode:2012CQGra..29u5010G, doi:10.1088/0264-9381/29/21/215010 
+^ a b c Diósi, L. (1984), "Gravitation and quantum-mechanical localization of macro-objects", Physics Letters A, 105: 199–202, arXiv:1412.0201 , Bibcode:1984PhLA..105..199D, doi:10.1016/0375-9601(84)90397-9 
+^ a b Penrose, Roger (1996), "On Gravity's Role in Quantum State Reduction", General Relativity and Gravitation, 28 (5): 581–600, Bibcode:1996GReGr..28..581P, doi:10.1007/BF02105068 
+^ a b Penrose, Roger (1998), "Quantum computation, entanglement and state reduction", Phil. Trans. R. Soc. Lond. A, 356 (1743): 1927–1939, Bibcode:1998RSPTA.356.1927P, doi:10.1098/rsta.1998.0256 
+^ a b Penrose, Roger (2014), "On the Gravitization of Quantum Mechanics 1: Quantum State Reduction", Foundations of Physics, 44: 557–575, Bibcode:2014FoPh...44..557P, doi:10.1007/s10701-013-9770-0 
+^ a b Carlip, S. (2008), "Is quantum gravity necessary?", Classical and Quantum Gravity, 25: 154010, arXiv:0803.3456 , Bibcode:2008CQGra..25o4010C, doi:10.1088/0264-9381/25/15/154010 
+^ Lieb, Elliott H. (1977), "Existence and uniqueness of the Minimizing Solution of Choquard's Nonlinear Equation", Studies of Applied Mathematics, 57: 93–105 
+^ Robertshaw, Oliver; Tod, Paul (2006), "Lie point symmetries and an approximate solution for the Schrödinger–Newton equations", Nonlinearity, 19: 1507–1514, arXiv:math-ph/0509066 , Bibcode:2006Nonli..19.1507R, doi:10.1088/0951-7715/19/7/002 
+^ a b c Giulini, Domenico; Großardt, André (2011), "Gravitationally induced inhibitions of dispersion according to the Schrödinger–Newton Equation", Classical and Quantum Gravity, 28: 195026, arXiv:1105.1921 , Bibcode:2011CQGra..28s5026G, doi:10.1088/0264-9381/28/19/195026 
+^ Moroz, Irene M.; Penrose, Roger; Tod, Paul (1998), "Spherically-symmetric solutions of the Schrödinger–Newton equations", Classical and Quantum Gravity, 15: 2733–2742, Bibcode:1998CQGra..15.2733M, doi:10.1088/0264-9381/15/9/019 
+^ Tod, Paul; Moroz, Irene M. (1999), "An analytical approach to the Schrödinger–Newton equations", Nonlinearity, 12: 201–216, Bibcode:1999Nonli..12..201T, doi:10.1088/0951-7715/12/2/002 
+^ a b Harrison, R.; Moroz, I.; Tod, K. P. (2003), "A numerical study of the Schrödinger–Newton equations", Nonlinearity, 16: 101–122, Bibcode:2003Nonli..16..101H, doi:10.1088/0951-7715/16/1/307, [[arXiv:]math-ph/0208045 (part 1) and math-ph/0208046 (part 2), based on the PhD thesis by R. Harrison: "A numerical study of the Schrödinger–Newton equations", online lay summary] Check |layurl= value (help) 
+^ Bahrami, Mohammad; Großardt, André; Donadi, Sandro; Bassi, Angelo (2014). "The Schrödinger–Newton equation and its foundations". arXiv:1407.4370 . 
+^ Giulini, Domenico; Großardt, André (2014), "Centre-of-mass motion in multi-particle Schrödinger–Newton dynamics", New Journal of Physics, 16: 075005, arXiv:1404.0624 , Bibcode:2014NJPh...16g5005G, doi:10.1088/1367-2630/16/7/075005 
+^ Yang, Huan; Miao, Haixing; Lee, Da-Shin; Helou, Bassam; Chen, Yanbei (2013), "Macroscopic Quantum Mechanics in a Classical Spacetime", Physical Review Letters, 110: 170401, arXiv:1210.0457 , Bibcode:2013PhRvL.110q0401Y, doi:10.1103/PhysRevLett.110.170401, PMID 23679686 
+^ Károlyházy, F. (1966), "Gravitation and Quantum Mechanics of Macroscopic Objects", Il Nuovo Cimento A, 42: 390–402, Bibcode:1966NCimA..42..390K, doi:10.1007/BF02717926 
+^ Mattingly, James (2006), "Why Eppley and Hannah's thought experiment fails", Physical Review D, 73: 064025, arXiv:gr-qc/0601127 , Bibcode:2006PhRvD..73f4025M, doi:10.1103/physrevd.73.064025 
+^ Eppley, Kenneth; Hannah, Eric (1977), "The necessity of quantizing the gravitational field", Foundations of Physics, 7: 51–68, Bibcode:1977FoPh....7...51E, doi:10.1007/BF00715241 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Isaac Newton
+
+
+
+Publications
+
+
+
+De analysi per aequationes numero terminorum infinitas (1669, published 1711)
+Method of Fluxions (1671)
+De motu corporum in gyrum (1684)
+Philosophiæ Naturalis Principia Mathematica (1687)
+
+General Scholium (1713)
+
+
+Opticks (1704)
+The Queries (1704)
+Arithmetica Universalis (1707)
+
+
+
+
+
+Other writings
+
+
+
+Notes on the Jewish Temple
+Quaestiones quaedam philosophicae
+The Chronology of Ancient Kingdoms Amended (1728)
+An Historical Account of Two Notable Corruptions of Scripture (1754)
+
+
+
+
+
+Discoveries    
+and inventions
+
+
+
+Calculus
+Newton disc
+Newton polygon
+
+Newton–Okounkov body
+
+
+Newton's reflector
+Newtonian telescope
+Newton scale
+Newton's metal
+Newton's cradle
+Sextant
+
+
+
+
+
+Theory    
+expansions
+
+
+
+Kepler's laws of planetary motion
+Problem of Apollonius
+
+
+
+
+
+Newtonianism
+
+
+
+Bucket argument
+Newton's inequalities
+Newton's law of cooling
+Newton's law of universal gravitation
+
+Post-Newtonian expansion
+Parameterized post-Newtonian formalism
+Newton–Cartan theory
+Schrödinger–Newton equation
+Gravitational constant
+
+
+Newton's laws of motion
+
+Newtonian dynamics
+
+
+Newton's method in optimization
+
+Gauss–Newton algorithm
+Truncated Newton method
+
+
+Newton's rings
+Newton's theorem about ovals
+Newton–Pepys problem
+Newtonian potential
+Newtonian fluid
+Classical mechanics
+Newtonian fluid
+Corpuscular theory of light
+Leibniz–Newton calculus controversy
+Newton's notation
+Rotating spheres
+Newton's cannonball
+Newton–Cotes formulas
+Newton's method
+
+Newton fractal
+Generalized Gauss–Newton method
+
+
+Newton's identities
+Newton polynomial
+Newton's theorem of revolving orbits
+Newton–Euler equations
+Newton number
+
+Kissing number problem
+Power number
+
+
+Newton's quotient
+Newton–Puiseux theorem
+Solar mass
+Dynamics
+Absolute space and time
+Finite difference
+
+Table of Newtonian series
+
+
+Impact depth
+Structural coloration
+Inertia
+
+
+
+
+
+Phrases
+
+
+
+"Hypotheses non fingo"
+"Standing on the shoulders of giants"
+
+
+
+
+
+Life
+
+
+
+Cranbury Park
+Woolsthorpe Manor
+Early life
+Later life
+Religious views
+Occult studies
+The Mysteryes of Nature and Art
+Scientific revolution
+Copernican Revolution
+
+
+
+
+
+Friends    
+and family
+
+
+
+Catherine Barton
+John Conduitt
+William Clarke
+Benjamin Pulleyn
+William Stukeley
+William Jones
+Isaac Barrow
+Abraham de Moivre
+John Keill
+
+
+
+
+
+Cultural depictions
+
+
+
+Newton (Blake)
+Newton (Paolozzi)
+In popular culture
+
+
+
+
+
+Related
+
+
+
+Writing of Principia Mathematica
+List of things names after Newton
+
+Isaac Newton Institute
+Isaac Newton Medal
+Isaac Newton Group of Telescopes
+Isaac Newton Telescope
+Newton (unit)
+
+
+Elements of the Philosophy of Newton
+Isaac Newton S/O Philipose
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Schrödinger–Newton_equation&oldid=789831491"					
+Categories: GravitationQuantum mechanicsQuantum gravityEquationsNonlinear partial differential equationsSchrödinger equationHidden categories: Pages with URL errors 

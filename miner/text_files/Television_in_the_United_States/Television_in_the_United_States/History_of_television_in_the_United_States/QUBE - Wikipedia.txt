@@ -1,0 +1,199 @@
+QUBE - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the defunct cable television system. For the 2012 video game, see Q.U.B.E. For other uses, see Qube.
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (June 2017) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (April 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+
+
+
+The logo of QUBE
+
+
+QUBE was an experimental two-way, multi-programmed cable television system that played a significant role in the history of American interactive television. It was launched in Columbus, Ohio, on December 1, 1977.[1] Highly publicized as a revolutionary advancement,[2] the QUBE experiment introduced viewers to several concepts that became central to the future development of TV technology: pay-per-view programs, special-interest cable television networks, and interactive services.[3]
+
+
+
+Contents
+
+
+1 History
+
+1.1 The successes of QUBE
+1.2 The failures of QUBE
+
+
+2 QUBE channels
+3 QUBE programming
+4 QUBE remote
+5 Post-QUBE
+6 See also
+7 References
+8 External links
+
+
+
+History[edit]
+A closed-circuit television system at the Otani Hotel in Tokyo, Japan inspired Steve Ross, Chairman of Warner Communications, to wonder what could be done to improve the performance of Warner’s tiny cable television division. Ross was intrigued by the potential of delivering Warner Bros. movies directly to home subscribers.[4]
+At the time, Warner Cable was a small division of Warner Communications, run by a former Western Union telecommunications executive and attorney, Gus Hauser. Ross surrounded Hauser with entertainment industry executives, including, Jac Holzman, who had sold his Elektra Records to Ross in 1967; Mike Dann, the CBS programming wizard responsible for The Beverly Hillbillies and Green Acres; former CBS general counsel Spencer Harrison, an executive involved in the launch of My Fair Lady on Broadway; and super-agent Ted Ashley, whose talent agency was Ross’s first show-biz acquisition.
+Pioneer Electronics was hired to "build the box" that would transform the cable TV service in a few hundred thousand households into a device that was intended to change the entire entertainment landscape. The service was first launched in Columbus, Ohio, amidst considerable national and international press coverage.[5] The initial QUBE service debuted with 30 channels (a large number of cable channels at the time), including 10 pay-per-view movie channels (a then-new feature for cable TV); 10 broadcast channels (from Columbus, Cincinnati, Indianapolis, Canton, Akron, and Cleveland); and 10 community channels.[6] These community channels included one dedicated to a single show: Pinwheel, which would go on to air on Nickelodeon from the latter's launch in 1979; Sight on Sound, a predecessor to MTV; a weather channel; a learning channel; and a channel filled with locally produced programs that showed off QUBE's interactivity. The first QUBE box was issued as a test for 4 months to the family of Mr. and Mrs. Walter B. Kesler, in Hilliard, Ohio. The Kesler family watched the broadcasts that were intended for a larger audience, and caused the eventual push in programming that would affect how cable formatted shows would be put together based on their viewing habits. The Keslers' children, Lori A. and Kurt W., are regarded to be the first product of the "cable generation."
+The successes of QUBE[edit]
+To 30,000 homes scattered around the city and its suburbs, the goal of QUBE was rather simple: "To create a faster method for groups to communicate and interact, across distance."[7]
+Warner used the QUBE system to acquire valuable cable franchises, with which it would build and create cable monopolies in several large markets throughout the country. Warner QUBE was "awarded" cable franchises in cities such as Houston, Milwaukee, Dallas, Cincinnati, St. Louis and Pittsburgh. Many of the fundamental aspects of QUBE became important parts of television: Pay-Per-View and TV On Demand, MTV and Nickelodeon. QUBE itself was successfully installed and used in half the homes in Columbus, and the interactive results showed a high volume of participation from viewers who had the QUBE box and remote. The later remotes added five additional buttons for a total of ten options, and became wireless.
+After launching a few other systems beyond Columbus, QUBE created an interactive network in Columbus, which sent live, interactive programming to each of the QUBE systems for two hours per night during weeknights. One of the most popular programs on QUBE, Soap Scoop, wrapped up the daily events on each of the national soap operas. Guests on the show included producers and actors from the various programs; the show frequently polled viewers on their opinions regarding characters and plots.
+The failures of QUBE[edit]
+By 1982, Warner Cable was running at a $99 million loss, and by 1983, their total debt was $875 million. Warner Cable brought in American Express as an investor, and the two companies formed Warner-Amex Cable Communications with a stellar board of directors, including American Express chairman Jim Robinson and President Lou Gerstner, and the former head of Shearson/American Express, Sanford Weill. Warner bought out American Express after the latter made an offer to buy Warner’s position, leading to conflicts between the two companies.
+By this time, MTV and Nickelodeon became meaningful endeavors in their own right under the leadership of Bob Pittman and Geraldine Laybourne respectively. Through the early 1980s, QUBE was either up and running or already built in Pittsburgh, Cincinnati, Dallas, Houston, and St. Louis. Warner Cable now had 200,000 subscribers instead of 2; the new figure accounted for roughly 1 in 10 U.S. cable television subscribers. Pittman led an unsuccessful effort to buy MTV; there was also an unsuccessful attempt at a public offering. Gus Hauser was gone; taking his place would be President Reagan’s Transportation Secretary, Drew Lewis.[8] Lewis renegotiated with municipalities to ease the burden to Warner of some of the cable franchise deals. However, in order to keep the cable operation going, Warner Cable went out to sell MTV and Nickelodeon to Viacom, and the QUBE systems were gradually phased out. The last QUBE boxes were phased out in 1984.
+In addition to financial issues,[9] privacy concerns increased among subscribers to QUBE. Personal information about a family’s specific interests, political views and other personal information could be stored in a database after it was processed during an interactive QUBE session. For example, a program could ask viewers to identify their favorite political candidates as part of a national survey, but this information could potentially be traced directly back to the respondents. Although Warner-Amex assured subscribers that their personal information would be kept private, such data was valuable to merchandisers, political groups and other organizations. Even if subscribers trusted Warner-Amex’s commitment to privacy, there were still concerns regarding the ability for computer hackers to potentially steal information collected via QUBE. Consequently, non-renewals became more numerous, ultimately contributing to the demise of the QUBE experiment.[10]
+QUBE channels[edit]
+Initially, there were thirty analogue video channels that were arranged in tree clusters: ten broadcast TV channels, ten pay-per-view channels (billed monthly), and ten channels that included interactive services:[11]
+T-1: Program Guide
+T-2: WOSU (Channel 34, PBS affiliate in Columbus)
+T-3: Pre-empt channel; this was used when one of the main channels aired something else in its place of the program usually airing.
+T-4: WCMH (Channel 4, NBC affiliate in Columbus)
+T-5: WTTV (Channel 4, independent station in Indianapolis, now affiliated with CBS)
+T-6: WTVN (Channel 6, ABC affiliate in Columbus, now WSYX)
+T-7: WXIX (Channel 19, independent station in Cincinnati, now affiliated with Fox)
+T-8: WOUB (Channel 20, PBS affiliate in Athens, Ohio)
+T-9: WUAB (Channel 43, independent station in Cleveland, now affiliated with MyNetworkTV)
+T-10: WBNS (Channel 10, CBS affiliate in Columbus)
+C-1: Columbus Alive
+C-2: Consumer Information
+C-3: Pinwheel
+C-4: News Update
+C-5: Sports News & Scores
+C-6: Stocks & Business News
+C-7: Religious Programming
+C-8: Time & Weather
+C-9: Selected Audience Programming
+C-10: Live and Learn
+P-1: Free Program Previews
+P-2: First Run Movies
+P-3: Movie Greats
+P-4: Performance
+P-5: Better Living
+P-6: Sports
+P-7: Special Events
+P-8: QUBE Games
+P-9: College at Home
+P-10: Adult Films
+QUBE programming[edit]
+
+Talent Search (produced by Emmy-award-winning producer Robert Morton, who subsequently produced Late Night with David Letterman), a variety show featuring local talent, involved audiences rating each performer. And when the score dropped below an acceptable level, the performance was stopped.
+Columbus Alive, a homey talk show, featured national and local celebrities, public opinion polls, and local chat.
+Screen Test was an interactive game show about the movies.
+Pinwheel was a show for preschoolers featuring cartoons and puppets. It aired on Nickelodeon when it launched in April 1979 and continued until 1990.
+Flippo's Magic Circus was a children's series, hosted the locally-known Flippo the Clown, that featured in-studio and play-at-home interactive games.
+How Do You Like Your Eggs?, a four-episode game show hosted by Bill Cullen, involved two couples predicting how the home audience responded to questions.
+QUBE promised an interactive gaming channel, a forefront to video games, that was supposed to award prizes, such as free service credits. This never materialized.
+America Goes Bananaz was a show aimed at teens, hosted by Michael Young and later Randy Hamilton. It aired on Nickelodeon from 1979 to 1980.
+
+
+
+
+
+QUBE remote (updated for 60-channel service)
+
+
+QUBE remote[edit]
+The QUBE remote was a book-size box with 18 buttons on it that sent signals across a long tether cable to a box with no display, but otherwise similar in size and function to modern cable set-top boxes. The remote had feet for tabletop use, but could be hand-held (probably two hands) and passed around the room, which was significant since many TVs at the time had no remotes for changing channels. The buttons were split up on the remote, with ten buttons numbered 1 - 10 down the left-hand side, five larger buttons down the right hand side, each with a corresponding red LED indicator, and three buttons across the bottom of the remote. The three big buttons across the bottom chose which category of channel the viewer would watch: pay-per-view, broadcast, or community broadcasting. The ten buttons down the left accessed each of the ten channels in that category.
+The 5 buttons down the right-hand side corresponded with the interactive aspect of the QUBE. They allowed a television program to ask viewers a question with five possible answers. Answers to polls taken via the QUBE box could be collected from the set-top boxes in six seconds. A computer would record the information and then display the results on the television screen for everyone to see.
+In the middle of these three rows of buttons was a clear plastic window that held a channel card with station names and logos arranged in a grid corresponding to the ten "row" buttons on the left and the three "column" buttons along the bottom. Channel cards were mailed to customers with each change in the channel line-up. Customers would remove the old guides and slide in the new ones.
+On the top of the remote was a hole in which a "key" (really just a magnet in a proprietary plastic holder) was inserted to unlock viewing of pay-per-view programming, which could be billed in much the same way as modern cable pay-per-view programs are. Without the key inserted, restricted channels displayed a default access denial screen.
+Though the service launched with thirty channels, the remote actually supported up to sixty (twenty in each category) and this capability was eventually used in some markets. Pressing one of the 1-10 buttons would select the first channel in that slot; pressing the same button again would toggle to the second channel. Stickers were provided to customers to update their remote, and new channel cards listed two channels per slot.[12]
+Post-QUBE[edit]
+Although QUBE had a short lifespan of seven years and multiple shortcomings, it occupies a unique place in media history since it was a venture that led to other innovations in television industry. Among others, it triggered the birth of several innovative cable television networks, such as MTV and Nickelodeon, contributed to the growth of infomercials, introduced instant television ratings. According to Everett Rogers, it also became the first media enterprise that raised serious concerns about large-scale user privacy issues.[13]
+QUBE served as an incubator for a large number of media innovators. Some examples of people who worked on QUBE, moving on to other technological and media innovations, are:
+
+Scott Kurnit founded About.com, after a senior role at the pioneering online service, Prodigy.
+Ron Castell became a senior executive at Blockbuster.
+Howard Blumenthal, creator-producer of How Do You Like Your Eggs?, later developed MTV's Remote Control and PBS' Where in the World Is Carmen Sandiego?, then shifted to executive roles.
+Steve Bornstein, producer for Ohio State Buckeyes football programming on QUBE, became an executive with ESPN and currently the president of NFL Network.
+Burt Dubrow, whose career in talk shows brought about the success of Jerry Springer and Sally Jessy Raphael
+Ken Papagan, who continued his innovative work in interactive media as an executive with design and consulting firm iXL and as President of Rentrak.
+Robert Morton, whose executive producer credits include Late Night with David Letterman, Mind of Mencia, and Lopez Tonight.
+Jim Jinkins, who created and produced the Nickelodeon (and later Disney) series, Doug, and other animated series
+Dick Liberatore hosted a game show pilot titled Pass or Play directed by Robert Morton. Shortly after taping "Dick" moved to San Diego and changed his name to Mark Richards. In 1982 Mark was chosen by Ted Turner to host Starcade, cable television's very first original game show that aired on superstation WTBS.
+Ron Giles, who developed the QVC television operation, first in the U.S., then internationally
+Nancy Gould Chuda became producer of ABC's annual An Evening With Friends for the Environment celebrity special.[14]
+
+John Carey of Columbia Institute for Tele-Information summarized the legacy of QUBE by saying that it,
+
+"... demonstrated that pay-per-view programming was potentially viable — if the cost of promoting and processing pay-per-view orders could be reduced. And, Qube introduced a number of interactive formats that have since evolved and been adopted as components in cable and broadcast programming. MTV and Nickelodeon - two popular cable services in the U.S. — were both developed from models that originated on Qube. In this sense, Qube was an important programming laboratory. ... the principal lesson of the Qube experiment is not that interactive media can't compete with traditional one-way mass media. Rather, interactive media must be developed in a viable economic and technical context."[15]
+
+See also[edit]
+
+Warner-Amex Satellite Entertainment
+
+References[edit]
+
+
+
+^ "Qube is two years old on December 1st". Cable TV Program, Qube ed. December 2, 1979. 
+^ Alford, Bernard. "Columbus Goes Bananaz: The QUBE Experiment in Ohio," The Great Lakes Review, vol. 5, no. 1, 1978, pp. 19–27. JSTOR 20172421
+^ Interactive Television, Museum of Broadcast Communications
+^ "When Cable Went Qubist," by Ken Freed.
+^ Talking Back to Television, The Washington Post, September 3, 1978.
+^ Mrozinski, R. V. Home/Urban Communications—Information Systems. Published in: Manassah, J. T. Innovations in Telecommunications, Part B. New York: Academic Press, 1982, p. 1051-1052.
+^ Rupp, Katherine (1999). "Warner Amex QUBE Cable-Communications". BlueSky. Retrieved Aug 15, 2009. 
+^ Cuff, Daniel (1983-05-17). "Warner Amex Cable Cuts 57 More Positions". New York Times. Retrieved 2013-12-06. 
+^ John Carey. Interactive Television Trials and Marketplace Experiences. In: Zhang, Shifu, Dimitris Anastassiou, Alexandros Eleftheriadis, and John V. Pavlik (eds.). Video on Demand Systems: Technology, Interoperability and Trials. Boston: Springer, 1997, pp. 93-102.
+^ Barnouw, E. Tube of Plenty: The Evolution of American Television. New York: Oxford University Press, 1990.
+^ Jens J. Jensen. Interactive Television — A Brief Media History. In: Manfred Tscheligi, Marianna Obrist, and Artur Lugmayr (eds.). Changing Television Environments: Proceedings of the 6th European Conference, EuroITV 2008, Salzburg, Austria, July 3-4, 2008. Berlin: Springer, 2008.
+^ Special report: Warner Cable's QUBE, The Videocassette and CAT&V Newsletter, May 1978. Archived
+^ Rogers, Everett M. Communication Technology: The New Media in Society. New York: Free Press, 1986, p. 63.
+^ Kent Gibbons. Qube Alumni Return and Reminisce, Multichannel, March 22, 1998.
+^ John Carey. Winky Dink To Stargazer: Five Decades Of Interactive Television, In: I-TV 1996, Edinburgh (1996). Archived
+
+
+
+External links[edit]
+
+QUBE Interactive TV Retrospective Page
+Time Warner Cable and QUBE, C-SPAN, July 11, 2012.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=QUBE&oldid=811083806"					
+Categories: Cable television companies of the United StatesFormer Time Warner subsidiariesHistory of television in the United StatesTechnology companies established in 1977Technology companies disestablished in 19841977 establishments in the United States1984 disestablishments in the United States1977 establishments in OhioHidden categories: Wikipedia articles needing style editing from June 2017All articles needing style editingArticles lacking in-text citations from April 2012All articles lacking in-text citations 

@@ -1,0 +1,102 @@
+Haig–Simons income - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Haig–Simons income or Schanz–Haig–Simons income is an income measure used by public finance economists to analyze economic well-being which defines income as consumption plus change in net worth.[1][2] It is represented by the mathematical formula:
+
+I = C + ΔNW
+
+where C = consumption and ΔNW = change in net worth.
+Consumption refers to the money spent on goods and services of any kind. From a perfect theory view, consumption does not include capital expenditures and the full spending would be amortized.[clarification needed]
+
+
+
+Contents
+
+
+1 History
+2 Schanz–Haig–Simons income tax vs. cash-flow consumption tax
+3 Tax on Haig–Simons income
+
+3.1 Tax on change in wealth
+3.2 Tax on consumption
+
+
+4 Criticisms of the definition
+5 See also
+6 References
+7 Further reading
+
+
+
+History[edit]
+The measure of the income tax base equal to the sum of consumption and savings was first advocated by German legal scholar Georg von Schanz.[3] His concept was further developed by the American economists Robert M. Haig and Henry C. Simons in the 1920s and 1930s.[4][5]
+Haig defined personal income as "the money value of the net accretion to one's economic power between two points of time," a formulation that was intended to include the taxpayer's consumption.[6]
+That was thought by Simons to be interchangeable with his own formulation:
+
+"Personal income may be defined as "the algebraic sum of (1) the market value of rights exercised in consumption and (2) the change in the value of the store of property rights between the beginning and end of the period in question."[7]
+
+In this concept, all inflows and outflows of resources are considered taxable income in a broad sense, including donations and windfall gains.[8]
+Schanz–Haig–Simons income tax vs. cash-flow consumption tax[edit]
+A cash-flow consumption tax is intended to confine the cash-flow tax burden to an individual's annual consumption and to remove nonconsumption expenses and current savings from the tax base.[9] The base is calculated by combining the year's gross receipts and savings withdrawals, and then subtracting the year's business and investment expenses and the year's additions to savings.[10] Progressive rates are applied to the resulting sum.[11]
+By contrast, the base for a theoretically correct Schanz–Haig–Simons (SHS) income tax is each individual's annual consumption plus current additions to savings. Thus current receipts that are otherwise taxable remain in the tax base, even if they are saved, and withdrawals from earlier savings are not currently taxed since they were assessed in a prior year.[12] Stated differently, the SHS tax base has two components—current consumption and current savings (including current appreciation accruing to earlier investments)—whereas a cash-flow consumption tax has only a single component—current consumption.[13]
+In spite of their differences, however, both a cash-flow consumption tax and an SHS tax require that dollars paid out as business or investment expenses be eliminated from the base. This is necessary under a cash-flow consumption tax because business and investment expenses are not consumption[14] and it is necessary under an SHS tax because these expenditures are neither consumption nor additions to savings.[15] Since business and investment outlays have no place in the base of either tax, intuition suggests that business and investment interest expenses would be treated identically under a cash-flow consumption tax and an SHS tax. But they are not. The SHS tax and the cash-flow consumption tax take different structural approaches to the treatment of business and investment interest outlays although both systems share the general objective of removing current business and investment costs from the tax base.
+Tax on Haig–Simons income[edit]
+Tax on change in wealth[edit]
+The Haig–Simons equation is different from the USA's individual income tax base calculations. For example, any employer contributions to employee health insurance are not included in taxable employee income. Under the Haig–Simons definition of income, such contributions would be included in income. Such contributions might not be included in a Haig–Simons income tax base, however, if their exclusion reflected "an appropriate adjustment in measuring ability to pay."[16]
+Tax on consumption[edit]
+The European Union and most states in the USA employ a tax on Haig–Simons income with a consumption tax. In the European Union, a value added tax applies to purchases of goods and services on each level of exchange until it reaches the ultimate consumer. In the US, most states tax purchases of goods with a sales tax.
+Criticisms of the definition[edit]
+Some argue that the definition is tautological:
+
+it is "little more than an accounting identity, a tautology: it tells us only that all income is either spent [consumption] or not [savings], which is obvious enough".[17]
+
+Others observe that it is "only a surrogate utility measure."[18]
+Some fault it for neutrality between savings and consumption.[19]
+Some scholars resist these criticisms, to the extent they conceive of Haig–Simons as dependent on utility; Simons rejected utility as the basis of the ability-to-pay standard.[20] Indeed, Simons rejected both the notion that humans are "equally efficient pleasure machines,"[21] and the idea that taxation can take account of interpersonal utilities.[22] Simons sought a measurable definition for income but his solution is open to criticism for reifying troubling dichotomies; for example, the Haig–Simons definition depends on the distinction between market and non-market values.[23]
+See also[edit]
+
+Flat tax on consumption
+
+References[edit]
+
+
+^ Joint Committee Staff (February 8, 2012). "Overview of the Definition of Income Used by the Staff of the Joint Committee on Taxation in Distributional Analyses" (JCX-15-12). Joint Committee on Taxation. Retrieved July 12, 2017. 
+^ Price, Carter C. (12 August 2014). "Miscalculating the wealth of the rich reveals unintended biases". Washington Center for Equitable Growth. Retrieved 12 July 2017. 
+^ Schanz, Georg von (1896). "Der Einkommensbegriff und die Einkommensteuergesetze". Finanzarchiv. 13: 1–87. ISSN 0015-2218. 
+^ Haig, Robert M. (1921). "The Concept of Income—Economic and Legal Aspects". The Federal Income Tax. New York: Columbia University Press. pp. 1–28. 
+^ Simons, Henry (1938). Personal Income Taxation: the Definition of Income as a Problem of Fiscal Policy. Chicago: University of Chicago Press. p. 49. 
+^ Boris I. Bittker, A "Comprehensive Tax Base" as a Goal of Income Tax Reform, 80 HARV. L. REV. 925 at 932 (1967)
+^ Henry C. Simons, Personal Income Taxation: The Definition Of Income As A Problem Of Fiscal Policy 50 (1938).
+^ Schoen, Wolfgang, Capital Gains Taxation in Germany (December 1, 2005). British Tax Review No. 6, pp. 620-627, 2005. See page 2. [1]
+^ See ABA Section of Taxation Committee on Simplification, Complexity and the Personal Consumption Tax, 35 Tax Law. 415, 416 (1982); U.S. Treas. Dep't, Blueprints for Basic Tax Reform 113-43 (1977) at 113, 135.
+^ See 1 U.S. Treas. Dep't, Tax Reform for Fairness, Simplicity and Economic Growth 191-93 (1984); U.S. Treas. Dep't, Blueprints for Basic Tax Reform 113-43 (1977). The leading explanation and defense of a cash-flow consumption tax is still William D. Andrews, A Consumption-Type or Cash Flow Personal Income Tax, 87 Harv. L. Rev. 1113 (1974).
+^ A flat-rate could be employed instead of progressive rates under a cash-flow tax. See Treasury I, supra note 1, at 191. But if a flat-rate consumption tax were desired, it would generally be much simpler to use a value added tax, which cannot practically employ progressive rates, instead of the more complex cash-flow tax. See J. Clifton Fleming, Jr., Scoping Out the Uncertain Simplification (Complication?) Effects of VATs, BATs and Consumed Income Taxes, 2 Fla. Tax Rev. 390, 419-21 (1995). Thus, a cash-flow consumption tax is often understood as implying progressive rates. See Michael J. Graetz, Implementing a Progressive Consumption Tax, 92 Harv. L. Rev. 1575, 1579 (1979). Nevertheless, the cash-flow consumption tax examples in this article will all assume a flat-rate tax in order to simplify the analysis.
+^ See Joseph M. Dodge et al., Federal Income Tax: Doctrine, Structure and Policy 27, 33 (1995); William D. Andrews, A Consumption-Type or Cash Flow Personal Income Tax, 87 Harv. L. Rev. 1113 (1974) at 1116.
+^ Jerome Kurtz, The Interest Deduction Under Our Hybrid Tax System: Muddling Toward Accommodation, 50 Tax L. Rev. 153, 158-61 (1995) at 161; 1 U.S. Treas. Dep't, Tax Reform for Fairness, Simplicity and Economic Growth 191-93 (1984) at 191; ABA Section of Taxation Committee on Simplification, Complexity and the Personal Consumption Tax, 35 Tax Law. 415, 416 (1982) at 416; Alvin C. Warren, Jr., Would a Consumption Tax Be Fairer Than an Income Tax?, 89 Yale L.J. 1081, 1084 (1980); U.S. Treas. Dep't, Blueprints for Basic Tax Reform 113-43 (1977), at 2, 113. "The income-versus-consumption tax debate is about the treatment of savings." Edward J. McCaffery, Tax Policy Under a Hybrid Income-Consumption Tax, 70 Tex. L. Rev. 1145, 1149-55 (1992) at 1155.
+^ See David F. Bradford, Untangling the Income Tax 94, 96 (1986); Blueprints, supra note 1, at 119-20; Andrews, supra note 1, at 1149, 1151. See also, Treasury I, supra note 1, at 191; ABA, Sec. of Tax'n, supra note 3, at 419.
+^ Alvin C. Warren, Jr., Accelerated Capital Recovery, Debt, and Tax Arbitrage, 38 Tax Law. 549, 557 (1985); Blueprints, supra note 1, at 3, 64, 133; Stanley S. Surrey, Pathways to Tax Reform 20-21, 259 (1973). See also Simons, supra note 5, at 54.
+^ Shaviro, Daniel (2004). Rethinking Tax Expenditures. p. 209. ISBN 0-7167-8655-9. 
+^ Edward J. McCaffrey, Tax's Empire 85 GEO. L.J. 71, 77-82 (1996) at 78
+^ RICHARD TRESCH, PUBLIC FINANCE: A NORMATIVE THEORY 267 (1981).
+^ E.g., Tresch at 269; see also NICHOLAS KALDOR, AN EXPENDITURE TAX 53 (1955).
+^ See, e.g., Stephen Utz, Ability to Pay, 23 WHITTIER L. REV. 867, 915-17 (2002)
+^ SIMONS, PERSONAL INCOME TAXATION, supra note 1, at 11,
+^ Id. at 5.
+^ Nancy Staudt, The Political Economy of Taxation: A Critical Review of a Classic, 30 Law & SOC'Y REV. 651 (1996)
+
+
+Further reading[edit]
+
+Andrews, William D. (1972). "Personal Deductions in an Ideal Income Tax". Harvard Law Review. The Harvard Law Review Association. 86 (2): 309–385. doi:10.2307/1339894. JSTOR 1339894. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Haig–Simons_income&oldid=807675498"					
+Categories: IncomeEquationsHidden categories: Wikipedia articles needing clarification from July 2017 

@@ -1,0 +1,284 @@
+Cable Communications Policy Act of 1984 - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+Cable Communications Policy Act of 1984
+
+
+
+
+Long title
+An Act to amend the Communications Act of 1934 to provide a national policy regarding cable television.
+
+
+Nicknames
+1984 Cable Act;
+Cable Privacy Act;
+Cable Communications Act;
+Cable Franchise Policy and Communications Act
+
+
+Enacted by
+the 98th United States Congress
+
+
+Citations
+
+
+Public law
+Pub.L. 98–549
+
+
+Statutes at Large
+98 Stat. 2779
+
+
+Codification
+
+
+Acts amended
+Communications Act of 1934
+
+
+Legislative history
+
+
+
+
+
+Introduced in the Senate as Cable Franchise Policy and Communications Act of 1984 (S.66 and H.R.4103) by Sen. Barry Goldwater (R-AZ) and Rep. Tim Wirth (D-CO-2) on January 26, 1983
+Passed the Senate on June 14, 1983 (87-9)
+Passed the House on October 1, 1984 (voice vote)
+Agreed to by the House and Senate on October 11, 1984 (voice vote) and by the on  
+Signed into law by President Ronald Reagan on October 30, 1984
+
+
+
+
+
+The Cable Communications Policy Act of 1984 (codified at 47 U.S.C. ch. 5, subch. V–A) was an act of Congress passed on October 30, 1984 to promote competition and deregulate the cable television industry. The act established a national policy for the regulation of cable television communications by federal, state, and local authorities. Conservative Senator Barry Goldwater of Arizona wrote and supported the act, which amended the Communications Act of 1934 with the insertion of "Title VI—Cable Communications". After more than three years of debate, six provisions were enacted to represent the intricate compromise between cable operators and municipalities.
+
+
+
+Contents
+
+
+1 Provisions
+2 Structure
+3 History
+4 Outcomes and debates
+5 See also
+6 References
+7 External links
+
+
+
+Provisions[edit]
+The scholarly article, "Perceived Impact of the Cable Policy Act of 1984," published in the Journal of Broadcasting & Electronic Media in 1987, described its objective as follows:
+
+"The new law attempted to strike a delicate balance between the FCC, local governments, and marketplace competition, where in the past, each of these entities had vied for dominance. The Cable Act was to be the solution to the ongoing problem of who, or what, should exercise the most power over local cable operations."[1]
+
+In order to balance power between cable television operators and the government, the act established regulations regarding franchise standards and proceeds that would attempt to strengthen the development of cable systems. The act gave municipalities, governing bodies of cities and towns, principal authority to grant and renew franchise licenses for cable operations. By establishing an orderly process for franchise renewal, the act protected cable operators from unfair denials of renewal. However, in order to be granted a franchise renewal, the act specified that cable operators' past performances and future proposals had to meet the federal standards in the new title. The act was meant to reduce an unnecessary regulation that could have potentially brought about an excessive economic burden on cable systems.[2]
+In return for establishing franchise standards and procedures, the act specified that cable operators were expected to be receptive to their local communities’ needs and interests. Congress recognized the vital role of cable television in encouraging and providing a place for free expression. This provision assured that cable communications provide the general public with “the widest possible diversity of information sources and services.” Through this statute, Congress attempted to uphold the First Amendment interest of cable audiences to receive diversified information as specified in the Red Lion Broadcasting Co. v. Federal Communications Commission court case of 1969.[3]
+This provision declared that state and local authorities should allow, but not mandate, that this type of information be distributed via non-commercial Public, educational, and government access (PEG) cable TV channels. Furthermore, it prohibited cable operators from exerting any type of editorial control over program content broadcast through PEG channels and freed them from any potential liability for the content. The act lifted programming rules and subscription fees.[4] It was this provision that inspired Senator Barry Goldwater to begin his work on the Cable Communications Act of 1984.
+Structure[edit]
+
+
+
+Wikisource has original text related to this article:
+Cable Communications Policy Act of 1984
+
+
+
+The Cable Communication Act of 1984 added "Title VI—Cable Communications" to the Communications Act of 1934. The title was originally divided into the following sections:
+
+Part I—General Provisions
+
+Sec. 601. Purposes.
+Sec. 602. Definitions.
+
+
+Part II—Use of Cable Channels and Ownership Restrictions
+
+Sec. 611. Cable channels for public, educational, or government use.
+Sec. 612. Cable channels for commercial use.
+Sec. 613. Ownership restrictions.
+
+
+Part III—Franchising and Regulation
+
+Sec. 621. General franchise requirements.
+Sec. 622. Franchise fees.
+Sec. 623. Regulation of rates.
+Sec. 624. Regulation of services, facilities, and equipment.
+Sec. 625. Modification of franchise obligations.
+Sec. 626. Renewal.
+Sec. 627. Conditions of sale.
+
+
+Part IV—Miscellaneous Provisions
+
+Sec. 631. Protection of subscriber privacy.
+Sec. 632. Consumer protection.
+Sec. 633. Unauthorized reception of cable service.
+Sec. 634. Equal employment opportunity.
+Sec. 635. Judicial proceedings.
+Sec. 636. Coordination of Federal, State, and local authority.
+Sec. 637. Existing franchises.
+Sec. 638. Criminal and civil liability.
+Sec. 639. Obscene programming.
+
+
+
+History[edit]
+In 1972, the Federal Communication Commission (FCC) issued the Third Report and Order.[5] The order was enacted to encourage consumer choice and innovation among video devices. The regulations adopted in the order established requirements for broadband, cellular, and wireline Personal Communications Services (PCS) carriers in compliance with the assistance capability requirements prescribed by the Communications Assistance for Law Enforcement Act. The FCC hoped that the newly adopted regulations would generate a competitive marketplace for various devices capable of accessing cable video services by allowing consumers to purchase smart video devices that were compatible with all multichannel video programming services. This would allow consumers the freedom to change service providers without changing their entertainment devices. The "Third Report and Order" resulted in the top 100 U.S. television markets providing three Public-access television channels, each for Public-access television, Educational-access, or Government-access television (GATV) (PEG) use. If demand was low for all three channels in a specific market, cable companies had the jurisdiction to supply fewer channels. At least one PEG channel was required at all times.[6]
+
+
+
+
+Sen. Barry Goldwater (R-AZ), the sponsor of the act.
+
+
+In 1976, the regulation was expanded to include cable television systems in communities with 3,500 or more subscribers. Cable companies saw the regulation by the federal government as an unlawful intrusion into their business practices and immediately started to challenge its legality. In the court case United States v. Midwest Video Corp.,[7] the Midwest Video Corporation sued the FCC for overstepping its authority in requiring Public-access television channels. The U.S. Supreme Court upheld the FCC’s requirements for local origination facilities. However, in 1979, the U.S. Supreme Court ruled in favor of Midwest Video Corp. stating that the FCC’s new requirements exceeded the agency’s statutory powers as granted to them by Congress and as required by cable operators to provide Public-access television. The FCC was interfering with the agency's First Amendment rights.[7] After the Supreme Court's decision, PEG advocates started work on what became the Cable Communications Act of 1984.
+The need for an act to determine who holds regulatory authority for cable communications was quite evident, however it took time to reach an agreement. Negotiations for the act lasted nearly two years and agreements moved back and forth between the House and the Senate. The two parties involved in the negotiations were the National League of Cities (NLC) and the National Cable & Telecommunications Association (NCTA), formerly the National Cable Television Association.[1] Theses parties worked to lobby Congress for their respective members, who represented diverse populations and had firm, unyielding interests. Instead of having Congress determine the outcome of a stalemate, the two organizations tried to present a unified front. This was a strategic move meant to increase the likelihood that the bill would be passed in both the House and the Senate.
+The act began as bill S. 66 in the Senate where it was passed on June 14, 1983 and moved on to the House. The companion bill, H.R. 4103, in the House was passed on October 1, 1984 and returned to the Senate where modifications were made to conjoin the texts. The bill was officially passed on October 11, 1984 and signed by President Ronald Reagan on October 30, 1984.[8] During negotiations, the agreements were voided four times. The National League of Cities (NLC) voided agreements three times because cable companies were freed from rate regulation, given renewal expectancy, and could default on promises in certain circumstances. On the other hand, the National Cable & Telecommunications Association (NTCA) voided agreements once because they felt that another Supreme Court ruling would provide the industry with better rate deregulation than under the present FCC regulations or the bill.[1]
+Outcomes and debates[edit]
+The result of the act was an intricate, minimally influential agreement between cable operators and municipalities. It has been highly debated for its effectiveness, because evidence shows that unaffiliated television programming on leased access channels was avoided and rarely appeared.[1] As a title of the larger Communications Act of 1934, the Cable Communications Act of 1984 has been amended and revised with the Cable Act of 1992, also referred to as Cable Television Protection and Competition Act, and the Telecommunications Act of 1996.
+The Cable Communications Act of 1984 had minimal advantages, because it was enacted around a strong legislative agreement between the demands of cable operators and the demands of the public. During the negotiation process, there was relatively little public participation, meaning cable consumers and public, educational, and government access (PEG) advocates were left vulnerable to cable operators' enforcement and decisions.
+There was dramatic growth in the cable industry once the act went into effect.[9] However, it remained largely in the hands of few local monopolies that were able to determine the content of the programs and set the rates for services and channels on their system. These changes in authority were not immediate, but evolved over the course of a few years.[10] Cable consumers were outraged with the increases in prices and services, whereas municipalities were annoyed with violated contracts. Many of these outcomes can be attributed to the Federal Communication Commission’s (FCC) interpretation of Congress’ mandates, which contained poor choice of language and confusion over the First Amendment to the United States Constitution.[9]
+Cable consumers’ complaints about the outcomes led to policy discussions in the late eighties and early nineties in which public interest was considered but not represented.[9] If monopolies were broken apart and competition was restored, then many of the problems would likely be resolved. Cable operators would not refuse to carry programs and services with popular demand, and prices would return to appropriate and economical rates.[11] In order to address this problem, the Cable Television Protection and Competition Act of 1992 was passed to regulate cable television rates that cable operators charged consumers.[12]
+The law, intending to grant privileges to local community members by allowing them to require PEG channels also allowed these municipalities to decide against PEG requirements. In franchise agreements, contracted between cable operators and municipalities, the municipality could specify a PEG channel requirement and later opt out of these channels, keeping the cable television franchise fees for their general fund and supplying their communities with no PEG outlets or channel capacity. Since its approval, many public-access television centers have closed as a result of the opt-out provision.[6]
+Since the act prevented cable operators from regulating publicly generated content, much controversy developed around what was allowed to appear on these channels. A public-access television center in Eau Claire, Wisconsin was faulted for televising a video created by Christian Bangert, a man convicted of murdering a city police officer. The tape was shown repeatedly during Bangert’s trial, and many people felt its airing was in bad taste. Across the country, controversial content such as explicit sex and promotion of Nazi groups have aired via PEG channels. Congress, in an attempt to protect viewers from indecent programming, passed the Cable Television Protection and Competition Act of 1992, which allowed the FCC to establish rules requiring cable operators to prohibit particular shows. In 1996, the U.S. Supreme Court declared that the law was unconstitutional claiming that cable operators should never be required to act on behalf of the federal government to control expression in relation to content.[6]
+Commercial leased access did not provide cable subscribers with a diversity of information as it was required, because it was avoided and never mandated by local franchising authority. In the 1998 court case Time Warner Entertainment Co. vs. FCC, the court deemed the act ineffective in terms of unaffiliated programming. "The 1984 legislation did not accomplish much. Unaffiliated programming on leased channels rarely appeared."[13] The Cable Television Consumer Protection and Competition Act reinforced its intent that leased access to provide a diversity of information to subscribers as determined by the cable operators. The Time Warner Entertainment Co. vs. FCC court also upheld the provision mentioned above.[13]
+See also[edit]
+
+Communications Act of 1934
+Cable Television Consumer Protection and Competition Act of 1992
+Telecommunications Act of 1996
+Public, educational, and government access (PEG) channels
+Public-access television
+Educational-access television
+Government-access television
+Red Lion Broadcasting Co. v. Federal Communications Commission
+Barry Goldwater
+
+References[edit]
+
+
+
+^ a b c d Williams, Jr., Wenmouth; Mahoney, Kathleen (1987). "Perceived Impact of the Cable Policy Act of 1984" (PDF). Journal of Broadcasting & Electronic Media. 31 (2): 193–205. ISSN 0883-8151. Retrieved 2011-03-15. 
+^ Meyerson, Michael I. (1985). "The Cable Communications Policy Act of 1984: A Balancing Act on Coaxial Wires". Georgia Law Review. University of Baltimore School of Law Research Paper. 19 (3): 543–662. SSRN 1605276 . 
+^ Red Lion Broadcasting Co., Inc. vs Federal Communications Commission, U.S. 367 (U.S. Court of Appeals Seventh Circuit 1969).
+^ Myers, John M.; Schuering, Daniel P. (1991). "Cable Television Franchise Renewals A Primer". Illinois Municipal Review: The Magazine of the Municipalities. Illinois Municipal League: 22. Retrieved 2011-03-15. 
+^ Epstein, Michael. "Midwest Video Case: U.S. Legal Decisions and Cable Television". The Museum of Broadcast Communications. Retrieved 2011-02-02. 
+^ a b c Claire, Eau (2000-05-15). "Regulation and Franchising". Public Access Television. Retrieved 2011-02-04. 
+^ a b United States v. Midwest Video Corp., 406 U.S. 649 (1972).
+^ "Cable Act Legislative History". Miller & Van Eaton: A Liability Law Firm Specializing in Telecommunications for Local Governments. Retrieved 2011-03-15. 
+^ a b c Aufderheide, Patricia (1992). "Cable Television and the Public Interest". Journal of Communication. Blackwell Publishing, LTD. 42 (1): 52–65. doi:10.1111/J.1460-2466.1992.tb.00768.x. 
+^ Schmuckler, Eric; Dean Jr., Sidney W. (1984-11-14). "The Cable TV Law Hurts The Public". The New York Times: 35. Retrieved 2011-04-13.  |section= ignored (help)
+^ Netzer, Dick (1984-11-26). "Competition Is What The Cable Industry Needs". The New York Times: 22.  |section= ignored (help)
+^ Gobetz, Robert (2008). "Communications Act of 1934". Encyclopedia of Political Communication. SAGE Publications. Retrieved 2011-02-13. 
+^ a b Lloyd, Mark (2009). "Access to Media". Encyclopedia of Journalism. SAGE Publications. Retrieved 2011-02-13. 
+
+
+
+External links[edit]
+
+Cable Communications Act of 1984
+Communications Act of 1934 as amended by Telecommunications Act of 1996
+Telecommunications Act of 1996
+FCC Cable Television Fact Sheet- U.S. Public, Educational, and Governmental Access Channels ("PEG Channels")
+Public Access Television- Regulation and Franchising
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Barry Goldwater
+
+
+
+Political career
+
+
+
+Electoral history of Barry Goldwater
+Alaska Mental Health Enabling Act
+1964 presidential campaign
+Goldwater v. Carter
+Cable Communications Policy Act of 1984
+Goldwater–Nichols Act
+
+
+
+
+
+
+
+
+
+
+Elections
+
+
+
+United States Senate election in Arizona, 1952
+1958
+1964 Republican National Convention
+United States presidential election, 1964
+United States Senate election in Arizona, 1968
+1974
+1980
+
+
+
+
+
+Family and personal life
+
+
+
+Barry Goldwater, Jr. (son)
+Morris Goldwater (uncle)
+Don Goldwater (nephew)
+
+
+
+
+
+Other
+
+
+
+Barry Goldwater (statue)
+The Conscience of a Conservative
+Goldwater's (department store)
+The Goldwaters (musical group)
+Goldwater v. Ginzburg
+Goldwater rule
+Barry M. Goldwater Scholarship
+Goldwater Institute
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Cable_Communications_Policy_Act_of_1984&oldid=800971347"					
+Categories: 1984 in law1984 in the United StatesAmerican public access televisionBroadcast lawCable television in the United StatesBarry GoldwaterTelevision terminologyUnited States federal privacy legislationUnited States federal communications legislationHidden categories: CS1 errors: chapter ignored 

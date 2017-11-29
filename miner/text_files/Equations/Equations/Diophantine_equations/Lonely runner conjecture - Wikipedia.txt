@@ -1,0 +1,283 @@
+Lonely runner conjecture - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Example of lonely runner conjecture with 6 runners
+
+
+In number theory, and especially the study of diophantine approximation, the lonely runner conjecture is a conjecture originally due to J. M. Wills in 1967. Applications of the conjecture are widespread in mathematics; they include view obstruction problems[1] and calculating the chromatic number of distance graphs and circulant graphs.[2] The conjecture was given its picturesque name by L. Goddyn in 1998.[3]
+
+
+
+Contents
+
+
+1 Formulation
+2 Known results
+3 Notes
+4 External links
+
+
+
+Formulation[edit]
+
+
+
+Unsolved problem in mathematics:
+Is the lonely runner conjecture true for every number k of runners?
+(more unsolved problems in mathematics)
+
+
+
+Consider k runners on a circular track of unit length. At t = 0, all runners are at the same position and start to run; the runners' speeds are pairwise distinct. A runner is said to be lonely at time t if they are at a distance of at least 1/k from every other runner at time t. The lonely runner conjecture states that each runner is lonely at some time.
+A convenient reformulation of the conjecture is to assume that the runners have integer speeds,[4] not all divisible by the same prime; the runner to be lonely has zero speed. The conjecture then states that for any set D of k − 1 positive integers with greatest common divisor 1,
+
+
+
+
+
+∃
+t
+∈
+
+R
+
+
+∀
+d
+∈
+D
+
+∥
+t
+d
+∥
+≥
+
+
+1
+k
+
+
+,
+
+
+{\displaystyle \exists t\in \mathbb {R} \quad \forall d\in D\quad \|td\|\geq {\frac {1}{k}},}
+
+
+
+where ||x|| denotes the distance of real number x to the nearest integer.
+Known results[edit]
+
+
+k
+year proved
+proved by
+notes
+
+
+1
+-
+-
+trivial: 
+
+
+
+t
+=
+0
+
+
+{\displaystyle t=0}
+
+; any 
+
+
+
+t
+
+
+{\displaystyle t}
+
+
+
+
+2
+-
+-
+trivial: 
+
+
+
+t
+=
+(
+2
+(
+
+v
+
+1
+
+
+−
+
+v
+
+0
+
+
+)
+
+)
+
+−
+1
+
+
+
+
+{\displaystyle t=(2(v_{1}-v_{0}))^{-1}}
+
+
+
+
+3
+-
+-
+trivial: with zero speed of the runner to be lonely,
+it happens within the first round of the slower runner
+
+
+4
+1972
+Betke and Wills;[5] Cusick[6]
+-
+
+
+5
+1984
+Cusick and Pomerance;[7] Bienia et al.[3]
+-
+
+
+6
+2001
+Bohman, Holzman, Kleitman;[8] Renault[9]
+-
+
+
+7
+2008
+Barajas and Serra[2]
+-
+
+
+Dubickas[10] shows that for a sufficiently large number of runners for speeds 
+
+
+
+
+v
+
+1
+
+
+<
+
+v
+
+2
+
+
+<
+⋯
+<
+
+v
+
+k
+
+
+
+
+{\displaystyle v_{1}<v_{2}<\dots <v_{k}}
+
+ the lonely runner conjecture is true if 
+
+
+
+
+
+
+v
+
+i
++
+1
+
+
+
+v
+
+i
+
+
+
+
+≥
+1
++
+
+
+
+33
+log
+⁡
+(
+k
+)
+
+k
+
+
+
+
+{\displaystyle {\frac {v_{i+1}}{v_{i}}}\geq 1+{\frac {33\log(k)}{k}}}
+
+.
+Notes[edit]
+
+
+
+^ T. W. Cusick (1973). "View-Obstruction problems". Aequationes Mathematicae. 9 (2–3): 165–170. doi:10.1007/BF01832623. 
+^ a b J. Barajas and O. Serra (2008). "The lonely runner with seven runners". Electronic Journal of Combinatorics. 15: R48. 
+^ a b W. Bienia; et al. (1998). "Flows, view obstructions, and the lonely runner problem". Journal of Combinatorial Theory, Series B. 72: 1–9. doi:10.1006/jctb.1997.1770. 
+^ This reduction is proved, for example, in section 4 of the paper by Bohman, Holzman, Kleitman.
+^ Betke, U.; Wills, J. M. (1972). "Untere Schranken für zwei diophantische Approximations-Funktionen". Monatshefte für Mathematik. 76 (3): 214. doi:10.1007/BF01322924. 
+^ T. W. Cusick (1974). "View-obstruction problems in n-dimensional geometry". Journal of Combinatorial Theory, Series A. 16 (1): 1–11. doi:10.1016/0097-3165(74)90066-1. 
+^ Cusick, T.W.; Pomerance, Carl (1984). "View-obstruction problems, III". Journal of Number Theory. 19 (2): 131–139. doi:10.1016/0022-314X(84)90097-0. 
+^ Bohman, T.; Holzman, R.; Kleitman, D. (2001), "Six lonely runners", Electronic Journal of Combinatorics, 8 (2) 
+^ Renault, J. (2004). "View-obstruction: A shorter proof for 6 lonely runners". Discrete Mathematics. 287: 93–101. doi:10.1016/j.disc.2004.06.008. 
+^ Dubickas, A. (2011). "The lonely runner problem for many runners". Glasnik Matematicki. 46: 25–30. doi:10.3336/gm.46.1.05. 
+
+
+
+External links[edit]
+
+article in the Open Problem Garden
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Lonely_runner_conjecture&oldid=804400243"					
+Categories: Number theoryDiophantine equationsConjectures 

@@ -1,0 +1,854 @@
+Digital television transition in the United States - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Further information: Digital television transition
+The DTV (an abbreviation of digital television, also called digital broadcast) transition in the United States was the switchover from analog (the traditional method of transmitting television signals) to exclusively digital broadcasting of free over-the-air television programming. According to by David Rehr, then president and CEO of the National Association of Broadcasters, this transition represented "the most significant advancement of television technology since color TV was introduced."[1] For full-power TV stations, the transition went into effect on Friday, June 12, 2009, with stations ending regular programming on their analog signals no later than 11:59 pm local time that day.[2]
+Under the Digital Transition and Public Safety Act of 2005, full-power broadcasting of analog television in the United States was initially planned to have ceased after Tuesday February 17, 2009. To help U.S. consumers through the conversion, the Act also established a federally sponsored DTV Converter Box Coupon Program.
+The DTV Delay Act changed the mandatory analog cutoff date to June 12, although stations were permitted to cease analog transmissions before the new mandatory cutoff date. The legislation was enacted on February 4, 2009, and on February 11, 2009, President Barack Obama signed it into law.[3][4] The purpose of the extension was to help the millions of households who had not been able to get their coupons for converters because demand for coupons exceeded the funding provided for in the initial bill, leaving millions on a waiting list to receive coupons. Funding for extra coupons was provided by the American Recovery and Reinvestment Act of 2009. By midnight on the original cut-off date of February 17, 2009, 641 stations representing 36 percent of U.S. full-power broadcasters were transmitting exclusively in digital.[5]
+Analog broadcasting did not cease entirely following the June 12 deadline: under the provisions of the Short-term Analog Flash and Emergency Readiness Act, approximately 120 full-power stations briefly maintained analog "nightlight" service, ending no later than July 12.[6] In a separate category, low power television stations were permitted to continue analog broadcasts for several more years.
+On July 15, 2011, the FCC posted the required transition deadlines for low power television. Stations broadcasting on channels 52 to 69 were required to vacate those channels by December 31, 2011, and all analog television transmitters (primarily low-powered (LP), and Class-A low-powered (-CA) stations, and also broadcast translator (TX) translator/repeaters in rural communities) were required to shut down by September 1, 2015.[7] On April 24, 2015, it was announced that the conversion date for standard LPTVs and translators still broadcasting in analog had been suspended until further notice, due to economic problems that may arise from the upcoming spectrum auction; however, Class A low-powered stations were still required to convert by the original deadline date of September 1, 2015.[8]
+
+
+
+Contents
+
+
+1 Congressional mandate
+2 Transition testing
+
+2.1 Wilmington, North Carolina test market
+
+
+3 Impact
+
+3.1 Consumer awareness
+3.2 Obsolete equipment
+3.3 Loss of service
+3.4 Problems
+3.5 Frequency reallocation
+
+
+4 Digital-to-analog converters
+
+4.1 Coupon program
+
+
+5 Extension of transition to June 12
+
+5.1 DTV Delay Act
+5.2 Nightlighting
+5.3 Provisions in American Recovery and Reinvestment Act of 2009
+
+
+6 Problems with the final transition
+
+6.1 Initial problems
+6.2 VHF frequencies and digital television
+
+
+7 Evaluating the transition
+8 Low-power stations
+9 Spectrum reallocation
+10 References and notes
+11 See also
+12 External links
+
+
+
+Congressional mandate[edit]
+The Congressional deadline to transition to digital broadcasts was pushed back several times. Congress passed the Telecommunications Act of 1996 with the original transition date of December 31, 2006. However, the transition to digital television was set back three times: first to December 31, 2008, then to February 17, 2009, and then finally to June 12, 2009.[9]
+All U.S. full-power analog TV broadcasts were required by law to end on June 12, 2009.[10] Since March 1, 2007, all new television devices that receive signals over-the-air, including pocket-sized portable televisions, personal computer video capture card tuners, and DVD recorders, have been required to include digital ATSC tuners.[11] Prior to this, the requirement was phased-in starting with larger screen sizes. Until the transition was completed, most U.S. broadcasters transmitted their signals in both analog and digital formats, though a few were already digital-only. Digital stations transmitted on another channel, which was assigned to each full-power broadcaster in a three-round digital channel election.
+The transition from the analog NTSC format to the digital ATSC format was originally required to be completed on February 17, 2009, as set by Congress in the Digital Transition and Public Safety Act of 2005.[12] Following the analog switch-off, the FCC reallocated channels 52 through 69 (the 700 MHz band) for other communications traffic,[13] completing the reallocation of broadcast channels 52–69 that began in the late 1990s. These channels were auctioned off in early 2008, with the winning bidders taking possession of them in June 2009. Four channels from this portion of the broadcast spectrum (60, 61, 68, and 69) were held for reallocation to public safety communications (such as police, fire, and emergency rescue). Some of the remaining freed up frequencies will be used for advanced commercial wireless services for consumers, such as Qualcomm's planned use of former UHF channel 55 for its MediaFLO service.[12][14]
+For U.S. cable television, the FCC voted 5–0 on September 12, 2007 to require operators to make local broadcasts available to their users in analog. This requirement lasts until 2012, when the FCC will review the case again.[needs update] This was necessary since many cable companies, including major ones like Comcast, have been taking analog channels away from customers.[15]
+In 2007, a bill in the U.S. Congress called the DTV Border Fix Act was introduced. It would have allowed all television stations within 80 kilometers (50 miles) of the Mexican border, in areas such as San Diego and the Rio Grande Valley, to keep their analog signals active for another five years. The bill passed the Senate but did not pass the House.[16]
+The SAFER Act was passed by Congress and signed by President Bush in December 2008.[17] The act has been called the "analog nightlight" act, and allows analog stations on channels that did not conflict with post-transition digital stations the option of leaving their analog transmitters on for an additional 30 days, but only to provide disaster information and information regarding the digital transition.
+Due to a lack of Commerce Department funds to provide for additional converter box coupons, and on account of other potential problems, the Barack Obama transition team asked Congress in a January 8, 2009, letter to delay the end of analog TV. Gene Kimmelman of Consumers Union, which wanted a delay, feared older people, those outside cities and the poor needed help.[18] Speaking to a group of area residents as part of a nationwide campaign to persuade people to upgrade, FCC chair Kevin Martin said in Raleigh, North Carolina that a delay was "unlikely," and that it would be "unfair" to all those who made the effort to switch, and to those who bought the reallocated spectrum that was sold with the understanding analog broadcasts would end February 17, 2009.[19] The delay passed Congress despite this prediction (see Extension of transition to June 12).
+Transition testing[edit]
+Wilmington, North Carolina test market[edit]
+As part of a test by the FCC to iron out transition and reception concerns before the nationwide shutoff, all of the major network stations in the Wilmington, North Carolina market ceased transmission of their analog signals on September 8, 2008, making it the first market in the nation to go digital-only. Wilmington was chosen as the test city in part because the area's digital channel positions would remain unchanged after the transition.[20] Wilmington was also appropriate because it had no hills to cause reception problems and all of the stations would have UHF channels.[21]
+The low-power CBS affiliate WILM-LD signed on its new digital signal in time for the transition. The test excluded UNC-TV/PBS station WUNJ, which kept their analog signal on, as they were the official conduit of emergency information in the area.[22]
+Viewers were notified of the change by months of public service announcements, town hall meetings, and local news coverage. Only 7% of viewers were affected by the loss of analog broadcasts, the remainder subscribing to cable or satellite services, but this produced 1,800 calls to the FCC for assistance. Officials were concerned by the implications of this for larger markets or those where reliance on over the air broadcasts exceeds 30%.[23]
+More disturbingly, while many calls from viewers were straightforward questions about installation of antennas and converters, or the need to scan for channels before being able to watch digital television, hundreds more were from viewers who had installed converters and UHF antennas correctly but had still lost existing channels. Most affected were full-power broadcasters which had been on low-VHF channels. WECT (NBC 6 Wilmington), a signal which in its analog form reached to the edge of Myrtle Beach, could no longer be received by many who had watched the station for years– a victim of a move to UHF 44 at a different transmitter site. WECT's coverage area had been substantially reduced; for many who were on the fringes of the analog NBC 6 signal, WECT was no more.[24] However weeks before, new digital-only WMBF-TV, a new NBC affiliate, came to the air to serve Myrtle Beach with a city-grade signal; like WECT, WMBF is owned by Raycom Media.
+On November 7, 2008, the FCC issued an order allowing distributed transmission systems to be constructed by stations which otherwise cannot cover their original analog footprint with their new digital channels and facilities.[25] While broadcasters may now apply for DTS facilities, this decision was made far too late to allow the extra transmitter sites to be constructed and operational before the original February 17, 2009 analog shutoff.[26]
+Impact[edit]
+Digital TV encoding allows stations to offer higher definition video and better sound quality than analog, as well as allowing the option of programming multiple digital subchannels (multicasting). However, it provides these advantages at the cost of a severe limitation of broadcast range.
+Digital signals do not have 'grade b' signal areas, and are either 'in perfectly' or 'not in at all'. Further, since most stations have elected to use UHF rather than older VHF channel allocations, their actual broadcast range is far less than previously. Viewers in major metropolitan areas will likely not notice problems; however, rural TV users have generally had most and in some events all of the stations they previously received with acceptable but not 'perfect' signals fall over the digital cliff (as the loss of signal has been described).
+Lastly, many low-power broadcasters have been temporarily permitted to transmit in analog for several years.[27]
+Consumer awareness[edit]
+Although Britain spent the equivalent of more than a billion dollars educating about 60 million people, the National Telecommunications and Information Administration had received $5 million a year before the original transition date of February 17, 2009, and the FCC had received $2.5 million and was scheduled to receive $20 million more later in the year, for 300 million people. This meant voluntary education campaigns would be needed.[28] It was also noted that low-income, elderly, disabled, inner city, immigrants, and rural Americans were targeted the most, because these groups mainly watch analog antenna TV more than any other groups.[29]
+While broadcasters were forced by Federal Communications Commission regulations to devote the equivalent of more than a billion dollars worth of airtime to public service announcements regarding the digital transition, the amount of information conveyed in these short advertisements was by necessity limited. Both the on-air announcements and government-funded telephone hotlines receiving viewer inquiries directed consumers to Internet sites to seek information,[30] a problematic approach, as many of those most-affected do not use online media as a primary source of information.
+Obsolete equipment[edit]
+Consumers' old analog televisions, VCRs, DVRs, and other devices which lack a digital tuner no longer receive over-the-air television, though previously recorded content can still be replayed.[31] The only real solution to this is to buy an external tuner (called a converter box) that receives DTV signals directly and converts them to analog for the television VCR or other analog device.
+Users of analog VCRs, DVRs, or other recording devices which lack a digital tuner have a unique problem of no longer being able to record programs across multiple channels. In order to make them work with DTV the viewer must use an external tuner box and set the device to record the output from that box, typically L-1 for the line input. Some manufacturers such as Zinwell and Dish sell external converter boxes/tuners that will automatically change channels at preset times. The analog VCR or DVR may record at preset times but will continue recording the L-1 line input, which will be the same channel unless the channel is manually changed.
+Alternatively the user may purchase a new TV, DVR, or DVD recorder with a built-in digital tuner. However, these newer technologies have their own drawbacks, such as no way to store programs long-term (DVR) or being limited to only 1–2 hours with high quality XP mode (DVD-R).[32]
+Loss of service[edit]
+A major concern is that the broadcast technology used for ATSC signals called 8VSB has problems receiving signals inside buildings and in urban areas, largely due to multipath reception issues which cause ghosting and fading on analog images, but can lead to intermittent signal or no reception at all on ATSC programs.[33] DTV broadcasts exhibit a digital cliff effect, by which viewers will receive either a perfect signal or no signal at all with little or no middle ground. Digital transmissions do contain additional data bits to provide error correction for a finite number of bit errors; once signal quality degrades beyond that point, recovery of the original digital signal becomes impossible, and the image on the screen freezes, or blinks back and forth to totally blank black.
+The maximum power for DTV broadcast classes is also substantially lower; one-fifth of the legal limits for the former full-power analog services. This is because there are only eight different states in which an 8VSB signal can be in at any one moment; thus, like all digital transmissions, very little signal is required at the receiver in order to decode it. Nonetheless, this limit is often too low for many stations to reach many rural areas, which was an alleged benefit in the FCC's choice of ATSC and 8VSB over worldwide-standard DVB-T and its COFDM modulation. Additionally, without the hierarchical modulation of DVB, signal loss is complete, and there is no switch to a lower resolution before this occurs.
+A hundred-kW analog station on TV channels 2 to 6 would therefore be faced with the choice of either lowering its power by 80% (to the twenty kilowatt limit of low-VHF DTV) or abandoning a frequency which it occupied since the 1950s in order to transmit more power (up to 1000 kW) on the less-crowded UHF TV band. Such stations can keep the same channel number, however, because of ATSC virtual channels. Unfortunately, the higher frequencies are challenged in areas where signals must travel great distances or encounter significant terrestrial obstacles. Most stations in the low-VHF (channels 2–6) did not return to these frequencies after the transition. About 40 stations remained in the low-VHF after the transition, with the majority in smaller markets (with a few notable exceptions).[34] The FCC has long discouraged the digital allocation on low-VHF channels for several reasons: higher ambient noise, interference with FM radio (channel 6 borders FM at 88 MHz), and larger antenna size required for these channels.[35][36] After the transition, many viewers using "high-definition" antennas have reported problems receiving stations that broadcast on VHF channels.[37] This is because some of the new antennas marketed as "HDTV antennas" from manufacturers such as Channel Master were only designed for channels 7–51 and are more compact than their channel 2–69 counterparts. These manufacturers did not anticipate widespread continued use of the relatively longer wavelength low-VHF channels.
+Stations that broadcast in analog on channel 6 have had an additional benefit of having its audio feed broadcast on 87.7 MHz, which is at the very low end of the FM radio dial. As such, many stations that use channel 6 have taken advantage of this, and directly promote this feature, especially during drive time newscasts, and as a critical conduit of information in markets where severe weather (such as hurricanes) allowed a station the advantage to broadcast their audio via FM radio without having to contract with another FM operation to do so. WDSU in New Orleans, Miami's WTVJ and WECT in Wilmington, North Carolina were among the most well-known Channel 6 broadcasters which used this approach to provide emergency information during hurricanes.
+Digital television, however, does not have this feature, and after the transition, this additional method of reception is no longer available. WRGB, channel 6 in Albany, New York, used a separate transmitter on 87.7 that transmitted a vertically polarized analog audio signal, which would theoretically avoid interference with the horizontally polarized digital TV signal. This would allow the station to keep its audio on 87.7 FM after the transition to digital.[38] WRGB ran this transmitter for approximately 6 weeks on an experimental basis, only to find that the vertically polarized 87.7 MHz signal interfered with the digital video, while broadcast of analog signals on 87.9 MHz met with FCC objections. WITI in Milwaukee took a more direct though still experimental approach to restore their TV audio, having it restored in August 2009 to an HD Radio subchannel of WMIL-FM via a content agreement with WMIL owner Clear Channel Communications. A purchase of HD Radio equipment or having a car stereo equipped with an HD Radio receiver is required to listen to this broadcast.
+
+
+
+
+An outdoor high-gain antenna was assumed in planning for DTV reception.
+
+
+Planning for DTV reception assumed "a properly oriented, high-gain antenna mounted 30 feet in the air outside."[39] The Consumer Electronics Association set up a website called AntennaWeb to identify means to provide the correct signal reception to over-the-air viewers. Another website, TVFool provides geographic mapping and signal data to allow viewers to estimate the number of channels which will be gained or lost as a result of digital transition; while it estimated that marginally more stations would be gained than lost by viewers, this varied widely with viewers of low-VHF analog signals in distant-fringe areas among the most adversely affected. An estimated 1.8 million people were expected to lose the ability to access over-the-air TV entirely as a result of the digital transition.
+Viewers in rural and mountainous regions were particularly prone to lose all reception after digital transition.[40]
+Problems[edit]
+U.S. markets which have presented unique problems for digital transition include:
+
+New York City-Newark was one of the early U.S. terrestrial digital television pioneers with state-of-the-art ATSC facilities installed atop the World Trade Center as early as 1998, but those facilities were destroyed in the September 11 attacks, and for a number of years, New York lacked one single point of sufficient height from which to cover the entire region without severe multipath interference issues in downtown Manhattan. The 1776-foot 1 World Trade Center, proposed to replace the former World Trade Center, would not be completed for some time, so several scenarios were considered to enhance service. One such system, called distributed transmission, was being funded by a $30,000,000 federal grant to assure that no viewers are left without service. The DTS would have used low power transmitters to fill gaps in coverage from the Empire State Building. The Metropolitan Television Alliance, a group of eleven New York and New Jersey broadcasters organized soon after the destruction of the facilities at the World Trade Center, has been leading the development of the DTS system. In 2004, a partial solution was implemented: the top of the Condé Nast Building at 4 Times Square was reinforced and installed with a massive multiplexed UHF antenna. This relieves overcrowding at Empire State by using the site of a local Clear Channel radio facility to replace master antenna installations destroyed at WTC.
+New Orleans and portions of Mississippi were operating some digital transmitters from temporary locations or from towers belonging to other stations due to damage done during Hurricane Katrina and Hurricane Rita in 2005. While stations are now back on-air, the coverage area often does not match that specified on the station licenses due to the change in antenna locations.
+Denver faces unique multipath interference problems largely due to its mountainous location; its antennas on Lookout Mountain will need to increase in height to overcome obstacles to digital reception, but attempts to get local zoning approval have met with strong opposition. Federal legislation was ultimately used to require that Denver stations be allowed to construct their post-transition digital facilities but sharp nulls and gaps in coverage remain.
+Sparsely populated mountainous regions such as Montana and Utah currently rely heavily on broadcast translators to rebroadcast network stations into underserved communities; while these low-power retransmitters are not themselves required to broadcast digitally, many will need costly upgrades to receive a digital signal from the originating station—if the signal can be received at all. 23% of the 4000 licensed translators have received a federal subsidy[41] to make the conversion,[42] but many others will simply go dark. In sparsely populated markets such as Glendive, Montana, translators are needed to reach a widely scattered audience but the readiness of many small municipally owned translators remains largely unknown.
+Many other stations in the Rocky Mountains had chosen to end analog broadcasts early because of poor winter conditions at transmission sites in February; stations needed to be sure they can make the on-site adjustments. For these broadcasters, the DTV Delay Act and its extended deadline of June 12, 2009 comes too late to be of use, as the digital transition has already been completed.
+Vermont, a market in which all major stations are as of February 2009 digital-only, is problematic as both a rural state and a mountainous region. WCAX CBS 3 in Burlington, and WPTZ NBC 5 in Plattsburgh, New York are now both UHF broadcasts from Mount Mansfield, causing many viewers to lose the stations. Previously as analog VHF stations, WCAX transmitted from Mount Mansfield, while WPTZ was broadcast from Terry Mountain in Peru, New York, on the opposite shore of Lake Champlain.
+Buffalo, New York, a city whose stations mostly broadcast from among the Boston Hills and cover a fairly rugged terrain along the Appalachian Plateau, is one of several markets in which the primary stations are VHF stations that operate on 2, 4, and 7. All three stations were assigned DTV channels in the UHF spectrum; all will lose significant broadcast coverage in the transition, and viewers in the western Twin Tiers region will lose all of their broadcast stations. In May 2009, both WIVB (channel 4) and WGRZ (channel 2) warned its viewers that were not in Erie or Niagara Counties that they would likely lose the broadcast signal, reducing the station's coverage area from approximately 12 counties to just two, along with several parts of southern Ontario, a critical viewing audience for all Buffalo stations.
+Syracuse, New York had since 1948 employed low-VHF channels to feed networks to adjacent markets (notably CBS to Utica, NBC to Watertown). These markets are 60 to 75 miles (100 to 125 km) distant. Utica lost CBS service because its affiliate, based in Syracuse, broadcasts on channel 5 analog (with a signal strong enough to reach Utica), but its channel 47 digital signal does not reach anywhere near Utica. Channel 5 historically refused to cede its Utica territory to another potential affiliate, but in October 2015, CBS signed an affiliation deal with NBC affiliate WKTV, restoring CBS service to the Utica market via its second digital subchannel. Similarly, Watertown, New York and Kingston, Ontario lost Syracuse NBC affiliate WSTM-TV once the DTV transition rendered Syracuse a UHF island; however WSTM-TV continues to be shown on local cable systems. Like CBS in Utica, NBC eventually restored service to the Watertown market, signing an affiliation deal with new sign-on WVNC-LD in November 2016.[43]
+On January 15, 2009, Hawaii became the first state in the United States to have its television stations switch from analog to digital early. Existing analog facilities at Mount Haleakala on Maui are to be removed due to ongoing radio interference with astronomy equipment operated under the watchful eye of the United States Department of Defense and the University of Hawaiʻi.[44] The digital stations are being deployed using new facilities at Ulupalakua and the old towers will be removed before bird nesting season begins in March. By making the switch early, the broadcast towers atop Haleakala near the birds' nesting grounds can be dismantled without interfering with the Hawaiian petrels' nesting season.[45]
+Between June 12 and July 1, 2009, programs on the Fox network were unavailable to viewers throughout the state of Montana (except viewers in the Billings area) who do not have cable or satellite service.[46][47] The stations in Butte, Great Falls and Missoula were among many full-powered stations owned by Equity Broadcasting. Equity filed for Chapter 11 bankruptcy in 2008, and the stations went silent on June 12 due to inability to fund construction of digital facilities. Unlike most established broadcasters, Equity had expanded rapidly using outlying UHF stations as satellite-fed repeaters. Many but not all were low-power TV stations, typically carrying Univisión or smaller networks such as WB/UPN (later The CW) and MyTV. The majority of Equity's full-power operations came to the air after 1997, by which time the digital transition was already in progress. The stations were therefore not allocated a second, digital companion channel and were not required to simulcast digitally until their required flash-cut to digital signals at the end of transition.[48] Although Equity conducted a successful auction for the stations in April 2009, the required federal government approval came too late for the new owner, Max Media, to do the flash cuts. Eventually, Max Media chose to move the affiliation to digital subchannels of their respective new sister stations, all ABC affiliates.[49] Other stations formerly owned by Equity, such as KUOK in Oklahoma City, were able to make flash-cuts under new ownership and are still on the air. Many stations were sold at auction to Daystar Television Network, which will construct the digital facilities and air religious programming on the acquired stations; in some cases these went silent, returning to operation after slightly less than a year off-air in order to avoid losing the full-service licenses. At least one affected station, WNGS Buffalo, had been subsequently resold while silent. (In all, the FCC signed on 136 full-power stations after the original allocation of digital signals.) Except for the full-service Equity stations, almost all were able to flash-cut by the deadline. Notable exceptions were Pappas-owned KCWK (which went silent several months before digital transition was originally to be completed and never returned; KCWK's license was cancelled by the FCC on June 2, 2009) and WWAZ-TV (which returned in August 2012 to the air).
+
+There are 80 media markets in which more than 100,000 households receive television signals by over-the-air broadcasts.[23]
+Frequency reallocation[edit]
+The reclaimed channels will be used for a variety of service, including mobile phones, MediaFLO (55) and public safety (63/64 base, 68/69 mobile). Most of this mobile spectrum has been sold to existing incumbent providers, with AT&T Mobility and Verizon as the largest bidders (see United States 2008 wireless spectrum auction).
+The elimination of UHF channels, rather than VHF channels as in the rest of the world, precludes the use of band III (high VHF) for Digital Audio Broadcasting as is used in a few other countries. It also makes more difficult the reassignment of channels 5 and 6 (76 to 88 MHz) to expand the FM radio broadcast band.[50] There are also no channels set aside for analog broadcasts of the Emergency Alert System, rendering most portable emergency TV sets useless. While a small number of portable ATSC sets have started to appear, these are costly.[51] A portable converter box (such as Winegard's RCDT09A) would require a bulky external battery and mobile ATSC is not yet available. Another option to people would be getting a USB-based TV tuner card for their laptop computer, which in addition to its low costs became a popular option after Microsoft released Windows 7 four months after the DTV transition ended.
+A Google-sponsored program called Free the Airwaves has started with the goal of using the "empty" white space within the remaining TV for unlicensed use, like for Wi-Fi.[52]
+In March 2008, the FCC requested public comment on turning the bandwidth currently occupied by analog television channels 5 and 6 (76–88 MHz) over to extending the FM broadcast band when the digital television transition was to be completed in February 2009 (ultimately delayed to June 2009).[53] This proposed allocation would effectively assign frequencies corresponding to the existing Japanese FM radio service (which begins at 76 MHz) for use as an extension to the existing North American FM broadcast band.
+On August 22, 2011, the United States' Federal Communications Commission announced a freeze on all future applications for broadcast stations requesting to use channel 51,[54] to prevent adjacent-channel interference to the A-Block of the 700 MHz band. Later that year (on December 16, 2011), Industry Canada and the CRTC followed suit in placing a moratorium on future television stations using Channel 51 for broadcast use, to prevent adjacent-channel interference to the A-Block of the 700 MHz band.[55]
+Digital-to-analog converters[edit]
+Main article: Digital television adapter
+Now that the switch from analog to digital broadcasts is complete, analog TVs are incapable of receiving over-the-air broadcasts without the addition of a set-top converter box. Consequently, a digital-to-analog converter, an electronic device that connects to an analog television, must be used in order to allow the television to receive digital broadcasts.[56] The box may also be called a "set-top" converter, "digital TV adapter" (DTA), or "digital set-top box" (DSTB).[57]
+Coupon program[edit]
+Main article: Coupon-eligible converter box
+
+
+
+
+An example of the FCC converter box $40 subsidy coupon, which is in the form of a bank card which cannot be used for anything except for a converter box purchase.[31]
+
+
+
+To assist consumers through the conversion, the Department of Commerce through its National Telecommunications and Information Administration (NTIA) division handled requests from households for up to two $40 coupons for digital-to-analog converter boxes[58] beginning January 1, 2008 via a toll free number or a website.[59][60] The program was paid for with a small part of the $20 billion taken in from the DTV spectrum auction. However, these government coupons were limited to an initial sum of $890 million (22,250,000 coupons) with the option to grow to $1.34 billion (33,500,000 coupons),[61] which is far short of the estimated 112 million households (224 million redeemable coupons) in the United States.[62] Nevertheless, not every household took advantage of the offer, as reports indicate half of all households already had at least one digital TV.[63] In January 2009, the NTIA began placing coupon requests on a waiting list after the program reached its maximum allowed funding. New requests for coupons were fulfilled only after unredeemed coupons expired.[64]
+These coupons could be redeemed toward the purchase of a digital-to-analog converter at brick and mortar, on-line, and telephone retailers that had completed the NTIA certification process.[65] Retail prices for the boxes range from $40 to $70 (plus tax and/or shipping); after applying the coupons, the price to the consumer would be between $5 and $40 per box. Because it was actually used as a payment, despite the name "coupon", consumers paid pay state and local sales tax on the coupon amount, which in effect reduced its value by about $3 (based on 7½% tax).
+There has been possible evidence that the presence of the government coupon program has inflated the prices of converter boxes by between $21 and $34 above what they would be otherwise.[66]
+Extension of transition to June 12[edit]
+DTV Delay Act[edit]
+
+DTV Delay Act
+
+
+
+
+Long title
+An act to postpone the DTV transition date.
+
+
+Enacted by
+the 111th United States Congress
+
+
+Effective
+February 11, 2009
+
+
+Citations
+
+
+Public law
+111-4
+
+
+Statutes at Large
+123 Stat. 112–114
+
+
+Codification
+
+
+U.S.C. sections amended
+47 U.S.C. § 309
+47 U.S.C. § 337
+
+
+Legislative history
+
+
+
+
+
+Introduced in the Senate as S. 352 by Jay Rockefeller (D–WV) on January 29, 2009
+Passed the Senate on January 29, 2009 (unanimous consent)
+Passed the House on February 4, 2009 (264–158)
+Signed into law by President Barack Obama on February 11, 2009
+
+
+
+
+
+On January 21, 2009, Senator Jay Rockefeller introduced a bill in the Senate titled the DTV Delay Act because millions of Americans would not be ready for the cutoff on February 17 due to a shortage of converter box coupons, and planning that the transition date be moved to June 12. Rockefeller, chairman of the Committee on Commerce, Science and Transportation, and Sen. Kay Bailey Hutchison, worked together on the bill. Hutchison supported the idea because Rockefeller did not intend to ask for another postponement. On January 22, The Nielsen Company said 6.5 million Americans had not prepared for the switch. Opponents pointed out that TV stations would face extra operating expenses, and those who paid to use the spectrum to be made available would have to wait.
+Under later amendments, stations could choose to end analog broadcasts before June 12 even if the bill passed, and any frequencies freed up by such action could be used by fire and police departments and other emergency services. Those whose converter box coupons had expired would be allowed to apply for new coupons. The House postponed a similar bill (by House Energy and Commerce Committee Chairman Henry Waxman), until the Senate's version was complete.[67][68]
+The Senate unanimously voted on January 26, 2009 to delay the digital TV transition to June 12, 2009.[69] However, the House of Representatives voted on and defeated a similar measure on January 28.[68] Rep. Joe Barton led the movement in the House to defeat the measure, saying that "the DTV transition is neither stuck nor broke", and that any problems with the DTV transition can be fixed.[70] Barton also said, "I guarantee you, no matter when you set the date— February 17, June 12, July the Fourth, Valentine's Day— there are going to be some people that aren't ready."[71][72]
+On January 29, the DTV Delay Act passed in the Senate.[73][74] On February 4, the House also approved this measure.[75][76][77]
+The bill was submitted to President Obama on February 4, who did not immediately sign it into law. On February 9, President Obama posted the bill on whitehouse.gov, giving the public five days to weigh in on it. Under a midnight February 10 deadline imposed by the FCC, broadcasters disclosed whether they would still cease broadcasting analog signals on the original date of February 17, or if they would delay until June 12, should the DTV Delay Act be signed into law.[78] On February 10, the FCC published the list. 491 stations stated they intended to transition on February 17. The FCC reserved final say on which stations would be allowed to transition on February 17 and which ones would be required to continue analog broadcasts, depending on how many viewers in each market have been determined not ready for the transition[4][76][79][80] Owned & Operated stations of five major networks (ABC, CBS, Fox, NBC and Telemundo, plus The CW, MyNetworkTV and independent stations owned by CBS and MyNetworkTV stations owned by Fox), as well as the station groups of Gannett, Hearst-Argyle and Meredith, committed to keeping all or most of their analog signals active until the new June 12 cutoff date.[81][82] On February 11, 2009 President Obama signed the bill into law, officially moving the cutoff date to June 12, 2009.[3] In total, 191 stations already had turned off their analog transmitters for good.[79]
+On February 20, 2009, the FCC released an order stating that stations that wish to go all digital before the final June 12, 2009 date must inform the FCC of that decision by March 17, 2009.[83][84]
+While 93 large-city network owned and operated stations (controlled by CBS, ABC, Fox TV and NBC) would continue analog broadcasts until June 12,[85] many small-market broadcasters were unable to justify the extra cost, with non-commercial and independent stations very adversely affected. No funding was provided to reimburse broadcasters who incurred additional costs due to the DTV Delay Act.
+Public Broadcasting Service CEO Paula Kerger had estimated a $22 million cost to the nation's PBS member stations to extend simulcasting until June 12;[86] more than a hundred PBS stations ultimately elected to stick to the original deadline.[87] Some individual commercial station groups, most notably Sinclair Broadcast Group and Gray Television, shut down the vast majority of their analog signals on the original deadline. Others left the question to their individual local stations. Many local markets, ranging from Burlington, Vermont and Sioux City, Iowa[88] to San Diego,[89] lost analog signals from most or all major U.S. stations. Some stations in coastal regions such as Fort Myers, Florida had chosen not to wait until June 12 so as to ensure transition is complete before hurricane season.[90]
+In some cases, the Federal Communications Commission forced stations to continue full-power analog broadcast of at least a local newscast and information on the digital transition for an additional sixty days – a costly move for individual affected broadcasters. Of 491 stations which had indicated their intention to go digital-only in February 2009,[91] 123 affiliates of four major U.S. commercial networks (ABC, CBS, Fox, NBC) were targeted by Federal Communications Commission opposition, precluding or applying additional restrictions to the shutdown of their analog signals[92] in markets where the only analog service remaining after the February 17 shutdown would have been an independent or educational broadcaster, an adjacent-market station or a low-power station.[93][94] Of approximately 1800 U.S. full-service TV stations, an additional 190 were already digital-only before February 2009; these included Hawaii (digital since January 2009) and Wilmington, North Carolina (the FCC's 2008 digital test market), as well as some new stations and a few broadcasters forced to shut down analog early due to technical problems.
+On April 12, Nielsen estimated that 3.6 million households remained unready;[95] key problem markets (according to FCC and NTIA) included Albuquerque, Baltimore, Cleveland, Dallas–Fort Worth, Denver, Fresno, Houston, Brownsville, Indianapolis, Los Angeles, Minneapolis–St. Paul, Phoenix, Portland, Oregon, Tulsa, Sacramento, St. Louis, the San Francisco Bay Area, Salt Lake City and Seattle.
+Nightlighting[edit]
+See also: Short-term Analog Flash and Emergency Readiness Act
+On February 11, 2009, the FCC announced it would allow 368 of the 491 applied stations to go all-digital on the original February 17 date, 100 of which will be allowed to use their analog signal to inform unprepared viewers of the new transition date, or for emergency situations such as severe weather (called "nightlighting"). The FCC concluded that the other 123 stations who applied present a "significant risk of substantial public harm," if they go all digital on February 17. The FCC stated "We considered the presence of major networks and their affiliates critical to ensuring that viewers have access to local news and public affairs available over the air because the major network affiliates are the primary source of local broadcast news and public affairs programming". The FCC would not permit the 123 stations in "at-risk" markets to proceed unless they certify with the agency by 6 pm ET on February 13 that they comply with eight additional requirements, including ensuring that at least one station that is currently providing analog service to an area within the DMA provides DTV transition and emergency information, as well as local news and public affairs programming ("enhanced nightlight" service) for at least 60 days following February 17.[80][96][97][98]
+On February 13, the FCC said 53 of the applied 106 at risk stations had qualified to go all digital on February 17. The other 43 qualified for nightlight service; 10 others could not comply with the nightlight clause. The total number stations which became digital only on February 17 was 421.[99][100]
+Provisions in American Recovery and Reinvestment Act of 2009[edit]
+Main article: American Recovery and Reinvestment Act of 2009
+House Republican Joe Barton from Texas, who strongly opposed the DTV Delay Act (see above section for further details), introduced a bill that would insert $650 million in DTV transition assistance into The American Recovery and Reinvestment Act of 2009 to be used for making more converter box coupons available and for DTV education, which was strongly supported by the Obama administration.[68][101] The American Recovery and Reinvestment Act of 2009 passed with this revision in the House with a vote of 244–188 on January 28, 2009,[102][103] and the Senate passed the bill on February 10 by a vote of 61–37.[104]
+Congressional negotiators announced on February 11, 2009, that they had reached agreement on a $789 billion economic stimulus bill.[105] President Obama signed the final $787 billion version into law on February 17, 2009 in Denver, Colorado.[106] The final version included the DTV provisions.[107]
+While the economic stimulus bill did allow additional funds for coupons, there was also a risk that available retail stock of the converter boxes themselves could prove inadequate. The Consumer Electronics Association had estimated three to six million boxes remained in-stock at the beginning of February 2009; Nielsen Media Research reported five million households as "completely unready" for digital transition in this same time period. The average U.S. household uses 3 television screens.[108] However, the converter box coupon program only allows 2 coupons per household.
+The American Recovery and Reinvestment Act of 2009 also allocated funds for expert installation services for those switching to DTV.[109]
+The FCC awarded the contract to several companies to provide expert installation services.[110]
+Problems with the final transition[edit]
+Initial problems[edit]
+On May 1, 2009, Nielsen Media Research reported that 3.1% of Americans were still completely unprepared for the transition.[111] On June 11, 2009, one day before the analog shutoff, the National Association of Broadcasters reported that 1.75 million Americans were still not ready.[112]
+971 TV stations made the final switch to digital on June 12. It was believed Albuquerque, Santa Fe, Austin and Dallas would be the least prepared markets, but this turned out not to be the case, as most of the difficulties were in the Northeast, primarily with stations that changed their digital frequencies from UHF to VHF.
+On June 13, 2009, the FCC said their help line, with about 4000 answering phones, received 317,450 calls on June 12. About one-third of callers still needed converter boxes, and one-fifth had reception problems. Acting FCC chair Michael Copps said, "Our job is far from over. This transition is not a one-day affair."
+In New York City, about 11,000 people called the FCC for assistance, the most of any market. The other areas from which the most calls to the FCC were made: Chicago (6526), Los Angeles (5473), Dallas-Fort Worth (5473), and Philadelphia (3749). 900,000 calls were received in all.
+The National Association of Broadcasters said 278 TV stations received 35,500 calls, but most callers merely needed to rescan.
+The Commerce Department said 319,900 requested converter box coupons on June 11, almost four times the average during the previous month.[113]
+SmithGeiger LLC said 2.2 million homes were not ready, while Nielsen said the number was 2.8 million. This included homes which had requested coupons.[114] On June 14, Nielsen said the number was 2.5 million, or 2.2 percent of homes. That number was down to 2.1 million, or 1.8 percent, by June 21,[115] and 1.7 million, or 1.5 percent, a week later.[116] One month after the transition, the number was 1.5 million, 1.3 percent,[117] and after nearly 2 months, the number was down to just over one million, or 1.1 percent.[118] As of August 30, 2009, the number was 710,000, as 572,000 had upgraded in August and 1.8 million since June 12.[119]
+In some cases where digital frequencies moved, people have been advised not only to re-scan but to "double-scan", in order to clear outdated information from the digital TV or converter box memory.[113]
+Calls to the FCC decreased from 43,000 a day in the week ending June 15 to 21,000 the next week. Reception problems, representing nearly a third of calls at first, were down to one-fifth.[120]
+On June 15, 2009, U.S. Representative Peter DeFazio, an Oregon Democrat, introduced the House version of The Digital TV Transition Fairness Act, which Senator Bernie Sanders introduced in December 2008. It would require video service providers to offer a $10 basic package to anyone who lost at least one channel to the DTV conversion (with broadcasters waiving fees), pay for outdoor antennas (including installation) and extend the converter box program beyond July 31.[121][122] It did not pass.
+VHF frequencies and digital television[edit]
+One of the most common problems was the return to VHF frequencies by stations that had used them when they were analog. Over 480 stations were broadcasting digitally on the VHF spectrum after the transition, up from only 216 on the frequencies before. Many antennas marketed for digital TV are designed for UHF, which most digital stations use. VHF analog signals travel further than UHF signals, but watchable VHF digital signals appear to have a more limited range than UHF with the lower power they are assigned, and they don't penetrate buildings as well, especially in larger cities.[123][124] Mike Doback, vice president of engineering for Scripps Television, said, "It’s only now that we’ve found out the planning factors were probably wrong in terms of how much power you need to replicate analog service."[125] According to TV consultant Peter Putman, the problem with VHF reception is that VHF antennas must be large to be effective, and indoor antennas do not perform well enough. In addition, channels 2 through 6 are more susceptible to many types of interference.[21] Richard Mertz of Cavell, Mertz & Associates says multipath interference inside the house is also a factor. Some receivers can deal with this problem better than others, but there are no standards. And with amplified antennas or amplifiers, it is possible to overload a converter box. Amplifiers can also cause noise that is interpreted as data.[39] Raycom Media Chief Technology Officer Dave Folsom said, "There’s nothing inherently wrong with VHF. It’s just easier to have interference, because it goes out further.”[125]
+The FCC sent extra personnel to Chicago, Philadelphia, and New York City to deal with difficulties in those cities. WLS-TV had received 1,735 calls just by the end of the day on June 12, and an estimated 5000 calls in total by June 16. WLS-TV is just one station which may solve its problems by increasing its signal strength, but doing this required making sure no other stations are affected.[126] A low-power analog station, not required to shut down after 30 days like other nightlight stations, aired newscasts that could not be seen by a number of people after the transition, while the stations attempted to solve problems.[127]
+In Philadelphia, most of the problems were with WPVI-TV, which had the area's leading news program, and public station WHYY-TV. Many people having trouble with those stations could pick up stations from Reading and Atlantic City.[128] Unlike WLS, WPVI had concerns about increasing its signal because of potential interference to other stations and to FM radio.
+In New York City, many called the FCC because they lived in apartment buildings with a single roof antenna which was not suited for the job. The city reported antenna shortages and numerous requests for cable service.[113]
+By the end of June, four stations had received permission to increase power. 10 other stations asked for power increases as well, but these were not the big cities with tall buildings. Instead, the markets were in such places as mountainous Montana and Virginia, and in Alabama.[129] KNMD-TV in Santa Fe tried an alternate VHF channel.[130]
+The FCC had two concerns about the requests for more power: some stations just wanted a competitive advantage and were not actually experiencing difficulties. Other stations wanted UHF frequencies instead because UHF worked better with mobile digital TV. However, some stations with legitimate problems have asked to return to their UHF frequencies.[129]
+Two months after the transition, "two or three-dozen" stations continued to have problems. No one with the FCC would admit that estimates of required power were incorrect, but the actions taken suggest they are admitting a mistake.[131] Three months after the transition, about 50 stations had applied for a power increase.[21]
+"Approximately a half-dozen stations" were still deciding at the end of October about what to do.[132] In some of the cases where stations returned to UHF, interference to nearby stations prevented a power increase.
+Ironically, KUAC-TV in Fairbanks, Alaska moved from channel 24 back to channel 9 in September 2009. The area never had UHF before DTV, so most people had VHF antennas, while few people lived in apartment buildings. The higher power needed for UHF cost too much, and channel 24 had signal problems, so the station asked to move back.[citation needed]
+Of 79 stations asking for a new channel, 22 wanted to go from VHF to UHF, and 10 wanted to go from UHF to VHF.[125]
+Evaluating the transition[edit]
+On June 30, his first day as FCC Chairman, Julius Genachowski said in a speech that the transition "succeeded far beyond expectations. You pulled it off by working collaboratively with each other across the agency, and with the Commerce Department and other parts of government, and by thinking creatively to leverage all available resources."[133]
+Still, the FCC planned a report on how well the transition went, and Genachowski admitted more work was needed.[120]
+Genachowski's predecessor Michael Copps called the process:
+
+A huge transition with significant impact on consumers that was not until the last moment adequately planned for or coordinated. [It was] a transition that led to problems that were largely predictable and one that we moved measurably forward from January to June to the benefit of many consumers. But it's not a closed book. It is ongoing. There are still problems out there, lessons to be learned and a document to write.[134]
+
+Low-power stations[edit]
+In September 2010, the FCC announced a proposal to set a hard deadline of 2012 for low power stations to broadcast in digital, though this deadline was not adopted.
+On July 15, 2011, the Federal Communications Commission issued a final ruling regarding Broadcast translator (TX), Low-powered (LP), and Class-A low-powered (-CA) stations, requiring that analog transmitters shut down by September 1, 2015.[135] Transmitters on channels 52 to 69 were required to vacate their channels by December 31, 2011, but may remain in analog on another channel until the September 1, 2015 deadline. As part of the rules that were imposed, low power VHF stations on channels 2 to 6 can transmit with a maximum ERP 3 kW instead of the previously allowed maximum of 0.3 kW.
+On August 13, 2009, the Community Broadcasters Association (CBA) announced in a statement that it would shut down after 20 years of representing LPTV stations. One reason given was the cost required to fight "restrictive regulations that kept the Class A and LPTV industry from realizing its potential," including the campaign to require analog passthrough, a converter box feature that allows both digital and analog television to be viewed on older TVs. Amy Brown, former CBA executive director, said, "some 40% of Class A and LPTV station operators believe they will have to shut down in the next year if they are not helped through the digital transition."[136] On September 1, 2015, all Class-A low-powered (-CA) stations were required to shut down analog service and convert to digital operations and vacate channels 51-69, though this requirement for broadcast translator (TX) and low-powered (-LP) stations to convert by September 1, 2015 was suspended, pending the upcoming spectrum auction.
+Spectrum reallocation[edit]
+Main articles: Spectrum reallocation and United States 2008 wireless spectrum auction
+The study of how to increase spectrum for wireless broadband began in 2009. Some plans called for eliminating broadcast TV entirely, but opponents of such a plan said the efforts made during the DTV transition would become pointless. By 2010, voluntary efforts were planned. Sharing channels, made possible by the first transition, was approved in 2012. A spectrum auction planned for 2014 (and delayed to 2016) became the first step in what amounted to a second digital transition.[citation needed]
+References and notes[edit]
+
+
+^ "Broadcasters Prepare For DTV Transition". TWICE. 2008-01-07. Retrieved 2008-03-23. 
+^ "ATSC SALUTES THE 'PASSING' OF NTSC". NTSC. Archived from the original on June 20, 2009. Retrieved June 13, 2009. 
+^ a b Obama Signs DTV-Delay Bill, Broadcasting & Cable, February 11, 2009.
+^ a b S. 352, "A bill to postpone the DTV transition date."
+^ "DTV Call Centers Field Over 28,000 Calls Tuesday" (PDF) (Press release). Federal Communications Commission. 2009-02-18. Retrieved 2009-02-18. 
+^ FCC list of "nightlight" stations
+^ FCC 11–110 Second Report and Order
+^ FCC Public Notice: "SUSPENSION OF SEPTEMBER 1, 2015 DIGITAL TRANSITION DATE FOR LOW POWER TELEVISION AND TV TRANSLATOR STATIONS", April 24, 2015.
+^ Hart, Jeffery (2011). "The Transition to Digital Television in the United States: The Endgame" (PDF). International Journal of Digital Television. 1 (1): 7–29. doi:10.1386/jdtv.1.1.7/1. Retrieved May 29, 2011. 
+^ Section 3002 of the Digital Transition and Public Safety Act of 2005 amending the Communications Act of 1934, section 309(j)(14), codified at 47 U.S.C. § 309(j)(14).
+^ Bray, Hiawatha (2007-02-26). "FCC rule requires all new TVs to be digital". Boston Globe. Retrieved 2007-04-24. 
+^ a b "All-Digital Television Is Coming (And Sooner Than You Think!)". Retrieved 2008-03-23. 
+^ "FCC: Wireless Services: Lower 700 MHz". Federal Communications Commission. 2004-10-28. Retrieved 2007-05-09. 
+^ "FCC Announces Final Assignment of Digital Television Channels" (PDF) (Press release). FCC. August 6, 2007. Retrieved 2009-07-06. 
+^ Perenson, Melissa J. (2009-06-05). "How the Unknown Digital TV Transition Could Screw You". PC World. Retrieved 2009-06-06. 
+^ Bill S.2507 (2007), "DTV Border Fix Act of 2007" from OpenCongress.org
+^ Lung, Doug (2008-12-24). "President Signs 'Analog Night Light' bill". TV Technology. Retrieved 2009-05-03. 
+^ Tessler, Joelle (2009-01-10). "Obama Team Urges Delay in Digital TV Transition". The Charlotte Observer. Retrieved 2009-01-29. 
+^ Murawski, John (2009-01-15). "Digital TV Delay Urged". The News & Observer. Archived from the original on January 16, 2009. Retrieved 2009-01-15. 
+^ Davidson, Paul (May 8, 2008). "Wilmington, N.C., to test mandatory switch to digital TV". USA Today. Retrieved May 1, 2010. 
+^ a b c Svensson, Peter (2009-09-18). "Don't change that channel: DTV woes still abound". Associated Press. Retrieved 2010-10-19. 
+^ StarNewsOnline.com | Star-News | Wilmington, NC
+^ a b Albiniack, Paige. "Lessons From Wilmington". Television Broadcast. New Bay media. p. 8. Retrieved 2008-09-28. 
+^ FCC OKs digital workaround for DTV signal range problems, Matthew Lasar, ArsTechnica, November 11, 2008
+^ FCC order on distributed transmission, November 2008
+^ Home Theater News: FCC Green-Lights DTV Range Fix, Mark Fleischmann, November 17, 2008
+^ What is Digital Television? for the public, by DTV Answers. Accessed May 11, 2007.
+^ Eggerton, John (2008-02-18). "Ready or Not, Here Comes DTV". Broadcasting & Cable. Retrieved September 10, 2009. 
+^ Digital Television Transition: Implementation of the Converter Box Subsidy Program Is Under Way, but Preparedness to Manage an Increase in Subsidy Demand Is Unclear United States Government Accountability Office September 16, 2008
+^ Teletech DTV hotline less than helpful, former employee says, Rachel Abell, KVIA-TV ABC 7 El Paso, Texas, February 2009
+^ a b TV Converter Box Coupon Program Website – Frequently Asked Questions (FAQs)
+^ Boylan, Chris (August 21, 2007). "Panasonic DMR-EZ27 DVD Recorder". Audaud.com. Retrieved 2009-07-06. 
+^ "DTV REPORT ON COFDM AND 8-VSB PERFORMANCE" (PDF). Office of Engineering and Technology. FCC. September 30, 1999. Retrieved 2009-07-06. 
+^ How Well Does High VHF Work for DTV? TV Technology April 9, 2008 (Retrieved on January 1, 2009)
+^ Seventh Further Notice of Proposed Rulemaking Federal Communications Commission October 20, 2006 (Retrieved on January 29, 2009)
+^ "Now that the DTV transition is over, how will local stations perform?". Broadcast Engineering. Overland Park, KS: Penton Media, Inc. 2009-06-15. Retrieved 2009-06-30. 
+^ Wilkin, Jeff (June 19, 2009). "Some viewers not getting digital TV signal". The Daily Gazette. Schenectady, New York: John E.N. Hume III. Retrieved June 30, 2009. 
+^ "The Mystique of Channel 6", tvtechnology.com, 2009-02-26
+^ a b Jessell, Harry A. (2009-09-24). "Digital VHF Needs A Power Boost". TVNewsCheck. Retrieved 2009-10-15. 
+^ Digital Transition May Leave Some Without Signal Archived July 27, 2011, at the Wayback Machine., WMUR 9 New Hampshire, February 18, 2009
+^ Many rural TVs will go dark, not digital, David Migoya, Denver Post, February 10, 2009
+^ Low-power rural stations will continue in analog for several more years • RICHARD ECKE • Great Falls (Montana) Tribune • February 1, 2009
+^ Cogeco to replace channels:Syracuse feeds to be lost, MIKE KOREEN, Kingston Whig-Standard, January 2009
+^ "DTV.gov Frequently Asked Questions– Hawaii". 
+^ "Hawaii first state to make DTV switch". Honolulu Star-Bulletin. 2008-10-15. 
+^ Missoula Fox Affiliate Doesn't Go Digital – at Least Not Yet[permanent dead link]
+^ Today's Digital Upgrade Will Leave Some in Area without Fox for a While, Richard Ecke, Great Falls Tribune, June 12, 2009.
+^ "1997 FCC DTV Allocations". Doug Lung. 2005-02-10. 
+^ "FOX Coming to Max Media of Montana Stations". ABC Montana. June 3, 2009. Archived from the original on June 6, 2009. Retrieved June 30, 2009. 
+^ Could EXB Band Be Your New Home? RadioWorld September 10, 2008
+^ Portable Digital TVs Have Promise, But Need Work, Chicago Tribune, January 28, 2009
+^ Free The Airwaves.com/
+^ Federal Communications Commission (2008-05-16). "In the Matter of Promoting Diversification of Ownership in the Broadcasting Services". Retrieved 2008-08-26. Certain commenters have urged the Commission to give a "hard look" to a proposal that the Commission re-allocate TV Channels 5 and 6 for FM broadcasting  73 FR 28400, 28403
+^ FCC Public Notice DA-11-1428A1:
+
+Rcd PDF
+Microsoft Word document
+PDF format
+Plain Text format
+
+
+^ Industry Canada Advisory Letter - Moratorium on the Use of Television Channel 51
+^ A television commercial shown on American television featuring This Old House announces that this is true.
+^ "What is a set-top converter box?". Digital TV Facts. 2007. Retrieved 2008-03-23. 
+^ National Telecommunications and Information Administration– U.S. Department of Commerce (April 2007). "Preparing for the Digital Television Transition" (PDF). Retrieved 2007-05-12. 
+^ Official Digital Transition website Archived December 31, 2007, at the Wayback Machine.
+^ National Telecommunications & Information Administration
+^ "Rules to Implement and Administer a Coupon Program for Digital-to-Analog Converter Boxes, Section II, Part A, Paragraph 9" (PDF). Federal Register, Vol 72, No 50, March 15, 2007, Page 12,097–12,121. Archived from the original (PDF) on October 25, 2007. Retrieved 2007-12-23. 
+^ "Projections of the Number of Households and Families in the United States: 1995 to 2010" (PDF). U.S. Department of Commerce, Economics and Statistics Administration, Bureau of the Census. Retrieved 2007-12-23. 
+^ CEA: Press Release Detail– Press Release Detail
+^ Hart, Kim (2008-01-06). "TV Converter Program Runs Out of Funding". The Washington Post. p. D01. Retrieved 2008-01-06. 
+^ TV Converter Box Coupon Program Website– Locate a Converter Box Retailer near you
+^ DTV coupon program mainly benefits retailers, not consumers, by Scott J. Wallsten, September 16, 2008
+^ Hart, Kim (2009-01-24). "Senate Nears Deal To Delay Digital TV". The Washington Post. p. D02. Retrieved 2009-01-24. 
+^ a b c Broadcasting and Cable January 28, 2009 – DTV Delay Bill Fails To Pass In House
+^ Hart, Kim (January 27, 2009). "Senate Passes Bill to Delay Transition to Digital Television". The Washington Post. p. D01. 
+^ Hart, Kim (January 29, 2009). "House Kills Bill to Delay Switch to Digital TV". The Washington Post. p. D01. 
+^ Puzzanghera, Jim (January 29, 2009). "Delay in switch to digital TV is delayed". Los Angeles Times. 
+^ Digital TV Transition Delay: House Defeats Bill, February 17 Deadline Intact, Huffington Post, January 28, 2009
+^ Allen, JoAnne (2009-01-30). Cooney, Peter, ed. "US Senate approves bill to delay digital TV". Reuters UK. Retrieved 2009-05-03. 
+^ DTV Delay Act (Senate version), Retrieved on 2009-02-05.
+^ House Approves DTV Delay, Sends Bill to Obama, TV Week, February 4, 2009
+^ a b "House Votes to Postpone Transition to Digital TV". Fox News. February 4, 2009. Retrieved 2009-02-04. 
+^ Rabbit ears get reprieve with digital TV delay. CNN. February 4, 2009. Retrieved February 4, 2009.
+^ Eggerton, John (2009-02-09). "Obama Yet To Sign DTV Date Move Bill; Broadcasters Must Let FCC Of Their Transition Plans By Midnight". Multichannel News. Retrieved 2009-05-03. 
+^ a b Eggerton, John (2009-02-10). "Nearly 500 Stations Want To Make February 17 Digital Switch; FCC Will Make Transition Determinations; 191 Stations Have Already Changed Over". Multichannel News. Retrieved 2009-05-03. 
+^ a b All Full Power Television Stations by DMA, Indicating Those Terminating Analog Service on or before February 17, 2009
+^ "FCC Releases Rules For Implementing DTV Date Switch". Broadcasting & Cable. February 5, 2009. Retrieved February 6, 2009. 
+^ "Meredith Won't Pull Plug On Analog". Broadcasting & Cable. February 6, 2009. Retrieved 2009-02-06. 
+^ Multichannel News February 20, 2009 FCC: Stations Shouldn't Pull Analog Plug Until April 16 – Commission Releases Second Rules Order With Modifications For DTV Transition's Second Wave
+^ FCC Order 09-11
+^ Network-owned TV stations won't pull analog plug early, Jim Puzzanghera, Los Angeles Times, February 6, 2009
+^ Senate OKs 4-Month Delay to Digital TV Changeover, Associated Press, January 26, 2009
+^ Digital delay could strap local TV stations, Eric Deggans, St. Petersburg (FL) Times, January 27, 2009
+^ Local broadcasters look to proceed with digital transition, Dave Dreeszen, Sioux City Journal, February 1, 2009
+^ San Diego Stations to Keep February 17 Deadline, TV technology, February 2, 2009
+^ Hundreds of TV Stations to Proceed With Digital TV Switch, Peter Whoriskey and Kim Hart, Washington Post, February 10, 2009
+^ FCC list of full-service TV broadcasters; those operating digital-only on or before 2/17 indicated in red.
+^ FCC public notice FCC 09-7, FCC Requires Public Interest Conditions for Certain Analog TV Terminations on February 17, 2009
+^ FCC Says Some Stations Can't Switch February 17, Kim Hart, Washington Post, February 12, 2009
+^ FCC list of stations in markets losing all major commercial networks on 2/17
+^ "Digital TV transition becoming more common in Tampa-St. Pete". Tampa Bay Business Journal. 2009-04-16. Retrieved 2009-06-25. 
+^ Multichannel News February 12, 2009 FCC: 123 Stations Pose 'Significant' Risk If They End Analog February 17 – Agency Requires Some to Meet Additional Requirements to Go All-Digital
+^ FCC Public Order February 11, 2009
+^ Multichannel News February 12, 2009 FCC Okays 368 To Make February 17 DTV Switch – Another 123 Can't Make Switch Unless Certain Conditions Met
+^ Multichannel News February 13, 2009 FCC: 53 'At Risk' Stations Can Switch February 17 – Join 368 Already Cleared To End Analog Signals
+^ Multichannel News February 16, 2009 FCC: 36% Of Stations Will Make Switch By Original DTV Hard Date – 421 Stations Pulling Analog Signals Tonight
+^ Multichannel News January 22, 2009 Senator Rockefeller Unveils New Amended DTV Date Bill
+^ Multichannel News January 29, 2009 House Passes 800 Billion Stimulus Package Replete With Broadband Provisions
+^ Calmes, Jackie (January 29, 2009). "House Passes Stimulus Plan Despite G.O.P. Opposition". New York Times. Retrieved May 1, 2010. 
+^ David Espo. "Stimulus bill survives Senate test". Associated Press via Atlanta Journal-Constitution. 
+^ New York Times Deal Struck on $789 Billion Stimulus. New York Times. February 11, 2009
+^ CNN.com February 17, 2009 Stimulus: Now for the hard part
+^ Multichannel News February 11, 2009 Parties Find Compromise On Stimulus Package– Bill Keeps $650 Million For DTV Converter Box Coupon Program
+^ DTV converter boxes could run out, industry warns, WJLA-TV, February 6, 2009
+^ FCC RFQ for DTV Transition
+^ FCC Awarded Contracts
+^ Multichannel News May 1, 2009 3.1% Of U.S. Remain Completely Unready For DTV Transition: Nielsen
+^ Eggerton, John (2009-06-01). "NAB: 1.75 Million Unready for DTV Transition". Broadcasting & Cable. Retrieved 2009-06-17. 
+^ a b c Grotticelli, Michael (June 22, 2009). "DTV Transition Not So Smooth in Some Markets". Broadcast Engineering. Archived from the original on June 28, 2009. Retrieved 2009-06-24. 
+^ "TV Stations' Digital Conversion Confuses 700,000". Fox News. 2009-06-13. Retrieved 2009-06-17. 
+^ Eggerton, John (2009-06-24). "Nielsen: 2.1 Million Homes Still Unready After DTV Transition". Multichannel News. Retrieved 2009-06-25. 
+^ Eggerton, John (2009-07-01). "Nielsen: DTV Unready Homes Drop to 1.7 Million". Broadcasting & Cable. Retrieved 2009-07-02. 
+^ Eggerton, John (2009-07-16). "Nielsen: Month After DTV Switch, 1.3% of Country Unready for Digital". Broadcasting & Cable. Retrieved 2009-07-17. 
+^ Eggerton, John (2009-07-30). "Nielsen: 98.9% of U.S. Homes Can Get DTV Signal". Broadcasting & Cable. Retrieved 2009-08-03. 
+^ Tanklefsky, David (2009-09-08). "Nielsen: 99.4% of U.S. Homes Can Receive Digital Signals". Broadcasting & Cable. Retrieved September 10, 2009. 
+^ a b Eggerton, John (2009-07-02). "FCC Considers DTV After-Action Report". Broadcasting & Cable. Retrieved 2009-07-08. 
+^ Eggerton, John (2009-06-17). "House Version of Sanders DTV Bill Introduced". Broadcasting & Cable. Retrieved 2009-07-08. 
+^ H.R. 2867: Digital TV Transition Fairness Act, govtrack.us, Retrieved on 2009-07-16.
+^ Hart, Kim (2009-06-17). "2 D.C. Stations Lost to Viewers in Digital TV Transition". The Washington Post. p. A16. 
+^ Eggerton, John (2009-06-17). "FCC Spokesman: VHF Issues Solvable". Broadcasting & Cable. 
+^ a b c Dickson, Glen (2009-11-02). "KUAC Makes Unusual Digital Switch". Broadcasting & Cable. Retrieved 2009-11-05. 
+^ Wong, Wailin (2009-06-17). "DTV Transition Problems Linger; FCC Beefs Up Role". Chicago Tribune. Retrieved 2009-06-24. 
+^ Eggerton, John (2009-06-17). "Weigel's Analog Nightlight Could Help Chicago Stations With Reception Issues". Broadcasting & Cable. 
+^ Fernandez, Bob (2009-06-17). "FCC Steps in to Fix Philadelphia Digital TV Problems". Philadelphia Inquirer. Archived from the original on June 21, 2009. Retrieved 2009-06-24. 
+^ a b Eggerton, John (2009-06-29). "Boise Station Gets Power Boost". Broadcasting & Cable. Retrieved 2009-07-01. 
+^ Eggerton, John (2009-08-17). "FCC Continues Working On DTV-Related Reception Issues". Broadcasting & Cable. Retrieved 2009-08-21. 
+^ Eggerton, John (2009-08-17). "FCC Continues Working On DTV-Related Reception Issues". Broadcasting & Cable. Retrieved 2009-08-21. 
+^ Eggerton, John (2009-10-29). "FCC Allowing WGHP To Move Signal To Pre-DTV Transition Channel". Broadcasting & Cable. Retrieved 2009-10-30. 
+^ Eggerton, John (2009-06-30). "Genachowski to Staff: FCC at Crossroads". Broadcasting & Cable. Retrieved 2009-07-01. 
+^ Eggerton, John (2009-07-11). "Copps: DTV Not Done". Broadcasting & Cable. Retrieved 2010-02-11. 
+^ FCC Sets Deadlines for LPTV, TV Translator and Class A Stations To Convert to Digital - And Gives Hints When Television Spectrum May Be Reclaimed for Broadband Broadcast Law Blog July 19, 2011
+^ "Community Broadcasters Association to Shutter". Broadcasting & Cable. 2009-08-13. Retrieved 2009-08-14. 
+
+
+See also[edit]
+
+Coupon-eligible converter box
+
+External links[edit]
+
+PBS Story DTV from Chicago Affiliate (WTTW)
+DTVAnswers.com: What you need to know about the June 12, 2009 switch to DTV.
+National Association of Broadcasters
+DTV Transition
+Consumer oriented FCC site
+FCC regulatory information on the DTV transition
+Federal Coupon Program
+Full Text of the DTV Delay Act from WhiteHouse.gov
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Telecommunications
+
+
+
+History
+
+
+
+
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Drums
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Internet
+Mass media
+Mobile phone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Smartphone
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+Timeline of communication technology
+Undersea telegraph line
+Videoconferencing
+Videophone
+Videotelephony
+Whistled language
+
+
+
+
+
+Pioneers
+
+
+
+Edwin Howard Armstrong
+John Logie Baird
+Paul Baran
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Vint Cerf
+Claude Chappe
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Erna Schneider Hoover
+Charles K. Kao
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Antonio Meucci
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+
+
+
+
+
+Transmission
+media
+
+
+
+Coaxial cable
+Free-space optical communication
+Molecular communication
+Optical fiber
+Radio waves
+Transmission line
+
+
+
+
+
+Network topology
+and switching
+
+
+
+Links
+Nodes
+Terminal node
+Network switching (circuit
+packet)
+Telephone exchange
+
+
+
+
+
+Multiplexing
+
+
+
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+
+
+
+
+
+Networks
+
+
+
+ARPANET
+BITNET
+Cellular network
+Computer
+CYCLADES
+Ethernet
+FidoNet
+Internet
+ISDN
+LAN
+Mobile
+NGN
+NPL network
+Public Switched Telephone
+Radio
+Telecommunications equipment
+Television
+Telex
+WAN
+Wireless
+World Wide Web
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_television_transition_in_the_United_States&oldid=800834374"					
+Categories: Digital televisionDigital television in the United StatesHistory of television in the United StatesUnited States proposed federal legislation111th United States CongressHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from September 2017Articles with permanently dead external linksUse mdy dates from September 2011Wikipedia articles in need of updating from December 2016All Wikipedia articles in need of updatingAll articles with unsourced statementsArticles with unsourced statements from August 2012Articles with unsourced statements from April 2014 

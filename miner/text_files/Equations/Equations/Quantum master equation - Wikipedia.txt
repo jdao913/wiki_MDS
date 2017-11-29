@@ -1,0 +1,39 @@
+Quantum master equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For the quantum master equation in quantum field theory, see Batalin–Vilkovisky formalism.
+A quantum master equation is a generalization of the idea of a master equation. Rather than just a system of differential equations for a set of probabilities (which only constitutes the diagonal elements of a density matrix), quantum master equations are differential equations for the entire density matrix, including off-diagonal elements. A density matrix with only diagonal elements can be modeled as a classical random process, therefore such an "ordinary" master equation is considered classical. Off-diagonal elements represent quantum coherence which is a physical characteristic that is intrinsically quantum mechanical.
+A formally exact quantum master equation is the Nakajima–Zwanzig equation, which is in general as difficult to solve as the full quantum problem.
+The Redfield equation and Lindblad equation are examples of approximate Markovian quantum master equations. These equations are very easy to solve, but are not generally accurate.
+Some modern approximations based on quantum master equations, which show better agreement with exact numerical calculations in some cases, include the polaron transformed quantum master equation and the variational polaron transformed quantum master equation.[1]
+Numerically exact approaches to the kinds of problems to which master equations are usually applied include numerical Feynman integrals and quantum Monte Carlo, DMRG and NRG, MCTDH, and Tanimura and Kubo's hierarchical equations of motion.
+See also[edit]
+
+Open quantum system
+Quantum dynamics
+Quantum coherence
+Differential equation
+Master equation
+Lindblad equation
+Nakajima-Zwanzig equation
+Feynman integral
+
+References[edit]
+
+
+
+^ D. McCutcheon, N. S. Dattani, E. Gauger, B. Lovett, A. Nazir (25 August 2011). "A general approach to quantum dynamics using a variational master equation: Application to phonon-damped Rabi rotations in quantum dots". Physical Review B. 84: 081305R. doi:10.1103/PhysRevB.84.081305. CS1 maint: Multiple names: authors list (link)
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Quantum_master_equation&oldid=773819531"					
+Categories: EquationsHidden categories: CS1 maint: Multiple names: authors list 

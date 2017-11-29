@@ -1,0 +1,401 @@
+Channel 1 (North American TV) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In North American broadcast television frequencies, channel 1 is a former broadcast (over-the-air) television channel. During the experimental era of TV operation, Channel 1 was moved around the lower VHF spectrum repeatedly, with the entire band displaced upward at one point due to an early 40 MHz allocation for the FM broadcast band.
+FM was moved to its current frequencies in 1946. TV Channel 1's last location was 44 to 50 MHz.
+Land Mobile Radio and television broadcasters shared the same frequencies until 1948. This shared allocation was eventually found to be unworkable, so the FCC reallocated the Channel 1 frequencies for public safety and land mobile use and assigned TV channels 2-13 exclusively to broadcasters. Aside from the shared frequency issue, this part of the VHF band was (and to a some extent still is) prone to higher levels of radio-frequency interference (RFI) than even VHF 2 (System M).
+Neither Canada nor Mexico allocated television frequencies until 1946, so the historical Channel 1 (System M) is exclusively a US allocation artifact.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Community television
+1.2 A shared (non-primary) allocation
+1.3 Modern allocations 43–50 MHz
+
+
+2 Channel 1 in other NTSC-using countries
+3 Historic US FCC allocation of VHF band
+4 Cable television interference issues
+5 Other reassigned channels
+6 Current uses
+
+6.1 Digital television
+6.2 Cable television
+6.3 Satellite television
+6.4 NTSC-J
+
+
+7 Notes
+8 References
+9 External links
+
+
+
+History[edit]
+Channel 1 was allocated at 44–50 MHz between 1937 and 1940. Visual and aural carrier frequencies within the channel fluctuated with changes in overall TV broadcast standards prior to the establishment of permanent standards by the National Television Systems Committee.
+In 1940, the FCC reassigned 44–50 MHz to the FM broadcast band. Television's channel 1 frequency range was moved to 50–56 MHz (see table below). Experimental television stations in New York, Chicago, and Los Angeles were affected.[1]
+Commercial TV allocations were made by the Federal Communications Commission (FCC) under the NTSC system on July 1, 1941. Channel 1 was located at 50–56 MHz, with visual carrier at 51.25 MHz and aural carrier at 55.75 MHz. At the same time, the spectrum from 42 to 50 MHz was allocated to FM radio. Several commercial and experimental television stations operated on the 50–56 MHz Channel 1 between 1941 and 1946, including one station, WNBT (now WNBC, channel 4) in New York City, which had a full commercial operating license.
+In the first postwar allocation in the spring of 1946, Channel 1 was moved back to 44–50 MHz, with visual at 45.25 MHz and aural at 49.75 MHz. FM was moved to its current 88–108 MHz band. But WNBT and all other existing stations were moved to other channels, because the final Channel 1 was reserved for low power community stations covering a limited area. While a handful of construction permits were issued for this final version of Channel 1, no station ever actually broadcast on it before it was removed from use in 1948.
+When the FCC initially allocated broadcast television frequencies, channel 1 was logically the first channel. These U.S. TV stations originally broadcast on the 50–56 MHz channel 1
+
+W2XBS/WNBT (today's WNBC), New York City (1941–1946), reassigned in 1946 to channel 4;
+W6XAO/KTSL (today's KCBS-TV), Los Angeles, reassigned post-war to channel 2;
+W9XZV Chicago, Zenith's experimental station, billed as the first all-electric TV station in 1939.[2] Reassigned post-war to Channel 2,[3] it broadcast an early form of monochrome pay-TV in 1951 as K2XBS Phonevision and conducted early color television experiments before ultimately going dark in 1953.[4] Its transmitters were donated to WTTW (PBS 11 Chicago)[5] and its channel 2 assignment was taken by CBS O&O WBBM-TV.
+KARO, Riverside, California; never began broadcasting, no current VHF allocation;
+WSBE, South Bend, Indiana; never began broadcasting on channel 1, but was reallocated to UHF channel 34 in the 1952 revised channel allocation table, where it went on the air as WSBT-TV that year. As part of a consolidation of the Elkhart and South Bend communities into a single television market, WSBT-TV was moved in 1958 to UHF channel 22, where it remains as a digital CBS affiliate today; channel 34 became the home of PBS member station WNIT. No full-service VHF TV allocations were made available to South Bend due to its proximity to Chicago, making the city a UHF island.
+
+By September 1945, additional stations temporarily granted construction permits to operate on channel 1 included:
+
+W8XCT (WLW) Cincinnati, Ohio ultimately built on channel 4 as commercial station WLWT, later moved to channel 5.
+W9RUI Iowa City, Iowa held an unbuilt construction permit, and additionally given a channel 12 assignment.[6]
+W8XGZ Charleston, West Virginia, licensed to a chemical company, also held a channel one construction permit; there is no indication the stations ever got on the air.[7]
+
+See also list of experimental television stations for additional channel one pioneers.
+Community television[edit]
+In 1946, prior to cable TV and the invention of public-access television channels, the FCC decided to reserve channel 1 for low-power Community television stations, and moved existing channel 1 stations to higher frequencies. Community television stations covered smaller cities and were allowed to use less radiated power. None of these stations were built before the FCC imposed a freeze on all television station construction permits in mid-1948, and removed the channel one allocations.
+A shared (non-primary) allocation[edit]
+From 1945 to 1948 TV stations in the U.S. shared Channel 1 and other channels with fixed and mobile services. The FCC decided in 1948 that a primary (non-shared) allocation of the VHF radio spectrum was needed for television broadcasting. Except for selected VHF frequencies in Alaska and Hawaii (and some overseas territories) the FCC-administered VHF band is primarily allocated for television broadcasting to this day.
+The FCC in May 1948 formally changed the rules on TV band allocations based on propagation knowledge gained during the era of shared-user allocations. The 44–50 MHz band used by Channel 1 was replaced by lower-power narrowband users.
+Channel 1 was reassigned to fixed and mobile services (44–50 MHz) in order to end their former shared use of other VHF TV frequencies. Rather than renumber the TV channel table, it was decided to merely remove Channel 1 from the table.
+Modern allocations 43–50 MHz[edit]
+As of September 2000, the Federal Spectrum Use of the band (which is regulated by the NTIA and not the FCC) [8] was as follows:
+
+43.69–46.6 Non-Military Land Mobile Radio (LMR):
+Primarily used by Federal agencies for mutual aid response with local communities.
+Military LMR: Used by the military services for tactical and training operations on a non-interference basis. (Band is otherwise non-government exclusive).
+46.6–47 Govt. FIXED MOBILE Allocation:
+Non-Military LMR: Extensive use of this band is for contingency response to various national disasters. Others uses are for national resources management, law enforcement, tornado tracking, and various meteorological research support.
+Military LMR: This band is used primarily for tactical and training operations by U.S. military units for combat net radio operations that provide command and control for combat, combat support, and combat service support units. Frequencies also used for air-to-ground communications for military close air support requirements as well as some other tactical air-ground and air-air communications.
+47–49.6 Experimental:
+Used for experimental research to observe and measure currents in harbor areas in support of vessel safety.
+Military LMR: Used by the military services for tactical and training operations on a non-interference basis. (Band is otherwise non-government exclusive).
+49.6–50 Govt. FIXED MOBILE Allocation:
+Non-Military LMR: This band is used extensively to support contingencies or ecological emergencies, some public safety requirements, MARS system, and air-quality measurements.
+Experimental: Research is performed in various regions of the atmosphere as well as experimental development of portable space orbital debris ground radars.
+Military LMR: This band is used primarily for tactical and training operations by U.S. military units for combat net radio operations that provide command and control for combat, combat support, and combat service support units. Frequencies also used for air-to-ground communications for military close air support requirements as well as some other tactical air-ground and air-air communications.
+
+FCC (NON-Federal) allocations for the band:
+
+Primarily Land Mobile use from 43-46.6.
+46.61-46.89 is used by older cordless phone base stations. The handsets use the 49.61 - 49.89 range for transmitting to the base unit.
+47.0-49.60 is used by LMR and then the cordless phone range. Early experiments with meteor scatter one way messaging was in the 49 - 50 range back in the early 1990s but it no longer exists due to reliable and cheaper satellite communications.
+
+Channel 1 in other NTSC-using countries[edit]
+Canada did not start regular television broadcasts until after the US had decommissioned Channel 1 (44–50 MHz) for television use; CBFT and CBLT signed on in 1952. This TV channel was never used in Latin America, South Korea and the Philippines as TV broadcasting did not start in these areas until the 1950s.
+Historic US FCC allocation of VHF band[edit]
+
+
+Channel
+1938–1940
+1940–1946
+1946–1948
+since 1948
+
+
+ 
+Lower edge
+Upper edge
+Lower edge
+Upper edge
+Lower edge
+Upper edge
+Lower edge
+Upper edge
+
+
+1
+44
+50
+50
+56
+44
+50
+ 
+ 
+
+
+2
+50
+56
+60
+66
+54
+60
+54
+60
+
+
+3
+66
+72
+66
+72
+60
+66
+60
+66
+
+
+4
+78
+84
+78
+84
+66
+72
+66
+72
+
+
+5
+84
+90
+84
+90
+76
+82
+76
+82
+
+
+6
+96
+102
+96
+102
+82
+88
+82
+88
+
+
+7
+102
+108
+102
+108
+174
+180
+174
+180
+
+
+8
+156
+162
+162
+168
+180
+186
+180
+186
+
+
+9
+162
+168
+180
+186
+186
+192
+186
+192
+
+
+10
+180
+186
+186
+192
+192
+198
+192
+198
+
+
+11
+186
+192
+204
+210
+198
+204
+198
+204
+
+
+12
+204
+210
+210
+216
+204
+210
+204
+210
+
+
+13
+210
+216
+230
+236
+210
+216
+210
+216
+
+
+14
+234
+240
+236
+242
+ 
+ 
+ 
+ 
+
+
+15
+240
+246
+258
+264
+ 
+ 
+ 
+ 
+
+
+16
+258
+264
+264
+270
+ 
+ 
+ 
+ 
+
+
+17
+264
+270
+282
+288
+ 
+ 
+ 
+ 
+
+
+18
+282
+288
+288
+294
+ 
+ 
+ 
+ 
+
+
+19
+288
+294
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Cable television interference issues[edit]
+The use of 45.75 MHz as an intermediate frequency within television receivers became commonplace after UHF reception became an option in 1953. Channel 1's signal on this frequency (over the air, or on analogue cable) could create interference internally within TV's.
+Most cable systems use frequencies below 54 MHz (VHF TV 2) for communication back to the cable provider from cable modems and digital apparatus, so any "Cable 1" channel needs to avoid operation on the original VHF Channel 1 frequencies from the pre-1948 bandplans. As such, "cable 1" is not related to the original 44–50 MHz VHF channel except in name. It operates always at some higher frequency - often with channels 00 and 01 merely aliased to 98/99 or 100/101.
+HRC and IRC systems increase the spacing between channels 4 and 5 to a non-standard 6 MHz, inserting "cable 1" between channels four and five. This non-standard spacing is rarely used, is not compatible with all television receivers and has the effect of pushing channel six partially into the FM broadcast band.
+Other reassigned channels[edit]
+Channel 1 is not the only "missing" channel. In most countries, no stations are assigned to UHF Channel 37 (608 to 614 MHz), which is reserved for radio astronomy. It remains on TV sets and tuners. There are a few Channel 37 stations operating in countries such as the Dominican Republic, Trinidad & Tobago and The Philippines.
+Other channels have been removed and reassigned as well, but only from the higher UHF bands. Channels 14 to 83 (except 37), from 470 to 890 MHz, were originally added by the FCC in 1952 for the rapidly expanding TV service in the United States.[9] In 1983, channels 70 to 83 (806 to 890 MHz) were removed for AMPS mobile phone services (leading to one side of some conversations being heard on older TV sets on those channels). On June 12, 2009, channels 52 to 69 (698 to 806 MHz) were removed and will be reallocated for other uses. These same channels were reallocated in Canada on August 31, 2011. In South Korea and the Philippines, Channels 60 to 69 are no longer used. In Brazil, these channels are used only for linking[clarification needed] (it will be phased out in the future[10]) or government-based networks.[NB 1]
+
+On August 22, 2011, the United States' Federal Communications Commission announced a freeze on all future applications for broadcast stations requesting to use channel 51,[11] to prevent adjacent-channel interference to the A-Block of the 700 MHz band. Later that year (on December 16, 2011), Industry Canada and the CRTC followed suit in placing a moratorium on future television stations using Channel 51 for broadcast use, to prevent adjacent-channel interference to the A-Block of the 700 MHz band.[12]
+
+In Europe, other recently abandoned TV channels are being used for DAB digital radio, in VHF band III.
+Current uses[edit]
+In the 1990s, it was decided that digital television would be limited to the current channels Channel 2 through 51, so that another 18 channels (Channels 52 to 69, 698 to 806 MHz) could be auctioned for private use by mobile phone and wireless network providers; four of the channels were to be reserved for emergency services such as police radios. Renumbering in this case is not relevant, as virtual channels can maintain the original analog TV station brand number, although the station transmits on another channel.
+Digital television[edit]
+The ATSC standard allows for a major virtual channel number from 1 to 99, followed by a separator ('.' or '-') and a digital subchannel number from 1 to 99 (for broadcast TV) or 1 to 999 (datacasting or cable TV). As such, it does not preclude the creation of a virtual channel 1.1 or a virtual channel 37.1:
+
+"The major_channel_number shall be between 1 and 99. The value of major_channel_number shall be set such that in no case is a major_channel_number / minor_channel_number pair duplicated within the TVCT."[13]
+
+However, the specification does not define any criteria to determine whom (if anyone) could ultimately be assigned the 1.1 virtual channel series for over-the-air broadcast in a local community; it merely defines a procedure to allocate virtual channels 02–69 based on holders of the corresponding (former) analogue NTSC licenses and designates virtual channels 70–99 for possible use to carry additional, unrelated programming via the facilities of these same broadcasters. (99 was used briefly by the now-defunct USDTV, for instance, although such applications are rare.)
+KAXT-LD of San Jose, California, won permission to use digital virtual channel 1.x, effective September 1, 2009, on technical grounds, asserting that existing virtual channel numbering (22.x) conflicted with that employed by educational broadcaster KRCB Cotati.
+Cable television[edit]
+Cable television channel numbering is at the discretion of the cable system operator. North American cable television frequencies (analog System M) include a formally defined and allocated Channel 1. Cable TV's use of Channel 1 is rare and its frequency assignment is sometimes inconsistent.
+Digital cable subscribers in many areas, such as those serviced by Comcast and Charter Communications, can find video on demand content at Channel 1. The TV Guide Network is also often found on a cable system's Channel 1.
+Cable subscribers in the New York City area receive local news channel NY1 on channel one (actually 101), served by Time Warner Cable and Cablevision. Rapid City, South Dakota NBC affiliate KNBN has also used a "channel one" brand and logo, based on its former cable converter channel position (over-the-air, KNBN is UHF channel 21, and KNBN is now carried by area cable systems on channel 10).
+Satellite television[edit]
+Satellite television channel assignments depend on the receiver. Most FTA receivers will by default assign the first channel located during an initial signal scan as "Channel 0001" while package receivers sold by individual pay-TV providers will often use the SID, a virtual identifier sent as part of the satellite signal, as a channel number.
+The original Dish Network DishPlayer PVR (model 7100/7200) displayed a PTV Services menu listing recorded videos and upcoming scheduled recordings if tuned to channel 1. This menu is internal to the personal video recorder and does not correspond to a broadcast signal.[14]
+NTSC-J[edit]
+Japanese public broadcaster NHK General TV broadcasts on Channel 1 in Tokyo and other cities. The Japanese Channel 1 is assigned to the frequency 90 to 96 MHz, just above the Japanese FM band which is 76 to 90 MHz. Frequencies corresponding to Japan's channel 1 through 3 (90–108 MHz) are used primarily for FM radio broadcasting (88–108 MHz) outside Japan and correspond to cable 95–97 in North America.
+Several commercial television stations operate on channel 1: HBC in Hokkaido, TBC in Miyagi, MBC in Kagoshima, KNB in Toyama, Tokai TV in the Tokai region, NKT in the San-In region, JRT in Tokushima and KBC in Fukuoka. On digital television, their remote control key is 1 for historical reasons.
+Notes[edit]
+
+
+
+^ (in Portuguese) pt:Anexo:Lista de canais da televisão digital brasileira#São Paulo 2
+
+
+
+References[edit]
+
+
+^ "Threat to Television Is Feared in Frequency Modulation Order", New York Times, May 21, 1940, p. 23. "Gives Du Mont Right to Television Here", New York Times, July 21, 1940, p. 28.
+^ http://www.fundinguniverse.com/company-histories/Zenith-Electronics-Corporation-Company-History.html
+^ "Zenith Enters FM and TV Broadcasting", The Zenith Story (1954).
+^ http://www.chicagotelevision.com/timeline.htm
+^ CompassRose.org: WBKB Chicago
+^ "Television stations authorized by the FCC, January 1, 1941". RCA Radio Travel-Log. 1941. Archived from the original on August 18, 2012. Retrieved August 12, 2012. 
+^ http://www.anarc.org/wtfda/channel1.htm
+^ "Archived copy". Archived from the original on 2009-10-18. Retrieved 2009-11-08. 
+^ "TV Thaw", Time, April 21, 1952.
+^ [1]
+^ FCC Public Notice DA-11-1428A1:
+
+Rcd PDF
+Microsoft Word document
+PDF format
+Plain Text format
+
+
+^ Industry Canada Advisory Letter - Moratorium on the Use of Television Channel 51
+^ ATSC standard A/65C, page 32, Advanced Television Systems Committee, May 2006.
+^ "Archived copy". Archived from the original on 2008-12-06. Retrieved 2008-12-03. 
+
+
+External links[edit]
+
+What ever happened to Channel 1? - J. W. Reiser, based on a Radio-Electronics article of the same name by David A. Ferre
+Why is there no Channel One on television? - Cecil Adams
+What became of Channel 1? - Jeff Miller
+What Happened to Channel 1? - Snopes.com
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Channel_1_(North_American_TV)&oldid=810382319"					
+Categories: Television in the United StatesTV stations by channel numberHidden categories: Articles with Portuguese-language external linksWikipedia articles needing clarification from June 2016 

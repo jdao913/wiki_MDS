@@ -1,0 +1,281 @@
+Clausius–Mossotti relation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+It has been suggested that this article be merged with Lorentz–Lorenz equation. (Discuss) Proposed since April 2016.
+
+
+
+The Clausius–Mossotti relation expresses the dielectric constant (relative permittivity) εr of a material in terms of the atomic polarizibility α of the material's constituent atoms and/or molecules, or a homogeneous mixture thereof. It is named after Ottaviano-Fabrizio Mossotti and Rudolf Clausius. It is equivalent to the Lorentz–Lorenz equation. It may be expressed as:[1][2]
+
+
+
+
+
+
+
+
+ϵ
+
+
+r
+
+
+
+−
+1
+
+
+
+ϵ
+
+
+r
+
+
+
++
+2
+
+
+
+=
+
+
+
+N
+α
+
+
+3
+
+ϵ
+
+0
+
+
+
+
+
+
+
+{\displaystyle {\frac {\epsilon _{\mathrm {r} }-1}{\epsilon _{\mathrm {r} }+2}}={\frac {N\alpha }{3\epsilon _{0}}}}
+
+
+where
+
+
+
+
+
+
+ϵ
+
+r
+
+
+=
+ϵ
+
+/
+
+
+ϵ
+
+0
+
+
+
+
+{\displaystyle \epsilon _{r}=\epsilon /\epsilon _{0}}
+
+ is the dielectric constant of the material
+
+
+
+
+
+ϵ
+
+0
+
+
+
+
+{\displaystyle \epsilon _{0}}
+
+ is the permittivity of free space
+
+
+
+
+N
+
+
+{\displaystyle N}
+
+ is the number density of the molecules (number per cubic meter), and
+
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+ is the molecular polarizability in SI-units (C·m2/V).
+
+In the case that the material consists of a mixture of two or more species, the right hand side of the above equation would consist of the sum of the molecular polarizability contribution from each species, indexed by i in the following form:
+
+
+
+
+
+
+
+
+ϵ
+
+
+r
+
+
+
+−
+1
+
+
+
+ϵ
+
+
+r
+
+
+
++
+2
+
+
+
+=
+
+∑
+
+i
+
+
+
+
+
+
+N
+
+i
+
+
+
+α
+
+i
+
+
+
+
+3
+
+ϵ
+
+0
+
+
+
+
+
+
+
+{\displaystyle {\frac {\epsilon _{\mathrm {r} }-1}{\epsilon _{\mathrm {r} }+2}}=\sum _{i}{\frac {N_{i}\alpha _{i}}{3\epsilon _{0}}}}
+
+
+In the CGS system of units the Clausius–Mossotti relation is typically rewritten to show the molecular polarizability volume 
+
+
+
+
+α
+′
+
+=
+α
+
+/
+
+(
+4
+π
+
+ε
+
+0
+
+
+)
+
+
+{\displaystyle \alpha '=\alpha /(4\pi \varepsilon _{0})}
+
+ which has units of volume (m3).[2] Confusion may arise from the practice of using the shorter name "molecular polarizability" for both 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+ and 
+
+
+
+
+α
+′
+
+
+
+{\displaystyle \alpha '}
+
+ within literature intended for the respective unit system.
+References[edit]
+
+C.J.F. Böttcher, Theory of electric polarization, Elsevier Publishing Company, 1952
+
+
+
+
+^ Rysselberghe, P. V. (January 1932). "Remarks concerning the Clausius–Mossotti Law". J. Phys. Chem. 36 (4): 1152–1155. doi:10.1021/j150334a007. 
+^ a b Atkins, Peter; de Paula, Julio (2010). "Chapter 17". Atkins' Physical Chemistry. Oxford University Press. pp. 622–629. ISBN 978-0-19-954337-3. 
+
+
+
+
+R. Clausius, "Die Mechanische Behandlung der Electricität", Vieweg+Teubner Verlag; Wiesbaden, 1879, ISBN 978-3-663-19891-8, https://link.springer.com/book/10.1007%2F978-3-663-20232-5
+O. F. Mossotti, Discussione analitica sull’influenza che l’azione di un mezzo dielettrico ha sulla distribuzione dell’elettricità alla superficie di più corpi elettrici disseminati in esso, Memorie di Mathematica e di Fisica della Società Italiana della Scienza Residente in Modena, vol. 24, p. 49-74 (1850).
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Clausius–Mossotti_relation&oldid=795281008"					
+Categories: ElectrodynamicsElectromagnetismEquationsConcepts in physicsHidden categories: Articles to be merged from April 2016All articles to be merged 

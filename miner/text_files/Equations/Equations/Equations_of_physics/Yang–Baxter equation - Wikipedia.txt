@@ -1,0 +1,1044 @@
+Yang–Baxter equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (October 2009) (Learn how and when to remove this template message)
+
+
+
+In physics, the Yang–Baxter equation (or star-triangle relation) is a consistency equation which was first introduced in the field of statistical mechanics. It depends on the idea that in some scattering situations, particles may preserve their momentum while changing their quantum internal states. It states that a matrix 
+
+
+
+R
+
+
+{\displaystyle R}
+
+, acting on two out of three objects, satisfies
+
+
+
+
+
+(
+R
+⊗
+
+1
+
+)
+(
+
+1
+
+⊗
+R
+)
+(
+R
+⊗
+
+1
+
+)
+=
+(
+
+1
+
+⊗
+R
+)
+(
+R
+⊗
+
+1
+
+)
+(
+
+1
+
+⊗
+R
+)
+
+
+{\displaystyle (R\otimes \mathbf {1} )(\mathbf {1} \otimes R)(R\otimes \mathbf {1} )=(\mathbf {1} \otimes R)(R\otimes \mathbf {1} )(\mathbf {1} \otimes R)}
+
+
+
+In one dimensional quantum systems, 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ is the scattering matrix and if it satisfies the Yang–Baxter equation then the system is integrable. The Yang–Baxter equation also shows up when discussing knot theory and the braid groups where 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ corresponds to swapping two strands. Since one can swap three strands two different ways, the Yang–Baxter equation enforces that both paths are the same.
+
+
+
+
+Illustration of Yang Baxter Equation
+
+
+It takes its name from independent work of C. N. Yang from 1968, and R. J. Baxter from 1971.
+
+
+
+Contents
+
+
+1 Parameter-dependent Yang–Baxter equation
+2 Parameter-independent Yang–Baxter equation
+3 See also
+4 References
+5 External links
+
+
+
+Parameter-dependent Yang–Baxter equation[edit]
+Let 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ be a unital associative algebra. The parameter-dependent Yang–Baxter equation is an equation for 
+
+
+
+R
+(
+u
+)
+
+
+{\displaystyle R(u)}
+
+, a parameter-dependent invertible element of the tensor product 
+
+
+
+A
+⊗
+A
+
+
+{\displaystyle A\otimes A}
+
+ (here, 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ is the parameter, which usually ranges over real numbers ℝ in the case of an additive parameter, or over positive real numbers ℝ+ in the case of a multiplicative parameter). The Yang–Baxter equation is
+
+
+
+
+
+
+R
+
+12
+
+
+(
+u
+)
+ 
+
+R
+
+13
+
+
+(
+u
++
+v
+)
+ 
+
+R
+
+23
+
+
+(
+v
+)
+=
+
+R
+
+23
+
+
+(
+v
+)
+ 
+
+R
+
+13
+
+
+(
+u
++
+v
+)
+ 
+
+R
+
+12
+
+
+(
+u
+)
+,
+
+
+{\displaystyle R_{12}(u)\ R_{13}(u+v)\ R_{23}(v)=R_{23}(v)\ R_{13}(u+v)\ R_{12}(u),}
+
+
+
+for all values of 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ and 
+
+
+
+v
+
+
+{\displaystyle v}
+
+, in the case of an additive parameter. At some value of the parameter 
+
+
+
+R
+(
+u
+)
+
+
+{\displaystyle R(u)}
+
+ can turn into one dimensional projector, this gives rise to quantum determinant. For multiplicative parameter Yang–Baxter equation is
+
+
+
+
+
+
+R
+
+12
+
+
+(
+u
+)
+ 
+
+R
+
+13
+
+
+(
+u
+v
+)
+ 
+
+R
+
+23
+
+
+(
+v
+)
+=
+
+R
+
+23
+
+
+(
+v
+)
+ 
+
+R
+
+13
+
+
+(
+u
+v
+)
+ 
+
+R
+
+12
+
+
+(
+u
+)
+,
+
+
+{\displaystyle R_{12}(u)\ R_{13}(uv)\ R_{23}(v)=R_{23}(v)\ R_{13}(uv)\ R_{12}(u),}
+
+
+
+for all values of 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ and 
+
+
+
+v
+
+
+{\displaystyle v}
+
+, where 
+
+
+
+
+R
+
+12
+
+
+(
+w
+)
+=
+
+ϕ
+
+12
+
+
+(
+R
+(
+w
+)
+)
+
+
+{\displaystyle R_{12}(w)=\phi _{12}(R(w))}
+
+, 
+
+
+
+
+R
+
+13
+
+
+(
+w
+)
+=
+
+ϕ
+
+13
+
+
+(
+R
+(
+w
+)
+)
+
+
+{\displaystyle R_{13}(w)=\phi _{13}(R(w))}
+
+, and 
+
+
+
+
+R
+
+23
+
+
+(
+w
+)
+=
+
+ϕ
+
+23
+
+
+(
+R
+(
+w
+)
+)
+
+
+{\displaystyle R_{23}(w)=\phi _{23}(R(w))}
+
+, for all values of the parameter 
+
+
+
+w
+
+
+{\displaystyle w}
+
+, and 
+
+
+
+
+ϕ
+
+12
+
+
+:
+A
+⊗
+A
+→
+A
+⊗
+A
+⊗
+A
+
+
+{\displaystyle \phi _{12}:A\otimes A\to A\otimes A\otimes A}
+
+, 
+
+
+
+
+ϕ
+
+13
+
+
+:
+A
+⊗
+A
+→
+A
+⊗
+A
+⊗
+A
+
+
+{\displaystyle \phi _{13}:A\otimes A\to A\otimes A\otimes A}
+
+, and 
+
+
+
+
+ϕ
+
+23
+
+
+:
+A
+⊗
+A
+→
+A
+⊗
+A
+⊗
+A
+
+
+{\displaystyle \phi _{23}:A\otimes A\to A\otimes A\otimes A}
+
+ are algebra morphisms determined by
+
+
+
+
+
+
+ϕ
+
+12
+
+
+(
+a
+⊗
+b
+)
+=
+a
+⊗
+b
+⊗
+1
+,
+
+
+{\displaystyle \phi _{12}(a\otimes b)=a\otimes b\otimes 1,}
+
+
+
+
+
+
+
+
+
+ϕ
+
+13
+
+
+(
+a
+⊗
+b
+)
+=
+a
+⊗
+1
+⊗
+b
+,
+
+
+{\displaystyle \phi _{13}(a\otimes b)=a\otimes 1\otimes b,}
+
+
+
+
+
+
+
+
+
+ϕ
+
+23
+
+
+(
+a
+⊗
+b
+)
+=
+1
+⊗
+a
+⊗
+b
+.
+
+
+{\displaystyle \phi _{23}(a\otimes b)=1\otimes a\otimes b.}
+
+
+
+In some cases the determinant of 
+
+
+
+R
+(
+u
+)
+
+
+{\displaystyle R(u)}
+
+ can vanish at specific values of the spectral parameter 
+
+
+
+u
+=
+
+u
+
+0
+
+
+
+
+{\displaystyle u=u_{0}}
+
+. Some 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ matrices turn into one dimensional projector at 
+
+
+
+u
+=
+
+u
+
+0
+
+
+
+
+{\displaystyle u=u_{0}}
+
+. In this case quantum determinant can be defined.
+Parameter-independent Yang–Baxter equation[edit]
+Let 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ be a unital associative algebra. The parameter-independent Yang–Baxter equation is an equation for 
+
+
+
+R
+
+
+{\displaystyle R}
+
+, an invertible element of the tensor product 
+
+
+
+A
+⊗
+A
+
+
+{\displaystyle A\otimes A}
+
+. The Yang–Baxter equation is
+
+
+
+
+
+
+R
+
+12
+
+
+ 
+
+R
+
+13
+
+
+ 
+
+R
+
+23
+
+
+=
+
+R
+
+23
+
+
+ 
+
+R
+
+13
+
+
+ 
+
+R
+
+12
+
+
+,
+
+
+{\displaystyle R_{12}\ R_{13}\ R_{23}=R_{23}\ R_{13}\ R_{12},}
+
+
+
+where 
+
+
+
+
+R
+
+12
+
+
+=
+
+ϕ
+
+12
+
+
+(
+R
+)
+
+
+{\displaystyle R_{12}=\phi _{12}(R)}
+
+, 
+
+
+
+
+R
+
+13
+
+
+=
+
+ϕ
+
+13
+
+
+(
+R
+)
+
+
+{\displaystyle R_{13}=\phi _{13}(R)}
+
+, and 
+
+
+
+
+R
+
+23
+
+
+=
+
+ϕ
+
+23
+
+
+(
+R
+)
+
+
+{\displaystyle R_{23}=\phi _{23}(R)}
+
+.
+Let 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ be a module of 
+
+
+
+A
+
+
+{\displaystyle A}
+
+. Let 
+
+
+
+T
+:
+V
+⊗
+V
+→
+V
+⊗
+V
+
+
+{\displaystyle T:V\otimes V\to V\otimes V}
+
+ be the linear map satisfying 
+
+
+
+T
+(
+x
+⊗
+y
+)
+=
+y
+⊗
+x
+
+
+{\displaystyle T(x\otimes y)=y\otimes x}
+
+ for all 
+
+
+
+x
+,
+y
+∈
+V
+
+
+{\displaystyle x,y\in V}
+
+. Then a representation of the braid group, 
+
+
+
+
+B
+
+n
+
+
+
+
+{\displaystyle B_{n}}
+
+, can be constructed on 
+
+
+
+
+V
+
+⊗
+n
+
+
+
+
+{\displaystyle V^{\otimes n}}
+
+ by 
+
+
+
+
+σ
+
+i
+
+
+=
+
+1
+
+⊗
+i
+−
+1
+
+
+⊗
+
+
+
+R
+ˇ
+
+
+
+⊗
+
+1
+
+⊗
+n
+−
+i
+−
+1
+
+
+
+
+{\displaystyle \sigma _{i}=1^{\otimes i-1}\otimes {\check {R}}\otimes 1^{\otimes n-i-1}}
+
+ for 
+
+
+
+i
+=
+1
+,
+…
+,
+n
+−
+1
+
+
+{\displaystyle i=1,\dots ,n-1}
+
+, where 
+
+
+
+
+
+
+R
+ˇ
+
+
+
+=
+T
+∘
+R
+
+
+{\displaystyle {\check {R}}=T\circ R}
+
+ on 
+
+
+
+V
+⊗
+V
+
+
+{\displaystyle V\otimes V}
+
+. This representation can be used to determine quasi-invariants of braids, knots and links.
+See also[edit]
+
+Lie bialgebra
+Yangian
+Reidemeister move
+
+References[edit]
+
+H.-D. Doebner, J.-D. Hennig, eds, Quantum groups, Proceedings of the 8th International Workshop on Mathematical Physics, Arnold Sommerfeld Institute, Clausthal, FRG, 1989, Springer-Verlag Berlin, ISBN 3-540-53503-9.
+Vyjayanthi Chari and Andrew Pressley, A Guide to Quantum Groups, (1994), Cambridge University Press, Cambridge ISBN 0-521-55884-0.
+Jacques H.H. Perk and Helen Au-Yang, "Yang–Baxter Equations", (2006), arXiv:math-ph/0606053.
+
+External links[edit]
+
+Hazewinkel, Michiel, ed. (2001) [1994], "Yang-Baxter equation", Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Yang–Baxter_equation&oldid=788667859"					
+Categories: Monoidal categoriesStatistical mechanicsEquations of physicsExactly solvable modelsConformal field theoryHidden categories: Wikipedia articles needing context from October 2009All Wikipedia articles needing contextWikipedia introduction cleanup from October 2009All pages needing cleanup 

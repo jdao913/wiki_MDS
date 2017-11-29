@@ -1,0 +1,84 @@
+List of textbooks in electromagnetism - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Following is a list of notable textbooks in electromagnetism.
+
+
+
+Contents
+
+
+1 University level textbooks
+
+1.1 Undergraduate
+1.2 Graduate
+
+
+2 Older classics
+3 Computational techniques
+4 See also
+
+
+
+University level textbooks[edit]
+Undergraduate[edit]
+
+Feynman, Richard P. (2005). The Feynman Lectures on Physics. 2 (2nd ed.). Addison-Wesley. ISBN 978-0-8053-9065-0. 
+Fleisch, Daniel (2008). A Student's Guide to Maxwell's Equations. Cambridge University Press. ISBN 978-0-521-87761-9. 
+Griffiths, David J. (1998). Introduction to Electrodynamics (3rd ed.). Prentice Hall. ISBN 0-13-805326-X. 
+Hoffman, Banesh (1983). Relativity and Its Roots. W. H. Freeman. 
+Krey, U.; Owen, A. (2007). Basic Theoretical Physics: A Concise Overview. Springer. ISBN 978-3-540-36804-5.  See especially part II.
+Pollack, Gerald L.; Stump, Daniel R. (2002). Electromagnetism. Addison Wesley. ISBN 0-8053-8567-3. 
+Purcell, Edward Mills (1985). Electricity and Magnetism. McGraw-Hill. ISBN 0-07-004908-4. 
+Reitz, John R.; Milford, Frederick J.; Christy, Robert W. (2008). Foundations of Electromagnetic Theory (4th ed.). Addison Wesley. ISBN 978-0-321-58174-7. 
+Sadiku, Matthew N. O. (2006). Elements of Electromagnetics (4th ed.). Oxford University Press. ISBN 0-19-530048-3. 
+Saslow, Wayne M. (2002). Electricity, Magnetism, and Light. Academic Press. ISBN 0-12-619455-6. 
+Schwartz, Melvin (1987). Principles of Electrodynamics. Dover. ISBN 0-486-65493-1. 
+Stevens, Charles F. (1995). The Six Core Theories of Modern Physics. MIT Press. ISBN 0-262-69188-4. 
+Tipler, Paul; Mosca, Gene (2007). Physics for Scientists and Engineers. 2 (6th ed.). W. H. Freeman. ISBN 978-1-4292-0133-9. 
+Ulaby, Fawwaz T. (2007). Fundamentals of Applied Electromagnetics (5th ed.). Pearson Education. ISBN 0-13-241326-4. 
+I.S. Grant, W.R. Phillips (2008). Electromagnetism (2nd ed.). Manchester Physics, John Wiley & Sons. ISBN 978-0-471-92712-9. 
+
+Graduate[edit]
+
+Garg, Anupam (2012). Classical Electromagnetism in a Nutshell. Princeton. ISBN 0-69-113018-3. 
+Jackson, J. D. (1999). Classical Electrodynamics (3rd ed.). Wiley. ISBN 0-471-30932-X. 
+Jefimenko, O. (1966). Electricity and Magnetism. An Introduction to the Theory of Electric and Magnetic Fields (2nd ed.). Appleton-Century-Crofts. 
+Panofsky, Wolfgang K. H.; Phillips, Melba (2005). Classical Electricity and Magnetism (2nd ed.). Dover. ISBN 978-0-486-43924-2. 
+Zangwill, A. (2013). Modern Electrodynamics (1st ed.). Cambridge. ISBN 978-0-521-89697-9. 
+
+Older classics[edit]
+
+Lifshitz, Evgeny; Landau, Lev (1980). The Classical Theory of Fields (4th ed.). Butterworth-Heinemann. ISBN 0-7506-2768-9. 
+Lifshitz, Evgeny; Landau, Lev; Pitaevskii, L. P. (1984). Electrodynamics of Continuous Media (2nd ed.). Butterworth-Heinemann. ISBN 0-7506-2634-8. 
+Maxwell, James Clerk (1873). A Treatise on Electricity and Magnetism. Dover. ISBN 0-486-60637-6. 
+Misner, Charles W.; Thorne, Kip; Wheeler, John Archibald (1973). Gravitation. W. H. Freeman. ISBN 0-7167-0344-0.  Sets out the equations using differential forms.
+Stratton, Julius Adams (February 2007) [Originally published in 1941]. Electromagnetic Theory. Wiley-IEEE Press. ISBN 978-0-470-13153-4. 
+
+Computational techniques[edit]
+
+Chew, W. C.; Jin, J.; Michielssen, E.; Song, J. (2001). Fast and Efficient Algorithms in Computational Electromagnetics. Artech House. ISBN 1-58053-152-0. 
+Harrington, R. F. (1993). Field Computation by Moment Methods. Wiley-IEEE Press. ISBN 0-7803-1014-4. 
+Jin, J. (2002). The Finite Element Method in Electromagnetics (2nd ed.). Wiley-IEEE Press. ISBN 0-471-43818-9. 
+Lounesto, Pertti (1997). Clifford Algebras and Spinors. Cambridge University Press. ISBN 0-521-59916-4.  Chapter 8 sets out several variants of the equations using exterior algebra and differential forms.
+Taflove, Allen; Hagness, Susan C. (2005). Computational Electrodynamics: The Finite-Difference Time-Domain Method (3rd ed.). Artech House. ISBN 1-58053-832-0. 
+
+See also[edit]
+
+Maxwell's equations
+Classical electromagnetism and special relativity
+Computational electromagnetics
+History of electromagnetism
+List of textbooks in statistical mechanics
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_textbooks_in_electromagnetism&oldid=780098749"					
+Categories: ElectrodynamicsElectromagnetismEquations of physicsPartial differential equationsConcepts in physicsJames Clerk Maxwell 

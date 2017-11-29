@@ -1,0 +1,204 @@
+Drag count - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2013) (Learn how and when to remove this template message)
+
+
+
+A drag count is a dimensionless unit used by aerospace engineers where 1 drag count is equal to a 
+
+
+
+
+C
+
+d
+
+
+
+
+{\displaystyle C_{d}}
+
+ of 0.0001.[1][2]
+Definition[edit]
+A drag count 
+
+
+
+Δ
+
+C
+
+
+d
+
+
+
+
+
+
+{\displaystyle \Delta C_{\mathrm {d} }\,}
+
+ is defined as:
+
+
+
+
+
+Δ
+
+C
+
+
+d
+
+
+
+=
+
+10
+
+4
+
+
+
+
+
+
+2
+
+F
+
+
+d
+
+
+
+
+
+ρ
+
+v
+
+2
+
+
+A
+
+
+
+
+
+,
+
+
+{\displaystyle \Delta C_{\mathrm {d} }=10^{4}{\dfrac {2F_{\mathrm {d} }}{\rho v^{2}A}}\,,}
+
+ [3]
+
+where:
+
+
+
+
+
+
+F
+
+
+d
+
+
+
+
+
+
+{\displaystyle F_{\mathrm {d} }\,}
+
+ is the drag force, which is by definition the force component in the direction of the flow velocity,[4]
+
+
+
+
+ρ
+
+
+
+{\displaystyle \rho \,}
+
+ is the mass density of the fluid,[5]
+
+
+
+
+v
+
+
+
+{\displaystyle v\,}
+
+ is the speed of the object relative to the fluid and
+
+
+
+
+A
+
+
+
+{\displaystyle A\,}
+
+ is the reference area.
+
+The drag coefficient is used to compare the solutions of different geometries by means of a dimensionless number. A drag count is used as a more user-friendly measurement as the coefficient of drag is usually much less than 1. A drag count of 200 to 400 is typical for an airplane at cruise.[6] A reduction of one drag count on a subsonic civil transport airplane means about 200 lbs more in payload.[7]
+References[edit]
+
+
+
+^ T. Yechout. Introduction to Aircraft Flight Mechanics: Performance, static stability, dynamic stability, and classical feedback control. AIAA Education Series. 2003. https://books.google.com/books?id=a_c2V0zAFwcC&pg=PA51&lpg=PA51&dq=drag+count&source=bl&ots=ZE7-7RqzBf&sig=_zGTQQWXAuPaYLlgd-tReHT1pa4&hl=en#v=onepage&q=drag%20count&f=false
+^ Basha, W. A. and Ghaly, W. S., “Drag Prediction in Transitional Flow over Airfoils,” Journal of Aircraft, Vol. 44, 2007,p. 824–32.
+^ Hucho, Aerodynamik des Automobils, ISBN 978-3-8348-1919-2
+^ See lift force and vortex induced vibration for a possible force components transverse to the flow direction.
+^ Note that for the Earth's atmosphere, the air density can be found using the barometric formula. Air is 1.293 kg/m3 at 0 °C and 1 atmosphere
+^ "Ask Us - Drag Coefficient & Lifting Line Theory". Aerospaceweb.org. 2004-07-11. http://www.aerospaceweb.org/question/aerodynamics/q0184.shtml. Retrieved 2010-12-07
+^ Van Dam, C. P., Aircraft Design and the Importance of Drag Prediction, VKI Lecture Series 2003-2:CFD-Based Aircraft Drag. Prediction and Reduction, National Inst. of Aerospace, Hampton, VA,Nov. 2003.
+
+
+
+See also[edit]
+
+Drag coefficient
+Zero-lift drag coefficient
+
+
+
+
+
+This fluid dynamics–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Drag_count&oldid=805661789"					
+Categories: DragEquationsForceFluid dynamics stubsHidden categories: Articles needing additional references from February 2013All articles needing additional referencesAll stub articles 

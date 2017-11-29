@@ -1,0 +1,185 @@
+Levich equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Levich Equation models the diffusion and solution flow conditions around a rotating disk electrode (RDE). It is named after Veniamin Grigorievich Levich who first developed an RDE as a tool for electrochemical research. It can be used to predict the current observed at an RDE, in particular, the Levich equation gives the height of the sigmoidal wave observed in rotating disk voltammetry. The sigmoidal wave height is often called the Levich current.
+The Levich Equation is written as:
+
+
+
+
+
+I
+
+L
+
+
+=
+(
+0.620
+)
+n
+F
+A
+
+D
+
+
+2
+3
+
+
+
+
+ω
+
+
+1
+2
+
+
+
+
+v
+
+
+
+−
+1
+
+6
+
+
+
+C
+
+
+{\displaystyle I_{L}=(0.620)nFAD^{\frac {2}{3}}\omega ^{\frac {1}{2}}v^{\frac {-1}{6}}C}
+
+
+where
+
+IL is the Levich current (A)
+n is the number of moles of electrons transferred in the half reaction (number)
+F is the Faraday constant (C/mol)
+A is the electrode area (cm2)
+D is the diffusion coefficient (see Fick's law of diffusion) (cm2/s)
+ω is the angular rotation rate of the electrode (rad/s)
+v is the kinematic viscosity (cm2/s)
+C is the analyte concentration (mol/cm3)
+
+Note: To use the equation as written above (with the leading 0.620), certain units must be used with the parameters listed (e.g. radians per second for angular rotation, NOT radians or revolutions per minute). If revolution (rotations) per minute (rpm) are used, a value of 0.201 should be used in place of 0.620.
+While the Levich equation suffices for many purposes, improved forms based on derivations utilising more terms in the velocity expression are available.[1][2]
+Simplified Form[edit]
+The Levich equation is often simplified by defining a Levich constant(B) such:
+
+
+
+
+
+I
+
+L
+
+
+=
+
+
+
+
+(
+0.620
+)
+n
+F
+A
+
+D
+
+
+2
+3
+
+
+
+
+v
+
+
+
+−
+1
+
+6
+
+
+
+C
+
+⏟
+
+
+
+B
+
+
+
+
+ω
+
+
+1
+2
+
+
+
+=
+B
+
+
+ω
+
+0.5
+
+
+
+
+{\displaystyle I_{L}=\underbrace {(0.620)nFAD^{\frac {2}{3}}v^{\frac {-1}{6}}C} _{B}\,\omega ^{\frac {1}{2}}=B\,\omega ^{0.5}}
+
+
+References[edit]
+
+
+^ John Newman, J. Phys. Chem., 1966, 70 (4), 1327-1328
+^ Bard, Allen J.; Larry R. Faulkner (2000-12-18). Electrochemical Methods: Fundamentals and Applications (2 ed.). Wiley. p. 339. ISBN 0-471-04372-9. 
+
+
+
+https://www.webcitation.org/query?url=http://www.geocities.com/bioelectrochemistry/levich_equation.htm&date=2009-10-25+19:12:26
+https://www.webcitation.org/query?url=http://www.geocities.com/bioelectrochemistry/levich.htm&date=2009-10-25+19:12:23
+http://www.calctool.org/CALC/chem/electrochem/levich
+
+
+
+
+This physical chemistry-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Levich_equation&oldid=794709066"					
+Categories: Physical chemistry stubsElectrochemical equationsHidden categories: All stub articles 

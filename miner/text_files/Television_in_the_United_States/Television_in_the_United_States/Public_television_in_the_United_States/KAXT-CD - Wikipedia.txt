@@ -1,0 +1,795 @@
+KAXT-CD - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+KAXT-CD
+
+San Jose, California
+United States
+
+
+City
+San Francisco and San Jose, California[1]
+
+
+Slogan
+Serving San Francisco and the Silicon Valley
+
+
+Channels
+Digital: 42 (UHF)
+(to share with KTLN-TV; later move to 22 (UHF)[2])
+Virtual: 1 (PSIP)
+
+
+Owner
+OTA Broadcasting
+(sale to Weigel Broadcasting pending)
+(OTA Broadcasting (SFO), LLC)
+
+
+First air date
+May 31, 1989 (28 years ago) (1989-05-31)
+
+
+Sister station(s)
+KTLN-TV
+
+
+Former callsigns
+K22DD (May 31, 1989–September 17, 2001)
+KAXT-CA (September 17, 2001–August 10, 2011)
+KAXT-LD
+
+
+Former channel number(s)
+Analog: 22
+
+
+Former affiliations
+TBN (1989–2003)
+Almavision (2003–2006)
+Tele Vida Abundante (unknown)
+
+
+Transmitter power
+15 kW
+7 kW (CP)
+
+
+Height
+587 m (1,926 ft)
+651 m (2,136 ft) (CP)
+
+
+Class
+CD
+
+
+Facility ID
+37689
+
+
+Transmitter coordinates
+37°29′57″N 121°52′16″W﻿ / ﻿37.49917°N 121.87111°W﻿ / 37.49917; -121.87111
+37°29′57″N 121°52′20″W﻿ / ﻿37.49917°N 121.87222°W﻿ / 37.49917; -121.87222 (CP)
+
+
+KAXT-CD is a Class A digital television station in San Jose, California, broadcasting ethnic and other programming to the San Francisco–Oakland–San Jose, California market. Founded May 31, 1989, the station is owned and operated by OTA Broadcasting LLC.
+
+
+
+Contents
+
+
+1 History
+2 Programming
+
+2.1 Digital subchannels
+2.2 Former affiliations
+
+
+3 See also
+4 Further reading
+5 References
+6 External links
+
+
+
+History[edit]
+KAXT-CA was a low-power analog class A television station. The station previously broadcast in analog on UHF channel 22 as a network affiliate of Spanish-language Christian television Tiempos Finales TV, formerly being an affiliate of TBN from 1990 to 2003, and of Almavision from 2003 to 2006.
+On July 31, 2009, KAXT began ATSC digital TV transmissions on UHF channel 42, which had been vacated by KTNC-TV. (The previous month, KTVU/KICU-TV owner Cox Enterprises unsuccessfully applied for a license to use the same frequency for a KTVU digital translator.[3]) KAXT's digital transmissions used the call sign KAXT-LD, later KAXT-CD. The station was the first digital television station to broadcast 12 video streams on a standard 6 MHz 19.39 Mbit/s ATSC stream. Using statistical multiplexing technology in the encoders and multiplexer, the system provides variable bit rate compression needed to provide full quality standard definition video across all of the channels with enough bandwidth for radio (audio only) services.
+Broadcast Engineering nominated KAXT as Station of the Year for 2009,[4] the first low power television station to receive such a distinction.
+The DTV virtual channels between KAXT-LD's Channel 22 (physical: 42, formerly 22) and KRCB's Channel 22 (physical: 23) Cotati, had significant overlap that caused a PSIP conflict, allowing KAXT-CD to move to a new virtual channel, Channel 1. KAXT operates with a PSIP of Channel 1, with 12 different video program streams and one audio-only channels for a total of 13 virtual channels.
+Weigel Broadcasting agreed to acquire KAXT-CD and KTLN-TV, along with KVOS-TV and KFFV in Seattle, from OTA Broadcasting in a $23.2 million deal on October 18, 2017.[5]
+Programming[edit]
+KAXT broadcasts an electronic program guide, shopping channels, and several channels of ethnic news, entertainment, and religious programming. Several subchannels are produced locally, while the remainder are simulcasts. KAXT is the only television station in the United States that broadcasts on virtual channel 1.[6]
+Digital subchannels[edit]
+
+
+Channel
+Video
+Aspect
+PSIP Short Name
+Programming[7][8]
+
+
+1.1
+480i
+4:3
+WhatsOn
+Electronic program guide
+
+
+1.2
+GEB
+GEB America
+
+
+1.3
+Vietpho TV
+Việt Phố Tivi (Vietnamese)
+
+
+1.4
+VietBay
+VietBay (Vietnamese public broadcasting[9])
+
+
+1.5
+QHTV
+Quê Hương (Vietnamese)
+
+
+1.6
+NetViet
+Nét Việt (Vietnamese)
+
+
+1.7
+VIETOP
+VieTop (Vietnamese)
+
+
+1.8
+CTV-USA
+Creation TV (Cantonese Christian)
+
+
+1.9
+U_Ch
+U Channel (Chinese/Taiwanese)
+
+
+1.10
+KAXT-CD
+Paid programming (English)
+
+
+1.11
+HaiLeTV
+Hải Lê TV (Vietnamese)
+
+
+1.12
+NET V
+NetV (Vietnamese/English)
+
+
+1.13
+Audio only
+N/A
+KAXT-R1
+Silent
+
+
+Former affiliations[edit]
+Since its transition to digital broadcasting, KAXT has broadcast a wide variety of programming, both local and syndicated:
+
+Bahía TV – family-oriented Spanish-language programming (channel 1.4)[10]
+Cool Music Radio – audio simulcast (channel 1.14)[10]
+Coastal Television Network – tourism-focused channel based in Monterey, California (channel 1.5)
+Colours TV – multicultural programming (channel 1.6)[10]
+Corner Store – informercials (channel 1.9)[10]
+Diya TV – South Asian programming (variously channels 1.2 and 1.5, now on KTSF 26.2)
+FAN – Filipino programming (channel 1.8)
+i2TV – public-access television (channel 1.8)[10]
+KCTV/TVHS – Taiwanese programming (channel 1.9)
+La Voz – audio simulcast of Christian programming (channel 1.15)[10]
+My Family TV – family-oriented programming (variously channels 1.2, 1.6, and 1.7)
+Tiempos Finales – Spanish Christian (channel 1.10)
+PeanutTV – real estate listings (channel 1.12)[10]
+Quê Hương Radio – audio simulcast of KZSJ 1120 (channel 1.13)
+Retro TV – classic sitcoms (channel 1.2)
+SKDTV – South Korean programming (channel 1.7)
+TheCoolTV – music videos (variously channels 1.1 and 1.12, now on KTLN 68.2)
+Vietface TV – Vietnamese-language programming (channel 1.8, now on KOFY 20.4)
+Vietoday – Vietnamese-language programming (channel 1.6, now on KTSF 26.5)
+
+See also[edit]
+
+Channel 1 virtual TV stations in the United States
+Channel 42 digital TV stations in the United States
+Channel 42 low-power TV stations in the United States
+
+Further reading[edit]
+
+Arnold, Eric K. (June 9, 2011). "Next Steps for Ethnic Media -- Fighting for Low-Power TV". New America Media. Retrieved September 4, 2015. 
+
+References[edit]
+
+
+
+^ Hashemzadeh, Hossein (March 31, 2015). "Federal Communications Commission Digital Class A Broadcast Station License" (PDF). Federal Communications Commission. Retrieved September 12, 2015. 
+^ Modification of a Licensed Facility for DTV Application
+^ "KTVU Digital Translator Plan Draws Fire". Radio World. June 11, 2009. Retrieved September 4, 2015. 
+^ "KAXT-CA". Broadcast Engineering. Penton Media. December 11, 2009. 
+^ "APPLICATION FOR CONSENT TO ASSIGNMENT OF BROADCAST STATION CONSTRUCTION PERMIT OR LICENSE (KVOS-TV/KFFV)". CDBS Public Access. Federal Communications Commission. October 24, 2017. Retrieved October 25, 2017. 
+^ Roettgers, Janko (August 4, 2011). "In spectrum battles, Mom & Pop TV loses". Gigaom. Retrieved September 4, 2015. 
+^ "RabbitEars.Info". rabbitears.info. 
+^ "Digital Television: DTV - HDTV Channel List". 
+^ "About Us". VietBay Television. Retrieved May 7, 2017. 
+^ a b c d e f g Trumbly, Warren L. (December 21, 2009). "Comments of KAXT LLC in the Matter of Spectrum for Broadband: A National Plan for Our Future" (PDF). Federal Communications Commission. pp. 4–5. Retrieved September 15, 2015. 
+
+
+
+External links[edit]
+
+Query the FCC's TV station database for KAXT
+Official subchannel websites:
+
+Việt Phố Tivi (in Vietnamese)
+VietBay Television
+Quê Hương Television (in Vietnamese)
+Nét Việt (in Vietnamese)
+USA Creation TV (in Chinese)
+U Channel (in Chinese)
+NetV
+Hải Lê TV (in Vietnamese)
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Television in the San Francisco Bay Area
+
+
+
+
+Network O&Os are in bold
+
+
+
+English-language
+channels
+
+
+
+KAXT-CD (1.1 EPG, 1.2 GEB, 1.11 Jewelry)
+KTVU (2.1 Fox, 2.3 Movies!, 2.4 Buzzr)
+K03HY-D (Religious)
+KRON (4.1 MNTV, 4.3 GetTV)
+KPIX (5.1 CBS, 5.2 Decades)
+KBKF-LP 6 (K-Love)
+KGO (7.1 ABC, 7.2 LWN, 7.3 Laff)
+KNTV (11.1 NBC, 11.2 Cozi TV)
+KDTV (14.3 GetTV, 14.4 Escape)
+KOFY (20.1 Ind, 20.2 MeTV, 20.4 This TV)
+KTSF (26.2 Diya TV)
+KCNZ-CD (28.1 Creation TV, 28.2 HSN)
+KICU (36.1 Ind, 36.3 CCTV News, 36.4 H&I, 36.5 Light TV)
+KCNS (38.1 SonLife)
+KMMC-LD (40.4 Rev'n)
+KTNC (42.1 Infomercials, 42.2 Charge!)
+KBCW (44.1 CW)
+KEMO (50.2 QVC, 50.3 QVC Plus)
+KKPX (65.1 Ion, 65.2 Qubo, 65.3 Ion Life, 65.4 Infomercials, 65.5 HSN, 65.6 QVC)
+KFSF (66.3 Bounce TV, 66.4 Grit)
+KTLN (68.1 TLN, 68.2 JTV, 68.3 SBN)
+
+
+
+
+
+Public television
+
+
+
+KQED (9.1 PBS, 9.2 KQEH, 9.3 World)
+KRCB (22.1 PBS, 22.2 Create, 22.3 NHK World)
+KMTP (32.1 Deutsche Welle)
+KQEH (54.1 PBS, 54.2 KQED, 54.3 Life, 54.4 Kids, 54.5 World)
+KCSM (60.1 Ind, 60.2 France 24, 60.3 KCSM-FM / Jazz TV)
+
+
+
+
+
+Spanish-language
+channels
+
+
+
+KAXT-CD (1.10 Tiempos Finales)
+KTVU (2.2 LATV)
+KDTV (14.1 UNI, 14.2 UniMás)
+KMMC-LD (40.1 3ABN Latino)
+KSTS (48.1 TEL, 48.2 TeleXitos)
+KEMO (50.1 AZA)
+KFSF (66.1 UniMás, 66.2 UNI)
+
+
+
+
+
+Asian-language
+channels
+
+
+
+KAXT-CD (1.3 Việt Phố, 1.4 VietBay, 1.5 Quê Hương, 1.6 Nét Việt, 1.7 VieTop, 1.8 Creation TV, 1.9 U Channel, 1.12 NetV)
+KRON (4.2 Sky Link TV)
+KTSF (26.1 Ind, 26.2 Diya TV, 26.5 Viet Today TV, 26.6 Viet Shopping TV)
+KCNZ-CD (28.3 SAB TV)
+KICU (36.2 KEMS)
+KCNS (38.2 Sino TV, 38.3 VieTV, 38.5 NTD TV)
+KTLN (68.4 Chinese)
+
+
+
+
+
+Stations serving
+Santa Rosa/Sonoma County
+
+
+
+KTVJ-LD (Religious)
+KRCB (22.1 PBS, 22.2 Create, 22.3 NHK World)
+KDTV-CD (28.1 UNI, 28.2 UniMás)
+K03IC-D/KUKR-LD/KFTY-LD (Religious)
+KZHD-LD (49.1 Ind, 49.2 Spanish Religious)
+KEMO (50.1 AZA)
+
+
+
+
+
+Stations serving
+Fort Bragg/Mendocino County
+
+
+
+KQSL (8.1 Ind)
+
+
+
+
+
+Out of market channel
+
+
+
+KCRA-TV (3.1 NBC, 3.2 MeTV)
+
+
+
+
+
+Local cable channels
+
+
+
+NBC Sports Bay Area
+NBC Sports California
+Comcast Hometown Network
+Pac-12 Network
+Link TV
+Tri-Valley Community Television
+KHRT 15 (Hayward)
+KCRT 28 (Richmond)
+
+
+
+
+
+Local-access channels
+
+
+
+SFGOVTV
+EATV
+Cal Channel
+SF Commons
+
+
+
+
+
+Defunct stations
+
+
+
+BayTV (cable only)
+KEXT-CD (27.1 Tokyo TV)
+KSAN/KNEW/KQEC 32 (Ind / PBS)
+
+
+
+
+
+
+
+
+
+California television
+Bakersfield
+Chico–Redding
+Eureka
+Fresno
+Las Vegas NV
+Los Angeles
+Medford OR
+Monterey
+Inland Empire (Palm Springs)
+Reno NV
+Sacramento
+San Diego
+San Francisco
+Santa Barbara
+El Centro CA / Yuma AZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Other television stations in the state of California
+
+
+
+Ion Television
+
+
+
+KSPX-TV 29 (Sacramento)
+KPXN-TV 30 (San Bernardino)
+KKPX-TV 65 (San Jose)
+
+
+
+
+
+Youtoo America
+
+
+
+KMCA-LD 10 (Redding)
+KYMB-LD 27.4 (Monterey)
+KJEO-LD 32.2 (Fresno)
+
+
+
+
+
+Retro Television Network
+
+
+
+KAXT 1.2 (San Francisco)
+KEYT-TV 3.2 (Santa Barbara)
+KAIL 7.2 (Fresno)
+
+
+
+
+
+Me-TV
+
+
+
+KCRA-TV 3.2 (Sacramento)
+KRCR-TV 7.2 (Redding)
+KGTV 10.2 & KZSD 41 (San Diego)
+KOFY-TV 20.2 (San Francisco)
+KVME 22.1 (Palmdale/Lancaster/Los Angeles)
+KAEF-TV 23.2 (Arcata)
+KERO-TV 23.3 (Bakersfield)
+KYMB-LD 27.2 (Monterey)
+KRET-CD 31.1 (Cathedral City)
+KGMC 43.6 (Clovis)
+KDOC-TV 56.3 (Anaheim/Los Angeles)
+
+
+
+
+
+Antenna TV
+
+
+
+KRON 4.3 (San Francisco)
+KTLA 5.2 (Los Angeles)
+KRET-CD 31.4 (Cathedral City)
+KTXL 40.2 (Sacramento)
+KGMC 43.5 (Clovis)
+KSWB-TV 69.2 (San Diego)
+
+
+
+
+
+Bounce TV
+
+
+
+KVHF 4.2 (Fresno)
+KUVS 19.3 (Sacramento)
+KMEX 34.3 (Los Angeles)
+KFSF 66.2 (Sacramento)
+
+
+
+
+
+This TV
+
+
+
+KTLA 5.3 (Los Angeles)
+KCVU 20.2 (Redding-Chico)
+KMPH 26.2 (Fresno)
+KYMB 27.2 (Monterey)
+KBVU 28.2 (Eureka)
+KBFX 29.2 (Bakersfield)
+KRET-CD 31.2 (Palm Springs)
+KTNC 42.3 (San Francisco)
+KQCA 58.2 (Stockton-Sacramento)
+KSWB 69.3 (San Diego)
+
+
+
+
+
+Movies!
+
+
+
+KRCR 7.3 (Chico)
+KCOP 13.3 (Los Angeles)
+KAEF 23.3 (Eureka)
+
+
+
+
+
+Decades
+
+
+
+KCBS 2.2 (Los Angeles)
+KPIX 5.2 (San Francisco)
+KOVR 13.2 (Stockton/Sacramento)
+
+
+
+
+
+Other Stations
+
+
+
+KAXT-CD (1.3 QVC, 1.7 VieTop, 1.8 Creation TV, 1.10 Tiempos Finales, 1.11 Jewelry, San Francsico)
+K15CU-D (15.1 Cozi TV, Monterey)
+KVHF-LD (4.4 AMGTV, Fresno)
+KQSL (8.1 TheCoolTV, 8.2 Tuff TV, Fort Bragg)
+KGOF-LP (33.2 The Family Channel / 33.4 TheCoolTV, Fresno)
+
+
+
+
+
+Defunct
+
+
+
+KAZV-LP 14 (Modesto)
+KCCE-LP 50 (San Luis Obispo)
+
+
+
+
+
+
+
+
+
+See also
+ABC
+CBS
+CW
+Fox
+Ion
+MyNetworkTV
+NBC
+PBS
+Other stations in California
+
+
+
+
+See also
+Azteca América
+Telemundo
+UniMás
+Univision
+Other Spanish network affiliates
+Religious
+Home Shopping
+Independent
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Weigel Broadcasting
+
+
+
+Network-affiliated stations
+
+
+
+WBND-LD (ABC)
+WDJT-TV (CBS)
+WCWW-LD (CW)
+WMYS-LD (MNTV)
+WYTU-LD / WFBN-LD (TMD) 1
+
+
+
+
+
+O&O MeTV stations
+
+
+
+WBME-CD 2
+WWME-CD 3
+
+
+
+
+
+Independent stations
+
+
+
+WCIU-TV
+WMEU-CD
+WMLW-TV
+WRME-LP 4
+
+
+
+
+
+Stations in process of acquisition by Weigel
+
+
+
+KAXT-CD
+KAZA-TV
+KCSG
+KFFV
+KNLC
+KTLN-TV
+KVOS-TV
+
+
+
+
+
+National subchannel networks
+
+
+
+Decades JV
+Heroes & Icons
+MeTV
+Movies! JV
+
+
+
+
+
+Current programming
+
+
+
+Svengoolie
+
+
+
+
+
+Former programming
+
+
+
+First Business
+Green Screen Adventures
+
+
+
+
+
+Defunct
+
+
+
+TouchVision
+
+
+
+
+
+
+
+
+1 Carried on a digital subchannel of WMLW & WMYS.
+2 Carried on a digital subchannel of WDJT.
+3 Carried on a digital subchannel of WCIU.
+4 Owned by Venture Technologies Group; programmed by Weigel under an LMA.
+5 Joint Venture.
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=KAXT-CD&oldid=807617137"					
+Categories: Religious television stations in the United StatesTelevision stations in CaliforniaDigital low-power stations1990 establishments in CaliforniaTelevision channels and stations established in 1990Vietnamese-language television stations in CaliforniaPublic television in the United StatesHidden categories: Articles containing Vietnamese-language textArticles containing Spanish-language textArticles with Vietnamese-language external linksArticles with Chinese-language external links 

@@ -1,0 +1,31 @@
+Ancient solution - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, an ancient solution to a differential equation is a solution that can be extrapolated backwards to all past times, without singularities. That is, it is a solution "that is defined on a time interval of the form (−∞, T)."[1]
+The term was introduced in Grigori Perelman's research on the Ricci flow,[1] and has since been applied to other geometric flows[2][3][4][5] as well as to other systems such as the Navier–Stokes equations[6][7] and heat equation.[8]
+References[edit]
+
+
+
+^ a b Perelman, Grigori (2002), The entropy formula for the Ricci flow and its geometric applications, arXiv:math/0211159  .
+^ Loftin, John; Tsui, Mao-Pei (2008), "Ancient solutions of the affine normal flow", Journal of Differential Geometry, 78 (1): 113–162, MR 2406266 .
+^ Daskalopoulos, Panagiota; Hamilton, Richard; Sesum, Natasa (2010), "Classification of compact ancient solutions to the curve shortening flow", Journal of Differential Geometry, 84 (3): 455–464, arXiv:0806.1757 , MR 2669361 .
+^ You, Qian (2014), Some Ancient Solutions of Curve Shortening, Ph.D. thesis, University of Wisconsin–Madison .
+^ Huisken, Gerhard; Sinestrari, Carlo (2015), "Convex ancient solutions of the mean curvature flow", Journal of Differential Geometry, 101 (2): 267–287, MR 3399098 .
+^ Seregin, Gregory A. (2010), "Weak solutions to the Navier-Stokes equations with bounded scale-invariant quantities", Proceedings of the International Congress of Mathematicians, III, Hindustan Book Agency, New Delhi, pp. 2105–2127, MR 2827878 .
+^ Barker, T.; Seregin, G. (2015), "Ancient solutions to Navier-Stokes equations in half space", Journal of Mathematical Fluid Mechanics, 17 (3): 551–575, doi:10.1007/s00021-015-0211-z, MR 3383928 .
+^ Wang, Meng (2011), "Liouville theorems for the ancient solution of heat flows", Proceedings of the American Mathematical Society, 139 (10): 3491–3496, doi:10.1090/S0002-9939-2011-11170-5, MR 2813381 .
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ancient_solution&oldid=748031317"					
+Categories: Differential equations 

@@ -1,0 +1,1536 @@
+Elliott formula - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Elliott formula describes analytically, or with few adjustable parameters such as the dephasing constant, the light absorption or emission spectra of solids. It was originally derived by Roger James Elliott to describe linear absorption based on properties of a single electron–hole pair.[1] The analysis can be extended to a many-body investigation with full predictive powers when all parameters are computed microscopically using, e.g., the semiconductor Bloch equations (abbreviated as SBEs) or the semiconductor luminescence equations (abbreviated as SLEs).
+
+
+
+Contents
+
+
+1 Background
+2 Linear optical absorption
+3 Photoluminescence Elliott formula
+4 Terahertz Elliott formula
+5 See also
+6 Further reading
+7 References
+
+
+
+Background[edit]
+One of the most accurate theories of semiconductor absorption and photoluminescence is provided by the SBEs and SLEs, respectively. Both of them are systematically derived starting from the many-body/quantum-optical system Hamiltonian and fully describe the resulting quantum dynamics of optical and quantum-optical observables such as optical polarization (SBEs) and photoluminescence intensity (SLEs). All relevant many-body effects can be systematically included by using various techniques such as the cluster-expansion approach.
+Both the SBEs and SLEs contain an identical homogeneous part driven either by a classical field (SBEs) or by a spontaneous-emission source (SLEs). This homogeneous part yields an eigenvalue problem that can be expressed through the generalized Wannier equation that can be solved analytically in special cases. In particular, the low-density Wannier equation is analogous to bound solutions of the hydrogen problem of quantum mechanics. These are often referred to as exciton solutions and they formally describe Coulombic binding by oppositely charged electrons and holes. The actual physical meaning of excitonic states is discussed further in connection with the SBEs and SLEs. The exciton eigenfunctions are denoted by 
+
+
+
+
+ϕ
+
+λ
+
+
+(
+
+
+k
+
+
+)
+
+
+{\displaystyle \phi _{\lambda }({\mathbf {k} })}
+
+ where 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ labels the exciton state with eigenenergy 
+
+
+
+
+E
+
+λ
+
+
+
+
+{\displaystyle E_{\lambda }}
+
+ and 
+
+
+
+ℏ
+
+
+k
+
+
+
+
+{\displaystyle \hbar {\mathbf {k} }}
+
+ is the crystal momentum of charge carriers in the solid.
+These exciton eigenstates provide valuable insight to SBEs and SLEs, especially, when one analyses the linear semiconductor absorption spectrum or photoluminescence at steady-state conditions. One simply uses the constructed eigenstates to diagonalize the homogeneous parts of the SBEs and SLEs.[2] Under the steady-state conditions, the resulting equations can be solved analytically when one further approximates dephasing due to higher-order many-body effects. When such effects are fully included, one must resort to a numeric approach. After the exciton states are obtained, one can eventually express the linear absorption and steady-state photoluminescence analytically.
+The same approach can be applied to compute absorption spectrum for fields that are in the terahertz (abbreviated as THz) range[3] of electromagnetic radiation. Since the THz-photon energy lies within the meV range, it is mostly resonant with the many-body states, not the interband transitions that are typically in the eV range. Technically, the THz investigations are an extension of the ordinary SBEs and/or involve solving the dynamics of two-particle correlations explicitly.[4] Like for the optical absorption and emission problem, one can diagonalize the homogeneous parts that emerge analytically with the help of the exciton eigenstates. Once the diagonalization is completed, one can then compute the THz absorption analytically.
+All of these derivations rely on the steady-state conditions and the analytic knowledge of the exciton states. Furthermore, the effect of further many-body contributions, such as the excitation-induced dephasing, can be included microscopically[5] to the Wannier solver, which removes the need to introduce phenomenological dephasing constant, energy shifts, or screening of the Coulomb interaction.
+Linear optical absorption[edit]
+
+
+
+
+Characteristic linear absorption spectrum 
+
+
+
+α
+(
+E
+)
+
+
+{\displaystyle \alpha (E)}
+
+ of bulk GaAs using two-band SBEs. The decay of polarization is approximated with a decay constant 
+
+
+
+ℏ
+γ
+=
+0.13
+
+
+m
+e
+V
+
+
+
+{\displaystyle \hbar \gamma =0.13\,\mathrm {meV} }
+
+ and 
+
+
+
+α
+(
+E
+)
+
+
+{\displaystyle \alpha (E)}
+
+ is computed as function of the pump field's photon energy 
+
+
+
+E
+
+
+{\displaystyle E}
+
+. The energy is shifted with respect to the band-gap energy 
+
+
+
+
+E
+
+
+g
+a
+p
+
+
+
+=
+1.490
+
+
+m
+e
+V
+
+
+
+{\displaystyle E_{\mathrm {gap} }=1.490\,\mathrm {meV} }
+
+ and the semiconductor is initially unexcited. Due to the small dephasing constant used, several excitonic resonances appear (vertical lines) well below the bandgap energy. The magnitude of high-energy resonances are multiplied by 5 for visibility.
+
+
+Linear absorption of broadband weak optical probe can then be expressed as
+
+
+
+
+Linear Elliott formula
+
+
+
+
+α
+(
+ω
+)
+=
+
+I
+m
+
+
+[
+
+∑
+
+λ
+
+
+
+
+
+F
+
+λ
+
+
+
+
+E
+
+λ
+
+
+−
+ℏ
+ω
+−
+
+i
+
+
+γ
+
+λ
+
+
+(
+ω
+)
+
+
+
+]
+
+
+
+{\displaystyle \alpha (\omega )=\mathrm {Im} \left[\sum _{\lambda }{\frac {F_{\lambda }}{E_{\lambda }-\hbar \omega -\mathrm {i} \gamma _{\lambda }(\omega )}}\right]}
+
+
+
+
+
+
+
+where 
+
+
+
+ℏ
+ω
+
+
+{\displaystyle \hbar \omega }
+
+ is the probe-photon energy, 
+
+
+
+
+F
+
+λ
+
+
+
+
+{\displaystyle F_{\lambda }}
+
+ is the oscillator strength of the exciton state 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+, and 
+
+
+
+
+γ
+
+λ
+
+
+
+
+{\displaystyle \gamma _{\lambda }}
+
+ is the dephasing constant associated with the exciton state 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+. For a phenomenological description, 
+
+
+
+
+γ
+
+λ
+
+
+
+
+{\displaystyle \gamma _{\lambda }}
+
+ can be used as a single fit parameter, i.e., 
+
+
+
+
+γ
+
+λ
+
+
+→
+γ
+
+
+{\displaystyle \gamma _{\lambda }\rightarrow \gamma }
+
+. However, a full microscopic computation generally produces 
+
+
+
+
+γ
+
+λ
+
+
+(
+ω
+)
+
+
+{\displaystyle \gamma _{\lambda }(\omega )}
+
+ that depends on both exciton index 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ and photon frequency. As a general tendency, 
+
+
+
+
+γ
+
+λ
+
+
+(
+ω
+)
+
+
+{\displaystyle \gamma _{\lambda }(\omega )}
+
+ increases for elevated 
+
+
+
+
+E
+
+λ
+
+
+
+
+{\displaystyle E_{\lambda }}
+
+ while the 
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+ dependence is often weak.
+Each of the exciton resonances can produce a peak to the absorption spectrum when the photon energy matches with 
+
+
+
+
+E
+
+λ
+
+
+
+
+{\displaystyle E_{\lambda }}
+
+. For direct-gap semiconductors, the oscillator strength is proportional to the product of dipole-matrix element squared and 
+
+
+
+
+|
+
+
+∑
+
+
+k
+
+
+
+
+ϕ
+
+λ
+
+
+(
+
+
+k
+
+
+)
+
+
+|
+
+
+2
+
+
+
+
+{\displaystyle |\sum _{\mathbf {k} }\phi _{\lambda }({\mathbf {k} })|^{2}}
+
+ that vanishes for all states except for those that are spherically symmetric. In other words, 
+
+
+
+
+F
+
+λ
+
+
+
+
+{\displaystyle F_{\lambda }}
+
+ is nonvanishing only for the 
+
+
+
+s
+
+
+{\displaystyle s}
+
+-like states, following the quantum-number convention of the hydrogen problem. Therefore, optical spectrum of direct-gap semiconductors produces an absorption resonance only for the 
+
+
+
+s
+
+
+{\displaystyle s}
+
+-like state. The width of the resonance is determined by the corresponding dephasing constant.
+In general, the exciton eigen energies consist of a series of bound states that emerge energetically well below the fundamental bandgap energy and a continuum of unbound states that appear for energies above the bandgap. Therefore, a typical semiconductor's low-density absorption spectrum shows a series of exciton resonances and then a continuum-absorption tail. For realistic situations, 
+
+
+
+
+γ
+
+λ
+
+
+
+
+{\displaystyle \gamma _{\lambda }}
+
+ increases more rapidly than the exciton-state spacing so that one typically resolves only few lowest exciton resonances in actual experiments.
+The concentration of charge carriers influence the shape of the absorption spectrum considerably. For high enough densities, all 
+
+
+
+
+E
+
+λ
+
+
+
+
+{\displaystyle E_{\lambda }}
+
+ energies correspond to continuum states and some of the oscillators strengths may become negative-valued due to the Pauli-blocking effect. Physically, this can be understood as the elementary property of Fermions; if a given electronic state is already excited it cannot be excited a second time due to the Pauli exclusion among Fermions. Therefore, the corresponding electronic states can produce only photon emission that is seen as negative absorption, i.e., gain that is the prerequisite to realizing semiconductor lasers.
+Even though one can understand the principal behavior of semiconductor absorption on the basis of the Elliott formula, detailed predictions of the exact 
+
+
+
+
+E
+
+λ
+
+
+
+
+{\displaystyle E_{\lambda }}
+
+, 
+
+
+
+
+F
+
+λ
+
+
+
+
+{\displaystyle F_{\lambda }}
+
+, and 
+
+
+
+
+γ
+
+λ
+
+
+(
+ω
+)
+
+
+{\displaystyle \gamma _{\lambda }(\omega )}
+
+ requires a full many-body computation already for moderate carrier densities.
+Photoluminescence Elliott formula[edit]
+
+
+
+
+Photoluminescence intensity computed via the Elliott formula. The population of s-like exciton states follow a Boltzmann distribution at 35 Kelvin, where the 1s population is suppressed to four percent and the dephasing constant is 
+
+
+
+ℏ
+γ
+≈
+1
+
+/
+
+,
+
+m
+e
+V
+
+
+
+{\displaystyle \hbar \gamma \approx 1/,\mathrm {meV} }
+
+. The vertical lines indicate the position of s-like excitonic resonances, i.e., 1s, 2s, 3s, etc. The bandgap energy is denoted by 
+
+
+
+
+E
+
+
+g
+a
+p
+
+
+
+
+
+{\displaystyle E_{\mathrm {gap} }}
+
+ and 'arb. u.' means arbitrary units.
+
+
+After the semiconductor becomes electronically excited, the carrier system relaxes into a quasiequilibrium. At the same time, vacuum-field fluctuations[6] trigger spontaneous recombination of electrons and holes (electronic vacancies) via spontaneous emission of photons. At quasiequilibrium, this yields a steady-state photon flux emitted by the semiconductor. By starting from the SLEs, the steady-state photoluminescence (abbreviated as PL) can be cast into the form
+
+
+
+
+Photoluminescence Elliott formula
+
+
+
+
+
+P
+L
+
+(
+ω
+)
+=
+
+I
+m
+
+
+[
+
+∑
+
+λ
+
+
+
+
+
+
+F
+
+λ
+
+
+
+S
+
+λ
+
+
+
+
+
+E
+
+λ
+
+
+−
+ℏ
+ω
+−
+
+i
+
+
+γ
+
+λ
+
+
+(
+ω
+)
+
+
+
+]
+
+
+,
+
+
+{\displaystyle \mathrm {PL} (\omega )=\mathrm {Im} \left[\sum _{\lambda }{\frac {F_{\lambda }S_{\lambda }}{E_{\lambda }-\hbar \omega -\mathrm {i} \gamma _{\lambda }(\omega )}}\right]\,,}
+
+
+
+
+
+
+
+that is very similar to the Elliott formula for the optical absorption. As a major difference, the numerator has a new contribution – the spontaneous-emission source
+
+
+
+
+
+S
+
+λ
+
+
+=
+
+∑
+
+
+k
+
+
+
+
+|
+
+
+ϕ
+
+λ
+
+
+(
+
+
+k
+
+
+)
+
+
+|
+
+
+2
+
+
+
+f
+
+
+k
+
+
+
+e
+
+
+
+f
+
+
+k
+
+
+
+h
+
+
++
+Δ
+
+N
+
+λ
+
+
+
+
+
+{\displaystyle S_{\lambda }=\sum _{\mathbf {k} }|\phi _{\lambda }({\mathbf {k} })|^{2}f_{\mathbf {k} }^{e}f_{\mathbf {k} }^{h}+\Delta N_{\lambda }\;}
+
+
+that contains electron and hole distributions 
+
+
+
+
+f
+
+
+k
+
+
+
+e
+
+
+
+
+{\displaystyle f_{\mathbf {k} }^{e}}
+
+ and 
+
+
+
+
+f
+
+
+k
+
+
+
+h
+
+
+
+
+{\displaystyle f_{\mathbf {k} }^{h}}
+
+, respectively, where 
+
+
+
+ℏ
+
+
+k
+
+
+
+
+{\displaystyle \hbar {\mathbf {k} }}
+
+ is the carrier momentum. Additionally, 
+
+
+
+
+S
+
+λ
+
+
+
+
+{\displaystyle S_{\lambda }}
+
+ contains also a direct contribution from exciton populations 
+
+
+
+Δ
+
+N
+
+λ
+
+
+
+
+{\displaystyle \Delta N_{\lambda }}
+
+ that describes truly bound electron–hole pairs.
+The 
+
+
+
+
+f
+
+
+k
+
+
+
+e
+
+
+
+f
+
+
+k
+
+
+
+h
+
+
+
+
+{\displaystyle f_{\mathbf {k} }^{e}f_{\mathbf {k} }^{h}}
+
+ term defines the probability to find an electron and a hole with same 
+
+
+
+
+k
+
+
+
+{\displaystyle \mathbf {k} }
+
+. Such a form is expected for a probability of two uncorrelated events to occur simultaneously at a desired 
+
+
+
+
+k
+
+
+
+{\displaystyle \mathbf {k} }
+
+ value. Therefore, 
+
+
+
+
+f
+
+
+k
+
+
+
+e
+
+
+
+f
+
+
+k
+
+
+
+h
+
+
+
+
+{\displaystyle f_{\mathbf {k} }^{e}f_{\mathbf {k} }^{h}}
+
+ is the spontaneous-emission source originating from uncorrelated electron–hole plasma. The possibility to have truly correlated electron–hole pairs is defined by a two-particle exciton correlation 
+
+
+
+Δ
+
+N
+
+λ
+
+
+
+
+{\displaystyle \Delta N_{\lambda }}
+
+; the corresponding probability is directly proportional to the correlation. Nevertheless, both the presence of electron–hole plasma and excitons can equivalently induce the spontaneous emission. A further discussion of the relative weight and nature of plasma vs. exciton sources[7] is presented in connection with the SLEs.
+Like for the absorption, a direct-gap semiconductor emits light only at the resonances corresponding to the 
+
+
+
+s
+
+
+{\displaystyle s}
+
+-like states. As a typical trend, a quasiequilibrium emission is strongly peaked around the 1s resonance because 
+
+
+
+
+S
+
+λ
+
+
+
+
+{\displaystyle S_{\lambda }}
+
+ is usually largest for the 
+
+
+
+λ
+=
+1
+s
+
+
+{\displaystyle \lambda =1s}
+
+ ground state. This emission peak often remains well below the fundamental bandgap energy even at the high excitations where all states are continuum states. This demonstrates that semiconductors are often subjects to massive Coulomb-induced renormalizations even when the system appears to have only electron–hole plasma states as emission resonances. To make an accurate prediction of the exact position and shape at elevated carrier densities, one must resort to the full SLEs.
+Terahertz Elliott formula[edit]
+
+
+
+
+Terahertz absorption spectrum in bulk GaAs computed using the THz Elliott formula. The vertical lines indicate the np-1s transition energies of which the first one (2p-1s transition) is dominant. The 1s-band-gap-transition lies slightly above 4meV, whereas the dephasing constant is chosen to be 
+
+
+
+ℏ
+γ
+=
+1.7
+
+
+m
+e
+V
+
+
+
+{\displaystyle \hbar \gamma =1.7\,\mathrm {meV} }
+
+.
+
+
+As discussed above, it is often meaningful to tune the electromagnetic field to be resonant with the transitions between two many-body states. For example, one can follow how a bound exciton is excited from its 1s ground state to a 2p state. In several semiconductor systems, one needs THz fields to induce such transitions. By starting from a steady-state configuration of electron–hole correlations, the diagonalization of THz-induced dynamics yields a THz absorption spectrum[4]
+
+
+
+
+THz Elliott formula
+
+
+
+
+
+α
+
+
+T
+H
+z
+
+
+
+(
+ω
+)
+=
+
+I
+m
+
+
+[
+
+
+
+
+∑
+
+ν
+,
+λ
+
+
+
+S
+
+ν
+,
+λ
+
+
+(
+ω
+)
+Δ
+
+N
+
+ν
+,
+λ
+
+
+−
+
+
+[
+
+S
+
+ν
+,
+λ
+
+
+(
+−
+ω
+)
+Δ
+
+N
+
+ν
+,
+λ
+
+
+]
+
+
+⋆
+
+
+
+
+ω
+(
+ℏ
+ω
++
+
+i
+
+γ
+(
+ω
+)
+)
+
+
+
+]
+
+
+.
+
+
+{\displaystyle \alpha _{\rm {THz}}(\omega )=\mathrm {Im} \left[{\frac {\sum _{\nu ,\lambda }S^{\nu ,\lambda }(\omega )\Delta N_{\nu ,\lambda }-\left[S^{\nu ,\lambda }(-\omega )\Delta N_{\nu ,\lambda }\right]^{\star }}{\omega (\hbar \omega +\mathrm {i} \gamma (\omega ))}}\right]\;.}
+
+
+
+
+
+
+
+In this notation, the diagonal contributions 
+
+
+
+Δ
+
+N
+
+λ
+,
+λ
+
+
+
+
+{\displaystyle \Delta N_{\lambda ,\lambda }}
+
+ determine the population of 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ excitons. The off-diagonal 
+
+
+
+Δ
+
+N
+
+ν
+,
+λ
+≠
+ν
+
+
+
+
+{\displaystyle \Delta N_{\nu ,\lambda \neq \nu }}
+
+ elements formally determine transition amplitudes between two exciton states 
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+ and 
+
+
+
+λ
+≠
+ν
+
+
+{\displaystyle \lambda \neq \nu }
+
+. For elevated densities, 
+
+
+
+Δ
+
+N
+
+ν
+,
+λ
+≠
+ν
+
+
+
+
+{\displaystyle \Delta N_{\nu ,\lambda \neq \nu }}
+
+ build up spontaneously and they describe correlated electron–hole plasma that is a state where electrons and holes move with respect to each other without forming bound pairs.[4]
+In contrast to optical absorption and photoluminescence, THz absorption may involve all exciton states. This can be seen from the spectral response function
+
+
+
+
+
+S
+
+ν
+,
+λ
+
+
+(
+ω
+)
+=
+
+∑
+
+β
+
+
+
+
+
+(
+
+E
+
+β
+
+
+−
+
+E
+
+ν
+
+
+)
+
+J
+
+ν
+β
+
+
+
+J
+
+β
+λ
+
+
+
+
+
+E
+
+β
+
+
+−
+
+E
+
+ν
+
+
+−
+ℏ
+ω
+−
+
+i
+
+
+γ
+
+λ
+,
+ν
+
+
+(
+ω
+)
+
+
+
+
+
+{\displaystyle S^{\nu ,\lambda }(\omega )=\sum _{\beta }{\frac {(E_{\beta }-E_{\nu })J_{\nu \beta }J_{\beta \lambda }}{E_{\beta }-E_{\nu }-\hbar \omega -\mathrm {i} \gamma _{\lambda ,\nu }(\omega )}}}
+
+
+that contains the current-matrix elements 
+
+
+
+
+J
+
+ν
+β
+
+
+∝
+
+∑
+
+
+k
+
+
+
+
+ϕ
+
+ν
+
+
+⋆
+
+
+(
+
+
+k
+
+
+)
+
+
+k
+
+
+⋅
+
+
+
+k
+
+
+
+
+T
+H
+z
+
+
+
+
+ϕ
+
+β
+
+
+(
+
+
+k
+
+
+)
+
+
+{\displaystyle J_{\nu \beta }\propto \sum _{\mathbf {k} }\phi _{\nu }^{\star }({\mathbf {k} }){\mathbf {k} }\cdot {\mathbf {k} }_{\rm {THz}}\phi _{\beta }({\mathbf {k} })}
+
+ between two exciton states. The unit vector 
+
+
+
+
+
+
+k
+
+
+
+
+T
+H
+z
+
+
+
+
+
+{\displaystyle {\mathbf {k} }_{\rm {THz}}}
+
+ is determined by the direction of the THz field. This leads to dipole selection rules among exciton states, in full analog to the atomic dipole selection rules. Each allowed transition produces a resonance in 
+
+
+
+
+S
+
+ν
+,
+λ
+
+
+(
+ω
+)
+
+
+{\displaystyle S^{\nu ,\lambda }(\omega )}
+
+ and the resonance width is determined by a dephasing constant 
+
+
+
+
+γ
+
+λ
+,
+ν
+
+
+(
+ω
+)
+
+
+{\displaystyle \gamma _{\lambda ,\nu }(\omega )}
+
+ that generally depends on exciton states involved and the THz frequency 
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+. The THz response also contains 
+
+
+
+γ
+(
+ω
+)
+
+
+{\displaystyle \gamma (\omega )}
+
+ that stems from the decay constant of macroscopic THz currents.[4]
+In contrast to optical and photoluminescence spectroscopy, THz absorption can directly measure the presence of exciton populations in full analogy to atomic spectroscopy.[8][9] For example, the presence of a pronounced 1s-to-2p resonance in THz absorption uniquely identifies the presence of excitons as detected experimentally in Ref.[10] As a major difference to atomic spectroscopy, semiconductor resonances contain a strong excitation-induced dephasing that produces much broader resonances than in atomic spectroscopy. In fact, one typically can resolve only one 1s-to-2p resonance because the dephasing constant 
+
+
+
+
+γ
+
+ν
+,
+λ
+
+
+
+
+{\displaystyle \gamma _{\nu ,\lambda }}
+
+ is broader than energetic spacing of n-p and (n+1)-p states making 1s-to-n-p and 1s-to-(n+1)p resonances merge into one asymmetric tail.
+See also[edit]
+
+Absorption
+Semiconductor-luminescence equations
+Semiconductor Bloch equations
+Quantum-optical spectroscopy
+Wannier equation
+Photoluminescence
+Terahertz technology
+
+Further reading[edit]
+
+Haug, H.; Koch, S. W. (2009). Quantum Theory of the Optical and Electronic Properties of Semiconductors (5th ed.). World Scientific. p. 216. ISBN 9812838848. 
+Ashcroft, Neil W.; Mermin, N. David (1976). Solid State Physics. Holt, Rinehart and Winston. ISBN 0-03-083993-9. 
+Kira, M.; Koch, S. W. (2011). Semiconductor Quantum Optics. Cambridge University Press. ISBN 978-0521875097. 
+Klingshirn, C. F. (2006). Semiconductor Optics. Springer. ISBN 978-3540383451. 
+Kalt, H.; Hetterich, M. (2004). Optics of Semiconductors and Their Nanostructures. Springer. ISBN 978-3540383451. 
+
+References[edit]
+
+
+
+^ Kuper, C. G.; Whitfield, G. D. (1963). Polarons and Excitons. Plenum Press. LCCN 63021217.
+^ Kira, M.; Koch, S. W. (2011). Semiconductor Quantum Optics. Cambridge University Press. ISBN 978-0521875097.
+^ Lee, Y.-S. (2009). Principles of Terahertz Science and Technology. doi:10.1007/978-0-387-09540-0. ISBN 978-0-387-09539-4.
+^ a b c d Kira, M.; Koch, S.W. (2006). "Many-body correlations and excitonic effects in semiconductor spectroscopy". Progress in Quantum Electronics 30 (5): 155–296. doi:10.1016/j.pquantelec.2006.12.002
+^ Jahnke, F.; Kira, M.; Koch, S. W.; Tai, K. (1996). "Excitonic Nonlinearities of Semiconductor Microcavities in the Nonperturbative Regime". Physical Review Letters 77 (26): 5257–5260. doi:10.1103/PhysRevLett.77.5257
+^ Walls, D. F.; Milburn, G. J. (2008). Quantum Optics (2nd ed.). ISBN 978-3-540-28574-8.
+^ Chatterjee, S.; Ell, C.; Mosor, S.; Khitrova, G.; Gibbs, H.; Hoyer, W.; Kira, M.; Koch, S.; Prineas, J.; Stolz, H. (2004). "Excitonic Photoluminescence in Semiconductor Quantum Wells: Plasma versus Excitons". Physical Review Letters 92 (6). doi:10.1103/PhysRevLett.92.067402
+^ Timusk, T.; Navarro, H.; Lipari, N.O.; Altarelli, M. (1978). "Far-infrared absorption by excitons in silicon". Solid State Communications 25 (4): 217–219. doi:10.1016/0038-1098(78)90216-8
+^ Kira, M.; Hoyer, W.; Stroucken, T.; Koch, S. (2001). "Exciton Formation in Semiconductors and the Influence of a Photonic Environment". Physical Review Letters 87 (17). doi:10.1103/PhysRevLett.87.176401
+^ Kaindl, R. A.; Carnahan, M. A.; Hägele, D.; Lövenich, R.; Chemla, D. S. (2003). "Ultrafast terahertz probes of transient conducting and insulating phases in an electron–hole gas". Nature 423 (6941): 734–738. doi:10.1038/nature01676
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Elliott_formula&oldid=797512584"					
+Categories: Theoretical physicsSemiconductor analysisQuantum mechanicsEquations of physics 

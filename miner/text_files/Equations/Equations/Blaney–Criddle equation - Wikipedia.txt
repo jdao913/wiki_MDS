@@ -1,0 +1,61 @@
+Blaney–Criddle equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Blaney–Criddle equation (named after H. F. Blaney and W. D. Criddle) is a method for estimating reference crop evapotranspiration.
+
+
+
+Contents
+
+
+1 Usage
+2 Equation
+3 Accuracy and bias
+4 See also
+5 External links
+6 Notes and references
+
+
+
+Usage[edit]
+The Blaney–Criddle equation is a relatively simplistic method for calculating evapotranspiration. When sufficient meteorological data is available the Penman–Monteith equation is usually preferred. However, the Blaney–Criddle equation is ideal when only air-temperature datasets are available for a site.
+Given the coarse accuracy of the Blaney–Criddle equation, it is recommended that it be used to calculate evapotranspiration for periods of one month or greater [1].
+The equation calculates evapotranspiration for a 'reference crop', which is taken as actively growing green grass of 8–15 cm height [2].
+Equation[edit]
+ETo = p ·(0.457·Tmean + 8.128)
+Where:
+ETo is the reference evapotranspiration [mm day−1] (monthly)
+Tmean is the mean daily temperature [°C] given as Tmean = (Tmax + Tmin )/ 2
+p is the mean daily percentage of annual daytime hours.[1]
+Accuracy and bias[edit]
+Given the limited data input to the equation, the calculated evapotranspiration should be regarded as only broadly accurate. Rather than a precise measure of evapotranspiration, the output of the equation is better thought of as providing an order of magnitude [3]
+The inaccuracy of the equation is exacerbated by extreme variants of weather. In particular evapotranspiration is known to be exaggerated by up to 40% in calm, humid, clouded areas and depreciated by 60% in windy, dry, sunny areas [4].
+See also[edit]
+
+Jensen–Haise equation (M. E. Jensen and H. R. Haise, 1963)
+Penman–Monteith equation
+
+External links[edit]
+
+Rational Use of the FAO Blaney-Criddle Formula (Allen 1986)
+Potential Evapotranspiration
+
+Notes and references[edit]
+
+
+
+^ "Irrigation Water Management: Irrigation Water Needs - FAO 1986". 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Blaney–Criddle_equation&oldid=772914170"					
+Categories: AgronomyEquations 

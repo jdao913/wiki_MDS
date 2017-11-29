@@ -1,0 +1,757 @@
+Antoine equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (March 2014) (Learn how and when to remove this template message)
+
+
+
+The Antoine equation is a class of semi-empirical correlations describing the relation between vapor pressure and temperature for pure components. The Antoine equation is derived from the Clausius–Clapeyron relation. The equation was presented in 1888 by the French engineer Louis Charles Antoine (fr) (1825–1897).[1]
+
+
+
+Contents
+
+
+1 The equation
+2 Validity range
+3 Example parameters
+
+3.1 Example calculation
+
+
+4 Units
+5 Extension of the Antoine equations
+6 Sources for Antoine equation parameters
+7 See also
+8 References
+9 External links
+
+
+
+The equation[edit]
+
+
+
+
+
+
+log
+
+10
+
+
+⁡
+p
+=
+A
+−
+
+
+B
+
+C
++
+T
+
+
+
+.
+
+
+{\displaystyle \log _{10}p=A-{\frac {B}{C+T}}.}
+
+
+
+where p is the vapor pressure, T is temperature and A, B and C are component-specific constants.
+The simplified form with C set to zero:
+
+
+
+
+
+
+log
+
+10
+
+
+⁡
+p
+=
+A
+−
+
+
+B
+T
+
+
+
+
+{\displaystyle \log _{10}p=A-{\frac {B}{T}}}
+
+
+
+is named the August equation, after the German physicist Ernst Ferdinand August (1795–1870). The August equation describes a linear relation between the logarithm of the pressure and the reciprocal temperature. This assumes a temperature-independent heat of vaporization. The Antoine equation allows an improved, but still inexact description of the change of the heat of vaporization with the temperature.
+The Antoine equation can also be transformed in a temperature-explicit form with simple algebraic manipulations:
+
+
+
+
+
+T
+=
+
+
+B
+
+A
+−
+
+log
+
+10
+
+
+
+p
+
+
+
+−
+C
+
+
+{\displaystyle T={\frac {B}{A-\log _{10}\,p}}-C}
+
+
+
+Validity range[edit]
+Usually, the Antoine equation cannot be used to describe the entire saturated vapour pressure curve from the triple point to the critical point, because it is not flexible enough. Therefore, multiple parameter sets for a single component are commonly used. A low-pressure parameter set is used to describe the vapour pressure curve up to the normal boiling point and the second set of parameters is used for the range from the normal boiling point to the critical point.
+
+Typical deviations of a parameter fit over the entire range (experimental data for Benzene)
+
+
+
+
+
+
+Deviations of a August equation fit (2 parameters)
+
+
+
+
+
+
+
+
+
+Deviations of a Antoine equation fit (3 parameters)
+
+
+
+
+
+
+
+
+
+Deviations of a DIPPR 101 equation fit (4 parameters)
+
+
+
+
+Example parameters[edit]
+
+
+
+A
+B
+C
+T min.
+°C
+
+T max
+°C
+
+
+
+Water
+8.07131
+1730.63
+233.426
+1
+100
+
+
+Water
+8.14019
+1810.94
+244.485
+99
+374
+
+
+Ethanol
+8.20417
+1642.89
+230.300
+-57
+80
+
+
+Ethanol
+7.68117
+1332.04
+199.200
+77
+243
+
+
+The constants are given in °C and mmHg.
+Example calculation[edit]
+The normal boiling point of ethanol is TB = 78.32 °C.
+
+
+
+
+
+P
+=
+
+10
+
+(
+8
+
+.
+
+20417
+−
+
+
+
+1642
+
+.
+
+89
+
+
+78
+
+.
+
+32
++
+230
+
+.
+
+300
+
+
+
+)
+
+
+=
+760
+
+.
+
+0
+ 
+
+m
+m
+H
+g
+
+
+
+{\displaystyle P=10^{(8{.}20417-{\frac {1642{.}89}{78{.}32+230{.}300}})}=760{.}0\ \mathrm {mmHg} }
+
+
+
+
+
+
+
+
+P
+=
+
+10
+
+(
+7
+
+.
+
+68117
+−
+
+
+
+1332
+
+.
+
+04
+
+
+78
+
+.
+
+32
++
+199
+
+.
+
+200
+
+
+
+)
+
+
+=
+761
+
+.
+
+0
+ 
+
+m
+m
+H
+g
+
+
+
+{\displaystyle P=10^{(7{.}68117-{\frac {1332{.}04}{78{.}32+199{.}200}})}=761{.}0\ \mathrm {mmHg} }
+
+
+
+(760 mmHg = 101.325 kPa = 1.000 atm = normal pressure)
+This example shows a severe problem caused by using two different sets of coefficients. The described vapor pressure is not continuous—at the normal boiling point the two sets give different results. This causes severe problems for computational techniques which rely on a continuous vapor pressure curve.
+Two solutions are possible: The first approach uses a single Antoine parameter set over a larger temperature range and accepts the increased deviation between calculated and real vapor pressures. A variant of this single set approach is using a special parameter set fitted for the examined temperature range. The second solution is switching to another vapor pressure equation with more than three parameters. Commonly used are simple extensions of the Antoine equation (see below) and the equations of DIPPR or Wagner.[2][3]
+Units[edit]
+The coefficients of Antoine's equation are normally given in mmHg—even today where the SI is recommended and pascals are preferred. The usage of the pre-SI units has only historic reasons and originates directly from Antoine's original publication.
+It is however easy to convert the parameters to different pressure and temperature units. For switching from degrees Celsius to kelvin it is sufficient to subtract 273.15 from the C parameter. For switching from millimeters of mercury to pascals it is sufficient to add the common logarithm of the factor between both units to the A parameter:
+
+
+
+
+
+A
+
+
+P
+a
+
+
+
+=
+
+A
+
+
+m
+m
+H
+g
+
+
+
++
+
+log
+
+10
+
+
+⁡
+
+
+101325
+760
+
+
+=
+
+A
+
+
+m
+m
+H
+g
+
+
+
++
+2.124903.
+
+
+{\displaystyle A_{\mathrm {Pa} }=A_{\mathrm {mmHg} }+\log _{10}{\frac {101325}{760}}=A_{\mathrm {mmHg} }+2.124903.}
+
+
+The parameters for °C and mmHg for ethanol
+
+
+
+
+A
+B
+C
+
+
+8.20417
+1642.89
+230.300
+
+
+
+
+are converted for K and Pa to
+
+
+
+
+A
+B
+C
+
+
+10.32907
+1642.89
+-42.85
+
+
+
+
+The first example calculation with TB = 351.47 K becomes
+
+
+
+
+
+
+log
+
+10
+
+
+⁡
+(
+P
+)
+=
+10
+
+.
+
+3291
+−
+
+
+
+1642
+
+.
+
+89
+
+
+351
+
+.
+
+47
+−
+42
+
+.
+
+85
+
+
+
+=
+5
+
+.
+
+005727378
+=
+
+log
+
+10
+
+
+⁡
+(
+101328
+ 
+
+P
+a
+
+)
+.
+
+
+{\displaystyle \log _{10}(P)=10{.}3291-{\frac {1642{.}89}{351{.}47-42{.}85}}=5{.}005727378=\log _{10}(101328\ \mathrm {Pa} ).}
+
+
+
+A similarly simple transformation can be used if the common logarithm should be exchanged by the natural logarithm. It is sufficient to multiply the A and B parameters by ln(10) = 2.302585.
+The example calculation with the converted parameters (for K and Pa):
+
+
+
+
+A
+B
+C
+
+
+23.7836
+3782.89
+-42.85
+
+
+
+
+becomes
+
+
+
+
+
+ln
+⁡
+P
+=
+23
+
+.
+
+7836
+−
+
+
+
+3782
+
+.
+
+89
+
+
+351
+
+.
+
+47
+−
+42
+
+.
+
+85
+
+
+
+=
+11
+
+.
+
+52616367
+=
+ln
+⁡
+(
+101332
+
+
+P
+a
+
+)
+.
+
+
+{\displaystyle \ln P=23{.}7836-{\frac {3782{.}89}{351{.}47-42{.}85}}=11{.}52616367=\ln(101332\,\mathrm {Pa} ).}
+
+
+
+(The small differences in the results are only caused by the used limited precision of the coefficients).
+Extension of the Antoine equations[edit]
+To overcome the limits of the Antoine equation some simple extension by additional terms are used:
+
+
+
+
+
+P
+=
+exp
+⁡
+
+
+(
+A
++
+
+
+B
+
+C
++
+T
+
+
+
++
+D
+⋅
+T
++
+E
+⋅
+
+T
+
+2
+
+
++
+F
+⋅
+ln
+⁡
+
+(
+T
+)
+
+)
+
+
+
+
+{\displaystyle P=\exp {\left(A+{\frac {B}{C+T}}+D\cdot T+E\cdot T^{2}+F\cdot \ln \left(T\right)\right)}}
+
+
+
+
+
+
+P
+=
+exp
+⁡
+
+(
+A
++
+
+
+B
+
+C
++
+T
+
+
+
++
+D
+⋅
+ln
+⁡
+
+(
+T
+)
+
++
+E
+⋅
+
+T
+
+F
+
+
+)
+
+.
+
+
+{\displaystyle P=\exp \left(A+{\frac {B}{C+T}}+D\cdot \ln \left(T\right)+E\cdot T^{F}\right).}
+
+
+
+The additional parameters increase the flexibility of the equation and allow the description of the entire vapor pressure curve. The extended equation forms can be reduced to the original form by setting the additional parameters D, E and F to 0.
+A further difference is that the extended equations use the e as base for the exponential function and the natural logarithm. This doesn't affect the equation form.
+Sources for Antoine equation parameters[edit]
+
+NIST Chemistry WebBook
+Dortmund Data Bank
+Directory of reference books and data banks containing Antoine constants
+Several reference books and publications, e. g.
+
+Lange's Handbook of Chemistry, McGraw-Hill Professional
+Wichterle I., Linek J., "Antoine Vapor Pressure Constants of Pure Compounds"
+Yaws C. L., Yang H.-C., "To Estimate Vapor Pressure Easily. Antoine Coefficients Relate Vapor Pressure to Temperature for Almost 700 Major Organic Compounds", Hydrocarbon Processing, 68(10), Pages 65–68, 1989
+
+
+
+See also[edit]
+
+Vapour pressure of water
+Arden Buck equation
+Lee–Kesler method
+Goff–Gratch equation
+
+References[edit]
+
+
+^ Antoine, C. (1888), "Tensions des vapeurs; nouvelle relation entre les tensions et les températures" [Vapor Pressure: a new relationship between pressure and temperature], Comptes Rendus des Séances de l'Académie des Sciences (in French), 107: 681–684, 778–780, 836–837 
+^ Wagner, W. (1973), "New vapour pressure measurements for argon and nitrogen and an new method for establishing rational vapour pressure equations", Cryogenics, 13 (8): 470–482, Bibcode:1973Cryo...13..470W, doi:10.1016/0011-2275(73)90003-9 
+^ Reid, Robert C.; Prausnitz, J. M.; Sherwood, Thomas K. (1977), Properties of Gases and Liquids (3rd ed.), New York: McGraw-Hill, ISBN 978-007051790-5 
+
+
+External links[edit]
+
+Gallica, scanned original paper
+NIST Chemistry Web Book
+Calculation of vapor pressures with the Antoine equation
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Antoine_equation&oldid=810399245"					
+Categories: EquationsThermodynamic equationsHidden categories: CS1 French-language sources (fr)Articles lacking in-text citations from March 2014All articles lacking in-text citationsInterlanguage link template link number 

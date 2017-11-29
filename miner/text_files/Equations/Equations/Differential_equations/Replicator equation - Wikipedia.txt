@@ -1,0 +1,839 @@
+Replicator equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, the replicator equation is a deterministic monotone non-linear and non-innovative game dynamic used in evolutionary game theory. The replicator equation differs from other equations used to model replication, such as the quasispecies equation, in that it allows the fitness function to incorporate the distribution of the population types rather than setting the fitness of a particular type constant. This important property allows the replicator equation to capture the essence of selection. Unlike the quasispecies equation, the replicator equation does not incorporate mutation and so is not able to innovate new types or pure strategies.
+
+
+
+Contents
+
+
+1 Equational forms
+2 Analysis
+3 Relationships to other equations
+4 Generalizations
+5 References
+6 External links
+
+
+
+Equational forms[edit]
+The most general continuous form is given by the differential equation
+
+
+
+
+
+
+
+
+
+x
+
+i
+
+
+˙
+
+
+
+=
+
+x
+
+i
+
+
+[
+
+f
+
+i
+
+
+(
+x
+)
+−
+ϕ
+(
+x
+)
+]
+,
+
+ϕ
+(
+x
+)
+=
+
+∑
+
+j
+=
+1
+
+
+n
+
+
+
+
+x
+
+j
+
+
+
+f
+
+j
+
+
+(
+x
+)
+
+
+
+{\displaystyle {\dot {x_{i}}}=x_{i}[f_{i}(x)-\phi (x)],\quad \phi (x)=\sum _{j=1}^{n}{x_{j}f_{j}(x)}}
+
+
+
+where 
+
+
+
+
+x
+
+i
+
+
+
+
+{\displaystyle x_{i}}
+
+ is the proportion of type 
+
+
+
+i
+
+
+{\displaystyle i}
+
+ in the population, 
+
+
+
+x
+=
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle x=(x_{1},\ldots ,x_{n})}
+
+ is the vector of the distribution of types in the population, 
+
+
+
+
+f
+
+i
+
+
+(
+x
+)
+
+
+{\displaystyle f_{i}(x)}
+
+ is the fitness of type 
+
+
+
+i
+
+
+{\displaystyle i}
+
+ (which is dependent on the population), and 
+
+
+
+ϕ
+(
+x
+)
+
+
+{\displaystyle \phi (x)}
+
+ is the average population fitness (given by the weighted average of the fitness of the 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ types in the population). Since the elements of the population vector 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ sum to unity by definition, the equation is defined on the n-dimensional simplex.
+The replicator equation assumes a uniform population distribution; that is, it does not incorporate population structure into the fitness. The fitness landscape does incorporate the population distribution of types, in contrast to other similar equations, such as the quasispecies equation.
+In application, populations are generally finite, making the discrete version more realistic. The analysis is more difficult and computationally intensive in the discrete formulation, so the continuous form is often used, although there are significant properties that are lost due to this smoothing. Note that the continuous form can be obtained from the discrete form by a limiting process.
+To simplify analysis, fitness is often assumed to depend linearly upon the population distribution, which allows the replicator equation to be written in the form:
+
+
+
+
+
+
+
+
+
+x
+
+i
+
+
+˙
+
+
+
+=
+
+x
+
+i
+
+
+
+(
+
+
+(
+A
+x
+)
+
+
+i
+
+
+−
+
+x
+
+T
+
+
+A
+x
+)
+
+,
+
+
+{\displaystyle {\dot {x_{i}}}=x_{i}\left(\left(Ax\right)_{i}-x^{T}Ax\right),}
+
+
+
+where the payoff matrix 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ holds all the fitness information for the population: the expected payoff can be written as 
+
+
+
+
+
+(
+A
+x
+)
+
+
+i
+
+
+
+
+{\displaystyle \left(Ax\right)_{i}}
+
+ and the mean fitness of the population as a whole can be written as 
+
+
+
+
+x
+
+T
+
+
+A
+x
+
+
+{\displaystyle x^{T}Ax}
+
+.
+Analysis[edit]
+Main article: Evolutionarily stable state
+The analysis differs in the continuous and discrete cases: in the former, methods from differential equations are utilized, whereas in the latter the methods tend to be stochastic. Since the replicator equation is non-linear, an exact solution is difficult to obtain (even in simple versions of the continuous form) so the equation is usually analyzed in terms of stability. The replicator equation (in its continuous and discrete forms) satisfies the folk theorem of evolutionary game theory which characterizes the stability of equilibria of the equation. The solution of the equation is often given by the set of evolutionarily stable states of the population.
+In general nondegenerate cases, there can be at most one interior evolutionary stable state (ESS), though there can be many equilibria on the boundary of the simplex. All the faces of the simplex are forward-invariant which corresponds to the lack of innovation in the replicator equation: once a strategy becomes extinct there is no way to revive it.
+Phase portrait solutions for the continuous linear-fitness replicator equation have been classified in the two and three dimensional cases. Classification is more difficult in higher dimensions because the number of distinct portraits increases rapidly.
+Relationships to other equations[edit]
+The continuous replicator equation on 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ types is equivalent to the Generalized Lotka–Volterra equation in 
+
+
+
+n
+−
+1
+
+
+{\displaystyle n-1}
+
+ dimensions. The transformation is made by the change of variables
+
+
+
+
+
+
+x
+
+i
+
+
+=
+
+
+
+y
+
+i
+
+
+
+1
++
+
+∑
+
+j
+=
+1
+
+
+n
+−
+1
+
+
+
+
+y
+
+j
+
+
+
+
+
+
+
+i
+=
+1
+,
+…
+,
+n
+−
+1
+
+
+{\displaystyle x_{i}={\frac {y_{i}}{1+\sum _{j=1}^{n-1}{y_{j}}}}\quad i=1,\ldots ,n-1}
+
+
+
+
+
+
+
+x
+
+n
+
+
+=
+
+
+1
+
+1
++
+
+∑
+
+j
+=
+1
+
+
+n
+−
+1
+
+
+
+
+y
+
+j
+
+
+
+
+
+
+,
+
+
+{\displaystyle x_{n}={\frac {1}{1+\sum _{j=1}^{n-1}{y_{j}}}},}
+
+
+
+where 
+
+
+
+
+y
+
+i
+
+
+
+
+{\displaystyle y_{i}}
+
+ is the Lotka–Volterra variable.
+The continuous replicator dynamic is also equivalent to the Price equation (see Page & Nowak's (2002) paper Unifying Evolutionary Dynamics).
+Generalizations[edit]
+A generalization of the replicator equation which incorporates mutation is given by the replicator-mutator equation, which takes the following form in the continuous version:
+
+
+
+
+
+
+
+
+
+x
+
+i
+
+
+˙
+
+
+
+=
+
+∑
+
+j
+=
+1
+
+
+n
+
+
+
+
+x
+
+j
+
+
+
+f
+
+j
+
+
+(
+x
+)
+
+Q
+
+j
+i
+
+
+
+−
+ϕ
+(
+x
+)
+
+x
+
+i
+
+
+,
+
+
+{\displaystyle {\dot {x_{i}}}=\sum _{j=1}^{n}{x_{j}f_{j}(x)Q_{ji}}-\phi (x)x_{i},}
+
+
+
+where the matrix 
+
+
+
+Q
+
+
+{\displaystyle Q}
+
+ gives the transition probabilities for the mutation of type 
+
+
+
+j
+
+
+{\displaystyle j}
+
+ to type 
+
+
+
+i
+
+
+{\displaystyle i}
+
+. This equation is a simultaneous generalization of the replicator equation and the quasispecies equation, and is used in the mathematical analysis of language.
+The replicator equation can easily be generalized to asymmetric games. A recent generalization that incorporates population structure is used in evolutionary graph theory.
+References[edit]
+
+Bomze, I.M. (1983) Lotka-Volterra equations and replicator dynamics: A two dimensional classification. Biol. Cybern. 48:201-11.
+Bomze, I.M. (1995) Lotka-Volterra equations and replicator dynamics: New issues in classification. Biol. Cybern. 72:447-53.
+Cressman, R. (2003) Evolutionary Dynamics and Extensive Form Games The MIT Press.
+Hofbauer, J., and Sigmund, K. (2003) Evolutionary game dynamics Bull. Am. Math. Soc. 40, 479-519.
+Lieberman, E., Hauert, C., & Nowak, M. (2005). Evolutionary dynamics on graphs. Nature, 433(7023), 312-316.
+Page, K., and Nowak, M. (2002) Unifying Evolutionary Dynamics Journal of Theoretical Biology 219: 93-98 .
+Nowak, M. (2006) Evolutionary Dynamics: Exploring the Equations of Life Belknap Press.
+
+External links[edit]
+
+Izquierdo, S.S. & Izquierdo L.R. (2011). Online software: The Replicator-Mutator Dynamics with Three Strategies
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Topics in game theory
+
+
+
+Definitions
+
+
+
+Normal-form game
+Extensive-form game
+Escalation of commitment
+Graphical game
+Cooperative game
+Simultaneous action selection
+Solved game
+Succinct game
+Information set
+Hierarchy of beliefs
+Preference
+
+
+
+
+
+Equilibrium
+concepts
+
+
+
+Nash equilibrium
+Subgame perfection
+Mertens-stable equilibrium
+Bayesian Nash equilibrium
+Perfect Bayesian equilibrium
+Trembling hand
+Proper equilibrium
+Epsilon-equilibrium
+Correlated equilibrium
+Sequential equilibrium
+Quasi-perfect equilibrium
+Evolutionarily stable strategy
+Risk dominance
+Core
+Shapley value
+Pareto efficiency
+Gibbs equilibrium
+Quantal response equilibrium
+Self-confirming equilibrium
+Strong Nash equilibrium
+Markov perfect equilibrium
+
+
+
+
+
+Strategies
+
+
+
+Dominant strategies
+Pure strategy
+Mixed strategy
+Strategy-stealing argument
+Tit for tat
+Grim trigger
+Collusion
+Backward induction
+Forward induction
+Markov strategy
+
+
+
+
+
+Classes
+of games
+
+
+
+Symmetric game
+Perfect information
+Simultaneous game
+Sequential game
+Repeated game
+Signaling game
+Screening game
+Cheap talk
+Zero-sum game
+Mechanism design
+Bargaining problem
+Stochastic game
+n-player game
+Large Poisson game
+Nontransitive game
+Global game
+Strictly determined game
+Potential game
+
+
+
+
+
+Games
+
+
+
+Chess
+Infinite chess
+Checkers
+Tic-tac-toe
+Prisoner's dilemma
+Optional prisoner's dilemma
+Traveler's dilemma
+Coordination game
+Chicken
+Centipede game
+Volunteer's dilemma
+Dollar auction
+Battle of the sexes
+Stag hunt
+Matching pennies
+Ultimatum game
+Rock–paper–scissors
+Pirate game
+Dictator game
+Public goods game
+Blotto game
+War of attrition
+El Farol Bar problem
+Fair division
+Fair cake-cutting
+Cournot game
+Deadlock
+Diner's dilemma
+Guess 2/3 of the average
+Kuhn poker
+Nash bargaining game
+Prisoners and hats puzzle
+Trust game
+Princess and Monster game
+Rendezvous problem
+
+
+
+
+
+Theorems
+
+
+
+Minimax theorem
+Nash's theorem
+Purification theorem
+Zermelo's theorem
+Folk theorem
+Revelation principle
+Arrow's impossibility theorem
+
+
+
+
+
+Key
+figures
+
+
+
+Albert W. Tucker
+Amos Tversky
+Ariel Rubinstein
+Claude Shannon
+Daniel Kahneman
+David K. Levine
+David M. Kreps
+Donald B. Gillies
+Drew Fudenberg
+Eric Maskin
+Harold W. Kuhn
+Herbert Simon
+Hervé Moulin
+Jean Tirole
+Jean-François Mertens
+John Harsanyi
+John Maynard Smith
+Antoine Augustin Cournot
+John Nash
+John von Neumann
+Kenneth Arrow
+Kenneth Binmore
+Leonid Hurwicz
+Lloyd Shapley
+Melvin Dresher
+Merrill M. Flood
+Oskar Morgenstern
+Paul Milgrom
+Peyton Young
+Reinhard Selten
+Robert Axelrod
+Robert Aumann
+Robert B. Wilson
+Roger Myerson
+Samuel Bowles
+Thomas Schelling
+William Vickrey
+
+
+
+
+
+See also
+
+
+
+All-pay auction
+Alpha–beta pruning
+Bertrand paradox
+Bounded rationality
+Combinatorial game theory
+Confrontation analysis
+Coopetition
+Glossary of game theory
+List of game theorists
+List of games in game theory
+No-win situation
+Topological game
+Tragedy of the commons
+Tyranny of small decisions
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Replicator_equation&oldid=761478977"					
+Categories: Game theoryDifferential equationsEvolutionary game theoryEvolutionary dynamics 
