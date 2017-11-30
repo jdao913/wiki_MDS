@@ -1,0 +1,638 @@
+Satellite television in the United States - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2014) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+U.S. residential satellite TV receiver dishes
+
+
+Currently, there are two primary satellite television providers of subscription based service available to United States consumers: DirecTV and Dish Network, which have 21 and 14 million subscribers respectively.[1][2]
+
+
+
+Contents
+
+
+1 History
+2 C band channels
+3 See also
+4 References
+
+
+
+History[edit]
+Over the past three decades, various U.S. satellite services have come and gone or combined to form the current primary services. In 1975 RCA created Satcom 1, the first satellite built especially for use by the then three national television networks (CBS, NBC, and ABC). Later that same year, HBO leased a transponder on Satcom 1 and began transmission of television programs via satellite to cable systems. Owners of cable systems paid $10,000 to install 3-meter dishes to receive TV signals in C band. In 1976 Taylor Howard built an amateur system, which consisted of a converted military surplus radar dish and a satellite receiver designed and built by Howard, for home satellite reception. Taylor's system could be used for receiving TV programs both from American and Soviet communication satellites. In 1977 Pat Robertson launched the first satellite-delivered basic cable service called the CBN Cable Network. In 1979, the Satellite Home Viewers Act allowed homeowners in the US to own and operate their own home satellite system, consisting of C-band equipment from a multitude of manufacturers who were making parts for systems such as Taylor Howard's, and began a large controversy of which channels could be received by whom.
+USSB was a direct-to-home service founded in 1981. In the early 1990s they partnered with Hughes and continued operation until purchased in 1998 by DirecTV.
+In 1991 Primestar launched as the first North American DBS service. Hughes’s DirecTV, the first national high-powered upper Ku-band DBS system, went online in 1994. The DirecTV system became the new delivery vehicle for USSB. In 1996, EchoStar’s Dish Network went online in the United States and has gone on to similar success as DirecTV’s primary competitor. The AlphaStar service launched in 1996 and went into bankruptcy in 1997. Primestar sold its assets to Hughes in 1999. Dominion Video Satellite Inc's Sky Angel also went online in the United States in 1996 with its DBS service geared towards "faith and family" until they sold the license to EchoStar Communications Corporation in 2008 and switched to an IPTV platform.
+In 2004, Cablevision’s Voom service went online, specifically catering to the emerging market of HDTV owners and aficionados, but folded in April 2005. The service’s “exclusive” high-definition channels were migrated to the Dish Network system. Commercial DBS services are the primary competition to cable television service, although the two types of service have significantly different regulatory requirements (for example, cable television has public access requirements, and the two types of distribution have different regulations regarding carriage of local stations).
+
+
+
+
+90cm multiple-LNA toroidal satellite dish
+
+
+The majority of ethnic-language broadcasts in North America are carried on Ku band free-to-air. The largest concentration of free-to-air programming is on Galaxy 19 at 97° W. Pittsburgh International Telecommunications and GlobeCast World TV offers a mix of free and pay-TV ethnic channels in the internationally-standard DVB-S and S2 formats, as do others. Home2US Communications Inc. also offers several ethnic channels on SES 1 at 101° W, as well as other free and pay-TV channels. Many religious broadcasters reach the DTH and distribution markets with unencrypted DVB-S television and radio channels on Galaxy 19. These channels are available as part of the Glorystar Satellite Service. Several U.S.-English language network affiliates (representing CBS, NBC, ABC, PBS, FOX, the CW (formerly the WB and UPN), ION Network and MyNetworkTV) are available as free-to-air broadcasts, as are the three U.S.-Spanish language networks (Univisión, Unimás and Telemundo). The number of free-to-air specialty channels is otherwise rather limited. Specific FTA offerings tend to appear and disappear rather often and typically with little or no notice, although sites such as LyngSat do track the changing availability of both free and pay channels worldwide.[3]
+On October 7, 2009, NAB TV Board chair Paul Karpowicz planned to testify before the Senate Communications Subcommittee that broadcasters would be willing to allow subscribers of distant signals to continue to do so even if the digital transition resulted in those subscribers receiving stations that they could not before. The NAB did oppose offering new distant signals if a digital signal was available. The Satellite TV Modernization Act had to be passed by the end of 2009. The House bill also allowed Dish Network to offer distant signals.[4] On November 5, Senate Judiciary Committee chairman Patrick Leahy said he hoped for a "short-time agreement" on the bill passed out of committee September 24. If the Senate approves, the House will have to approve the bill, and if the two versions cannot be reconciled, the license to import signals that expires at the end of the year could be extended.[5] The House version included an agreement with Echostar that, where possible, all 210 markets could receive signals, and Echostar could once again deliver distant signals.
+The Senate Commerce Committee approved a version of the bill on November 19, without an amendment requiring local signals in all markets in three years, though a study would be conducted on why 30 markets still had a problem. Before Senate approval, the two versions of the bill will have to be reconciled; the Judiciary Committee had a short market fix, while the Commerce committee bill required PBS in HD sooner.[6]
+The House approved the Satellite Home Viewer Reauthorization Act December 3. It included both the House Commerce Committee and House Judiciary Committee versions and renewed the ability to use distant signals for five years, allowed Dish Network to offer distant signals again, and required 28 markets to receive signals not available locally. The bill also dealt with some copyright issues and required Dish Network to offer HD noncommercial signals by 2011 instead of 2013.[7]
+One potential problem: determining who cannot receive a signal is still based on analog rather than digital TV.[8]
+On February 11, 2010, Senate Majority Leader Harry Reid said the satellite reauthorization was part of a jobs bill. Rick Boucher, House chairman for communications and the Internet, believed the bill would pass. The deadline is March, since it has been extended 60 days.[9] Sen. Jim Bunning blocked the legislation in the Senate on Feb. 25, even though it passed the House.[10] On March 1, 2010, The Satellite Television Extension and Localism Act of 2010, scheduled to expire in 2014, became part of a jobs bill with help from Sen. Patrick Leahy.[11]
+C band channels[edit]
+This list is incomplete; you can help by expanding it.
+These are a list of the TV Channels that are on C-band satellites that are receivable in North America today. Most Cable TV headends today use other bands (i.e., Ku-band) in addition to C-band. C-band (from the mid-1970s to the late-1990s/early-2000s) was the band the vast majority of cable operators used to receive television channels from. (Ku-band TV satellites were becoming more common around the mid-/late-1980s, very few channels were on them at the time of its launch).
+KEY:
+
+Satellite-Transponder, Network
+F1-02 ABC (west) (KMGH)
+F1-05 FOX (west) (KDVR)
+F1-06 CBS (west) (KCNC)
+F1-07 Fox Movie Channel
+F1-14 NBC (west) (KUSA)
+F1-23 The CW (west) (KWGN)
+F3-02 The Learning Channel
+F3-07 C-SPAN
+F3-08 Style
+F3-12 History
+F3-13 The Weather Channel
+F3-17 The Movie Channel (east)
+F3-21 Comedy Central
+F4-03 Nickelodeon
+F4-06 E!
+F4-09 QVC
+F4-10 HSN
+F4-12 G4
+F4-17 MTV
+F4-19 C-SPAN2
+F4-21 Discovery Channel
+F4-22 Flix
+F4-23 VH1
+G0-04 Starz (east)
+G0-08 Starz (west)
+G0-12 Starz Edge
+G1-07 Disney Channel (west)
+G1-08 Cartoon Network/Adult Swim
+G1-10 MSNBC
+G1-11 EWTN
+G1-12 ShopNBC
+G1-17 Inspiration Network
+G1-19 Cinemax (east)
+G1-20 HGTV
+G1-21 USA Network (west)
+G4-16 Shepherds Chapel Network
+G5-01 Disney Channel (east)
+G5-03 Trinity Broadcasting Network
+G5-05 CNN
+G5-06 TBS
+G5-08 HBO (west)
+G5-09 ESPN
+G5-11 Freeform
+G5-13 WGN America
+G5-14 ESPN2
+G5-15 HBO (east)
+G5-16 Cinemax (west)
+G5-17 TNT
+G5-18 Syfy
+G5-19 USA Network (east)
+G5-20 BET
+G5-22 HLN
+G5-23 A&E
+G5-24 Showtime (east)
+G6-09 NASA TV
+G6-15 World Harvest Television
+G7-06 GSN
+G7-07 Golf Channel
+G7-09 YES Network
+G7-12 WE TV
+G7-14 IFC
+G7-15 The Word Network
+G7-18 Fox News Channel
+G7-21 NBCSN
+G9-01 AMC
+G9-15 Showtime (west)
+G9-16 TV Land
+G9-17 CMT
+G9-18 The Movie Channel (west)
+G9-19 Spike
+G9-24 Outdoor Channel
+G16-5 eScapes "television you never want to turn off"
+M1-10 Gobierno de la Republica
+M1-22 Once TV
+M1-24 Mariavision
+T7-21 Jewelry Television
+W3-03 MyNetworkTV (WSBK-TV)
+W3-05 NBC (east) (WNBC)
+W3-09 The CW (east) (WPIX)
+W3-15 The CW (west) (KTLA)
+W3-16 CNN International
+W3-19 ABC (east) (WABC)
+W3-22 CNBC
+W3-23 CBS (east)/One Caribbean Television (WSEE)
+W6-24 La Cadena del Milagro
+
+See also[edit]
+
+
+Television in the United States portal
+Television portal
+
+
+
+Big Three television networks
+Cable television in the United States
+Communications in the United States
+Fourth television network
+High-definition television in the United States
+List of television stations in the United States
+List of United States cable and satellite television networks
+List of United States over-the-air television networks
+List of United States television markets
+Satellite television in the United States
+Television in the United States
+Television news in the United States
+United States cable news
+
+References[edit]
+
+
+^ AT&T Loses Record Number of Traditional TV Subscribers in Q2, Drops 156,000 DirecTV Satellite Customers - Todd Spanger, Variety, 25 July 2017
+^ Dish Posts Gains In Total Pay TV Subs, Net Income - Wayne Friedman, MediaPost, 22 February 2017
+^ LyngSat tracking
+^ Eggerton, John (2009-10-06). "NAB Won't Oppose Some Grandfathering Of Distant Signals". Broadcasting & Cable. Retrieved 2009-10-09. 
+^ Eggerton, John (2009-11-05). "Leahy Looks for 'Short-Time' Agreement on Satellite Reauthorization". Broadcasting & Cable. Retrieved 2009-11-10. 
+^ Eggerton, John (2009-11-19). "Senate Passes Satellite Reauthorization Bill". Broadcasting & Cable. Retrieved 2009-11-20. 
+^ Eggerton, John (2009-12-03). "SHVRA Passes Convincingly in House". Broadcasting & Cable. Retrieved 2009-12-03. 
+^ Eggerton, John (2009-12-15). "Satellite Bill Extension Said To Be On Table In House". Broadcasting & Cable. Retrieved 2009-12-17. 
+^ Eggerton, John (2010-02-11). "Senate Version of Satellite Bill Hits Hill". Broadcasting & Cable. Retrieved 2010-02-25. 
+^ Eggerton, John (2010-02-26). "Senate Fails To Pass Satellite License Bill Extension". Broadcasting & Cable. Retrieved 2010-03-23. 
+^ "Extension of satellite TV licenses included in proposed jobs legislation". vermontbiz.com. 2010-03-01. Retrieved 2010-03-23. 
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ Television in the United States
+
+
+
+Stations and networks
+
+
+
+Over-the-air television networks
+
+ABC
+CBS
+NBC
+Fox
+Stations
+
+
+Cable and satellite
+
+Networks
+
+
+High-definition
+
+Channels
+
+
+
+
+
+
+
+Awards and events
+
+
+
+Emmy Award
+
+Primetime
+Daytime
+International
+Sports
+News & Documentary
+Technology & Engineering
+
+
+Sylvania Award
+Directors Guild of America Award
+Producers Guild of America Award
+Writers Guild of America Award
+Golden Globes
+Screen Actors Guild Award
+TCA Awards
+Critics' Choice TV Award
+Peabody Award
+People's Choice Awards
+NAACP Image Award
+Eddie Awards
+Artios Award
+American Society of Cinematographers Awards
+Humanitas Prize
+ADG Excellence in Production Design Award
+Hugo Award
+Visual Effects Society Awards
+Golden Reel Award
+GLAAD Media Award
+MTV Movie & TV Awards
+MTV Fandom Awards
+
+
+
+
+
+Organizations
+
+
+
+Academy of Television Arts & Sciences
+Alliance of Motion Picture and Television Producers
+American Society of Cinematographers
+Directors Guild of America
+Federal Communications Commission
+Motion Picture Association of America
+National Association of Broadcasters
+National Cable & Telecommunications Association
+Paley Center for Media
+Producers Guild of America
+SAG-AFTRA
+Writers Guild of America, East
+Writers Guild of America, West
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cable, satellite, and other specialty television providers in the United States
+
+
+
+Cable MVPD
+
+
+
+Adams Cable
+Altice USA
+
+Optimum
+Suddenlink Communications
+
+
+Armstrong
+Atlantic Broadband
+Blue Ridge Communications
+Blue Stream
+Broadstripe
+Buckeye Broadband
+Cable One
+Charter Spectrum
+Comcast Xfinity
+Consolidated Communications
+
+FairPoint Communications
+
+
+Cox Communications
+Docomo Pacific
+Emery Telcom
+Full Channel
+GCI
+Hargray
+Mediacom
+Midco
+Northland Communications
+Liberty Puerto Rico
+Satview Broadband
+Service Electric
+SRT Communications
+TDS Telecom
+TPG
+
+Grande Communications
+RCN Corporation
+Wave Broadband
+
+
+TruVista Communications
+WOW!
+
+
+
+
+
+Satellite MVPD
+
+
+
+Claro
+Dish Network
+DirecTV
+Glorystar
+Headend in the Sky
+Home2US
+
+
+
+
+
+Fiber MVPD / IPTV
+
+
+
+AT&T U-verse
+CenturyLink Prism TV
+Cincinnati Bell FiOptics
+Claro
+Consolidated Communications
+
+FairPoint Communications
+
+
+EPB
+Frontier FiOS
+Google Fiber
+GTA Teleguam
+Hawaiian Telcom
+Midco
+NEP Datastream TV
+TDS Telecom
+Verizon FiOS
+Windstream Kinetic
+
+
+
+
+
+Virtual MVPD
+
+
+
+DirecTV Now
+FuboTV
+Hulu with Live TV
+Philo
+PlayStation Vue
+Sling TV
+Spectrum TV Stream
+Xfinity Instant TV
+YouTube TV
+
+
+
+
+
+Over-the-top
+
+
+
+Amazon Video
+Anime Network
+Apple TV (iTunes Store)
+CBS All Access
+Crackle
+Crunchyroll
+CW Seed
+CuriosityStream
+DramaFever
+Fandor
+Feeln
+FunimationNow
+go90
+HBO Now
+History Vault
+Hulu
+iON (IPTV)
+Lifetime Movie Club
+Netflix
+Noggin
+Pluto TV
+Roku
+Seeso
+Showtime
+StarzPlay
+Tribeca Shortlist
+Tubi TV
+Univision NOW
+Yupptv
+WWE Network
+
+
+
+
+
+Defunct cable
+
+
+
+Adelphia Communications Corporation
+Alameda Power and Telecom1
+Astound Broadband
+AT&T Broadband
+
+MediaOne / Continental Cablevision
+Tele-Communications Inc.
+
+
+Baja Broadband
+
+US Cable
+
+
+Bresnan Communications
+Bright House Networks
+Cablevision
+Champion Broadband
+Cobridge Communications
+Community Home Entertainment
+Graceba Total Communications
+Insight Communications
+Jones Intercable
+King Videocable
+Knology
+Marcus Cable
+NPG Cable
+Paragon Cable
+Rapid Communications
+TelePrompTer / Group W Cable
+Time Warner Cable
+UA-Columbia Cablevision
+Windjammer Communications
+
+1 – Still in operation, but no longer offers cable or Internet as part of its services
+
+
+
+
+Defunct satellite
+
+
+
+AlphaStar
+GlobeCast World TV
+PrimeStar
+United States Satellite Broadcasting
+Voom HD Networks
+
+
+
+
+
+Defunct IPTV
+
+
+
+Sky Angel
+Virtual Digital Cable
+
+
+
+
+
+Defunct terrestrial
+
+
+
+Aereo
+USDTV
+MovieBeam
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+Africa, Asia, and Oceania
+Americas
+Europe
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Satellite_television_in_the_United_States&oldid=809692256"					
+Categories: Satellite televisionTelevision in the United StatesHidden categories: Articles needing additional references from June 2014All articles needing additional referencesIncomplete lists from July 2012 

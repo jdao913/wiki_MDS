@@ -1,0 +1,212 @@
+Template:Television news in the United States - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Television news in the United States
+
+
+
+Broadcast divisions
+
+
+
+ABC News
+CBS News
+NBC News
+PBS NewsHour
+Noticias Telemundo
+Noticias Univision
+
+
+
+
+
+National cable/
+satellite channels
+
+
+
+BBC World News
+CGTN America
+CNN
+
+HLN
+CNN International
+CNN en Español
+
+
+Fox News
+i24 News
+MSNBC
+Newsmax TV
+One America News
+RT America
+TheBlaze
+Non-profits
+
+Free Speech TV
+Link TV
+
+
+
+
+
+
+
+Business channels
+
+
+
+Bloomberg TV
+Cheddar
+CNBC
+
+CNBC World
+
+
+Fox Business
+
+
+
+
+
+Specialty channels
+
+
+
+C-SPAN
+ESPNews
+Fusion
+
+
+
+
+
+Weather
+
+
+
+AccuWeather
+
+Channel
+Network
+
+
+The Weather Channel
+
+Local Now
+Weatherscan
+
+
+WeatherNation TV
+
+
+
+
+
+Broadband services
+
+
+
+National
+
+CBSN
+Shift
+
+
+Specialty
+
+AJ+
+Vice News
+
+
+
+
+
+
+
+Outsourcing
+
+
+
+AerisWeather
+Independent News Network
+Weather Services International
+
+
+
+
+
+Defunct
+
+
+
+ABC channels
+
+ABC News Now
+Satellite News
+
+
+Al Jazeera America
+All News Channel
+CNN channels
+
+CNNfn
+CNN Pipeline
+CNNSI
+
+
+Current TV
+FNN-SCORE
+News Central
+NBC channels
+
+America's Talking
+NBC Weather Plus
+
+
+CBC Newsworld International
+The Weather Cast
+TouchVision
+UPI Newstime
+Univision Noticias
+
+
+
+
+
+
+Initial visibility
+To set the template's initial visibility, the |state= parameter may be used:
+
+|state=collapsed: {{Television news in the United States|state=collapsed}} to show the template collapsed, i.e., hidden apart from its title bar
+|state=expanded: {{Television news in the United States|state=expanded}} to show the template expanded, i.e., fully visible
+|state=autocollapse: {{Television news in the United States|state=autocollapse}}
+
+shows the template collapsed to the title bar if there is a {{navbar}}, a {{sidebar}}, or some other table on the page with the collapsible attribute
+shows the template in its expanded state if there are no other collapsible items on the page
+
+
+
+If the |state= parameter is not set, the template's initial visibility is taken from the |default= parameter in the template. For this template, that currently evaluates to autocollapse.
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Television_news_in_the_United_States&oldid=810731850"					
+Categories: United States television series navigational boxesTelevision news in the United States 
