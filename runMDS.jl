@@ -50,26 +50,39 @@ function main()
     dim = parsed_args["dimensions"]
     common = parsed_args["common"]
 
-    file = CSV.read(filename, nullable=false);
-    artNames = file[1]          #Article names
-    numArt = size(artNames)[1]
-    words = file[2:end]      #List of words in articles
-    data = Array(file[:, 2:end]);
-    commonWords = []
-    println("size of file", size(data))
-    #Remove common words
-    if common != nothing
-        commonfile = open(common)
-        words = readlines(commonfile)
-        commonWords = split(words[1], ",")
-        takeOut = intersect(words, commonWords)
-        for i = 1:size(words)
-            if any(x->x==words[i], takeOut)
-                data[:,i] = 0           #Set all common word occurances to 0
+    if filename[end-3:end] == ".jld"
+        d = load(filename)
+        artNames = d["names"]
+        data = d["data"]
+    else
+        file = CSV.read(filename, nullable=false);
+        artNames = file[1]          #Article names
+        numArt = size(artNames)[1]
+        artWords = Array(file[2:end])      #List of words in articles
+        println("artWords", typeof(artWords))
+        data = Array(file[:, 2:end]);
+        commonWords = []
+        println("size of file", size(data))
+        #Remove common words
+        if common != nothing
+            commonfile = open(common)
+            words = readlines(commonfile)
+            commonWords = split(words[1], ",")
+            takeOut = intersect(artWords, commonWords)
+            for i = 1:size(words)
+                if any(x->x==words[i], takeOut)
+                    data[:,i] = 0           #Set all common word occurances to 0
+                end
             end
+            save("./miner/parsedArticles/"*filename[1:end-4]*"noCommon.jld", "names", artNames, "data", data, "words", words)
+        else
+            println(typeof(artNames))
+            println(typeof(artWords))
+            println(typeof(data))
+            save("/tmp/"*filename[1:end-4]*".jld", "names", artNames, "data", data, "words", artWords)
         end
     end
-    
+
     D = getDist(data)      #Chop off article names and pass to dist func
     mds = classical_mds(D, dim)
     output = DataFrame(mds)
