@@ -1,0 +1,38 @@
+Einstein–Rosen metric - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Einstein–Rosen metric is an exact solution of Einstein's field equation. It was derived by Albert Einstein and Nathan Rosen in 1937.[1] It is the first exact solution of Einstein's equation that described the propagation of a gravitational wave.
+Notes[edit]
+
+
+
+^ Einstein, Albert & Rosen, Nathan (1937). "On Gravitational waves". Journal of the Franklin Institute. 223: 43–54. Bibcode:1937FrInJ.223...43E. doi:10.1016/S0016-0032(37)90583-0. 
+
+
+
+
+
+
+
+This relativity-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Einstein–Rosen_metric&oldid=797386840"					
+Categories: Albert EinsteinEquations of physicsGeneral relativityRelativity stubsHidden categories: All stub articles 

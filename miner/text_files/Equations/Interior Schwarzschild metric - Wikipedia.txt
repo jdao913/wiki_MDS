@@ -1,0 +1,2150 @@
+Interior Schwarzschild metric - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+General relativity
+
+
+
+
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+
+
+
+
+
+
+
+
+
+
+Introduction
+History
+
+
+
+Mathematical formulation
+
+
+
+Tests
+
+
+
+
+
+
+
+
+
+Fundamental concepts
+
+
+Equivalence principle
+Special relativity
+World line
+Riemannian geometry
+
+
+
+
+
+
+
+
+Phenomena
+
+
+
+
+
+Kepler problem
+Time dilation
+Gravitational field
+Gravitational collapse
+Gravitational lensing
+Gravitational waves
+Gravitational redshift
+Gravitational time delay
+Gravitational time dilation
+Gravitational potential
+Gravitational compression
+Frame-dragging
+Geodetic effect
+Gravity well
+Event horizon
+Singularity
+Naked singularity
+Black hole
+White hole
+
+
+
+
+Spacetime
+
+
+
+
+Space
+Time
+Spacetime diagrams
+Minkowski spacetime
+Closed timelike curve (CTC)
+Wormhole
+
+Ellis wormhole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+Formalisms
+
+
+
+
+
+
+Equations
+
+
+
+
+Linearized gravity
+Einstein field equations
+Friedmann
+Geodesics
+Mathisson–Papapetrou–Dixon
+Hamilton–Jacobi–Einstein
+
+
+
+
+Formalisms
+
+
+
+
+ADM
+BSSN
+Post-Newtonian
+
+
+
+
+Advanced theory
+
+
+
+
+Kaluza–Klein theory
+Quantum gravity
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Lemaître–Tolman
+Taub-NUT
+Milne
+Robertson–Walker
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedman
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Raychaudhuri
+Taylor
+Hulse
+van Stockum
+Taub
+Newman
+Yau
+Thorne
+others
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In Einstein's theory of general relativity, the interior Schwarzschild metric (also interior Schwarzschild solution or Schwarzschild fluid solution) is an exact solution for the gravitational field in the interior of a non-rotating spherical body which consists of an incompressible fluid (implying that density is constant throughout the body) and has zero pressure at the surface. This is a static solution, meaning that it does not change over time. It was discovered by Karl Schwarzschild in 1916, who earlier had found the exterior Schwarzschild metric.[1]
+
+
+
+Contents
+
+
+1 Mathematics
+
+1.1 Other formulations
+
+
+2 Properties
+
+2.1 Density
+2.2 Pressure and stability
+2.3 Redshift
+
+
+3 Visualization
+4 Examples
+5 History
+6 References
+
+
+
+Mathematics[edit]
+
+
+
+
+Spherical coordinates
+
+
+The interior Schwarzschild metric is framed in a spherical coordinate system with the body's centre located at the origin, plus the time coordinate. Its line element is[2][3]
+
+
+
+
+
+
+c
+
+2
+
+
+
+
+d
+τ
+
+
+2
+
+
+=
+
+
+1
+4
+
+
+
+
+(
+3
+
+
+1
+−
+
+
+
+r
+
+s
+
+
+
+r
+
+g
+
+
+
+
+
+
+−
+
+
+1
+−
+
+
+
+
+r
+
+2
+
+
+
+r
+
+s
+
+
+
+
+r
+
+g
+
+
+3
+
+
+
+
+
+
+)
+
+
+2
+
+
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+−
+
+
+(
+1
+−
+
+
+
+
+r
+
+2
+
+
+
+r
+
+s
+
+
+
+
+r
+
+g
+
+
+3
+
+
+
+
+)
+
+
+−
+1
+
+
+d
+
+r
+
+2
+
+
+−
+
+r
+
+2
+
+
+
+(
+d
+
+θ
+
+2
+
+
++
+
+sin
+
+2
+
+
+⁡
+θ
+
+d
+
+φ
+
+2
+
+
+)
+
+,
+
+
+{\displaystyle c^{2}{d\tau }^{2}={\frac {1}{4}}\left(3{\sqrt {1-{\frac {r_{s}}{r_{g}}}}}-{\sqrt {1-{\frac {r^{2}r_{s}}{r_{g}^{3}}}}}\right)^{2}c^{2}dt^{2}-\left(1-{\frac {r^{2}r_{s}}{r_{g}^{3}}}\right)^{-1}dr^{2}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta \,d\varphi ^{2}\right),}
+
+
+
+where
+
+
+
+
+
+τ
+
+
+{\displaystyle \tau }
+
+ is the proper time (time measured by a clock moving along the same world line with the test particle),
+
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is the speed of light,
+
+
+
+
+t
+
+
+{\displaystyle t}
+
+ is the time coordinate (measured by a stationary clock located infinitely far from the spherical body),
+
+
+
+
+r
+
+
+{\displaystyle r}
+
+ is the radial coordinate,
+
+
+
+
+θ
+
+
+{\displaystyle \theta }
+
+ is the colatitude (angle from north, in units of radians),
+
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ is the longitude (also in radians),
+
+
+
+
+
+r
+
+s
+
+
+
+
+{\displaystyle r_{s}}
+
+ is the Schwarzschild radius of the body, which is related to its mass 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ by 
+
+
+
+
+r
+
+s
+
+
+=
+2
+G
+M
+
+/
+
+
+c
+
+2
+
+
+
+
+{\displaystyle r_{s}=2GM/c^{2}}
+
+, where 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ is the gravitational constant. (For ordinary stars and planets, this is much less than their proper radius.)
+
+
+
+
+
+r
+
+g
+
+
+
+
+{\displaystyle r_{g}}
+
+ is the value of the 
+
+
+
+r
+
+
+{\displaystyle r}
+
+-coordinate at the body's surface, equalling its radius measured from a location infinitely far from it. (This is also less than its proper radius, although for the Earth the difference is only about 1.4 millimetres.)
+
+This solution is valid for 
+
+
+
+r
+≤
+
+r
+
+g
+
+
+
+
+{\displaystyle r\leq r_{g}}
+
+. For a complete metric of the sphere's gravitational field, the interior Schwarzschild metric has to be matched with the exterior one,
+
+
+
+
+
+
+c
+
+2
+
+
+
+
+d
+τ
+
+
+2
+
+
+=
+
+(
+1
+−
+
+
+
+r
+
+s
+
+
+r
+
+
+)
+
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+−
+
+
+(
+1
+−
+
+
+
+r
+
+s
+
+
+r
+
+
+)
+
+
+−
+1
+
+
+d
+
+r
+
+2
+
+
+−
+
+r
+
+2
+
+
+
+(
+d
+
+θ
+
+2
+
+
++
+
+sin
+
+2
+
+
+⁡
+θ
+
+d
+
+φ
+
+2
+
+
+)
+
+,
+
+
+{\displaystyle c^{2}{d\tau }^{2}=\left(1-{\frac {r_{s}}{r}}\right)c^{2}dt^{2}-\left(1-{\frac {r_{s}}{r}}\right)^{-1}dr^{2}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta \,d\varphi ^{2}\right),}
+
+
+
+at the surface. It can easily be seen that the two have the same value at the surface, i.e., at 
+
+
+
+r
+=
+
+r
+
+g
+
+
+
+
+{\displaystyle r=r_{g}}
+
+.
+Other formulations[edit]
+Defining a parameter 
+
+
+
+
+
+
+R
+
+
+
+2
+
+
+=
+
+r
+
+g
+
+
+3
+
+
+
+/
+
+
+r
+
+s
+
+
+
+
+{\displaystyle {\mathcal {R}}^{2}=r_{g}^{3}/r_{s}}
+
+, we get
+
+
+
+
+
+
+c
+
+2
+
+
+
+
+d
+τ
+
+
+2
+
+
+=
+
+
+1
+4
+
+
+
+
+(
+3
+
+
+1
+−
+
+
+
+r
+
+g
+
+
+2
+
+
+
+
+
+R
+
+
+
+2
+
+
+
+
+
+
+−
+
+
+1
+−
+
+
+
+r
+
+2
+
+
+
+
+
+R
+
+
+
+2
+
+
+
+
+
+
+)
+
+
+2
+
+
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+−
+
+
+(
+1
+−
+
+
+
+r
+
+2
+
+
+
+
+
+R
+
+
+
+2
+
+
+
+
+)
+
+
+−
+1
+
+
+d
+
+r
+
+2
+
+
+−
+
+r
+
+2
+
+
+
+(
+d
+
+θ
+
+2
+
+
++
+
+sin
+
+2
+
+
+⁡
+θ
+
+d
+
+φ
+
+2
+
+
+)
+
+.
+
+
+{\displaystyle c^{2}{d\tau }^{2}={\frac {1}{4}}\left(3{\sqrt {1-{\frac {r_{g}^{2}}{{\mathcal {R}}^{2}}}}}-{\sqrt {1-{\frac {r^{2}}{{\mathcal {R}}^{2}}}}}\right)^{2}c^{2}dt^{2}-\left(1-{\frac {r^{2}}{{\mathcal {R}}^{2}}}\right)^{-1}dr^{2}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta \,d\varphi ^{2}\right).}
+
+
+
+We can also define an alternative radial coordinate 
+
+
+
+η
+=
+s
+i
+
+n
+
+−
+1
+
+
+
+
+r
+
+R
+
+
+
+
+
+{\displaystyle \eta =sin^{-1}{\frac {r}{\mathcal {R}}}}
+
+ and a corresponding parameter 
+
+
+
+
+η
+
+g
+
+
+=
+
+sin
+
+−
+1
+
+
+⁡
+
+
+
+r
+
+g
+
+
+
+R
+
+
+
+=
+
+sin
+
+−
+1
+
+
+⁡
+
+
+
+
+r
+
+s
+
+
+
+r
+
+g
+
+
+
+
+
+
+
+{\displaystyle \eta _{g}=\sin ^{-1}{\frac {r_{g}}{\mathcal {R}}}=\sin ^{-1}{\sqrt {\frac {r_{s}}{r_{g}}}}}
+
+, yielding[4]
+
+
+
+
+
+
+c
+
+2
+
+
+
+
+d
+τ
+
+
+2
+
+
+=
+
+
+(
+
+
+
+3
+cos
+⁡
+
+η
+
+g
+
+
+−
+cos
+⁡
+η
+
+2
+
+
+)
+
+
+2
+
+
+
+c
+
+2
+
+
+d
+
+t
+
+2
+
+
+−
+
+
+
+d
+
+r
+
+2
+
+
+
+
+
+cos
+
+2
+
+
+⁡
+η
+
+
+
+−
+
+r
+
+2
+
+
+
+(
+d
+
+θ
+
+2
+
+
++
+
+sin
+
+2
+
+
+⁡
+θ
+
+d
+
+φ
+
+2
+
+
+)
+
+.
+
+
+{\displaystyle c^{2}{d\tau }^{2}=\left({\frac {3\cos \eta _{g}-\cos \eta }{2}}\right)^{2}c^{2}dt^{2}-{\frac {dr^{2}}{\cos ^{2}\eta }}-r^{2}\left(d\theta ^{2}+\sin ^{2}\theta \,d\varphi ^{2}\right).}
+
+
+
+Properties[edit]
+Density[edit]
+The fluid has a constant density by definition. It is given by
+
+
+
+
+
+ρ
+=
+
+
+M
+
+
+
+
+4
+π
+
+3
+
+
+
+r
+
+g
+
+
+3
+
+
+
+
+
+=
+
+
+3
+
+κ
+
+
+
+R
+
+
+
+2
+
+
+
+
+
+,
+
+
+{\displaystyle \rho ={\frac {M}{{\frac {4\pi }{3}}r_{g}^{3}}}={\frac {3}{\kappa {\mathcal {R}}^{2}}},}
+
+
+
+were 
+
+
+
+κ
+=
+8
+π
+G
+
+/
+
+
+c
+
+2
+
+
+
+
+{\displaystyle \kappa =8\pi G/c^{2}}
+
+ is Einstein's constant.[3][5] It may be counterintuitive that the density is the mass divided by the volume of a sphere with radius 
+
+
+
+
+r
+
+g
+
+
+
+
+{\displaystyle r_{g}}
+
+, which seems to disregard that this is less than the proper radius, and that space inside the body is curved so that the volume formula for a "flat" sphere shouldn't hold at all. However, 
+
+
+
+M
+
+
+{\displaystyle M}
+
+ is the mass measured from the outside, for example by observing a test particle orbiting the gravitating body (the "Kepler mass"), which in general relativity is not necessarily equal to the proper mass. This mass difference exactly cancels out the difference of the volumes.
+Pressure and stability[edit]
+The pressure of the incompressible fluid can be found by calculating the Einstein tensor 
+
+
+
+
+G
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }}
+
+ from the metric. The Einstein tensor is diagonal (i.e., all off-diagonal elements are zero), meaning there are no shear stresses, and has equal values for the three spatial diagonal components, meaning pressure is isotropic. Its value is
+
+
+
+
+
+p
+=
+ρ
+
+c
+
+2
+
+
+
+
+
+cos
+⁡
+η
+−
+cos
+⁡
+
+η
+
+g
+
+
+
+
+3
+cos
+⁡
+
+η
+
+g
+
+
+−
+cos
+⁡
+η
+
+
+
+.
+
+
+{\displaystyle p=\rho c^{2}{\frac {\cos \eta -\cos \eta _{g}}{3\cos \eta _{g}-\cos \eta }}.}
+
+
+
+As expected, the pressure is zero at the surface of the sphere and increases towards the centre. It becomes infinite at the centre if 
+
+
+
+cos
+⁡
+
+η
+
+g
+
+
+=
+1
+
+/
+
+3
+
+
+{\displaystyle \cos \eta _{g}=1/3}
+
+, which corresponds to 
+
+
+
+
+r
+
+s
+
+
+=
+
+
+8
+9
+
+
+
+r
+
+g
+
+
+
+
+{\displaystyle r_{s}={\frac {8}{9}}r_{g}}
+
+ or 
+
+
+
+
+η
+
+g
+
+
+≈
+
+70.5
+
+∘
+
+
+
+
+{\displaystyle \eta _{g}\approx 70.5^{\circ }}
+
+, which is true for a body that is extremely dense or large. Such a body suffers gravitational collapse into a black hole. As this is a time dependent process, the Schwarzschild solution does not hold any longer.[2][3]
+Redshift[edit]
+Gravitational redshift for radiation from the sphere's surface (for example, light from a star) is
+
+
+
+
+
+z
+=
+
+
+1
+
+cos
+⁡
+
+η
+
+g
+
+
+
+
+
+−
+1.
+
+
+{\displaystyle z={\frac {1}{\cos \eta _{g}}}-1.}
+
+
+
+From the stability condition 
+
+
+
+cos
+⁡
+
+η
+
+g
+
+
+>
+1
+
+/
+
+3
+
+
+{\displaystyle \cos \eta _{g}>1/3}
+
+ follows 
+
+
+
+z
+<
+2
+
+
+{\displaystyle z<2}
+
+.[3]
+Visualization[edit]
+
+
+
+
+Embedding of a Schwarzschild metric's slice in three-dimensional Euclidean space. The interior solution is the darker cap at the bottom.
+This embedding should not be confused with the unrelated concept of a gravity well.
+
+
+The spatial curvature of the interior Schwarzschild metric can be visualized by taking a slice (1) with constant time and (2) through the sphere's equator, i.e. 
+
+
+
+t
+=
+c
+o
+n
+s
+t
+.
+,
+θ
+=
+π
+
+/
+
+2
+
+
+{\displaystyle t=const.,\theta =\pi /2}
+
+. This two-dimensional slice can be embedded in a three-dimensional Euclidean space and then takes the shape of a spherical cap with radius 
+
+
+
+
+
+R
+
+
+
+
+{\displaystyle {\mathcal {R}}}
+
+ and half opening angle 
+
+
+
+
+η
+
+g
+
+
+
+
+{\displaystyle \eta _{g}}
+
+. Its Gaussian curvature 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ is proportional to the fluid's density and equals 
+
+
+
+
+
+
+R
+
+
+
+−
+2
+
+
+=
+
+r
+
+s
+
+
+
+/
+
+
+r
+
+g
+
+
+3
+
+
+=
+ρ
+κ
+
+/
+
+3
+
+
+{\displaystyle {\mathcal {R}}^{-2}=r_{s}/r_{g}^{3}=\rho \kappa /3}
+
+. As the exterior metric can be embedded in the same way (yielding Flamm's paraboloid), a slice of the complete solution can be drawn like this:[5][6]
+
+
+
+In this graphic, the blue circular arc represents the interior metric, and the black parabolic arcs with the equation 
+
+
+
+w
+=
+2
+
+
+
+r
+
+s
+
+
+(
+r
+−
+
+r
+
+s
+
+
+)
+
+
+
+
+{\displaystyle w=2{\sqrt {r_{s}(r-r_{s})}}}
+
+ represent the exterior metric, or Flamm's paraboloid. The 
+
+
+
+η
+
+
+{\displaystyle \eta }
+
+-coordinate is the angle measured from the centre of the cap, that is, from "above" the slice. The proper radius of the sphere – intuitively, the length of a measuring rod spanning from its centre to a point on its surface – is half the length of the circular arc, or 
+
+
+
+
+η
+
+g
+
+
+
+
+R
+
+
+
+
+{\displaystyle \eta _{g}{\mathcal {R}}}
+
+.
+This is a purely geometric visualization and does not imply a physical "fourth spatial dimension" into which space would be curved. (Intrinsic curvature does not imply extrinsic curvature.)
+Examples[edit]
+Here are the relevant parameters for some astronomical objects, disregarding rotation and inhomogeneities such as deviation from the spherical shape and variation in density.
+
+
+Object
+
+
+
+
+
+r
+
+g
+
+
+
+
+{\displaystyle r_{g}}
+
+
+
+
+
+
+
+r
+
+s
+
+
+
+
+{\displaystyle r_{s}}
+
+
+
+
+
+
+
+
+R
+
+
+
+
+{\displaystyle {\mathcal {R}}}
+
+
+
+
+
+
+
+η
+
+g
+
+
+
+
+{\displaystyle \eta _{g}}
+
+
+
+
+
+
+z
+
+
+{\displaystyle z}
+
+ (redshift)
+
+
+Earth
+6,370 km
+8.87 mm
+170,000,000 km
+9.5 light-minutes
+7.7″
+7×10−10
+
+
+Sun
+696,000 km
+2.95 km
+338,000,000 km
+19 light-minutes
+7.0′
+2×10−6
+
+
+White dwarf with 1 solar mass
+5000 km
+2.95 km
+200,000 km
+1.4°
+3×10−4
+
+
+Neutron star with 2 solar masses
+20 km
+6 km
+37 km
+30°
+0.15
+
+
+History[edit]
+The interior Schwarzschild solution was the first static spherically symmetric perfect fluid solution that was found. It was published on 24 February 1916, only three months after Einstein's field equations and one month after Schwarzschild's exterior solution.[1][2]
+References[edit]
+
+
+
+^ a b Karl Schwarzschild (1916). "Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie" [On the gravitational field of a point mass following Einstein's theory]. Sitzungsberichte der Königlich-Preussischen Akademie der Wissenschaften (in German). Berlin: 189–196. 
+^ a b c Karl Schwarzschild (1916). "Über das Gravitationsfeld einer Kugel aus inkompressibler Flüssigkeit nach der Einsteinschen Theorie" [On the gravitational field of a ball of incompressible fluid following Einstein's theory]. Sitzungsberichte der Königlich-Preussischen Akademie der Wissenschaften (in German). Berlin: 424–434. 
+^ a b c d Torsten Fließbach (2003). Allgemeine Relativitätstheorie [General Theory of Relativity] (in German) (4th ed.). Spektrum Akademischer Verlag. pp. 231–241. ISBN 3-8274-1356-7. 
+^ R. Burghardt (2009). "Interior Schwarzschild Solution and Free Fall" (PDF). Austrian Reports on Gravitation. 
+^ a b P. S. Florides (1974). "A New Interior Schwarzschild Solution". Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences. 337 (1611): 529–535. Bibcode:1974RSPSA.337..529F. doi:10.1098/rspa.1974.0065. JSTOR 78530. 
+^ R. Burghardt (2009). "New Embedding of Schwarzschild Geometry. II. Interior Solution" (PDF). Austrian Reports on Gravitation. 
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Relativity
+
+
+
+Special
+relativity
+
+
+
+
+Background
+
+
+
+Principle of relativity
+Special relativity
+
+
+
+
+
+Foundations
+
+
+
+Frame of reference
+Speed of light
+Hyperbolic orthogonality
+Rapidity
+Maxwell's equations
+
+
+
+
+
+Formulation
+
+
+
+Galilean relativity
+Galilean transformation
+Lorentz transformation
+
+
+
+
+
+Consequences
+
+
+
+Time dilation
+Relativistic mass
+Mass–energy equivalence
+Length contraction
+Relativity of simultaneity
+Relativistic Doppler effect
+Thomas precession
+Relativistic disks
+
+
+
+
+
+Spacetime
+
+
+
+Light cone
+World line
+Spacetime diagram
+Biquaternions
+Minkowski space
+
+
+
+
+
+
+
+
+
+
+
+General
+relativity
+
+
+
+
+Background
+
+
+
+Introduction
+Mathematical formulation
+
+
+
+
+
+Fundamental
+concepts
+
+
+
+Special relativity
+Equivalence principle
+World line
+Riemannian geometry
+Minkowski diagram
+Penrose diagram
+
+
+
+
+
+Phenomena
+
+
+
+Black hole
+Event horizon
+Frame-dragging
+Geodetic effect
+Lenses
+Singularity
+Waves
+Ladder paradox
+Twin paradox
+Two-body problem
+BKL singularity
+
+
+
+
+
+Equations
+
+
+
+ADM formalism
+BSSN formalism
+Einstein field equations
+Geodesic equation
+Friedmann equations
+Linearized gravity
+Post-Newtonian formalism
+Raychaudhuri equation
+Hamilton–Jacobi–Einstein equation
+Ernst equation
+Tolman-Oppenheimer-Volkoff equation
+
+
+
+
+
+Advanced
+theories
+
+
+
+Brans–Dicke theory
+Kaluza–Klein
+Mach's principle
+Quantum gravity
+
+
+
+
+
+Solutions
+
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Friedmann–Lemaître–Robertson–Walker
+Taub–NUT
+Milne
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedmann
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Taylor
+Hulse
+Stockum
+Taub
+Newman
+Yau
+Thorne
+Weiss
+Bondi
+Misner
+others
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Interior_Schwarzschild_metric&oldid=800341142"					
+Categories: Exact solutions in general relativityHidden categories: CS1 German-language sources (de) 

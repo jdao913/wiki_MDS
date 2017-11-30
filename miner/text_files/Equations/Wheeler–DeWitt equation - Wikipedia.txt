@@ -1,0 +1,1647 @@
+Wheeler–DeWitt equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. The talk page may contain suggestions. (August 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (April 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article needs attention from an expert on the subject. Please add a reason or a talk parameter to this template to explain the issue with the article. Consider associating this request with a WikiProject. (May 2010)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+
+Quantum field theory
+
+
+
+Feynman diagram
+
+
+
+History
+
+
+
+
+Background
+
+
+Field theory
+Electromagnetism
+Weak force
+Strong force
+Quantum mechanics
+Special relativity
+General relativity
+Gauge theory
+
+
+
+
+
+
+
+
+Symmetries
+
+
+Symmetry in quantum mechanics
+C-symmetry
+P-symmetry
+T-symmetry
+Space translation symmetry
+Time translation symmetry
+Rotation symmetry
+Lorentz symmetry
+Poincaré symmetry
+Gauge symmetry
+Explicit symmetry breaking
+Spontaneous symmetry breaking
+Yang–Mills theory
+Noether charge
+Topological charge
+
+
+
+
+
+
+
+
+Tools
+
+
+Anomaly
+Crossing
+Effective field theory
+Expectation value
+Faddeev–Popov ghosts
+Feynman diagram
+Lattice gauge theory
+LSZ reduction formula
+Partition function
+Propagator
+Quantization
+Regularization
+Renormalization
+Vacuum state
+Wick's theorem
+Wightman axioms
+
+
+
+
+
+
+
+
+Equations
+
+
+Dirac equation
+Klein–Gordon equation
+Proca equations
+Wheeler–DeWitt equation
+Bargmann–Wigner equations
+
+
+
+
+
+
+
+
+Standard Model
+
+
+Quantum electrodynamics
+Electroweak interaction
+Quantum chromodynamics
+Higgs mechanism
+
+
+
+
+
+
+
+
+Incomplete theories
+
+
+Topological quantum field theory
+String theory
+Supersymmetry
+Technicolor
+Theory of everything
+Quantum gravity
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+C. D. Anderson
+P. W. Anderson
+Bethe
+Bjorken
+Bogoliubov
+Brout
+Callan
+Coleman
+DeWitt
+Dirac
+Dyson
+Englert
+Fermi
+Feynman
+Fierz
+Fock
+Fröhlich
+Glashow
+Gell-Mann
+Gross
+Guralnik
+Heisenberg
+Higgs
+Haag
+Hagen
+'t Hooft
+Jordan
+Kendall
+Kibble
+Lamb
+Landau
+Lee
+Majorana
+Mills
+Nambu
+Nishijima
+Parisi
+Polyakov
+Salam
+Schwinger
+Skyrme
+Sudarshan
+Tomonaga
+Veltman
+Ward
+Weinberg
+Weisskopf
+Weyl
+Wilczek
+Wilson
+Yang
+Yukawa
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The Wheeler–DeWitt equation[1] is a field equation. It is part of a theory that attempts to combine mathematically the ideas of quantum mechanics and general relativity, a step toward a theory of quantum gravity. In this approach, time plays a different role than it does in non-relativistic quantum mechanics, leading to the so-called 'problem of time'.[2] More specifically, the equation describes the quantum version of the Hamiltonian constraint using metric variables. Its commutation relations with the diffeomorphism constraints generate the Bergmann-Komar "group" (which is the diffeomorphism group on-shell, but differs off-shell).
+
+
+
+Contents
+
+
+1 Quantum gravity
+2 Motivation and background
+3 Derivation from path integral
+4 Mathematical formalism
+
+4.1 Hamiltonian constraint
+4.2 Momentum constraint
+
+
+5 See also
+6 References
+
+
+
+Quantum gravity[edit]
+All defined and understood descriptions of string/M-theory deal with fixed asymptotic conditions on the background spacetime. At infinity, the "right"[clarification needed] choice of the time coordinate "t" is determined (because the space-time is asymptotic to some fixed space-time) in every description, so there is a preferred definition of the Hamiltonian (with nonzero eigenvalues) to evolve states of the system forward in time. This avoids all the need to dynamically generate a time dimension using the Wheeler-de Witt equation. Thus, the equation has not played a role in string theory thus far.
+There could exist a Wheeler-de Witt style manner to describe the bulk dynamics of quantum theory of gravity. Some experts believe that this equation still holds the potential for understanding quantum gravity; however, decades after the equation was published, completely different approaches, such as string theory, have brought physicists as clear results about quantum gravity.
+Motivation and background[edit]
+In canonical gravity, spacetime is foliated into spacelike submanifolds. The three-metric (i.e., metric on the hypersurface) is 
+
+
+
+
+γ
+
+i
+j
+
+
+
+
+{\displaystyle \gamma _{ij}}
+
+ and given by
+
+
+
+
+
+
+g
+
+μ
+ν
+
+
+
+
+d
+
+
+x
+
+μ
+
+
+
+
+d
+
+
+x
+
+ν
+
+
+=
+(
+−
+
+
+N
+
+2
+
+
++
+
+β
+
+k
+
+
+
+β
+
+k
+
+
+)
+
+
+d
+
+
+t
+
+2
+
+
++
+2
+
+β
+
+k
+
+
+
+
+d
+
+
+x
+
+k
+
+
+
+
+d
+
+t
++
+
+γ
+
+i
+j
+
+
+
+
+d
+
+
+x
+
+i
+
+
+
+
+d
+
+
+x
+
+j
+
+
+.
+
+
+{\displaystyle g_{\mu \nu }\,\mathrm {d} x^{\mu }\,\mathrm {d} x^{\nu }=(-\,N^{2}+\beta _{k}\beta ^{k})\,\mathrm {d} t^{2}+2\beta _{k}\,\mathrm {d} x^{k}\,\mathrm {d} t+\gamma _{ij}\,\mathrm {d} x^{i}\,\mathrm {d} x^{j}.}
+
+
+
+In that equation the Roman indices run over the values 1, 2, 3 and the Greek indices run over the values 1, 2, 3, 4. The three-metric 
+
+
+
+
+γ
+
+i
+j
+
+
+
+
+{\displaystyle \gamma _{ij}}
+
+ is the field, and we denote its conjugate momenta as 
+
+
+
+
+π
+
+k
+l
+
+
+
+
+{\displaystyle \pi ^{kl}}
+
+. The Hamiltonian is a constraint (characteristic of most relativistic systems)
+
+
+
+
+
+
+
+H
+
+
+=
+
+
+1
+
+2
+
+
+γ
+
+
+
+
+
+
+G
+
+i
+j
+k
+l
+
+
+
+π
+
+i
+j
+
+
+
+π
+
+k
+l
+
+
+−
+
+
+γ
+
+
+
+
+
+
+
+(
+3
+)
+
+
+
+R
+=
+0
+
+
+{\displaystyle {\mathcal {H}}={\frac {1}{2{\sqrt {\gamma }}}}G_{ijkl}\pi ^{ij}\pi ^{kl}-{\sqrt {\gamma }}\,{}^{(3)}\!R=0}
+
+
+
+where 
+
+
+
+γ
+=
+det
+(
+
+γ
+
+i
+j
+
+
+)
+
+
+{\displaystyle \gamma =\det(\gamma _{ij})}
+
+ and 
+
+
+
+
+G
+
+i
+j
+k
+l
+
+
+=
+(
+
+γ
+
+i
+k
+
+
+
+γ
+
+j
+l
+
+
++
+
+γ
+
+i
+l
+
+
+
+γ
+
+j
+k
+
+
+−
+
+γ
+
+i
+j
+
+
+
+γ
+
+k
+l
+
+
+)
+
+
+{\displaystyle G_{ijkl}=(\gamma _{ik}\gamma _{jl}+\gamma _{il}\gamma _{jk}-\gamma _{ij}\gamma _{kl})}
+
+ is the Wheeler-DeWitt metric.
+Quantization "puts hats" on the momenta and field variables; that is, the functions of numbers in the classical case become operators that modify the state function in the quantum case. Thus we obtain the operator
+
+
+
+
+
+
+
+
+
+H
+
+^
+
+
+
+=
+
+
+1
+
+2
+
+
+γ
+
+
+
+
+
+
+
+
+
+G
+^
+
+
+
+
+i
+j
+k
+l
+
+
+
+
+
+
+π
+^
+
+
+
+
+i
+j
+
+
+
+
+
+
+π
+^
+
+
+
+
+k
+l
+
+
+−
+
+
+γ
+
+
+
+
+
+
+
+(
+3
+)
+
+
+
+
+
+
+R
+^
+
+
+
+.
+
+
+{\displaystyle {\widehat {\mathcal {H}}}={\frac {1}{2{\sqrt {\gamma }}}}{\widehat {G}}_{ijkl}{\widehat {\pi }}^{ij}{\widehat {\pi }}^{kl}-{\sqrt {\gamma }}\,{}^{(3)}\!{\widehat {R}}.}
+
+
+
+Working in "position space", these operators are
+
+
+
+
+
+
+
+
+
+γ
+^
+
+
+
+
+i
+j
+
+
+(
+t
+,
+
+x
+
+k
+
+
+)
+→
+
+γ
+
+i
+j
+
+
+(
+t
+,
+
+x
+
+k
+
+
+)
+
+
+{\displaystyle {\hat {\gamma }}_{ij}(t,x^{k})\to \gamma _{ij}(t,x^{k})}
+
+
+
+
+
+
+
+
+
+
+π
+^
+
+
+
+
+i
+j
+
+
+(
+t
+,
+
+x
+
+k
+
+
+)
+→
+−
+i
+
+
+δ
+
+δ
+
+γ
+
+i
+j
+
+
+(
+t
+,
+
+x
+
+k
+
+
+)
+
+
+
+.
+
+
+{\displaystyle {\hat {\pi }}^{ij}(t,x^{k})\to -i{\frac {\delta }{\delta \gamma _{ij}(t,x^{k})}}.}
+
+
+
+One can apply the operator to a general wave functional of the metric 
+
+
+
+
+
+
+
+H
+
+^
+
+
+
+Ψ
+[
+γ
+]
+=
+0
+
+
+{\displaystyle {\widehat {\mathcal {H}}}\Psi [\gamma ]=0}
+
+ where:
+
+
+
+
+
+Ψ
+[
+γ
+]
+=
+a
++
+∫
+ψ
+(
+x
+)
+γ
+(
+x
+)
+d
+
+x
+
+3
+
+
++
+∫
+∫
+ψ
+(
+x
+,
+y
+)
+γ
+(
+x
+)
+γ
+(
+y
+)
+d
+
+x
+
+3
+
+
+d
+
+y
+
+3
+
+
++
+.
+.
+.
+
+
+{\displaystyle \Psi [\gamma ]=a+\int \psi (x)\gamma (x)dx^{3}+\int \int \psi (x,y)\gamma (x)\gamma (y)dx^{3}dy^{3}+...}
+
+
+
+Which would give a set of constraints amongst the coefficients 
+
+
+
+ψ
+(
+x
+,
+y
+,
+.
+.
+.
+)
+
+
+{\displaystyle \psi (x,y,...)}
+
+. Which means the amplitudes for N gravitons at certain positions is related to the amplitudes for a different number of gravitons at different positions. Or one could use the two field formalism treating 
+
+
+
+ω
+(
+g
+)
+
+
+{\displaystyle \omega (g)}
+
+ as an independent field so the wave function is 
+
+
+
+Ψ
+[
+γ
+,
+ω
+]
+
+
+{\displaystyle \Psi [\gamma ,\omega ]}
+
+
+Derivation from path integral[edit]
+The Wheeler–DeWitt equation can be derived from a path integral using the gravitational action in the Euclidean quantum gravity paradigm:[3]
+
+
+
+
+
+Z
+=
+
+∫
+
+C
+
+
+
+
+e
+
+
+−
+I
+[
+
+g
+
+μ
+ν
+
+
+,
+ϕ
+]
+
+
+
+
+D
+
+
+
+
+g
+
+
+
+
+
+D
+
+
+ϕ
+
+
+{\displaystyle Z=\int _{C}\mathrm {e} ^{-I[g_{\mu \nu },\phi ]}{\mathcal {D}}{\mathbf {g}}\,{\mathcal {D}}\phi }
+
+
+
+where one integrates over a class of Riemannian four-metrics and matter fields matching certain boundary conditions. Because the concept of a universal time coordinate seems unphysical, and at odds with the principles of general relativity, the action is evaluated around a 3-metric which we take as the boundary of the classes of four-metrics and on which a certain configuration of matter fields exists. This latter might for example be the current configuration of matter in our universe as we observe it today. Evaluating the action so that it only depends on the 3-metric and the matter fields is sufficient to remove the need for a time coordinate as it effectively fixes a point in the evolution of the universe.
+We obtain the Hamiltonian constraint from
+
+
+
+
+
+
+
+
+δ
+
+I
+
+E
+H
+
+
+
+
+δ
+N
+
+
+
+=
+0
+
+
+{\displaystyle {\frac {\delta I_{EH}}{\delta N}}=0}
+
+
+
+where 
+
+
+
+
+I
+
+E
+H
+
+
+
+
+{\displaystyle I_{EH}}
+
+ is the Einstein-Hilbert action, and 
+
+
+
+N
+
+
+{\displaystyle N}
+
+ is the lapse function, i.e. the Lagrange multiplier for the Hamiltonian constraint. The demand for this variation of our gravitational action to vanish corresponds, in fact, to the background independence in general relativity.[4] This is purely classical so far. We can recover the Wheeler–DeWitt equation from
+
+
+
+
+
+
+
+
+δ
+Z
+
+
+δ
+N
+
+
+
+=
+0
+=
+∫
+
+
+
+
+
+
+δ
+I
+[
+
+g
+
+μ
+ν
+
+
+,
+ϕ
+]
+
+
+δ
+N
+
+
+
+|
+
+
+Σ
+
+
+exp
+⁡
+
+(
+−
+I
+[
+
+g
+
+μ
+ν
+
+
+,
+ϕ
+]
+)
+
+
+
+
+D
+
+
+
+
+g
+
+
+
+
+
+D
+
+
+ϕ
+
+
+{\displaystyle {\frac {\delta Z}{\delta N}}=0=\int \left.{\frac {\delta I[g_{\mu \nu },\phi ]}{\delta N}}\right|_{\Sigma }\exp \left(-I[g_{\mu \nu },\phi ]\right)\,{\mathcal {D}}{\mathbf {g}}\,{\mathcal {D}}\phi }
+
+
+
+where 
+
+
+
+Σ
+
+
+{\displaystyle \Sigma }
+
+ is the three-dimensional boundary. Observe that this expression vanishes, implying that the functional derivative also vanishes, giving us the Wheeler–DeWitt equation. A similar statement may be made for the diffeomorphism constraint (take functional derivative with respect to the shift functions instead).
+Mathematical formalism[edit]
+The Wheeler–DeWitt equation[1] is a functional differential equation. It is ill-defined in the general case, but very important in theoretical physics, especially in quantum gravity. It is a functional differential equation on the space of three dimensional spatial metrics. The Wheeler–DeWitt equation has the form of an operator acting on a wave functional, the functional reduces to a function in cosmology. Contrary to the general case, the Wheeler–DeWitt equation is well defined in minisuperspaces like the configuration space of cosmological theories. An example of such a wave function is the Hartle–Hawking state. Bryce DeWitt first published this equation in 1967 under the name "Einstein–Schrödinger equation"; it was later renamed the "Wheeler–DeWitt equation".[5]
+Hamiltonian constraint[edit]
+Simply speaking, the Wheeler–DeWitt equation says
+
+
+
+
+
+
+
+
+
+
+
+
+H
+^
+
+
+
+(
+x
+)
+
+|
+
+ψ
+⟩
+=
+0
+
+
+{\displaystyle {\hat {H}}(x)|\psi \rangle =0}
+
+
+
+
+
+
+
+where 
+
+
+
+
+
+
+H
+^
+
+
+
+(
+x
+)
+
+
+{\displaystyle {\hat {H}}(x)}
+
+ is the Hamiltonian constraint in quantized general relativity and 
+
+
+
+
+|
+
+ψ
+⟩
+
+
+{\displaystyle |\psi \rangle }
+
+ stands for the wave function of the universe. Unlike ordinary quantum field theory or quantum mechanics, the Hamiltonian is a first class constraint on physical states. We also have an independent constraint for each point in space.
+Although the symbols 
+
+
+
+
+
+
+H
+^
+
+
+
+
+
+{\displaystyle {\hat {H}}}
+
+ and 
+
+
+
+
+|
+
+ψ
+⟩
+
+
+{\displaystyle |\psi \rangle }
+
+ may appear familiar, their interpretation in the Wheeler–DeWitt equation is substantially different from non-relativistic quantum mechanics. 
+
+
+
+
+|
+
+ψ
+⟩
+
+
+{\displaystyle |\psi \rangle }
+
+ is no longer a spatial wave function in the traditional sense of a complex-valued function that is defined on a 3-dimensional space-like surface and normalized to unity. Instead it is a functional of field configurations on all of spacetime. This wave function contains all of the information about the geometry and matter content of the universe. 
+
+
+
+
+
+
+H
+^
+
+
+
+
+
+{\displaystyle {\hat {H}}}
+
+ is still an operator that acts on the Hilbert space of wave functions, but it is not the same Hilbert space as in the nonrelativistic case, and the Hamiltonian no longer determines evolution of the system, so the Schrödinger equation 
+
+
+
+
+
+
+H
+^
+
+
+
+
+|
+
+ψ
+⟩
+=
+i
+ℏ
+∂
+
+/
+
+∂
+t
+
+|
+
+ψ
+⟩
+
+
+{\displaystyle {\hat {H}}|\psi \rangle =i\hbar \partial /\partial t|\psi \rangle }
+
+ no longer applies. This property is known as timelessness. The reemergence of time requires the tools of decoherence and clock operators[citation needed] (or the use of a scalar field).
+Momentum constraint[edit]
+We also need to augment the Hamiltonian constraint with momentum constraints
+
+
+
+
+
+
+
+
+
+P
+
+→
+
+
+
+(
+x
+)
+
+|
+ψ
+⟩
+
+=
+0
+
+
+{\displaystyle {\vec {\mathcal {P}}}(x)\left|\psi \right\rangle =0}
+
+
+
+associated with spatial diffeomorphism invariance.
+In minisuperspace approximations, we only have one Hamiltonian constraint (instead of infinitely many of them).
+In fact, the principle of general covariance in general relativity implies that global evolution per se does not exist; the time 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ is just a label we assign to one of the coordinate axes. Thus, what we think about as time evolution of any physical system is just a gauge transformation, similar to that of QED induced by U(1) local gauge transformation 
+
+
+
+ψ
+→
+
+e
+
+i
+θ
+(
+
+
+
+r
+→
+
+
+
+)
+
+
+ψ
+
+
+{\displaystyle \psi \rightarrow e^{i\theta ({\vec {r}})}\psi }
+
+ where 
+
+
+
+θ
+(
+
+
+
+r
+→
+
+
+
+)
+
+
+{\displaystyle \theta ({\vec {r}})}
+
+ plays the role of local time. The role of a Hamiltonian is simply to restrict the space of the "kinematic" states of the Universe to that of "physical" states - the ones that follow gauge orbits. For this reason we call it a "Hamiltonian constraint." Upon quantization, physical states become wave functions that lie in the kernel of the Hamiltonian operator.
+In general, the Hamiltonian[clarification needed] vanishes for a theory with general covariance or time-scaling invariance.
+See also[edit]
+
+ADM formalism
+Diffeomorphism constraint
+Euclidean quantum gravity
+Regge Calculus
+Canonical quantum gravity
+Peres metric
+Loop quantum gravity
+
+References[edit]
+
+
+
+^ a b DeWitt, B. S. (1967). "Quantum Theory of Gravity. I. The Canonical Theory". Phys. Rev. 160 (5): 1113–1148. Bibcode:1967PhRv..160.1113D. doi:10.1103/PhysRev.160.1113. 
+^ https://medium.com/the-physics-arxiv-blog/d5d3dc850933
+^ See J. B. Hartle and S. W. Hawking, "Wave function of the Universe." Phys. Rev. D 28 (1983) 2960–2975, eprint.
+^ https://javierrubioblog.files.wordpress.com/2016/09/notes_wheeler-dewitt_talk.pdf
+^ Go to Arxiv.org to read "Notes for a Brief History of Quantum Gravity" by Carlo Rovelli
+
+
+
+
+Herbert W. Hamber and Ruth M. Williams (2011). "Discrete Wheeler-DeWitt Equation". Physical Review D. 84: 104033. arXiv:1109.2530 . Bibcode:2011PhRvD..84j4033H. doi:10.1103/PhysRevD.84.104033.  Available at [1].
+Herbert W. Hamber, Reiko Toriumi and Ruth M. Williams (2012). "Wheeler-DeWitt Equation in 2+1 Dimensions". Physical Review D. 86: 084010. arXiv:1207.3759 . Bibcode:2012PhRvD..86h4010H. doi:10.1103/PhysRevD.86.084010.  Available at [2].
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum gravity
+
+
+
+Central concepts
+
+
+
+AdS/CFT correspondence
+Causal patch
+Gravitational anomaly
+Graviton
+Holographic principle
+IR/UV mixing
+Planck scale
+Quantum foam
+Trans-Planckian problem
+Weinberg–Witten theorem
+
+
+
+
+
+Toy models
+
+
+
+2+1D topological gravity
+CGHS model
+Jackiw–Teitelboim gravity
+Liouville gravity
+RST model
+Topological quantum field theory
+
+
+
+
+
+Quantum field theory
+in curved spacetime
+
+
+
+Bunch–Davies vacuum
+Hawking radiation
+Semiclassical gravity
+Unruh effect
+
+
+
+
+
+Black holes
+
+
+
+Black hole complementarity
+Black hole information paradox
+Black-hole thermodynamics
+Bousso's holographic bound
+ER=EPR
+Firewall (physics)
+Gravitational singularity
+
+
+
+
+
+Approaches
+
+
+
+
+String theory
+
+
+
+Bosonic string theory
+M-theory
+Supergravity
+Superstring theory
+
+
+
+
+
+Canonical quantum gravity
+
+
+
+Loop quantum gravity
+Wheeler–DeWitt equation
+
+
+
+
+
+Euclidean quantum gravity
+
+
+
+Hartle–Hawking state
+
+
+
+
+
+Others
+
+
+
+Causal dynamical triangulation
+Causal sets
+Noncommutative geometry
+Spin foam
+Group field theory
+Superfluid vacuum theory
+Twistor theory
+Dual graviton
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Quantum cosmology
+
+Eternal inflation
+Multiverse
+FRW/CFT duality
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Wheeler–DeWitt_equation&oldid=801768396"					
+Categories: Quantum gravityEquationsHidden categories: Wikipedia articles that are too technical from August 2011All articles that are too technicalArticles needing expert attention from August 2011All articles needing expert attentionWikipedia articles needing context from April 2011All Wikipedia articles needing contextWikipedia introduction cleanup from April 2011All pages needing cleanupArticles needing expert attention with no reason or talk parameterArticles needing unspecified expert attentionArticles needing expert attention from May 2010Wikipedia articles needing clarification from August 2016All articles with unsourced statementsArticles with unsourced statements from May 2013 

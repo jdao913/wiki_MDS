@@ -1,0 +1,32 @@
+Comparametric equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A comparametric equation is an equation that describes a parametric relationship between a function and a dilated[disambiguation needed] version of the same function, where the equation does not involve the parameter. For example, ƒ(2t) = 4ƒ(t) is a comparametric equation, when we define g(t) = ƒ(2t), so that we have g = 4ƒ no longer contains the parameter, t. The comparametric equation g = 4ƒ has a family of solutions, one of which is ƒ = t2. [1]
+To see that ƒ = t2 is a solution, we merely substitute back in: g = ƒ(2t) = (2t)2 = 4t2 = 4ƒ, so that g = 4ƒ.
+Comparametric equations arise naturally in signal processing when we have multiple measurements of the same phenomenon, in which each of the measurements was acquired using a different sensitivity. For example, two or more differently exposed pictures of the same subject matter give rise to a comparametric relationship, the solution of which is the response function of the camera, image sensor, or imaging system.
+Comparametric equations have been used in many areas of research, and have many practical applications to the real world. They are used in radar, microphone arrays, and have been used in processing crime scene video in homicide trials in which the only evidence against the accused was video recordings of the murder.
+References[edit]
+
+
+
+^ Comparametric equations with practical applications in quantigraphic image processing", IEEE Transactions on Image Processing, Volume 9, Issue 8, Issue Date: Aug 2000, pages 1389-1406, ISSN 1057-7149, INSPEC Accession Number: 6682161, Digital Object Identifier: 10.1109/83.855434, Date of Current Version: 06 August 2002 IEEE Signal Processing Society, download: http://wearcam.org/comparam.htm
+
+
+
+Related concepts[edit]
+
+Parametric equation
+Functional equation
+Contraction mapping or dilation mapping
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Comparametric_equation&oldid=794190031"					
+Categories: Multivariable calculusEquationsHidden categories: All articles with links needing disambiguationArticles with links needing disambiguation from August 2017 

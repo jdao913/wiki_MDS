@@ -1,0 +1,572 @@
+Dust solution - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (May 2016) (Learn how and when to remove this template message)
+
+
+
+In general relativity, a dust solution is a fluid solution, a type of exact solution of the Einstein field equation, in which the gravitational field is produced entirely by the mass, momentum, and stress density of a perfect fluid that has positive mass density but vanishing pressure. Dust solutions are an important special case of fluid solutions in general relativity. 
+
+
+Contents
+
+
+1 Dust model
+2 Mathematical definition
+3 Eigenvalues
+4 Examples
+
+4.1 Null dust solution
+4.2 Bianchi dust
+
+4.2.1 Kasner dust
+4.2.2 FLRW dust
+
+
+4.3 Rotating dust
+4.4 Other solutions
+
+
+5 See also
+6 References
+
+
+
+Dust model[edit]
+A pressureless perfect fluid can be interpreted as a model of a configuration of dust particles that locally move in concert and interact with each other only gravitationally, from which the name is derived. For this reason, dust models are often employed in cosmology as models of a toy universe, in which the dust particles are considered as highly idealized models of galaxies, clusters, or superclusters. In astrophysics, dust models have been employed as models of gravitational collapse. Dust solutions can also be used to model finite rotating disks of dust grains; some examples are listed below. If superimposed somehow on a stellar model comprising a ball of fluid surrounded by vacuum, a dust solution could be used to model an accretion disk around a massive object; however, no such exact solutions that model rotating accretion disks are yet known due to the extreme mathematical difficulty of constructing them.
+Mathematical definition[edit]
+The stress–energy tensor of a relativistic pressureless fluid can be written in the simple form
+
+
+
+
+
+
+T
+
+μ
+ν
+
+
+=
+ρ
+
+U
+
+μ
+
+
+
+U
+
+ν
+
+
+
+
+{\displaystyle T^{\mu \nu }=\rho U^{\mu }U^{\nu }}
+
+
+
+Here
+
+the world lines of the dust particles are the integral curves of the four-velocity 
+
+
+
+
+U
+
+μ
+
+
+
+
+{\displaystyle U^{\mu }}
+
+,
+the matter density is given by the scalar function 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+.
+
+Eigenvalues[edit]
+Because the stress-energy tensor is a rank-one matrix, a short computation shows that the characteristic polynomial
+
+
+
+
+
+χ
+(
+λ
+)
+=
+
+λ
+
+4
+
+
++
+
+a
+
+3
+
+
+
+
+λ
+
+3
+
+
++
+
+a
+
+2
+
+
+
+
+λ
+
+2
+
+
++
+
+a
+
+1
+
+
+
+λ
++
+
+a
+
+0
+
+
+
+
+{\displaystyle \chi (\lambda )=\lambda ^{4}+a_{3}\,\lambda ^{3}+a_{2}\,\lambda ^{2}+a_{1}\,\lambda +a_{0}}
+
+
+
+of the Einstein tensor in a dust solution will have the form
+
+
+
+
+
+χ
+(
+λ
+)
+=
+
+(
+λ
+−
+8
+π
+μ
+)
+
+
+
+λ
+
+3
+
+
+
+
+{\displaystyle \chi (\lambda )=\left(\lambda -8\pi \mu \right)\,\lambda ^{3}}
+
+
+
+Multiplying out this product, we find that the coefficients must satisfy the following three algebraically independent (and invariant) conditions:
+
+
+
+
+
+
+a
+
+0
+
+
+
+=
+
+a
+
+1
+
+
+=
+
+a
+
+2
+
+
+=
+0
+
+
+{\displaystyle a_{0}\,=a_{1}=a_{2}=0}
+
+
+
+Using Newton's identities, in terms of the sums of the powers of the roots (eigenvalues), which are also the traces of the powers of the Einstein tensor itself, these conditions become:
+
+
+
+
+
+
+t
+
+2
+
+
+=
+
+t
+
+1
+
+
+2
+
+
+,
+
+
+
+t
+
+3
+
+
+=
+
+t
+
+1
+
+
+3
+
+
+,
+
+
+
+t
+
+4
+
+
+=
+
+t
+
+1
+
+
+4
+
+
+
+
+{\displaystyle t_{2}=t_{1}^{2},\;\;t_{3}=t_{1}^{3},\;\;t_{4}=t_{1}^{4}}
+
+
+
+In tensor index notation, this can be written using the Ricci scalar as:
+
+
+
+
+
+
+
+
+G
+
+a
+
+
+
+
+a
+
+
+=
+−
+R
+
+
+{\displaystyle {G^{a}}_{a}=-R}
+
+
+
+
+
+
+
+
+
+G
+
+a
+
+
+
+
+b
+
+
+
+
+
+
+G
+
+b
+
+
+
+
+a
+
+
+=
+
+R
+
+2
+
+
+
+
+{\displaystyle {G^{a}}_{b}\,{G^{b}}_{a}=R^{2}}
+
+
+
+
+
+
+
+
+
+G
+
+a
+
+
+
+
+b
+
+
+
+
+
+
+G
+
+b
+
+
+
+
+c
+
+
+
+
+
+
+G
+
+c
+
+
+
+
+a
+
+
+=
+−
+
+R
+
+3
+
+
+
+
+{\displaystyle {G^{a}}_{b}\,{G^{b}}_{c}\,{G^{c}}_{a}=-R^{3}}
+
+
+
+
+
+
+
+
+
+G
+
+a
+
+
+
+
+b
+
+
+
+
+
+
+G
+
+b
+
+
+
+
+c
+
+
+
+
+
+
+G
+
+c
+
+
+
+
+d
+
+
+
+
+
+
+G
+
+d
+
+
+
+
+a
+
+
+=
+
+R
+
+4
+
+
+
+
+{\displaystyle {G^{a}}_{b}\,{G^{b}}_{c}\,{G^{c}}_{d}\,{G^{d}}_{a}=R^{4}}
+
+
+
+This eigenvalue criterion is sometimes useful in searching for dust solutions, since it shows that very few Lorentzian manifolds could possibly admit an interpretation, in general relativity, as a dust solution.
+Examples[edit]
+Null dust solution[edit]
+Main article: Null dust solution
+A null dust solution is a dust solution where the Einstein tensor is null.[further explanation needed]
+
+
+
+
+This section needs expansion. You can help by adding to it. (May 2017)
+
+
+
+Bianchi dust[edit]
+A Bianchi dust models exhibits various[which?] types of Lie algebras of Killing vector fields.
+Special cases include FLRW and Kasner dust.[further explanation needed]
+Kasner dust[edit]
+A Kasner dusts is the simplest[according to whom?] cosmological model exhibiting anisotropic expansion.[further explanation needed]
+
+
+
+
+This section needs expansion. You can help by adding to it. (May 2017)
+
+
+
+FLRW dust[edit]
+Friedmann–Lemaître–Robertson–Walker (FLRW) dusts are homogeneous[clarification needed] and isotropic[clarification needed]. These solutions often referred to as the matter-dominated FLRW models.[why?]
+
+
+
+
+This section needs expansion. You can help by adding to it. (May 2017)
+
+
+
+Rotating dust[edit]
+The van Stockum dust is a cylindrically symmetric rotating dust.[further explanation needed]
+The Neugebauer–Meinel dust models a rotating disk of dust matched to an axisymmetric vacuum exterior.[further explanation needed] This solution has been called[according to whom?], the most remarkable exact solution discovered since the Kerr vacuum.
+Other solutions[edit]
+Noteworthy individual dust solutions include:
+
+Lemaître–Tolman–Bondi (LTB) dusts (some of the simplest inhomogeneous cosmological models, often employed as models of gravitational collapse)
+Kantowski–Sachs dusts (cosmological models which exhibit perturbations from FLRW models)
+Gödel metric
+
+See also[edit]
+
+Lorentz group
+
+References[edit]
+
+Schutz, Bernard F. (2009), "4. Perfect fluids in special relativity", A first course in general relativity (2 ed.), Cambridge University Press, ISBN 0-521-88705-4 
+Stephani, H.; Kramer, D.; MacCallum, M.; Hoenselaers, C.; Herlt, E. (2003). Exact Solutions of Einstein's Field Equations (2nd edn.). Cambridge: Cambridge University Press. ISBN 0-521-46136-7.  Gives many examples of exact dust solutions.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dust_solution&oldid=799058235"					
+Categories: Exact solutions in general relativityHidden categories: Articles lacking in-text citations from May 2016All articles lacking in-text citationsWikipedia articles needing clarification from May 2017Articles to be expanded from May 2017All articles to be expandedArticles using small message boxesAll articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from May 2017 

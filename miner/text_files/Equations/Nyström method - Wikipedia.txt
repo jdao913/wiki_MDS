@@ -1,0 +1,302 @@
+Nyström method - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (October 2009) (Learn how and when to remove this template message)
+
+
+
+In numerical analysis, the Nyström method[1] or quadrature method seeks the numerical solution of an integral equation by replacing the integral with a representative weighted sum. The continuous problem is broken into 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ discrete intervals, quadrature or numerical integration determines the weights and locations of representative points for the integral. The discrete problem to be solved is now a system of linear equations with n equations and n unknowns.
+From the n solved points the function value at other points is interpolated consistent with the chosen quadrature method. Depending on the original problem and the choice of quadrature the problem may be ill-conditioned.
+Since the linear equations require 
+
+
+
+O
+(
+
+n
+
+3
+
+
+)
+
+
+{\displaystyle O(n^{3})}
+
+ operations to solve, hence high-order quadrature rules perform better because low-order quadrature rules require large 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ for a given accuracy. Gaussian quadrature is normally a good choice for smooth, non-singular problems.
+
+
+
+Contents
+
+
+1 Discretization of the integral
+2 Example
+3 Sampling for Nyström method
+
+3.1 Minimum Sum of Squared Similarities Sampling (MSSS)
+
+
+4 References
+
+
+
+Discretization of the integral[edit]
+
+
+
+
+
+
+∫
+
+a
+
+
+b
+
+
+h
+(
+x
+)
+
+
+d
+
+x
+≈
+
+∑
+
+k
+=
+1
+
+
+n
+
+
+
+w
+
+k
+
+
+h
+(
+
+x
+
+k
+
+
+)
+
+
+{\displaystyle \int _{a}^{b}h(x)\;\mathrm {d} x\approx \sum _{k=1}^{n}w_{k}h(x_{k})}
+
+
+
+
+where 
+
+
+
+
+w
+
+k
+
+
+
+
+{\displaystyle w_{k}}
+
+ are the weights of the quadrature rule, and points 
+
+
+
+
+x
+
+k
+
+
+
+
+{\displaystyle x_{k}}
+
+ are the abscissas.
+
+Example[edit]
+Applying this to the inhomogeneous Fredholm equation of the second kind
+
+
+
+
+
+f
+(
+x
+)
+=
+λ
+u
+(
+x
+)
+−
+
+∫
+
+a
+
+
+b
+
+
+K
+(
+x
+,
+
+x
+′
+
+)
+f
+(
+
+x
+′
+
+)
+
+
+d
+
+
+x
+′
+
+
+
+{\displaystyle f(x)=\lambda u(x)-\int _{a}^{b}K(x,x')f(x')\;\mathrm {d} x'}
+
+,
+
+results in
+
+
+
+
+
+f
+(
+x
+)
+≈
+λ
+u
+(
+x
+)
+−
+
+∑
+
+k
+=
+1
+
+
+n
+
+
+
+w
+
+k
+
+
+K
+(
+x
+,
+
+x
+
+k
+
+
+)
+f
+(
+
+x
+
+k
+
+
+)
+
+
+{\displaystyle f(x)\approx \lambda u(x)-\sum _{k=1}^{n}w_{k}K(x,x_{k})f(x_{k})}
+
+.
+
+Sampling for Nyström method[edit]
+The most important step of the Nyström method is sampling, because different sampled landmark points give different approximations of the original matrix.
+Uniform sampling without replacement: is the most used approach for this purpose, where every point has the same probability of being included in the sample.
+Minimum Sum of Squared Similarities Sampling (MSSS)[edit]
+MSSS is a non-uniform sampling approach that considers both the variance and the similarity of the data distribution in its sampling data, which approximately maximizes the determinant of the reduced similarity matrix that represents the mutual similarities between sampled data points. It is shown in[2] that this approach increase the speed of the clustering on large datasets.
+References[edit]
+
+
+
+^ Nyström, Evert Johannes (1930). "Über die praktische Auflösung von Integralgleichungen mit Anwendungen auf Randwertaufgaben". Acta Mathematica. 54 (1): 185–204. doi:10.1007/BF02547521. 
+^ Bouneffouf, Djallel; Birol, Inanc (2015), "Sampling with Minimum Sum of Squared Similarities for Nystrom-Based Large Scale Spectral Clustering", Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence, {IJCAI} 2015, Buenos Aires, Argentina, July 25–31, 2015, 8834, AAAI Press, pp. 2313–2319, ISBN 978-1-57735-738-4 
+
+
+
+
+Leonard M. Delves & Joan Walsh (eds): Numerical Solution of Integral Equations, Clarendon, Oxford, 1974.
+Hans-Jürgen Reinhardt: Analysis of Approximation Methods for Differential and Integral Equations, Springer, New York, 1985.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nyström_method&oldid=787920767"					
+Categories: Integral equationsNumerical analysisNumerical integration (quadrature)Hidden categories: Wikipedia articles needing context from October 2009All Wikipedia articles needing contextWikipedia introduction cleanup from October 2009All pages needing cleanup 

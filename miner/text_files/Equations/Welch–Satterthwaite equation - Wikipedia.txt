@@ -1,0 +1,233 @@
+Welch–Satterthwaite equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In statistics and uncertainty analysis, the Welch–Satterthwaite equation is used to calculate an approximation to the effective degrees of freedom of a linear combination of independent sample variances, also known as the pooled degrees of freedom,[1][2] corresponding to the pooled variance.
+For n sample variances si2 (i = 1, ..., n), each respectively having νi degrees of freedom, often one computes the linear combination
+
+
+
+
+
+
+χ
+′
+
+=
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+k
+
+i
+
+
+
+s
+
+i
+
+
+2
+
+
+.
+
+
+{\displaystyle \chi '=\sum _{i=1}^{n}k_{i}s_{i}^{2}.}
+
+
+
+where 
+
+
+
+
+k
+
+i
+
+
+
+
+{\displaystyle k_{i}}
+
+ is a real positive number, typically 
+
+
+
+
+k
+
+i
+
+
+=
+
+
+1
+
+
+v
+
+i
+
+
++
+1
+
+
+
+
+
+{\displaystyle k_{i}={\frac {1}{v_{i}+1}}}
+
+. In general, the probability distribution of χ' cannot be expressed analytically. However, its distribution can be approximated by another chi-squared distribution, whose effective degrees of freedom are given by the Welch–Satterthwaite equation
+
+
+
+
+
+
+ν
+
+
+χ
+′
+
+
+
+≈
+
+
+
+
+
+(
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+k
+
+i
+
+
+
+s
+
+i
+
+
+2
+
+
+)
+
+
+2
+
+
+
+
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+
+
+(
+
+k
+
+i
+
+
+
+s
+
+i
+
+
+2
+
+
+
+)
+
+2
+
+
+
+
+ν
+
+i
+
+
+
+
+
+
+
+
+
+{\displaystyle \nu _{\chi '}\approx {\frac {\displaystyle \left(\sum _{i=1}^{n}k_{i}s_{i}^{2}\right)^{2}}{\displaystyle \sum _{i=1}^{n}{\frac {(k_{i}s_{i}^{2})^{2}}{\nu _{i}}}}}}
+
+
+
+There is no assumption that the underlying population variances σi2 are equal. This is known as the Behrens–Fisher problem.
+The result can be used to perform approximate statistical inference tests. The simplest application of this equation is in performing Welch's t test.
+See also[edit]
+
+Pooled variance
+
+References[edit]
+
+
+^ [1]
+^ [2]
+
+
+Further reading[edit]
+
+Satterthwaite, F. E. (1946), "An Approximate Distribution of Estimates of Variance Components.", Biometrics Bulletin, 2: 110–114, doi:10.2307/3002019 
+Welch, B. L. (1947), "The generalization of "student's" problem when several different population variances are involved.", Biometrika, 34: 28–35, doi:10.2307/2332510 
+Neter, John; John Neter; William Wasserman; Michael H. Kutner (1990). Applied Linear Statistical Models. Richard D. Irwin, Inc. ISBN 0-256-08338-X. 
+Michael Allwood (2008) "The Satterthwaite Formula for Degrees of Freedom in the Two-Sample t-Test", AP Statistics, Advanced Placement Program, The College Board. [3]
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Welch–Satterthwaite_equation&oldid=748785758"					
+Categories: Statistical theoremsEquationsStatistical approximations 

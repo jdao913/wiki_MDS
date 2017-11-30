@@ -1,0 +1,145 @@
+Riemann solver - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Computational physics
+
+
+
+
+
+
+Numerical analysis · Simulation
+Data analysis · Visualization
+
+
+
+
+Potentials
+Morse/Long-range potential · Lennard-Jones potential · Yukawa potential · Morse potential
+
+
+
+
+
+
+Fluid dynamics
+Finite difference · Finite volume
+Finite element · Boundary element
+Lattice Boltzmann · Riemann solver
+Dissipative particle dynamics
+Smoothed particle hydrodynamics
+Turbulence models
+
+
+
+
+
+
+Monte Carlo methods
+Integration · Gibbs sampling · Metropolis algorithm
+
+
+
+
+
+
+Particle
+N-body · Particle-in-cell
+Molecular dynamics
+
+
+
+
+
+
+Scientists
+Godunov · Ulam · von Neumann · Galerkin · Lorenz
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+A Riemann solver is a numerical method used to solve a Riemann problem. They are heavily used in computational fluid dynamics and computational magnetohydrodynamics.
+
+
+
+Contents
+
+
+1 Exact solvers
+2 Approximate solvers
+
+2.1 Roe solver
+2.2 HLLE solver
+2.3 HLLC solver
+2.4 Rotated-hybrid Riemann solvers
+
+
+3 Notes
+4 See also
+5 References
+6 External links
+
+
+
+Exact solvers[edit]
+Godunov is credited with introducing the first exact Riemann solver for the Euler equations,[1] by extending the previous CIR (Courant-Isaacson-Rees) method to non-linear systems of hyperbolic conservation laws. Modern solvers are able to simulate relativistic effects and magnetic fields.
+For the hydrodynamic case latest research results showed the possibility to avoid the iterations to calculate the exact solution for the Euler equations.[2]
+Approximate solvers[edit]
+As iterative solutions are too costly, especially in Magnetohydrodynamics, some approximations have to be made. The most popular solvers are:
+Roe solver[edit]
+Main article: Roe solver
+Roe used the linearisation of the Jacobian, which he then solves exactly.[3]
+HLLE solver[edit]
+The HLLE[4] (Harten, Lax, van Leer and Einfeldt) solver is an approximate solution to the Riemann problem, which is only based on the integral form of the conservation laws and the largest and smallest signal velocities at the interface. The stability and robustness of the HLLE solver is closely related to the signal velocities and a single central average state, as proposed by Einfeldt in the original paper. The description of the HLLE scheme in the book mentioned below is incomplete and partially wrong[citation needed]. The reader is referred to the original paper. Actually, the HLLE scheme is based on a new stability theory for discontinuities in fluids, which was never published.[5]
+HLLC solver[edit]
+The HLLC (Harten-Lax-van Leer-Contact) solver was introduced by Toro.[6] It restores the missing Rarefaction wave by some estimates, like linearisations, these can be simple but also more advanced exists like using the Roe average velocity for the middle wave speed. They are quite robust and efficient but somewhat more diffusive.[7]
+Rotated-hybrid Riemann solvers[edit]
+These solvers were introduced by Nishikawa and Kitamura,[8] in order to overcome the carbuncle problems of the Roe solver and the excessive diffusion of the HLLE solver at the same time. They developed robust and accurate Riemann solvers by combining the Roe solver and the HLLE/Rusanov solvers: they show that being applied in two orthogonal directions the two Riemann solvers can be combined into a single Roe-type solver (the Roe solver with modified wave speeds). In particular, the one derived from the Roe and HLLE solvers, called Rotated-RHLL solver, is extremely robust (carbuncle-free for all possible test cases on both structured and unstructured grids) and accurate (as accurate as the Roe solver for the boundary layer calculation).
+Notes[edit]
+
+
+^ Godunov, S. K. (1959), "A difference scheme for numerical computation of discontinuous solution of hyperbolic equation", Math. Sbornik, 47: 271–306 
+^ Wu, Y.Y.; Cheung, K.F. (2008), "Explicit solution to the exact Riemann problem and application in nonlinear shallow-water equations", Int. J. Numer. Meth. Fluids, 57 (11): 1649–1668, Bibcode:2008IJNMF..57.1649W, doi:10.1002/fld.1696 
+^ Roe, P. L. (1981), "Approximate Riemann solvers, parameter vectors and difference schemes", J. Comput. Phys., 43 (2): 357–372, Bibcode:1981JCoPh..43..357R, doi:10.1016/0021-9991(81)90128-5 
+^ Einfeldt, B. (1988), "On Godunov-type methods for gas dynamics", SIAM J. Numer. Anal., 25 (2): 294–318, Bibcode:1988SJNA...25..294E, doi:10.1137/0725021 
+^ Einfeldt, B. "Notes on a Proposal", Blog entry, 2 June 2012.
+^ Toro, E. F.; Spruce, M.; Speares, W. (1994), "Restoration of the contact surface in the HLL-Riemann solver", Shock Waves, 4: 25–34, Bibcode:1994ShWav...4...25T, doi:10.1007/BF01414629 
+^ Quirk, J. J. (1994), "A contribution to the great Riemann solver debate", Int. J. Numer. Meth. Fluids, 18 (6): 555–574, Bibcode:1994IJNMF..18..555Q, doi:10.1002/fld.1650180603. 
+^ Nishikawa, H.; Kitamura, K. (2008), "Very simple, carbuncle-free, boundary-layer-resolving, rotated-hybrid Riemann solvers", J. Comput. Phys., 227 (4): 2560–2581, Bibcode:2008JCoPh.227.2560N, doi:10.1016/j.jcp.2007.11.003 
+
+
+See also[edit]
+
+Godunov's scheme
+Computational fluid dynamics
+Computational magnetohydrodynamics
+
+References[edit]
+
+Toro, Eleuterio F. (1999), Riemann Solvers and Numerical Methods for Fluid Dynamics, Berlin: Springer Verlag, ISBN 3-540-65966-8 
+
+External links[edit]
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Riemann_solver&oldid=805306712"					
+Categories: Numerical analysisComputational fluid dynamicsConservation equationsBernhard RiemannHidden categories: All articles with unsourced statementsArticles with unsourced statements from October 2017 

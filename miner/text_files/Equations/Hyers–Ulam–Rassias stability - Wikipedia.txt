@@ -1,0 +1,53 @@
+Hyers–Ulam–Rassias stability - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The stability problem of functional equations originated from a question of Stanisław Ulam, posed in 1940, concerning the stability of group homomorphisms. In the next year, Donald H. Hyers[1] gave a partial affirmative answer to the question of Ulam in the context of Banach spaces in the case of additive mappings, that was the first significant breakthrough and a step toward more solutions in this area. Since then, a large number of papers have been published in connection with various generalizations of Ulam’s problem and Hyers’s theorem. In 1978, Themistocles M. Rassias[2] succeeded in extending Hyers’s theorem for mappings between Banach spaces by considering an unbounded Cauchy difference[3] subject to a continuity condition upon the mapping. He was the first to prove the stability of the linear mapping. This result of Rassias attracted several mathematicians worldwide who began to be stimulated to investigate the stability problems of functional equations.
+By regarding a large influence of S. M. Ulam, D. H. Hyers, and Th. M. Rassias on the study of stability problems of functional equations, the stability phenomenon proved by Th. M. Rassias led to the development of what is now known as Hyers–Ulam–Rassias stability[4] of functional equations. For an extensive presentation of the stability of functional equations in the context of Ulam's problem, the interested reader is referred to the books by S.-M. Jung[5], S. Czerwik[6], Y.J. Cho, C. Park, Th.M. Rassias and R. Saadati[7], Y.J. Cho, Th.M. Rassias and R. Saadati[8], and Pl. Kannappan[9], as well as to the following papers [10][11][12][13]. In 1950, T. Aoki[14] considered an unbounded Cauchy difference which was generalised later by Rassias to the linear case. This result is known as Hyers–Ulam–Aoki stability of the additive mapping.[15] Aoki (1950) had not considered continuity upon the mapping, whereas Rassias (1978) imposed extra continuity hypothesis which yielded a formally stronger conclusion.
+References[edit]
+
+
+
+^ D. H. Hyers, On the stability of the linear functional Equation, Proc. Natl. Acad. Sci. USA, 27(1941), 222-224.
+^ Th. M. Rassias, On the stability of the linear mapping in Banach spaces, Proc. Amer. Math. Soc. 72(1978), 297–300.
+^ D. H. Hyers, G. Isac and Th. M. Rassias, Stability of Functional Equations in Several Variables, Birkhäuser Verlag, Boston, Basel, Berlin, 1998.
+^ Hyers-Ulam-Rassias stability, in: Encyclopaedia of Mathematics, Supplement III, M. Hazewinkel (ed.), Kluwer Academic Publishers, Dordrecht, 2001, pp.194-196.
+^ S.-M. Jung, Hyers-Ulam-Rassias Stability of Functional Equations in Nonlinear Analysis, Springer, New York (2011) ISBN 978-1-4419-9636-7.
+^ S.Czerwik, Functional Equations and Inequalities in Several Variables, World Scientific Publishing Co, Singapore (2002).
+^ Y.J. Cho, C. Park, Th.M. Rassias and R. Saadati, Stability of Functional Equations in Banach algebras, Springer, New York (2015).
+^ Y.J. Cho, Th.M. Rassias and R. Saadati, Stability of Functional Equations in Random Normed Spaces, Springer, New York (2013).
+^ Pl. Kannappan, Functional Equations and Inequalities with Applications, Springer, New York (2009).
+^ S.-M. Jung, Hyers-Ulam-Rassias stability of Jensen's equation and its application, Proc. Amer. Math. Soc. 126(1998), 3137-3143.
+^ S.-M. Jung, On the Hyers-Ulam-Rassias stability of a quadratic functional equation, J. Math. Anal. Appl. 232(1999), 384-393.
+^ G.-H. Kim, A generalization of Hyers-Ulam-Rassias stability of the G-functional equation, Math. Inequal. Appl. 10(2007), 351-358.
+^ Y.-H. Lee and K.-W. Jun, A generalization of the Hyers-Ulam-Rassias stability of the pexider equation, J. Math. Anal. Appl. 246(2000), 627-638.
+^ T. Aoki, On the stability of the linear transformation in Banach spaces, J. Math. Soc. Japan, 2(1950), 64-66.
+^ L. Maligranda, A result of Tosio Aoki about a generalization of Hyers-Ulam stability of additive functions–a question of priority, Aequationes Mathematicae 75 (2008), 289-296.
+
+
+
+See also[edit]
+
+Th. M. Rassias, On the stability of functional equations and a problem of Ulam, Acta Applicandae Mathematicae, 62(1)(2000), 23-130.
+P. Gavruta, A generalization of the Hyers-Ulam-Rassias stability of approximately additive mappings, J. Math. Anal. Appl. 184(1994), 431–436.
+P. Gavruta and L. Gavruta, A new method for the generalized Hyers–Ulam–Rassias stability, Int. J. Nonlinear Anal. Appl. 1(2010), No. 2, 6 pp.
+J. Chung, Hyers-Ulam-Rassias stability of Cauchy equation in the space of Schwartz distributions, J. Math. Anal. Appl. 300(2)(2004), 343 – 350.
+T. Miura, S.-E. Takahasi, and G. Hirasawa, Hyers-Ulam-Rassias stability of Jordan homomorphisms on Banach algebras, J. Inequal. Appl. 4(2005), 435–441.
+A. Najati and C. Park, Hyers–Ulam-Rassias stability of homomorphisms in quasi-Banach algebras associated to the Pexiderized Cauchy functional equation, J. Math. Anal. Appl. 335(2007), 763–778.
+Th. M. Rassias and J. Brzdek (eds.), Functional Equations in Mathematical Analysis, Springer, New York, 2012, ISBN 978-1-4614-0054-7.
+D. Zhang and J. Wang, On the Hyers-Ulam-Rassias stability of Jensen’s equation, Bull. Korean Math. Soc. 46(4)(2009), 645–656.
+T. Trif, Hyers-Ulam-Rassias stability of a Jensen type functional equation, J. Math. Anal. Appl. 250(2000), 579–588.
+Pl. Kannappan, Functional Equations and Inequalities with Applications, Springer, New York, 2009, ISBN 978-0-387-89491-1.
+P. K. Sahoo and Pl. Kannappan, Introduction to Functional Equations, CRC Press, Chapman & Hall Book, Florida, 2011, ISBN 978-1-4398-4111-2.
+W. W. Breckner and T. Trif, Convex Functions and Related Functional Equations. Selected Topics, Cluj University Press, Cluj, 2008.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Hyers–Ulam–Rassias_stability&oldid=804403351"					
+Categories: Mathematical analysisFunctional equationsFunctional analysis 

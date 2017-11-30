@@ -1,0 +1,75 @@
+Swain equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Swain equation relates the kinetic isotope effect for the protium/tritium combination with that of the protium/deuterium combination according to:
+
+
+
+
+
+
+
+
+k
+
+H
+
+
+
+k
+
+T
+
+
+
+
+=
+(
+
+
+
+k
+
+H
+
+
+
+k
+
+D
+
+
+
+
+
+)
+
+1.442
+
+
+
+
+{\displaystyle {\frac {k_{H}}{k_{T}}}=({\frac {k_{H}}{k_{D}}})^{1.442}}
+
+
+
+where kH,D,T are the reaction rate constants for the protonated, deuterated and tritiated reactants respectively.
+External links[edit]
+
+Applied Swain equation
+
+References[edit]
+
+Use of Hydrogen Isotope Effects to Identify the Attacking Nucleophile in the Enolization of Ketones Catalyzed by Acetic Acid C. Gardner Swain, Edward C. Stivers, Joseph F. Reuwer, Jr. Lawrence J. Schaad; J. Am. Chem. Soc.; 1958; 80(21); 5885-5893. First Page
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Swain_equation&oldid=585197309"					
+Categories: Chemical kineticsEquations 

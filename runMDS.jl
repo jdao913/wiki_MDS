@@ -4,21 +4,47 @@ using MultivariateStats
 using JLD
 using DataFrames
 
-function occurDiff(article1::Array{Int64}, article2::Array{Int64})::Float64
-    return norm(article1 - article2)
+function occurDiff(article1, article2)::Float64
+    return norm(article1 / sum(article1) - article2 / sum(article2))
 end
+
+function wordSim(article1, article2)::Float64
+    total = [article1; article2]
+    sameWords = minimum(total, 2)
+    return 1 / sum(sameWords)
+end
+
 
 function getDist(data::Array{Int64, 2})::Array{Float64, 2}
     numData = size(data)[1]
     dists = Array{Float64}(numData, numData)
     for i = 1:numData
         for j = i:numData
-            dist = occurDiff(data[i,:], data[j,:])
+            dist = wordSim(data[i, :], data[j, :])
             dists[i, j] = dist
             dists[j, i] = dist
         end
     end
     return dists
+end
+
+function mdsDists(data::Array{Float64, 2})
+    numData = size(data)[2]
+    dists = Array{Float64}(numData, numData)
+    for i = 1:numData
+        for j = i:numData
+            dist = norm(data[:, i] - data[:, j])
+            dists[i, j] = dist
+            dists[j, i] = dist
+        end
+    end
+    return dists
+end
+
+function goodFit(trueDists::Array{Float64, 2}, mdsDists::Array{Float64, 2})
+    diff = sum((trueDists - mdsDists).^2)
+    stress = diff / (sum(trueDists.^2)) 
+    return sqrt(stress)
 end
 
 
@@ -54,12 +80,12 @@ function main()
         d = load(filename)
         artNames = d["names"]
         data = d["data"]
+        numArt = size(artNames)[1]
     else
         file = CSV.read(filename, nullable=false);
         artNames = file[1]          #Article names
         numArt = size(artNames)[1]
         artWords = Array(file[2:end])      #List of words in articles
-        println("artWords", typeof(artWords))
         data = Array(file[:, 2:end]);
         commonWords = []
         println("size of file", size(data))
@@ -74,17 +100,18 @@ function main()
                     data[:,i] = 0           #Set all common word occurances to 0
                 end
             end
-            save("./miner/parsedArticles/"*filename[1:end-4]*"noCommon.jld", "names", artNames, "data", data, "words", words)
+            save("./miner/parsedArticles/"*basename(filename)[1:end-4]*"noCommon.jld", "names", artNames, "data", data, "words", words)
         else
-            println(typeof(artNames))
-            println(typeof(artWords))
-            println(typeof(data))
-            save("/tmp/"*filename[1:end-4]*".jld", "names", artNames, "data", data, "words", artWords)
+            save("./miner/parsedArticles/"*basename(filename)[1:end-4]*".jld", "names", artNames, "data", data, "words", artWords)
         end
     end
 
     D = getDist(data)      #Chop off article names and pass to dist func
+    println("D shape: ", size(D))
     mds = classical_mds(D, dim)
+    mdsDist = mdsDists(mds)
+    println("mds shape: ", size(mdsDist))
+    println("Goodness of fit: ", goodFit(D, mdsDist))
     output = DataFrame(mds)
     newNames = [Symbol(artNames[i][1:end-16]) for i in 1:numArt]        #Chop off " - Wikipedia.txt"
     names!(output, newNames)

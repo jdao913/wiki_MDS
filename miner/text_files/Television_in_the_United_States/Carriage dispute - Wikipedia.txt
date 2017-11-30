@@ -1,0 +1,127 @@
+Carriage dispute - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A carriage dispute is a disagreement over the right to "carry", that is, retransmit, a broadcaster's signal. Carriage disputes first occurred between broadcasters and cable companies and now include direct broadcast satellite and other multichannel video programming distributors.
+These disputes often involve financial compensation – what the distributor pays the television station or network for the right to carry the signal – as well as what channels the distributor is permitted or required to retransmit and how the distributor offers those channels to its subscribers.[1] While most carriage disputes are resolved without controversy or notice,[2] others have involved programming blackouts, both threatened and real, as well as strident public relations campaigns. Carriage disputes have occurred both in the United States and internationally.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Examples
+
+1.1.1 Aereo
+
+
+1.2 Proposed legislation
+
+
+2 Tradeoffs, consequences
+3 References
+4 External links
+
+
+
+History[edit]
+The history of carriage disputes can be seen as having two distinct circumstances: the first involving over-the-air broadcasters, whose signals can be received with an antenna; the second involving broadcasters transmitting via cable, satellite or other means—but not over the air. In the United States, the first led to a quagmire of legal disputes involving the Federal Communications Commission and the courts, shifting regulations, and questions over copyright law – all revolving around the basic question of whether a carrier has an inherent right to retransmit an over-the-air signal. Broadcasters accused carriers of being "leeches", making money off of programming content that they contributed nothing to produce.[3] Carriers countered that their role was largely passive, because they were merely redistributing freely available signals more widely.[4] By contrast, carriage disputes involving broadcasters who do not use the public airwaves, while representing many high-profile encounters, have raised fewer legal and policy questions, playing out largely at the negotiation table and in the court of public opinion.
+The legal precedent for carriage disputes dates back to 1934 legislation, which required a broadcaster to get permission before using programming from another broadcaster. The law was later applied to cable companies, as well.[5] In the 1950s, cable companies operating in the western United States began retransmitting broadcast signals for the benefit of customers situated too far from the station's transmitter to receive programs with an antenna. Stations objected that they were not being compensated for this retransmission or that they were having to compete with more distant stations that duplicated their content. From February 15, 1966 to December 18, 1968, the United States Federal Communications Commission barred cable companies from importing non-local broadcast signals into the top 100 television markets – while allowing cable companies to petition for exceptions. After an interim period, the FCC partially lifted these restrictions in 1972, eliminating them entirely by the end of the decade.[1][6]
+The issue was finally resolved with the 1992 Cable Television Consumer Protection and Competition Act. Among its provisions, the act mandated that distributors must carry local stations who make their signal available for free, but must also get retransmission consent before a signal can be retransmitted. Mandatory retransmission consent gave broadcasters the ability to seek compensation from distributors and established the basis for carriage disputes going forward. At first, the larger broadcasters negotiated not for higher fees, but for inclusion of their newer, lesser known, non-terrestrial channels. Fox, for example, obtained distribution for FX; NBC for CNBC.[1][5] The practice complicated carriage disputes by making bundled tiers not just a marketing choice, but a contractual obligation.[7]
+Carriage disputes have since increased both in intensity and frequency. According to the American Television Alliance, a television viewer advocacy group, there were eight blackouts of various lengths in 2010, 94 in 2014, 123 in 2015, and 212 in late 2017.[8][9]
+Examples[edit]
+
+
+
+
+A Time Warner Cable advertisement from its December 2009 carriage dispute with Fox. Designed to resemble a ransom note, the ad continued: “We’re standing up to Fox. Don’t let Fox hold your TV hostage.”[10]
+
+
+The 2009 dispute between Time Warner Cable and Fox is an example of a carriage dispute involving an over-the-air broadcaster. The dispute pitted the second largest United States cable system against one of the four major U.S. television networks, whose broadcasts included the popular prime time series American Idol and National Football League games. Fox's then-parent company, News Corporation (which has since spun off the network and its cable channels to 21st Century Fox), reportedly sought a monthly fee of $1 per subscriber; Time Warner offered 20 to 25 cents. Both companies mounted aggressive public relations campaigns, including dedicated websites and advertising. Fox suggested that viewers look into alternatives to Time Warner, including satellite and Verizon's Fios service. Time Warner Cable countered that it was trying to reign in expenses that would ultimately be paid by subscribers. The companies ultimately settled close to the deadline, and, as is typical with carriage disputes, did not disclose the terms. The deal encouraged other over-the-air broadcasters to seek higher retransmission payments, thereby putting upward pressure on cable and satellite bills.[11][12][13][14]
+The 2012 dispute between DirecTV and Viacom is an example of a dispute involving a non-terrestrial broadcaster. Viacom's cable/satellite channels, including Comedy Central, Nickelodeon and MTV, were blacked out for some 20 million DirecTV subscribers, who together represented about 20 percent of all U.S. households who subscribed to cable or satellite. DirecTV claimed Viacom was seeking a 30 percent fee hike, about $1 billion over five years. Viacom countered that while its channels represented 20 percent of total DirecTV viewing, the broadcaster received only 5 percent of the distributor's license fees. DirecTV argued that Viacom made too much of its content available for free on the Internet. Viacom responded that the practice was a marketing tool, although it pared that content back after the blackout. Also mentioned as a point of contention was Viacom's bundling of its co-owned channels – making them available to distributors only as a package rather than individually.[2][15] In a sign of the increasing pressure on carriers to limit subscriber fees, DirecTV competitors did not mount advertising campaigns to attract disgruntled customers, and some competitors issued statements of support.[16] Viacom and DirecTV resolved the dispute with a seven-year contract nine days later. Financial terms were not disclosed, though one analyst estimated Viacom would receive around $2.85 per subscriber, up from $2.25. In a first for Viacom, the company also agreed to give DirecTV customers access to live feeds on mobile devices.[17]
+Occasionally, a carriage dispute can last for months or even years. In September 2012, Time Warner Cable and the National Football League ended a nine-year dispute primarily over NFL Network, and later, NFL RedZone Channel. The deal followed an earlier settlement between the NFL and Cablevision, making Time Warner the last major holdout. Time Warner had offered to carry NFL Network on a narrower sports tier and argued that the relative scarcity of annual games–eight, expanded to 13–did not justify the cost. SNL Kagan estimated the average subscriber fee at 95 cents per month.[18][19][20] Some prolonged disputes are influenced by outside people and organizations. In 2003, New York City Mayor Michael R. Bloomberg helped arrange a deal between Cablevision and YES Network, which had kept many New York Yankees baseball games from being seen by some 3 million local subscribers for the first year of YES Network's run.[21][22] In 2006, EchoStar dropped the female-oriented channel Lifetime for a competing channel, Oxygen. While Lifetime is partially owned by Disney, which in turn owns ESPN and ABC, the deciding factor for contract renewal came less from the parent company's clout than from a letter writing campaign spurred by the National Organization for Women, the YWCA, and other groups.[1]
+Blackouts have occasionally extended to broadcasters' websites. In the summer of 2013, CBS blocked access to all Time Warner Cable subscribers, whether or not they lived in the disputed regions. In 2014, Viacom blocked streaming video access to Cable One customers. Broadcasters argued that the practice closes a loophole: if distributors are to feel pressure from their subscribers, those subscribers shouldn't be able to view the content elsewhere. The Federal Communications Commission Chairman Tom Wheeler said the practice of extending blackouts to the Internet is of broad concern.[23]
+A February 2015 carriage dispute between Fox Sports 1 and AT&T U-verse produced a rare example of a partial blackout. When the parties couldn't agree, the channel did not disappear entirely from the U-verse lineup. Instead, the blackout only extended to some programing, including NASCAR events, Major League Soccer matches, and USGA golf events. FS1 had added most of these events after its launch and maintained it was only seeking to get paid for the added value provided. AT&T U-verse called the additional fees "unreasonable".[24]
+Aereo[edit]
+Main article: American Broadcasting Companies v. Aereo
+In 2012, a carriage dispute of a different sort arose between Aereo, a small New York-based program distributor, and several major broadcasters, including CBS, NBC, ABC, Fox, Univision and PBS.[25] Aereo used banks of small antennas to receive over-the-air signals from broadcasters, then made those signals available to subscribers via the Internet. But unlike other distributors, the company argued that, as an "antenna technology" company, it was exempt from paying retransmission consent fees, just as is any home viewer employing an antenna. Broadcasters countered that the Aereo service went beyond the conventional antenna because it both recorded programs for later viewing and charged subscribers a monthly fee, thus acting as a middleman. Aereo won its case in all but one lower court proceeding, including an April 1, 2013 ruling by the Second Circuit Court of Appeals.[26][27][28][29][30][31] But in a 6-3 decision issued on June 25, 2014, the Supreme Court sided with the broadcasters, ruling that Aereo had violated copyright laws.[32]
+Proposed legislation[edit]
+Some legislators have sought to dampen the effects of carriage disputes on subscribers by giving more power to the Federal Communications Commission. In 2010, then Senator John Kerry introduced draft legislation that would have given the FCC more oversight responsibility, with the power to monitor negotiations and impose binding arbitration if it deems discussions between broadcasters and distributors are not being carried out in good faith.[13] In 2013, Representatives Anna Eshoo and Zoe Lofgren introduced the Video CHOICE (Consumers Have Options in Choosing Entertainment) Act, which would have enabled the FCC to prohibit channel blackouts during a dispute. The bill would also have prohibited broadcast channels from negotiating for carriage of its non-broadcast channels.[33]
+On the same day the Video CHOICE legislation was introduced, Representative Steve Scalise reintroduced legislation first drafted in 2011: the Next Generation Television Marketplace Act. The legislation, more far-reaching than CHOICE, would have repealed key provisions of the 1992 Cable Television Consumer Protection and Competition Act, including "must carry" and retransmission consent requirements, as well as compulsory copyright licenses stemming from 1976 copyright law. The legislative intent was that carriage negotiations for broadcast stations should play out on the same terms as those for non-terrestrial channels. Both bills, while given only narrow chances of passage, were generally welcomed by distributors and criticized by broadcasters.[33][34][35]
+Tradeoffs, consequences[edit]
+As with all negotiations, carriage disputes involve tradeoffs for both parties. Distributors must weigh the effect of the carriage fees they pay on both their revenues and the fees they pass on to subscribers. Distributors also risk antagonizing their subscribers if they drop one or more channels from their lineup. For their part, broadcasters risk losing viewers, which in turn can reduce revenues from commercials and per-subscriber carriage fees. Financial consequences can ensue. Dish Network lost 156,000 customers in the fourth quarter of 2011 after a carriage dispute with Fox resulted in a loss of Fox Sports programming in October.[36] AMC Networks' stock dropped by nearly five percent after the network's programming was dropped by Dish at the end of June 2012.[37]
+For distributors, much of the calculation hinges on whether programming content is so compelling that it is worth the retransmission fee. Sports programming provides a good example of how the calculation may favor either party.
+In a 2013 dispute between CBS and Time Warner Cable, CBS's bargaining position improved as the National Football League season approached. In the wake of the settlement, the broadcaster increased its per subscriber fee from an estimated $.58 to between $1 and $2, setting a new standard for retransmission fees commanded by over-the-air broadcasters. CBS also retained digital rights to its contents for resale to online distributors. The agreement was expected to earn the broadcaster an estimated $1 billion to $2 billion in additional revenues by 2017.[38][39][40][41][42][43]
+On the other hand, some regional sports networks have seemingly overplayed their hand.[44] CSN Houston, a partnership between the Houston Rockets, the Houston Astros and Comcast, was subsequently placed under bankruptcy protection after its October 2012 debut. While Comcast carried the channel, DirecTV, Dish Network and other competitors did not, citing the fee: $3.40 per month, one of the highest of any comparable channel. As a result, CSN Houston was unavailable to about 60% of the region's households. The owner of the Astros subsequently dropped high-salaried players, and the team finished the 2013 season with the worst record in baseball.[44][45]
+In January 2013, Time Warner Cable signed an $8.35 billion, 25-year contract with the Los Angeles Dodgers to carry and resell the Dodger-owned SportsNet LA. But in the 2014 season, the channel was only carried by TWC itself and a few smaller distributors, leaving about 70% of the region uncovered. TWC had reportedly asked other distributors for an initial $4 to $5 per-month per-subscriber, with carriage fees increasing yearly over the length of the contract. Those distributors, most notably DirecTV, balked at the terms.[46][47] Los Angeles Times business reporter Joe Flint called the standoff a potentially "definitive moment for the world of sports programming, as the industry realizes that exorbitantly priced television deals can backfire."[48] Other teams with whose regional sports networks did not gain traction include the Kansas City Royals and Minnesota Twins.[44]
+Some smaller cable companies, relying on revenues from broadband subscriptions, have been more willing to drop a bundled service, even at the cost of fewer television subscribers. In 2014, for example, Suddenlink, the seventh largest U.S. cable provider, entered into a lengthy dispute with Viacom, which continued even though Suddenlink lost 32,600 television subscribers over the first three months. But the company's net income was up 65 percent over the same period the previous year because it retained most of those subscribers as broadband customers.[49]
+References[edit]
+
+
+^ a b c d McMurria, John (2008). "Cable Carriage Disputes". In Andersen, Robin; Grey, Jonathan. Battleground: The Media Volume 1 (PDF). Westport, CT: Greenwood Press. pp. 69–76. ISBN 0313341672. 
+^ a b Stelter, Brian (July 10, 2010). "DirecTV-Viacom Dispute May Affect Access for 20 Million Customers". New York Times. Retrieved 12 July 2012. 
+^ Robichaux, Mark. Cable Cowboy: John Malone and the Rise of the Modern Cable Business. Hoboken, New Jersey: John Wiley & Sons. p. 56. ISBN 978-0-471-23639-9. 
+^ Seiden, Martin H. (1972). Cable Television U.S.A.: an Analysis of Government Policy. New York, London: Praeger Publishers. p. 150. 
+^ a b "Cable Carriage of Broadcast Stations". Guides. Federal Communications Commission. Retrieved 26 July 2012. 
+^ Seiden, Martin H. (1972). Cable Television U.S.A.: an Analysis of Government Policy. New York, London: Praeger Publishers. pp. 95–96. 
+^ "Episode 488: The Secret History Of Your Cable Bill". National Public Radio: Planet Money. September 27, 2013.  |access-date= requires |url= (help)
+^ James, Meg (November 21, 2017). "Millions of Dish customers lose CBS signals, face Thanksgiving without network's football". latimes.com. Retrieved 2017-11-21. 
+^ Grant, August E.; Meadows, Jennifer H. (2016-11-03). Communication Technology Update and Fundamentals: 15th Edition. Taylor & Francis. p. 86. ISBN 9781134987658. 
+^ Collins, Lauren (January 11, 2010). "King Kong Vs. Godzilla". The New Yorker. Retrieved 11 January 2013. 
+^ Littleton, Cynthia (December 27, 2009). "Fox, TW go down to wire". TV News. Retrieved 7 July 2012. 
+^ Friedman, Wayne (January 4, 2010). "Fallout: Time Warner, Fox Deal May Set Benchmark For Retrans Disputes". MediaDailyNews. Retrieved 7 July 2012. 
+^ Flint, Joe (July 12, 2012). "Viacom and DirecTV continue to negotiate but remain far apart". Los Angeles Times. Retrieved 13 July 2012. 
+^ Fernandez, Bob (July 12, 2012). "Viacom-DirecTV cost dispute highlights concern over pay-TV's future". Philadelphia Inquirer. Retrieved 13 July 2012. 
+^ Snider, Mike (July 12, 2012). "Viacom channels are off DirecTV systems". USAToday. Retrieved 12 July 2012. 
+^ Ramachandran, Shalini; Jannarone, John (July 20, 2012). "Viacom to Restore DirecTV Channels". The Wall Street Journal. Retrieved 20 July 2012. 
+^ Flint, Joe (July 20, 2012). "DirecTV and Viacom reach deal, end blackout". Los Angeles Times. Retrieved 22 July 2012. 
+^ Crupi, Anthony (August 4, 2011). "NFL Network in Carriage Talks With Time Warner Cable". Adweek. Retrieved 6 July 2012. 
+^ Soshnick, Scott (September 22, 2012). "NFL Reaches Agreement With Time Warner on NFL Network, RedZone". Bloomberg News. Archived from the original on 7 January 2013. Retrieved 7 January 2013. 
+^ Sandomir, Richard (September 21, 2012). "Time Warner Will Carry NFL Network". New York Times. Retrieved 7 January 2013. 
+^ Sandomir, Richard (March 13, 2003). "BASEBALL; Cablevision Agrees to Carry the YES Network". New York Times. Retrieved 12 July 2012. 
+^ Terranova, Justin (March 23, 2012). "YES Network marks 10th anniversary". New York Post. Retrieved 12 July 2012. 
+^ Flint, Joe (May 20, 2014). "FCC chairman expresses concern about TV networks blocking websites". Los Angeles Times. 
+^ "Fox Sports 1, AT&T In Dispute Over Fees For Nascar, Golf, Soccer". Variety. Retrieved 15 April 2015. 
+^ "Second Circuit Injunction Opinion in WNET v. Aereo". U.S. Court of Appeals for the Second Circuit (posted by the Electronic Frontier Foundation). August 30, 2012. 
+^ Stelter, Brian (April 1, 2013). "Aereo Wins a Court Battle, Dismaying Broadcasters". New York Times. Retrieved 9 April 2013. 
+^ Carr, David (March 17, 2013). "Spreading Disruption, Shaking Up Cable TV". New York Times. Retrieved 9 April 2013. 
+^ Bobkoff, David (April 12, 2013). "Startup CEO Wields Small Antenna In TV Streaming Battle". National Public Radio. Retrieved 12 April 2013. 
+^ Flint, Joe (April 17, 2013). "Aereo takes its case to the people as broadcasters press on in court". Los Angeles Times. Retrieved 17 April 2013. 
+^ Johnson, Ted (February 19, 2014). "Utah Federal Judge Halts Aereo in Salt Lake City and Denver". Variety. 
+^ Johnson, Ted (February 25, 2014). "Aereo Granted Two-Week Reprieve As It Appeals Utah Ruling". Variety. 
+^ Markon, Jerry (June 25, 2014). "Supreme Court rules against start-up Aereo, saying it is violating copyright laws". The Washington Post. 
+^ a b Flint, Joe (December 12, 2013). "Proposed bills seek to rewrite media rulebook". Los Angeles Times. 
+^ Eggerton, John (December 12, 2013). "Scalise Reintroduces Video Reform Bill". Broadcast & Cable. 
+^ Eggerton, John (July 20, 2012). "Padden: Get Rid of Compulsory License and Retrans". Broadcast & Cable. 
+^ Lowry, Tom (February 24, 2011). "Dish Network loses subscribers". Variety. Retrieved 6 July 2012. 
+^ Goldsmith, Jill (June 28, 2012). "AMC Networks stock drops 5%: News of AT&T carriage dispute on top of Dish feud hits company". Variety. Retrieved 6 July 2012. 
+^ Carter, Bill (September 2, 2013). "CBS Returns, Triumphant, to Cable Box". New York Times. Retrieved 3 September 2013. 
+^ "Analysis: Changing economics of retrans". Advanced Television. September 2, 2013. 
+^ Grover, Ronald; Baker, Liana B. (September 3, 2013). "CBS win squeezes Time Warner Cable's margins: analysts". Reuters. Retrieved 3 September 2013. 
+^ Sherman, Alex (September 3, 2013). "CBS Deal Ends Time Warner Cable Blackout Ahead of NFL". Bloomberg. Archived from the original on 2013-10-16. 
+^ Ben Block, Alex (August 26, 2013). "How the Time Warner Cable, CBS Strandoff Could Set the TV Standard". The Hollywood Reporter. Retrieved 3 September 2013. 
+^ Carter, Bill (September 6, 2013). "Bold Play by CBS Fortifies Broadcasters". The New York Times. 
+^ a b c Stetch, Katy (July 14, 2014). "Houston Teams Want Potential Buyers for Sports Channel Kept Secret". The Wall Street Journal. 
+^ Pulsinelli, Olivia (March 21, 2014). "Comcast SportsNet Houston's bankruptcy case headed to mediation". Houston Business Journal. 
+^ Flint, Joe (February 24, 2014). "Dodger channel debuts Tuesday but much of region will be shut out". Los Angeles Times. Retrieved February 26, 2014. 
+^ "Time Warner Cable says talks with DirecTV for Dodgers channel are over". Los Angeles Times. Retrieved 4 April 2014. 
+^ Flint, Joe (July 17, 2014). "Standoff over Dodgers games could be defining moment in sports TV". Los Angeles Times. 
+^ Steel, Emily (March 8, 2015). "Provider's Dispute With Viacom Highlights Skirmish Over the Cable Bundle". 
+
+
+External links[edit]
+
+American Television Alliance Blackout List: a spreadsheet linked from the organization's media page giving a running tally from 2010
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Carriage_dispute&oldid=811440332"					
+Categories: Cable television in the United StatesSatellite televisionBroadcast lawTelevision terminologyHidden categories: Pages using citations with accessdate and no URL 

@@ -1,0 +1,679 @@
+I = PAT - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Studying the Impact of Mining on Environment and Village Community
+
+
+
+
+
+
+Pollution from a Factory
+
+
+I = PAT is the mathematical notation of a formula put forward to describe the impact of human activity on the environment.
+
+I = P × A × T
+
+The expression equates human impact on the environment to the product of three factors: Population, Affluence, and Technology. It is similar in form to the Kaya identity which applies specifically to emissions of the greenhouse gas carbon dioxide.
+The validity of expressing environmental impact as a simple product of independent factors, and the factors that should be included and their comparative importance, have been the subject of debate among environmentalists. In particular, some have drawn attention to potential inter-relationships among the three factors; and others have wished to stress other factors not included in the formula, such as political and social structures, and the scope for beneficial, as well as harmful, environmental actions.
+
+
+
+Contents
+
+
+1 History
+2 The dependent variable: Impact
+3 The three factors
+
+3.1 Population
+
+3.1.1 Environmental impacts of population
+
+
+3.2 Affluence
+
+3.2.1 Environmental impacts of affluence
+
+
+3.3 Technology
+
+3.3.1 Environmental impacts of technology
+
+
+
+
+4 Criticism
+
+4.1 Interdependencies
+4.2 Neglect of beneficial human impacts
+4.3 Neglect of political and social contexts
+4.4 Policy implications
+
+
+5 See also
+6 References
+
+
+
+History[edit]
+The equation was developed in 1970 during the course of a debate between Barry Commoner, Paul R. Ehrlich and John Holdren. Commoner argued that environmental impacts in the United States were caused primarily by changes in its production technology following World War II and aimed his thoughts on present day deteriorating environmental conditions in the U.S. Ehrlich and Holdren argued that all three factors were important and emphasized in particular the role of human population growth, but focused more on a broader scale, being less specific in space and time.[1][2][3][4]
+The equation can aid in understanding some of the factors affecting human impacts on the environment,[5] but it has also been cited as a basis for many of the dire environmental predictions of the 1970s by Paul Ehrlich, George Wald, Denis Hayes, Lester Brown, René Dubos, and Sidney Ripley that did not come to pass.[6] Neal Koblitz classified equations of this type as "mathematical propaganda" and criticized Ehrlich's use of them in the media (e.g. on The Tonight Show) to sway the general public.[7]
+The dependent variable: Impact[edit]
+The variable "I" in the "I=PAT" equation represents environmental impact. The environment may be viewed as a self-regenerating system that can sustain a certain level of impact sustainably. The maximum sustainable impact is called the carrying capacity. As long as "I" is less than this amount the associated population, affluence, and technology that make up "I" are sustainable. If "I" exceeds the carrying capacity, then the system is said to be in overshoot, which can only be a temporary state. Overshoot may degrade the ability of the environment to sustain impact, therefore reducing the carrying capacity.
+Impact may be measured using ecological footprint analysis in units of global hectares (gha). Ecological footprint per capita is a measure of the quantity of Earth's biologically productive surface that is needed to regenerate the resources consumed per capita.
+Impact is modeled as the product of three terms, giving gha as a result. Population is expressed in human numbers, therefore Affluence is measured in units of gha per capita. Technology is a unitless efficiency factor.
+The three factors[edit]
+Population[edit]
+See also: World population and Human overpopulation
+
+
+
+
+Population (est.) 10,000 BC – 2000 AD.
+
+
+In the I=PAT equation, the variable P represents the population of an area, such as the world. Since the rise of industrial societies, human population has been increasing exponentially. This has caused Thomas Malthus and many others[who?] to postulate that this growth would continue until checked by widespread hunger and famine (see Malthusian growth model).
+The United Nations and the US Census Bureau project that world population will increase from 7.4 billion today in 2016 (up from 7.0 billion forecast in 2005) to about 9.7 billion by 2050 (up from 9.2 billion).[8][9] These projections take into consideration that population growth has slowed in recent years as women are having fewer children. This phenomenon is the result of demographic transition all over the world. The UN projects that human population might stabilize around 11.2 billion by 2100 (up from 9.2 billion).[1] However, since the world population is set to keep rising for the next few decades, this factor of the I=PAT equation will likely keep increasing human impact on the environment for the near future.
+Environmental impacts of population[edit]
+Increased population increases humans' environmental impact in many ways, which include but are not limited to:
+
+Increased land use - Results in habitat loss for other species.
+Increased resource use - Results in changes in land cover
+Increased pollution - Can cause sickness and damages ecosystems.
+
+Affluence[edit]
+Main article: Consumption (economics)
+
+
+
+
+World GDP per capita (in 1990 Geary-Khamis dollars)
+
+
+The variable A, in the I=PAT equation stands for affluence. It represents the average consumption of each person in the population. As the consumption of each person increases, the total environmental impact increases as well. A common proxy for measuring consumption is through GDP per capita. While GDP per capita measures production, it is often assumed that consumption increases when production increases. GDP per capita has been rising steadily over the last few centuries and is driving up human impact in the I=PAT equation.
+Environmental impacts of affluence[edit]
+Increased consumption significantly increases human environmental impact. This is because each product consumed has wide-ranging effects on the environment. For example, the construction of a car has the following environmental impacts:
+
+605,664 gallons of water for parts and tires[10]
+682 lbs. of pollution at a mine for the lead battery.[10]
+2178 lbs. of discharge into water supply for the 22 lbs. of copper contained in the car.[10]
+
+The more cars per capita, the greater the impact. Ecological impacts of each product are far reaching, increases in consumption quickly result in large impacts on the environment through direct and indirect sources.
+Technology[edit]
+See also: Environmental technology and Appropriate technology
+The T variable in the I=PAT equation represents how resource intensive the production of affluence is; how much environmental impact is involved in creating, transporting and disposing of the goods, services and amenities used. Improvements in efficiency can reduce resource intensiveness, reducing the T multiplier. Since technology can affect environmental impact in many different ways, the unit for T is often tailored for the situation I=PAT is being applied to. For example, for a situation where the human impact on climate change is being measured, an appropriate unit for T might be greenhouse gas emissions per unit of GDP.
+Environmental impacts of technology[edit]
+Increases in efficiency can reduce overall environmental impact. However, since P has increased exponentially, and A has also increased drastically, the overall environmental impact, I, has still increased.
+Criticism[edit]
+
+
+
+
+Native American Fishing Practices (Low Technology) have a vastly smaller Impact than Industrialized Fishing
+
+
+Criticisms of the "I=PAT" formula
+
+Too Simplistic for complex problem
+Inter dependencies between variables
+General sweeping assumptions of variables affect toward environmental impact
+Cultural differences cause wide variation in impact
+Technology cannot properly be expressed in a unit. Varying the unit will prove to be inaccurate, as the result of the calculation depends on ones view of the situation
+
+Interdependencies[edit]
+The I=PAT equation has been criticized for being too simplistic by assuming that P, A, and T are independent of each other. In reality, at least 7 interdependencies between P, A, and T could exist, indicating that it is more correct to rewrite the equation as I = f(P,A,T).[11] For example, a doubling of technological efficiency, or equivalently a reduction of the T-factor by 50%, does not necessarily reduce the environmental impact (I) by 50% if efficiency induced price reductions stimulate additional consumption of the resource that was supposed to be conserved, a phenomenon called the rebound effect (conservation) or Jevons Paradox. As was shown by Alcott,[11]:Fig. 5 despite significant improvements in the carbon intensity of GDP (i.e., the efficiency in carbon use) since 1980, world fossil energy consumption has increased in line with economic and population growth. Similarly, an extensive historical analysis of technological efficiency improvements has conclusively shown that improvements in the efficiency of energy and material use were almost always outpaced by economic growth, resulting in a net increase in resource use and associated pollution.[12][13]
+Neglect of beneficial human impacts[edit]
+There have also been comments that this model depicts people as being purely detrimental to the environment, ignoring any conservation or restoration efforts that societies have made.[14]
+Neglect of political and social contexts[edit]
+Another major criticism of the I=PAT model is that it ignores the political context and decision making structures of countries and groups. This means the equation does not account for varying degrees of power, influence, and responsibility of individuals over environmental impact.[15] Also, the P factor does not account for the complexity of social structures or behaviors, resulting in blame being placed on the global poor.[16] I=PAT does not account for sustainable resource use among some poor and indigenous populations, unfairly characterizing these populations whose cultures support low impact practices.[17]
+Policy implications[edit]
+As a result of the interdependencies between P, A, and T and potential rebound effects, policies aimed at decreasing environmental impacts through reductions in P, A, and T may not only be very difficult to implement (i.e., population control and material sufficiency and degrowth movements have been very controversial) but also are likely to be rather ineffective compared to rationing (i.e., quotas) or Pigouvian taxation of resource use or pollution.[11]
+See also[edit]
+
+
+Environment portal
+Sustainable development portal
+
+
+
+Affluence
+Carbon footprint
+Ecological footprint
+Ecological indicator
+Embodied energy
+Life cycle assessment
+Sustainability measurement
+Sustainability metrics and indices
+Technology
+Water footprint
+
+References[edit]
+
+
+^ a b O'Neill, B.C.; MacKellar, F.L.; Lutz, W. (2004). "Population, greenhouse gas emissions, and climate change". In Lutz, W.; Sanderson, W.C.; Scherbov, S. The End of World Population Growth in the 21st Century: New Challenges for Human Capital Formation & Sustainable Development. London: Earthscan Press. pp. 283–314. 
+^ Ehrlich, Paul R.; Holdren, John P. (1971). "Impact of Population Growth". Science. American Association for the Advancement of Science. 171 (3977): 1212–1217. doi:10.1126/science.171.3977.1212. JSTOR 1731166. 
+^ Chertow, Marian (2001). "The IPAT Equation and Its Variants". Changing Views of Technology and Environmental Impact. 
+^ Barry Commoner (May 1972). "A Bulletin Dialogue: on "The Closing Circle" - Response". Bulletin of the Atomic Scientists: 17–56. 
+^ Chertow, M. R. (2000). "The IPAT Equation and Its Variants". Journal of Industrial Ecology. 4 (4): 13–29. doi:10.1162/10881980052541927. 
+^ R Bailey (2000) Earth day then and now, Reason 32(1), 18-28
+^ N Koblitz (1981) "Mathematics as Propaganda", in Mathematics Tomorrow, ed. Lynn Steen, pp 111-120.
+^ US Census Bureau international popopulation statistics and projections 1950 to 2050 Archived 1 July 2009 at the Wayback Machine.
+^ United Nations population projections Archived 29 April 2011 at the Wayback Machine.
+^ a b c Andriantiatsaholiniaina, L. A.; Kouikoglou, V. S.; Phillis, Y. A. (2004). "Evaluating strategies for sustainable development: Fuzzy logic reasoning and sensitivity analysis". Ecological Economics. 48 (2): 149. doi:10.1016/j.ecolecon.2003.08.009. 
+^ a b c Alcott, B. (2010). "Impact caps: Why population, affluence and technology strategies should be abandoned". Journal of Cleaner Production. 18 (6): 552–560. doi:10.1016/j.jclepro.2009.08.001. 
+^ Huesemann, Michael H., and Joyce A. Huesemann (2011). Technofix: Why Technology Won’t Save Us or the Environment, Chapter 5, "In Search of Solutions II: Efficiency Improvements", New Society Publishers, Gabriola Island, British Columbia, Canada, ISBN 0865717044, 464 pp.
+^ Cleveland, C. J.; Ruth, M. (1998). "Indicators of Dematerialization and the Materials Intensity of Use". Journal of Industrial Ecology. 2 (3): 15. doi:10.1162/jiec.1998.2.3.15. ≥
+^ Moseley, William; Perramond, Eric; Hapke, Holly; Laris, Paul (2014). An Introduction to Human-Environment Geography. Wiley Blackwell. pp. 241–242. ISBN 9781405189316. 
+^ Moseley, William (2014). An Introduction to Human- Environment Geography: Local Dynamics and Global Processes. West Sussex, UK: Wiley- Blackwell Publishing. ISBN 978-1-4051-8932-3. 
+^ Moseley, William (2014). An Introduction to Human-Environment Geography : Local Dynamics and Global Processes. Hoboken, NJ: Wiley-Blackwell. p. 242. ISBN 9781118241004. 
+^ An Introduction to Human-Environment Geography. Wiley Blackwell. 2014. p. 242. ISBN 978-1-4051-8931-6. 
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Global human population
+
+
+
+Major topics
+
+
+
+Biocapacity
+Optimum population
+Overpopulation
+
+Malthusian catastrophe
+
+
+Population
+Population ethics
+Population momentum
+Sustainable development
+Women's reproductive rights
+Zero population growth
+
+
+
+
+
+Biological and
+related topics
+
+
+
+Family planning
+
+Pledge two or fewer
+
+
+Human population planning
+
+One-child policy
+Two-child policy
+
+
+Population biology
+Population decline
+Population density
+
+Physiological density
+
+
+Population dynamics
+Population growth
+Population model
+Population pyramid
+Projections of population growth
+
+
+
+
+
+Human impact on
+the environment
+
+
+
+Deforestation
+Desalination
+Desertification
+Environmental impact
+
+of agriculture
+of aviation
+of biodiesel
+of concrete
+of electricity generation
+of the energy industry
+of fishing
+of irrigation
+of mining
+of off-roading
+of oil shale industry
+of palm oil
+of paper
+of the petroleum industry
+of reservoirs
+of shipping
+of war
+
+
+Industrialisation
+Land degradation
+Land reclamation
+Overconsumption
+Pollution
+Quarrying
+Urbanization
+
+Loss of green belts
+Urban sprawl
+
+
+Waste
+Water scarcity
+
+Overdrafting
+
+
+
+
+
+
+
+
+Population
+ecology
+
+
+
+
+Carrying capacity
+Deep ecology
+Earth's energy budget
+Food security
+Habitat destruction
+I = P × A  × T
+Malthusian growth model
+Overshoot (population)
+World energy consumption
+World energy resources
+World3 model
+
+
+
+
+
+Literature
+
+
+
+A Modest Proposal
+Observations Concerning the Increase of Mankind, Peopling of Countries, etc.
+An Essay on the Principle of Population
+"How Much Land Does a Man Need?"
+Operating Manual for Spaceship Earth
+Population Control: Real Costs, Illusory Benefits
+The Limits to Growth
+The Population Bomb
+The Skeptical Environmentalist
+The Ultimate Resource
+
+
+
+
+
+Publications
+
+
+
+Population and Environment
+Population and Development Review
+
+
+
+
+
+Lists
+
+
+
+Population and housing censuses by country
+Metropolitan areas by population
+Population milestone babies
+
+
+
+
+
+
+Events and
+organizations
+
+
+
+
+7 Billion Actions
+International Conference on Population and Development
+Population Action International
+Population Connection
+Population Matters
+Population Research Institute
+United Nations Population Fund
+Voluntary Human Extinction Movement
+World Population Day
+World Population Foundation
+
+
+
+
+
+Related topics
+
+
+
+Classic Maya collapse
+Fertility and intelligence
+Green Revolution
+Holocene extinction
+Migration
+
+
+
+
+
+
+
+
+ Commons
+ Human overpopulation
+Human activities with impact on the environment
+Human migration
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Sustainability
+
+
+
+Principles
+
+
+
+Anthropocene
+Earth system governance
+Ecological modernization
+Environmental governance
+Environmentalism
+Global catastrophic risk
+Human impact on the environment
+Planetary boundaries
+Social sustainability
+Stewardship
+Sustainable development
+
+
+
+
+
+Consumption
+
+
+
+Anthropization
+Anti-consumerism
+Earth Overshoot Day
+Ecological footprint
+Ethical
+Over-consumption
+Simple living
+Sustainability advertising
+Sustainability brand
+Sustainability marketing myopia
+Sustainable
+Systemic change resistance
+Tragedy of the commons
+
+
+
+
+
+Population
+
+
+
+Birth control
+Family planning
+Control
+Overpopulation
+Zero growth
+
+
+
+
+
+Technology
+
+
+
+Appropriate
+Environmental
+Sustainable
+
+
+
+
+
+Biodiversity
+
+
+
+Biosecurity
+Biosphere
+Conservation biology
+Deep ecology
+Endangered species
+Holocene extinction
+Invasive species
+
+
+
+
+
+Energy
+
+
+
+Carbon footprint
+Climate change mitigation
+Conservation
+Descent
+Efficiency
+Emissions trading
+Fossil-fuel phase-out
+Peak oil
+Renewable
+Energy poverty
+
+
+
+
+
+Food
+
+
+
+Forest gardening
+Local
+Permaculture
+Security
+Sustainable agriculture
+Sustainable fishery
+Urban horticulture
+
+
+
+
+
+Water
+
+
+
+Conservation
+Crisis
+Efficiency
+Footprint
+Reclaimed
+
+
+
+
+
+Accountability
+
+
+
+Sustainability accounting
+Sustainability measurement
+Sustainability metrics and indices
+Sustainability reporting
+Standards and certification
+Sustainable yield
+
+
+
+
+
+Applications
+
+
+
+Advertising
+Architecture
+Art
+Business
+City
+College programs
+Community
+Design
+Ecovillage
+Education for Sustainable Development
+Fashion
+Gardening
+Geopark
+Green marketing
+Industries
+Landscape architecture
+Living
+Low-impact development
+Sustainable market
+Organizations
+Packaging
+Practices
+Procurement
+Tourism
+Transport
+Urban drainage systems
+Urban infrastructure
+Urbanism
+
+
+
+
+
+Management
+
+
+
+Environmental
+Fisheries
+Forest
+Materials
+Natural resource
+Planetary
+Waste
+
+
+
+
+
+Agreements
+
+
+
+UN Conference on the Human Environment (Stockholm 1972)
+Brundtlandt Commission Report (1983)
+Our Common Future (1987)
+Earth Summit (1992)
+Rio Declaration on Environment and Development
+Agenda 21 (1992)
+Convention on Biological Diversity (1992)
+ICPD Programme of Action (1994)
+Earth Charter
+Lisbon Principles
+UN Millennium Declaration (2000)
+Earth Summit 2002 (Rio+10, Johannesburg)
+United Nations Conference on Sustainable Development (Rio+20, 2012)
+Sustainable Development Goals
+
+
+
+
+
+
+
+
+Category
+Lists
+Outline
+Portal
+Science
+Studies
+Degrees
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=I_%3D_PAT&oldid=800718458"					
+Categories: Human impact on the environmentEnvironmental social science conceptsEquationsHuman geographyTechnology forecastingHidden categories: Webarchive template wayback linksUse dmy dates from May 2016All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from February 2011 

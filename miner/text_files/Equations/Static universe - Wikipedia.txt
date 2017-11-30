@@ -1,0 +1,408 @@
+Static universe - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Part of a series on
+
+
+Physical cosmology
+
+
+
+
+
+
+
+Big Bang · Universe
+Age of the universe
+Chronology of the universe
+
+
+
+
+
+
+Early universe
+
+
+
+
+
+Inflation · Nucleosynthesis
+
+
+
+
+Backgrounds
+
+
+
+
+Gravitational wave (GWB)
+Microwave (CMB) · Neutrino (CNB)
+
+
+
+
+
+
+
+
+
+
+
+Expansion · Future
+
+
+Hubble's law · Redshift
+Metric expansion of space
+FLRW metric · Friedmann equations
+Inhomogeneous cosmology
+Future of an expanding universe
+Ultimate fate of the universe
+
+
+
+
+
+
+
+
+Components · Structure
+
+
+
+Components
+
+
+
+
+Lambda-CDM model
+Dark energy · Dark fluid · Dark matter
+
+
+
+
+Structure
+
+
+
+
+Shape of the universe
+Galaxy filament · Galaxy formation
+Large quasar group
+Large-scale structure
+Reionization · Structure formation
+
+
+
+
+
+
+
+
+
+
+
+Experiments
+
+
+Black Hole Initiative (BHI)
+BOOMERanG
+Cosmic Background Explorer (COBE)
+Illustris project
+Planck space observatory
+Sloan Digital Sky Survey (SDSS)
+2dF Galaxy Redshift Survey ("2dF")
+
+Wilkinson Microwave Anisotropy
+Probe (WMAP)
+
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Aaronson
+Alfvén
+Alpher
+Bharadwaj
+Copernicus
+de Sitter
+Dicke
+Ehlers
+Einstein
+Ellis
+Friedman
+Galileo
+Gamow
+Guth
+Hawking
+Hubble
+Lemaître
+Mather
+Newton
+Penrose
+Penzias
+Rubin
+Schmidt
+Smoot
+Suntzeff
+Sunyaev
+Tolman
+Wilson
+Zel'dovich
+
+
+
+List of cosmologists
+
+
+
+
+
+
+
+
+Subject history
+
+
+
+Discovery of cosmic microwave
+background radiation
+
+History of the Big Bang theory
+
+Religious interpretations of
+the Big Bang theory
+
+Timeline of cosmological theories
+
+
+
+
+
+
+
+
+ Category
+ Cosmology portal
+ Astronomy portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+A static universe, also referred to as a "stationary" or "infinite" or "static infinite" universe, is a cosmological model in which the universe is both spatially infinite and temporally infinite, and space is neither expanding nor contracting. Such a universe does not have spatial curvature; that is to say that it is 'flat' or Euclidean. A static infinite universe was first proposed by Thomas Digges.[1]
+In contrast to this model, Albert Einstein proposed a temporally infinite but spatially finite model as his preferred cosmology in 1917, in his paper Cosmological Considerations in the General Theory of Relativity.
+After the discovery of the redshift–distance relationship (deduced by the inverse correlation of galactic brightness to redshift) by Vesto Slipher and Edwin Hubble, the Roman Catholic priest Georges Lemaître interpreted the redshift as proof of universal expansion and thus a Big Bang, whereas Fritz Zwicky proposed that the redshift was caused by the photons losing energy as they passed through the matter and/or forces in intergalactic space. Zwicky's proposal would come to be called 'tired light'- a term coined by the leading Big Bang proponent Richard Tolman.
+
+
+
+Contents
+
+
+1 The Einstein universe
+2 Requirements of a static infinite model
+3 See also
+4 References
+
+
+
+The Einstein universe[edit]
+Albert Einstein added a positive cosmological constant to his equations of general relativity to counteract the attractive effects of gravity on ordinary matter, which would otherwise cause a spatially finite universe to either collapse or expand forever.
+This motivation evaporated after the proposal by the astrophysicist and Roman Catholic priest Georges Lemaître that the universe appears to be not static, but expanding. Edwin Hubble had researched data from the observations made by astronomer Vesto Slipher to confirm a relationship between redshift and distance, which forms the basis for the modern expansion paradigm that was introduced by Lemaître. According to George Gamow this led Einstein to declare this cosmological model, and especially the introduction of the cosmological constant, his "biggest blunder".[1]
+Einstein's static universe is closed (i.e. has hyperspherical topology and positive spatial curvature), and contains uniform dust and a positive cosmological constant with value precisely 
+
+
+
+
+Λ
+
+E
+
+
+=
+4
+π
+G
+ρ
+
+/
+
+
+c
+
+2
+
+
+
+
+{\displaystyle \Lambda _{E}=4\pi G\rho /c^{2}}
+
+, where 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ is Newtonian gravitational constant, 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+ is the energy density of the matter in the universe and 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is the speed of light. The radius of curvature of space of the Einstein universe is equal to
+
+
+
+
+
+
+R
+
+E
+
+
+=
+
+Λ
+
+E
+
+
+−
+1
+
+/
+
+2
+
+
+=
+
+
+c
+
+
+4
+π
+G
+ρ
+
+
+
+
+.
+
+
+{\displaystyle R_{E}=\Lambda _{E}^{-1/2}={c \over {\sqrt {4\pi G\rho }}}.}
+
+
+
+The Einstein universe is one of Friedmann's solutions to Einstein's field equation for dust with density 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+, cosmological constant 
+
+
+
+
+Λ
+
+E
+
+
+
+
+{\displaystyle \Lambda _{E}}
+
+, and radius of curvature 
+
+
+
+
+R
+
+E
+
+
+
+
+{\displaystyle R_{E}}
+
+. It is the only non-trivial static solution to Friedmann's equations.[citation needed]
+Because the Einstein universe soon was recognized to be inherently unstable, it was shortly abandoned as a viable model for the universe. It is unstable in the sense that any slight change in either the value of the cosmological constant, the matter density, or the spatial curvature will result in a universe that either expands and accelerates forever or re-collapses to a big crunch.
+After Einstein renounced his cosmological constant, and embraced the Friedmann-LeMaitre model of an expanding universe[2], most physicists of the twentieth century assumed that the cosmological constant is zero. If so (absent some other form of dark energy), the expansion of the universe would be decelerating. However, after Saul Perlmutter, Brian P. Schmidt, and Adam G. Riess introduced the theory of an accelerating universe in 1998, a positive cosmological constant has been revived as a simple explanation for dark energy.
+Requirements of a static infinite model[edit]
+In order for a static infinite universe model to be viable, it must explain three things:
+First, it must explain the intergalactic redshift. Second, it must explain the cosmic microwave background radiation. Third, it must have a mechanism to re-create matter (particularly hydrogen atoms) from radiation or other sources in order to avoid a gradual 'running down' of the universe due to the conversion of matter into energy in stellar processes.[3][4] With the absence of such a mechanism, the universe would consist of dead objects such as black holes and black dwarfs.
+See also[edit]
+
+Milne model
+Steady State theory
+
+References[edit]
+
+
+
+^ Pogge, Richard W. (February 24, 2014). "Essay: The Folly of Giordano Bruno". astronomy.ohio-state.edu. Retrieved 3 April 2016. Bruno is often credited with recognizing that the Copernican system allowed an infinite Universe. In truth, the idea that a heliocentric description of the solar system allowed (or at least did not rule out) an infinite Universe was first proposed by Thomas Digges in 1576 in his A Perfit Description of the Caelestial Orbes, in which Digges both presents and extends the Copernican system, suggesting that the Universe was infinite. 
+^ https://link.springer.com/article/10.1140%2Fepjh%2Fe2013-40037-6
+^ MacMillan, W.D. 1918. On stellar evolution. Astrophys. J. 48: 35-49
+^ MacMillan, W.D. 1925. Some mathematical aspects of cosmology. Science 62: 63-72, 96-99, 121-127)
+
+
+
+
+^ In George Gamow's autobiography, My World Line (1970), he says of Einstein: "Much later, when I was discussing cosmological problems with Einstein, he remarked that the introduction of the cosmological term was the biggest blunder of his life."
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Static_universe&oldid=806590057"					
+Categories: Physical cosmologyExact solutions in general relativityAlbert EinsteinObsolete scientific theoriesHidden categories: All articles with unsourced statementsArticles with unsourced statements from February 2010 

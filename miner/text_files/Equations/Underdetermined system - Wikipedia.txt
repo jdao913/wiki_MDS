@@ -1,0 +1,140 @@
+Underdetermined system - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, a system of linear equations or a system of polynomial equations is considered underdetermined if there are fewer equations than unknowns (in contrast to an overdetermined system, where there are more equations than unknowns). The terminology can be explained using the concept of constraint counting. Each unknown can be seen as an available degree of freedom. Each equation introduced into the system can be viewed as a constraint that restricts one degree of freedom.
+Therefore, the critical case (between overdetermined and underdetermined) occurs when the number of equations and the number of free variables are equal. For every variable giving a degree of freedom, there exists a corresponding constraint removing a degree of freedom. The underdetermined case, by contrast, occurs when the system has been underconstrained—that is, when the unknowns outnumber the equations.
+
+
+
+Contents
+
+
+1 Solutions of underdetermined systems
+2 Homogeneous case
+3 Underdetermined polynomial systems
+4 Underdetermined systems with other constraints and in optimization problems
+5 See also
+6 References
+
+
+
+Solutions of underdetermined systems[edit]
+An underdetermined linear system has either no solution or infinitely many solutions.
+For example,
+
+
+
+
+
+
+
+
+
+x
++
+y
++
+z
+
+
+
+=
+1
+
+
+
+
+x
++
+y
++
+z
+
+
+
+=
+0
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}x+y+z&=1\\x+y+z&=0\end{aligned}}}
+
+
+
+is an underdetermined system without any solution; any system of equations having no solution is said to be inconsistent. On the other hand, the system
+
+
+
+
+
+
+
+
+
+x
++
+y
++
+z
+
+
+
+=
+1
+
+
+
+
+x
++
+y
++
+2
+z
+
+
+
+=
+3
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}x+y+z&=1\\x+y+2z&=3\end{aligned}}}
+
+
+
+is consistent and has an infinitude of solutions, such as (x, y, z) = (1, −2, 2), (2, −3, 2), and (3, −4, 2). All of these solutions can be characterized by first subtracting the first equation from the second, to show that all solutions obey z=2; using this in either equation shows that any value of y is possible, with x=–1–y.
+More specifically, according to the Rouché–Capelli theorem, any system of linear equations (underdetermined or otherwise) is inconsistent if the rank of the augmented matrix is greater than the rank of the coefficient matrix. If, on the other hand, the ranks of these two matrices are equal, the system must have at least one solution; since in an underdetermined system this rank is necessarily less than the number of unknowns, there are indeed an infinitude of solutions, with the general solution having k free parameters where k is the difference between the number of variables and the rank.
+There are algorithms to decide whether an underdetermined system has solutions, and if it has any, to express all solutions as linear functions of k of the variables (same k as above). The simplest one is Gaussian elimination. See System of linear equations for more details.
+Homogeneous case[edit]
+The homogeneous (with all constant terms equal to zero) underdetermined linear system always has non-trivial solutions (in addition to the trivial solution where all the unknowns are zero). There are an infinity of such solutions, which form a vector space, whose dimension is the difference between the number of unknowns and the rank of the matrix of the system.
+Underdetermined polynomial systems[edit]
+The main property of linear underdetermined systems, of having either no solution or infinitely many, extends to systems of polynomial equations in the following way.
+A system of polynomial equations which has fewer equations than unknowns is said to be underdetermined. It has either infinitely many complex solutions (or, more generally, solutions in an algebraically closed field) or is inconsistent. It is inconsistent if and only if 0 = 1 is a linear combination (with polynomial coefficients) of the equations (this is Hilbert's Nullstellensatz). If an underdetermined system of t equations in n variables (t < n) has solutions, then the set of all complex solutions is an algebraic set of dimension at least n - t. If the underdetermined system is chosen at random the dimension is equal to n - t with probability one.
+Underdetermined systems with other constraints and in optimization problems[edit]
+In general, an underdetermined system of linear equations has an infinite number of solutions, if any. However, in optimization problems that are subject to linear equality constraints, only one of the solutions is relevant, namely the one giving the highest or lowest value of an objective function.
+Some problems specify that one or more of the variables are constrained to take on integer values. An integer constraint leads to integer programming and Diophantine equations problems, which may have only a finite number of solutions.
+Another kind of constraint, which appears in coding theory, especially in error correcting codes and signal processing (for example compressed sensing), consists in an upper bound on the number of variables which may be different from zero. In error correcting codes, this bound corresponds to the maximal number of errors that may be corrected simultaneously.
+See also[edit]
+
+Overdetermined system
+Regularization (mathematics)
+
+References[edit]
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Underdetermined_system&oldid=770334277"					
+Categories: Linear algebraEquations 

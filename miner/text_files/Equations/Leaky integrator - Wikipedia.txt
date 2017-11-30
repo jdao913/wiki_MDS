@@ -1,0 +1,147 @@
+Leaky integrator - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+A graph of a leaky integrator; the input changes at T=5.
+
+
+In mathematics, a leaky integrator equation is a specific differential equation, used to describe a component or system that takes the integral of an input, but gradually leaks a small amount of input over time. It appears commonly in hydraulics, electronics, and neuroscience where it can represent either a single neuron or a local population of neurons.[1] [clarification needed]
+This is equivalent to a 1st-order lowpass filter with cutoff frequency far below the frequencies of interest.[citation needed]
+Equation[edit]
+The equation is of the form
+
+
+
+
+
+d
+x
+
+/
+
+d
+t
+=
+−
+A
+x
++
+C
+
+
+{\displaystyle dx/dt=-Ax+C}
+
+
+
+where C is the input and A is the rate of the 'leak'.
+General solution[edit]
+As the equation is a nonhomogeneous first-order linear differential equation, its general solution is
+
+
+
+
+
+x
+(
+t
+)
+=
+k
+
+e
+
+−
+A
+t
+
+
++
+
+x
+
+0
+
+
+(
+t
+)
+
+
+{\displaystyle x(t)=ke^{-At}+x_{0}(t)}
+
+
+
+where 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ is a constant, and 
+
+
+
+
+x
+
+0
+
+
+
+
+{\displaystyle x_{0}}
+
+ is an arbitrary solution of the equation.
+References[edit]
+
+
+
+^ Eliasmith, Anderson, Chris, Charles (2003). Neural Engineering. Cambridge, Massachusetts: MIT Press. p. 81. 
+
+
+
+
+
+
+This mathematical analysis–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This applied mathematics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Leaky_integrator&oldid=790730726"					
+Categories: Differential equationsMathematical analysis stubsApplied mathematics stubsHidden categories: Wikipedia articles needing clarification from July 2009All articles with unsourced statementsArticles with unsourced statements from January 2017All stub articles 

@@ -1,0 +1,1167 @@
+Kasner metric - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+General relativity
+
+
+
+
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+
+
+
+
+
+
+
+
+
+
+Introduction
+History
+
+
+
+Mathematical formulation
+
+
+
+Tests
+
+
+
+
+
+
+
+
+
+Fundamental concepts
+
+
+Equivalence principle
+Special relativity
+World line
+Riemannian geometry
+
+
+
+
+
+
+
+
+Phenomena
+
+
+
+
+
+Kepler problem
+Time dilation
+Gravitational field
+Gravitational collapse
+Gravitational lensing
+Gravitational waves
+Gravitational redshift
+Gravitational time delay
+Gravitational time dilation
+Gravitational potential
+Gravitational compression
+Frame-dragging
+Geodetic effect
+Gravity well
+Event horizon
+Singularity
+Naked singularity
+Black hole
+White hole
+
+
+
+
+Spacetime
+
+
+
+
+Space
+Time
+Spacetime diagrams
+Minkowski spacetime
+Closed timelike curve (CTC)
+Wormhole
+
+Ellis wormhole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+Formalisms
+
+
+
+
+
+
+Equations
+
+
+
+
+Linearized gravity
+Einstein field equations
+Friedmann
+Geodesics
+Mathisson–Papapetrou–Dixon
+Hamilton–Jacobi–Einstein
+
+
+
+
+Formalisms
+
+
+
+
+ADM
+BSSN
+Post-Newtonian
+
+
+
+
+Advanced theory
+
+
+
+
+Kaluza–Klein theory
+Quantum gravity
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Lemaître–Tolman
+Taub-NUT
+Milne
+Robertson–Walker
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedman
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Raychaudhuri
+Taylor
+Hulse
+van Stockum
+Taub
+Newman
+Yau
+Thorne
+others
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The Kasner metric (developed by and named for the American mathematician Edward Kasner in 1921)[1] is an exact solution to Einstein's theory of general relativity. It describes an anisotropic universe without matter (i.e., it is a vacuum solution). It can be written in any spacetime dimension 
+
+
+
+D
+>
+3
+
+
+{\displaystyle D>3}
+
+ and has strong connections with the study of gravitational chaos.
+
+
+
+Contents
+
+
+1 Metric and conditions
+2 Features
+3 See also
+4 Notes
+5 References
+
+
+
+Metric and conditions[edit]
+The metric in 
+
+
+
+D
+>
+3
+
+
+{\displaystyle D>3}
+
+ spacetime dimensions is
+
+
+
+
+
+
+d
+
+
+s
+
+2
+
+
+=
+−
+
+d
+
+
+t
+
+2
+
+
++
+
+∑
+
+j
+=
+1
+
+
+D
+−
+1
+
+
+
+t
+
+2
+
+p
+
+j
+
+
+
+
+[
+
+d
+
+
+x
+
+j
+
+
+
+]
+
+2
+
+
+
+
+{\displaystyle {\text{d}}s^{2}=-{\text{d}}t^{2}+\sum _{j=1}^{D-1}t^{2p_{j}}[{\text{d}}x^{j}]^{2}}
+
+,
+
+and contains 
+
+
+
+D
+−
+1
+
+
+{\displaystyle D-1}
+
+ constants 
+
+
+
+
+p
+
+j
+
+
+
+
+{\displaystyle p_{j}}
+
+, called the Kasner exponents. The metric describes a spacetime whose equal-time slices are spatially flat, however space is expanding or contracting at different rates in different directions, depending on the values of the 
+
+
+
+
+p
+
+j
+
+
+
+
+{\displaystyle p_{j}}
+
+. Test particles in this metric whose comoving coordinate differs by 
+
+
+
+Δ
+
+x
+
+j
+
+
+
+
+{\displaystyle \Delta x^{j}}
+
+ are separated by a physical distance 
+
+
+
+
+t
+
+
+p
+
+j
+
+
+
+
+Δ
+
+x
+
+j
+
+
+
+
+{\displaystyle t^{p_{j}}\Delta x^{j}}
+
+.
+The Kasner metric is an exact solution to Einstein's equations in vacuum when the Kasner exponents satisfy the following Kasner conditions,
+
+
+
+
+
+
+∑
+
+j
+=
+1
+
+
+D
+−
+1
+
+
+
+p
+
+j
+
+
+=
+1
+,
+
+
+{\displaystyle \sum _{j=1}^{D-1}p_{j}=1,}
+
+
+
+
+
+
+
+
+
+∑
+
+j
+=
+1
+
+
+D
+−
+1
+
+
+
+p
+
+j
+
+
+2
+
+
+=
+1.
+
+
+{\displaystyle \sum _{j=1}^{D-1}p_{j}^{2}=1.}
+
+
+
+The first condition defines a plane, the Kasner plane, and the second describes a sphere, the Kasner sphere. The solutions (choices of 
+
+
+
+
+p
+
+j
+
+
+
+
+{\displaystyle p_{j}}
+
+) satisfying the two conditions therefore lie on the sphere where the two intersect (sometimes confusingly also called the Kasner sphere). In 
+
+
+
+D
+
+
+{\displaystyle D}
+
+ spacetime dimensions, the space of solutions therefore lie on a 
+
+
+
+D
+−
+3
+
+
+{\displaystyle D-3}
+
+ dimensional sphere 
+
+
+
+
+S
+
+D
+−
+3
+
+
+
+
+{\displaystyle S^{D-3}}
+
+.
+Features[edit]
+There are several noticeable and unusual features of the Kasner solution:
+
+The volume of the spatial slices is always 
+
+
+
+O
+(
+t
+)
+
+
+{\displaystyle O(t)}
+
+. This is because their volume is proportional to 
+
+
+
+
+
+−
+g
+
+
+
+
+{\displaystyle {\sqrt {-g}}}
+
+, and
+
+
+
+
+
+
+
+
+
+
+−
+g
+
+
+=
+
+t
+
+
+p
+
+1
+
+
++
+
+p
+
+2
+
+
++
+⋯
++
+
+p
+
+D
+−
+1
+
+
+
+
+=
+t
+
+
+{\displaystyle {\sqrt {-g}}=t^{p_{1}+p_{2}+\cdots +p_{D-1}}=t}
+
+
+
+
+
+
+where we have used the first Kasner condition. Therefore 
+
+
+
+t
+→
+0
+
+
+{\displaystyle t\to 0}
+
+ can describe either a Big Bang or a Big Crunch, depending on the sense of 
+
+
+
+t
+
+
+{\displaystyle t}
+
+
+
+
+Isotropic expansion or contraction of space is not allowed. If the spatial slices were expanding isotropically, then all of the Kasner exponents must be equal, and therefore 
+
+
+
+
+p
+
+j
+
+
+=
+1
+
+/
+
+(
+D
+−
+1
+)
+
+
+{\displaystyle p_{j}=1/(D-1)}
+
+ to satisfy the first Kasner condition. But then the second Kasner condition cannot be satisfied, for
+
+
+
+
+
+
+
+
+
+∑
+
+j
+=
+1
+
+
+D
+−
+1
+
+
+
+p
+
+j
+
+
+2
+
+
+=
+
+
+1
+
+D
+−
+1
+
+
+
+≠
+1.
+
+
+{\displaystyle \sum _{j=1}^{D-1}p_{j}^{2}={\frac {1}{D-1}}\neq 1.}
+
+
+
+
+
+
+The Friedmann–Lemaître–Robertson–Walker metric employed in cosmology, by contrast, is able to expand or contract isotropically because of the presence of matter.
+
+
+With a little more work, one can show that at least one Kasner exponent is always negative (unless we are at one of the solutions with a single 
+
+
+
+
+p
+
+j
+
+
+=
+1
+
+
+{\displaystyle p_{j}=1}
+
+, and the rest vanishing). Suppose we take the time coordinate 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ to increase from zero. Then this implies that while the volume of space is increasing like 
+
+
+
+t
+
+
+{\displaystyle t}
+
+, at least one direction (corresponding to the negative Kasner exponent) is actually contracting.
+The Kasner metric is a solution to the vacuum Einstein equations, and so the Ricci tensor always vanishes for any choice of exponents satisfying the Kasner conditions. The full Riemann tensor vanishes only when a single 
+
+
+
+
+p
+
+j
+
+
+=
+1
+
+
+{\displaystyle p_{j}=1}
+
+ and the rest vanish, in which case the space is flat. The Minkowski metric can be recovered via the coordinate transformation 
+
+
+
+
+t
+′
+
+=
+t
+cosh
+⁡
+
+x
+
+j
+
+
+
+
+{\displaystyle t'=t\cosh x_{j}}
+
+ and 
+
+
+
+
+x
+
+j
+
+′
+
+=
+t
+sinh
+⁡
+
+x
+
+j
+
+
+
+
+{\displaystyle x_{j}'=t\sinh x_{j}}
+
+.
+
+See also[edit]
+
+BKL singularity
+Mixmaster universe
+
+Notes[edit]
+
+
+
+^ Kasner, E. "Geometrical theorems on Einstein’s cosmological equations." Am. J. Math. 43, 217–221 (1921).
+
+
+
+References[edit]
+
+Misner, Charles W.; Kip S. Thorne; John Archibald Wheeler (September 1973). Gravitation. San Francisco: W. H. Freeman. ISBN 0-7167-0344-0. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Relativity
+
+
+
+Special
+relativity
+
+
+
+
+Background
+
+
+
+Principle of relativity
+Special relativity
+
+
+
+
+
+Foundations
+
+
+
+Frame of reference
+Speed of light
+Hyperbolic orthogonality
+Rapidity
+Maxwell's equations
+
+
+
+
+
+Formulation
+
+
+
+Galilean relativity
+Galilean transformation
+Lorentz transformation
+
+
+
+
+
+Consequences
+
+
+
+Time dilation
+Relativistic mass
+Mass–energy equivalence
+Length contraction
+Relativity of simultaneity
+Relativistic Doppler effect
+Thomas precession
+Relativistic disks
+
+
+
+
+
+Spacetime
+
+
+
+Light cone
+World line
+Spacetime diagram
+Biquaternions
+Minkowski space
+
+
+
+
+
+
+
+
+
+
+
+General
+relativity
+
+
+
+
+Background
+
+
+
+Introduction
+Mathematical formulation
+
+
+
+
+
+Fundamental
+concepts
+
+
+
+Special relativity
+Equivalence principle
+World line
+Riemannian geometry
+Minkowski diagram
+Penrose diagram
+
+
+
+
+
+Phenomena
+
+
+
+Black hole
+Event horizon
+Frame-dragging
+Geodetic effect
+Lenses
+Singularity
+Waves
+Ladder paradox
+Twin paradox
+Two-body problem
+BKL singularity
+
+
+
+
+
+Equations
+
+
+
+ADM formalism
+BSSN formalism
+Einstein field equations
+Geodesic equation
+Friedmann equations
+Linearized gravity
+Post-Newtonian formalism
+Raychaudhuri equation
+Hamilton–Jacobi–Einstein equation
+Ernst equation
+Tolman-Oppenheimer-Volkoff equation
+
+
+
+
+
+Advanced
+theories
+
+
+
+Brans–Dicke theory
+Kaluza–Klein
+Mach's principle
+Quantum gravity
+
+
+
+
+
+Solutions
+
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Friedmann–Lemaître–Robertson–Walker
+Taub–NUT
+Milne
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedmann
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Taylor
+Hulse
+Stockum
+Taub
+Newman
+Yau
+Thorne
+Weiss
+Bondi
+Misner
+others
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Kasner_metric&oldid=811107328"					
+Categories: Exact solutions in general relativityMetric tensors 

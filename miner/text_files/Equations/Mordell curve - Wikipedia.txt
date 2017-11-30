@@ -1,0 +1,99 @@
+Mordell curve - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+y2 = x3 + 1, with solutions at (-1, 0), (0, 1) and (0, -1)
+
+
+In algebra, a Mordell curve is an elliptic curve of the form y2 = x3 + n, where n is a fixed non-zero integer.[1]
+These curves were closely studied by Louis Mordell,[2] from the point of view of determining their integer points. He showed that every Mordell curve contains only finitely many integer points (x, y). In other words, the differences of perfect squares and perfect cubes tend to ∞. The question of how fast was dealt with in principle by Baker's method. Hypothetically this issue is dealt with by Marshall Hall's conjecture.
+
+
+
+Contents
+
+
+1 Properties
+2 Example
+3 References
+4 External links
+
+
+
+Properties[edit]
+If (x, y) is an integer point on a Mordell curve, then so is (x, -y).
+There are certain values of n for which the corresponding Mordell curve has no integer solutions;[1] these values are:
+
+6, 7, 11, 13, 14, 20, 21, 23, 29, 32, 34, 39, 42, ... (sequence A054504 in the OEIS).
+-3, -5, -6, -9, -10, -12, -14, -16, -17, -21, -22, ... (sequence A081121 in the OEIS).
+
+In 1998, J. Gebel, A. Pethö, H. G. Zimmer found all integers solutions for 0 < |n| ≤ 104.[3] (Data on Mordell's curves for –10000 ≤ n ≤ 10000, A081119, A081120).
+Example[edit]
+Fermat proved that the only integer solutions of 
+
+
+
+
+m
+
+2
+
+
++
+2
+=
+
+n
+
+3
+
+
+
+
+{\displaystyle m^{2}+2=n^{3}}
+
+ are 
+
+
+
+n
+=
+3
+,
+m
+=
+±
+5
+
+
+{\displaystyle n=3,m=\pm 5}
+
+.
+References[edit]
+
+
+
+^ a b Weisstein, Eric W. "Mordell Curve". MathWorld. 
+^ Louis Mordell (1969). Diophantine Equations. 
+^ Compositio Mathematica. 110: 335–367. doi:10.1023/A:1000281602647 https://link.springer.com/article/10.1023%2FA%3A1000281602647.  Missing or empty |title= (help)
+
+
+
+External links[edit]
+
+Data on Mordell's curves for –10000 ≤ n ≤ 10000
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Mordell_curve&oldid=799034079"					
+Categories: Algebraic curvesDiophantine equationsElliptic curvesHidden categories: Pages with citations lacking titlesPages with citations having bare URLs 

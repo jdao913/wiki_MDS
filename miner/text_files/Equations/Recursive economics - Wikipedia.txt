@@ -1,0 +1,76 @@
+Recursive economics - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Recursive economics is a branch of modern economics based on a paradigm of individuals making a series of two-period optimization decisions over time.
+
+
+
+Contents
+
+
+1 Differences between recursive and neoclassical paradigms
+2 The recursive model
+3 Pioneers in the field
+4 Applications in economics
+5 See also
+6 References
+
+
+
+Differences between recursive and neoclassical paradigms[edit]
+The neoclassical model assumes a one-period utility maximization for a consumer and one-period profit-maximization by a producer. The adjustment that occurs within that single time period is a subject of considerable debate within the field, and is often left unspecified. A time-series path in the neoclassical model is a series of these one-period utility maximizations.
+In contrast, a recursive model involves two or more periods, in which the consumer or producer trades off benefits and costs across the two time periods. This trade-off is sometimes represented in what is called an Euler equation. A time-series path in the recursive model is the result of a series of these two-period decisions.
+In the neoclassical model, the consumer or producer maximizes utility (or profits). In the recursive model, the subject maximizes value or welfare, which is the sum of current rewards or benefits and discounted future expected value.
+The recursive model[edit]
+The field is sometimes called recursive because the decisions can be represented by equations that can be transformed into a single functional equation sometimes called a Bellman equation. This equation relates the benefits or rewards that can be obtained in the current time period to the discounted value that is expected in the next period. The dynamics of recursive models can sometimes also be studied as differential equations.
+Pioneers in the field[edit]
+The recursive paradigm originated in control theory with the invention of dynamic programming by the American mathematician Richard E. Bellman in the 1950s. Bellman described possible applications of the method in a variety of fields, including Economics, in the introduction to his 1957 book.[1] Stuart Dreyfus, David Blackwell, and Ronald A. Howard all made major contributions to the approach in the 1960s.
+In addition, some scholars also cite the Kalman filter invented by Rudolf E. Kalman and the theory of the maximum formulated by Lev Semenovich Pontryagin as forerunners of the recursive approach in economics.
+Applications in economics[edit]
+Some scholars point to Martin Beckmann and Richard Muth[2] as the first application of an explicit recursive equation in economics. However, probably the earliest celebrated economic application of recursive economics was Robert Merton's seminal 1973 article on the intertemporal capital asset pricing model.[3] (See also Merton's portfolio problem). Merton's theoretical model, one in which investors chose between income today and future income or capital gains, has a recursive formulation.
+Nancy Stokey, Robert Lucas & Edward Prescott describe stochastic and non-stochastic dynamic programming in considerable detail, giving many examples of how to employ dynamic programming to solve problems in economic theory.[4] This book led to dynamic programming being employed to solve a wide range of theoretical problems in economics, including optimal economic growth, resource extraction, principal–agent problems, public finance, business investment, asset pricing, factor supply, and industrial organization.
+The approach gained further notice in macroeconomics from the extensive exposition by Ljungqvist & Sargent.[5] This book describes recursive models applied to theoretical questions in monetary policy, fiscal policy, taxation, economic growth, search theory, and labor economics.
+In investment and finance, Avanish Dixit & Robert Pindyck showed the value of the method for thinking about capital budgeting, in particular showing how it was theoretically superior to the standard neoclassical investment rule.[6] Patrick Anderson adapted the method to the valuation of operating and start-up businesses [7][8] and to the estimation of the aggregate value of privately held businesses in the US.[9]
+There are serious computational issues that have hampered the adoption of recursive techniques in practice, many of which originate in the curse of dimensionality first identified by Richard Bellman.
+Applied recursive methods, and discussion of the underlying theory and the difficulties, are presented in Mario Miranda & Paul Fackler (2002),[10] Meyn (2007)[11] Powell (2011)[12] and Bersekas (2005).[13]
+See also[edit]
+
+Dynamic programming
+Hamilton–Jacobi–Bellman equation
+Markov decision process
+Optimal control theory
+Optimal substructure
+Recursive competitive equilibrium
+Bellman pseudospectral method
+
+References[edit]
+
+
+
+^ Dynamic Programming Princeton, 1957; reissued by Dover
+^ Martin Beckmann and Richard Muth, 1954, "On the solution to the fundamental equation of inventory theory," Cowles Commission Discussion Paper 2116.
+^ Robert C. Merton, 1973, "An Intertemporal Capital Asset Pricing Model," Econometrica 41: 867–887.
+^ Nancy Stokey, and Robert E. Lucas, with Edward Prescott, 1989. Recursive Methods in Economic Dynamics. Harvard Univ. Press.
+^ Lars Ljungqvist & Thomas Sargent, 2000, 2004, 2012. Recursive Macroeconomic Theory. MIT Press.
+^ Avinash Dixit & Robert Pindyck, 1994. Investment Under Uncertainty. Princeton Univ. Press.
+^ Anderson, Patrick L., Business Economics & Finance, CRC Press, 2004, ISBN 1-58488-348-0.
+^ Anderson, Patrick L., Economics of Business Valuation, Stanford University Press, 2013
+^ The Value of Private Businesses in the United States, Business Economics (2009) 44, 87–108. doi:10.1057/be.2009.4.
+^ Miranda, M., & Fackler, P., 2002. Applied Computational Economics and Finance. MIT Press
+^ S. P. Meyn, 2007. Control Techniques for Complex Networks, Cambridge University Press, 2007. Meyn & Tweedie,
+^ Warren B. Powell, Approximate Dynamic Programming, 2d ed. Wiley, 2011,
+^ Dimitri Bertsekas, Dynamic Programming and Optimal Control, Athena Scientific 2005, 2012
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Recursive_economics&oldid=806243696"					
+Categories: Intertemporal economicsMathematical optimizationEquationsDynamic programmingControl theoryMathematical economics 

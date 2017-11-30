@@ -1,0 +1,33 @@
+Universal differential equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A universal differential equation (UDE) is a non-trivial differential algebraic equation with the property that its solutions can approximate any continuous function on any interval of the real line to any desired level of accuracy.
+External links[edit]
+
+Wolfram Mathworld page on UDEs
+
+
+
+
+This mathematical analysis–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Universal_differential_equation&oldid=498729149"					
+Categories: Differential equationsApproximation theoryMathematical analysis stubsHidden categories: All stub articles 

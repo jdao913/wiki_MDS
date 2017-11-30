@@ -1,0 +1,583 @@
+Buckley–Leverett equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In fluid dynamics, the Buckley–Leverett equation is a conservation equation used to model two-phase flow in porous media.[1] The Buckley–Leverett equation or the Buckley–Leverett displacement describes an immiscible displacement process, such as the displacement of oil by water, in a one-dimensional or quasi-one-dimensional reservoir. This equation can be derived from the mass conservation equations of two-phase flow, under the assumptions listed below.
+
+
+
+Contents
+
+
+1 Equation
+2 Assumptions
+3 General solution
+4 See also
+5 References
+6 External links
+
+
+
+Equation[edit]
+In a quasi-1D domain, the Buckley–Leverett equation is given by:
+
+
+
+
+
+
+
+
+∂
+
+S
+
+w
+
+
+
+
+∂
+t
+
+
+
++
+
+
+∂
+
+∂
+x
+
+
+
+
+(
+
+
+Q
+
+ϕ
+A
+
+
+
+
+f
+
+w
+
+
+(
+
+S
+
+w
+
+
+)
+)
+
+=
+0
+,
+
+
+{\displaystyle {\frac {\partial S_{w}}{\partial t}}+{\frac {\partial }{\partial x}}\left({\frac {Q}{\phi A}}f_{w}(S_{w})\right)=0,}
+
+
+
+where 
+
+
+
+
+S
+
+w
+
+
+(
+x
+,
+t
+)
+
+
+{\displaystyle S_{w}(x,t)}
+
+ is the wetting-phase (water) saturation, 
+
+
+
+Q
+
+
+{\displaystyle Q}
+
+ is the total flow rate, 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ is the rock porosity, 
+
+
+
+A
+
+
+{\displaystyle A}
+
+ is the area of the cross-section in the sample volume, and 
+
+
+
+
+f
+
+w
+
+
+(
+
+S
+
+w
+
+
+)
+
+
+{\displaystyle f_{w}(S_{w})}
+
+ is the fractional flow function of the wetting phase. Typically, 
+
+
+
+
+f
+
+w
+
+
+(
+
+S
+
+w
+
+
+)
+
+
+{\displaystyle f_{w}(S_{w})}
+
+ is an 'S'-shaped, nonlinear function of the saturation 
+
+
+
+
+S
+
+w
+
+
+
+
+{\displaystyle S_{w}}
+
+, which characterizes the relative mobilities of the two phases:
+
+
+
+
+
+
+f
+
+w
+
+
+(
+
+S
+
+w
+
+
+)
+=
+
+
+
+λ
+
+w
+
+
+
+
+λ
+
+w
+
+
++
+
+λ
+
+n
+
+
+
+
+
+=
+
+
+
+
+k
+
+r
+w
+
+
+
+μ
+
+w
+
+
+
+
+
+
+
+k
+
+r
+w
+
+
+
+μ
+
+w
+
+
+
+
++
+
+
+
+k
+
+r
+n
+
+
+
+μ
+
+n
+
+
+
+
+
+
+
+,
+
+
+{\displaystyle f_{w}(S_{w})={\frac {\lambda _{w}}{\lambda _{w}+\lambda _{n}}}={\frac {\frac {k_{rw}}{\mu _{w}}}{{\frac {k_{rw}}{\mu _{w}}}+{\frac {k_{rn}}{\mu _{n}}}}},}
+
+
+
+where 
+
+
+
+
+λ
+
+w
+
+
+
+
+{\displaystyle \lambda _{w}}
+
+ and 
+
+
+
+
+λ
+
+n
+
+
+
+
+{\displaystyle \lambda _{n}}
+
+ denote the wetting and non-wetting phase mobilities. 
+
+
+
+
+k
+
+r
+w
+
+
+(
+
+S
+
+w
+
+
+)
+
+
+{\displaystyle k_{rw}(S_{w})}
+
+ and 
+
+
+
+
+k
+
+r
+n
+
+
+(
+
+S
+
+w
+
+
+)
+
+
+{\displaystyle k_{rn}(S_{w})}
+
+ denote the relative permeability functions of each phase and 
+
+
+
+
+μ
+
+w
+
+
+
+
+{\displaystyle \mu _{w}}
+
+ and 
+
+
+
+
+μ
+
+n
+
+
+
+
+{\displaystyle \mu _{n}}
+
+ represent the phase viscosities.
+Assumptions[edit]
+The Buckley–Leverett equation is derived based on the following assumptions:
+
+Flow is linear and horizontal
+Both wetting and non-wetting phases are incompressible
+Immiscible phases
+Negligible capillary pressure effects (this implies that the pressures of the two phases are equal)
+Negligible gravitational forces
+
+General solution[edit]
+The characteristic velocity of the Buckley–Leverett equation is given by:
+
+
+
+
+
+U
+(
+
+S
+
+w
+
+
+)
+=
+
+
+Q
+
+ϕ
+A
+
+
+
+
+
+
+
+d
+
+
+f
+
+w
+
+
+
+
+
+d
+
+
+S
+
+w
+
+
+
+
+
+.
+
+
+{\displaystyle U(S_{w})={\frac {Q}{\phi A}}{\frac {\mathrm {d} f_{w}}{\mathrm {d} S_{w}}}.}
+
+
+
+The hyperbolic nature of the equation implies that the solution of the Buckley–Leverett equation has the form 
+
+
+
+
+S
+
+w
+
+
+(
+x
+,
+t
+)
+=
+
+S
+
+w
+
+
+(
+x
+−
+U
+t
+)
+
+
+{\displaystyle S_{w}(x,t)=S_{w}(x-Ut)}
+
+, where 
+
+
+
+U
+
+
+{\displaystyle U}
+
+ is the characteristic velocity given above. The non-convexity of the fractional flow function 
+
+
+
+
+f
+
+w
+
+
+(
+
+S
+
+w
+
+
+)
+
+
+{\displaystyle f_{w}(S_{w})}
+
+ also gives rise to the well known Buckley-Leverett profile, which consists of a shock wave immediately followed by a rarefaction wave.
+See also[edit]
+
+Capillary pressure
+Permeability (fluid)
+Relative permeability
+Darcy's law
+
+References[edit]
+
+
+
+^ S.E. Buckley and M.C. Leverett (1942). "Mechanism of fluid displacements in sands". Transactions of the AIME (146): 107–116. 
+
+
+
+External links[edit]
+
+Buckley-Leverett Equation and Uses in Porous Media
+
+
+
+
+
+This fluid dynamics–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Buckley–Leverett_equation&oldid=768523453"					
+Categories: Conservation equationsEquations of fluid dynamicsFluid dynamics stubsHidden categories: All stub articles 

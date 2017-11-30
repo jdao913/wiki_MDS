@@ -1,0 +1,419 @@
+List of multiple-system operators - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+The examples and perspective in this article deal primarily with Western culture and do not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (January 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2009) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+A multiple-system operator (MSO) is an operator of multiple cable or direct-broadcast satellite television systems. A cable system in the United States, by Federal Communications Commission (FCC) definition, is a facility serving a single community or a distinct governmental entity, each with its own franchise agreement with the cable company. Though in the strictest sense any cable company that serves multiple communities is an MSO, the term today is usually reserved for companies that own a large number of cable systems, such as Rogers Communications, Shaw Communications, and Videotron in Canada; Altice USA, Charter Communications, Comcast and Cox Communications in the United States; or Virgin Media in the UK.
+
+
+
+Contents
+
+
+1 Top multichannel video service providers in the United States by number of subscribers
+2 Top multichannel video service providers worldwide by number of subscribers (excluding the United States)
+3 See also
+4 References
+
+
+
+Top multichannel video service providers in the United States by number of subscribers[edit]
+
+Contains estimates from SNL Kagan.[1]
+
+
+
+Rank
+MSO name
+Brand
+Total subscribers
+Technology
+
+
+1
+AT&T
+U-verse and DirecTV
+25,172,000[2]
+Fiber/IPTV/Satellite
+
+
+2
+Comcast
+Xfinity
+22,516,000[2]
+Cable
+
+
+3
+Charter Communications
+Spectrum
+16,646,000[2]
+Cable
+
+
+4
+Dish Network
+Dish
+13,332,000[2]
+Satellite
+
+
+5
+Verizon
+FiOS
+4,666,000[2]
+Fiber/IPTV
+
+
+6
+Cox Communications
+Contour
+4,132,000[2]
+Cable/Fiber/IPTV
+
+
+7
+Altice USA
+Altice (formerly Optimum, Suddenlink and Lightpath)[2]
+3,463,000[2]
+Cable
+
+
+8
+Frontier Communications
+Frontier FiOS and Vantage TV
+1,200,000[3]
+Fiber/IPTV
+
+
+9
+Mediacom
+Xtream[4]
+829,000[5]
+Cable
+
+
+10
+WOW!
+WOW! TV and WOW! Ultra[6]
+518,500[7]
+Cable
+
+
+Top multichannel video service providers worldwide by number of subscribers (excluding the United States)[edit]
+
+
+Country
+MSO name
+# of subscribers
+
+
+ India
+Digicable
+32,500,000
+
+
+ China
+Shandong Cable
+25,000,000
+
+
+ India
+InCablenet
+22,500,000
+
+
+ India
+Hathway Cable
+22,500,000
+
+
+ Europe
+Sky
+21,000,000
+
+
+ India
+Siti Cable
+10,525,000
+
+
+ Mainland Europe (7 countries)
+UPC Broadband[8]
+9,100,000
+
+
+ China
+Beijing Gehua
+9,000,000
+
+
+ Germany
+Vodafone Deutschland[9]
+8,900,000
+
+
+ China
+Shanghai OCN
+6,000,000
+
+
+ Brazil
+Net Serviços de Comunicação
+5,381,000
+
+
+ United Kingdom &  Ireland
+Virgin Media
+4,772,800
+
+
+ France
+Altice France[10]
+3,500,000
+
+
+ South Korea
+CJ Hellovision[11]
+3,300,000
+
+
+ Japan
+J:Com
+3,300,000
+
+
+ South Korea
+T-Broad[12]
+3,200,000
+
+
+ Netherlands
+Ziggo[13]
+3,017,000
+
+
+ South Korea
+C&M
+2,700,000
+
+
+ Belgium
+Telenet
+2,300,000
+
+
+ Germany
+Kabel BW
+2,300,000
+
+
+ Canada
+Rogers Cable
+2,295,000
+
+
+ Canada
+Shaw Communications
+2,241,503
+
+
+ Spain
+Vodafone Spain[14]
+1,823,536
+
+
+ Sweden
+Com Hem
+1,760,000
+
+
+ Switzerland
+Cablecom[15]
+1,670,000
+
+
+ Canada
+Videotron
+1,652,200
+
+
+ India
+Darsh Network
+1,500,000
+
+
+ Portugal
+NOS[16]
+1,467,000
+
+
+ United Kingdom
+BT
+1,400,000
+
+
+ Portugal
+MEO[16]
+1,387,000
+
+
+ China
+Jinan Cable Network
+1,300,000
+
+
+ Denmark
+YouSee A/S
+1,200,000
+
+
+ Taiwan
+Kbro
+1,150,000
+
+
+ Taiwan
+CNS
+1,100,000
+
+
+ Canada
+Shaw Direct
+886,106
+
+
+ Canada
+Cogeco
+859,090
+
+
+ Australia
+Austar
+742,000
+
+
+ Poland
+Vectra S.A.
+740,000
+
+
+ Taiwan
+TBC
+700,000
+
+
+ Taiwan
+TFN media
+550,000
+
+
+ Canada
+Eastlink
+457,075
+
+
+ Spain
+Euskaltel
+400,000
+
+
+ India (Mumbai)
+J P R Channel
+120,000
+
+
+ India (Kochi)
+Kerala Vision Digital TV
+2,500,000
+
+
+ India (Mumbai)
+J P R Channel
+120,000
+
+
+ India (Pune)
+Nandani vision
+20,000
+
+
+ India (Maharashtra)
+LMO DIGITAL
+15,000
+
+
+See also[edit]
+
+List of countries by number of broadband Internet subscriptions
+List of countries by number of Internet users
+List of countries by number of telephone lines in use
+List of countries by smartphone penetration
+List of mobile network operators
+List of telephone operating companies
+
+References[edit]
+
+
+^ "Cable Industry Data". NCTA.com. Retrieved 2016-01-06. 
+^ a b c d e f g h "The top 7 cable, satellite and telco pay TV operators in Q2: Ranking Comcast, DirecTV, Charter and more". fiercecable.com. 2017-08-28. Retrieved 2017-10-13. 
+^ Daniel Kline (2017-09-28). "Frontier Communications: Time to Move On?". Motley Fool. Retrieved 2017-10-13. 
+^ https://mediacomcable.com/site/xtream.html
+^ "Mediacom Combined Results for Second Quarter 2017". mediacomcable.com. Retrieved 2017-10-14. 
+^ http://www.wowway.com/products/tv/north
+^ "WOW! Reports Second Quarter 2017 Results". www.wowway.com. 2017-08-14. Retrieved 2017-10-14. 
+^ "Hostbasket is the hosting and cloud computing offer of Telenet". Cableeurope.eu. Retrieved 2016-01-06. 
+^ [1] Archived July 13, 2011, at the Wayback Machine.
+^ [2] Archived July 28, 2010, at the Wayback Machine.
+^ [3] Archived April 19, 2010, at the Wayback Machine.
+^ "새로운공간, 새로운세상의 만남 Tbroad". Tbroad.com. Retrieved 2016-01-06. 
+^ [4] Archived March 24, 2012, at the Wayback Machine.
+^ "Internet Fibra óptica, TV, Telefonía móvil y Fijo | ONO". Ono.es. Retrieved 2016-01-06. 
+^ "upc cablecom | Digital TV, Internet, Telefon". Cablecom.ch. Retrieved 2016-01-06. 
+^ a b "ANACOM - Subscription television service - 2nd quarter 2013". Anacom.pt. Retrieved 2016-01-06. 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_multiple-system_operators&oldid=808458180"					
+Categories: Cable television in the United StatesHidden categories: Webarchive template wayback linksArticles with limited geographic scope from January 2015Western culture-centricArticles needing additional references from December 2009All articles needing additional references 

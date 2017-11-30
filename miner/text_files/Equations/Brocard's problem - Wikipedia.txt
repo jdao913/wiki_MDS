@@ -1,0 +1,163 @@
+Brocard's problem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Not to be confused with Brocard's conjecture.
+
+
+
+Unsolved problem in mathematics:
+Does 
+
+
+
+n
+!
++
+1
+=
+
+m
+
+2
+
+
+
+
+{\displaystyle n!+1=m^{2}}
+
+ have integer solutions other than 
+
+
+
+n
+=
+4
+,
+5
+,
+7
+
+
+{\displaystyle n=4,5,7}
+
+?
+(more unsolved problems in mathematics)
+
+
+
+Brocard's problem is a problem in mathematics that asks to find integer values of n and m for which
+
+
+
+
+
+n
+!
++
+1
+=
+
+m
+
+2
+
+
+,
+
+
+{\displaystyle n!+1=m^{2},}
+
+
+
+where n! is the factorial. It was posed by Henri Brocard in a pair of articles in 1876 and 1885, and independently in 1913 by Srinivasa Ramanujan.
+
+
+
+Contents
+
+
+1 Brown numbers
+2 Variants of the problem
+3 References
+4 External links
+
+
+
+Brown numbers[edit]
+Pairs of the numbers (n, m) that solve Brocard's problem are called Brown numbers. There are only three known pairs of Brown numbers:
+
+(4,5), (5,11), and (7,71).
+
+Paul Erdős conjectured that no other solutions exist. Overholt (1993) showed that there are only finitely many solutions provided that the abc conjecture is true. Berndt & Galway (2000) performed calculations for n up to 109 and found no further solutions. Matson (2017) has recently claimed to have extended this by 3 orders of magnitude to one trillion.
+Variants of the problem[edit]
+Dabrowski (1996) generalized Overholt's result by showing that it would follow from the abc conjecture that
+
+
+
+
+
+n
+!
++
+A
+=
+
+k
+
+2
+
+
+
+
+{\displaystyle n!+A=k^{2}}
+
+
+
+has only finitely many solutions, for any given integer A. This result was further generalized by Luca (2002), who showed (again assuming the abc conjecture) that the equation
+
+
+
+
+
+n
+!
+=
+P
+(
+x
+)
+
+
+{\displaystyle n!=P(x)}
+
+
+
+has only finitely many integer solutions for a given polynomial P(x) of degree at least 2 with integer coefficients.
+References[edit]
+
+Berndt, Bruce C.; Galway, William F. (2000), "The Brocard–Ramanujan diophantine equation n! + 1 = m2" (PDF), The Ramanujan Journal, 4: 41–42, doi:10.1023/A:1009873805276 .
+Brocard, H. (1876), "Question 166", Nouv. Corres. Math., 2: 287 .
+Brocard, H. (1885), "Question 1532", Nouv. Ann. Math., 4: 391 .
+Dabrowski, A. (1996), "On the Diophantine Equation x! + A = y2", Nieuw Arch. Wisk., 14: 321–324 .
+Guy, R. K. (1994), "D25: Equations Involving Factorial", Unsolved Problems in Number Theory (2nd ed.), New York: Springer-Verlag, pp. 193–194, ISBN 0-387-90593-6 .
+Luca, Florian (2002), "The diophantine equation P(x) = n! and a result of M. Overholt" (PDF), Glasnik Matematički, 37 (57): 269–273 .
+Matson, Robert (2017), "Brocard's Problem 4th Solution Search Utilizing Quadratic Residues" (PDF), Unsolved Problems in Number Theory, Logic and Cryptography .
+Overholt, Marius (1993), "The diophantine equation n! + 1 = m2", Bull. London Math. Soc., 25 (2): 104, doi:10.1112/blms/25.2.104 .
+
+External links[edit]
+
+Weisstein, Eric W. "Brocard's Problem". MathWorld. 
+Weisstein, Eric W. "Brown Numbers". MathWorld. 
+Copeland, Ed. "Brown Numbers". Numberphile. Brady Haran. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Brocard%27s_problem&oldid=779303565"					
+Categories: Diophantine equationsSrinivasa RamanujanUnsolved problems in mathematics 

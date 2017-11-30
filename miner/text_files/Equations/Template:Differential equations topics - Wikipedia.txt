@@ -1,0 +1,180 @@
+Template:Differential equations topics - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Differential equations
+
+
+
+Classification
+
+
+
+
+Operations
+
+
+
+Differential operator
+Notation for differentiation
+Ordinary
+Partial
+Differential-algebraic
+Integro-differential
+Fractional
+Linear
+Non-linear
+
+
+
+
+
+Attributes of variables
+
+
+
+Dependent and independent variables
+Homogeneous
+Nonhomogeneous
+Coupled
+Decoupled
+Order
+Degree
+Autonomous
+Exact differential equation
+Complex differential equation
+
+
+
+
+
+Relation to processes
+
+
+
+Difference (discrete analogue)
+stochastic
+Delay
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+Solution topics
+
+
+
+Picard–Lindelöf theorem (existence and uniqueness)
+Wronskian
+Phase portrait
+Phase space
+Lyapunov stability
+Asymptotic stability
+Exponential stability
+Rate of convergence
+Series solutions
+Integral solutions
+Numerical integration
+Dirac Delta function
+
+
+
+
+
+Solution methods
+
+
+
+Inspection
+Separation of variables
+Method of undetermined coefficients
+Integrating factor
+Integral transforms
+Euler method
+Finite difference method
+Crank–Nicolson method
+Runge–Kutta methods
+Finite element method
+Finite volume method
+Galerkin method
+Perturbation theory
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Astronomy
+Physics
+Continuum mechanics
+Chaos theory
+Chemistry
+Dynamical systems
+Economics
+Biology
+Geology
+Population dynamics
+
+
+
+
+
+Mathematicians
+
+
+
+Isaac Newton
+Leonhard Euler
+Émile Picard
+Józef Maria Hoene-Wroński
+Ernst Lindelöf
+Rudolf Lipschitz
+Augustin-Louis Cauchy
+John Crank
+Phyllis Nicolson
+Carl David Tolmé Runge
+Martin Wilhelm Kutta
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Differential_equations_topics&oldid=798386311"					
+Categories: Mathematics navigational boxesDifferential equations 

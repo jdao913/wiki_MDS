@@ -1,0 +1,597 @@
+Digital television in the United States - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+See digital television for more technical details, or DTV transition in the United States for specific information related to the analog-to-digital switchover
+
+
+
+
+
+
+
+This article needs to be updated. Please update this article to reflect recent events or newly available information. (November 2010)
+
+
+
+In the United States, digital television broadcasts, or DTV, can be received via cable, via internet, via satellite, or via free over-the-air (OTA) digital terrestrial television - much like analog television broadcasts have been. Full-power analog television broadcasts, however, were required by U.S. federal law to cease by June 12, 2009. Low-power, Class A, and TV Translator stations are not currently required to cease analog broadcasts. Also by law, digital broadcasts - when transmitted as OTA signals - must conform to ATSC standards.;[1] it is unclear whether satellite operators are free to use their own proprietary standards[citation needed]; and many standards exist for Internet television (most are proprietary).
+
+
+
+Contents
+
+
+1 Standards
+
+1.1 Format standards
+1.2 Transmission standards
+
+1.2.1 Cable and satellite
+1.2.2 Terrestrial
+
+
+
+
+2 Transition from analog to digital OTA broadcasts in 2009
+
+2.1 Early rollout of transition
+
+
+3 See also
+4 References
+5 External links
+
+
+
+Standards[edit]
+Main article: ATSC standards
+The U.S. opted to adhere to ATSC standards for broadcast digital television. These standards define, among other things, format and transmission criteria that ensure consistency, accessibility, and fairness for consumers and equipment manufacturers alike in the U.S., as well as international compatibility.
+Format standards[edit]
+Main article: High-definition television in the United States
+The five main ATSC formats of DTV currently broadcast in the U.S. are:
+
+Standard definition—480i, to maintain compatibility with existing NTSC sets when a digital television broadcast is converted back to an analog one[citation needed]—either by a converter box or a cable/satellite operator's proprietary equipment
+Enhanced definition—480p, about the same quality as current DVDs
+High definition—720p
+High definition—1080i
+High definition—1080p (only used by a few cable operators, currently no terrestrial stations broadcast in 1080p)
+
+Most digital television sets sold in the U.S. use a display with a 16:9 aspect ratio to optimally display HDTV-formatted content. Lower-resolution sources like regular DVDs may be upscaled to the native resolution of the TV.
+Transmission standards[edit]
+Cable and satellite[edit]
+Currently, most Americans get digital television broadcasts via cable or satellite.[citation needed] Digital cable television systems with an activated channel capacity of 750 MHz or greater, are required by the FCC to follow ANSI/SCTE transmission standards with the exception of cable systems that only pass through 8 VSB modulated signals.[2] Digital television sets (equipped with ATSC tuners) are often capable of viewing a baseline set of unencrypted digital programming, known as basic cable, which typically include local network television affiliates. According to FCC regulations, the remaining encrypted channels must be viewable with a receiver equipped with a CableCARD,[citation needed].
+Terrestrial[edit]
+Digital television transmissions over-the-air (OTA) are now available in most metropolitan areas in the U.S., often carrying both standard-definition and high-definition (HDTV) transmissions of the same stations.[3] In fact, by the analog shut-off date of June 12, 2009, all Full Power OTA stations in the U.S. will, by law, have to either transmit their broadcasts digitally, or shut down.
+Many stations have already used the switch to digital transmission as an opportunity to transition from 480i broadcasts to digital HD OTA broadcasts (either in 720p or 1080i), though this change is voluntary.
+Within a distance of 35 to 40 miles from the broadcast stations, it is possible that no equipment more special than perhaps a simple antenna (such as "rabbit ears") may be necessary to receive a DTV broadcast signal OTA—at least some of the time for some of the channels. Any television equipped with an ATSC tuner may display DTV broadcasts properly. Some customers are already discovering that terrain, trees, rain, snow, wind, and even the movement of people around the room interfere with reception to one degree or another, from signals breaking up to total loss of signal. (Few ATSC-equipped televisions or converter boxes have internal antennas, in contrast to analog sets available in years past).
+Transition from analog to digital OTA broadcasts in 2009[edit]
+Main article: DTV transition in the United States
+It was estimated that as of April 2007, 28% of American households had an HDTV set, a total of 35 million sets, and that 86% of owners were highly satisfied with the HDTV programming[4] Estimates are that by the end of 2010, some 59% of American TVs had transitioned to HDTVs.[citation needed] All TV stations currently broadcast in both digital and analog and major networks broadcast in HD in most markets.
+While many in the industry wanted a flexible or delayed deadline, the FCC forced the issue at the behest of Congress. Congress wanted to reclaim some of the spectrum used for analog and repurpose that for emergency services. They also wanted to auction off bandwidth between 76-88 MHz frequencies (channels 5 and 6) and old analog UHF channels 60 to 69, and channels 52 to 59 by mandating DTV tuners be phased into all new TV sets.[citation needed] Many transition dates were proposed, but Congress finally fixed February 17, 2009 (later extending it until June 12, 2009), in law as the maximum end date for analog television authorizations.[5] Because this date comes after the NCAA's Bowl Championship Series and the NFL's Super Bowl XLIII, there will be less of a chance of an acute hardware shortage from people waiting until the last minute to purchase an ATSC tuner than there would have been with a January 1 cutoff.[citation needed] The original deadline of January 1, 2006 was abolished when it was realized that TV stations and customers would not be able to meet the earlier deadline.[citation needed]
+In March 2008, the FCC requested public comment on turning the bandwidth currently occupied by analog television channels 5 and 6 (76–88 MHz) over to extending the FM broadcast band when the digital television transition was to be completed in February 2009 (ultimately delayed to June 2009).[6] This proposed allocation would effectively assign frequencies corresponding to the existing Japanese FM radio service (which begins at 76 MHz) for use as an extension to the existing North American FM broadcast band.[7]
+Ultimately, VHF Channels 5 and 6 were retained for digital broadcast television use after the transition, though the FCC had continued researching the possibility of re-allocating the two channels to an expanded FM band.
+On August 22, 2011, the United States' Federal Communications Commission announced a freeze on all future applications for broadcast stations requesting to use channel 51,[8] to prevent adjacent-channel interference to the A-Block of the 700 MHz band. On December 16, 2011, Industry Canada and the CRTC followed suit in placing a moratorium on any future Channel 51 television station applications.[9]
+Early rollout of transition[edit]
+On May 8, 2008, FCC Chairman Kevin J. Martin announced the agency would test run the transition to digital television in Wilmington, North Carolina, beginning September 8, 2008. This test run was to work out problems that might have occurred before the complete transition.
+See also[edit]
+
+Digital television transition
+High-definition television in the United States
+North American television frequencies
+CECB - Coupon-Eligible Converter Box
+
+References[edit]
+
+
+
+^ FCC. The Digital TV Transition FAQs
+^ "76.640 Support for unidirectional digital cable products on digital cable systems". Government Printing Office. 8 Nov 2003. Archived from the original on 2012-10-09. 
+^ http://antennaweb.org/ AntennaWeb
+^ WKYC's Director's Cut with Frank Macek: News: HDTV Penetration at 28%
+^ 47 USC 309(j)(14)(A) [1] as amended by section 3002 of S.1932 signed into law February 8, 2006
+^ Federal Communications Commission (2008-05-16). "In the Matter of Promoting Diversification of Ownership in the Broadcasting Services". Retrieved 2008-08-26. Certain commenters have urged the Commission to give a "hard look" to a proposal that the Commission re-allocate TV Channels 5 and 6 for FM broadcasting  73 FR 28400, 28403
+^ Could EXB Band Be Your New Home?RadioWorld September 10, 2008
+^ FCCPublic Notice DA-11-1428A1:
+
+Rcd PDF
+Microsoft Word document
+PDF format
+Plain Text format
+
+
+^ Industry Canada Advisory Letter - Moratorium on the Use of Television Channel 51
+
+
+
+External links[edit]
+
+"The Digital TV Transition: What You Need to Know About DTV" (FCC)
+DTV Transition (DTV Transition Coalition)
+AntennaWeb (local availability of OTA DTV broadcasts, including HD)
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television deployments by country
+
+
+
+
+
+
+Australia
+Bulgaria
+Canada
+Indonesia
+Malaysia
+Netherlands
+Philippines
+Poland
+Portugal
+Thailand
+United Kingdom
+United States
+
+
+
+
+
+
+Digital television transition
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Telecommunications
+
+
+
+History
+
+
+
+
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Drums
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Internet
+Mass media
+Mobile phone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Smartphone
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+Timeline of communication technology
+Undersea telegraph line
+Videoconferencing
+Videophone
+Videotelephony
+Whistled language
+
+
+
+
+
+Pioneers
+
+
+
+Edwin Howard Armstrong
+John Logie Baird
+Paul Baran
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Vint Cerf
+Claude Chappe
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Erna Schneider Hoover
+Charles K. Kao
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Antonio Meucci
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+
+
+
+
+
+Transmission
+media
+
+
+
+Coaxial cable
+Free-space optical communication
+Molecular communication
+Optical fiber
+Radio waves
+Transmission line
+
+
+
+
+
+Network topology
+and switching
+
+
+
+Links
+Nodes
+Terminal node
+Network switching (circuit
+packet)
+Telephone exchange
+
+
+
+
+
+Multiplexing
+
+
+
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+
+
+
+
+
+Networks
+
+
+
+ARPANET
+BITNET
+Cellular network
+Computer
+CYCLADES
+Ethernet
+FidoNet
+Internet
+ISDN
+LAN
+Mobile
+NGN
+NPL network
+Public Switched Telephone
+Radio
+Telecommunications equipment
+Television
+Telex
+WAN
+Wireless
+World Wide Web
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Digital_television_in_the_United_States&oldid=810575459"					
+Categories: Digital television by countryScience and technology in the United StatesDigital television in the United StatesHidden categories: Wikipedia articles in need of updating from November 2010All Wikipedia articles in need of updatingAll articles with unsourced statementsArticles with unsourced statements from August 2008Articles with unsourced statements from February 2007Articles with unsourced statements from September 2007 

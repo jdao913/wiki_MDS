@@ -1,0 +1,77 @@
+Governing equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The governing equations of a mathematical model describe how the values of the unknown variables (i.e. the dependent variables) will change. The change of the value of a variable with respect to time may be explicit, in that a governing equation includes a derivative with respect to time, or implicit, such as when a governing equation has velocity or flux as an unknown variable.
+Examples[edit]
+The classic governing equations[1][2] in physics that are lectured[3][4][5][6] at universities are listed below.
+
+
+balance of mass
+balance of (linear) momentum
+balance of angular momentum
+balance of energy
+balance of entropy
+Maxwell-Faraday equation for induced electric field
+Ampére-Maxwell equation for induced magnetic field
+Gauss equation for electric flux
+Gauss equation for magnetic flux
+
+
+
+For isolated systems the first four equations are the familiar conservation equations in classical mechanics. A governing equation may also take the form of a flux equation such as the diffusion equation or the heat conduction equation. In these cases the flux itself is a variable describing change of the unknown variable or property (e.g., mole concentration or internal energy or temperature).
+A governing equation may also be an approximation and adaptation of the above basic equations to the situation or model in question. A governing equation may also be derived directly from experimental results and therefore be an empirical equation. A governing equation may also be a state equation, an equation describing the state of the system, and thus actually be a constitutive equation that has "stepped up the ranks" because the model in question was not meant to include a time-dependent term in the equation. This is the case for a model of a petroleum processing plant. Results from one thermodynamic equilibrium calculation are input data to the next equilibrium calculation together with some new state parameters, and so on. In this case the algorithm and sequence of input data form a chain of actions, or calculations, that describes change of states from the first state (based solely on input data) to the last state that finally comes out of the calculation sequence.
+Some examples using differential equations are
+
+
+Lotka-Volterra equations are predator-prey equations
+Hele-Shaw flow
+Plate theory
+
+Kirchhoff–Love plate theory
+Mindlin–Reissner plate theory
+
+
+Vortex shedding
+Annular fin
+Astronautics
+Finite volume method for unsteady flow
+Acoustic theory
+Precipitation hardening
+Kelvin's circulation theorem
+Kernel function for solving integral equation of surface radiation exchanges
+Nonlinear acoustics
+Large eddy simulation
+Föppl–von Kármán equations
+Timoshenko beam theory
+
+
+See also[edit]
+
+Master equation
+Primitive equations
+Mathematical model
+
+References[edit]
+
+
+
+^ Fletcher, Clive A.J. (1991). Computational Techniques for Fluid Dynamics 2; Chapter 1; Fluid Dynamics: The Governing Equations. 2. Berlin / Heidelberg, Germany: Springer Berlin Heidelberg. pp. 1–46. ISBN 978-3-642-58239-4. 
+^ Kline, S.J. (2012). Similitude and Approximation Theory (2012 ed.). Berlin / Heidelberg, Germany: Springer Science & Business Media. ISBN 9783642616389. 
+^ Nakariakov, Prof. Valery (2015). Lecture PX392 Plasma Electrodynamics (Lecture PX392 2015-2016 ed.). Coventry, England, UK: Department of Physics, University of Warwick. [1]
+^ Tryggvason, Viola D. Hank Professor Gretar (2011). Lecture 28 Computational Fluid Dynamics - CFD Course from B. Daly (1969) Numerical methods (Lecture 28 CFD Course 2011 ed.). Notre Dame, Indiana, US: Department of Aerospace and Mechanical Engineering, University of Notre Dame. [2]
+^ Münchow, Physical Oceanographer Ph.D. Andreas (2012). Lecture MAST-806 Geophysical Fluid Dynamics (Lecture MAST-806 2012 ed.). Newark, Delaware, US: University of Delaware. [3]
+^ Brenner, Glover Prof. Michael P. (2000). The dynamics of thin sheets of fluid Part 1 Water bells by G.I. Taylor (MIT course number 18.325 Spring 2000 ed.). Cambridge, Massachusetts, US: Harvard University. [4]
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Governing_equation&oldid=801599055"					
+Categories: Equations 

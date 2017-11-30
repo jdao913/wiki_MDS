@@ -1,0 +1,54 @@
+Complex differential equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A complex differential equation is a differential equation whose solutions are functions of a complex variable.
+Constructing integrals involves choice of what path to take, which means singularities and branch points of the equation need to be studied. Analytic continuation is used to generate new solutions and this means topological considerations such as monodromy, coverings and connectedness are to be taken into account.
+Existence and uniqueness theorems involve the use of majorants and minorants.
+Study of rational second order ODEs in the complex plane led to the discovery of new transcendental special functions which are now known as Painlevé transcendents.
+Nevanlinna theory can be used to study complex differential equations. This leads to extensions of Malmquist's theorem.[1]
+Generalizations[edit]
+Generalizations include partial differential equations in several complex variables, or differential equations on complex manifolds.[2] Also there are at least a couple of ways of studying complex difference equations: either study holomorphic functions[3] which satisfy functional relations given by the difference equation or study discrete analogs[4] of holomorphicity such as monodiffric functions. Also integral equations can be studied in the complex domain.[5]
+History[edit]
+Some of the early contributors to the theory of complex differential equations include: Pierre Boutroux, Paul Painlevé, Lazarus Fuchs, Henri Poincaré, David Hilbert, George David Birkhoff, Kōsaku Yosida, Hans Wittich, Charles Briot, Jean Claude Bouquet, Johannes Malmquist.
+See also[edit]
+
+Frobenius method
+Heun's equation
+Hypergeometric differential equation
+Riemann's differential equation
+Riemann–Hilbert problem
+Riemann–Hilbert correspondence
+Schwarzian derivative
+Knizhnik–Zamolodchikov equations
+
+References[edit]
+
+
+
+^ Eremenko, A. (1982). "Meromorphic solutions of algebraic differential equations" (PDF). Russian mathematical Surveys. 37: 61–94. 
+^ So-Chin Chen; Mei-Chi Shaw (2002). Partial Differential Equations in Several Complex Variables. American Mathematical Society. ISBN 978-0-8218-2961-5. 
+^ Complex Difference Equations of Malmquist Type Archived 2005-08-25 at the Wayback Machine.
+^ An Introduction to complex functions on product of two time scales
+^ Analytic solutions to integral equations in the complex domain
+
+
+
+Further reading[edit]
+
+Einar Hille (1976). Ordinary Differential Equations in the Complex Domain. Wiley. ISBN 0-471-39964-7. , reprinted by Dover, 1997.
+E. Ince (1926). Ordinary Differential Equations. Dover. , reprinted by Dover, 2003.
+Gromak, Laine, Shimomura (2002). Painlevé Differential Equations in the Complex Plane. de Gruyter. ISBN 3-11-017379-4. CS1 maint: Multiple names: authors list (link)
+Ilpo Laine (1992). Nevanlinna Theory and Complex Differential Equations. de Gruyter. ISBN 978-3-11-013422-3. 
+Niels Erik Nörlund (1924). Vorlesungen uber Differenzenrechnung. Springer. , reprinted by Chelsea 1954
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Complex_differential_equation&oldid=795059792"					
+Categories: Complex analysisDifferential equationsHidden categories: Webarchive template wayback linksCS1 maint: Multiple names: authors list 

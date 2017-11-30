@@ -1,0 +1,87 @@
+Wave maps equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs more links to other articles to help integrate it into the encyclopedia. Please help improve this article by adding links that are relevant to the context within the existing text. (December 2013) (Learn how and when to remove this template message)
+
+
+
+In mathematical physics, the wave maps equation is a geometric wave equation that solves
+
+
+
+
+
+
+D
+
+α
+
+
+
+∂
+
+α
+
+
+u
+=
+0
+
+
+{\displaystyle D^{\alpha }\partial _{\alpha }u=0}
+
+
+
+where 
+
+
+
+D
+
+
+{\displaystyle D}
+
+ is a connection.[1][2]
+It can be considered a natural extension of the wave equation for Riemannian manifolds.[3]
+References[edit]
+
+
+
+^ Tataru, Daniel (1 January 2005). "Rough solutions for the wave maps equation". American Journal of Mathematics. 127 (2): 293–377. doi:10.1353/ajm.2005.0014. 
+^ Tataru, Daniel (2004). "The wave maps equation" (PDF). Bulletin of the American Mathematical Society (N.S.). 41 (2): 185–204. Zbl 1065.35199. 
+^ http://www.math.ucla.edu/~tao/preprints/wavemaps.pdf
+
+
+
+
+
+
+
+This applied mathematics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Wave_maps_equation&oldid=808252826"					
+Categories: EquationsApplied mathematics stubsHidden categories: Articles with too few wikilinks from December 2013All articles with too few wikilinksArticles covered by WikiProject Wikify from December 2013All articles covered by WikiProject WikifyAll stub articles 

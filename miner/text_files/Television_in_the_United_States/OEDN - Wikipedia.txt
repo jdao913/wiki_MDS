@@ -1,0 +1,102 @@
+OEDN - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article uses abbreviations that may be confusing or ambiguous. There might be a discussion about this on the Talk page. Please improve this article if you can. (November 2011)
+
+
+
+
+OCAP EBIF Developer Network
+
+
+
+
+Abbreviation
+OEDN
+
+
+Motto
+Spectemur agendo
+
+
+Formation
+1 October 2007
+
+
+Type
+Interactive Television, Software development and Community
+
+
+Legal status
+foundation
+
+
+Purpose
+the promotion of OCAP tru2way and EBIF application development for digital cable television
+
+
+Headquarters
+New York, NY
+
+
+Location
+
+
+
+United States
+
+
+
+
+
+
+Region served
+
+Global
+
+
+
+Main organ
+
+governance board
+
+
+Affiliations
+Time Warner Cable
+
+
+Website
+www.oedn.net
+
+
+Founded in October, 2007 - the OpenCable Application Platform (OCAP) EBIF Developer Network (OEDN.net) is an online developer network for the promotion of Interactive Television application and service development on digital cable television.
+Dedicated to the goal of supporting the emerging and long-term needs of software engineers and product teams building OCAP (tru2way) and EBIF applications to run not only on digital cable television, but also converged applications and services spanning mobile and broadband devices.
+OEDN.net is a networked Community of Practice with a membership constituency drawn from cable companies, ITV application vendors, content providers, programming networks, advertisers, academic interactive media researchers and independent consultants.
+References[edit]
+Todd Spangler; Kent Gibbons (7 March 2008). "Cablers Seed Interactive TV Community". Multichannel News. 
+Tracy Swedlow (28 February 2008). "itvt-Monthly-Wrap-on-InteractiveTV Podcast - OEDN interview with Will Kreth" (Podcast). blogtalkradio.com: ITVT.com. 
+External links[edit]
+
+OpenCable Platform Developer Community within the Mobile & Embedded project on Java.net
+"OpenCable / OCAP Website". CableLabs. Archived from the original on 2006-03-26. Retrieved 2006-06-05. 
+"The OCAP Primer". Cable and Telecommunications Association for Marketing (CTAM). Archived from the original on 2006-04-20. Retrieved 2006-06-05. 
+"An Introduction to OCAP". Interactive TV Web. 2005-09-14. Archived from the original on 2006-05-17. Retrieved 2006-06-21. 
+Sun Microsystems' Java TV
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=OEDN&oldid=799322031"					
+Categories: Cable television in the United StatesInteractive televisionSoftware developer communitiesHidden categories: Wikipedia articles needing style editing from November 2011All articles needing style editing 

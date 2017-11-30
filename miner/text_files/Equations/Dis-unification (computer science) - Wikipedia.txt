@@ -1,0 +1,49 @@
+Dis-unification (computer science) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Dis-unification, in computer science and logic, is an algorithmic process of solving inequations between symbolic expressions.
+Publications on dis-unification[edit]
+
+Alain Colmerauer (1984). "Equations and Inequations on Finite and Infinite Trees". In ICOT. Proc. Int. Conf. on Fifth Generation Computer Systems. pp. 85–99. 
+Hubert Comon (1986). "Sufficient Completeness, Term Rewriting Systems and "Anti-Unification"". Proc. 8th International Conference on Automated Deduction. LNCS. 230. Springer. pp. 128–140. 
+"Anti-Unification" here refers to inequation-solving, a naming which nowadays has become quite unusual, cf. Anti-unification (computer science).
+Hubert Comon (1988). Unification et disunification: Théorie et applications (PDF) (Ph.D.). I.N.P. de Grenoble. 
+Comon, Hubert (1990). "Equational Formulas in Order-Sorted Algebras". Proc. ICALP. 
+Comon shows that the first-order logic theory of equality and sort membership is decidable, that is, each first-order logic formula built from arbitrary function symbols, "=" and "∈", but no other predicates, can effectively be proven or disproven. Using the logical negation (¬), non-equality (≠) can be expressed in formulas, but order relations (<) cannot. As an application, he proves sufficient completeness of term rewriting systems.
+Hubert Comon (1991). "Disunification: A Survey". In Jean-Louis Lassez and Gordon Plotkin. Computational Logic — Essays in Honor of Alan Robinson. MIT Press. pp. 322–359. 
+Hubert Comon (1993). "Complete Axiomatizations of some Quotient Term Algebras". Proc. 18th Int. Coll. on Automata, Languages, and Programming (PDF). LNCS. 510. Springer. pp. 148–164. Retrieved 29 June 2013. 
+
+See also[edit]
+
+Unification (computer science): solving equations between symbolic expressions
+Constraint logic programming: incorporating solving algorithms for particular classes of inequalities (and other relations) into Prolog
+Constraint programming: solving algorithms for particular classes of inequalities
+Simplex algorithm: solving algorithm for linear inequations
+Inequation: kinds of inequations in mathematics in general, including a brief section on solving
+Equation solving: how to solve equations in mathematics
+
+
+
+P ≟ NP 
+This theoretical computer science–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dis-unification_(computer_science)&oldid=802288774"					
+Categories: Logic programmingTheoretical computer scienceUnification (computer science)Theoretical computer science stubsHidden categories: All stub articles 

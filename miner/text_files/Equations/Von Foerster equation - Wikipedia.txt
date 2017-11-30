@@ -1,0 +1,201 @@
+Von Foerster equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The McKendrick–von Foerster equation is a linear first-order partial differential equation encountered in several areas of mathematical biology – for example, cell proliferation modeling; it is applied when age structure is an important feature in the mathematical model.[1] It was presented by biophysics professor Heinz von Foerster.
+
+
+
+Contents
+
+
+1 Mathematical formula
+2 Analytical solution
+3 Similar equations
+4 See also
+5 References
+
+
+
+Mathematical formula[edit]
+The mathematical formula can be derived from first principles. It reads:
+
+
+
+
+
+
+
+
+∂
+n
+
+
+∂
+t
+
+
+
++
+
+
+
+∂
+n
+
+
+∂
+a
+
+
+
+=
+−
+m
+(
+a
+)
+n
+,
+
+
+{\displaystyle {\frac {\partial n}{\partial t}}+{\frac {\partial n}{\partial a}}=-m(a)n,}
+
+
+
+where the population density n(t,a) is a function of age a and time t, and m(a) is the death function.
+When m(a) = 0, we have:[1]
+
+
+
+
+
+
+
+
+∂
+n
+
+
+∂
+t
+
+
+
+=
+−
+
+
+
+∂
+n
+
+
+∂
+a
+
+
+
+
+
+{\displaystyle {\frac {\partial n}{\partial t}}=-{\frac {\partial n}{\partial a}}}
+
+
+
+It relates that a population ages, and that fact is the only one that influences change in population density; the negative sign shows that time flows in just one direction, that there is no birth and the population is going to die out.
+Analytical solution[edit]
+The von Foerster equation is a transport equation; it can be solved using a characteristics method.[1] Another way is by similarity solution; and a third is a numerical approach such as finite differences.
+To get the solution, the following boundary conditions should be added:
+
+
+
+
+
+n
+(
+t
+,
+0
+)
+=
+
+∫
+
+0
+
+
+∞
+
+
+b
+(
+a
+)
+n
+(
+t
+,
+a
+)
+
+d
+a
+,
+
+
+{\displaystyle n(t,0)=\int _{0}^{\infty }b(a)n(t,a)\,da,}
+
+
+
+which states that the initial births should be conserved (see Sharpe–Lotka–McKendrick’s equation for otherwise), and that
+
+
+
+
+
+n
+(
+0
+,
+a
+)
+=
+f
+(
+a
+)
+,
+
+
+
+{\displaystyle n(0,a)=f(a),\,}
+
+
+
+which states that the initial population must be given; then it will evolve according to the partial differential equation.
+Similar equations[edit]
+In Sebastian Anita, Viorel Arnautu, Vincenzo Capasso. An Introduction to Optimal Control Problems in Life Sciences and Economics (Birkhouser. 2011), this equation appears as a special case of the Sharpe–Lotka–McKendrick’s equation; in the latter there is inflow, and the math is based on directional derivative.
+See also[edit]
+
+Partial differential equation
+Transport equation
+Finite difference method
+
+References[edit]
+
+
+
+^ a b c MURRAY, J.D. Mathematical Biology: an introduction. third edition. Interdisciplinary Applied Mathematics. Mathematical Biology. Spring: 2002.
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Von_Foerster_equation&oldid=759722607"					
+Categories: DiffusionParabolic partial differential equationsStochastic differential equationsTransport phenomenaEquations of physicsMathematical and theoretical biologyEcology 

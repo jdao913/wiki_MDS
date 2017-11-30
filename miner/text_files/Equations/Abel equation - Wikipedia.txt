@@ -1,0 +1,368 @@
+Abel equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about certain functional equations. For ordinary differential equations that are cubic in the unknown function, see Abel equation of the first kind.
+The Abel equation, named after Niels Henrik Abel, is a type of functional equation which can be written in the form
+
+
+
+
+
+f
+(
+h
+(
+x
+)
+)
+=
+h
+(
+x
++
+1
+)
+
+
+{\displaystyle f(h(x))=h(x+1)}
+
+
+
+or, equivalently,
+
+
+
+
+
+α
+(
+f
+(
+x
+)
+)
+=
+α
+(
+x
+)
++
+1
+
+
+{\displaystyle \alpha (f(x))=\alpha (x)+1}
+
+
+
+and controls the iteration of   f.
+
+
+
+Contents
+
+
+1 Equivalence
+2 History
+3 Special cases
+4 Solutions
+5 See also
+6 References
+
+
+
+Equivalence[edit]
+These equations are equivalent. Assuming that α is an invertible function, the second equation can be written as
+
+
+
+
+
+
+α
+
+−
+1
+
+
+(
+α
+(
+f
+(
+x
+)
+)
+)
+=
+
+α
+
+−
+1
+
+
+(
+α
+(
+x
+)
++
+1
+)
+
+.
+
+
+{\displaystyle \alpha ^{-1}(\alpha (f(x)))=\alpha ^{-1}(\alpha (x)+1)\,.}
+
+
+
+Taking x = α−1(y), the equation can be written as
+
+
+
+
+
+
+
+f
+(
+
+α
+
+−
+1
+
+
+(
+y
+)
+)
+=
+
+α
+
+−
+1
+
+
+(
+y
++
+1
+)
+
+.
+
+
+{\displaystyle f(\alpha ^{-1}(y))=\alpha ^{-1}(y+1)\,.}
+
+
+
+
+
+For a function f(x) assumed to be known, the task is to solve the functional equation for the function α−1≡h, possibly satisfying additional requirements, such as α−1(0) = 1.
+The change of variables sα(x) = Ψ(x), for a real parameter s, brings Abel's equation into the celebrated Schröder's equation, Ψ(f(x)) = s Ψ(x) .
+The further change F(x) = exp(sα(x)) into Böttcher's equation, F(f(x)) = F(x)s.
+The Abel equation is a special case of (and easily generalizes to) the translation equation,[1]
+
+
+
+
+
+ω
+(
+ω
+(
+x
+,
+u
+)
+,
+v
+)
+=
+ω
+(
+x
+,
+u
++
+v
+)
+ 
+,
+
+
+{\displaystyle \omega (\omega (x,u),v)=\omega (x,u+v)~,}
+
+
+
+e.g., for 
+
+
+
+ω
+(
+x
+,
+1
+)
+=
+f
+(
+x
+)
+
+
+{\displaystyle \omega (x,1)=f(x)}
+
+,
+
+
+
+
+
+ω
+(
+x
+,
+u
+)
+=
+
+α
+
+−
+1
+
+
+(
+α
+(
+x
+)
++
+u
+)
+
+
+{\displaystyle \omega (x,u)=\alpha ^{-1}(\alpha (x)+u)}
+
+.     (Observe ω(x,0) = x.)
+
+The Abel function α(x) further provides the canonical coordinate for Lie advective flows (one parameter Lie groups).
+See also: Iterated function § Abelian property and Iteration sequences
+History[edit]
+Initially, the equation in the more general form [2] [3] was reported. Even in the case of a single variable, the equation is non-trivial, and admits special analysis.[4] [5][6]
+In the case of a linear transfer function, the solution is expressible compactly. [7]
+Special cases[edit]
+The equation of tetration is a special case of Abel's equation, with f = exp.
+In the case of an integer argument, the equation encodes a recurrent procedure, e.g.,
+
+
+
+
+
+α
+(
+f
+(
+f
+(
+x
+)
+)
+)
+=
+α
+(
+x
+)
++
+2
+ 
+,
+
+
+{\displaystyle \alpha (f(f(x)))=\alpha (x)+2~,}
+
+
+
+and so on,
+
+
+
+
+
+α
+(
+
+f
+
+n
+
+
+(
+x
+)
+)
+=
+α
+(
+x
+)
++
+n
+ 
+.
+
+
+{\displaystyle \alpha (f_{n}(x))=\alpha (x)+n~.}
+
+
+
+Solutions[edit]
+
+formal solution : unique (to a constant)[8]
+analytic solutions (Fatou coordinates) = approximation by asymptotic expansion of a function defined by power series in the sectors around parabolic fixed point[9]
+
+Fatou coordinates describe local dynamics of discrete dynamical system near a parabolic fixed point.
+See also[edit]
+
+Functional equation
+
+Schröder's equation
+Böttcher's equation
+
+
+Infinite compositions of analytic functions
+Iterated function
+Shift operator
+Superfunction
+
+References[edit]
+
+
+^ Aczél, János, (1966): Lectures on Functional Equations and Their Applications, Academic Press, reprinted by Dover Publications, ISBN 0486445232 .
+^ Abel, N.H. (1826). "Untersuchung der Functionen zweier unabhängig veränderlichen Größen x und y, wie f(x, y), welche die Eigenschaft haben, .." Journal für die reine und angewandte Mathematik. 1: 11–15. 
+^ A. R. Schweitzer (1912). "Theorems on functional equations". Bull. Amer. Math. Soc. 19 (2): 51–106. doi:10.1090/S0002-9904-1912-02281-4. 
+^ Korkine, A (1882). "Sur un problème d'interpolation", Bull Sci Math & Astron 6(1) 228—242. online
+^ G. Belitskii; Yu. Lubish (1999). "The real-analytic solutions of the Abel functional equations" (PDF). Studia Mathematica. 134 (2): 135–141. 
+^ Jitka Laitochová (2007). "Group iteration for Abel's functional equation". Nonlinear Analysis: Hybrid Systems. 1 (1): 95–102. doi:10.1016/j.nahs.2006.04.002. 
+^ G. Belitskii; Yu. Lubish (1998). "The Abel equation and total solvability of linear functional equations" (PDF). Studia Mathematica. 127: 81–89. 
+^ Classifications of parabolic germs and fractal properties of orbits by Maja Resman, University of Zagreb, Croatia
+^ Dudko, Artem (2012). Dynamics of holomorphic maps: Resurgence of Fatou coordinates, and Poly-time computability of Julia sets Ph.D. Thesis
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Abel_equation&oldid=797868719"					
+Categories: Niels Henrik AbelFunctional equations 

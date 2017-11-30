@@ -1,0 +1,361 @@
+Allen–Cahn equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Allen–Cahn equation (after John W. Cahn and Sam Allen) is a reaction-diffusion equation of mathematical physics which describes the process of phase separation in multi-component alloy systems, including order-disorder transitions.
+The equation describes the time evolution of a scalar-valued state variable 
+
+
+
+η
+
+
+{\displaystyle \eta }
+
+ on a domain 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+ during a time interval 
+
+
+
+
+
+T
+
+
+
+
+{\displaystyle {\mathcal {T}}}
+
+, and is given by:[1][2]
+
+
+
+
+
+
+
+∂
+η
+
+
+∂
+t
+
+
+
+=
+
+M
+
+η
+
+
+[
+
+
+
+d
+i
+v
+
+(
+
+ϵ
+
+η
+
+
+2
+
+
+∇
+
+η
+)
+−
+
+f
+′
+
+(
+η
+)
+]
+
+
+
+
+o
+n
+
+
+Ω
+×
+
+
+T
+
+
+,
+
+η
+=
+
+
+
+η
+¯
+
+
+
+
+
+
+
+o
+n
+
+
+
+∂
+
+η
+
+
+Ω
+×
+
+
+T
+
+
+,
+
+−
+(
+
+ϵ
+
+η
+
+
+2
+
+
+∇
+
+η
+)
+⋅
+m
+=
+q
+
+
+
+
+o
+n
+
+
+
+∂
+
+q
+
+
+Ω
+×
+
+
+T
+
+
+,
+
+η
+=
+
+η
+
+o
+
+
+
+
+
+
+o
+n
+
+
+Ω
+×
+{
+0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+{\displaystyle {{\partial \eta } \over {\partial t}}=M_{\eta }[{\rm {{div}(\epsilon _{\eta }^{2}\nabla \,\eta )-f'(\eta )]\quad {\rm {{on}\,\Omega \times {\mathcal {T}},\quad \eta ={\bar {\eta }}\quad {\rm {{on}\,\partial _{\eta }\Omega \times {\mathcal {T}},\quad -(\epsilon _{\eta }^{2}\nabla \,\eta )\cdot m=q\quad {\rm {{on}\,\partial _{q}\Omega \times {\mathcal {T}},\quad \eta =\eta _{o}\quad {\rm {{on}\,\Omega \times \{0\}}}}}}}}}}}}
+
+
+where 
+
+
+
+
+M
+
+η
+
+
+
+
+{\displaystyle M_{\eta }}
+
+ is the mobility, 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is the free energy density, 
+
+
+
+
+
+
+η
+¯
+
+
+
+
+
+{\displaystyle {\bar {\eta }}}
+
+ is the control on the state variable at the portion of the boundary 
+
+
+
+
+∂
+
+η
+
+
+Ω
+
+
+{\displaystyle \partial _{\eta }\Omega }
+
+, 
+
+
+
+q
+
+
+{\displaystyle q}
+
+ is the source control at 
+
+
+
+
+∂
+
+q
+
+
+Ω
+
+
+{\displaystyle \partial _{q}\Omega }
+
+, 
+
+
+
+
+η
+
+o
+
+
+
+
+{\displaystyle \eta _{o}}
+
+ is the initial condition, and 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ is the outward normal to 
+
+
+
+∂
+Ω
+
+
+{\displaystyle \partial \Omega }
+
+.
+It is the L2 gradient flow of the Ginzburg–Landau–Wilson Free Energy Functional. It is closely related to the Cahn–Hilliard equation. In one space-dimension, a very detailed account is given by a paper by Xinfu Chen.[3]
+References[edit]
+
+
+
+^ S. M. Allen and J. W. Cahn, "Ground State Structures in Ordered Binary Alloys with Second Neighbor Interactions," Acta Met. 20, 423 (1972).
+^ S. M. Allen and J. W. Cahn, "A Correction to the Ground State of FCC Binary Ordered Alloys with First and Second Neighbor Pairwise Interactions," Scripta Met. 7, 1261 (1973).
+^ Chen, Xinfu (2004). "Generation, propagation, and annihilation of metastable patterns". Journal of Differential Equations. 206: 399–437. doi:10.1016/j.jde.2004.05.017. 
+
+
+
+
+http://www.ctcms.nist.gov/~wcraig/variational/node10.html
+Allen, S. M.; Cahn, J. W. (1975). "Coherent and Incoherent Equilibria in Iron-Rich Iron-Aluminum Alloys". Acta Met. 23: 1017. doi:10.1016/0001-6160(75)90106-6. 
+Allen, S. M.; Cahn, J. W. (1976). "On Tricritical Points Resulting from the Intersection of Lines of Higher-Order Transitions with Spinodals". Scripta Met. 10: 451–454. doi:10.1016/0036-9748(76)90171-x. 
+Allen, S. M.; Cahn, J. W. (1976). "Mechanisms of Phase Transformation Within the Miscibility Gap of Fe-Rich Fe-Al Alloys". Acta Met. 24: 425–437. doi:10.1016/0001-6160(76)90063-8. 
+Cahn, J. W.; Allen, S. M. (1977). "A Microscopic Theory of Domain Wall Motion and Its Experimental Verification in Fe-Al Alloy Domain Growth Kinetics". J. de Physique. 38: C7–51. 
+Allen, S. M.; Cahn, J. W. (1979). "A Microscopic Theory for Antiphase Boundary Motion and Its Application to Antiphase Domain Coarsening". Acta Met. 27: 1085–1095. doi:10.1016/0001-6160(79)90196-2. 
+Bronsard, L.; Reitich, F. (1993). "On three-phase boundary motion and the singular limit of a vector valued Ginzburg–Landau equation". Arch. Rat. Mech. Anal. 124: 355–379. Bibcode:1993ArRMA.124..355B. doi:10.1007/bf00375607. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Allen–Cahn_equation&oldid=799216864"					
+Categories: Equations of fluid dynamicsPartial differential equationsEquations 

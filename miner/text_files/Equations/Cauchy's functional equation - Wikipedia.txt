@@ -1,0 +1,2139 @@
+Cauchy's functional equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Cauchy's functional equation is the functional equation
+
+
+
+
+
+f
+(
+x
++
+y
+)
+=
+f
+(
+x
+)
++
+f
+(
+y
+)
+.
+ 
+
+
+{\displaystyle f(x+y)=f(x)+f(y).\ }
+
+
+
+Solutions to this are called additive functions. Over the rational numbers, it can be shown using elementary algebra that there is a single family of solutions, namely 
+
+
+
+f
+:
+x
+↦
+c
+x
+
+
+{\displaystyle f:x\mapsto cx}
+
+ for any rational constant 
+
+
+
+c
+
+
+{\displaystyle c}
+
+. Over the real numbers, 
+
+
+
+f
+:
+x
+↦
+c
+x
+
+
+{\displaystyle f:x\mapsto cx}
+
+, now with 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ an arbitrary real constant, is likewise a family of solutions; however there can exist other solutions that are extremely complicated. However, any of a number of regularity conditions, some of them quite weak, will preclude the existence of these pathological solutions. For example, an additive function 
+
+
+
+f
+:
+
+R
+
+→
+
+R
+
+
+
+{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+
+ is linear if:
+
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is continuous (proven by Cauchy in 1821). This condition was weakened in 1875 by Darboux who showed that it was only necessary for the function to be continuous at one point.
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is monotonic on any interval.
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is bounded on any interval.
+
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is Lebesgue measurable.
+
+On the other hand, if no further conditions are imposed on 
+
+
+
+f
+
+
+{\displaystyle f}
+
+, then (assuming the axiom of choice) there are infinitely many other functions that satisfy the equation. This was proved in 1905 by Georg Hamel using Hamel bases. Such functions are sometimes called Hamel functions.[1]
+The fifth problem on Hilbert's list is a generalisation of this equation. Functions where there exists a real number 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ such that 
+
+
+
+f
+(
+c
+x
+)
+≠
+c
+f
+(
+x
+)
+ 
+
+
+{\displaystyle f(cx)\neq cf(x)\ }
+
+ are known as Cauchy-Hamel functions and are used in Dehn-Hadwiger invariants which are used in the extension of Hilbert's third problem from 3-D to higher dimensions.[2]
+
+
+
+Contents
+
+
+1 Solutions over the rational numbers
+2 Properties of linear solutions over the real numbers
+3 Existence of nonlinear solutions over the real numbers
+4 References
+5 External links
+
+
+
+Solutions over the rational numbers[edit]
+A simple argument, involving only elementary algebraic manipulation, demonstrates that the set of additive maps 
+
+
+
+f
+:
+
+Q
+
+→
+
+Q
+
+
+
+{\displaystyle f:\mathbb {Q} \to \mathbb {Q} }
+
+ is identical to the set of linear maps.
+Theorem: Let 
+
+
+
+f
+:
+
+Q
+
+→
+
+Q
+
+
+
+{\displaystyle f:\mathbb {Q} \to \mathbb {Q} }
+
+ be an additive function. Then 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is linear.
+Proof: We wish to prove that any solution 
+
+
+
+f
+:
+
+Q
+
+→
+
+Q
+
+
+
+{\displaystyle f:\mathbb {Q} \to \mathbb {Q} }
+
+ to Cauchy's functional equation, 
+
+
+
+f
+(
+x
++
+y
+)
+=
+f
+(
+x
+)
++
+f
+(
+y
+)
+
+
+{\displaystyle f(x+y)=f(x)+f(y)}
+
+, takes the form 
+
+
+
+f
+(
+q
+)
+=
+c
+q
+,
+ 
+c
+∈
+
+Q
+
+
+
+{\displaystyle f(q)=cq,\ c\in \mathbb {Q} }
+
+. It is convenient to consider the cases 
+
+
+
+q
+=
+0
+,
+ 
+q
+>
+0
+,
+ 
+q
+<
+0
+
+
+{\displaystyle q=0,\ q>0,\ q<0}
+
+.
+Case I: (
+
+
+
+q
+=
+0
+
+
+{\displaystyle q=0}
+
+)
+Setting 
+
+
+
+y
+=
+0
+
+
+{\displaystyle y=0}
+
+, we conclude that
+
+
+
+
+
+f
+(
+x
+)
+=
+f
+(
+x
+)
++
+f
+(
+0
+)
+,
+
+x
+∈
+
+Q
+
+
+
+{\displaystyle f(x)=f(x)+f(0),\quad x\in \mathbb {Q} }
+
+
+
+
+
+
+⇒
+f
+(
+0
+)
+=
+0
+
+
+{\displaystyle \Rightarrow f(0)=0}
+
+.
+
+Case II: (
+
+
+
+q
+>
+0
+
+
+{\displaystyle q>0}
+
+)
+By repeated application of Cauchy's equation to 
+
+
+
+f
+
+(
+x
++
+x
++
+.
+.
+.
++
+x
+)
+
+=
+f
+
+(
+α
+x
+)
+
+
+
+{\displaystyle f\left(x+x+...+x\right)=f\left(\alpha x\right)}
+
+, we obtain
+
+
+
+
+
+α
+f
+
+(
+x
+)
+
+=
+f
+
+(
+α
+x
+)
+
+,
+
+α
+∈
+
+N
+
+,
+ 
+x
+∈
+
+Q
+
+.
+
+
+(
+∗
+)
+
+
+{\displaystyle \alpha f\left(x\right)=f\left(\alpha x\right),\quad \alpha \in \mathbb {N} ,\ x\in \mathbb {Q} .\quad \quad (*)}
+
+
+
+Substitution of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ by 
+
+
+
+
+
+x
+α
+
+
+
+
+{\displaystyle {\frac {x}{\alpha }}}
+
+ in (*), and multiplication of the result by 
+
+
+
+
+
+β
+α
+
+
+
+
+{\displaystyle {\frac {\beta }{\alpha }}}
+
+, where 
+
+
+
+β
+∈
+
+N
+
+
+
+{\displaystyle \beta \in \mathbb {N} }
+
+, yields
+
+
+
+
+
+β
+f
+
+(
+
+
+x
+α
+
+
+)
+
+=
+
+
+β
+α
+
+
+f
+
+(
+x
+)
+
+,
+
+α
+,
+β
+∈
+
+N
+
+,
+ 
+x
+∈
+
+Q
+
+.
+
+
+(
+∗
+∗
+)
+
+
+{\displaystyle \beta f\left({\frac {x}{\alpha }}\right)={\frac {\beta }{\alpha }}f\left(x\right),\quad \alpha ,\beta \in \mathbb {N} ,\ x\in \mathbb {Q} .\quad \quad (**)}
+
+
+
+Application of (*) to the lefthand side of (**) then affords
+
+
+
+
+
+f
+
+(
+
+
+β
+α
+
+
+x
+)
+
+=
+
+
+β
+α
+
+
+f
+
+(
+x
+)
+
+,
+
+α
+,
+β
+∈
+
+N
+
+,
+ 
+x
+∈
+
+Q
+
+
+
+{\displaystyle f\left({\frac {\beta }{\alpha }}x\right)={\frac {\beta }{\alpha }}f\left(x\right),\quad \alpha ,\beta \in \mathbb {N} ,\ x\in \mathbb {Q} }
+
+
+
+
+
+
+⇒
+f
+
+(
+q
+x
+)
+
+=
+q
+f
+
+(
+x
+)
+
+,
+
+q
+,
+x
+∈
+
+Q
+
+,
+ 
+q
+>
+0
+
+
+{\displaystyle \Rightarrow f\left(qx\right)=qf\left(x\right),\quad q,x\in \mathbb {Q} ,\ q>0}
+
+
+
+
+
+
+⇒
+f
+
+(
+q
+)
+
+=
+q
+f
+
+(
+1
+)
+
+=
+c
+q
+,
+
+q
+∈
+
+
+Q
+
+
++
+
+
+
+
+{\displaystyle \Rightarrow f\left(q\right)=qf\left(1\right)=cq,\quad q\in \mathbb {Q} ^{+}}
+
+,
+
+where 
+
+
+
+c
+=
+f
+(
+1
+)
+∈
+
+Q
+
+
+
+{\displaystyle c=f(1)\in \mathbb {Q} }
+
+ is an arbitrary rational constant.
+Case III: (
+
+
+
+q
+<
+0
+
+
+{\displaystyle q<0}
+
+)
+Setting 
+
+
+
+y
+=
+−
+x
+
+
+{\displaystyle y=-x}
+
+ and recalling that 
+
+
+
+f
+(
+0
+)
+=
+0
+
+
+{\displaystyle f(0)=0}
+
+, we have
+
+
+
+
+
+f
+(
+−
+x
+)
+=
+−
+f
+(
+x
+)
+,
+
+x
+∈
+
+Q
+
+
+
+{\displaystyle f(-x)=-f(x),\quad x\in \mathbb {Q} }
+
+.
+
+Combining this with the conclusion drawn for the positive rational numbers (Case II) gives
+
+
+
+
+
+f
+(
+q
+)
+=
+−
+f
+
+(
+−
+q
+)
+
+=
+−
+
+
+(
+
+
+c
+(
+−
+q
+)
+
+
+)
+
+
+=
+c
+q
+,
+
+q
+∈
+
+
+Q
+
+
+−
+
+
+
+
+{\displaystyle f(q)=-f\left(-q\right)=-{\big (}c(-q){\big )}=cq,\quad q\in \mathbb {Q} ^{-}}
+
+.
+
+Considered together, the three cases above allow us to conclude that the complete solutions of Cauchy's functional equation over the rational numbers are given by:
+
+
+
+
+
+f
+:
+
+Q
+
+→
+
+Q
+
+,
+
+q
+↦
+c
+q
+,
+ 
+c
+=
+f
+(
+1
+)
+∈
+
+Q
+
+.
+
+
+◼
+
+
+{\displaystyle f:\mathbb {Q} \to \mathbb {Q} ,\quad q\mapsto cq,\ c=f(1)\in \mathbb {Q} .\quad \quad \blacksquare }
+
+
+
+Properties of linear solutions over the real numbers[edit]
+We prove below that any other solutions must be highly pathological functions. In particular, we show that any other solution must have the property that its graph 
+
+
+
+y
+=
+f
+(
+x
+)
+
+
+{\displaystyle y=f(x)}
+
+ is dense in 
+
+
+
+
+
+R
+
+
+2
+
+
+
+
+{\displaystyle \mathbb {R} ^{2}}
+
+, i.e. that any disk in the plane (however small) contains a point from the graph. From this it is easy to prove the various conditions given in the introductory paragraph.
+Suppose without loss of generality that 
+
+
+
+f
+(
+q
+)
+=
+q
+ 
+∀
+q
+∈
+
+Q
+
+
+
+{\displaystyle f(q)=q\ \forall q\in \mathbb {Q} }
+
+, and 
+
+
+
+f
+(
+α
+)
+≠
+α
+
+
+{\displaystyle f(\alpha )\neq \alpha }
+
+ for some 
+
+
+
+α
+∈
+
+R
+
+
+
+{\displaystyle \alpha \in \mathbb {R} }
+
+.
+Then put 
+
+
+
+f
+(
+α
+)
+=
+α
++
+δ
+,
+δ
+≠
+0
+
+
+{\displaystyle f(\alpha )=\alpha +\delta ,\delta \neq 0}
+
+.
+We now show how to find a point in an arbitrary circle, centre 
+
+
+
+(
+x
+,
+y
+)
+
+
+{\displaystyle (x,y)}
+
+, radius 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ where 
+
+
+
+x
+,
+y
+,
+r
+∈
+
+Q
+
+,
+r
+>
+0
+,
+x
+≠
+y
+
+
+{\displaystyle x,y,r\in \mathbb {Q} ,r>0,x\neq y}
+
+.
+Put 
+
+
+
+β
+=
+
+
+
+y
+−
+x
+
+δ
+
+
+
+
+{\displaystyle \beta ={\frac {y-x}{\delta }}}
+
+ and choose a rational number 
+
+
+
+b
+≠
+0
+
+
+{\displaystyle b\neq 0}
+
+ close to 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ with:
+
+
+
+
+
+
+|
+β
+−
+b
+|
+
+<
+
+
+r
+
+2
+
+|
+δ
+|
+
+
+
+
+
+
+{\displaystyle \left|\beta -b\right|<{\frac {r}{2\left|\delta \right|}}}
+
+
+
+Then choose a rational number 
+
+
+
+a
+
+
+{\displaystyle a}
+
+ close to 
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+ with:
+
+
+
+
+
+
+|
+α
+−
+a
+|
+
+<
+
+
+r
+
+2
+
+|
+b
+|
+
+
+
+
+
+
+{\displaystyle \left|\alpha -a\right|<{\frac {r}{2\left|b\right|}}}
+
+
+
+Now put:
+
+
+
+
+
+X
+=
+x
++
+b
+(
+α
+−
+a
+)
+ 
+
+
+{\displaystyle X=x+b(\alpha -a)\ }
+
+
+
+
+
+
+Y
+=
+f
+(
+X
+)
+ 
+
+
+{\displaystyle Y=f(X)\ }
+
+
+
+Then using the functional equation, we get:
+
+
+
+
+
+Y
+=
+f
+(
+x
++
+b
+(
+α
+−
+a
+)
+)
+ 
+
+
+{\displaystyle Y=f(x+b(\alpha -a))\ }
+
+
+
+
+
+
+=
+x
++
+b
+f
+(
+α
+)
+−
+b
+f
+(
+a
+)
+ 
+
+
+{\displaystyle =x+bf(\alpha )-bf(a)\ }
+
+
+
+
+
+
+=
+y
+−
+δ
+β
++
+b
+f
+(
+α
+)
+−
+b
+f
+(
+a
+)
+ 
+
+
+{\displaystyle =y-\delta \beta +bf(\alpha )-bf(a)\ }
+
+
+
+
+
+
+=
+y
+−
+δ
+β
++
+b
+(
+α
++
+δ
+)
+−
+b
+a
+ 
+
+
+{\displaystyle =y-\delta \beta +b(\alpha +\delta )-ba\ }
+
+
+
+
+
+
+=
+y
++
+b
+(
+α
+−
+a
+)
+−
+δ
+(
+β
+−
+b
+)
+ 
+
+
+{\displaystyle =y+b(\alpha -a)-\delta (\beta -b)\ }
+
+
+
+Because of our choices above, the point 
+
+
+
+(
+X
+,
+Y
+)
+
+
+{\displaystyle (X,Y)}
+
+ is inside the circle.
+Existence of nonlinear solutions over the real numbers[edit]
+The linearity proof given above also applies to 
+
+
+
+f
+:
+α
+
+Q
+
+→
+
+R
+
+
+
+{\displaystyle f:\alpha \mathbb {Q} \to \mathbb {R} }
+
+, where 
+
+
+
+α
+
+Q
+
+
+
+{\displaystyle \alpha \mathbb {Q} }
+
+ is a scaled copy of the rationals. This shows that the only linear solutions are permitted when the domain of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is restricted to such sets. Thus, in general, we have 
+
+
+
+f
+(
+q
+α
+)
+=
+q
+f
+(
+α
+)
+
+
+{\displaystyle f(q\alpha )=qf(\alpha )}
+
+ for all 
+
+
+
+q
+∈
+
+Q
+
+,
+ 
+α
+∈
+
+R
+
+
+
+{\displaystyle q\in \mathbb {Q} ,\ \alpha \in \mathbb {R} }
+
+. However, as we will demonstrate below, highly pathological solutions can be found for functions 
+
+
+
+f
+:
+
+R
+
+→
+
+R
+
+
+
+{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+
+ based on these linear solutions, by viewing the reals as a vector space over the field of rational numbers. Note, however, that this method is nonconstructive, relying as it does on the existence of a (Hamel) basis for any vector space, a statement proved using Zorn's lemma.
+Since every vector space has a basis, there is a basis for 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ over the field 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+, i.e. a set 
+
+
+
+
+
+B
+
+
+⊂
+
+R
+
+
+
+{\displaystyle {\mathcal {B}}\subset \mathbb {R} }
+
+ with the property that any 
+
+
+
+x
+∈
+
+R
+
+
+
+{\displaystyle x\in \mathbb {R} }
+
+ can be expressed uniquely as 
+
+
+
+x
+=
+
+∑
+
+i
+∈
+I
+
+
+
+
+λ
+
+i
+
+
+
+x
+
+i
+
+
+
+
+
+{\textstyle x=\sum _{i\in I}{\lambda _{i}x_{i}}}
+
+, where 
+
+
+
+{
+
+x
+
+i
+
+
+
+}
+
+i
+∈
+I
+
+
+
+
+{\displaystyle \{x_{i}\}_{i\in I}}
+
+ is a finite subset of 
+
+
+
+
+
+B
+
+
+
+
+{\displaystyle {\mathcal {B}}}
+
+ (i.e., 
+
+
+
+
+|
+
+I
+
+|
+
+<
+
+ℵ
+
+0
+
+
+
+
+{\displaystyle |I|<\aleph _{0}}
+
+), and each 
+
+
+
+
+λ
+
+i
+
+
+∈
+
+Q
+
+
+
+{\displaystyle \lambda _{i}\in \mathbb {Q} }
+
+ is nonzero. We note that because no explicit basis for 
+
+
+
+
+R
+
+
+
+{\displaystyle \mathbb {R} }
+
+ over 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+ can be constructed, the pathological solutions that we will define likewise cannot be explicitly constructed.
+As argued above, the restriction of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ to 
+
+
+
+
+x
+
+i
+
+
+
+Q
+
+
+
+{\displaystyle x_{i}\mathbb {Q} }
+
+ must be a linear map for each 
+
+
+
+
+x
+
+i
+
+
+∈
+
+
+B
+
+
+
+
+{\displaystyle x_{i}\in {\mathcal {B}}}
+
+, with 
+
+
+
+f
+(
+
+x
+
+i
+
+
+)
+
+
+{\displaystyle f(x_{i})}
+
+ as the constant of proportionality. In other words, 
+
+
+
+f
+:
+
+x
+
+i
+
+
+
+Q
+
+→
+
+R
+
+
+
+{\displaystyle f:x_{i}\mathbb {Q} \to \mathbb {R} }
+
+ is the map 
+
+
+
+
+λ
+
+i
+
+
+
+x
+
+i
+
+
+↦
+f
+(
+
+x
+
+i
+
+
+)
+
+λ
+
+i
+
+
+
+
+{\displaystyle \lambda _{i}x_{i}\mapsto f(x_{i})\lambda _{i}}
+
+. Since any 
+
+
+
+x
+∈
+
+R
+
+
+
+{\displaystyle x\in \mathbb {R} }
+
+ can be expressed as a unique (finite) linear combination of 
+
+
+
+
+x
+
+i
+
+
+
+
+{\displaystyle x_{i}}
+
+, and 
+
+
+
+f
+:
+
+R
+
+→
+
+R
+
+
+
+{\displaystyle f:\mathbb {R} \to \mathbb {R} }
+
+ is additive, 
+
+
+
+f
+(
+x
+)
+
+
+{\displaystyle f(x)}
+
+ is well-defined for all 
+
+
+
+x
+∈
+
+R
+
+
+
+{\displaystyle x\in \mathbb {R} }
+
+ and is given by:
+
+
+
+
+
+f
+(
+x
+)
+=
+f
+
+
+(
+
+
+
+∑
+
+i
+∈
+I
+
+
+
+λ
+
+i
+
+
+
+x
+
+i
+
+
+
+
+)
+
+
+=
+
+∑
+
+i
+∈
+I
+
+
+f
+(
+
+λ
+
+i
+
+
+
+x
+
+i
+
+
+)
+=
+
+∑
+
+i
+∈
+I
+
+
+
+f
+(
+
+x
+
+i
+
+
+)
+
+λ
+
+i
+
+
+
+
+
+{\displaystyle f(x)=f{\Big (}\sum _{i\in I}\lambda _{i}x_{i}{\Big )}=\sum _{i\in I}f(\lambda _{i}x_{i})=\sum _{i\in I}{f(x_{i})\lambda _{i}}}
+
+.
+
+It is easy to check that 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is a solution to Cauchy's functional equation given a definition of 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ on the basis elements, 
+
+
+
+f
+:
+
+
+B
+
+
+→
+
+R
+
+
+
+{\displaystyle f:{\mathcal {B}}\rightarrow \mathbb {R} }
+
+. Moreover, it is clear that every solution is of this form. In particular, the solutions of the functional equation are linear if and only if 
+
+
+
+f
+(
+
+x
+
+i
+
+
+)
+
+/
+
+
+x
+
+i
+
+
+
+
+{\displaystyle f(x_{i})/x_{i}}
+
+ is constant over all 
+
+
+
+
+x
+
+i
+
+
+∈
+
+
+B
+
+
+
+
+{\displaystyle x_{i}\in {\mathcal {B}}}
+
+. In a sense, despite the inability to explicitly exhibit a nonlinear solution, "most" (in the sense of cardinality[3]) solutions to the Cauchy functional equation are actually nonlinear and pathological.
+References[edit]
+
+
+
+^ Kuczma (2009), p.130
+^ V.G. Boltianskii (1978) "Hilbert's third problem", Halsted Press, Washington
+^ It can easily be shown that 
+
+
+
+
+c
+a
+r
+d
+
+(
+
+
+B
+
+
+)
+=
+
+
+c
+
+
+
+
+{\displaystyle \mathrm {card} ({\mathcal {B}})={\mathfrak {c}}}
+
+; thus there are 
+
+
+
+
+
+
+c
+
+
+
+
+c
+
+
+
+=
+
+2
+
+
+c
+
+
+
+
+
+{\displaystyle {\mathfrak {c}}^{\mathfrak {c}}=2^{\mathfrak {c}}}
+
+ functions 
+
+
+
+f
+:
+
+
+B
+
+
+→
+
+R
+
+
+
+{\displaystyle f:{\mathcal {B}}\to \mathbb {R} }
+
+, each of which correspond to a unique solution of the functional equation. On the other hand, there are only 
+
+
+
+
+
+c
+
+
+
+
+{\displaystyle {\mathfrak {c}}}
+
+ solutions that are linear.
+
+
+
+
+Kuczma, Marek (2009). An introduction to the theory of functional equations and inequalities. Cauchy's equation and Jensen's inequality. Basel: Birkhäuser. ISBN 9783764387495. 
+
+External links[edit]
+
+Solution to the Cauchy Equation Rutgers University
+The Hunt for Addi(c)tive Monster
+Martin Sleziak and otherz (2013). "Overview of basic facts about Cauchy functional equation". Math.StackExchange. Retrieved 20 December 2015. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Cauchy%27s_functional_equation&oldid=765690844"					
+Categories: Functional equations 

@@ -1,0 +1,670 @@
+Microplane model for constitutive laws of materials - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (December 2015)
+
+
+
+The microplane model, conceived in 1984,[1] is a material constitutive model for progressive softening damage. Its advantage over the classical tensorial constitutive models is that it can capture the oriented nature of damage such as tensile cracking, slip, friction, and compression splitting, as well as the orientation of fiber reinforcement. Another advantage is that the anisotropy of materials such as gas shale or fiber composites can be effectively represented. To prevent unstable strain localization (and spurious mesh sensitivity in finite element computations), this model must be used in combination with some nonlocal continuum formulation (e.g., the crack band model). Prior to 2000, these advantages were outweighed by greater computational demands of the material subroutine, but thanks to huge increase of computer power, the microplane model is now routinely used in computer programs, even with tens of millions of finite elements.
+Method and motivation[edit]
+The basic idea of the microplane model is to express the constitutive law not in terms of tensors, but in terms of the vectors of stress and strain acting on planes of various orientations called the microplanes. The use of vectors was inspired by G. I. Taylor's idea in 1938 [2] which led to Taylor models for plasticity of polycrystalline metals.[3][4][5][6][7][8] But the microplane models [1][8][9][10][11][12][13] differ conceptually in two ways.
+Firstly, to prevent model instability in post-peak softening damage, the kinematic constraint must be used instead of the static one. Thus, the strain (rather than stress) vector on each microplane is the projection of the macroscopic strain tensor, i.e.,
+
+
+
+
+
+
+ε
+
+N
+
+
+=
+
+ε
+
+i
+j
+
+
+
+N
+
+i
+j
+
+
+ 
+ 
+
+ε
+
+M
+
+
+=
+
+ε
+
+i
+j
+
+
+
+M
+
+i
+j
+
+
+
+ε
+
+L
+
+
+=
+
+ε
+
+i
+j
+
+
+
+L
+
+i
+j
+
+
+
+
+{\displaystyle \varepsilon _{N}=\varepsilon _{ij}N_{ij}~~\varepsilon _{M}=\varepsilon _{ij}M_{ij}\varepsilon _{L}=\varepsilon _{ij}L_{ij}}
+
+
+
+where 
+
+
+
+
+ε
+
+N
+
+
+,
+
+ε
+
+M
+
+
+
+
+{\displaystyle \varepsilon _{N},\varepsilon _{M}}
+
+ and 
+
+
+
+
+ε
+
+L
+
+
+
+
+{\displaystyle \varepsilon _{L}}
+
+ are the normal vector and two strain vectors corresponding to each microplane, and 
+
+
+
+
+N
+
+i
+j
+
+
+=
+
+n
+
+i
+
+
+
+n
+
+j
+
+
+,
+
+M
+
+i
+j
+
+
+=
+(
+
+n
+
+i
+
+
+
+m
+
+j
+
+
++
+
+m
+
+i
+
+
+
+n
+
+j
+
+
+)
+
+/
+
+2
+
+
+{\displaystyle N_{ij}=n_{i}n_{j},M_{ij}=(n_{i}m_{j}+m_{i}n_{j})/2}
+
+ and 
+
+
+
+
+L
+
+i
+j
+
+
+=
+(
+
+n
+
+i
+
+
+
+ℓ
+
+j
+
+
++
+
+ℓ
+
+i
+
+
+
+n
+
+j
+
+
+)
+
+/
+
+2
+
+
+{\displaystyle L_{ij}=(n_{i}\ell _{j}+\ell _{i}n_{j})/2}
+
+ where 
+
+
+
+
+n
+
+i
+
+
+,
+
+m
+
+i
+
+
+
+
+{\displaystyle n_{i},m_{i}}
+
+ and 
+
+
+
+
+ℓ
+
+i
+
+
+
+
+{\displaystyle \ell _{i}}
+
+ are three mutually orthogonal vectors, one normal and two tangential, characterizing each particular microplane (subscripts 
+
+
+
+i
+,
+j
+=
+1
+,
+2
+,
+3
+
+
+{\displaystyle i,j=1,2,3}
+
+ refer to Cartesian coordinates).
+Secondly, a variational principle (or the principle of virtual work) relates the stress vector components on the microplanes (
+
+
+
+
+σ
+
+N
+
+
+,
+
+σ
+
+M
+
+
+
+
+{\displaystyle \sigma _{N},\sigma _{M}}
+
+ and 
+
+
+
+
+σ
+
+L
+
+
+
+
+{\displaystyle \sigma _{L}}
+
+) to the macro-continuum stress tensor 
+
+
+
+
+σ
+
+i
+j
+
+
+
+
+{\displaystyle \sigma _{ij}}
+
+, to ensure equilibrium. This yields for the stress tensor the expression:[9][13]
+
+
+
+
+
+
+σ
+
+i
+j
+
+
+=
+
+
+3
+
+2
+π
+
+
+
+
+∫
+
+Ω
+
+
+
+s
+
+i
+j
+
+
+
+d
+Ω
+≈
+6
+
+∑
+
+μ
+=
+1
+
+
+
+N
+
+m
+
+
+
+
+
+w
+
+μ
+
+
+
+s
+
+i
+j
+
+
+(
+μ
+)
+
+
+
+
+{\displaystyle \sigma _{ij}={\frac {3}{2\pi }}\int _{\Omega }s_{ij}\,d\Omega \approx 6\sum _{\mu =1}^{N_{m}}w_{\mu }s_{ij}^{(\mu )}}
+
+
+
+with
+
+
+
+
+
+
+s
+
+i
+j
+
+
+=
+
+σ
+
+N
+
+
+
+N
+
+i
+j
+
+
++
+
+σ
+
+L
+
+
+
+L
+
+i
+j
+
+
++
+
+σ
+
+M
+
+
+
+M
+
+i
+j
+
+
+
+
+{\displaystyle s_{ij}=\sigma _{N}N_{ij}+\sigma _{L}L_{ij}+\sigma _{M}M_{ij}}
+
+
+
+Here 
+
+
+
+Ω
+
+
+{\displaystyle \Omega }
+
+ is the surface of a unit hemisphere, and the sum is an approximation of the integral. The weights, 
+
+
+
+
+w
+
+μ
+
+
+(
+μ
+=
+1
+,
+2
+,
+…
+,
+
+n
+
+M
+
+
+)
+
+
+{\displaystyle w_{\mu }(\mu =1,2,\ldots ,n_{M})}
+
+, are based on an optimal Gaussian integration formula for a spherical surface.[9][14][15] At least 21 microplanes are needed for acceptable accuracy but 37 are distinctly more accurate.
+The inelastic or damage behavior is characterized by subjecting the microplane stresses 
+
+
+
+
+σ
+
+N
+
+
+,
+
+σ
+
+M
+
+
+
+
+{\displaystyle \sigma _{N},\sigma _{M}}
+
+ and 
+
+
+
+
+σ
+
+L
+
+
+
+
+{\displaystyle \sigma _{L}}
+
+ to strain-dependent strength limits called stress-strain boundaries imposed on each microplane. They are of four types,[13] viz.:
+
+The tensile normal boundary – to capture progressive tensile fracturing;
+The compressive volumetric boundary – to capture phenomenon such as pore collapse under extreme pressures;
+The shear boundary – to capture friction; and
+The compressive deviatoric boundary – to capture softening in compression, using the volumetric stress 
+
+
+
+
+σ
+
+V
+
+
+=
+
+σ
+
+k
+k
+
+
+
+/
+
+3
+
+
+{\displaystyle \sigma _{V}=\sigma _{kk}/3}
+
+ and deviatoric stress 
+
+
+
+
+σ
+
+D
+
+
+=
+
+σ
+
+N
+
+
+−
+
+σ
+
+V
+
+
+
+
+{\displaystyle \sigma _{D}=\sigma _{N}-\sigma _{V}}
+
+ on the microplanes.
+
+Each step of explicit analysis begins with an elastic predictor and, if the boundary has been exceeded, the stress vector component on the microplane is then dropped at constant strain to the boundary.
+Applications[edit]
+The microplane constitutive model for damage in concrete evolved since 1984 through a series of progressively improved models labeled M0, M1, M2, ..., M7.[13] It was also extended to fiber composites (woven or braided laminates), rock, jointed rock mass, clay, sand, foam and metal.[8][11][16][16][17][18][19][20][21][22][23][24][25] The microplane model has been shown to allow close fits of the concrete test data for uniaxial, biaxial and triaxial loadings with post-peak softening, compression-tension load cycles, opening and mixed mode fractures, tension-shear and compression-shear failures, axial compression followed by torsion (i.e., the vertex effect) and fatigue. The loading rate effect and long-term aging creep of concrete have also been incorporated. Models M4 and M7 have been generalized to finite strain. The microplane model has been introduced into various commercial programs (ATENA, OOFEM, DIANA, SBETA,...) and large proprietary wavecodes (EPIC, PRONTO, MARS,...). Alternatively, it is often being used as the user's subroutine such as UMAT or VUMAT in ABAQUS.
+References[edit]
+
+
+
+^ a b Bažant, Z. (1984). "Microplane model for strain-controlled inelastic behavior." Chapter 3 in Mechanics of engineering materials, C. S. Desai and R. H. Gallagher, eds., Wiley, London, 45–59.
+^ Taylor G.I. (1938) Plastic strain in metals. Journal of the Institute of Metals 63, 307–324.
+^ Batdorf, S., and Budianski, B. (1949). "A mathematical theory of plasticity based on the concept of slip." NACA Technical Note 1871, NationalAdvisory Committee for Aeronautics, Washington, DC.
+^ Budiansky B., Wu T.T. (1962). Theoretical prediction of plastic strains in polycrystals. Proc., 4th U.S. National Congress of Applied Mechanics, pp. 1175–1185.
+^ Rice, J. (1971). "Inelastic constitutive relations for solids: An internal variable theory and its application to metal plasticity." J. Mech. Phys. Solids, 19(6), 433–455.
+^ Hill, R., and Rice, J. R. (1972). "Constitutive analysis of elastic-plastic crystal at arbitrary strain." J. of the Mechanics \& Physics of Solids, 20(6), 401–413.
+^ Butler, G. C., and McDowell, D. L. (1998)."Polycrystal constraint and grain subdivision." Int. J. of Plasticity 14 (8), 703–717.
+^ a b c Brocca, M., and Bažant, Z. P. (2000). "Microplane constitutive model and metal plasticity." Applied Mechanics Reviews, 53 (10), 265–281.
+^ a b c Bažant, Z. P., and Oh, B.-H. (1985). "Microplane model for progressive fracture of concrete and rock." J. Eng. Mech. ASCE, 111(4), 559–582.
+^ Bažant, Z. P., and Prat, P. C. (1988). "Microplane model for brittle plastic material: I. Theory." J. Eng. Mech. ASCE, 114(10), 1672–1688.
+^ a b Carol, I., Bažant, Z.P. (1997). Damage and plasticity in microplane theory. Int. J. of Solids and Structures 34 (29), 3807–3835.
+^ Bažant, Z. P., Caner, F. C., Carol, I., Adley, M. D., and Akers, S. A. (2000). "Microplane model M4 for concrete: I. Formulation with workconjugate deviatoric stress." J. Eng. Mech., 126(9), 944–953.
+^ a b c d Caner, F. C., and Bažant, Z. P. (2013). "Microplane model M7 for plain concrete." J. Eng. Mech. ASCE 139 (12), 1714–1735.
+^ Stroud, A. H. (1971). Approximate calculation of multiple integrals, Prentice Hall, Englewood Cliffs, NJ.
+^ Bažant, Z. P., and Oh, B.-H. (1986). "Efficient numerical integration on the surface of a sphere." Zeit. Angew. Math. Mech. (ZAMM), 66(1), 37–49.
+^ a b Chen, Xin, Bažant, Z.P. (2014). "Microplane damage model for jointed rock masses". Int J. of Num. and Anal.Methods in Geomechanics 38, 1431–1452.
+^ Cofer, W. F., and Kohut, S. W. (1994). "A general nonlocal microplane concrete material model for dynamic finite element analysis." Computers and Structures 53 (1), 189–199.
+^ Caner, F. C., Bažant, Z. P., Hoover, C., Waas, A., and Shahwan, K. (2011)."Microplane model for fracturing damage of triaxially braided fiber-polymer composites." J. of Eng. Materials & Technology ASME, 133 (2), 021024.
+^ Kirane, K., Su. Y., and Bažant, Z.P. (2015). "Strain-Rate Dependent Microplane Model for Impact Based on Theory of Kinetic Energy Dissipation for Comminution of Concrete", Proc. Royal Soc. London
+^ Kirane, K., Salviato. M., and Bažant, Z.P. (2015) "Microplane triad model for simple and accurate prediction of orthotropic elastic constants of woven fabric composites." J. of Composite Materials, doi:10.1177/0021998315590264
+^ Kožar, I., and Ožbolt, J. (2010). "Some aspects of load-rate sensitivity in visco-elastic microplane material model." Computers and Structures 7, 317–329.
+^ Ožbolt, J., Li, Y.J., and Kožar, I. (2001). "Microplane model for concrete with relaxed kinematic constraint." Int. J. of Solids and Structures 38, 2683–2711.
+^ Prat, P. C., Sánchez, F., and Gens, A. (1997). "Equivalent continuum anisotropic model for rocks: Theory and application to finite-element analysis." Proc., 6th Int. Symp. on Numer. Methods in Geomech., Balkema, Rotterdam, The Netherlands, 159–166.
+^ Travaš, V., Ožbolt, J., and Kožar, I. (2009). "Failure of Plain Concrete Beam at impact load—3D finite element analysis." Int. J. of Fracture 160 (1), 31–41.
+^ Adley, M.D., Frank, A.O., Danielson, K.T. (2012). "The high-rate brittle microplane concrete model: Part I: Bounding curves and quasi-static fit to material property data." Computers & Concrete, 9, 293–310.
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Microplane_model_for_constitutive_laws_of_materials&oldid=793711028"					
+Categories: Equations of physicsMaterials scienceHidden categories: Orphaned articles from December 2015All orphaned articles 

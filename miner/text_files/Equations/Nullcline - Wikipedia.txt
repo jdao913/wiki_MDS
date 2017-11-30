@@ -1,0 +1,277 @@
+Nullcline - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematical analysis, nullclines, sometimes called zero-growth isoclines, are encountered in a system of ordinary differential equations
+
+
+
+
+
+
+x
+
+1
+
+′
+
+=
+
+f
+
+1
+
+
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle x_{1}'=f_{1}(x_{1},\ldots ,x_{n})}
+
+
+
+
+
+
+
+x
+
+2
+
+′
+
+=
+
+f
+
+2
+
+
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle x_{2}'=f_{2}(x_{1},\ldots ,x_{n})}
+
+
+
+
+
+
+
+⋮
+
+
+{\displaystyle \vdots }
+
+
+
+
+
+
+
+
+
+x
+
+n
+
+′
+
+=
+
+f
+
+n
+
+
+(
+
+x
+
+1
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle x_{n}'=f_{n}(x_{1},\ldots ,x_{n})}
+
+
+
+where 
+
+
+
+
+x
+′
+
+
+
+{\displaystyle x'}
+
+ here represents a derivative of 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ with respect to another parameter, such as time 
+
+
+
+t
+
+
+{\displaystyle t}
+
+. The 
+
+
+
+j
+
+
+{\displaystyle j}
+
+'th nullcline is the geometric shape for which 
+
+
+
+
+x
+
+j
+
+′
+
+=
+0
+
+
+{\displaystyle x_{j}'=0}
+
+. The fixed points of the system are located where all of the nullclines intersect. In a two-dimensional linear system, the nullclines can be represented by two lines on a two-dimensional plot; in a general two-dimensional system they are arbitrary curves.
+
+
+
+Contents
+
+
+1 History
+2 References
+3 Notes
+4 External links
+
+
+
+History[edit]
+The definition, though with the name ’directivity curve’, was used in a 1967 article by Endre Simonyi.[1] This article also defined 'directivity vector' as 
+
+
+
+
+w
+
+=
+
+s
+i
+g
+n
+
+(
+P
+)
+
+i
+
++
+
+s
+i
+g
+n
+
+(
+Q
+)
+
+j
+
+
+
+{\displaystyle \mathbf {w} =\mathrm {sign} (P)\mathbf {i} +\mathrm {sign} (Q)\mathbf {j} }
+
+, where P and Q are the dx/dt and dy/dt differential equations, and i and j are the x and y direction unit vectors.
+Simonyi developed a new stability test method from these new definitions, and with it he studied differential equations. This method, beyond the usual stability examinations, provided semiquantative results.
+References[edit]
+
+
+
+^ E. Simonyi: The Dynamics of the Polymerization Processes, Periodica Polytechnica Electrical Engineering – Elektrotechnik, Polytechnical University Budapest, 1967
+
+
+
+Notes[edit]
+
+E. Simonyi – M. Kaszás: Method for the Dynamic Analysis of Nonlinear Systems, Periodica Polytechnica Chemical Engineering – Chemisches Ingenieurwesen, Polytechnical University Budapest, 1969
+
+External links[edit]
+
+"Nullcline". PlanetMath. 
+SOS Mathematics: Qualitative Analysis
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nullcline&oldid=786250374"					
+Categories: Differential equations 

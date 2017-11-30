@@ -1,0 +1,187 @@
+Volterra integral equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, the Volterra integral equations are a special type of integral equations. They are divided into two groups referred to as the first and the second kind.
+A linear Volterra equation of the first kind is
+
+
+
+
+
+f
+(
+t
+)
+=
+
+∫
+
+a
+
+
+t
+
+
+K
+(
+t
+,
+s
+)
+
+x
+(
+s
+)
+
+d
+s
+
+
+{\displaystyle f(t)=\int _{a}^{t}K(t,s)\,x(s)\,ds}
+
+
+
+where ƒ is a given function and x is an unknown function to be solved for. A linear Volterra equation of the second kind is
+
+
+
+
+
+x
+(
+t
+)
+=
+f
+(
+t
+)
++
+
+∫
+
+a
+
+
+t
+
+
+K
+(
+t
+,
+s
+)
+x
+(
+s
+)
+
+d
+s
+.
+
+
+{\displaystyle x(t)=f(t)+\int _{a}^{t}K(t,s)x(s)\,ds.}
+
+
+
+In operator theory, and in Fredholm theory, the corresponding operators are called Volterra operators. A useful method to solve such equations, the Adomian decomposition method, is due to George Adomian.
+A linear Volterra integral equation is a convolution equation if
+
+
+
+
+
+x
+(
+t
+)
+=
+f
+(
+t
+)
++
+
+∫
+
+
+t
+
+0
+
+
+
+
+t
+
+
+K
+(
+t
+−
+s
+)
+x
+(
+s
+)
+
+d
+s
+.
+
+
+{\displaystyle x(t)=f(t)+\int _{t_{0}}^{t}K(t-s)x(s)\,ds.}
+
+
+
+The function 
+
+
+
+K
+
+
+{\displaystyle K}
+
+ in the integral is called the kernel. Such equations can be analysed and solved by means of Laplace transform techniques.
+The Volterra integral equations were introduced by Vito Volterra and then studied by Traian Lalescu in his 1908 thesis, Sur les équations de Volterra, written under the direction of Émile Picard. In 1911, Lalescu wrote the first book ever on integral equations.
+Volterra integral equations find application in demography, the study of viscoelastic materials, and in insurance mathematics through the renewal equation.
+See also: Fredholm integral equation
+References[edit]
+
+Traian Lalescu, Introduction à la théorie des équations intégrales. Avec une préface de É. Picard, Paris: A. Hermann et Fils, 1912. VII + 152 pp.
+Hazewinkel, Michiel, ed. (2001) [1994], "Volterra equation", Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+Weisstein, Eric W. "Volterra Integral Equation of the First Kind". MathWorld. 
+Weisstein, Eric W. "Volterra Integral Equation of the Second Kind". MathWorld. 
+Integral Equations: Exact Solutions at EqWorld: The World of Mathematical Equations
+Press, WH; Teukolsky, SA; Vetterling, WT; Flannery, BP (2007). "Section 19.2. Volterra Equations". Numerical Recipes: The Art of Scientific Computing (3rd ed.). New York: Cambridge University Press. ISBN 978-0-521-88068-8. 
+
+
+
+
+This mathematical analysis–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Volterra_integral_equation&oldid=790496404"					
+Categories: Integral equationsMathematical analysis stubsHidden categories: All stub articles 

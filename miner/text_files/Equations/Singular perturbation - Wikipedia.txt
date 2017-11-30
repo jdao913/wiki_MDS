@@ -1,0 +1,1283 @@
+Singular perturbation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, a singular perturbation problem is a problem containing a small parameter that cannot be approximated by setting the parameter value to zero. More precisely, the solution cannot be uniformly approximated by an asymptotic expansion
+
+
+
+
+
+φ
+(
+x
+)
+≈
+
+∑
+
+n
+=
+0
+
+
+N
+
+
+
+δ
+
+n
+
+
+(
+ε
+)
+
+ψ
+
+n
+
+
+(
+x
+)
+
+
+
+{\displaystyle \varphi (x)\approx \sum _{n=0}^{N}\delta _{n}(\varepsilon )\psi _{n}(x)\,}
+
+
+
+as 
+
+
+
+ε
+→
+0
+
+
+{\displaystyle \varepsilon \to 0}
+
+. Here 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ is the small parameter of the problem and 
+
+
+
+
+δ
+
+n
+
+
+(
+ε
+)
+
+
+{\displaystyle \delta _{n}(\varepsilon )}
+
+ are a sequence of functions of 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ of increasing order, such as 
+
+
+
+
+δ
+
+n
+
+
+(
+ε
+)
+=
+
+ε
+
+n
+
+
+
+
+{\displaystyle \delta _{n}(\varepsilon )=\varepsilon ^{n}}
+
+. This is in contrast to regular perturbation problems, for which a uniform approximation of this form can be obtained. Singularly perturbed problems are generally characterized by dynamics operating on multiple scales. Several classes of singular perturbations are outlined below.
+The term "singular perturbation" was coined in the 1940s by Kurt Otto Friedrichs and Wolfgang R. Wasow.[1]
+
+
+
+Contents
+
+
+1 Methods of analysis
+2 Examples of singular perturbative problems
+
+2.1 Vanishing coefficients in ordinary differential equations
+2.2 Examples in time
+2.3 Examples in space
+2.4 Algebraic equations
+
+
+3 References
+
+
+
+Methods of analysis[edit]
+A perturbed problem whose solution can be approximated on the whole problem domain, whether space or time, by a single asymptotic expansion has a regular perturbation. Most often in applications, an acceptable approximation to a regularly perturbed problem is found by simply replacing the small parameter 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ by zero everywhere in the problem statement. This corresponds to taking only the first term of the expansion, yielding an approximation that converges, perhaps slowly, to the true solution as 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ decreases. The solution to a singularly perturbed problem cannot be approximated in this way: As seen in the examples below, a singular perturbation generally occurs when a problem's small parameter multiplies its highest operator. Thus naively taking the parameter to be zero changes the very nature of the problem. In the case of differential equations, boundary conditions cannot be satisfied; in algebraic equations, the possible number of solutions is decreased.
+Singular perturbation theory is a rich and ongoing area of exploration for mathematicians, physicists, and other researchers. The methods used to tackle problems in this field are many. The more basic of these include the method of matched asymptotic expansions and WKB approximation for spatial problems, and in time, the Poincaré-Lindstedt method, the method of multiple scales and periodic averaging.
+For books on singular perturbation in ODE and PDE's, see for example Holmes, Introduction to Perturbation Methods,[2] Hinch, Perturbation methods[3] or Bender and Orszag, Advanced Mathematical Methods for Scientists and Engineers.[4]
+Examples of singular perturbative problems[edit]
+the Each of the examples described below shows how a naive perturbation analysis, which assumes that the problem is regular instead of singular, will fail. Some show how the problem may be solved by more sophisticated singular methods.
+Vanishing coefficients in ordinary differential equations[edit]
+Differential equations that contain a small parameter that premultiplies the highest order term typically exhibit boundary layers, so that the solution evolves in two different scales. For example, consider the boundary value problem
+
+
+
+
+
+
+
+
+
+ε
+
+u
+
+′
+′
+
+
+(
+x
+)
++
+
+u
+
+′
+
+
+(
+x
+)
+=
+−
+
+e
+
+−
+x
+
+
+,
+ 
+ 
+0
+<
+x
+<
+1
+
+
+
+
+u
+(
+0
+)
+=
+0
+,
+ 
+ 
+u
+(
+1
+)
+=
+1.
+
+
+
+
+
+
+{\displaystyle {\begin{matrix}\varepsilon u^{\prime \prime }(x)+u^{\prime }(x)=-e^{-x},\ \ 0<x<1\\u(0)=0,\ \ u(1)=1.\end{matrix}}}
+
+
+
+Its solution when 
+
+
+
+ε
+=
+0.1
+
+
+{\displaystyle \varepsilon =0.1}
+
+ is the solid curve shown below. Note that the solution changes rapidly near the origin. If we naively set 
+
+
+
+ε
+=
+0
+
+
+{\displaystyle \varepsilon =0}
+
+, we would get the solution labelled "outer" below which does not model the boundary layer, for which x is close to zero. For more details that show how to obtain the uniformly valid approximation, see method of matched asymptotic expansions.
+
+Examples in time[edit]
+An electrically driven robot manipulator can have slower mechanical dynamics and faster electrical dynamics, thus exhibiting two time scales. In such cases, we can divide the system into two subsystems, one corresponding to faster dynamics and other corresponding to slower dynamics, and then design controllers for each one of them separately. Through a singular perturbation technique, we can make these two subsystems independent of each other, thereby simplifying the control problem.
+Consider a class of system described by following set of equations:
+
+
+
+
+
+
+
+
+
+x
+˙
+
+
+
+
+1
+
+
+=
+
+f
+
+1
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
++
+ε
+
+g
+
+1
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+ε
+)
+,
+
+
+
+{\displaystyle {\dot {x}}_{1}=f_{1}(x_{1},x_{2})+\varepsilon g_{1}(x_{1},x_{2},\varepsilon ),\,}
+
+
+
+
+
+
+ε
+
+
+
+
+x
+˙
+
+
+
+
+2
+
+
+=
+
+f
+
+2
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
++
+ε
+
+g
+
+2
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+ε
+)
+,
+
+
+
+{\displaystyle \varepsilon {\dot {x}}_{2}=f_{2}(x_{1},x_{2})+\varepsilon g_{2}(x_{1},x_{2},\varepsilon ),\,}
+
+
+
+
+
+
+
+x
+
+1
+
+
+(
+0
+)
+=
+
+a
+
+1
+
+
+,
+
+x
+
+2
+
+
+(
+0
+)
+=
+
+a
+
+2
+
+
+,
+
+
+
+{\displaystyle x_{1}(0)=a_{1},x_{2}(0)=a_{2},\,}
+
+
+
+with 
+
+
+
+0
+<
+ε
+<
+
+
+<
+1
+
+
+{\displaystyle 0<\varepsilon <\!\!<1}
+
+. The second equation indicates that the dynamics of 
+
+
+
+
+x
+
+2
+
+
+
+
+{\displaystyle x_{2}}
+
+ is much faster than that of 
+
+
+
+
+x
+
+1
+
+
+
+
+{\displaystyle x_{1}}
+
+. A theorem due to Tikhonov[5] states that, with the correct conditions on the system, it will initially and very quickly approximate the solution to the equations
+
+
+
+
+
+
+
+
+
+x
+˙
+
+
+
+
+1
+
+
+=
+
+f
+
+1
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
+,
+
+
+
+{\displaystyle {\dot {x}}_{1}=f_{1}(x_{1},x_{2}),\,}
+
+
+
+
+
+
+
+f
+
+2
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+)
+=
+0
+,
+
+
+
+{\displaystyle f_{2}(x_{1},x_{2})=0,\,}
+
+
+
+
+
+
+
+x
+
+1
+
+
+(
+0
+)
+=
+
+a
+
+1
+
+
+,
+
+
+
+{\displaystyle x_{1}(0)=a_{1},\,}
+
+
+
+on some interval of time and that, as 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ decreases toward zero, the system will approach the solution more closely in that same interval.[6]
+Examples in space[edit]
+In fluid mechanics, the properties of a slightly viscous fluid are dramatically different outside and inside a narrow boundary layer. Thus the fluid exhibits multiple spatial scales.
+Reaction-diffusion systems in which one reagent diffuses much more slowly than another can form spatial patterns marked by areas where a reagent exists, and areas where it does not, with sharp transitions between them. In ecology, predator-prey models such as
+
+
+
+
+
+
+u
+
+t
+
+
+=
+ε
+
+u
+
+x
+x
+
+
++
+u
+f
+(
+u
+)
+−
+v
+g
+(
+u
+)
+,
+
+
+
+{\displaystyle u_{t}=\varepsilon u_{xx}+uf(u)-vg(u),\,}
+
+
+
+
+
+
+
+v
+
+t
+
+
+=
+
+v
+
+x
+x
+
+
++
+v
+h
+(
+u
+)
+,
+
+
+
+{\displaystyle v_{t}=v_{xx}+vh(u),\,}
+
+
+
+where 
+
+
+
+u
+
+
+{\displaystyle u}
+
+ is the prey and 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ is the predator, have been shown to exhibit such patterns.[7]
+Algebraic equations[edit]
+Consider the problem of finding all roots of the polynomial 
+
+
+
+p
+(
+x
+)
+=
+ε
+
+x
+
+3
+
+
+−
+
+x
+
+2
+
+
++
+1
+
+
+{\displaystyle p(x)=\varepsilon x^{3}-x^{2}+1}
+
+. In the limit 
+
+
+
+ε
+→
+0
+
+
+{\displaystyle \varepsilon \to 0}
+
+, this cubic degenerates into the quadratic 
+
+
+
+1
+−
+
+x
+
+2
+
+
+
+
+{\displaystyle 1-x^{2}}
+
+ with roots at 
+
+
+
+x
+=
+±
+1
+
+
+{\displaystyle x=\pm 1}
+
+. Substituting a regular perturbation series
+
+
+
+
+
+x
+(
+ε
+)
+=
+
+x
+
+0
+
+
++
+ε
+
+x
+
+1
+
+
++
+
+ε
+
+2
+
+
+
+x
+
+2
+
+
++
+⋯
+
+
+{\displaystyle x(\varepsilon )=x_{0}+\varepsilon x_{1}+\varepsilon ^{2}x_{2}+\cdots }
+
+
+
+in the equation and equating equal powers of 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ only yields corrections to these two roots:
+
+
+
+
+
+x
+(
+ε
+)
+=
+±
+1
++
+
+
+1
+2
+
+
+ε
+±
+
+
+5
+8
+
+
+
+ε
+
+2
+
+
++
+⋯
+.
+
+
+{\displaystyle x(\varepsilon )=\pm 1+{\frac {1}{2}}\varepsilon \pm {\frac {5}{8}}\varepsilon ^{2}+\cdots .}
+
+
+
+To find the other root, singular perturbation analysis must be used. We must then deal with the fact that the equation degenerates into a quadratic when we let 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ tend to zero, in that limit one of the roots escapes to infinity. To prevent this root from becoming invisible to the perturbative analysis, we must rescale 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ to keep track with this escaping root so that in terms of the rescaled variables, it doesn't escape. We define a rescaled variable 
+
+
+
+x
+=
+
+
+y
+
+ε
+
+ν
+
+
+
+
+
+
+{\displaystyle x={\frac {y}{\varepsilon ^{\nu }}}}
+
+ where the exponent 
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+ will be chosen such that we rescale just fast enough so that the root is at a finite value of 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ in the limit of 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ to zero, but such that it doesn't collapse to zero where the other two roots will end up. In terms of 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ we have
+
+
+
+
+
+
+y
+
+3
+
+
+−
+
+ε
+
+ν
+−
+1
+
+
+
+y
+
+2
+
+
++
+
+ε
+
+3
+ν
+−
+1
+
+
+=
+0.
+
+
+{\displaystyle y^{3}-\varepsilon ^{\nu -1}y^{2}+\varepsilon ^{3\nu -1}=0.}
+
+
+
+We can see that for 
+
+
+
+ν
+<
+1
+
+
+{\displaystyle \nu <1}
+
+ the 
+
+
+
+
+y
+
+3
+
+
+
+
+{\displaystyle y^{3}}
+
+ is dominated by the lower degree terms, while at 
+
+
+
+ν
+=
+1
+
+
+{\displaystyle \nu =1}
+
+ it becomes as dominant as the 
+
+
+
+
+y
+
+2
+
+
+
+
+{\displaystyle y^{2}}
+
+ term while they both dominate the remaining term. This point where the highest order term will no longer vanish in the limit 
+
+
+
+ε
+
+
+{\displaystyle \varepsilon }
+
+ to zero by becoming equally dominant to another term, is called significant degeneration; this yields the correct rescaling to make the remaining root visible. This choice yields
+
+
+
+
+
+
+y
+
+3
+
+
+−
+
+y
+
+2
+
+
++
+
+ε
+
+2
+
+
+=
+0.
+
+
+{\displaystyle y^{3}-y^{2}+\varepsilon ^{2}=0.}
+
+
+
+Substituting the perturbation series
+
+
+
+
+
+y
+(
+ε
+)
+=
+
+y
+
+0
+
+
++
+
+ε
+
+2
+
+
+
+y
+
+1
+
+
++
+
+ε
+
+4
+
+
+
+y
+
+2
+
+
++
+⋯
+
+
+{\displaystyle y(\varepsilon )=y_{0}+\varepsilon ^{2}y_{1}+\varepsilon ^{4}y_{2}+\cdots }
+
+
+
+yields
+
+
+
+
+
+
+y
+
+0
+
+
+3
+
+
+−
+
+y
+
+0
+
+
+2
+
+
+=
+0.
+
+
+{\displaystyle y_{0}^{3}-y_{0}^{2}=0.}
+
+
+
+We are then interested in the root at 
+
+
+
+
+y
+
+0
+
+
+=
+1
+
+
+{\displaystyle y_{0}=1}
+
+; the double root at 
+
+
+
+
+y
+
+0
+
+
+=
+0
+
+
+{\displaystyle y_{0}=0}
+
+ are the two roots that we've found above that collapse to zero in the limit of an infinite rescaling. Calculating the first few terms of the series then yields
+
+
+
+
+
+x
+(
+ε
+)
+=
+
+
+
+y
+(
+ε
+)
+
+ε
+
+
+=
+
+
+1
+ε
+
+
+−
+ε
+−
+2
+
+ε
+
+3
+
+
++
+⋯
+.
+
+
+{\displaystyle x(\varepsilon )={\frac {y(\varepsilon )}{\varepsilon }}={\frac {1}{\varepsilon }}-\varepsilon -2\varepsilon ^{3}+\cdots .}
+
+
+
+References[edit]
+
+
+^ Wasow, Wolfgang R. (1981), "ON BOUNDARY LAYER PROBLEMS IN THE THEORY OF ORDINARY DIFFERENTIAL EQUATIONS", Mathematics Research Center, University of Wisconsin-Madison, Technical Summary Report, 2244: PDF page 5 
+^ Holmes, Mark H. Introduction to Perturbation Methods. Springer, 1995. ISBN 978-0-387-94203-2
+^ Hinch, E. J. Perturbation methods. Cambridge University Press, 1991. ISBN 978-0-521-37897-0
+^ Bender, Carl M. and Orszag, Steven A. Advanced Mathematical Methods for Scientists and Engineers. Springer, 1999. ISBN 978-0-387-98931-0
+^ Tikhonov, A. N. (1952), Systems of differential equations containing a small parameter multiplying the derivative (in Russian), Mat. Sb. 31 (73), pp. 575-586
+^ Verhulst, Ferdinand. Methods and Applications of Singular Perturbations: Boundary Layers and Multiple Timescale Dynamics, Springer, 2005. ISBN 0-387-22966-3.
+^ Owen, M. R. and Lewis, M. A. How Predation can Slow, Stop, or Reverse a Prey Invasion, Bulletin of Mathematical Biology (2001) 63, 655-684.
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Singular_perturbation&oldid=807171980"					
+Categories: Differential equationsNonlinear controlPerturbation theory 

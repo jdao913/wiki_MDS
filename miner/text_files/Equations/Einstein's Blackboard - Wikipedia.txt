@@ -1,0 +1,85 @@
+Einstein's Blackboard - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Einstein's Blackboard at the Museum of the History of Science in Oxford.
+
+
+Einstein's Blackboard is a blackboard[1] which physicist Albert Einstein (1879–1955) used on 16 May 1931 during his lectures while visiting the University of Oxford in England.[2] The blackboard is one of the most iconic objects in the collection of the Museum of the History of Science in Oxford.[3][4]
+
+
+
+Contents
+
+
+1 Overview
+2 The science of the blackboard
+3 The role of the blackboard in clarifying an error
+4 References
+5 External links
+
+
+
+Overview[edit]
+The lecture in which the blackboard was used was the second of three, delivered at Rhodes House in South Parks Road. Einstein's visit to give the Rhodes Lectures, and also to receive an honorary Doctor of Science degree from Oxford University on 23 May 1931, was hosted by the physicist Frederick Lindemann.[5] Einstein's first lecture was on relativity, the second on cosmology, and the third on unified field theory. All the lectures were delivered in German. A brief report of the second lecture was given in The Times[6] and in Nature.[7] A summary of all three lectures can be found in the Archives of the Oxford Museum for the History of Science.[8]
+The blackboard was rescued with another by dons (including the chemist E. J. Bowen, zoologist Gavin de Beer, and historian of science Robert Gunther[9]) and formally donated by the Warden of Rhodes House, Sir Francis James Wylie.[10][11] The writing on the blackboard, although ephemeral in nature, is of historic interest because the equations displayed are taken from a model of the universe proposed by Einstein in May 1931 known as The Friedmann-Einstein universe.[12][13][14] The last three lines on the blackboard are estimates of the density of matter in the universe ρ, the radius of the universe P and the timespan t of the expansion of the universe respectively ("L.J." on the blackboard indicates "light years" in German). It has recently been shown that these estimates contain a systematic numerical error.[13]
+The blackboard is considered a "mutant" object or artefact in that it is very different from most of the objects in the collection of the museum (mainly scientific instruments such as astrolabes).[15][16] A second blackboard used by Einstein during the lecture is also in the collection of the Museum of the History of Science, but is not on display. However it is of less interest because it was wiped clean after the lecture.[17]
+Einstein returned to Oxford again in 1932 and 1933 before he settled at Princeton University in the United States for the rest of his life.[18]
+The science of the blackboard[edit]
+It has recently been pointed out[13][14][19] that the equations on the Oxford blackboard are taken directly from a key paper on relativistic cosmology written by Einstein in April 1931 and published in the Proceedings of the Royal Prussian Academy of Science on May 9 of that year.[12] The paper, known as The Friedmann-Einstein universe, is of historic significance because it constituted the first scientific publication in which Einstein embraced the possibility of a cosmos of time-varying radius. In the paper,[12] Einstein adopts Alexander Friedman’s 1922 analysis[20] of relativistic models of a universe of time-varying radius and positive curvature, but sets the cosmological constant to zero, declaring it redundant, predicting a universe that expands and contracts over time. (The work is sometimes known as the Friedman-Einstein model of the universe[21][22]). With the use of Edwin Hubble’s observations[23] of a linear redshift/distance relation for the spiral nebulae, Einstein extracts from his model estimates of ρ ~ 10−26 g/cm3, P ~ 108 light-years and t ~ 1010 years for the density of matter, the radius of the cosmos and the timespan of the cosmic expansion respectively. These values are displayed in the last three lines on the Oxford blackboard (although the units of measurement are not specifically stated for the density estimate, cgs units are implied by the other calculations).
+The role of the blackboard in clarifying an error[edit]
+It has also been noted[13][19] that the numerical estimates of cosmic parameters in Einstein’s 1931 paper – and on the blackboard – contain a systematic error. Analysis of the 1931 paper shows that, given the contemporaneous Hubble constant of 500 km s−1Mpc−1, Einstein's estimates of cosmic density, radius and timespan should have been ρ ~ 10−28 g/cm3, P ~ 108 light-years and t ~ 109 years respectively. One line on the blackboard, not included in the published paper, makes the nature of Einstein's error clear. In the fourth line on the blackboard, Einstein obtains a value of 10−53 cm−2 for the quantity D2, defined in the top line of the blackboard as D = (1/c). (1/P).(dP/dt), i.e., the Hubble constant divided by the speed of light. Simple calculation shows that the contemporaneous value of the Hubble constant in fact implied a value of D2 ~ 10−55 cm−2 (or 10−51 m−2) for this quantity. It appears that Einstein stumbled in converting megaparsecs to cm, giving a density of matter that was too high by a factor of a hundred, a cosmic radius that was too low by a factor of ten, and a timespan for the expansion that was too high by a factor of ten.[13] These errors were corrected in a later review of relativistic cosmology written by Einstein in 1945.[24]
+References[edit]
+
+
+^ "Bye-bye blackboard ... from Einstein and others". Oxford: Museum of the History of Science. Retrieved 14 April 2014. 
+^ Garrett, C. (June 11, 2009), "Einstein's Blackboard at Oxford's Museum of the History of Science", The Geek Atlas, retrieved 14 April 2014 
+^ Bennett, Jim. "Einstein's Blackboard – in Oxford's Museum of the History of Science". YouTube.  Missing or empty |url= (help); |access-date= requires |url= (help)
+^ Einstein, Albert (1931). "Blackboard Used by Albert Einstein, Oxford, May 16, 1931". MHS Collection Database Search. Oxford: Museum of the History of Science. Retrieved 1 November 2015. 
+^ Clark, Ronald W. (1984). The Life and Times: Einstein – An Illustrated Biography. New York: Wings Books. pp. 255–256. ISBN 0-517-14718-1. 
+^ The Times, 18 May 1931.
+^ "Our Astronomical Column". Nature. 127. 1931. p. 790. doi:10.1038/127794a0. 
+^ Einstein, Albert (1931). "Printed Pamphlet Accompanying The Rhodes Lectures, Oxford". UK: Museum of the History of Science, Oxford. 
+^ Gunther, A. E. (1967). Robert T. Gunther. Early Science in Oxford. XV. Oxford. pp. 250, 436. 
+^ "Einstein's Blackboard", Label in gallery, Oxford, UK: Museum of the History of Science, 2014 
+^ Callaghan, Mark (20 May 2011). "Einstein's Blackboard". The Oxford Student.  |access-date= requires |url= (help)
+^ a b c Einstein, A. 1931. Zum kosmologischen Problem der allgemeinen Relativitätstheorie Sitzungsb.König. Preuss. Akad. 235-237
+^ a b c d e O’Raifeartaigh, C. and McCann, B. (2014) ‘Einstein’s cosmic model of 1931 revisited: an analysis and translation of a forgotten model of the universe’.Eur. Phys. J. (H) 39 (1), pp. 63–85. Physics ArXiv preprint.
+^ a b Kragh, H. (2013). ‘Cyclic models of the relativistic universe: the early history’. Physics ArXiv 1308.0932.
+^ Gauvin, Jean-Francois (9 March 2009), "Einstein's Blackboard as a Mutant Object", Carrière et vie professionnelle, WordPress, retrieved 14 May 2014 
+^ "Einstein's Blackboard as a Mutant Artefact", History of Scientific Objects, Germany: International Max Planck Research Network, retrieved 14 May 2014 
+^ Einstein, Albert (1931). "Einstein Blackboard No.2, 1931". MHS Collection Database Search. Oxford: Museum of the History of Science. Retrieved 1 November 2015. 
+^ Robinson, Andrew (2005). Einstein: A Hundred Years of Relativity. Palazzo Editions. p. 96. ISBN 0-9545103-4-8. 
+^ a b O'Raifeartaigh, C. (22 December 2015). "Einstein's blackboard and the Friedman-Einstein model of the cosmos". Antimatter. WordPress. Retrieved 31 December 2015. 
+^ Friedman, A. 1922. Über die Krümmung des Raumes. Zeit. Physik. 10 : 377-386
+^ North, J.D. 1965. The Measure of the Universe: A History of Modern Cosmology . Oxford University Press p132
+^ Rindler, W. 1969. Essential Relativity: Special, General and Cosmological. Van Nostrand Reinhold Company New York p261
+^ Hubble, E. 1929. A relation between distance and radial velocity among extra-galactic nebulae. Proc. Natl. Acad. Sci. 15: 168-173
+^ Einstein, A. (1945). "Appendix: On the cosmological problem". The Meaning of Relativity (2nd ed.). Princeton: Princeton University Press. 
+
+
+External links[edit]
+
+Einstein's Blackboard podcast
+Bye-bye blackboard ... from Einstein and others
+Photo: Einstein's blackboard, TripAdvisor, 2014
+Oxford – Einstein's blackboard, Flickr, 2013
+Hidden Oxford – Einstein's Blackboard, BlogSpot, 2011
+Einstein’s Blackboard, IELTS
+Einstein objects in the collection of the Museum of the History of Science, Oxford
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Einstein%27s_Blackboard&oldid=812457694"					
+Categories: 1931 works1931 in England1931 in scienceAlbert EinsteinWorks by Albert EinsteinHistory of the University of OxfordCulture of the University of OxfordCollections of museums in the United KingdomRhodes HouseScience and technology in OxfordshireHistory of physicsPhysics literatureEquationsEphemeraHidden categories: Pages using web citations with no URLPages using citations with accessdate and no URLOxfordshire articles missing geocoordinate dataAll articles needing coordinates 

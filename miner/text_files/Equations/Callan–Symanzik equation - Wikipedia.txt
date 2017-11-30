@@ -1,0 +1,443 @@
+Callan–Symanzik equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Quantum field theory
+
+
+
+Feynman diagram
+
+
+
+History
+
+
+
+
+Background
+
+
+Field theory
+Electromagnetism
+Weak force
+Strong force
+Quantum mechanics
+Special relativity
+General relativity
+Gauge theory
+
+
+
+
+
+
+
+
+Symmetries
+
+
+Symmetry in quantum mechanics
+C-symmetry
+P-symmetry
+T-symmetry
+Space translation symmetry
+Time translation symmetry
+Rotation symmetry
+Lorentz symmetry
+Poincaré symmetry
+Gauge symmetry
+Explicit symmetry breaking
+Spontaneous symmetry breaking
+Yang–Mills theory
+Noether charge
+Topological charge
+
+
+
+
+
+
+
+
+Tools
+
+
+Anomaly
+Crossing
+Effective field theory
+Expectation value
+Faddeev–Popov ghosts
+Feynman diagram
+Lattice gauge theory
+LSZ reduction formula
+Partition function
+Propagator
+Quantization
+Regularization
+Renormalization
+Vacuum state
+Wick's theorem
+Wightman axioms
+
+
+
+
+
+
+
+
+Equations
+
+
+Dirac equation
+Klein–Gordon equation
+Proca equations
+Wheeler–DeWitt equation
+Bargmann–Wigner equations
+
+
+
+
+
+
+
+
+Standard Model
+
+
+Quantum electrodynamics
+Electroweak interaction
+Quantum chromodynamics
+Higgs mechanism
+
+
+
+
+
+
+
+
+Incomplete theories
+
+
+Topological quantum field theory
+String theory
+Supersymmetry
+Technicolor
+Theory of everything
+Quantum gravity
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+C. D. Anderson
+P. W. Anderson
+Bethe
+Bjorken
+Bogoliubov
+Brout
+Callan
+Coleman
+DeWitt
+Dirac
+Dyson
+Englert
+Fermi
+Feynman
+Fierz
+Fock
+Fröhlich
+Glashow
+Gell-Mann
+Gross
+Guralnik
+Heisenberg
+Higgs
+Haag
+Hagen
+'t Hooft
+Jordan
+Kendall
+Kibble
+Lamb
+Landau
+Lee
+Majorana
+Mills
+Nambu
+Nishijima
+Parisi
+Polyakov
+Salam
+Schwinger
+Skyrme
+Sudarshan
+Tomonaga
+Veltman
+Ward
+Weinberg
+Weisskopf
+Weyl
+Wilczek
+Wilson
+Yang
+Yukawa
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In physics, the Callan–Symanzik equation is a differential equation describing the evolution of the n-point correlation functions under variation of the energy scale at which the theory is defined and involves the beta-function of the theory and the anomalous dimensions. This equation has the following structure
+
+
+
+
+
+
+[
+M
+
+
+∂
+
+∂
+M
+
+
+
++
+β
+(
+g
+)
+
+
+∂
+
+∂
+g
+
+
+
++
+n
+γ
+]
+
+
+G
+
+(
+n
+)
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+;
+M
+,
+g
+)
+=
+0
+
+
+{\displaystyle \left[M{\frac {\partial }{\partial M}}+\beta (g){\frac {\partial }{\partial g}}+n\gamma \right]G^{(n)}(x_{1},x_{2},\ldots ,x_{n};M,g)=0}
+
+
+
+
+
+
+
+β
+(
+g
+)
+
+
+{\displaystyle \beta (g)}
+
+ being the beta function and 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+ the scaling of the fields.
+In quantum electrodynamics this equation takes the form
+
+
+
+
+
+
+[
+M
+
+
+∂
+
+∂
+M
+
+
+
++
+β
+(
+e
+)
+
+
+∂
+
+∂
+e
+
+
+
++
+n
+
+γ
+
+2
+
+
++
+m
+
+γ
+
+3
+
+
+]
+
+
+G
+
+(
+n
+,
+m
+)
+
+
+(
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+;
+M
+,
+e
+)
+=
+0
+
+
+{\displaystyle \left[M{\frac {\partial }{\partial M}}+\beta (e){\frac {\partial }{\partial e}}+n\gamma _{2}+m\gamma _{3}\right]G^{(n,m)}(x_{1},x_{2},\ldots ,x_{n};M,e)=0}
+
+
+
+n and m being the number of electrons and photons respectively.
+It was discovered independently by Curtis Callan[1] and Kurt Symanzik[2][3] in 1970. Later it was used to understand asymptotic freedom.
+This equation arises in the framework of renormalization group. It is possible to treat the equation using perturbation theory.
+See also[edit]
+
+Exact renormalization group equation
+Beta function
+
+Notes[edit]
+
+
+^ C. G. Callan, Jr., Broken Scale Invariance in Scalar Field Theory, Phys. Rev. D 2, 1541–1547 (1970). APS
+^ K. Symanzik, Small Distance Behaviour in Field Theory and Power Counting, Commun. math. Phys. 18, 227 (1970). SpringerLink
+^ K. Symanzik, Small-Distance-Behaviour Analysis and Wilson Expansions, Commun. math. Phys. 23, 49 (1971). SpringerLink
+
+
+References[edit]
+
+Jean Zinn-Justin, Quantum Field Theory and Critical Phenomena , Oxford University Press, 2003, ISBN 0-19-850923-5
+John Clements Collins, Renormalization, Cambridge University Press, 1986, ISBN 0-521-31177-2
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Callan–Symanzik_equation&oldid=783123485"					
+Categories: Quantum field theoryRenormalization groupEquations 

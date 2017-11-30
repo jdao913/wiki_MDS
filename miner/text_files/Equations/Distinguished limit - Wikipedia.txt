@@ -1,0 +1,43 @@
+Distinguished limit - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (August 2014) (Learn how and when to remove this template message)
+
+
+
+In mathematics, a distinguished limit is an appropriately chosen scale factor used in the method of matched asymptotic expansions.
+External links[edit]
+
+Singular perturbation theory, Scholarpedia
+
+
+
+
+This mathematics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Distinguished_limit&oldid=788408519"					
+Categories: Differential equationsAsymptotic analysisMathematics stubsHidden categories: Wikipedia articles needing context from August 2014All Wikipedia articles needing contextWikipedia introduction cleanup from August 2014All pages needing cleanupAll stub articles 

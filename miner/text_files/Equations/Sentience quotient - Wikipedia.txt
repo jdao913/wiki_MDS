@@ -1,0 +1,401 @@
+Sentience quotient - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+The topic of this article may not meet Wikipedia's general notability guideline. Please help to establish notability by citing reliable secondary sources that are independent of the topic and provide significant coverage of it beyond its mere trivial mention. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
+Find sources: "Sentience quotient" – news · newspapers · books · scholar · JSTOR (September 2014) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2008) (Learn how and when to remove this template message)
+
+
+
+The sentience quotient concept was introduced by Robert A. Freitas Jr. in the late 1970s.[1] It defines sentience as the relationship between the information processing rate (bit/s) of each individual processing unit (neuron), the weight/size of a single unit and the total number of processing units (expressed as mass).
+This is a non-standard usage of the word "sentience" which in standard usage relates to an individual organism's capacity to perceive the world subjectively (The word "sentience" is derived from the Latin "sentire" meaning "to feel" and is closely related to the word "sentiment." Intelligence or cognitive capacity is better denoted by the word "sapience" and not "sentience.")
+The potential and total processing capacity of a brain, based on the amount of neurons and the processing rate and mass of a single one, combined with its design (myelin coating and specialized areas and so on) and programming, lays the foundations of the brain level of the individual. Not just in humans, but in all organisms, even artificial ones such as computers (although their "brain" is not based on neurons).
+
+
+
+Contents
+
+
+1 Definition
+2 SQs of various entities
+3 SQ spectrum
+4 Implications for interspecies communication
+5 Analysis, misconceptions and criticism
+6 Mentions of SQ
+7 See also
+8 Notes
+9 References
+
+
+
+Definition[edit]
+The sentience quotient (SQ) of an individual is a measure of the efficiency of an individual brain, not its relative intelligence, and is defined as:
+
+
+
+
+
+
+
+S
+Q
+=
+
+log
+
+10
+
+
+⁡
+
+(
+
+
+I
+M
+
+
+)
+
+
+
+{\displaystyle SQ=\log _{10}\left({\frac {I}{M}}\right)}
+
+
+
+
+
+where I is the information processing rate (bits/s) and M is the mass of the brain (kg). The lower limit of SQ is approximately −70, while the upper (quantum) limit is about 50.[1]
+SQs of various entities[edit]
+According to this equation, humans have an SQ of +13. A human neuron has an average mass of about 10−10 kg and one neuron can process 1000-3000 bit/s[citation needed], giving us an SQ rating of +13. All other animals with a nervous system (or all "neuronal sentience") from insects to mammals, cluster within several points of the human value. Plants cluster around an SQ of −2. Carnivorous plants have an SQ of +1, while the supercomputer Cray-1 had an SQ of +9. IBM Watson, which achieves 80 TFLOPS[2] (using 64-bit words) and consists of 90 IBM Power 750 weighing approximately 100 kilograms (220 lb) each,[3] has an SQ in the range of +11—+12.
+SQ spectrum[edit]
+SQ is not limited to sentient beings so far encountered by humans, but extends to all possible sentiences, defining an expected range.
+The lowest SQ possible would have just one neuron with the mass of the whole universe (1052 kg) and require a time equal to the age of the universe (1018 seconds) to process just one bit, giving a minimum SQ of −70.[1] It has been argued that under multiverse theory, an infinitely low SQ is theoretically possible, though Freitas is not known to have commented on this possibility himself.[citation needed]
+The fundamental upper limit to brain efficiency is imposed by the laws of quantum mechanics: all information, to be acted upon, must be represented physically and be carried by matter-energy "markers." According to the Uncertainty Principle in quantum mechanics, the lower limit for the accuracy with which energy can be measured—the minimum measurable energy level for a marker carrying one bit–is given by Planck's constant h divided by T, the duration of the measurement. If one energy level is used to represent one bit, then the maximum bit rate of a brain is equal to the total energy available E ( = mc02) for representing information, divided by the minimum measurable energy per bit (h/T) divided by the minimum time required for readout (T): mc02/h = 1050 (bit/s)/kg. Hence the maximum possible SQ is +50.[1]
+Implications for interspecies communication[edit]
+According to Freitas, an alien civilization having their consciousness running on non-biological hardware (such as quantum-mechanical circuits) could have an SQ of 23+, 10 orders of magnitude more than the human SQ. Freitas states that such a gap in SQ "may affect our ability, and the desirability, of communicating with extraterrestrial beings...It may be that there is a minimum SQ "communication gap," an intellectual distance beyond which no two entities can meaningfully converse." [1] For example, an alien civilization may form a Matrioshka brain or a black hole and communicate using neutrinos or gamma-ray bursts at bandwidths that exceed our receiving capabilities.
+
+At present, human scientists are attempting to communicate outside our species to primates and cetaceans, and in a limited way to a few other vertebrates. This is inordinately difficult, and yet it represents a gap of at most a few SQ points. The farthest we can reach in our "communication" with vegetation is when we plant, water, or fertilize it, but it is evident that messages transmitted across an SQ gap of 10 points or more cannot be very meaningful. What, then, could an SQ +50 Superbeing possibly have to say to us?
+— Robert A. Freitas Jr
+
+Analysis, misconceptions and criticism[edit]
+The sentience quotient (SQ) is misleading and is not a measure of the efficiency of an individual brain as in from person to person. Efficiency here means the elemental effectivity of utilizing matter in implementing or constructing a certain "neuron design". As there is a constant firing rate for a given neuron type, information processing power 
+
+
+
+I
+
+
+{\displaystyle I}
+
+ is proportional to brain mass 
+
+
+
+M
+
+
+{\displaystyle M}
+
+. This removes any assignable individuality between persons. The SQ value for humans would also apply to all mammals. The Drosophila fly has a similar firing rate, which implies that the same SQ value is universal for most neuron equipped organisms on Earth.[4] The idea of this concept is to use, in a similar fashion as specific weight, a measure for comparison. The SQ equation serves to show the basic underlying potential when comparing two fundamental different "neuron designs". This is due to the logarithm being used as a simplified scale which only show significant differences in the order of one order of magnitude apart for 
+
+
+
+
+
+I
+M
+
+
+
+
+{\displaystyle {\frac {I}{M}}}
+
+.
+Mentions of SQ[edit]
+
+Hypnotic experiments with 'time sense', Dr. Bernard Aaronson, Bureau of Research in Neuropsychology & Psychiatry, described by Freitas in "Timeless Minds," Omni 6 (February 1984):38.
+Sentience Quotient is referenced in the Artificial Intelligence issue of Daedalus, Proceedings of the American Academy of Arts and Sciences, [Probably Volume 117, Winter 1988.]
+"Sentience Quotient" shows up in Star Trek Voyager episode "Eye of the Needle", broadcast Monday, February 20, 1995, in the review by Tim Wright.
+"Sentience Quotient" appears in the Transhuman Terminology Page by Anders Sandberg, in the Lextropicon collected by Max More, and in the Nanotechnology Glossary by 7th Wave Inc.
+"Sentience Quotient" as defined by Freitas is mentioned in: Linda MacDonald Glenn, "Biotechnology at the Margins of Personhood: An Evolving Legal Paradigm," Journal of Evolution and Technology, Vol. 13 (2002).
+“Sentience Quotient” is discussed in the context of human/machine relations in: Anna C.B. Russell, "Blurring the love lines: The legal implications of intimacy with machines," Computer Law & Security Review, Vol 25(5), Sep 2009, pp. 455-463.
+"Sentience Quotient" is described and referenced in Ray Kurzweil, The Singularity is Near, Viking, 2005, p. 536; and in Ray Kurzweil, How to Create a Mind, Viking, 2012, p. 316.
+“Sentience Quotient” is discussed in the context of philosophical epistemology in: Quincy Arthur, “Many-Valued Knowledge: A study in epistemic non-absolutism,” Hemlock, Vol. 1(1), 2013, pp.46-52.
+“Sentience Quotient” is discussed in the SETI context: Clement Vidal, “Stellivore extraterrestrials? Binary stars as living systems.” Acta Astronautica, Vol 128, Nov-Dec 2016, pp. 251-256.
+
+See also[edit]
+
+
+AI
+Artificial consciousness
+Communalness
+Consciousness
+Fermi Paradox
+Encephalization quotient
+Hormonal sentience
+Intelligence quotient
+Sentience
+Transhumanism
+Xenolinguistics
+
+
+Notes[edit]
+
+
+^ a b c d e Dr. Freitas, Robert A. Jr., Xenopsychology, Analog Science Fiction/Science Fact, Vol. 104, April 1984, pp 41-53
+^ Tony Pearson, IBM Watson - How to build your own "Watson Jr." in your basement, Inside System Storage
+^ IBM, 8233-E8B (IBM Power 750 Express)
+^ Refractory Sampling Links Efficiency and Costs of Sensory Encoding to Stimulus Statistics Zhuoyi Song, Mikko Juusola, The Journal of Neuroscience, May 21, 2014
+
+
+References[edit]
+Moravec, Hans. "When will computer hardware match the human brain?" Journal of Evolution and Technology 1998, Vol. 1. Last accessed 11 April 2008.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Extraterrestrial life
+
+
+
+Events and objects
+
+
+
+ALH84001
+Cells in the stratosphere
+CI1 fossils
+Murchison meteorite
+Nakhla meteorite
+Polonnaruwa meteorite
+Red rain in Kerala
+Shergotty meteorite
+Viking lander biological experiments
+Yamato 000593
+
+
+
+
+
+Possible signals
+
+
+
+CP 1919 (misidentified pulsar)
+CTA-102 (misidentified quasar)
+Fast radio burst (unknown origin)
+Wow! signal (inconclusive)
+KIC 8462852 (unusual light fluctuations)
+SHGb02+14a (radio source)
+HD 164595 signal (strong radio signal)
+
+
+
+
+
+Life in the Universe
+
+
+
+Earliest known life forms
+Life on Enceladus
+Life on Europa
+Life on Mars
+Life on Titan
+Life on Venus
+
+
+
+
+
+Planetary
+habitability
+
+
+
+Catalog of Nearby Habitable Systems
+Circumstellar habitable zone
+Earth analog
+Extraterrestrial liquid water
+Galactic habitable zone
+Habitability of binary star systems
+Habitability of orange dwarf systems
+Habitability of red dwarf systems
+Natural satellite habitability
+Planetary habitability
+
+
+
+
+
+Space missions
+
+
+
+Beagle 2
+Biological Oxidant and Life Detection
+BioSentinel
+Curiosity
+Darwin
+Enceladus Explorer
+Enceladus Life Finder
+Europa Clipper
+ExoMars
+ExoLance
+EXPOSE
+Foton-M3
+Icebreaker Life
+Journey to Enceladus and Titan
+Laplace-P
+Life Investigation For Enceladus
+Living Interplanetary Flight Experiment
+Mars Geyser Hopper
+Mars sample return mission
+Mars 2020
+Northern Light
+Opportunity
+SpaceX Red Dragon
+Spirit
+Tanpopo
+Titan Mare Explorer
+Venus In Situ Explorer
+Viking 1
+Viking 2
+
+
+
+
+
+Interstellar
+communication
+
+
+
+Active SETI
+Allen Telescope Array
+Arecibo message
+Arecibo Observatory
+Bracewell probe
+Breakthrough Initiatives
+
+Breakthrough Listen
+Breakthrough Message
+
+
+Communication with extraterrestrial intelligence
+Gauss's Pythagorean right triangle proposal
+Lincos language
+Pioneer plaque
+Project Cyclops
+Project Ozma
+Project Phoenix
+SERENDIP
+Search for extraterrestrial intelligence
+SETI@home
+setiQuest
+Voyager Golden Record
+Water hole
+Xenolinguistics
+
+
+
+
+
+Exhibitions
+
+
+
+The Science of Aliens
+
+
+
+
+
+Hypotheses
+
+
+
+Ancient astronauts
+Aurelia and Blue Moon
+Cosmic pluralism
+Directed panspermia
+Drake equation
+Extraterrestrial hypothesis
+Fermi paradox
+Great Filter
+Hypothetical types of biochemistry
+Interplanetary contamination
+Kardashev scale
+Mediocrity principle
+Neocatastrophism
+Panspermia
+Planetarium hypothesis
+Rare Earth hypothesis
+Sentience quotient
+Zoo hypothesis
+
+
+
+
+
+Related topics
+
+
+
+Astrobiology
+Astroecology
+Biosignature
+Rejection of Earth-based abiogenesis (Fred Hoyle)
+Brookings Report
+Planetary protection
+Potential cultural impact of extraterrestrial contact
+Exotheology
+Extraterrestrials in fiction
+Extremophile
+Nexus for Exoplanet System Science
+Noogenesis
+San Marino Scale
+Technosignature
+UFO religion
+Xenoarchaeology
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Sentience_quotient&oldid=812675625"					
+Categories: CognitionEquationsHidden categories: Articles with topics of unclear notability from September 2014All articles with topics of unclear notabilityArticles needing additional references from April 2008All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from December 2010Articles with unsourced statements from September 2014 

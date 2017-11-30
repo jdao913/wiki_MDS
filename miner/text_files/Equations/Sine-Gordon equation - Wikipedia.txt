@@ -1,0 +1,1367 @@
+Sine-Gordon equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The sine-Gordon equation is a nonlinear hyperbolic partial differential equation in 1 + 1 dimensions involving the d'Alembert operator and the sine of the unknown function. It was originally introduced by Edmond Bour (1862) in the course of study of surfaces of constant negative curvature as the Gauss–Codazzi equation for surfaces of curvature −1 in 3-space,[1] and rediscovered by Frenkel and Kontorova (1939) in their study of crystal dislocations.[2] This equation attracted a lot of attention in the 1970s due to the presence of soliton solutions.
+
+
+
+Contents
+
+
+1 Origin of the equation and its name
+2 Soliton solutions
+
+2.1 1-soliton solutions
+2.2 2-soliton solutions
+2.3 3-soliton solutions
+
+
+3 FDTD (1D) video simulation of a soliton with forces
+4 Related equations
+5 Quantum version
+6 In finite volume and on a half line
+7 Supersymmetric sine-Gordon model
+8 See also
+9 References
+10 External links
+
+
+
+Origin of the equation and its name[edit]
+There are two equivalent forms of the sine-Gordon equation. In the (real) space-time coordinates, denoted (x, t), the equation reads:[3]
+
+
+
+
+
+
+
+φ
+
+t
+t
+
+
+−
+
+φ
+
+x
+x
+
+
++
+sin
+⁡
+φ
+=
+0
+,
+
+
+{\displaystyle \,\varphi _{tt}-\varphi _{xx}+\sin \varphi =0,}
+
+
+
+where partial derivatives are denoted by subscripts. Passing to the light cone coordinates (u, v), akin to asymptotic coordinates where
+
+
+
+
+
+u
+=
+
+
+
+x
++
+t
+
+2
+
+
+,
+
+v
+=
+
+
+
+x
+−
+t
+
+2
+
+
+,
+
+
+{\displaystyle u={\frac {x+t}{2}},\quad v={\frac {x-t}{2}},}
+
+
+
+the equation takes the form:[4]
+
+
+
+
+
+
+φ
+
+u
+v
+
+
+=
+sin
+⁡
+φ
+.
+
+
+
+{\displaystyle \varphi _{uv}=\sin \varphi .\,}
+
+
+
+This is the original form of the sine-Gordon equation, as it was considered in the nineteenth century in the course of investigation of surfaces of constant Gaussian curvature K = −1, also called pseudospherical surfaces. Choose a coordinate system for such a surface in which the coordinate mesh u = constant, v = constant is given by the asymptotic lines parameterized with respect to the arc length. The first fundamental form of the surface in these coordinates has a special form
+
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+d
+
+u
+
+2
+
+
++
+2
+cos
+⁡
+φ
+
+d
+u
+
+d
+v
++
+d
+
+v
+
+2
+
+
+,
+
+
+
+{\displaystyle ds^{2}=du^{2}+2\cos \varphi \,du\,dv+dv^{2},\,}
+
+
+
+where 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ expresses the angle between the asymptotic lines, and for the second fundamental form, L = N = 0. Then the Codazzi-Mainardi equation expressing a compatibility condition between the first and second fundamental forms results in the sine-Gordon equation. The study of this equation and of the associated transformations of pseudospherical surfaces in the 19th century by Bianchi and Bäcklund led to the discovery of Bäcklund transformations.
+The name "sine-Gordon equation" is a pun on the well-known Klein–Gordon equation in physics:
+
+
+
+
+
+
+φ
+
+t
+t
+
+
+−
+
+φ
+
+x
+x
+
+
++
+φ
+ 
+=
+0.
+
+
+
+{\displaystyle \varphi _{tt}-\varphi _{xx}+\varphi \ =0.\,}
+
+
+
+The sine-Gordon equation is the Euler–Lagrange equation of the field whose Lagrangian density is given by
+
+
+
+
+
+
+
+
+L
+
+
+
+SG
+
+
+(
+φ
+)
+=
+
+
+1
+2
+
+
+(
+
+φ
+
+t
+
+
+2
+
+
+−
+
+φ
+
+x
+
+
+2
+
+
+)
+−
+1
++
+cos
+⁡
+φ
+.
+
+
+{\displaystyle {\mathcal {L}}_{\text{SG}}(\varphi )={\frac {1}{2}}(\varphi _{t}^{2}-\varphi _{x}^{2})-1+\cos \varphi .}
+
+
+
+Using the Taylor series expansion of the cosine in the Lagrangian,
+
+
+
+
+
+cos
+⁡
+(
+φ
+)
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+
+(
+−
+
+φ
+
+2
+
+
+
+)
+
+n
+
+
+
+
+(
+2
+n
+)
+!
+
+
+
+,
+
+
+{\displaystyle \cos(\varphi )=\sum _{n=0}^{\infty }{\frac {(-\varphi ^{2})^{n}}{(2n)!}},}
+
+
+
+it can be rewritten as the Klein–Gordon Lagrangian plus higher order terms
+
+
+
+
+
+
+
+
+
+
+
+
+L
+
+
+
+SG
+
+
+(
+φ
+)
+
+
+
+=
+
+
+1
+2
+
+
+(
+
+φ
+
+t
+
+
+2
+
+
+−
+
+φ
+
+x
+
+
+2
+
+
+)
+−
+
+
+
+φ
+
+2
+
+
+2
+
+
++
+
+∑
+
+n
+=
+2
+
+
+∞
+
+
+
+
+
+(
+−
+
+φ
+
+2
+
+
+
+)
+
+n
+
+
+
+
+(
+2
+n
+)
+!
+
+
+
+
+
+
+
+
+
+=
+
+
+
+L
+
+
+
+KG
+
+
+(
+φ
+)
++
+
+∑
+
+n
+=
+2
+
+
+∞
+
+
+
+
+
+(
+−
+
+φ
+
+2
+
+
+
+)
+
+n
+
+
+
+
+(
+2
+n
+)
+!
+
+
+
+.
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}{\mathcal {L}}_{\text{SG}}(\varphi )&={\frac {1}{2}}(\varphi _{t}^{2}-\varphi _{x}^{2})-{\frac {\varphi ^{2}}{2}}+\sum _{n=2}^{\infty }{\frac {(-\varphi ^{2})^{n}}{(2n)!}}\\&={\mathcal {L}}_{\text{KG}}(\varphi )+\sum _{n=2}^{\infty }{\frac {(-\varphi ^{2})^{n}}{(2n)!}}.\end{aligned}}}
+
+
+
+Soliton solutions[edit]
+An interesting feature of the sine-Gordon equation is the existence of soliton and multisoliton solutions.
+1-soliton solutions[edit]
+The sine-Gordon equation has the following 1-soliton solutions:
+
+
+
+
+
+
+φ
+
+soliton
+
+
+(
+x
+,
+t
+)
+:=
+4
+arctan
+⁡
+
+e
+
+m
+γ
+(
+x
+−
+v
+t
+)
++
+δ
+
+
+
+
+
+{\displaystyle \varphi _{\text{soliton}}(x,t):=4\arctan e^{m\gamma (x-vt)+\delta }\,}
+
+
+
+where
+
+
+
+
+
+
+γ
+
+2
+
+
+=
+
+
+1
+
+1
+−
+
+v
+
+2
+
+
+
+
+
+.
+
+
+{\displaystyle \gamma ^{2}={\frac {1}{1-v^{2}}}.}
+
+
+
+and the slightly more general form of the equation is assumed:
+
+
+
+
+
+
+
+φ
+
+t
+t
+
+
+−
+
+φ
+
+x
+x
+
+
++
+
+m
+
+2
+
+
+sin
+⁡
+φ
+=
+0.
+
+
+{\displaystyle \,\varphi _{tt}-\varphi _{xx}+m^{2}\sin \varphi =0.}
+
+
+
+The 1-soliton solution for which we have chosen the positive root for 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+ is called a kink, and represents a twist in the variable 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ which takes the system from one solution 
+
+
+
+φ
+=
+0
+
+
+{\displaystyle \varphi =0}
+
+ to an adjacent with 
+
+
+
+φ
+=
+2
+π
+
+
+{\displaystyle \varphi =2\pi }
+
+. The states 
+
+
+
+φ
+=
+0
+(
+
+
+mod
+
+
+2
+π
+)
+
+
+{\displaystyle \varphi =0({\textrm {mod}}2\pi )}
+
+ are known as vacuum states as they are constant solutions of zero energy. The 1-soliton solution in which we take the negative root for 
+
+
+
+γ
+
+
+{\displaystyle \gamma }
+
+ is called an antikink. The form of the 1-soliton solutions can be obtained through application of a Bäcklund transform to the trivial (constant vacuum) solution and the integration of the resulting first-order differentials:
+
+
+
+
+
+
+
+
+φ
+
+′
+
+
+
+
+u
+
+
+=
+
+φ
+
+u
+
+
++
+2
+β
+sin
+⁡
+
+(
+
+
+
+
+φ
+
+′
+
+
++
+φ
+
+2
+
+
+)
+
+,
+
+
+{\displaystyle {\varphi ^{\prime }}_{u}=\varphi _{u}+2\beta \sin \left({\frac {\varphi ^{\prime }+\varphi }{2}}\right),}
+
+
+
+
+
+
+
+
+
+
+
+φ
+
+′
+
+
+
+
+v
+
+
+=
+−
+
+φ
+
+v
+
+
++
+
+
+2
+β
+
+
+sin
+⁡
+
+(
+
+
+
+
+φ
+
+′
+
+
+−
+φ
+
+2
+
+
+)
+
+
+ with 
+
+φ
+=
+
+φ
+
+0
+
+
+=
+0
+
+
+{\displaystyle {\varphi ^{\prime }}_{v}=-\varphi _{v}+{\frac {2}{\beta }}\sin \left({\frac {\varphi ^{\prime }-\varphi }{2}}\right){\text{ with }}\varphi =\varphi _{0}=0}
+
+
+
+for all time.
+The 1-soliton solutions can be visualized with the use of the elastic ribbon sine-Gordon model as discussed by Dodd and co-workers.[5] Here we take a clockwise (left-handed) twist of the elastic ribbon to be a kink with topological charge 
+
+
+
+
+ϑ
+
+
+K
+
+
+
+=
+−
+1
+
+
+{\displaystyle \vartheta _{\textrm {K}}=-1}
+
+. The alternative counterclockwise (right-handed) twist with topological charge 
+
+
+
+
+ϑ
+
+
+AK
+
+
+
+=
++
+1
+
+
+{\displaystyle \vartheta _{\textrm {AK}}=+1}
+
+ will be an antikink.
+
+
+
+
+
+Traveling kink soliton represents propagating clockwise twist.[6][7]
+
+
+
+
+
+
+Traveling antikink soliton represents propagating counterclockwise twist.[6][7]
+
+
+
+
+
+2-soliton solutions[edit]
+Multi-soliton solutions can be obtained through continued application of the Bäcklund transform to the 1-soliton solution, as prescribed by a Bianchi lattice relating the transformed results.[8] The 2-soliton solutions of the sine-Gordon equation show some of the characteristic features of the solitons. The traveling sine-Gordon kinks and/or antikinks pass through each other as if perfectly permeable, and the only observed effect is a phase shift. Since the colliding solitons recover their velocity and shape such kind of interaction is called an elastic collision.
+
+
+
+
+
+Antikink-kink collision.[6][7]
+
+
+
+
+
+
+Kink-kink collision.[6][7]
+
+
+
+
+
+Another interesting 2-soliton solutions arise from the possibility of coupled kink-antikink behaviour known as a breather. There are known three types of breathers: standing breather, traveling large amplitude breather, and traveling small amplitude breather.[9]
+
+
+
+
+
+Standing breather is a swinging in time coupled kink-antikink soliton.[6][7]
+
+
+
+
+
+
+Large amplitude moving breather.[6][7]
+
+
+
+
+
+
+
+
+
+
+Small-amplitude moving breather — looks exotic but essentially has a breather envelope.[6][7]
+
+
+
+
+
+3-soliton solutions[edit]
+3-soliton collisions between a traveling kink and a standing breather or a traveling antikink and a standing breather results in a phase shift of the standing breather. In the process of collision between a moving kink and a standing breather, the shift of the breather 
+
+
+
+
+Δ
+
+
+B
+
+
+
+
+
+{\displaystyle \Delta _{\textrm {B}}}
+
+ is given by:
+
+
+
+
+
+
+Δ
+
+B
+
+
+=
+
+
+
+2
+
+
+arctanh
+
+
+
+
+(
+1
+−
+
+ω
+
+2
+
+
+)
+(
+1
+−
+
+v
+
+K
+
+
+2
+
+
+)
+
+
+
+
+1
+−
+
+ω
+
+2
+
+
+
+
+
+
+
+{\displaystyle \Delta _{B}={\frac {2{\textrm {arctanh}}{\sqrt {(1-\omega ^{2})(1-v_{\text{K}}^{2})}}}{\sqrt {1-\omega ^{2}}}}}
+
+
+
+where 
+
+
+
+
+v
+
+K
+
+
+
+
+{\displaystyle v_{\text{K}}}
+
+ is the velocity of the kink, and 
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+ is the breather's frequency.[9] If the old position of the standing breather is 
+
+
+
+
+x
+
+0
+
+
+
+
+{\displaystyle x_{0}}
+
+, after the collision the new position will be 
+
+
+
+
+x
+
+0
+
+
++
+
+Δ
+
+B
+
+
+
+
+{\displaystyle x_{0}+\Delta _{\text{B}}}
+
+.
+
+
+
+
+
+Moving kink-standing breather collision.[6][7]
+
+
+
+
+
+
+Moving antikink-standing breather collision.[6][7]
+
+
+
+
+
+FDTD (1D) video simulation of a soliton with forces[edit]
+The following video shows a simulation of two parking solitons. Both send out a pressure-speed field with different polarity. Because the end of the 1D space is not termicated symmetricly - waves are reflected.
+
+
+Play media
+
+
+Solitons according to the Sine-Gordon-Equation with forces
+
+
+Lines in the video:
+1) Cos() part of the soliton. 2) Sin() part of the soliton. 3) Angle acceleration of the soliton. 4) Pressure-Component of the field with different polarity. 5) Speed-Component of the field - direction dependent.
+Steps:
+1) Solitons send out not bound energy as waves. 2) Solitons send the p-v-field which reaches the peer. 3) Solitons begin to move. 4) They meet in the middle and annihilate. 5) Mass is spread as wave.
+Related equations[edit]
+The sinh-Gordon equation is given by[10]
+
+
+
+
+
+
+φ
+
+x
+x
+
+
+−
+
+φ
+
+t
+t
+
+
+=
+sinh
+⁡
+φ
+.
+
+
+
+{\displaystyle \varphi _{xx}-\varphi _{tt}=\sinh \varphi .\,}
+
+
+
+This is the Euler–Lagrange equation of the Lagrangian
+
+
+
+
+
+
+
+L
+
+
+=
+
+
+1
+2
+
+
+(
+
+φ
+
+t
+
+
+2
+
+
+−
+
+φ
+
+x
+
+
+2
+
+
+)
+−
+cosh
+⁡
+φ
+.
+
+
+
+{\displaystyle {\mathcal {L}}={1 \over 2}(\varphi _{t}^{2}-\varphi _{x}^{2})-\cosh \varphi .\,}
+
+
+
+Another closely related equation is the elliptic sine-Gordon equation, given by
+
+
+
+
+
+
+φ
+
+x
+x
+
+
++
+
+φ
+
+y
+y
+
+
+=
+sin
+⁡
+φ
+,
+
+
+
+{\displaystyle \varphi _{xx}+\varphi _{yy}=\sin \varphi ,\,}
+
+
+
+where 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ is now a function of the variables x and y. This is no longer a soliton equation, but it has many similar properties, as it is related to the sine-Gordon equation by the analytic continuation (or Wick rotation) y = it.
+The elliptic sinh-Gordon equation may be defined in a similar way.
+A generalization is given by Toda field theory.[11]
+Quantum version[edit]
+In quantum field theory the sine-Gordon model contains a parameter, it can be identified with Planck constant. The particle spectrum consists of a soliton, an anti-soliton and a finite (possibly zero) number of breathers. The number of the breathers depends on the value of the parameter. Multi particle productions cancels on mass shell. Vanishing of two into four amplitude was explicitly checked in one loop approximation.
+Semi-classical quantization of the sine-Gordon model was done by Ludwig Faddeev and Vladimir Korepin.[12] The exact quantum scattering matrix was discovered by Alexander Zamolodchikov. This model is S-dual to the Thirring model.
+In finite volume and on a half line[edit]
+One can also consider the sine-Gordon model on a circle, on a line segment, or on a half line. It is possible to find boundary conditions which preserve the integrability of the model. On a half line the spectrum contains boundary bound states in addition to the solitons and breathers.
+Supersymmetric sine-Gordon model[edit]
+A supersymmetric extension of the sine-Gordon model also exists. Integrability preserving boundary conditions for this extension can be found as well.
+See also[edit]
+
+Josephson effect
+Fluxon
+Shape waves
+
+References[edit]
+
+
+^ Bour E (1862). "Théorie de la déformation des surfaces". J. Ecole Imperiale Polytechnique. 19: 1–48. 
+^ Frenkel J, Kontorova T (1939). "On the theory of plastic deformation and twinning". Izvestiya Akademii Nauk SSSR, Seriya Fizicheskaya. 1: 137–149. 
+^ Rajaraman, R. (1989). Solitons and Instantons: An Introduction to Solitons and Instantons in Quantum Field Theory. North-Holland Personal Library. 15. North-Holland. pp. 34–45. ISBN 978-0-444-87047-6. 
+^ Polyanin, Andrei D.; Valentin F. Zaitsev (2004). Handbook of Nonlinear Partial Differential Equations. Chapman & Hall/CRC Press. pp. 470–492. ISBN 978-1-58488-355-5. 
+^ Dodd, Roger K.; J. C. Eilbeck; J. D. Gibbon; H. C. Morris (1982). Solitons and Nonlinear Wave Equations. London: Academic Press. ISBN 978-0-12-219122-0. 
+^ a b c d e f g h i Georgiev DD, Papaioanou SN, Glazebrook JF (2004). "Neuronic system inside neurons: molecular biology and biophysics of neuronal microtubules". Biomedical Reviews. 15: 67–75. doi:10.14748/bmr.v15.103. 
+^ a b c d e f g h i Georgiev DD, Papaioanou SN, Glazebrook JF (2007). "Solitonic effects of the local electromagnetic field on neuronal microtubules". Neuroquantology. 5 (3): 276–291. doi:10.14704/nq.2007.5.3.137. 
+^ Rogers, C.; W. K. Schief (2002). Bäcklund and Darboux Transformations: Geometry and Modern Applications in Soliton Theory. Cambridge Texts in Applied Mathematics. New York: Cambridge University Press. ISBN 978-0-521-01288-1. 
+^ a b Miroshnichenko A, Vasiliev A, Dmitriev S. Solitons and Soliton Collisions.
+^ Andrei D. Polyanin,Valentin F. Zaitsev, HANDBOOK OF NONLINEAR PARTIAL DIFFERENTIAL EQUATIONS, SECOND EDITION p485 CRC PRESS
+^ Yuanxi, Xie; Tang, Jiashi (February 2006). "A unified method for solving sinh-Gordon--type equations". Il Nuovo Cimento B. 121 (2): 115–121. Bibcode:2006NCimB.121..115X. doi:10.1393/ncb/i2005-10164-6. 
+^ Faddeev LD, Korepin VE (1978). "Quantum theory of solitons". Physics Reports. 42 (1): 1–87. Bibcode:1978PhR....42....1F. doi:10.1016/0370-1573(78)90058-3. 
+
+
+External links[edit]
+
+sine-Gordon equation at EqWorld: The World of Mathematical Equations.
+Sinh-Gordon Equation at EqWorld: The World of Mathematical Equations.
+sine-Gordon equation at NEQwiki, the nonlinear equations encyclopedia.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Local quantum field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum hadrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+Related
+
+
+
+History of quantum field theory
+Axiomatic quantum field theory
+Quantum field theory in curved spacetime
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Sine-Gordon_equation&oldid=812251759"					
+Categories: SolitonsDifferential geometrySurfacesExactly solvable modelsEquations of physicsMathematical physicsHidden categories: Articles containing video clips 

@@ -1,0 +1,373 @@
+WRNY (defunct) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For the AM radio station in Rome, New York, see WRNY (AM).
+
+
+
+
+A 1928 advertisement promoting magazines and radio station
+
+
+WRNY was an American AM radio station that operated in New York City, New York from 1925 to 1934. It was started by Hugo Gernsback's Experimenter Publishing Company to promote his radio and science magazines. It was one of the first stations to have regularly scheduled experimental television broadcast starting in August 1928. Experimenter Publishing went bankrupt in early 1929 and the station was purchased by the Curtiss Aeroplane and Motor Company to promote aviation.
+
+
+
+Contents
+
+
+1 Origins
+2 Television
+3 Homemade televisions
+4 Bankruptcy
+5 Aviation Radio
+6 See also
+7 Notes
+8 References
+9 Further reading
+10 External links
+
+
+
+Origins[edit]
+Main article: Hugo Gernsback
+
+
+
+
+Hugo Gernsback watching WRNY television as shown on the cover of the November 1928 issue of Radio News.
+
+
+Hugo Gernsback was born in Luxembourg and studied electrical engineering in Germany. In 1904 at age 20, Gernsback emigrated to America to sell his automotive battery design and to start a mail order radio and electrical components business. The Electro Importing Company catalog soon grew into a magazine, Modern Electrics. The Experimenter Publishing Company was started in 1915 and by the early 1920s was publishing Radio News, Science and Invention, and Practical Electrics magazines. Gernsback had always included fiction stories in his magazines and in 1926 launched the first magazine devoted to scientific fiction, Amazing Stories. Experimenter Publishing also published numerous technical and general interest books.[1]
+KDKA in Pittsburgh was the first commercial radio station in the United States, having made its first broadcast in November 1920. By 1925 there were over 500 broadcast stations in the United States. KDKA was operated by Westinghouse Electric to help sell radio receivers. In addition to radio equipment manufacturers, many publishers were starting stations. Experimenter Publishing applied for and was granted a radio station license to transmit at 1160 kHz with the call sign WRNY. Over the next three years they would use 800 kHz, 1070 kHz, 970 kHz, 920 kHz and finally 1010 kHz. Its state of the art studio was in a hotel room on the 18th floor of the Roosevelt Hotel in New York City and the 500 watt transmitter located on the hotel roof.[2] The first broadcast was on June 12, 1925, and was covered by The New York Times. The opening speaker was former Senator Chauncey Depew followed by the "father of radio", Lee De Forest. The evening concluded with two hours of live musical entertainment.[3] Experimenter Publishing used the radio station and the magazines to promote each other. Radio interviews with scientists or other radio notables would be reprinted in the magazines. Projects or articles from Gernsback's magazines would be discussed on WRNY. The station call letters, WRNY, appeared on each magazine cover.
+
+
+
+
+WRNY and 2XAL transmitter site
+
+
+By 1927 there were over fifty radio stations and 1.5 million radio sets in the New York metropolitan area. There were so many stations it was common for stations to share the same frequency at different times during the day.[2] Early radio receivers were not very selective and there were frequent disputes over interference between stations with adjacent frequencies. The Radio Act of 1912 did not mention broadcasting and it was not clear who controlled radio stations, the states or the federal government. In November 1926, WRNY (800 kHz) moved its transmitter from the Roosevelt Hotel to Coytesville, New Jersey (across the Hudson River from Manhattan). Radio station WHN (830 kHz) claimed this blocked their signal and alleged WRNY was a "pirate" broadcaster.[4] In 1927 the Federal Radio Commission was established with the authority to regulate broadcast stations. The commission formulated new frequency allocations that went into effect on June 15, 1927; WRNY and WPCH had to share time on 920 kHz.[2]
+The AM band radio transmitters used around New York City at this time were typically 500 or 1000 watts. To serve a larger area, station would also have a shortwave transmitter. In 1927, WRNY started the shortwave station 2XAL (later W2XAL) at 9700 kHz.[5] This 500 watt station could be heard for thousands of miles. In September 1928, Hugo Gernsback wrote about a listener in New South Wales, Australia.[6]
+Television[edit]
+Hugo Gernsback first wrote about television in the December 1909 issue of Modern Electrics and had reported on the technical advances in his magazines. By 1925 mechanical scanning television systems were becoming available with resolutions of up to 60 scan lines.[7] Vladimir K. Zworykin and Philo Farnsworth were developing electronic scanning systems that were the precursors of modern television but these would not be available for another decade.
+WRNY was the second to broadcast television pictures to the general public, after W3XK in Washington, D.C., and was preceded by several attempts to broadcast television pictures. In 1927 AT&T had demonstrated a system that sent television images and sound over telephone lines.[8] The General Electric Research Laboratory in Schenectady NY was sending experimental television over their shortwave radio station in early 1928.[9] Westinghouse had a system that would broadcast motion pictures.[10] Several other laboratories were also conducting experiments and demonstrations.[11]
+
+
+
+
+Block diagram of mechanical scan television system.
+
+
+
+The television camera would use a spinning disk with a spiral of holes to sweep a narrow beam of light on the subject. The reflected light would be picked up by a photoelectric cell whose electrical output would vary with the intensity of the light. This system was often called a "flying spot scanner". The early photoelectric cells were not very sensitive, so three or four would be used with the subject in a darkened booth. Another reason for multiple cells is even pickup of reflected light from the subject. The cell array includes cells in a window formation: One or more cells above, below and on each side of the subject.
+The television receiver would use the output of the photoelectric cell to drive a neon lamp. When the photoelectric cell was detecting a bright spot, the neon lamp would be bright. The receiver also had a scanning disk with the same hole-pattern as the camera and it spun at the same speed. The result was a small neon orange image (two inch diagonal) of the remote subject.
+
+
+
+
+The Pilot "televisor" used at WRNY
+
+
+In April 1928, Pilot Electric Manufacturing and WRNY announced that television broadcast would begin that fall. Pilot would provide the transmitting equipment. Pilot also sold the receivers but Experimenter Publishing magazines provided complete plans that allowed readers to build their own television.[12] The system used by WRNY had 48 scan lines with 7.5 frames per second. The image was about 1.5 inches square. This low resolution picture (without sound) could be transmitted in the 5 kHz audio bandwidth of an AM radio station. The experimental stations on the shortwave bands could use a 15 kHz bandwidth for a higher quality image. When commercial television broadcasting began in the 1940s, television stations were allotted a 6 MHz bandwidth. High definition televisions state their display resolution as 720p or 1080i; this early experimental television was a low definition 48p display.
+
+
+
+
+Giant photoelectric cells. Their cost was "rather staggering".
+
+
+The television equipment WRNY used was designed by Pilot Electric's chief engineer, John Geloso. It was similar to the system designed by Uilses A. Sanabria that was used in a demonstration on WCFL in Chicago in June 1928. Both systems used photoelectric cells made by Lloyd Preston Garner; a researcher at the University of Illinois at Urbana Champaign.[13] A September 1928 Radio News article about these photoelectric cells noted "their cost is rather staggering".[14]
+On August 12, 1928, the television equipment was moved from Pilot's Brooklyn laboratory to the WRNY transmitter house at Coytesville, NJ. A television receiver was set up a quarter of a mile away. The first subject televised was John Geloso's wife. The test ran from 5:43 PM to 6:30 with John Geloso and WRNY station engineer, John Maresca, also taking turns in front of the camera. A second test was conducted at 11 PM.[15] The New York Times reported this successful test and said the regularly scheduled broadcast would start on August 13. Technical problems delayed this until August 21.[16] The receiver was moved to Hugo Gernsback's Manhattan apartment on Riverside Drive about 5 miles from the transmitter. At 10 PM on August 14, John Geloso turned on the set and viewed an image of his wife sitting before the camera in Coytesville. There were problems with synchronizing the spinning disk but a clear image could be seen for six or seven seconds at a time.[17]
+The "Today on the radio" section of the August 21, 1928, edition of The New York Times showed 9 television programs on the schedule for WRNY.[18] That night, the first public demonstration of WRNY television was held in Philosophy Hall at New York University to an audience of radio engineers, scientist and newspaper reporters. About 500 people passed before the television to see the image of Mrs. Geloso: "Mrs. Geloso closed her eyes, opened and closed her mouth and moved side to side. The images were about one and one-half inches square, but were magnified by a lens to twice that size."[19]
+Homemade televisions[edit]
+
+
+
+
+Home made television
+
+
+On July 4, 1928, The New York Times reported that in the past two weeks WRNY has received more than 2000 letters requesting more information about the television broadcast. Hugo Gernsback said "The letters have come alike from radio listeners, wireless experimenters and home set builders who wish construction details about the apparatus required to intercept the television broadcast."[20]
+Television on the shortwave bands could be received in New York City in early 1928 and Experimenter Publishing's magazines had been printing detailed descriptions of television receivers since 1927. The specialized parts to build a television were available that August. A New Jersey radio supply company, Daven, sold a complete television receiver kit for $100; the scanning disk was $10 and the neon bulb was $11.50.[21] Raytheon advertised their "Kino-Lamp" and "Foto-Cell" for engineers and amateurs building televisions.[22] The complexity of the television was typical of the construction projects published in Radio News every month so some experimenters had a set ready for the early August broadcast. The publication of detailed plans for the WRNY receiver in October would have increased the number of built sets. The number of home televisions in 1928 is unknown. Hugo Gernsback estimated that the New York area had around 2000 television receivers.[15]
+The November 1928 issues (on the newsstand October 10) of Science and Invention [23] and Radio News [24] had detailed plans for building a television. The WRNY homemade television receiver consists of a modified TRF radio receiver. For WRNY, this would be an AM receiver. For other TV stations of the day, this would be a shortwave set. After the detector stage, the receiver requires a three-tube TV adapter. This adapter consists of a resistance-coupled preamplifier and a power amplifier. The power amplifier drives the neon lamp. A typical adapter has two preamplifier stages and one power amplifier stage. The adapter drives a neon lamp and a 24-inch Bakelite disk. The disk has 48 holes in a spiral pattern. The neon bulb mounts behind the disk and replaces the radio loudspeaker.
+To yield 7.5 image frames per second, the disk must spin at 450 rpm. A household fan motor revolves the disc. An external, variable resistor controls the motor speed. The man on the cover is adjusting scanning wheel speed with a 125-hertz tuning fork. He looks through the vibrating tuning fork at the line pattern on the hub. A stationary pattern indicates that the wheel has arrived at 450 RPM. The proper speed isn't the only requirement. The receiver disk must also match the angular position of the TV station's scanner disk. Until both disks align, the viewer presses a button that momentarily boosts the receiving disk speed. (Note: Most mechanical TV stations used scanners instead of cameras to pick up the talent.)
+
+
+
+
+The three vacuum tubes (V1, V2 and V3) amplified the radio output to drive the neon lamp. The variable resistors (R6 and R7) controlled the motor speed. The switch would boost the speed of the disk to synchronize it with the camera.
+
+
+
+
+
+
+
+Complete television receiver connected to an ordinary radio
+
+
+With homemade sets, maintaining synchronization is a major concern. A homemade receiver with a fan ("universal") motor requires the viewer to manually sync the picture. The scanner at the TV studio uses a synchronous motor. With the same type synchronous motor, the receiver is far easier to keep in step. Both the studio scanner and the home set must run off power from the same AC power grid. With synchronous motors on the same grid, receiver sync is automatic. The user must then only frame the picture. Hugo Gernsback warns potential viewers that this early television is for experimenters and "radio bugs." He says that TV isn't for the general public.
+The Federal Radio Commission was concerned about television broadcast in the AM radio band and the possible interference with other broadcasts. On November 2, 1928, the FRC limited television broadcast to shortwave stations above 1500 kHz. The broadcast would be limited to a 10 kHz bandwidth and for periods of not more than one hour per day. They were not allowed between 6 PM and 11 PM. The commission would review television broadcasting in January 1929.[25][26]
+Bankruptcy[edit]
+Main article: Experimenter Publishing § Bankruptcy
+By 1927 the expenses exceeded the income of the Experimenter Publishing Company. The printer and paper supplier were each owed over $150,000. The radio station had advertising revenue but it did not cover large investment in the new transmitter facility in New Jersey and the television equipment. WRNY lost $42,000 in 1927 and $39,000 in 1928.[27]
+On February 20, 1929, an involuntary petition in bankruptcy was filed against the Experimenter Publishing Company. The total liabilities were estimated at $600,000 and assets at $182,000. A federal bankruptcy judge appointed the Irving Trust Company as the receiver.[28] Irving Trust kept the magazines and radio station operating but removed Hugo Gernsback and his brother Sidney from the company. The bankruptcy was not contested and the magazines and radio stations were sold. The bankruptcy proceedings were enthusiastically covered in the news and gossip columns of the New York City press.[29]
+The final bids were accepted at a hearing on April 3, 1929. Two publishers, Bernarr Macfadden and B. A. MacKinnon were the leading bidders. MacKinnon prevailed and paid $500,000 for the magazines. The radio stations were sold in a separate auction. Attorneys for newspaper publisher William R. Hearst and Curtiss Aircraft president C. M. Keys got into a bidding war for the radio stations. When the bid reached $100,000, a recess was called to allow one attorney to try to reach Hearst in California. He was unsuccessful and the Curtiss Aircraft bid won.[30]
+Aviation Radio[edit]
+The day after the bankruptcy auction, the Aviation Radio Station, Inc. was formed to take over the WRNY radio stations. C. M. Keys, president of the Curtiss Aeroplane and Motor Company, provided the financial backing for the new company. Chester Cuthell, the attorney who was at the auction, was the president and Walter Lemmon was the general manager. The goal of the station was to promote aviation.[31] The Federal Radio Commission had to approve station license transfer and any changes to the station. Mr. Cuthell asked the commission for more frequencies as he said that he and his partners had up to $2,000,000 dollars to spend on the stations. The commission approved the license transfers and improvements to the existing stations.
+In August 1929 Aviation Radio moved the studios from the Roosevelt Hotel to 27 West Fifty-Seventh Street. They also installed a new 1000 watt transmitter with automatic frequency control and new speech amplifiers at their plant in Coytesville NJ. These upgrades improved the range and sound quality of their broadcast.[32] The short wave station, 2XAL, increased its power to 15,000 watts.The radio stations format was changed; the Jazz music was prohibited and replaced with presentations devoted to aviation and aviators. On a show about women aviators, Amelia Earhart recounted her recent transcontinental flight. The station gave hourly weather reports of aviators.
+After 1928 WRNY was at 1010 kHz and shared the frequency with 3 other stations. This was a typical broadcast schedule: WRNY started at 10:00 AM, WHN followed at 1:30 PM, WPAP followed at 7:00 PM, and finally WRNY closed out the broadcast day from 9:30 PM to midnight.[33] WQAO, owned by the Calvary Baptist Church, broadcast three programs on Sunday and one on Wednesday.
+The owner of WHN, Metro-Goldwyn-Mayer, bought the other stations in 1933 and WHN used 1010 kHz full-time starting in January 1934.[34] Just prior to World War II, WHN installed a 50,000 watt directional transmitter to serve the New York metropolitan region and moved to 1050 kHz. After the war, under Loews, Inc. ownership, the station's call letters were later changed to WMGM.[2] During the 1950s WMGM was a pioneer "top 40" personality station, but struggled in the early 1960s as it faced competition for the hit music audience from WMCA and eventual market leader WABC (AM). It changed back to WHN in the 1960s under middle-of-the-road and later country formats, and in the 1990s became progressive talk station WEVD. The station was acquired in recent years by the Disney organization, which has made it the flagship of the all-sports ESPN radio network under the current callsign WEPN.
+See also[edit]
+
+November 1928 Radio News article on first broadcast
+List of experimental television stations
+Mechanical television
+History of television
+
+Notes[edit]
+
+In the 1920s, a listing of broadcast stations in a magazine or newspaper would use wavelength instead of frequency to specify a station's location on the radio dial. The advertising logo for WRNY shows both, 326 meters and 920 kilocycles. The public was slow to adopt the new "kilocycle" terminology because they could relate to wavelengths. A radio station's antenna was a one-half wavelength long wire between two masts.[35] The unit kilocycle (kc.) was replaced by kilohertz (kHz) in the 1960s.
+
+References[edit]
+
+
+^ Massie, Keith; Perry, Stephen D. (2002). "Hugo Gernsback and radio magazines: An influential intersection in broadcast history" (PDF). Journal of Radio Studies. 9 (2): 264–281. 
+^ a b c d Jaker, Bill; Frank Sulek; Peter Kanze (May 1998). The Airwaves of New York: Illustrated Histories of 156 AM Stations in the Metropolitan Area, 1921–1996. McFarland. pp. 9, 174. ISBN 978-0-7864-0343-1. 
+^ "Depew Opens WRNY, New Radio Station". The New York Times. June 13, 1925. p. 15. 
+^ "WHN Says It Will Sue WRNY as 'Pirate'; Gives Hylan Case in Wave Length Dispute". The New York Times. November 27, 1926. p. 19. 
+^ "Short-Wave Broadcasters". The New York Times. November 13, 1927. p. 18. 
+^ Gernsback, Hugo (September 1928). "The Short-Wave Era". Radio News. 10 (3): 201. 
+^ Fournier, Lucien (March 1924). "Television by the Belin System". Practical Electrics. 3 (5): 244–246. 
+^ "History of AT&T and Television". 2008. Retrieved August 6, 2008. 
+^ "Practical Television". Time. Vol. 11 no. 4. January 23, 1928. Retrieved August 3, 2008.  General Electric Television Demonstration.
+^ "Radio Cinema". Time. Vol. 12 no. 8. August 20, 1928. Retrieved August 3, 2008.  Westinghouse Television Movie Demonstration on KDKA.
+^ "Visual Broadcasting". Time. Vol. 12 no. 9. August 27, 1928. Retrieved August 3, 2008. 
+^ "Television For All Planned This Fall". The New York Times. April 23, 1928. p. 18. 
+^ "IDEALS". University of Illinois at Urbana-Champaign. 2008. hdl:2142/4413.  Missing or empty |url= (help) Paper on photoelectric cells by Lloyd Preston Garner
+^ "Giant Photoelectric Cell for WRNY'S Television Transmitter". Radio News. 10 (3): 221. September 1928. 
+^ a b "WRNY to Start Daily Television Broadcasts; Radio Audience Will See Studio Artists". The New York Times. August 13, 1928. p. 13. 
+^ "WRNY Television Delayed". The New York Times. August 15, 1928. p. 27.  This story said broadcast has been postponed until Friday (August 17). It turned out to be Tuesday (August 21).
+^ Hertzberg, Robert (November 1928). "Successful Television Programs Broadcast by Radio News Station WRNY". Radio News. 10 (5): 412–415. 
+^ "Today on the radio". The New York Times. August 21, 1929. p. 29. 
+^ "Television on WRNY Wave". The New York Times. August 21, 1929. p. 10. 
+^ "Interest Increasing In Radio Television: Station WRNY Report Flood of Inquiries on Construction of Receiving Apparatus". The New York Times. July 4, 1928. p. 14. 
+^ Daven Corporation (September 1928). "Build a Daven Television Receiver". Radio News. 10 (3): 280.  The September issue was on the newsstand on August 10, 1928. Advertisement for the Daven Corporation, Newark NJ
+^ Raytheon Manufacturing (September 1928). "Television is Here". Radio News. 10 (3): 281.  Raytheon advertisement
+^ "How to Build the S & I Television Receiver". Science and Invention. 16 (7): 618–620, 632–636. November 1928. 
+^ "How to Make Your Own Television Receiver". Radio News. 10 (5): 422–425, 466. November 1928. 
+^ Hertzberg, Robert (January 1929). "Television: The Latest Developments in the Field". Radio News. 10 (6): 630.  FRC limits television in AM broadcast band.
+^ "To Stop Television In Broadcast Band". The New York Times. December 23, 1928. p. 15. 
+^ Perry, Tom (May 1978). "An Amazing Story: Experiment in Bankruptcy". Amazing Science Fiction. 51 (3): 101–121.  The actual amounts from the court records were $41,733.73 and $39,409.05
+^ "Radio News Publisher In Hands Of Receiver". The New York Times. February 21, 1929. p. 36. 
+^ "Curtis Follows Hearst. Bankruptcy de luxe". Time. April 8, 1929. Retrieved July 31, 2008. 
+^ "To Pay 95% Of Debts In $600,000 Failure". The New York Times. April 4, 1929. p. 22. 
+^ "WRNY Taken Over By New Interests: Aviation Radio Station, Inc. Is Formed". The New York Times. April 19, 1929. p. 36. 
+^ "Wire Work To Keep WRNY Off Air Today: New Transimitter Will Be in Use by End of Week - Studio to Move on Labor Day". The New York Times. August 21, 1929. p. 32. 
+^ "Today on the radio". The New York Times. November 14, 1929. p. 37. 
+^ "Radio Stations Merge". The New York Times. January 11, 1934. p. 22. 
+^ "Why Kilocycles? – A Short Explanation". Radio News. Experimenter Publishing. 9 (2): 112, 182. August 1927. 
+
+
+Further reading[edit]
+
+Banks, Michael A. (September 3, 2004). "Hugo Gernsback: The man who invented the future. Part 1. The early days". The Citizen Scientists. Society for Amateur Scientists. Archived from the original on December 29, 2006. Retrieved January 19, 2012.  part 2 and part 3
+Massie, K. & Perry, S. (2002). "Hugo Gernsback and radio magazines: An influential intersection in broadcast history" (PDF). Journal of Radio Studies. 9 (2): 264–281. Retrieved September 8, 2016. 
+
+External links[edit]
+
+A simulation of the 1927 AT&T television system.
+MZTV Museum of Television. See a Daven Television Receiver
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Television in New York City and the Tri-State Region
+
+
+
+
+Reception may vary by location and some stations may only be viewable with cable television
+Network O&Os are in bold
+
+
+
+Full-power stations
+
+
+
+WCBS-TV (2.1 CBS, 2.2 Decades)
+WNBC (4.1 NBC, 4.2 Cozi)
+WNYW (5.1 / 9.2 Fox, 5.2 Movies!, 5.4 Light TV)
+WABC-TV (7.1 ABC, 7.2 Live Well HD, 7.3 Laff)
+WWOR-TV (9.1 / 5.3 MyNetworkTV, 9.3 Buzzr, 9.4 H&I)
+WPIX (11.1 The CW, 11.2 Antenna TV, 11.3 This TV)
+WPXN-TV (31.1 Ion, 31.2 Qubo, 31.3 Ion Life, 31.4 Ion Shop, 31.5 QVC Over Air, 31.6 HSN)
+WJLP (33.1 MeTV, 33.2 Laff, 33.3 Escape, 33.4 Grit, 33.10 Weather, 33.11 WKMK audio, 33.12, WBBO audio, 33.13 WWZY audio, 33.14 WHTG audio)
+WXTV-DT/ WFTY-DT (41.1/67.2 UNI, 41.2/67.3, UniMásvia WFUT, 41.3 Bounce, 41.4 Grit, 67.1 Justice, 67.4GetTV, 67.5 Escape)
+WZME (43.1 Sonlife, 43.2 CNC World, 43.3 Comet, 43.4 Charge!)
+WNJU (47.1 TMD, 47.2 TeleXitos)
+WRNN-TV (48.1 Ind, 48.2 Stadium, 48.3 Arirang TV, 48.4 NHK World)
+WTBY-TV (54.1 TBN, 54.2 Hillsong. 54.3 JUCE TV/Smile), 54.4 Enlace, 54.5 TBN Salsa)
+WLNY-TV (55.1 IND)
+WMBC-TV (63.1 Ind, 63.2 CGTN, 63.3 NTDT, 63.4 Aliento, 63.5 WDNJ audio, 63.6 KCBN audio
+WFUT-DT (68.1 UniMás, 68.2 Univision via WXTV, 68.3 Escape, 68.4 GetTV, 68.5 Justice)
+
+
+
+
+
+Public television
+stations
+
+
+
+WNET (13.1 PBS, 13.2 Kids, 13.3 Biz)
+WLIW (21.1 PBS, 21.2 Create, 21.3 World)
+WNYE-TV (25.1 Educ. Ind, 25.2 NYC gov, 25.3 CUNY TV)
+WEDW (49.1 PBS / CPTV, 49.3 CPTV Spirit)
+WNJN/WNJB (50.1/58.1 PBS / NJTV, 50.2/58.2 NHK World)
+
+
+
+
+
+Low power stations
+
+
+
+WEPT-CD (15.1 AMGTV, Newburgh)
+WEBR-CD (17.1 Universal affiliates network, 17.3 EICB)
+WDVB-CD (23.1 ZUUS Country, 23.2 SSN, 23.3 SonLife)
+WASA-LD 24.1/24.4 (Estrella TV, 24.2 ICN, 24.3 SinoVision english, 24.4 SinoVision (in Chinese))
+W26CE (26) color bars
+WXNY-LD/WNXY-LD (32.1/43.1 CGTN, 32.2/43.2 CCTV-4, 32.3/43.3CGTN Spanish, 32.4/43.4 Rev'n, 32.5/43.5 Retro TV, 32.6/43.6 Infomercials)
+WPXO-LD 34.1 (América Tevé)
+WNYN-LD 39.1 (AZA)
+WKOB-LD (42.1 IQRA TV, 42.2 (DS, 42.3 Peace TV, 42.5 Sonlife 42.6 (Almavision)
+WVVH-CD (50.1 Yootoo, East Hampton)
+WBQM-LD (51.1 Spanish Independent, 51.2 LATV 51.3 COR)
+W41DO-D (60.1 HSN, 60.2 HSN 2)
+
+
+
+
+
+Audio stations
+
+
+
+WNYZ-LP 6 (Ind/Radio)
+
+
+
+
+
+Local cable channels
+
+
+
+BronxNet
+BCAT
+Caribbean International Network
+FiOS1
+MNN
+MSG
+MSG Plus
+NET
+News 12 Networks
+NY1
+NY1 Noticias
+NY1 Rail and Road
+nyctv
+Queens Public Television
+SportsNet New York
+Staten Island Community Television
+Telecare
+YES Network
+
+
+
+
+
+Defunct
+
+
+
+MSG Metro Channels
+New Jersey Network (PBS)
+WMBQ-CD 46
+WMUN-CD 45
+WNYJ-TV 66
+WRNY
+WWPS-LP 9
+WWOR EMI Service
+KC2XAK (NBC, Bridgeport, UHF/experimental)
+
+
+
+
+
+
+
+
+
+New York State television
+Albany/Schenectady
+Binghamton
+Buffalo
+Burlington/Plattsburgh
+Elmira
+New York City
+Rochester
+Syracuse
+Utica
+Watertown
+
+
+
+
+Pennsylvania broadcast television
+Binghamton, New York
+Buffalo, New York
+Elmira, New York
+Erie
+Johnstown/Altoona/State College
+New York City
+Philadelphia
+Pittsburgh
+Scranton/Wilkes-Barre
+Susquehanna Valley (Harrisburg)
+Washington, DC
+Youngstown, Ohio
+
+
+
+See also
+Hartford/New Haven
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=WRNY_(defunct)&oldid=808929042"					
+Categories: Experimental television stationsHistory of television in the United StatesTelevision pioneersTelevision stations in New York CityHidden categories: Pages using web citations with no URLArticles with Chinese-language external links 

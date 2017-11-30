@@ -1,0 +1,35 @@
+Covariant classical field theory - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematical physics, covariant classical field theory represents classical fields by sections of fiber bundles, and their dynamics is phrased in the context of a finite-dimensional space of fields. Nowadays, it is well known that[citation needed] jet bundles and the variational bicomplex are the correct domain for such a description. The Hamiltonian variant of covariant classical field theory is the covariant Hamiltonian field theory where momenta correspond to derivatives of field variables with respect to all world coordinates. Non-autonomous mechanics is formulated as covariant classical field theory on fiber bundles over the time axis ℝ.
+See also[edit]
+
+Classical field theory
+Exterior algebra
+Lagrangian system
+Variational bicomplex
+Quantum field theory
+Non-autonomous mechanics
+Higgs field (classical)
+
+References[edit]
+
+Saunders, D.J., "The Geometry of Jet Bundles", Cambridge University Press, 1989, ISBN 0-521-36948-7
+Bocharov, A.V. [et al.] "Symmetries and conservation laws for differential equations of mathematical physics", Amer. Math. Soc., Providence, RI, 1999, ISBN 0-8218-0958-X
+De Leon, M., Rodrigues, P.R., "Generalized Classical Mechanics and Field Theory", Elsevier Science Publishing, 1985, ISBN 0-444-87753-3
+Griffiths, P.A., "Exterior Differential Systems and the Calculus of Variations", Boston: Birkhäuser, 1983, ISBN 3-7643-3103-8
+Gotay, M.J., Isenberg, J., Marsden, J.E., Montgomery R., Momentum Maps and Classical Fields Part I: Covariant Field Theory, November 2003
+Echeverria-Enriquez, A., Munoz-Lecanda, M.C., Roman-Roy,M., Geometry of Lagrangian First-order Classical Field Theories, May 1995
+Giachetta, G., Mangiarotti, L., Sardanashvily, G., "Advanced Classical Field Theory", World Scientific, 2009, ISBN 978-981-283-895-7 (arXiv: 0811.0331v2)
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Covariant_classical_field_theory&oldid=783598494"					
+Categories: Differential topologyDifferential equationsFiber bundlesTheoretical physicsLagrangian mechanicsHidden categories: All articles with unsourced statementsArticles with unsourced statements from February 2016 

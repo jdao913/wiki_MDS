@@ -1,0 +1,64 @@
+Global analysis - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, global analysis, also called analysis on manifolds, is the study of the global and topological properties of differential equations on manifolds and vector bundles.[1][2] Global analysis uses techniques in infinite-dimensional manifold theory and topological spaces of mappings to classify behaviors of differential equations, particularly nonlinear differential equations.[3] These spaces can include singularities and hence catastrophe theory is a part of global analysis. Optimization problems, such as finding geodesics on Riemannian manifolds, can be solved using differential equations so that the calculus of variations overlaps with global analysis. Global analysis finds application in physics in the study of dynamical systems[4] and topological quantum field theory.
+
+
+
+Contents
+
+
+1 Journals
+2 See also
+3 References
+4 Further reading
+
+
+
+Journals[edit]
+
+Annals of Global Analysis and Geometry
+The Journal of Geometric Analysis
+
+See also[edit]
+
+Atiyah–Singer index theorem
+Geometric analysis
+Lie groupoid
+Pseudogroup
+Morse theory
+Structural stability
+Harmonic map
+
+References[edit]
+
+
+
+^ Smale, S. (January 1969). "What is Global Analysis". American Mathematical Monthly. 76 (1): 4–9. doi:10.2307/2316777. 
+^ Richard S. Palais (1968). Foundations of Global Non-Linear Analysis (PDF). W.A. Benjamin, Inc. 
+^ Andreas Kriegl and Peter W. Michor (1991). The Convenient Setting of Global Analysis (PDF). American Mathematical Society. pp. 1–7. ISBN 0-8218-0780-3. 
+^ Marsden, Jerrold E. (1974). Applications of global analysis in mathematical physics. Berkeley, CA.: Publish or Perish, Inc. p. Chapter 2. ISBN 0-914098-11-X. 
+
+
+
+Further reading[edit]
+
+Find more aboutGlobal analysisat Wikipedia's sister projects
+
+Quotations from Wikiquote
+
+
+
+Mathematics 241A: Introduction to Global Analysis
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Global_analysis&oldid=800970618"					
+Categories: Mathematical analysisManifoldsDifferential equations 

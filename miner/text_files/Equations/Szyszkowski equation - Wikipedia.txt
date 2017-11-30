@@ -1,0 +1,486 @@
+Szyszkowski equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Szyskowski Equation[1] has been used by Meissner and Michaels[2] to describe the decrease in surface tension of aqueous solutions of carboxylic acids, alcohols and esters at varying mole fractions. It describes the exponential decrease of the surface tension at low concentrations reasonably but should be used only at concentrations below 1 mole%.[3]
+
+
+
+Contents
+
+
+1 Equation
+2 Parameters
+3 Example
+4 See also
+5 References
+
+
+
+Equation[edit]
+
+
+
+
+
+
+σ
+
+m
+
+
+=
+
+σ
+
+w
+
+
+
+(
+1
+−
+0.411
+log
+⁡
+
+(
+1
++
+
+
+x
+a
+
+
+)
+
+)
+
+
+
+{\displaystyle \sigma _{m}=\sigma _{w}\left(1-0.411\log \left(1+{\frac {x}{a}}\right)\right)}
+
+
+
+with:
+
+σm is surface tension of the mixture
+σw is surface tension of pure water
+a is component specific constant (see table below)
+x is mole fraction of the solvated component
+
+The equation can be rearranged to be explicit in a:
+
+
+
+
+
+
+
+
+
+a
+
+
+
+=
+
+
+x
+
+10
+
+
+(
+−
+1
++
+
+
+
+
+
+
+σ
+
+m
+
+
+
+σ
+
+w
+
+
+
+
+−
+1
+
+
+−
+0.411
+
+
+
+)
+
+
+
+
+
+
+
+
+
+
+
+=
+x
+
+10
+
+
+(
+1
++
+
+
+
+
+
+
+σ
+
+m
+
+
+
+σ
+
+w
+
+
+
+
+−
+1
+
+0.411
+
+
+)
+
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}a&={\frac {x}{10^{\left(-1+{\frac {{\frac {\sigma _{m}}{\sigma _{w}}}-1}{-0.411}}\right)}}}\\&=x10^{\left(1+{\frac {{\frac {\sigma _{m}}{\sigma _{w}}}-1}{0.411}}\right)}\end{aligned}}}
+
+
+
+This allows the direct calculation of that component specific parameter a from experimental data.
+The equation can also be written as:
+
+
+
+
+
+γ
+=
+
+γ
+
+0
+
+
+−
+
+
+
+R
+T
+
+ω
+
+
+ln
+⁡
+(
+1
++
+
+K
+
+a
+d
+
+
+c
+)
+
+
+{\displaystyle \gamma =\gamma _{0}-{\frac {RT}{\omega }}\ln(1+K_{ad}c)}
+
+
+
+with:
+
+γ is surface tension of the mixture
+γ0 is surface tension of pure water
+R is ideal gas constant 8.31 J/(mol*K)
+T is temperature in K
+ω is cross-sectional area of the surfactant molecules at the surface
+
+The surface tension of pure water is dependent on temperature. At room temperature (298 K), it is equal to 71.97 mN/m [4]
+Parameters[edit]
+Meissner and Michaels published the following a constants:
+
+Szyszkowski Equation Constants
+
+Compound
+a.104
+Compound
+a.104
+
+
+Propionic acid
+26
+n-Propyl alcohol
+26
+
+
+Isopropyl alcohol
+26
+Methyl acetate
+26
+
+
+n-Propyl amine
+19
+Methyl ethyl ketone
+19
+
+
+n-Butyric acid
+7
+Isobutyric acid
+7
+
+
+n-Butyl alcohol
+7
+Isobutyl alcohol
+7
+
+
+Propyl formate
+8.5
+Ethyl acetate
+8.5
+
+
+Methyl propionate
+8.5
+Diethyl ketone
+8.5
+
+
+Ethyl propionate
+3.1
+Propyl acetate
+3.1
+
+
+n-Valeric acid
+1.7
+Isovaleric acid
+1.7
+
+
+n-Amyl alcohol
+1.7
+Isoamyl alcohol
+1.7
+
+
+Propyl propionate
+1.0
+n-Caproic acid
+0.75
+
+
+n-Heptanoic acid
+0.17
+n-Octanoic acid
+0.034
+
+
+n-Decanoic acid
+0.0025
+
+
+Example[edit]
+The following table and diagram show experimentally determined surface tensions in the mixture of water and propionic acid.
+
+
+
+
+Surface Tension of Propionic Acid solved in Water[5]
+
+xAcid [mol/mol]
+xWater [mol/mol]
+σ [mN/m]
+T [K]
+a.104
+
+
+1(Pure Acid)
+0
+26.68
+293.15
+298.
+
+
+0.18229
+0.81771
+33.08
+293.15
+90.7
+
+
+0.17102
+0.82898
+33.15
+293.15
+85.6
+
+
+0.1494
+0.8506
+33.54
+293.15
+77.2
+
+
+0.12803
+0.87197
+34.18
+293.15
+69.7
+
+
+0.10947
+0.89053
+34.56
+293.15
+61.4
+
+
+0.0869
+0.9131
+35.3
+293.15
+51.8
+
+
+0.0747
+0.9253
+35.77
+293.15
+46.3
+
+
+0.06602
+0.93398
+36.43
+293.15
+43.2
+
+
+0.05436
+0.94564
+38.51
+293.15
+42.2
+
+
+0.0455
+0.9545
+40.07
+293.15
+40.3
+
+
+0.03268
+0.96732
+42.34
+293.15
+35.1
+
+
+0.02075
+0.97925
+46.78
+293.15
+32.8
+
+
+0.01457
+0.98543
+50.17
+293.15
+31.4
+
+
+0.00861
+0.99139
+53.61
+293.15
+25.9
+
+
+0
+1(Pure Water)
+72.58
+293.15
+
+
+
+
+  
+
+
+
+This example shows a good agreement between the published value a=2.6*10−3 and the calculated value a=2.59*10−3 at the smallest given mole fraction of 0.00861 but at higher concentrations of propionic acid the value of an increases considerably, showing deviations from the predicted value.
+See also[edit]
+
+Bohdan Szyszkowski
+
+References[edit]
+
+
+
+^ B. von Szyszkowski, Z. physik. Chemie, 64, 385 (1908)
+^ H.P. Meissner, A.S. Michaels, Surface Tension s of Pure Liquids and Liquid Mixtures", Ind. Eng. Chem., 41(12), 2782, (1949)
+^ Bruce E. Poling, John M. Prausnitz, John P. O’Connell, The Properties of Gases and Liquids, 5th Edition
+^ NIST Chemistry WebBook http://webbook.nist.gov/chemistry/
+^ Suarez F., Romero C.M., J.Chem.Eng.Data, 56(5), 1778-1786, 2011
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Szyszkowski_equation&oldid=682924631"					
+Categories: Fluid mechanicsSurface scienceThermodynamic equations 

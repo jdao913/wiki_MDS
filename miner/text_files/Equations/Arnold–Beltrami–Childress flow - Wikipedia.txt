@@ -1,0 +1,184 @@
+Arnold–Beltrami–Childress flow - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Arnold–Beltrami–Childress (ABC) flow or Gromeka–Arnold–Beltrami–Childress (GABC) flow is a three-dimensional incompressible velocity field which is an exact solution of Euler's equation. Its representation in Cartesian coordinates is the following:[1][2]
+
+
+
+
+
+
+
+
+x
+˙
+
+
+
+=
+A
+sin
+⁡
+z
++
+C
+cos
+⁡
+y
+,
+
+
+{\displaystyle {\dot {x}}=A\sin z+C\cos y,}
+
+
+
+
+
+
+
+
+
+y
+˙
+
+
+
+=
+B
+sin
+⁡
+x
++
+A
+cos
+⁡
+z
+,
+
+
+{\displaystyle {\dot {y}}=B\sin x+A\cos z,}
+
+
+
+
+
+
+
+
+
+z
+˙
+
+
+
+=
+C
+sin
+⁡
+y
++
+B
+cos
+⁡
+x
+,
+
+
+{\displaystyle {\dot {z}}=C\sin y+B\cos x,}
+
+
+
+where 
+
+
+
+(
+
+
+
+x
+˙
+
+
+
+,
+
+
+
+y
+˙
+
+
+
+,
+
+
+
+z
+˙
+
+
+
+)
+
+
+{\displaystyle ({\dot {x}},{\dot {y}},{\dot {z}})}
+
+ is the material derivative of the Lagrangian motion of a fluid parcel located at 
+
+
+
+(
+x
+(
+t
+)
+,
+y
+(
+t
+)
+,
+z
+(
+t
+)
+)
+.
+
+
+{\displaystyle (x(t),y(t),z(t)).}
+
+
+It is notable as a simple example of a fluid flow that can have chaotic trajectories.
+It is named after Vladimir Arnold, Eugenio Beltrami, and Steven Childress. Ippolit S. Gromeka's (1881)[3] name has been historically neglected, though much of the discussion has been done by him first.[4]
+See also[edit]
+
+Beltrami flow
+
+References[edit]
+
+
+
+^ Xiao-Hua Zhao, Keng-Huat Kwek, Ji-Bin Li and Ke-Lei Huang. "Chaotic and Resonant Streamlines in the ABC Flow". SIAM Journal on Applied Mathematics. Vol. 53, No. 1 (Feb., 1993), pp. 71–77. Published by: Society for Industrial and Applied Mathematics.
+^ T. Dombre, U. Frisch, J. M. Greene, M. Hénon, A. Mehr, and A. M. Soward (1986). "Chaotic streamlines in the ABC flows". Journal of Fluid Mechanics, 167, pp. 353–391 doi:10.1017/S0022112086002859
+^ Gromeka, I. "Some cases of incompressible fluid motion." Scientific notes of the Kazan University (1881): 76-148.
+^ Zermelo, Ernst. Ernst Zermelo-Collected Works/Gesammelte Werke: Volume I/Band I-Set Theory, Miscellanea/Mengenlehre, Varia. Vol. 21. Springer Science & Business Media, 2010.
+
+
+
+
+V. I. Arnold. "Sur la topologie des ecoulements stationnaires des fluides parfaits". C. R. Acad. Sci. Paris, 261:17–20, 1965.
+Bouya, Ismaël; Dormy, Emmanuel (March 2013). "Revisiting the ABC flow dynamo". Physics of Fluids. 25 (3): 037103. arXiv:1206.5186 . Bibcode:2013PhFl...25c7103B. doi:10.1063/1.4795546. ISSN 1070-6631. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Arnold–Beltrami–Childress_flow&oldid=800165312"					
+Categories: Chaos theoryFluid dynamicsDifferential equations 

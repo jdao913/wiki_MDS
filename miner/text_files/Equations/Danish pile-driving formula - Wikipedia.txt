@@ -1,0 +1,40 @@
+Danish pile-driving formula - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Danish pile-driving formula is a formula which enables one to have a good gauge of the bearing capacity of a driven pile.
+
+
+
+Contents
+
+
+1 History
+2 The formula
+3 References
+4 External links
+
+
+
+History[edit]
+The formula was constructed by the Danish civil engineer Andreas Knudsen in 1955. It was made as a part of his final project at The Technical University of Denmark and was published for the Geotechnic Congress in London in 1956. Later it became part of the Danish Code of Practice for Foundation Engineering and was named.
+The formula[edit]
+
+References[edit]
+Template:Dansk standard DS/EN 1997-1, 2. udgave, 2007-06-22
+Journal of the Soil Mechanics and Foundation Division, November 1967
+The Influence of Time on the Bearing capacity of Driven Piles
+External links[edit]
+
+[1] – The Danish Code of Practice – homepage.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Danish_pile-driving_formula&oldid=804478348"					
+Categories: EquationsHidden categories: Use dmy dates from October 2017Articles created via the Article Wizard 

@@ -1,0 +1,870 @@
+N-slit interferometric equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Quantum mechanics was first applied to optics, and interference in particular, by Paul Dirac.[1] Richard Feynman, in his Lectures on Physics, uses Dirac's notation to describe thought experiments on double-slit interference of electrons.[2] Feynman's approach was extended to N-slit interferometers for either single-photon illumination, or narrow-linewidth laser illumination, that is, illumination by indistinguishable photons, by Frank Duarte.[3][4] The N-slit interferometer was first applied in the generation and measurement of complex interference patterns.[3][4]
+In this article the generalized N-slit interferometric equation, derived via Dirac's notation, is described. Although originally derived to reproduce and predict N-slit interferograms,[3][4] this equation also has applications to other areas of optics.
+
+
+
+Contents
+
+
+1 Probability amplitudes and the N-slit interferometric equation
+2 Applications
+
+2.1 Generalized diffraction and refraction
+2.2 Cavity linewidth equation
+2.3 Fourier transform imaging
+2.4 Quantum entanglement
+
+
+3 Comparison with classical methods
+4 See also
+5 References
+
+
+
+Probability amplitudes and the N-slit interferometric equation[edit]
+
+
+
+
+Top view schematics of the N-slit interferometer indicating the position of the planes s, j, and x. The N-slit array, or grating, is positioned at j. The intra interferometric distance can be several-hundred meters long. TBE is a telescopic beam expander, MPBE is a multiple-prism beam expander.
+
+
+In this approach the probability amplitude for the propagation of a photon from a source s to an interference plane x, via an array of slits j, is given using Dirac's bra–ket notation as[3]
+
+
+
+
+
+⟨
+x
+
+|
+
+s
+⟩
+=
+
+∑
+
+j
+=
+1
+
+
+
+N
+
+
+
+⟨
+x
+
+|
+
+j
+⟩
+⟨
+j
+
+|
+
+s
+⟩
+
+
+{\displaystyle \langle x|s\rangle =\sum _{j=1}^{\mathbb {N} }\langle x|j\rangle \langle j|s\rangle }
+
+
+
+This equation represents the probability amplitude of a photon propagating from s to x via an array of j slits. Using a wavefunction representation for probability amplitudes,[1] and defining the probability amplitudes as[3][4][5]
+
+
+
+
+
+
+
+
+
+⟨
+j
+
+|
+
+s
+⟩
+
+
+
+=
+Ψ
+
+(
+
+r
+
+j
+,
+s
+
+
+)
+
+
+e
+
+−
+i
+
+θ
+
+j
+
+
+
+
+
+
+
+
+⟨
+x
+
+|
+
+j
+⟩
+
+
+
+=
+Ψ
+
+(
+
+r
+
+x
+,
+j
+
+
+)
+
+
+e
+
+−
+i
+
+ϕ
+
+j
+
+
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}\langle j|s\rangle &=\Psi \left(r_{j,s}\right)e^{-i\theta _{j}}\\\langle x|j\rangle &=\Psi \left(r_{x,j}\right)e^{-i\phi _{j}}\end{aligned}}}
+
+
+
+where θj and ψj are the incidence and diffraction phase angles, respectively. Thus, the overall probability amplitude can be rewritten as
+
+
+
+
+
+⟨
+x
+
+|
+
+s
+⟩
+=
+
+∑
+
+j
+=
+1
+
+
+N
+
+
+Ψ
+
+(
+
+r
+
+j
+
+
+)
+
+
+e
+
+−
+i
+
+Ω
+
+j
+
+
+
+
+
+
+{\displaystyle \langle x|s\rangle =\sum _{j=1}^{N}\Psi \left(r_{j}\right)e^{-i\Omega _{j}}}
+
+
+
+where
+
+
+
+
+
+Ψ
+
+(
+
+r
+
+j
+
+
+)
+
+=
+Ψ
+
+(
+
+r
+
+x
+,
+j
+
+
+)
+
+Ψ
+
+(
+
+r
+
+j
+,
+s
+
+
+)
+
+
+
+{\displaystyle \Psi \left(r_{j}\right)=\Psi \left(r_{x,j}\right)\Psi \left(r_{j,s}\right)}
+
+
+
+and
+
+
+
+
+
+
+Ω
+
+j
+
+
+=
+
+θ
+
+j
+
+
++
+
+ϕ
+
+j
+
+
+
+
+{\displaystyle \Omega _{j}=\theta _{j}+\phi _{j}}
+
+
+
+after some algebra, the corresponding probability becomes[3][4][5]
+
+
+
+
+
+
+
+|
+
+
+⟨
+x
+
+|
+
+s
+⟩
+
+
+
+|
+
+
+
+2
+
+
+=
+
+∑
+
+j
+=
+1
+
+
+N
+
+
+Ψ
+
+
+(
+
+r
+
+j
+
+
+)
+
+
+2
+
+
++
+2
+
+∑
+
+j
+=
+1
+
+
+N
+
+
+Ψ
+
+(
+
+r
+
+j
+
+
+)
+
+
+(
+
+∑
+
+m
+=
+j
++
+1
+
+
+N
+
+
+Ψ
+
+(
+
+r
+
+m
+
+
+)
+
+cos
+⁡
+
+(
+
+Ω
+
+m
+
+
+−
+
+Ω
+
+j
+
+
+)
+
+)
+
+
+
+{\displaystyle {\big |}\langle x|s\rangle {\big |}^{2}=\sum _{j=1}^{N}\Psi \left(r_{j}\right)^{2}+2\sum _{j=1}^{N}\Psi \left(r_{j}\right)\left(\sum _{m=j+1}^{N}\Psi \left(r_{m}\right)\cos \left(\Omega _{m}-\Omega _{j}\right)\right)}
+
+
+
+where N is the total number of slits in the array, or transmission grating, and the term in parentheses represents the phase that is directly related to the exact path differences derived from the geometry of the N-slit array (j), the intra interferometric distance, and the interferometric plane x.[5] In its simplest version, the phase term can be related to the geometry using
+
+
+
+
+
+cos
+⁡
+(
+
+Ω
+
+m
+
+
+−
+
+Ω
+
+j
+
+
+)
+=
+cos
+⁡
+k
+
+|
+
+
+L
+
+m
+
+
+−
+
+L
+
+m
+−
+1
+
+
+
+|
+
+
+
+{\displaystyle \cos(\Omega _{m}-\Omega _{j})=\cos k|L_{m}-L_{m-1}|}
+
+
+
+where k is the wavenumber, and Lm and Lm − 1 represent the exact path differences. Here it should be noted that the Dirac–Duarte (DD) interferometric equation is a probability distribution that is related to the intensity distribution measured experimentally.[6] The calculations are performed numerically.[5]
+The DD interferometric equation applies to the propagation of a single photon, or the propagation of an ensemble of indistinguishable photons, and enables the accurate prediction of measured N-slit interferometric patterns continuously from the near to the far field.[5][6] Interferograms generated with this equation have been shown to compare well with measured interferograms for both even (N = 2, 4, 6...) and odd (N = 3, 5, 7...) values of N from 2 to 1600.[5][7]
+Applications[edit]
+At a practical level, the N-slit interferometric equation was introduced for imaging applications[5] and is routinely applied to predict N-slit laser interferograms, both in the near and far field. Thus, it has become a valuable tool in the alignment of large, and very large, N-slit laser interferometers[8][9] used in the study of clear air turbulence and the propagation of interferometric characters for secure free-space optical communications. Other analytical applications are described below.
+
+
+
+
+Interferogram for N = 3 slits with diffraction pattern superimposed on the right outer wing.[9]
+
+
+Generalized diffraction and refraction[edit]
+The N-slit interferometric equation has been applied to describe classical phenomena such as interference, diffraction, refraction (Snell's law), and reflection, in a rational and unified approach, using quantum mechanics principles.[7][10] In particular, this interferometric approach has been used to derive generalized refraction equations for both positive and negative refraction,[11] thus providing a clear link between diffraction theory and generalized refraction.[11]
+From the phase term, of the interferometric equation, the expression
+
+
+
+
+
+
+d
+
+m
+
+
+
+(
+±
+
+n
+
+1
+
+
+sin
+⁡
+
+
+θ
+
+m
+
+
+
+±
+
+n
+
+2
+
+
+sin
+⁡
+
+
+ϕ
+
+m
+
+
+
+)
+
+
+(
+
+
+
+2
+π
+
+λ
+
+
+)
+
+=
+M
+π
+
+
+{\displaystyle d_{m}\left(\pm n_{1}\sin {\theta _{m}}\pm n_{2}\sin {\phi _{m}}\right)\left({\frac {2\pi }{\lambda }}\right)=M\pi }
+
+
+
+can be obtained, where M = 0, 2, 4....
+For n1 = n2, this equation can be written as[7][10]
+
+
+
+
+
+
+d
+
+m
+
+
+
+(
+±
+sin
+⁡
+
+
+θ
+
+m
+
+
+
+±
+sin
+⁡
+
+
+ϕ
+
+m
+
+
+
+)
+
+=
+m
+λ
+
+
+{\displaystyle d_{m}\left(\pm \sin {\theta _{m}}\pm \sin {\phi _{m}}\right)=m\lambda }
+
+
+
+which is the generalized diffraction grating equation. Here, θm is the angle of incidence, φm is the angle of diffraction, λ is the wavelength, and m = 0, 1, 2... is the order of diffraction.
+Under certain conditions, dm ≪ λ, which can be readily obtained experimentally, the phase term becomes[7][10]
+
+
+
+
+
+
+(
+±
+
+n
+
+1
+
+
+sin
+⁡
+
+
+θ
+
+m
+
+
+
+±
+
+n
+
+2
+
+
+sin
+⁡
+
+
+ϕ
+
+m
+
+
+
+)
+
+=
+0
+
+
+{\displaystyle \left(\pm n_{1}\sin {\theta _{m}}\pm n_{2}\sin {\phi _{m}}\right)=0}
+
+
+
+which is the generalized refraction equation,[11] where θm is the angle of incidence, and φm now becomes the angle of refraction.
+Cavity linewidth equation[edit]
+Furthermore, the N-slit interferometric equation has been applied to derive the cavity linewidth equation applicable to dispersive oscillators, such as the multiple-prism grating laser oscillators:[12]
+
+
+
+
+
+Δ
+λ
+≈
+Δ
+θ
+
+
+(
+
+
+
+∂
+Θ
+
+
+∂
+λ
+
+
+
+)
+
+
+−
+1
+
+
+
+
+{\displaystyle \Delta \lambda \approx \Delta \theta \left({\frac {\partial \Theta }{\partial \lambda }}\right)^{-1}}
+
+
+
+In this equation, Δθ is the beam divergence and the overall intracavity angular dispersion is the quantity in parentheses.
+Fourier transform imaging[edit]
+Researchers working on Fourier-transform ghost imaging consider the N-slit interferometric equation[3][5][10] as an avenue to investigate the quantum nature of ghost imaging.[13] Also, the N-slit interferometric approach is one of several approaches applied to describe basic optical phenomena in a cohesive and unified manner.[14]
+Note: given the various terminologies in use, for N-slit interferometry, it should be made explicit that the N-slit interferometric equation applies to two-slit interference, three-slit interference, four-slit interference, etc.
+Quantum entanglement[edit]
+The Dirac principles and probabilistic methodology used to derive the N-slit interferometric equation have also been used to derive the polarization quantum entanglement probability amplitude[15]
+
+
+
+
+
+
+|
+ψ
+⟩
+
+=
+
+
+1
+
+2
+
+
+
+
+
+(
+
+
+
+
+|
+x
+⟩
+
+
+1
+
+
+
+
+|
+y
+⟩
+
+
+2
+
+
+−
+
+
+|
+y
+⟩
+
+
+1
+
+
+
+
+|
+x
+⟩
+
+
+2
+
+
+
+
+)
+
+
+
+
+{\displaystyle \left|\psi \right\rangle ={\frac {1}{\sqrt {2}}}{\bigl (}\left|x\right\rangle _{1}\left|y\right\rangle _{2}-\left|y\right\rangle _{1}\left|x\right\rangle _{2}{\bigr )}}
+
+
+
+and corresponding probability amplitudes depicting the propagation of multiple pairs of quanta.[16]
+Comparison with classical methods[edit]
+A comparison of the Dirac approach with classical methods, in the performance of interferometric calculations, has been done by Travis S. Taylor et al.[17] These authors concluded that the interferometric equation, derived via the Dirac formalism, was advantageous in the very near field.
+Some differences between the DD interferometic equation and classical formalisms can be summarized as follows:
+
+The classical Fresnel approach is used for near-field applications and the classical Fraunhofer approach is used for far-field applications. That division is not necessary when using the DD interferometric approach as this formalism applies to both the near and the far-field cases.[5]
+The Fraunhofer approach works for plane-wave illumination.[18] The DD approach works for both, plane wave illumination or highly diffractive illumination patterns.[5]
+The DD interferometric equation is statistical in character. This is not the case of the classical formulations.
+
+So far there has been no published comparison with more general classical approaches based on the Huygens–Fresnel principle or Kirchhoff's diffraction formula.
+See also[edit]
+
+Beam expander
+Dirac's notation
+Fraunhofer diffraction (mathematics)
+Free-space optical communications
+Grating equation
+Laser communication in space
+Laser linewidth
+Multiple-prism dispersion theory
+N-slit interferometer
+
+References[edit]
+
+
+
+^ a b Dirac, P. A. M. (1978). The Principles of Quantum Mechanics (4th ed.). London: Oxford University Press. ISBN 978-0-19-851208-0. [page needed]
+^ Feynman, R. P.; Leighton, R. B.; Sands, M. (1965). The Feynman Lectures on Physics. III. Reading: Addison Wesley. [page needed]
+^ a b c d e f g Duarte, F. J.; Paine, D. J. (1989). "Quantum mechanical description of N-slit interference phenomena". In Sze, R. C.; Duarte, F. J. Proceedings of the International Conference on Lasers '88. McLean, VA: STS. pp. 42–47. Bibcode:1989lase.conf...42D. 
+^ a b c d e Duarte, F. J. (1991). "Chapter 2. Dispersive dye lasers". In Duarte, F. J. High Power Dye Lasers. Berlin: Springer-Verlag. ISBN 978-3-540-54066-3. 
+^ a b c d e f g h i j Duarte, F. J. (1993). "On a generalized interference equation and interferometric measurements". Opt. Commun. 103: 8–14. doi:10.1016/0030-4018(93)90634-H. 
+^ a b Duarte, F. J. (2004). "Comment on 'Reflection, refraction, and multislit interference'". Eur. J. Phys. 25: L57–L58. doi:10.1088/0143-0807/25/5/L04. 
+^ a b c d Duarte, F. J. (2015). Tunable Laser Optics (2nd ed.). New York, NY: CRC. ISBN 978-1-4822-4529-5. [page needed]
+^ Duarte, F. J.; Taylor, T. S.; Clark, A. B.; Davenport, W. E. (2010). "The N-slit interferometer: an extended configuration". J. Opt. 12: 015705. doi:10.1088/2040-8978/12/1/015705. 
+^ a b Duarte, F. J.; Taylor, T. S.; Black, A. M.; Davenport, W. E.; Varmette, P. G. (2011). "N-slit interferometer for secure free-space optical communications: 527 m intra interferometric path length". J. Opt. 13: 035710. doi:10.1088/2040-8986/13/3/035710. 
+^ a b c d Duarte, F. J. (1997). "Interference, diffraction, and refraction, via Dirac's notation". Am. J. Phys. 65: 637–640. doi:10.1119/1.18613. 
+^ a b c Duarte, F. J. (2006). "Multiple-prism dispersion equations for positive and negative refraction". Appl. Phys. B. 82: 35–38. doi:10.1007/s00340-005-1996-x. 
+^ Duarte, F. J. (1992). "Cavity dispersion equation: a note on its origin". Appl. Opt. 31: 6979–6982. doi:10.1364/AO.31.006979. PMID 20802556. 
+^ Liu, H.; Shen, X.; Zhu, D.-M.; Han, S. (2007). "Fourier-transform ghost imaging with pure far-field correlated thermal light". Phys. Rev. A. 76: 053808. doi:10.1103/PhysRevA.76.053808. 
+^ Kurusingal, J. (2007). "Law of normal scattering – a comprehensive law for wave propagation at an interface". J. Opt. Soc. Am. A. 24: 98–108. doi:10.1364/JOSAA.24.000098. 
+^ Duarte, F. J. (2014). Quantum Optics for Engineers. New York: CRC. ISBN 978-1-4398-8853-7. OCLC 871400712. 
+^ Duarte, F. J. (2016). "Secure space-to-space interferometric communications and its nexus to the physics of quantum entanglement". Appl. Phys. Rev. 3: 041301. doi:10.1063/1.4966139. 
+^ Taylor, T. S.; et al. (1996). "Comparison of Fourier and Dirac calculations for classical optics". Proceedings of the International Conference on Lasers '95. McLean, VA: STS. pp. 487–492. 
+^ Fowles, G. R. (1968). Introduction to Modern Optics. New York, NY: Holt, Rinehart and Winston. [page needed]
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=N-slit_interferometric_equation&oldid=811443468"					
+Categories: OpticsInterferenceInterferometryInterferometersQuantum mechanicsWave mechanicsEquationsHidden categories: Wikipedia articles needing page number citations from October 2017 

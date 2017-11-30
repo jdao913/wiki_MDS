@@ -1,0 +1,105 @@
+Nonequilibrium partition identity - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The nonequilibrium partition identity (NPI) is a remarkably simple and elegant[citation needed] consequence of the fluctuation theorem previously known as the Kawasaki identity:
+
+
+
+
+
+
+⟨
+
+exp
+⁡
+[
+−
+
+
+
+Σ
+¯
+
+
+
+t
+
+
+
+t
+]
+
+⟩
+
+=
+1
+,
+
+∀
+t
+
+
+{\displaystyle \left\langle {\exp[-{\overline {\Sigma }}_{t}\;t]}\right\rangle =1,\quad \forall t}
+
+
+
+(Carberry et al. 2004). Thus in spite of the second law inequality which might lead one to expect that the average would decay exponentially with time, the exponential probability ratio given by the FT exactly cancels the negative exponential in the average above leading to an average which is unity for all time.
+The first derivation of the nonequilibrium partition identity for Hamiltonian systems was by Yamada and Kawasaki in 1967. For thermostatted deterministic systems the first derivation was by Morriss and Evans in 1985.
+
+
+
+Contents
+
+
+1 Bibliography
+2 See also
+3 References
+4 External links
+
+
+
+Bibliography[edit]
+
+K. Kawasaki and J.D. Gunton, Phys. Rev. A, 8, 2048 (1973)
+T. Yamada and K. Kawasaki, Prog. Theo. Phys., 38, 1031 (1967)
+G.P. Morriss and D.J. Evans,"Isothermal response theory", Molecular Physics, '54, 629 (1985).
+D. M. Carberry, S. R. Williams, G. M. Wang, E. M. Sevick and D. J. Evans, "The Kawasaki identity and the fluctuation theorem", Journal of Chemical Physics, 121, 8179 – 8182 (2004).
+
+See also[edit]
+
+Fluctuation theorem – Provides an equality that quantifies fluctuations in time averaged entropy production in a wide variety of nonequilibrium systems
+Crooks fluctuation theorem – Provides a fluctuation theorem between two equilibrium states; implies the Jarzynski equality
+
+References[edit]
+
+External links[edit]
+
+Jarzynski equality on arxiv.org
+"Fluctuation-Dissipation: Response Theory in Statistical Physics" by Umberto Marini Bettolo Marconi, Andrea Puglisi, Lamberto Rondoni, Angelo Vulpiani
+
+
+
+
+
+This physics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nonequilibrium_partition_identity&oldid=804095053"					
+Categories: Statistical mechanicsNon-equilibrium thermodynamicsEquationsPhysics stubsHidden categories: All articles with unsourced statementsArticles with unsourced statements from March 2008All stub articles 

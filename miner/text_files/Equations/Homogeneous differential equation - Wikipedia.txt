@@ -1,0 +1,1218 @@
+Homogeneous differential equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A differential equation can be homogeneous in either of two respects: the coefficients of the differential terms in the first order case could be homogeneous functions of the variables, or for the linear case of any order there could be no constant term.
+
+
+
+Contents
+
+
+1 Homogeneous type of first-order differential equations
+
+1.1 Solution method
+1.2 Special case
+
+
+2 Homogeneous linear differential equations
+3 See also
+4 Notes
+5 References
+6 External links
+
+
+
+Homogeneous type of first-order differential equations[edit]
+
+
+Differential equations
+
+
+
+Navier–Stokes differential equations used to simulate airflow around an obstruction.
+
+
+
+
+
+
+Scope
+
+
+
+
+
+
+
+Natural sciences
+Engineering
+
+
+
+
+
+
+
+Astronomy
+Physics
+Chemistry
+
+Biology
+Geology
+
+
+
+
+Applied mathematics
+
+
+
+
+Continuum mechanics
+Chaos theory
+Dynamical systems
+
+
+
+
+Social sciences
+
+
+
+
+Economics
+Population dynamics
+
+
+
+
+
+
+
+
+
+Classification
+
+
+
+
+Types
+
+
+
+
+
+
+Ordinary
+Partial
+Differential-algebraic
+Integro-differential
+Fractional
+Linear
+Non-linear
+
+
+
+
+
+By variable type
+
+
+
+
+Dependent and independent variables
+
+
+
+Autonomous
+Complex
+Coupled / Decoupled
+Exact
+Homogeneous / Nonhomogeneous
+
+
+
+
+
+Features
+
+
+
+
+
+Order
+Operator
+
+
+
+Notation
+
+
+
+
+
+
+
+
+
+
+
+Relation to processes
+
+
+Difference (discrete analogue)
+
+
+
+Stochastic
+Delay
+
+
+
+
+
+
+
+Solution
+
+
+
+
+General topics
+
+
+
+Picard–Lindelöf theorem
+Wronskian
+
+
+
+
+Phase portrait
+Phase space
+
+
+
+Lyapunov / Asymptotic / Exponential stability
+Rate of convergence
+Series / Integral solutions
+
+
+
+Numerical integration
+Dirac delta function
+
+
+
+
+
+
+
+
+
+Solution methods
+
+
+
+Inspection
+Method of characteristics
+
+Euler
+Exponential response formula
+Finite difference (Crank–Nicolson)
+Finite element
+
+Infinite element
+
+
+Finite volume
+Galerkin
+
+Petrov–Galerkin
+
+
+Integrating factor
+Integral transforms
+Perturbation theory
+Runge–Kutta
+
+
+
+Separation of variables
+Undetermined coefficients
+
+
+
+
+
+
+
+
+
+People
+
+
+
+
+Isaac Newton
+Leonhard Euler
+Émile Picard
+Józef Maria Hoene-Wroński
+Ernst Lindelöf
+Rudolf Lipschitz
+Augustin-Louis Cauchy
+John Crank
+Phyllis Nicolson
+Carl David Tolmé Runge
+Martin Wilhelm Kutta
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+A first-order ordinary differential equation in the form:
+
+
+
+
+
+M
+(
+x
+,
+y
+)
+
+d
+x
++
+N
+(
+x
+,
+y
+)
+
+d
+y
+=
+0
+
+
+{\displaystyle M(x,y)\,dx+N(x,y)\,dy=0}
+
+
+
+is a homogeneous type if both functions M(x, y) and N(x, y) are homogeneous functions of the same degree n.[1] That is, multiplying each variable by a parameter  
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+, we find
+
+
+
+
+
+M
+(
+λ
+x
+,
+λ
+y
+)
+=
+
+λ
+
+n
+
+
+M
+(
+x
+,
+y
+)
+
+
+
+{\displaystyle M(\lambda x,\lambda y)=\lambda ^{n}M(x,y)\,}
+
+     and     
+
+
+
+N
+(
+λ
+x
+,
+λ
+y
+)
+=
+
+λ
+
+n
+
+
+N
+(
+x
+,
+y
+)
+
+.
+
+
+{\displaystyle N(\lambda x,\lambda y)=\lambda ^{n}N(x,y)\,.}
+
+
+
+Thus,
+
+
+
+
+
+
+
+
+M
+(
+λ
+x
+,
+λ
+y
+)
+
+
+N
+(
+λ
+x
+,
+λ
+y
+)
+
+
+
+=
+
+
+
+M
+(
+x
+,
+y
+)
+
+
+N
+(
+x
+,
+y
+)
+
+
+
+
+.
+
+
+{\displaystyle {\frac {M(\lambda x,\lambda y)}{N(\lambda x,\lambda y)}}={\frac {M(x,y)}{N(x,y)}}\,.}
+
+
+
+Solution method[edit]
+In the quotient   
+
+
+
+
+
+
+M
+(
+t
+x
+,
+t
+y
+)
+
+
+N
+(
+t
+x
+,
+t
+y
+)
+
+
+
+=
+
+
+
+M
+(
+x
+,
+y
+)
+
+
+N
+(
+x
+,
+y
+)
+
+
+
+
+
+{\displaystyle {\frac {M(tx,ty)}{N(tx,ty)}}={\frac {M(x,y)}{N(x,y)}}}
+
+, we can let   
+
+
+
+t
+=
+1
+
+/
+
+x
+
+
+{\displaystyle t=1/x}
+
+   to simplify this quotient to a function 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ of the single variable 
+
+
+
+y
+
+/
+
+x
+
+
+{\displaystyle y/x}
+
+:
+
+
+
+
+
+
+
+
+M
+(
+x
+,
+y
+)
+
+
+N
+(
+x
+,
+y
+)
+
+
+
+=
+
+
+
+M
+(
+t
+x
+,
+t
+y
+)
+
+
+N
+(
+t
+x
+,
+t
+y
+)
+
+
+
+=
+
+
+
+M
+(
+1
+,
+y
+
+/
+
+x
+)
+
+
+N
+(
+1
+,
+y
+
+/
+
+x
+)
+
+
+
+=
+f
+(
+y
+
+/
+
+x
+)
+
+.
+
+
+{\displaystyle {\frac {M(x,y)}{N(x,y)}}={\frac {M(tx,ty)}{N(tx,ty)}}={\frac {M(1,y/x)}{N(1,y/x)}}=f(y/x)\,.}
+
+
+
+Introduce the change of variables 
+
+
+
+y
+=
+u
+x
+
+
+{\displaystyle y=ux}
+
+; differentiate using the product rule:
+
+
+
+
+
+
+
+
+d
+(
+u
+x
+)
+
+
+d
+x
+
+
+
+=
+x
+
+
+
+d
+u
+
+
+d
+x
+
+
+
++
+u
+
+
+
+d
+x
+
+
+d
+x
+
+
+
+=
+x
+
+
+
+d
+u
+
+
+d
+x
+
+
+
++
+u
+,
+
+
+{\displaystyle {\frac {d(ux)}{dx}}=x{\frac {du}{dx}}+u{\frac {dx}{dx}}=x{\frac {du}{dx}}+u,}
+
+
+
+thus transforming the original differential equation into the separable form
+
+
+
+
+
+x
+
+
+
+d
+u
+
+
+d
+x
+
+
+
+=
+f
+(
+u
+)
+−
+u
+
+;
+
+
+{\displaystyle x{\frac {du}{dx}}=f(u)-u\,;}
+
+
+
+this form can now be integrated directly (see ordinary differential equation).
+The equations in this discussion are not to be used as formulary for solutions; they are shown just to demonstrate the method of solution.
+Special case[edit]
+A first order differential equation of the form (a, b, c, e, f, g are all constants)
+
+
+
+
+
+(
+a
+x
++
+b
+y
++
+c
+)
+d
+x
++
+(
+e
+x
++
+f
+y
++
+g
+)
+d
+y
+=
+0
+
+
+
+{\displaystyle (ax+by+c)dx+(ex+fy+g)dy=0\,}
+
+
+
+where af ≠ be can be transformed into a homogeneous type by a linear transformation of both variables (
+
+
+
+α
+
+
+{\displaystyle \alpha }
+
+ and 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ are constants):
+
+
+
+
+
+t
+=
+x
++
+α
+;
+
+
+
+
+z
+=
+y
++
+β
+
+.
+
+
+{\displaystyle t=x+\alpha ;\,\,\,\,z=y+\beta \,.}
+
+
+
+Homogeneous linear differential equations[edit]
+Definition. A linear differential equation is called homogeneous if the following condition is satisfied: If  
+
+
+
+ϕ
+(
+x
+)
+
+
+{\displaystyle \phi (x)}
+
+  is a solution, so is  
+
+
+
+c
+ϕ
+(
+x
+)
+
+
+{\displaystyle c\phi (x)}
+
+, where 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is an arbitrary (non-zero) constant. Note that in order for this condition to hold, each term in a linear differential equation of the dependent variable y must contain y or any derivative of y. A linear differential equation that fails this condition is called inhomogeneous.
+A linear differential equation can be represented as a linear operator acting on y(x) where x is usually the independent variable and y is the dependent variable. Therefore, the general form of a linear homogeneous differential equation is
+
+
+
+
+
+L
+(
+y
+)
+=
+0
+
+
+
+{\displaystyle L(y)=0\,}
+
+
+
+where L is a differential operator, a sum of derivatives (defining the "0th derivative" as the original, non-differentiated function), each multiplied by a function  
+
+
+
+
+f
+
+i
+
+
+
+
+{\displaystyle f_{i}}
+
+  of x:
+
+
+
+
+
+L
+=
+
+∑
+
+i
+=
+0
+
+
+n
+
+
+
+f
+
+i
+
+
+(
+x
+)
+
+
+
+d
+
+i
+
+
+
+d
+
+x
+
+i
+
+
+
+
+
+
+,
+
+
+{\displaystyle L=\sum _{i=0}^{n}f_{i}(x){\frac {d^{i}}{dx^{i}}}\,,}
+
+
+
+where  
+
+
+
+
+f
+
+i
+
+
+
+
+{\displaystyle f_{i}}
+
+  may be constants, but not all  
+
+
+
+
+f
+
+i
+
+
+
+
+{\displaystyle f_{i}}
+
+  may be zero.
+For example, the following differential equation is homogeneous:
+
+
+
+
+
+sin
+⁡
+(
+x
+)
+
+
+
+
+d
+
+2
+
+
+y
+
+
+d
+
+x
+
+2
+
+
+
+
+
++
+4
+
+
+
+d
+y
+
+
+d
+x
+
+
+
++
+y
+=
+0
+
+,
+
+
+{\displaystyle \sin(x){\frac {d^{2}y}{dx^{2}}}+4{\frac {dy}{dx}}+y=0\,,}
+
+
+
+whereas the following two are inhomogeneous:
+
+
+
+
+
+2
+
+x
+
+2
+
+
+
+
+
+
+d
+
+2
+
+
+y
+
+
+d
+
+x
+
+2
+
+
+
+
+
++
+4
+x
+
+
+
+d
+y
+
+
+d
+x
+
+
+
++
+y
+=
+cos
+⁡
+(
+x
+)
+
+;
+
+
+{\displaystyle 2x^{2}{\frac {d^{2}y}{dx^{2}}}+4x{\frac {dy}{dx}}+y=\cos(x)\,;}
+
+
+
+
+
+
+
+
+2
+
+x
+
+2
+
+
+
+
+
+
+d
+
+2
+
+
+y
+
+
+d
+
+x
+
+2
+
+
+
+
+
+−
+3
+x
+
+
+
+d
+y
+
+
+d
+x
+
+
+
++
+y
+=
+2
+
+.
+
+
+{\displaystyle 2x^{2}{\frac {d^{2}y}{dx^{2}}}-3x{\frac {dy}{dx}}+y=2\,.}
+
+
+
+It should be noted that the existence of a constant term is a sufficient condition for an equation to be inhomogeneous, as in the above example.
+See also[edit]
+
+Method of separation of variables
+
+Notes[edit]
+
+
+
+^ Ince 1956, p. 18
+
+
+
+References[edit]
+
+Boyce, William E.; DiPrima, Richard C. (2012), Elementary differential equations and boundary value problems (10th ed.), Wiley, ISBN 978-0470458310 . (This is a good introductory reference on differential equations.)
+Ince, E. L. (1956), Ordinary differential equations, New York: Dover Publications, ISBN 0486603490 . (This is a classic reference on ODEs, first published in 1926.)
+
+External links[edit]
+
+Homogeneous differential equations at MathWorld
+Wikibooks: Ordinary Differential Equations/Substitution 1
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Homogeneous_differential_equation&oldid=779347968"					
+Categories: Differential equations 

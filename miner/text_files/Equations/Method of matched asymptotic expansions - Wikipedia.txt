@@ -1,0 +1,1324 @@
+Method of matched asymptotic expansions - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, the method of matched asymptotic expansions is a common approach to finding an accurate approximation to the solution to an equation, or system of equations. It is particularly used when solving singularly perturbed differential equations. It involves finding several different approximate solutions, each of which is valid (i.e. accurate) for part of the range of the independent variable, and then combining these different solutions together to give a single approximate solution that is valid for the whole range of values of the independent variable.
+
+
+
+Contents
+
+
+1 Method overview
+2 A simple example
+
+2.1 Outer solution, valid for t = O(1)
+2.2 Inner solution, valid for t = O(ε)
+2.3 Matching
+2.4 Composite solution
+2.5 Accuracy
+2.6 Location of boundary layer
+
+
+3 Harder problems
+4 Second-order differential equations
+5 See also
+6 References
+
+
+
+Method overview[edit]
+In a large class of singularly perturbed problems, the domain may be divided into two or more subdomains. In one of these, often the largest, the solution is accurately approximated by an asymptotic series[1] found by treating the problem as a regular perturbation (i.e. by setting a relatively small parameter to zero). The other subdomains consist of one or more small areas in which that approximation is inaccurate, generally because the perturbation terms in the problem are not negligible there. These areas are referred to as transition layers, and as boundary or interior layers depending on whether they occur at the domain boundary (as is the usual case in applications) or inside the domain.
+An approximation in the form of an asymptotic series is obtained in the transition layer(s) by treating that part of the domain as a separate perturbation problem. This approximation is called the "inner solution," and the other is the "outer solution," named for their relationship to the transition layer(s). The outer and inner solutions are then combined through a process called "matching" in such a way that an approximate solution for the whole domain is obtained.[2][3][4]
+A simple example[edit]
+Consider the boundary value problem
+
+
+
+
+
+ϵ
+
+y
+″
+
++
+(
+1
++
+ϵ
+)
+
+y
+′
+
++
+y
+=
+0
+,
+
+
+{\displaystyle \epsilon y''+(1+\epsilon )y'+y=0,}
+
+
+
+where 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ is a function of independent time variable 
+
+
+
+t
+
+
+{\displaystyle t}
+
+, which ranges from 0 to 1, the boundary conditions are 
+
+
+
+y
+(
+0
+)
+=
+0
+
+
+{\displaystyle y(0)=0}
+
+ and 
+
+
+
+y
+(
+1
+)
+=
+1
+
+
+{\displaystyle y(1)=1}
+
+, and 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ is a small parameter, such that 
+
+
+
+0
+<
+ϵ
+≪
+1
+
+
+{\displaystyle 0<\epsilon \ll 1}
+
+.
+Outer solution, valid for t = O(1)[edit]
+Since 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ is very small, our first approach is to treat the equation as a regular perturbation problem, i.e. make the approximation 
+
+
+
+ϵ
+=
+0
+
+
+{\displaystyle \epsilon =0}
+
+, and hence find the solution to the problem
+
+
+
+
+
+
+y
+′
+
++
+y
+=
+0.
+
+
+
+{\displaystyle y'+y=0.\,}
+
+
+
+Alternatively, consider that when 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ and 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ are both of size O(1), the four terms on the left hand side of the original equation are respectively of sizes O(
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+), O(1), O(
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+) and O(1). The leading-order balance on this timescale, valid in the distinguished limit 
+
+
+
+ϵ
+→
+0
+
+
+{\displaystyle \epsilon \to 0}
+
+, is therefore given by the second and fourth terms, i.e. 
+
+
+
+
+y
+′
+
++
+y
+=
+0.
+
+
+
+{\displaystyle y'+y=0.\,}
+
+
+This has solution
+
+
+
+
+
+y
+=
+A
+
+e
+
+−
+t
+
+
+
+
+
+{\displaystyle y=Ae^{-t}\,}
+
+
+
+for some constant 
+
+
+
+A
+
+
+{\displaystyle A}
+
+. Applying the boundary condition 
+
+
+
+y
+(
+0
+)
+=
+0
+
+
+{\displaystyle y(0)=0}
+
+, we would have 
+
+
+
+A
+=
+0
+
+
+{\displaystyle A=0}
+
+; applying the boundary condition 
+
+
+
+y
+(
+1
+)
+=
+1
+
+
+{\displaystyle y(1)=1}
+
+, we would have 
+
+
+
+A
+=
+e
+
+
+{\displaystyle A=e}
+
+. It is therefore impossible to satisfy both boundary conditions, so 
+
+
+
+ϵ
+=
+0
+
+
+{\displaystyle \epsilon =0}
+
+ is not a valid approximation to make across the whole of the domain (i.e. this is a singular perturbation problem). From this we infer that there must be a boundary layer at one of the endpoints of the domain where 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ needs to be included. This region will be where 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ is no longer negligible compared to the independent variable 
+
+
+
+t
+
+
+{\displaystyle t}
+
+, i.e. 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ and 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ are of comparable size, i.e. the boundary layer is adjacent to 
+
+
+
+t
+=
+0
+
+
+{\displaystyle t=0}
+
+. Therefore, the other boundary condition 
+
+
+
+y
+(
+1
+)
+=
+1
+
+
+{\displaystyle y(1)=1}
+
+ applies in this outer region, so 
+
+
+
+A
+=
+e
+
+
+{\displaystyle A=e}
+
+, i.e. 
+
+
+
+
+y
+
+O
+
+
+=
+
+e
+
+1
+−
+t
+
+
+
+
+
+{\displaystyle y_{O}=e^{1-t}\,}
+
+ is an accurate approximate solution to the original boundary value problem in this outer region. It is the leading-order solution.
+Inner solution, valid for t = O(ε)[edit]
+In the inner region, 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ and 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ are both tiny, but of comparable size, so define the new O(1) time variable 
+
+
+
+τ
+=
+t
+
+/
+
+ϵ
+
+
+{\displaystyle \tau =t/\epsilon }
+
+. Rescale the original boundary value problem by replacing 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ with 
+
+
+
+τ
+ϵ
+
+
+{\displaystyle \tau \epsilon }
+
+, and the problem becomes
+
+
+
+
+
+
+
+1
+ϵ
+
+
+
+y
+″
+
+(
+τ
+)
++
+
+(
+
+1
++
+ϵ
+
+)
+
+
+
+1
+ϵ
+
+
+
+y
+′
+
+(
+τ
+)
++
+y
+(
+τ
+)
+=
+0
+,
+
+
+
+{\displaystyle {\frac {1}{\epsilon }}y''(\tau )+\left({1+\epsilon }\right){\frac {1}{\epsilon }}y'(\tau )+y(\tau )=0,\,}
+
+
+
+which, after multiplying by 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ and taking 
+
+
+
+ϵ
+=
+0
+
+
+{\displaystyle \epsilon =0}
+
+, is
+
+
+
+
+
+
+y
+″
+
++
+
+y
+′
+
+=
+0.
+
+
+
+{\displaystyle y''+y'=0.\,}
+
+
+
+Alternatively, consider that when 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ has reduced to size O(
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+), then 
+
+
+
+y
+
+
+{\displaystyle y}
+
+ is still of size O(1) (using the expression for 
+
+
+
+
+y
+
+O
+
+
+
+
+{\displaystyle y_{O}}
+
+), and so the four terms on the left hand side of the original equation are respectively of sizes O(
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+−1), O(
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+−1), O(1) and O(1). The leading-order balance on this timescale, valid in the distinguished limit 
+
+
+
+ϵ
+→
+0
+
+
+{\displaystyle \epsilon \to 0}
+
+, is therefore given by the first and second terms, i.e. 
+
+
+
+
+y
+″
+
++
+
+y
+′
+
+=
+0.
+
+
+
+{\displaystyle y''+y'=0.\,}
+
+
+This has solution
+
+
+
+
+
+y
+=
+B
+−
+C
+
+e
+
+−
+τ
+
+
+
+
+
+{\displaystyle y=B-Ce^{-\tau }\,}
+
+
+
+for some constants 
+
+
+
+B
+
+
+{\displaystyle B}
+
+ and 
+
+
+
+C
+
+
+{\displaystyle C}
+
+. Since 
+
+
+
+y
+(
+0
+)
+=
+0
+
+
+{\displaystyle y(0)=0}
+
+ applies in this inner region, this gives 
+
+
+
+B
+=
+C
+
+
+{\displaystyle B=C}
+
+, so an accurate approximate solution to the original boundary value problem in this inner region (it is the leading-order solution) is
+
+
+
+
+
+
+y
+
+I
+
+
+=
+B
+
+(
+
+1
+−
+
+e
+
+−
+τ
+
+
+
+)
+
+=
+B
+
+(
+
+1
+−
+
+e
+
+−
+t
+
+/
+
+ϵ
+
+
+
+)
+
+.
+
+
+
+{\displaystyle y_{I}=B\left({1-e^{-\tau }}\right)=B\left({1-e^{-t/\epsilon }}\right).\,}
+
+
+
+Matching[edit]
+We use matching to find the value of the constant 
+
+
+
+B
+
+
+{\displaystyle B}
+
+. The idea of matching is that the inner and outer solutions should agree for values of 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ in an intermediate (or overlap) region, i.e. where 
+
+
+
+ϵ
+≪
+t
+≪
+1
+
+
+{\displaystyle \epsilon \ll t\ll 1}
+
+. We need the outer limit of the inner solution to match the inner limit of the outer solution, i.e. 
+
+
+
+
+lim
+
+τ
+→
+∞
+
+
+
+y
+
+I
+
+
+=
+
+lim
+
+t
+→
+0
+
+
+
+y
+
+O
+
+
+,
+
+
+
+{\displaystyle \lim _{\tau \rightarrow \infty }y_{I}=\lim _{t\to 0}y_{O},\,}
+
+ which gives 
+
+
+
+B
+=
+e
+
+
+{\displaystyle B=e}
+
+.
+Composite solution[edit]
+To obtain our final, matched, composite solution, valid on the whole domain, one popular method is the uniform method. In this method, we add the inner and outer approximations and subtract their overlapping value, 
+
+
+
+
+
+y
+
+
+o
+v
+e
+r
+l
+a
+p
+
+
+
+
+
+{\displaystyle \,y_{\mathrm {overlap} }}
+
+, which would otherwise be counted twice. The overlapping value is the outer limit of the inner boundary layer solution, and the inner limit of the outer solution; these limits were above found to equal 
+
+
+
+e
+
+
+{\displaystyle e}
+
+. Therefore, the final approximate solution to this boundary value problem is,
+
+
+
+
+
+y
+(
+t
+)
+=
+
+y
+
+I
+
+
++
+
+y
+
+O
+
+
+−
+
+y
+
+
+o
+v
+e
+r
+l
+a
+p
+
+
+
+=
+e
+
+(
+
+1
+−
+
+e
+
+−
+t
+
+/
+
+ϵ
+
+
+
+)
+
++
+
+e
+
+1
+−
+t
+
+
+−
+e
+=
+e
+
+(
+
+
+e
+
+−
+t
+
+
+−
+
+e
+
+−
+t
+
+/
+
+ϵ
+
+
+
+)
+
+.
+
+
+
+{\displaystyle y(t)=y_{I}+y_{O}-y_{\mathrm {overlap} }=e\left({1-e^{-t/\epsilon }}\right)+e^{1-t}-e=e\left({e^{-t}-e^{-t/\epsilon }}\right).\,}
+
+
+
+Note that this expression correctly reduces to the expressions for 
+
+
+
+
+y
+
+I
+
+
+
+
+{\displaystyle y_{I}}
+
+ and 
+
+
+
+
+y
+
+O
+
+
+
+
+{\displaystyle y_{O}}
+
+ when 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ is O(
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+) and O(1), respectively.
+Accuracy[edit]
+
+
+
+
+Convergence of approximations. Approximations and exact solutions, which are indistinguishable at this scale, are shown for various 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+. The outer solution is also shown. Note that since the boundary layer becomes narrower with decreasing 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+, the approximations converge to the outer solution pointwise, but not uniformly, almost everywhere.
+
+
+This final solution satisfies the problem's original differential equation (shown by substituting it and its derivatives into the original equation). Also, the boundary conditions produced by this final solution match the values given in the problem, up to a constant multiple. This implies, due to the uniqueness of the solution, that the matched asymptotic solution is identical to the exact solution up to a constant multiple. This is not necessarily always the case, any remaining terms should go to zero uniformly as 
+
+
+
+ϵ
+→
+0
+
+
+{\displaystyle \epsilon \rightarrow 0}
+
+.
+Not only does our solution successfully approximately solve the problem at hand, it closely approximates the problem's exact solution. It happens that this particular problem is easily found to have exact solution
+
+
+
+
+
+y
+(
+t
+)
+=
+
+
+
+
+e
+
+−
+t
+
+
+−
+
+e
+
+−
+t
+
+/
+
+ε
+
+
+
+
+
+e
+
+−
+1
+
+
+−
+
+e
+
+−
+1
+
+/
+
+ε
+
+
+
+
+
+,
+
+
+
+{\displaystyle y(t)={\frac {e^{-t}-e^{-t/\varepsilon }}{e^{-1}-e^{-1/\varepsilon }}},\,}
+
+
+
+which has the same form as the approximate solution, by the multiplying constant. Note also that the approximate solution is the first term in a binomial expansion of the exact solution in powers of 
+
+
+
+
+e
+
+1
+−
+1
+
+/
+
+ϵ
+
+
+
+
+{\displaystyle e^{1-1/\epsilon }}
+
+.
+Location of boundary layer[edit]
+Conveniently, we can see that the boundary layer, where 
+
+
+
+
+y
+′
+
+
+
+{\displaystyle y'}
+
+ and 
+
+
+
+
+y
+″
+
+
+
+{\displaystyle y''}
+
+ are large, is near 
+
+
+
+t
+=
+0
+
+
+{\displaystyle t=0}
+
+, as we supposed earlier. If we had supposed it to be at the other endpoint and proceeded by making the rescaling 
+
+
+
+τ
+=
+(
+1
+−
+t
+)
+
+/
+
+ϵ
+
+
+{\displaystyle \tau =(1-t)/\epsilon }
+
+, we would have found it impossible to satisfy the resulting matching condition. For many problems, this kind of trial and error is the only way to determine the true location of the boundary layer.[2]
+Harder problems[edit]
+The problem above is a simple example because it is a single equation with only one dependent variable, and there is one boundary layer in the solution. Harder problems may contain several co-dependent variables in a system of several equations, and/or with several boundary and/or interior layers in the solution.
+It is often desirable to find more terms in the asymptotic expansions of both the outer and the inner solutions. The appropriate form of these expansions is not always clear: while a power-series expansion in 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ may work, sometimes the appropriate form involves fractional powers of 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+, functions such as 
+
+
+
+ϵ
+log
+⁡
+ϵ
+
+
+{\displaystyle \epsilon \log \epsilon }
+
+, et cetera. As in the above example, we will obtain outer and inner expansions with some coefficients which must be determined by matching.[5]
+Second-order differential equations[edit]
+A method of matched asymptotic expansions - with matching of solutions in the common domain of validity - has been developed and used extensively by Dingle and Müller-Kirsten for the derivation of asymptotic expansions of the solutions and characteristic numbers (band boundaries) of Schrödinger-like second-order differential equations with periodic potentials - in particular for the Mathieu equation[6] (best example), Lamé and ellipsoidal wave equations,[7] oblate[8] and prolate[9] spheroidal wave equations, and equations with anharmonic potentials.[10]
+See also[edit]
+
+Multiple-scale analysis
+
+References[edit]
+
+
+^ R.B. Dingle (1973), Asymptotic Expansions: Their Derivation and Interpretation, Academic Press.
+^ a b Verhulst, F. (2005). Methods and Applications of Singular Perturbations: Boundary Layers and Multiple Timescale Dynamics. Springer. ISBN 0-387-22966-3. 
+^ Nayfeh, A. H. (2000). Perturbation Methods. Wiley Classics Library. Wiley-Interscience. ISBN 978-0-471-39917-9. 
+^ Kevorkian, J.; Cole, J. D. (1996). Multiple Scale and Singular Perturbation Methods. Springer. ISBN 0-387-94202-5. 
+^ Hinch, John (1991). Perturbation Methods. Cambridge University Press. 
+^ R.B. Dingle and H.J.W. Müller, J. reine angew. Math. 211 (1962) 11-32 and 216 (1964) 123-133; H.J.W. Müller, J. reine angew. Math. 211 (1962) 179-190.
+^ H.J.W. Müller, Mathematische Nachrichten 31 (1966) 89-101, 32 (1966) 49-62, 32 (1966) 157-172.
+^ H.J.W. Müller, J. reine angew. Math. 211 (1962) 33-47.
+^ H.J.W. Müller, J. reine angew. Math. 212 (1963) 26-48.
+^ H.J.W. Müller-Kirsten (2012), Introduction to Quantum Mechanics: Schrödinger Equation and Path Integral, 2nd ed., World Scientific, ISBN 978-9814397742. Chapter 18 on Anharmonic potentials.
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Method_of_matched_asymptotic_expansions&oldid=812017423"					
+Categories: Differential equationsAsymptotic analysis 

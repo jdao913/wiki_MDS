@@ -1,0 +1,424 @@
+Ergun equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Ergun equation, derived by the Turkish chemical engineer Sabri Ergun in 1952, expresses the friction factor[disambiguation needed] in a packed column as a function of the modified Reynolds number.
+
+
+
+Contents
+
+
+1 Equation
+2 Extension
+3 See also
+4 References
+
+
+
+Equation[edit]
+
+
+
+
+
+f
+
+p
+
+
+=
+
+
+150
+
+G
+
+r
+
+p
+
+
+
+
+
++
+1.75
+
+
+{\displaystyle f_{p}={\frac {150}{Gr_{p}}}+1.75}
+
+
+where 
+
+
+
+
+f
+
+p
+
+
+
+
+{\displaystyle f_{p}}
+
+ and 
+
+
+
+G
+
+r
+
+p
+
+
+
+
+{\displaystyle Gr_{p}}
+
+ are defined as
+
+
+
+
+
+f
+
+p
+
+
+=
+
+
+
+Δ
+p
+
+L
+
+
+
+
+
+D
+
+p
+
+
+
+ρ
+
+v
+
+s
+
+
+2
+
+
+
+
+
+
+(
+
+
+
+ϵ
+
+3
+
+
+
+1
+−
+ϵ
+
+
+
+)
+
+
+
+{\displaystyle f_{p}={\frac {\Delta p}{L}}{\frac {D_{p}}{\rho v_{s}^{2}}}\left({\frac {\epsilon ^{3}}{1-\epsilon }}\right)}
+
+ and 
+
+
+
+G
+
+r
+
+p
+
+
+=
+
+
+
+ρ
+
+v
+
+s
+
+
+
+D
+
+p
+
+
+
+
+(
+1
+−
+ϵ
+)
+μ
+
+
+
+
+
+{\displaystyle Gr_{p}={\frac {\rho v_{s}D_{p}}{(1-\epsilon )\mu }}}
+
+
+where: 
+
+
+
+G
+
+r
+
+p
+
+
+
+
+{\displaystyle Gr_{p}}
+
+ is the modified Reynolds number,
+fp is the packed bed friction factor
+
+
+
+
+Δ
+p
+
+
+{\displaystyle \Delta p}
+
+ is the pressure drop across the bed,
+
+
+
+
+L
+
+
+{\displaystyle L}
+
+ is the length of the bed (not the column),
+
+
+
+
+
+D
+
+p
+
+
+
+
+{\displaystyle D_{p}}
+
+ is the equivalent spherical diameter of the packing,
+
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+ is the density of fluid,
+
+
+
+
+μ
+
+
+{\displaystyle \mu }
+
+ is the dynamic viscosity of the fluid,
+
+
+
+
+
+v
+
+s
+
+
+
+
+{\displaystyle v_{s}}
+
+ is the superficial velocity (i.e. the velocity that the fluid would have through the empty tube at the same volumetric flow rate), and
+
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ is the void fraction of the bed (bed porosity at any time).
+Extension[edit]
+The extension of the Ergun equation to fluidized beds is discussed by Akgiray and Saatçı (2001). To calculate the pressure drop in a given reactor, the following equation may be deduced
+
+
+
+
+Δ
+p
+=
+
+
+
+150
+μ
+ 
+L
+
+
+D
+
+p
+
+
+2
+
+
+
+
+ 
+
+
+
+(
+1
+−
+ϵ
+
+)
+
+2
+
+
+
+
+ϵ
+
+3
+
+
+
+
+
+v
+
+s
+
+
++
+
+
+
+1.75
+ 
+L
+ 
+ρ
+
+
+D
+
+p
+
+
+
+
+ 
+
+
+
+(
+1
+−
+ϵ
+)
+
+
+ϵ
+
+3
+
+
+
+
+
+v
+
+s
+
+
+
+|
+
+
+v
+
+s
+
+
+
+|
+
+
+
+{\displaystyle \Delta p={\frac {150\mu ~L}{D_{p}^{2}}}~{\frac {(1-\epsilon )^{2}}{\epsilon ^{3}}}v_{s}+{\frac {1.75~L~\rho }{D_{p}}}~{\frac {(1-\epsilon )}{\epsilon ^{3}}}v_{s}|v_{s}|}
+
+
+This arrangement of the Ergun equation makes clear its close relationship to the simpler Kozeny-Carman equation which describes laminar flow of fluids across packed beds.
+See also[edit]
+
+Kozeny–Carman equation
+
+References[edit]
+
+Ergun, Sabri. "Fluid flow through packed columns." Chem. Eng. Prog. 48 (1952).
+Ö. Akgiray and A. M. Saatçı, Water Science and Technology: Water Supply, Vol:1, Issue:2, pp. 65–72, 2001.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ergun_equation&oldid=782659393"					
+Categories: EquationsChemical process engineeringHidden categories: All articles with links needing disambiguationArticles with links needing disambiguation from March 2017 

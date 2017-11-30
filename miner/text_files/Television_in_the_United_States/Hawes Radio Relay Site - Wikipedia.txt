@@ -1,0 +1,150 @@
+Hawes Radio Relay Site - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+Hawes Radio Tower
+
+
+General information
+
+
+Status
+Destroyed
+
+
+Type
+Mast radiator insulated against ground
+
+
+Location
+Hinkley, California, United States
+
+
+Coordinates
+34°55′1″N 117°22′36″W﻿ / ﻿34.91694°N 117.37667°W﻿ / 34.91694; -117.37667Coordinates: 34°55′1″N 117°22′36″W﻿ / ﻿34.91694°N 117.37667°W﻿ / 34.91694; -117.37667
+
+
+Destroyed
+1986
+
+
+Height
+373.7 m (1,226.05 ft)
+
+
+Design and construction
+
+
+Main contractor
+US Air Force
+
+
+Hawes Radio Relay Facility (also known as the Hawes Radio Tower) was a United States Air Force installation built on the site of the former Hawes Airfield at Hinkley, California, USA at 34°55′1″N 117°22′36″W﻿ / ﻿34.91694°N 117.37667°W﻿ / 34.91694; -117.37667. The site contained a 373.7-meter-tall (1,226 ft) guyed mast antenna and hardened underground facility used for the Strategic Air Command's AN/FRC-117 Survivable Low Frequency Communications System. Detachment 2, 33rd Communications Group at March AFB, ran the site until its inactivation in 1986.
+
+
+
+Contents
+
+
+1 Mission
+2 History
+
+2.1 Activation
+2.2 Deactivation
+
+
+3 Facility
+4 Post USAF operations
+5 See also
+6 Photo gallery
+7 References
+8 External links
+
+
+
+Mission[edit]
+The mission of Detachment 2 (Hawes Radio Relay Site) was to provide the Joint Chiefs of Staff, the Commander-in-Chief of Strategic Air Command (CINCSAC), SAC Headquarters, the Airborne Command Post (ABNCP), and the SAC Force with a Survivable Low Frequency Communications System for passing record communications between the above agencies. Hawes provides SAC Emergency War Order communications before, during and after a nuclear attack, acts as the alternate ground station for the SAC ABNCP, and relays secure record communications from and into the Automatic Digital Network (AUTODIN).[1]
+History[edit]
+Activation[edit]
+The SAC SLFCS site at Hawes was activated on 3 Apr 1967 as a project assigned to the 33d Communications Squadron, Air Force. The site was accepted by Headquarters USAF on 31 May 1968, and was activated for continuous operations a day later. On 19 Jul 1968, 15th Air Force assumed maintenance responsibility. Hawes was located in the Mojave Desert, approximately 100 miles northeast of March AFB, and 40 miles east of Edwards AFB. Site personnel lived on Edwards AFB, and took a shuttle bus to the site.[1]
+Deactivation[edit]
+During the Fiscal Year 1987-1991 Program Objective Memorandum development, Headquarters SAC, determined Hawes was no longer needed to perform the SLFCS mission. HQ SAC Program Directive 01-85, titled "Hawes SLFCS Transmitter Site Deactivation", outlined the steps needed to shut the site down. On 30 September 1986, at 1601 local time (1 Oct 1986, 0001Z), the main power breaker for the transmitter was permanently turned off. Minutes before, Hawes transmitted one final SLFCS message, commemorating its 18 years of operation.[2]
+Facility[edit]
+Hawes Radio Tower was a mast radiator insulated against ground, which provided VLF communication to ground and mobile nuclear missile facilities during the Cold War. It transmitted at a maximum power of 100 kW. The facility was partially built into the ground and was designed to withstand a moderate nuclear blast at a distance of 10 miles. The facility was self-sustaining, and employed a sophisticated ventilation system and backup diesel generators.
+Post USAF operations[edit]
+In the mid-1980s, the site was given up, and in 1986, the mast was demolished by explosives. The two-story bunker, left abandoned, became a popular hang-out site for local teenagers. It also became a center for wild and sometimes violent parties. The interior was blackened from numerous bonfires and riddled with graffiti. In addition, holes and debris created by the radio tower demolition, as well as standing water in the basement after rains, made navigating the dark interior of the bunker extremely dangerous.[citation needed]
+The bunker was demolished by the Bureau of Land Management and Air Force in April–May 2008 after two local teenagers, Christopher Cody Thompson of Apple Valley and Bodhisattva “Bodhi” Sherzer-Potter of Helendale, were found murdered in the bunker on January 5 after a robbery attempt. Collin Lee McGlaughlin was convicted and sentenced to life in prison without parole for the murder.[3] A second defendant, Cameron Thomson, 22, also of Covina, pleaded guilty to two counts of voluntary manslaughter and two counts of attempted robbery after agreeing to a plea bargain and was sentenced to 15 years.[4][5] A third suspect, David Brian Smith, was sentenced to 50 years to life in 2016.[5]
+See also[edit]
+
+
+United States Air Force portal
+
+
+
+Strategic Air Command
+Post Attack Command and Control System
+Survivable Low Frequency Communications System
+Silver Creek Communications Annex - sister site to Hawes, located in Silver Creek, Nebraska
+
+Photo gallery[edit]
+
+
+
+Wikimedia Commons has media related to Survivable Low Frequency Communications System.
+
+
+
+
+
+
+
+
+
+Base of antenna
+
+
+
+
+References[edit]
+
+
+
+^ a b Air Force Historical Research Agency: "33d Communications Group History, 1 January - 31 December 1982
+^ Air Force Communications Command: "History of the 33d Communications Group, March AFB, California," 1 Oct - 31 Dec 1986
+^ "Police officer's son, 24, obsessed with 'killing people at random' gets life without parole for brutally executing high school sweethearts he held in abandoned bunker". Daily Mail. 19 January 2014. Retrieved 8 March 2015. 
+^ Nelson, Joe (17 January 2014). "High Desert bunker killer sentenced to life without parole". San Bernardino Sun. Retrieved 8 March 2015. 
+^ a b Cabe, Matthew (27 September 2016). "Justice, finally: Sentences given to last 2 men involved in 2008 slayings of 2 local teens". Retrieved 5 February 2017. 
+
+
+
+External links[edit]
+
+http://www.airfields-freeman.com/CA/Airfields_CA_PalmdaleN.htm
+http://ludb.clui.org/ex/i/CA4997/
+http://skyscraperpage.com/diagrams/?b63081
+http://www.mojavetreks.com/Hawes%20Journal%20Page%201.html This is a very detailed photo blog with pictures of the facility when it was in use.
+http://community.livejournal.com/abandonedplaces/1185938.html[permanent dead link] Some pictures of the inside of the facility prior to demolition
+https://web.archive.org/web/20071023035041/http://community.livejournal.com/abandonedplaces/1032897.html More pictures from the same site
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Hawes_Radio_Relay_Site&oldid=810270254"					
+Categories: Cold War military history of the United StatesTowers in CaliforniaBuildings and structures in San Bernardino County, CaliforniaUnited States nuclear command and controlHistory of San Bernardino County, CaliforniaRadio masts and towers in the United StatesHidden categories: Articles needing additional references from December 2015All articles needing additional referencesCoordinates on WikidataAll articles with unsourced statementsArticles with unsourced statements from September 2017All articles with dead external linksArticles with dead external links from April 2017Articles with permanently dead external links 

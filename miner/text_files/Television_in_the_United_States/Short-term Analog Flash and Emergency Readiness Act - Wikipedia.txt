@@ -1,0 +1,483 @@
+Short-term Analog Flash and Emergency Readiness Act - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+See also: DTV Delay Act
+The Short-term Analog Flash and Emergency Readiness Act, or SAFER Act, is a U.S. law that required the Federal Communications Commission (FCC) to allow the continuation of full-power analog TV transmissions in 2009 for an additional 30 days for the purpose of broadcasting public service announcements regarding the DTV transition in the United States and emergency information.[1][2] It is also commonly known as the "DTV nightlight bill" or "analog nightlight", referring to a small nightlight that is left on after all of the other lights are out.[3] Despite the analog shutoff deadline being extended to June 12, 2009 as part of the DTV Delay Act, stations that signed off before the deadline were still permitted to participate in the SAFER Act.
+This was allowed for such broadcasts, in both English and Spanish, until July 12, 2009, while normal programming ceased on that date.[4] It was passed by both houses of the U.S. Congress, originating in the U.S. Senate as S. 3668, and approved by the U.S. House in mid-December 2008.[5] Such broadcasts were not required, and for stations which changed from analog to digital broadcasts on the same frequency (known as a flash-cut) this would have been impossible.[6] Only stations signing off early or in the "core spectrum" (channels 2 to 51) were allowed to participate so that channels 52 to 69 could be cleared from the TV broadcasting spectrum. At least one station above 51, Fox affiliate WPGH-TV in Pittsburgh (channel 53), signed off its analog signal on the original February deadline, thereby allowing it to participate in the SAFER Act.[7]
+The act was signed into law by President George W. Bush on December 23, 2008 and the FCC was given until January 15, 2009 to finalize the related rules and regulations.[8] The initial FCC-generated list of eligible stations[9] was published on December 29, 2008.[10] Other stations were encouraged to apply, especially in media markets where no station was listed. Stations only required a special temporary authority (STA) from the FCC to be a part of the service.
+Limited presence of advertising and sponsorship was permitted, insofar as it is needed to allow news broadcasts from the main digital station to be simulcast onto the nightlight channel during an emergency.[11] Commercial activity was otherwise limited to mere identification of sponsors. An updated FCC list of eligible stations, released January 15, 2009, identified twenty-eight stations nationwide which have expressed interest in conducting these broadcasts.[12] The cost per station to operate the transmitters for one month has been estimated at $3500 to $15,000, depending on the frequency, power level, and local electric rates.
+Low-power TV (LPTV) stations are not required to transition to digital broadcasting, thus the bill does not affect them. Because of this exception, several stations throughout the nation, such as Washington, D.C.'s WJLA (ABC) and WDJT-TV (CBS) in Milwaukee, took advantage of the loophole by moving network programming from their former analog full-power stations to purchased or leased LPTV stations in order to continue to provide some form of analog network programming and local news to their market area until such time as digital adoption has been deemed sufficient by the stations. WJLA ended their extended service shortly after the nightlight period, while the special dispensation by CBS for WDJT to air the network on their station ended on December 31, 2009, at which time it began to transmit Me-TV station WBME-TV's main signal until Weigel's low-power analog signals in Milwaukee were turned off at the beginning of 2013.
+After June 12, 2009, a low-power analog station in Chicago, not required to shut down after 30 days like other nightlight stations, aired newscasts that otherwise could not be seen by a number of people after the transition while stations attempted to solve technical and reception problems.[13]
+The FCC reported 121 stations providing nightlight service in 87 markets after the June 12, 2009 transition.[14]
+All of the stations were supposed to be off the air by July 12, 2009, and David Fiske of the FCC said no investigation was planned to ensure compliance. Fiske said someone would have to report a full-power station for violating the rule. Continuation of full-power broadcasting beyond this date was considered to be unlikely, as the stations would have to incur the costs of operating two transmitters.
+While Nielsen estimated that 1.7 million people still could not pick up a digital signal as of July 1, 2009, former acting FCC chair Michael Copps said giving nightlight stations more time was not planned.[15]
+References[edit]
+
+
+
+^ Short-term Analog Flash and Emergency Readiness Act
+^ Text of S. 3663: Short-term Analog Flash and Emergency Readiness Act
+^ Senate: When analog TV goes dark, leave a light on, Jacqui Cheng, ARStechnica, November 24, 2008
+^ Analog: don’t kill it yet, Brad Dick, Broadcast Engineering, December 1st, 2008
+^ Preparing for a blackout: Legislation targets DTV transition, Bluefield WV Daily Telegraph, December 12, 2008
+^ House bill allows some analogue messages after DTV switch, Stephanie Condon. C|Net, December 11, 2008
+^ http://pbrtv.com/blog/entry_902.php
+^ DTV Nightlight Bill Becomes Law, Broadcasting & Cable, 23 December 2008
+^ FCC's list of eligible SAFER Act stations
+^ FCC flips on the night light, Radio Business Report, December 29, 2008
+^ http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-09-2A1.pdf
+^ http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-09-2A2.pdf
+^ Eggerton, John (2009-06-17). "Weigel's Analog Nightlight Could Help Chicago Stations With Reception Issues". Broadcasting & Cable. 
+^ Grotticelli, Michael (2009-06-22). "DTV Transition Not So Smooth in Some Markets". Broadcast Engineering. Retrieved 2009-06-24. 
+^ Eggerton, John (2009-07-13). "Analog Nightlights Go Out". Broadcasting & Cable. Retrieved 2009-07-15. 
+
+
+
+External links[edit]
+
+National Association of Broadcasters: Digital Television Looping Nightlight Program on YouTube
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Telecommunications
+
+
+
+History
+
+
+
+
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Drums
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Internet
+Mass media
+Mobile phone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Smartphone
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+Timeline of communication technology
+Undersea telegraph line
+Videoconferencing
+Videophone
+Videotelephony
+Whistled language
+
+
+
+
+
+Pioneers
+
+
+
+Edwin Howard Armstrong
+John Logie Baird
+Paul Baran
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Vint Cerf
+Claude Chappe
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Erna Schneider Hoover
+Charles K. Kao
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Antonio Meucci
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+
+
+
+
+
+Transmission
+media
+
+
+
+Coaxial cable
+Free-space optical communication
+Molecular communication
+Optical fiber
+Radio waves
+Transmission line
+
+
+
+
+
+Network topology
+and switching
+
+
+
+Links
+Nodes
+Terminal node
+Network switching (circuit
+packet)
+Telephone exchange
+
+
+
+
+
+Multiplexing
+
+
+
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+
+
+
+
+
+Networks
+
+
+
+ARPANET
+BITNET
+Cellular network
+Computer
+CYCLADES
+Ethernet
+FidoNet
+Internet
+ISDN
+LAN
+Mobile
+NGN
+NPL network
+Public Switched Telephone
+Radio
+Telecommunications equipment
+Television
+Telex
+WAN
+Wireless
+World Wide Web
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Short-term_Analog_Flash_and_Emergency_Readiness_Act&oldid=785711694"					
+Categories: Broadcast lawDigital television in the United States 

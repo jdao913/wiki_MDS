@@ -1,0 +1,729 @@
+Slope field - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+The slope field of dy/dx=x2-x-2, with the blue, red, and turquoise lines being (x3/3)-(x2/2)-2x+4, (x3/3)-(x2/2)-2x, and (x3/3)-(x2/2)-2x-4, respectively.
+
+
+The solutions of a first-order differential equation[1] of a scalar function y(x) can be drawn in a 2-dimensional space with the x in horizontal and y in vertical direction. Possible solutions are functions y(x) drawn as solid curves. Sometimes it is too cumbersome solving the differential equation analytically. Then one can still draw the tangents of the function curves e.g on a regular grid. The tangents are touching the functions at the grid points. However, the direction field is rather agnostic about chaotic aspects of the differential equation.
+
+
+
+Contents
+
+
+1 Definition
+
+1.1 Standard case
+1.2 General case of a system of differential equations
+
+
+2 General application
+3 Software for plotting slope fields
+
+3.1 direction field code in GNU Octave/MATLAB
+3.2 Example code for Maxima
+3.3 Example code for Mathematica
+
+
+4 Examples
+5 See also
+6 References
+7 External links
+
+
+
+Definition[edit]
+Standard case[edit]
+The slope field can be defined for the following type of differential equations
+
+
+
+
+
+
+y
+′
+
+=
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle y'=f(x,y)}
+
+,
+
+which can be interpreted geometrically as giving the slope of the tangent to the graph of the differential equation's solution (integral curve) at each point (x, y) as a function of the point coordinates.[2]
+It can be viewed as a creative way to plot a real-valued function of two real variables 
+
+
+
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle f(x,y)}
+
+ as a planar picture. Specifically, for a given pair 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+, a vector with the components 
+
+
+
+[
+1
+,
+f
+(
+x
+,
+y
+)
+]
+
+
+{\displaystyle [1,f(x,y)]}
+
+ is drawn at the point 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+ on the 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+-plane. Sometimes, the vector 
+
+
+
+[
+1
+,
+f
+(
+x
+,
+y
+)
+]
+
+
+{\displaystyle [1,f(x,y)]}
+
+ is normalized to make the plot better looking for a human eye. A set of pairs 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+ making a rectangular grid is typically used for the drawing.
+An isocline (a series of lines with the same slope) is often used to supplement the slope field. In an equation of the form 
+
+
+
+
+y
+′
+
+=
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle y'=f(x,y)}
+
+, the isocline is a line in the 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+-plane obtained by setting 
+
+
+
+f
+(
+x
+,
+y
+)
+
+
+{\displaystyle f(x,y)}
+
+ equal to a constant.
+General case of a system of differential equations[edit]
+Given a system of differential equations,
+
+
+
+
+
+
+
+
+d
+
+x
+
+1
+
+
+
+
+d
+t
+
+
+
+=
+
+f
+
+1
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle {\frac {dx_{1}}{dt}}=f_{1}(t,x_{1},x_{2},\ldots ,x_{n})}
+
+
+
+
+
+
+
+
+
+d
+
+x
+
+2
+
+
+
+
+d
+t
+
+
+
+=
+
+f
+
+2
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle {\frac {dx_{2}}{dt}}=f_{2}(t,x_{1},x_{2},\ldots ,x_{n})}
+
+
+
+
+
+
+
+
+
+⋮
+
+
+{\displaystyle \vdots }
+
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
+x
+
+n
+
+
+
+
+d
+t
+
+
+
+=
+
+f
+
+n
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle {\frac {dx_{n}}{dt}}=f_{n}(t,x_{1},x_{2},\ldots ,x_{n})}
+
+
+
+the slope field is an array of slope marks in the phase space (in any number of dimensions depending on the number of relevant variables; for example, two in the case of a first-order linear ODE, as seen to the right). Each slope mark is centered at a point 
+
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle (t,x_{1},x_{2},\ldots ,x_{n})}
+
+ and is parallel to the vector
+
+
+
+
+
+
+
+(
+
+
+
+1
+
+
+
+
+
+f
+
+1
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+
+
+
+f
+
+2
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+
+
+⋮
+
+
+
+
+
+f
+
+n
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+
+)
+
+
+
+
+{\displaystyle {\begin{pmatrix}1\\f_{1}(t,x_{1},x_{2},\ldots ,x_{n})\\f_{2}(t,x_{1},x_{2},\ldots ,x_{n})\\\vdots \\f_{n}(t,x_{1},x_{2},\ldots ,x_{n})\end{pmatrix}}}
+
+.
+
+The number, position, and length of the slope marks can be arbitrary. The positions are usually chosen such that the points 
+
+
+
+(
+t
+,
+
+x
+
+1
+
+
+,
+
+x
+
+2
+
+
+,
+…
+,
+
+x
+
+n
+
+
+)
+
+
+{\displaystyle (t,x_{1},x_{2},\ldots ,x_{n})}
+
+ make a uniform grid. The standard case, described above, represents 
+
+
+
+n
+=
+1
+
+
+{\displaystyle n=1}
+
+. The general case of the slope field for systems of differential equations is not easy to visualize for 
+
+
+
+n
+>
+2
+
+
+{\displaystyle n>2}
+
+.
+General application[edit]
+With computers, complicated slope fields can be quickly made without tedium, and so an only recently practical application is to use them merely to get the feel for what a solution should be before an explicit general solution is sought. Of course, computers can also just solve for one, if it exists.
+If there is no explicit general solution, computers can use slope fields (even if they aren’t shown) to numerically find graphical solutions. Examples of such routines are Euler's method, or better, the Runge–Kutta methods.
+Software for plotting slope fields[edit]
+Different software packages can plot slope fields.
+
+direction field code in GNU Octave/MATLAB[edit]
+
+
+funn = @(x,y)y-x;                        % function f(x,y)=y-x
+[x,y]=meshgrid(-5:0.5:5);                % intervals for x and y
+slopes=funn(x,y);                        % matrix of slope values
+dy=slopes./sqrt(1+slopes.^2);            % normalize the line element...
+dx=ones(length(dy))./sqrt(1+slopes.^2);  % ...magnitudes for dy and dx
+h=quiver(x,y,dx,dy,0.5);                 % plot the direction field
+set (h, "maxheadsize", 0.1);             % alter head size
+
+Example code for Maxima[edit]
+
+/* field for y'=xy (click on a point to get an integral curve) */
+plotdf( x*y, [x,-2,2], [y,-2,2]);
+
+Example code for Mathematica[edit]
+
+
+(* field for y'=xy *)
+VectorPlot[{1,x*y},{x,-2,2},{y,-2,2}]
+
+Examples[edit]
+
+y' = xy
+
+
+
+
+
+
+Slope field
+
+
+
+
+
+
+
+
+
+Integral curves
+
+
+
+
+
+
+
+
+
+Isoclines (blue), slope field (black), and some solution curves (red)
+
+
+
+
+See also[edit]
+
+Examples of differential equations
+Vector field
+Laplace transform applied to differential equations
+List of dynamical systems and differential equations topics
+Qualitative theory of differential equations
+
+References[edit]
+
+
+
+^ Vladimir A. Dobrushkin (2014). Applied Differential Equations: The Primary Course. CRC Press. p. 13. ISBN 978-1-4987-2835-5. 
+^ Andrei D. Polyanin; Alexander V. Manzhirov (2006). Handbook of Mathematics for Engineers and Scientists. CRC Press. p. 453. ISBN 978-1-58488-502-3. 
+
+
+
+
+Blanchard, Paul; Devaney, Robert L.; and Hall, Glen R. (2002). Differential Equations (2nd ed.). Brooks/Cole: Thompson Learning. ISBN 0-534-38514-1
+
+External links[edit]
+
+Weisstein, Eric W. "Slope field". MathWorld. 
+Slope field plotter
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Slope_field&oldid=788313868"					
+Categories: CalculusDifferential equationsPlots (graphics)Hidden categories: Articles with example MATLAB/Octave code 

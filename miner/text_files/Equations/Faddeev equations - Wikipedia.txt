@@ -1,0 +1,43 @@
+Faddeev equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this article by introducing more precise citations. (January 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article needs attention from an expert in physics. Please add a reason or a talk parameter to this template to explain the issue with the article. WikiProject Physics may be able to help recruit an expert. (November 2008)
+
+
+
+The Faddeev equations, named after their inventor Ludvig Faddeev, are equations that describe, at once, all the possible exchanges/interactions in a system of three particles in a fully quantum mechanical formulation. They can be solved iteratively.
+In general, Faddeev equations need as input a potential that describes the interaction between two individual particles. It is also possible to introduce a term in the equation in order to take also three-body forces into account.
+The Faddeev equations are the most often used non-perturbative formulations of the quantum-mechanical three-body problem. Unlike the three body problem in classical mechanics, the quantum three body problem is uniformly soluble.
+In nuclear physics, the off the energy shell nucleon-nucleon interaction has been studied by analyzing (n,2n) and (p,2p) reactions on deuterium targets, using the Faddeev Equations. The nucleon-nucleon interaction is expanded (approximated) as a series of separable potentials. The Coulomb interaction between two protons is a special problem, in that its expansion in separable potentials does not converge, but this is handled by matching the Faddeev solutions to long range coulomb solutions, instead of to plane waves.
+Separable potentials are interactions that do not preserve a particle's location. Ordinary local potentials can be expressed as sums of separable potentials. The physical nucleon-nucleon interaction, which involves exchange of mesons, is not expected to be either local or separable.
+References[edit]
+
+L.D. Faddeev, S.P. Merkuriev, Quantum Scattering Theory for Several Particle Systems, Springer, August 31, 1993, ISBN 978-0-7923-2414-0.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Faddeev_equations&oldid=784501645"					
+Categories: Particle physicsQuantum mechanicsEquationsHidden categories: Articles lacking in-text citations from January 2011All articles lacking in-text citationsArticles needing expert attention with no reason or talk parameterArticles needing expert attention from November 2008All articles needing expert attentionPhysics articles needing expert attention 

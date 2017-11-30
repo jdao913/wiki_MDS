@@ -1,0 +1,791 @@
+Bethe–Salpeter equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Bethe–Salpeter equation (named after Hans Bethe and Edwin Salpeter)[1] describes the bound states of a two-body (particles) quantum field theoretical system in a relativistically covariant formalism. The equation was actually first published in 1950 at the end of a paper by Yoichiro Nambu, but without derivation.[2]
+
+
+
+
+A graphical representation of the Bethe–Salpeter equation
+
+
+Due to its generality and its application in many branches of theoretical physics, the Bethe–Salpeter equation appears in many different forms. One form, that is quite often used in high energy physics is
+
+
+
+
+
+Γ
+(
+P
+,
+p
+)
+=
+∫
+
+
+
+
+
+d
+
+4
+
+
+k
+
+
+(
+2
+π
+
+)
+
+4
+
+
+
+
+
+
+K
+(
+P
+,
+p
+,
+k
+)
+
+S
+(
+k
+−
+
+
+
+P
+2
+
+
+
+)
+
+Γ
+(
+P
+,
+k
+)
+
+S
+(
+k
++
+
+
+
+P
+2
+
+
+
+)
+
+
+{\displaystyle \Gamma (P,p)=\int \!{\frac {d^{4}k}{(2\pi )^{4}}}\;K(P,p,k)\,S(k-{\tfrac {P}{2}})\,\Gamma (P,k)\,S(k+{\tfrac {P}{2}})}
+
+
+
+where Γ is the Bethe–Salpeter amplitude, K the interaction and S the propagators of the two participating particles.
+In quantum theory, bound states are objects that live for an infinite time (otherwise they are called resonances), thus the constituents interact infinitely many times. By summing up, infinitely many times, all possible interactions that can occur between the two constituents, the Bethe–Salpeter equation is a tool to calculate properties of bound states. Its solution, the Bethe–Salpeter amplitude, is a description of the bound state under consideration.
+As it can be derived via identifying bound-states with poles in the S-matrix, it can be connected to the quantum theoretical description of scattering processes and Green's functions.
+The Bethe–Salpeter equation is a general quantum field theoretical tool, thus applications for it can be found in any quantum field theory. Some examples are positronium (bound state of an electron–positron pair), excitons (bound state of an electron–hole pair[3]), and mesons (as quark-antiquark bound-state).[4]
+Even for simple systems such as the positronium, the equation cannot be solved exactly although the equation can in principle be formulated exactly. Fortunately, a classification of the states can be achieved without the need for an exact solution. If one of the particles is significantly more massive than the other, the problem is considerably simplified as one solves the Dirac equation for the lighter particle under the external potential of the heavier particle.
+
+
+
+Contents
+
+
+1 Derivation
+2 Ladder approximation
+3 Normalization
+4 See also
+5 References
+6 Bibliography
+7 External links
+
+
+
+Derivation[edit]
+The starting point for the derivation of the Bethe–Salpeter equation is the two-particle (or four point) Dyson equation
+
+
+
+
+
+G
+=
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
++
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
+
+
+K
+
+12
+
+
+
+G
+
+
+{\displaystyle G=S_{1}\,S_{2}+S_{1}\,S_{2}\,K_{12}\,G}
+
+
+
+in momentum space, where "G" is the two-particle Green function 
+
+
+
+⟨
+Ω
+
+|
+
+
+ϕ
+
+1
+
+
+
+
+ϕ
+
+2
+
+
+
+
+ϕ
+
+3
+
+
+
+
+ϕ
+
+4
+
+
+
+|
+
+Ω
+⟩
+
+
+{\displaystyle \langle \Omega |\phi _{1}\,\phi _{2}\,\phi _{3}\,\phi _{4}|\Omega \rangle }
+
+, "S" are the free propagators and "K" is an interaction kernel, which contains all possible interaction between the two particles. The crucial step is now, to assume that bound states appear as poles in the Green function. One assumes, that two particles come together and form a bound state with mass "M", this bound state propagates freely, and then the bound state splits in its two constituents again. Therefore, one introduces the Bethe–Salpeter wave function 
+
+
+
+Ψ
+=
+⟨
+Ω
+
+|
+
+
+ϕ
+
+1
+
+
+
+
+ϕ
+
+2
+
+
+
+|
+
+ψ
+⟩
+
+
+{\displaystyle \Psi =\langle \Omega |\phi _{1}\,\phi _{2}|\psi \rangle }
+
+, which is a transition amplitude of two constituents 
+
+
+
+
+ϕ
+
+i
+
+
+
+
+{\displaystyle \phi _{i}}
+
+ into a bound state 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+, and then makes an ansatz for the Green function in the vicinity of the pole as
+
+
+
+
+
+G
+≈
+
+
+
+Ψ
+
+
+
+
+Ψ
+¯
+
+
+
+
+
+
+P
+
+2
+
+
+−
+
+M
+
+2
+
+
+
+
+
+,
+
+
+{\displaystyle G\approx {\frac {\Psi \;{\bar {\Psi }}}{P^{2}-M^{2}}},}
+
+
+
+where P is the total momentum of the system. One sees, that if for this momentum the equation 
+
+
+
+
+P
+
+2
+
+
+=
+
+M
+
+2
+
+
+
+
+{\displaystyle P^{2}=M^{2}}
+
+ holds, what is exactly the Einstein energy-momentum relation (with the Four-momentum 
+
+
+
+
+P
+
+μ
+
+
+=
+
+(
+E
+
+/
+
+c
+,
+
+
+
+p
+→
+
+
+
+)
+
+
+
+{\displaystyle P_{\mu }=\left(E/c,{\vec {p}}\right)}
+
+ and 
+
+
+
+
+P
+
+2
+
+
+=
+
+P
+
+μ
+
+
+
+
+P
+
+μ
+
+
+
+
+{\displaystyle P^{2}=P_{\mu }\,P^{\mu }}
+
+ ) the four-point Green function contains a pole. If one plugs that ansatz into the Dyson equation above, and sets the total momentum "P" such the energy-momentum relation holds, on both sides of the term a pole appears.
+
+
+
+
+
+
+
+
+Ψ
+
+
+
+
+Ψ
+¯
+
+
+
+
+
+
+P
+
+2
+
+
+−
+
+M
+
+2
+
+
+
+
+
+=
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
++
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
+
+
+K
+
+12
+
+
+
+
+
+Ψ
+
+
+
+
+Ψ
+¯
+
+
+
+
+
+
+P
+
+2
+
+
+−
+
+M
+
+2
+
+
+
+
+
+
+
+{\displaystyle {\frac {\Psi \;{\bar {\Psi }}}{P^{2}-M^{2}}}=S_{1}\,S_{2}+S_{1}\,S_{2}\,K_{12}{\frac {\Psi \;{\bar {\Psi }}}{P^{2}-M^{2}}}}
+
+
+
+Comparing the residues yields
+
+
+
+
+
+Ψ
+=
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
+
+
+K
+
+12
+
+
+Ψ
+,
+
+
+
+{\displaystyle \Psi =S_{1}\,S_{2}\,K_{12}\Psi ,\,}
+
+
+
+This is already the Bethe–Salpeter equation, written in terms of the Bethe–Salpeter wave functions. To obtain the above form one introduces the Bethe–Salpeter amplitudes "Γ"
+
+
+
+
+
+Ψ
+=
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
+
+Γ
+
+
+{\displaystyle \Psi =S_{1}\,S_{2}\,\Gamma }
+
+
+
+and gets finally
+
+
+
+
+
+Γ
+=
+
+K
+
+12
+
+
+
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
+
+Γ
+
+
+{\displaystyle \Gamma =K_{12}\,S_{1}\,S_{2}\,\Gamma }
+
+
+
+which is written down above, with the explicit momentum dependence.
+Ladder approximation[edit]
+
+
+
+
+A graphical representation of the Bethe–Salpeter equation in Ladder-approximation
+
+
+In principle the interaction kernel K contains all possible two-particle-irreducible interactions that can occur between the two constituents. Thus, in practical calculations one has to model it and only choose a subset of the interactions. As in quantum field theories, interaction is described via the exchange of particles (e.g. photons in quantum electrodynamics, or gluons in quantum chromodynamics), the most simple interaction is the exchange of only one of these force-particles.
+As the Bethe–Salpeter equation sums up the interaction infinitely many times, the resulting Feynman graph has the form of a ladder.
+While in Quantum electrodynamics the ladder approximation caused problems with crossing symmetry and gauge invariance and thus crossed ladder terms had to be included, in Quantum chromodynamics this approximation is used phenomenologically quite a lot to calculate hadron masses,[4] since it respects Chiral symmetry breaking and therefore is an important part of the generation of these masses.
+Normalization[edit]
+As for any homogeneous equation, the solution of the Bethe–Salpeter equation is determined only up to a numerical factor. This factor has to be specified by a certain normalization condition. For the Bethe–Salpeter amplitudes this is usually done by demanding probability conservation (similar to the normalization of the quantum mechanical Wave function), which corresponds to the equation [5]
+
+
+
+
+
+2
+
+P
+
+μ
+
+
+=
+
+
+
+Γ
+¯
+
+
+
+
+(
+
+
+∂
+
+∂
+
+P
+
+μ
+
+
+
+
+
+
+(
+
+S
+
+1
+
+
+⊗
+
+S
+
+2
+
+
+)
+
+−
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
+
+
+(
+
+
+∂
+
+∂
+
+P
+
+μ
+
+
+
+
+
+
+K
+)
+
+
+
+S
+
+1
+
+
+
+
+S
+
+2
+
+
+)
+
+Γ
+
+
+{\displaystyle 2P_{\mu }={\bar {\Gamma }}\left({\frac {\partial }{\partial P_{\mu }}}\left(S_{1}\otimes S_{2}\right)-S_{1}\,S_{2}\,\left({\frac {\partial }{\partial P_{\mu }}}\,K\right)\,S_{1}\,S_{2}\right)\Gamma }
+
+
+
+Normalizations to the charge and energy-momentum tensor of the bound state lead to the same equation. In ladder approximation the Interaction kernel does not depend on the total momentum of the Bethe–Salpeter amplitude, thus, for this case, the second term of the normalization condition vanishes.
+See also[edit]
+
+Lippmann–Schwinger equation
+Schwinger–Dyson equation
+Breit equation
+Two-body Dirac equations
+YAMBO code – plane wave
+ABINIT – plane wave
+
+References[edit]
+
+
+
+^ H. Bethe, E. Salpeter (1951). "A Relativistic Equation for Bound-State Problems". Physical Review. 84 (6): 1232. Bibcode:1951PhRv...84.1232S. doi:10.1103/PhysRev.84.1232. 
+^ Y. Nambu (1950). "Force Potentials in Quantum Field Theory". Progress of Theoretical Physics. 5 (4): 614. doi:10.1143/PTP.5.614. 
+^ M. S. Dresselhaus; et al. (2007). "Exciton Photophysics of Carbon Nanotubes". Annual Review of Physical Chemistry. 58: 719. Bibcode:2007ARPC...58..719D. doi:10.1146/annurev.physchem.58.032806.104628. 
+^ a b P. Maris and P. Tandy (2006). "QCD modeling of hadron physics". Nuclear Physics B. 161: 136. arXiv:nucl-th/0511017 . Bibcode:2006NuPhS.161..136M. doi:10.1016/j.nuclphysbps.2006.08.012. 
+^ N. Nakanishi (1969). "A general survey of the theory of the Bethe–Salpeter equation". Progress of Theoretical Physics Supplement. 43: 1–81. Bibcode:1969PThPS..43....1N. doi:10.1143/PTPS.43.1. 
+
+
+
+Bibliography[edit]
+Many modern quantum field theory textbooks and a few articles provide pedagogical accounts for the Bethe–Salpeter equation's context and uses. See:
+
+W. Greiner, J. Reinhardt (2003). Quantum Electrodynamics (3rd ed.). Springer. ISBN 978-3-540-44029-1. 
+Z.K. Silagadze (1998). "Wick–Cutkosky model: An introduction". arXiv:hep-ph/9803307  [hep-ph]. 
+
+Still a good introduction is given by the review article of Nakanishi
+
+N. Nakanishi (1969). "A general survey of the theory of the Bethe–Salpeter equation". Progress of Theoretical Physics Supplement. 43: 1–81. Bibcode:1969PThPS..43....1N. doi:10.1143/PTPS.43.1. 
+
+For historical aspects, see
+
+E.E. Salpeter (2008). "Bethe–Salpeter equation (origins)". Scholarpedia. 3 (11): 7483. arXiv:0811.1050 . Bibcode:2008SchpJ...3.7483S. doi:10.4249/scholarpedia.7483. 
+
+External links[edit]
+
+BerkeleyGW – plane-wave pseudopotential method
+ExC - plane wave
+Fiesta - Gaussian all-electron method
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Bethe–Salpeter_equation&oldid=808725453"					
+Categories: Quantum field theoryEquations of physicsQuantum mechanics 

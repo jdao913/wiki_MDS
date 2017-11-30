@@ -1,0 +1,129 @@
+Davies equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Davies equation is an empirical extension of Debye–Hückel theory which can be used to calculate activity coefficients of electrolyte solutions at relatively high concentrations at 25 °C. The equation, originally published in 1938,[1] was refined by fitting to experimental data. The final form of the equation gives the mean molal activity coefficient 
+
+
+
+
+f
+
+±
+
+
+
+
+{\displaystyle f_{\pm }}
+
+ of an electrolyte that dissociates into ions having charges z1 and z2 as a function of ionic strength I:
+
+
+
+
+Semi-log plot of activity coefficients calculated using the Davies equation
+
+
+
+
+
+
+Plot of activity coefficients calculated using the Davies equation
+
+
+
+
+
+
+
+−
+log
+⁡
+
+f
+
+±
+
+
+=
+0.5
+
+z
+
+1
+
+
+
+z
+
+2
+
+
+
+(
+
+
+
+I
+
+
+1
++
+
+
+I
+
+
+
+
+
+−
+0.30
+I
+)
+
+.
+
+
+{\displaystyle -\log f_{\pm }=0.5z_{1}z_{2}\left({\frac {\sqrt {I}}{1+{\sqrt {I}}}}-0.30I\right).}
+
+
+
+The second term, 0.30 I, goes to zero as the ionic strength goes to zero, so the equation reduces to the Debye–Hückel equation at low concentration. However, as concentration increases, the second term becomes increasingly important, so the Davies equation can be used for solutions too concentrated to allow the use of the Debye–Hückel equation. For 1:1 electrolytes the difference between measured values and those calculated with this equation is about 2% of the value for 0.1 M solutions. The calculations become less precise for electrolytes that dissociate into ions with higher charges. Further discrepancies will arise if there is association between the ions, with the formation of ion pairs, such as Mg2+SO42−.
+See also[edit]
+
+Osmotic coefficient
+Pitzer equations
+
+References[edit]
+
+
+
+^ Davies, C. W. (1962). Ion Association. London: Butterworths. pp. 37–53. 
+
+
+
+
+
+
+This chemistry-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Davies_equation&oldid=767806994"					
+Categories: Thermodynamic equationsChemical thermodynamicsEquilibrium chemistryElectrochemical equationsChemistry stubsHidden categories: All stub articles 

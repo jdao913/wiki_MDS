@@ -1,0 +1,170 @@
+Birch's theorem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, Birch's theorem,[1] named for Bryan John Birch, is a statement about the representability of zero by odd degree forms.
+Statement of Birch's theorem[edit]
+Let K be an algebraic number field, k, l and n be natural numbers, r1, . . . ,rk be odd natural numbers, and f1, . . . ,fk be homogeneous polynomials with coefficients in K of degrees r1, . . . ,rk respectively in n variables, then there exists a number ψ(r1, . . . ,rk,l,K) such that
+
+
+
+
+
+n
+≥
+ψ
+(
+
+r
+
+1
+
+
+,
+…
+,
+
+r
+
+k
+
+
+,
+l
+,
+K
+)
+
+
+{\displaystyle n\geq \psi (r_{1},\ldots ,r_{k},l,K)}
+
+
+
+implies that there exists an l-dimensional vector subspace V of Kn such that
+
+
+
+
+
+
+f
+
+1
+
+
+(
+x
+)
+=
+⋯
+=
+
+f
+
+k
+
+
+(
+x
+)
+=
+0
+,
+
+∀
+x
+∈
+V
+.
+
+
+{\displaystyle f_{1}(x)=\cdots =f_{k}(x)=0,\quad \forall x\in V.}
+
+
+
+Remarks[edit]
+The proof of the theorem is by induction over the maximal degree of the forms f1, . . . ,fk. Essential to the proof is a special case, which can be proved by an application of the Hardy–Littlewood circle method, of the theorem which states that if n is sufficiently large and r is odd, then the equation
+
+
+
+
+
+
+c
+
+1
+
+
+
+x
+
+1
+
+
+r
+
+
++
+⋯
++
+
+c
+
+n
+
+
+
+x
+
+n
+
+
+r
+
+
+=
+0
+,
+
+
+c
+
+i
+
+
+∈
+
+Z
+
+,
+i
+=
+1
+,
+…
+,
+n
+
+
+{\displaystyle c_{1}x_{1}^{r}+\cdots +c_{n}x_{n}^{r}=0,\quad c_{i}\in \mathbb {Z} ,i=1,\ldots ,n}
+
+
+
+has a solution in integers x1, . . . ,xn, not all of which are 0.
+The restriction to odd r is necessary, since even-degree forms, such as positive definite quadratic forms, may take the value 0 only at the origin.
+References[edit]
+
+
+^ B. J. Birch, Homogeneous forms of odd degree in a large number of variables, Mathematika, 4, pages 102–105 (1957)
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Birch%27s_theorem&oldid=634817522"					
+Categories: Diophantine equationsAnalytic number theoryTheorems in number theory 

@@ -1,0 +1,74 @@
+Algebroid function - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In Mathematics, an algebroid function is a solution of an algebraic equation whose coefficients are analytic functions. So y(z) is an algebroid function if it satisfies
+
+
+
+
+
+
+a
+
+d
+
+
+(
+z
+)
+
+y
+
+d
+
+
++
+…
++
+
+a
+
+0
+
+
+(
+z
+)
+=
+0
+,
+
+
+{\displaystyle a_{d}(z)y^{d}+\ldots +a_{0}(z)=0,}
+
+
+
+where 
+
+
+
+
+a
+
+k
+
+
+(
+z
+)
+
+
+{\displaystyle a_{k}(z)}
+
+ are analytic. If this equation is irreducible then the function is d-valued, and can be defined on a Riemann surface having d sheets.
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Algebroid_function&oldid=713416464"					
+Categories: Analytic functionsEquations 

@@ -1,0 +1,899 @@
+Consistent and inconsistent equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+In mathematics and in particular in algebra, a linear or nonlinear system of equations is consistent if there is at least one set of values for the unknowns that satisfies every equation in the system—that is, that when substituted into each of the equations makes the equation hold true as an identity. In contrast, an equation system is inconsistent if there is no set of values for the unknowns that satisfies all of the equations.
+If a system of equations is inconsistent, then it is possible to manipulate and combine the equations in such a way as to obtain contradictory information, such as 2 = 1, or x3 + y3 = 5 and x3 + y3 = 6 (which implies 5 = 6).
+Both types of equation system, consistent and inconsistent, can be any of overdetermined (having more equations than unknowns), underdetermined (having fewer equations than unknowns), or exactly determined.
+
+
+
+Contents
+
+
+1 Simple examples
+
+1.1 Underdetermined and consistent
+1.2 Underdetermined and inconsistent
+1.3 Exactly determined and consistent
+1.4 Exactly determined and inconsistent
+1.5 Overdetermined and consistent
+1.6 Overdetermined and inconsistent
+
+
+2 Criteria for consistency
+
+2.1 Linear systems
+2.2 Nonlinear systems
+
+
+
+
+
+Simple examples[edit]
+Underdetermined and consistent[edit]
+The system
+
+
+
+
+
+x
++
+y
++
+z
+=
+3
+,
+
+
+{\displaystyle x+y+z=3,}
+
+
+
+
+
+
+
+
+x
++
+y
++
+2
+z
+=
+4
+
+
+{\displaystyle x+y+2z=4}
+
+
+
+has an infinite number of solutions, all of them having z = 1 (as can be seen by subtracting the first equation from the second), and all of them therefore having x+y = 2 for any values of x and y.
+The nonlinear system
+
+
+
+
+
+
+x
+
+2
+
+
++
+
+y
+
+2
+
+
++
+
+z
+
+2
+
+
+=
+10
+,
+
+
+{\displaystyle x^{2}+y^{2}+z^{2}=10,}
+
+
+
+
+
+
+
+x
+
+2
+
+
++
+
+y
+
+2
+
+
+=
+5
+
+
+{\displaystyle x^{2}+y^{2}=5}
+
+
+
+has an infinitude of solutions, all involving 
+
+
+
+z
+=
+±
+
+
+5
+
+
+.
+
+
+{\displaystyle z=\pm {\sqrt {5}}.}
+
+
+Since each of these systems has more than one solution, it is an indeterminate system.
+Underdetermined and inconsistent[edit]
+The system
+
+
+
+
+
+x
++
+y
++
+z
+=
+3
+,
+
+
+{\displaystyle x+y+z=3,}
+
+
+
+
+
+
+
+
+x
++
+y
++
+z
+=
+4
+
+
+{\displaystyle x+y+z=4}
+
+
+
+has no solutions, as can be seen by subtracting the first equation from the second to obtain the impossible 0 = 1.
+The nonlinear system
+
+
+
+
+
+
+x
+
+2
+
+
++
+
+y
+
+2
+
+
++
+
+z
+
+2
+
+
+=
+10
+,
+
+
+{\displaystyle x^{2}+y^{2}+z^{2}=10,}
+
+
+
+
+
+
+
+x
+
+2
+
+
++
+
+y
+
+2
+
+
++
+
+z
+
+2
+
+
+=
+12
+
+
+{\displaystyle x^{2}+y^{2}+z^{2}=12}
+
+
+
+has no solutions, because if one equation is subtracted from the other we obtain the impossible 0 = 2.
+Exactly determined and consistent[edit]
+The system
+
+
+
+
+
+x
++
+y
+=
+3
+,
+
+
+{\displaystyle x+y=3,}
+
+
+
+
+
+
+x
++
+2
+y
+=
+5
+
+
+{\displaystyle x+2y=5}
+
+
+
+has exactly one solution: x = 1, y= 2.
+The nonlinear system
+
+
+
+
+
+x
++
+y
+=
+1
+,
+
+
+{\displaystyle x+y=1,}
+
+
+
+
+
+
+
+x
+
+2
+
+
++
+
+y
+
+2
+
+
+=
+1
+
+
+{\displaystyle x^{2}+y^{2}=1}
+
+
+
+has the two solutions (x, y) = (1, 0) and (x, y) = (0, 1), while
+
+
+
+
+
+
+x
+
+3
+
+
++
+
+y
+
+3
+
+
++
+
+z
+
+3
+
+
+=
+10
+,
+
+
+{\displaystyle x^{3}+y^{3}+z^{3}=10,}
+
+
+
+
+
+
+
+x
+
+3
+
+
++
+2
+
+y
+
+3
+
+
++
+
+z
+
+3
+
+
+=
+12
+,
+
+
+{\displaystyle x^{3}+2y^{3}+z^{3}=12,}
+
+
+
+
+
+
+3
+
+x
+
+3
+
+
++
+5
+
+y
+
+3
+
+
++
+3
+
+z
+
+3
+
+
+=
+34
+
+
+{\displaystyle 3x^{3}+5y^{3}+3z^{3}=34}
+
+
+
+has an infinite number of solutions because the third equation is the first equation plus twice the second one and hence contains no independent information; thus any value of z can be chosen and values of x and y can be found to satisfy the first two (and hence the third) equations.
+Exactly determined and inconsistent[edit]
+The system
+
+
+
+
+
+x
++
+y
+=
+3
+,
+
+
+{\displaystyle x+y=3,}
+
+
+
+
+
+
+4
+x
++
+4
+y
+=
+10
+
+
+{\displaystyle 4x+4y=10}
+
+
+
+has no solutions; the inconsistency can be seen by multiplying the first equation by 4 and subtracting the second equation to obtain the impossible 0 = 2.
+Likewise,
+
+
+
+
+
+
+x
+
+3
+
+
++
+
+y
+
+3
+
+
++
+
+z
+
+3
+
+
+=
+10
+,
+
+
+{\displaystyle x^{3}+y^{3}+z^{3}=10,}
+
+
+
+
+
+
+
+x
+
+3
+
+
++
+2
+
+y
+
+3
+
+
++
+
+z
+
+3
+
+
+=
+12
+,
+
+
+{\displaystyle x^{3}+2y^{3}+z^{3}=12,}
+
+
+
+
+
+
+3
+
+x
+
+3
+
+
++
+5
+
+y
+
+3
+
+
++
+3
+
+z
+
+3
+
+
+=
+32
+
+
+{\displaystyle 3x^{3}+5y^{3}+3z^{3}=32}
+
+
+
+is an inconsistent system because the first equation plus twice the second minus the third contains the contradiction 0 = 2.
+Overdetermined and consistent[edit]
+The system
+
+
+
+
+
+x
++
+y
+=
+3
+,
+
+
+{\displaystyle x+y=3,}
+
+
+
+
+
+
+x
++
+2
+y
+=
+7
+,
+
+
+{\displaystyle x+2y=7,}
+
+
+
+
+
+
+4
+x
++
+6
+y
+=
+20
+
+
+{\displaystyle 4x+6y=20}
+
+
+
+has a solution, x = –1, y = 4, because the first two equations do not contradict each other and the third equation is redundant (since it contains the same information as can be obtained from the first two equations by multiplying each through by 2 and summing them).
+The system
+
+
+
+
+
+x
++
+2
+y
+=
+7
+,
+
+
+{\displaystyle x+2y=7,}
+
+
+
+
+
+
+3
+x
++
+6
+y
+=
+21
+,
+
+
+{\displaystyle 3x+6y=21,}
+
+
+
+
+
+
+7
+x
++
+14
+y
+=
+49
+
+
+{\displaystyle 7x+14y=49}
+
+
+
+has an infinitude of solutions since all three equations give the same information as each other (as can be seen by multiplying through the first equation by either 3 or 7). Any value of y is part of a solution, with the corresponding value of x being 7–2y.
+The nonlinear system
+
+
+
+
+
+
+x
+
+2
+
+
+−
+1
+=
+0
+,
+
+
+{\displaystyle x^{2}-1=0,}
+
+
+
+
+
+
+
+y
+
+2
+
+
+−
+1
+=
+0
+,
+
+
+{\displaystyle y^{2}-1=0,}
+
+
+
+
+
+
+(
+x
+−
+1
+)
+(
+y
+−
+1
+)
+=
+0
+
+
+{\displaystyle (x-1)(y-1)=0}
+
+
+
+has the three solutions (x, y) = (1, –1), (–1, 1), and (1, 1).
+Overdetermined and inconsistent[edit]
+The system
+
+
+
+
+
+x
++
+y
+=
+3
+,
+
+
+{\displaystyle x+y=3,}
+
+
+
+
+
+
+x
++
+2
+y
+=
+7
+,
+
+
+{\displaystyle x+2y=7,}
+
+
+
+
+
+
+4
+x
++
+6
+y
+=
+21
+
+
+{\displaystyle 4x+6y=21}
+
+
+
+is inconsistent because the last equation contradicts the information embedded in the first two, as seen by multiplying each of the first two through by 2 and summing them.
+The system
+
+
+
+
+
+
+x
+
+2
+
+
++
+
+y
+
+2
+
+
+=
+1
+,
+
+
+{\displaystyle x^{2}+y^{2}=1,}
+
+
+
+
+
+
+
+x
+
+2
+
+
++
+2
+
+y
+
+2
+
+
+=
+2
+,
+
+
+{\displaystyle x^{2}+2y^{2}=2,}
+
+
+
+
+
+
+2
+
+x
+
+2
+
+
++
+3
+
+y
+
+2
+
+
+=
+4
+
+
+{\displaystyle 2x^{2}+3y^{2}=4}
+
+
+
+is inconsistent because the sum of the first two equations contradicts the third one.
+Criteria for consistency[edit]
+As can be seen from the above examples, consistency versus inconsistency is a different issue from comparing the numbers of equations and unknowns.
+Linear systems[edit]
+Main article: Linear equation system § Consistency
+A linear system is consistent if and only if its coefficient matrix has the same rank as does its augmented matrix (the coefficient matrix with an extra column added, that column being the column vector of constants).
+Nonlinear systems[edit]
+Main article: System of polynomial equations § What is solving?
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Consistent_and_inconsistent_equations&oldid=810485269"					
+Categories: EquationsAlgebra 

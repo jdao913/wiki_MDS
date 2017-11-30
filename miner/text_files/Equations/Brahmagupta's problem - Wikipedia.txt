@@ -1,0 +1,78 @@
+Brahmagupta's problem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This problem was given in India by the mathematician Brahmagupta in 628 AD in his treatise Brahma Sputa Siddhanta:
+solve the Pell equation
+
+
+
+
+
+
+x
+
+2
+
+
+−
+92
+
+y
+
+2
+
+
+=
+1.
+
+
+{\displaystyle x^{2}-92y^{2}=1.}
+
+
+
+Brahmagupta gave the smallest solution as
+
+
+
+
+
+(
+x
+,
+y
+)
+=
+(
+1151
+,
+120
+)
+.
+
+
+{\displaystyle (x,y)=(1151,120).}
+
+
+
+See also[edit]
+
+Brahmagupta
+Indian mathematics
+List of Indian mathematicians
+Pell's equation
+Indeterminate equation
+Diophantine equation
+
+External links[edit]
+Weisstein, Eric W. "Brahmagupta's Problem". MathWorld. 
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Brahmagupta%27s_problem&oldid=694877561"					
+Categories: BrahmaguptaDiophantine equations 

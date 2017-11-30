@@ -1,0 +1,144 @@
+Loretto v. Teleprompter Manhattan CATV Corp. - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Loretto v. Teleprompter Manhattan CATV Corp.
+
+
+
+
+
+Supreme Court of the United States
+
+
+
+Argued March 30, 1982
+Decided June 30, 1982
+
+
+Full case name
+Loretto v. Teleprompter Manhattan CATV Corp. et al.
+
+
+Citations
+458 U.S. 419 (more)
+
+
+Prior history
+On appeal from the New York Court of Appeals
+
+
+Holding
+
+
+When the character of the governmental action is a permanent physical occupation of property, the government actions effects taking to the extent of the occupation, without regard as to whether the action achieves an important public benefit or has only minimal economic impact on the owner.
+
+
+Court membership
+
+
+
+
+Chief Justice
+Warren E. Burger
+Associate Justices
+William J. Brennan, Jr. · Byron White
+Thurgood Marshall · Harry Blackmun
+Lewis F. Powell, Jr. · William Rehnquist
+John P. Stevens · Sandra Day O'Connor
+
+
+
+
+Case opinions
+
+
+Majority
+Marshall, joined by Burger, Powell, Rehnquist, Stevens, O'Connor
+
+
+Dissent
+Blackmun, joined by Brennan, White
+
+
+Laws applied
+
+
+U.S. Const. amends. V, XIV
+
+
+Loretto v. Teleprompter Manhattan CATV Corp., 458 U.S. 419 (1982),[1] was a case in which the Supreme Court of the United States held that when the character of the governmental action is a permanent physical occupation of property, the government actions effects regulatory taking to the extent of the occupation, without regard to whether the action achieves an important public benefit or has only minimal economic impact on the owner. In doing so, it established the permanent physical presence test for regulatory takings.
+
+
+
+Contents
+
+
+1 Background
+
+1.1 Procedural history
+
+
+2 Arguments
+
+2.1 Loretto's argument
+2.2 Manhattan Teleprompter's argument
+
+
+3 Holding
+
+3.1 Dissent
+
+
+4 Aftermath
+
+4.1 Legacy
+
+
+5 See also
+6 References
+
+
+
+Background[edit]
+Section 828 of the Executive Law of New York required certain property owners to permit installation and maintenance of certain cable television wires on their property. Jean Loretto owned a five-story apartment building located at 303 West 105th Street, New York City. Prior to Loretto's acquisition of the property, Manhattan Teleprompter installed cable television wires on Loretto's property pursuant to § 828 of the Executive Law.
+Procedural history[edit]
+Loretto, on behalf of all property owners so situated, sued Manhattan Teleprompter for trespass and—insofar as Teleprompter relied on § 828—a taking without just compensation, and requested damages and injunctive relief; the City of New York intervened in the case. The New York Supreme Court upheld the constitutionality of the statute and rendered summary judgment for Manhattan Teleprompter, finding that non-crossover installations constituted a taking for which just compensation is due, but here the law served a legitimate public purpose there is no significant economic impact on expectations of investors, rejecting the theory that physical presence is per se a taking. The judgment was affirmed by the New York Court of Appeals. Loretto petitioned the Supreme Court for certiorari, which was granted by the U.S. Supreme Court.
+Arguments[edit]
+The Court addressed the issue of whether Manhattan Teleprompter's minor but permanent physical occupation of Loretto's property constitutes a physical taking of property for which just compensation is due under the Fifth Amendment, as incorporated against the states by the Fourteenth Amendment.
+Loretto's argument[edit]
+Loretto argued that Manhattan Teleprompter's minor but permanent physical occupation of Loretto's property was a trespass. Since a statute made the trespass permissible, it constituted a "taking" of property for which just compensation was due.
+Manhattan Teleprompter's argument[edit]
+Manhattan Teleprompter claimed that their minor but permanent physical occupation of Plaintiff's property did not constitute a "taking" of property. Section 828 of the Executive Law applied only to rental property, and was simply a regulation on the permissible use of such rental property. New York had also effectively granted tenants the right to enjoy cable television, which is not in itself a taking. Additionally, they claimed that application of a per se rule would have dire consequences for regulation of landlord/tenant relationships.
+Holding[edit]
+The Court held that regardless as to whether the action achieves an important public benefit or has only minimal economic impact on the owner, Manhattan Teleprompter's minor but permanent physical occupation of Loretto's property constituted a regulatory taking of property for which just compensation is due under the Fifth and Fourteenth Amendments of the Constitution, reversing the judgment of the lower New York state courts.
+Writing for the majority, Justice Marshall argued that Penn Central Transportation Co. v. New York City (1978) held that there is no set formula for finding a taking. He noted that the Court in Pumpelly v. Green Bay Company (1871) held that a physical presence with the effect of impairing property's usefulness is a taking. Recent cases focused on the importance of physical invasion as a taking. Justice Marshall noted that the right to exclude is one of the most essential "sticks in the bundle of rights" that are commonly characterized as property. Insofar as invasion exists, it destroys each of these rights (to possess, to use, and to dispose). The Court found that owners have an expectation of privacy, without invasion. In contrast to the dissent, Justice Marshall noted that a bright-line "invasion rule" avoids ambiguity as to both law and fact. He noted that contrary to the assertions of the Manhattan Teleprompter and co-defendants, a physical occupation of only rental property does not make this less of a taking, that the statute in question does not purport to give the tenant any additional rights, and that a ruling against Manhattan Teleprompter will not reverse the broad discretion the Court affords to states in regulating landlord/tenant relationships.
+Dissent[edit]
+Justice Blackmun, joined by Justice Brennan and Justice White, wrote a dissent arguing against an automatic rule to determine whether there is a taking, and objected to drawing an artificial distinction between temporary and permanent physical presence. Instead, there should be a multi-factor balancing test that considers: (1) whether the State has interfered in some minimal way with the use of space on her building and (2) the extent of the State's interference, and whether it is so severe as to constitute a compensable taking.
+Aftermath[edit]
+On remand, the New York Court of Appeals upheld the validity of the statutory provisions empowering the Commission on Cable Television to set compensation for the taking at $1. The Commission concluded that the property value would increase as a result of cable television access, and as such $1 would be sufficient compensation for the permanent intrusion.[2]
+Legacy[edit]
+This case established, for the first time[citation needed] (but purported to reestablish) that permanent physical presence constitutes a taking per se.
+See also[edit]
+
+List of United States Supreme Court cases, volume 458
+
+References[edit]
+
+
+^ 458 U.S. 419 Full text of the opinion courtesy of Findlaw.com.
+^ 446 N.E.2d 428 (N.Y. 1983)
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Loretto_v._Teleprompter_Manhattan_CATV_Corp.&oldid=749154207"					
+Categories: United States Supreme Court casesUnited States land use case law1982 in United States case lawTakings Clause case lawCable television in the United StatesHistory of New York CityUnited States Supreme Court cases of the Burger CourtHidden categories: All articles with unsourced statementsArticles with unsourced statements from April 2013 

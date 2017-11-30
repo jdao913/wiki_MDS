@@ -1,0 +1,1775 @@
+High-definition television in the United States - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+High-definition television (HDTV) in the United States was introduced in 1998 and has since become increasingly popular and dominant in the television market. Hundreds of HD channels are available in millions of homes and businesses both terrestrially and via subscription services such as satellite, cable and IPTV. HDTV has quickly become the standard, with about 85% of all TVs used being HD as of 2017.[1] In the US, the 720p and 1080i formats are used for linear channels, while 1080p is available on a limited basis, mainly for pay-per-view and Video on Demand content.
+
+
+
+Contents
+
+
+1 From proposals to introduction
+2 Satellite and cable
+3 List of current American high-definition channels
+4 See also
+5 References
+
+
+
+From proposals to introduction[edit]
+The Federal Communications Commission (FCC) began soliciting proposals for a new television standard for the U.S. in the late 1980s and later decided to ask companies competing to create the standard to pool their resources and work together, forming what was known as the Grand Alliance in 1993.
+On July 23, 1996, WRAL-TV (then the CBS affiliate in Raleigh, North Carolina; now affiliated with NBC) became the first television station in the United States to broadcast a digital television signal.[2]
+HDTV sets became available in the U.S. in 1998 and broadcasts began around November 1998. The first public HDTV broadcast was of the launch of the space shuttle Discovery and John Glenn's return to space; that broadcast was made possible in part by the Harris Corporation.[3] The first commercial broadcast of a local sporting event in HD was during Major League Baseball's Opening Day on March 31, 1998, the Texas Rangers against the Chicago White Sox from The Ballpark in Arlington in Arlington, TX. The telecast was produced by LIN Productions, and overseen by LIN Productions president and Texas Rangers television executive producer Lee Spieckerman. The game was also the inaugural telecast on the digital channel of Dallas/Fort Worth, Texas NBC affiliate KXAS channel 5. The historic event was simultaneously shown via satellite at a reception attended by members of congress, the FCC and other luminaries in Washington, DC. This telecast was also the first commercial HD broadcast in the state of Texas.[4] The first major sporting event broadcast nationwide in HD was Super Bowl XXXIV on January 30, 2000.
+Satellite and cable[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2014) (Learn how and when to remove this template message)
+
+
+
+Satellite television companies in the United States, such as Dish Network and DirecTV, started to carry HD programming in 2002. Satellite transmissions in the U.S. use various forms of PSK modulation. A separate tuner is required to receive HD satellite broadcasts.
+Cable television companies in the U.S. generally prefer to use 256-QAM to transmit HDTV. Many of the newer HDTVs with integrated digital tuners include support for decoding 256-QAM in addition to 8VSB for OTA digital. Cable television companies started carrying HDTV in 2003.
+Currently, HD programming is carried by all major television networks in nearly all DMAs, including ABC, CBS, NBC, FOX, PBS, The CW, MyNetworkTV and Telemundo; and on many independent stations. All but a select few of cable networks offer an HD broadcast to cable and satellite companies.
+List of current American high-definition channels[edit]
+
+
+Name
+HD Format
+Category
+Type
+
+
+A&E
+1080i
+Entertainment
+Cable
+
+
+ABC
+720p
+Broadcast
+Broadcast
+
+
+AccuWeather Network
+1080i
+News
+Cable
+
+
+Adult Swim
+1080i
+Entertainment
+Cable
+
+
+Altitude
+1080i
+Sports
+Cable
+
+
+AMC
+1080i
+Entertainment
+Cable
+
+
+American Heroes Channel
+1080i
+Entertainment
+Cable
+
+
+Animal Planet
+1080i
+Lifestyle
+Cable
+
+
+AT&T SportsNet
+720p
+Sports – Regional
+Cable
+
+
+ASPiRE
+1080i
+Entertainment
+Cable
+
+
+Audience
+720p
+Entertainment
+Cable
+
+
+AWE
+1080i
+Lifestyle
+Cable
+
+
+AXS TV
+1080i
+Entertainment
+Cable
+
+
+Azteca
+1080i
+Broadcast – Spanish
+Broadcast
+
+
+BBC America
+1080i
+Entertainment
+Cable
+
+
+BBC World News
+1080i
+News
+Cable
+
+
+beIN Sports
+720p
+Sports
+Cable
+
+
+beIN Sports en Español
+720p
+Sports – Spanish
+Cable
+
+
+BET
+1080i
+Entertainment
+Cable
+
+
+BET Her
+1080i
+Entertainment
+Cable
+
+
+Big Ten Network
+720p
+Sports
+Cable
+
+
+Bloomberg TV
+1080i
+News
+Cable
+
+
+Bravo
+1080i
+Lifestyle
+Cable
+
+
+Cars.TV
+1080i
+Sports
+Cable
+
+
+Cartoon Network
+1080i
+Family
+Cable
+
+
+CBS
+1080i
+Broadcast
+Broadcast
+
+
+CBS Sports Network
+1080i
+Sports
+Cable
+
+
+Cinemax(MoreMax, ActionMax, ThillerMax, 5starMax, MovieMax, OuterMax, MaxLatino)
+1080i
+Premium Movies
+Premium
+
+
+CMT
+1080i
+Entertainment
+Cable
+
+
+CNBC
+1080i
+News
+Cable
+
+
+CNN
+1080i
+News
+Cable
+
+
+Comedy Central
+1080i
+Entertainment
+Cable
+
+
+Comedy.TV
+1080i
+Entertainment
+Cable
+
+
+Cooking Channel
+1080i
+Lifestyle
+Cable
+
+
+Crime & Investigation Network
+720p
+Entertainment
+Cable
+
+
+The CW
+1080i
+Broadcast
+Broadcast
+
+
+Daystar
+720p
+Religion
+Cable
+
+
+Destination America
+1080i
+Lifestyle
+Cable
+
+
+Discovery Channel
+1080i
+Entertainment
+Cable
+
+
+Discovery Family
+1080i
+Family
+Cable
+
+
+Disney XD
+720p
+Family
+Cable
+
+
+Disney Junior
+720p
+Family
+Cable
+
+
+Disney Channel
+720p
+Family
+Cable
+
+
+DIY
+1080i
+Lifestyle
+Cable
+
+
+E!
+1080i
+Lifestyle
+Cable
+
+
+El Rey Network
+1080i
+Spanish
+Cable
+
+
+Epix (Epix 2, Epix Hits)
+1080i
+Premium Movies
+Premium
+
+
+ES.TV
+1080i
+Entertainment
+Cable
+
+
+ESPN
+720p
+Sports
+Cable
+
+
+ESPN2
+720p
+Sports
+Cable
+
+
+ESPNews
+720p
+Sports
+Cable
+
+
+ESPNU
+720p
+Sports
+Cable
+
+
+ESPN Deportes
+720p
+Sports – Spanish
+Cable
+
+
+ESPN Goal Line/Buzz Beater/Bases Loaded
+720p
+Sports
+Cable
+
+
+EVINE Live
+1080i
+Shopping
+Cable
+
+
+FM
+1080i
+Music
+Cable
+
+
+Food Network
+1080i
+Lifestyle
+Cable
+
+
+Fox
+720p
+Broadcast
+Broadcast
+
+
+Fox Business Network
+720p
+News
+Cable
+
+
+Fox Deportes
+720p
+Sports – Spanish
+Cable
+
+
+Fox News Channel
+720p
+News
+Cable
+
+
+Fox Sports 1
+720p
+Sports
+Cable
+
+
+Fox Sports 2
+720p
+Sports
+Cable
+
+
+Fox Soccer Plus
+720p
+Sports
+Cable
+
+
+Fox Sports Networks (All Networks)
+720p
+Sports – Regional
+Cable
+
+
+Freeform
+720p
+Family
+Cable
+
+
+Fuse
+1080i
+Music
+Cable
+
+
+Fusion
+1080i
+News
+Cable
+
+
+FX
+720p
+Entertainment
+Cable
+
+
+FXM
+720p
+Movies
+Cable
+
+
+FXX
+720p
+Entertainment
+Cable
+
+
+FYI
+720p
+Lifestyle
+Cable
+
+
+Galavisión
+1080i
+Spanish
+Cable
+
+
+Gol TV
+1080i
+Sports – Spanish
+Cable
+
+
+Golf Channel
+1080i
+Sports
+Cable
+
+
+Great American Country
+1080i
+Music
+Cable
+
+
+GSN
+1080i
+Entertainment
+Cable
+
+
+Hallmark Channel
+1080i
+Family
+Cable
+
+
+Hallmark Movies & Mysteries
+1080i
+Movies
+Cable
+
+
+HBO (HBO2, HBO Comedy, HBO Family, HBO Latino, HBO Signature, HBO Zone)
+1080i
+Premium Movies
+Premium
+
+
+HDNet Movies
+1080i
+Movies
+Cable
+
+
+HGTV
+1080i
+Lifestyle
+Cable
+
+
+History
+1080i
+Entertainment
+Cable
+
+
+HLN
+1080i
+News
+Cable
+
+
+HSN
+1080i
+Shopping
+Cable
+
+
+HSN 2
+1080i
+Shopping
+Cable
+
+
+IFC
+1080i
+Movies
+Cable
+
+
+Investigation Discovery
+1080i
+Entertainment
+Cable
+
+
+Ion
+720p
+Entertainment
+Broadcast
+
+
+Justice Central
+1080i
+News
+Cable
+
+
+Lifetime
+1080i
+Lifestyle
+Cable
+
+
+LMN
+1080i
+Lifestyle
+Cable
+
+
+Logo TV
+1080i
+Lifestyle
+Cable
+
+
+MASN (MASN2)
+1080i
+Sports – Regional
+Cable
+
+
+MAVTV
+1080i
+Sports
+Cable
+
+
+Mega TV
+1080i
+Broadcast – Spanish
+Cable
+
+
+MGM HD
+1080i
+Movies
+Premium
+
+
+Midco SN
+1080i
+Sports – Regional
+Cable
+
+
+Minnesota Channel
+1080i
+Entertainment
+Broadcast
+
+
+MLB Network
+720p
+Sports
+Cable
+
+
+MLB StrikeZone
+720p
+Sports
+Cable
+
+
+The Movie Channel(The Movie Channel Xtra)
+1080i
+Premium Movies
+Premium
+
+
+MoviePlex(IndiePlex, RetroPlex)
+1080i
+Premium Movies
+Premium
+
+
+MSG(MSG Plus, MSG Western New York)
+1080i
+Sports – Regional
+Cable
+
+
+MSNBC
+1080i
+News
+Cable
+
+
+MTV
+1080i
+Entertainment
+Cable
+
+
+MTV2
+1080i
+Entertainment
+Cable
+
+
+MTV Live
+1080i
+Music
+Cable
+
+
+MyDestination.TV
+1080i
+Lifestyle
+Cable
+
+
+MyNetworkTV
+720p
+Broadcast
+Broadcast
+
+
+Nat Geo Wild
+720p
+Lifestyle
+Cable
+
+
+National Geographic
+720p
+Entertainment
+Cable
+
+
+NBA TV
+1080i
+Sports
+Cable
+
+
+NBC
+1080i
+Broadcast
+Broadcast
+
+
+NBC Sports (All Networks)
+1080i
+Sports – Regional
+Cable
+
+
+NBC Universo
+1080i
+Spanish
+Cable
+
+
+NBCSN
+1080i
+Sports
+Cable
+
+
+NESN
+1080i
+Sports – Regional
+Cable
+
+
+Newsmax TV
+720i
+News
+Cable
+
+
+NFL Network
+1080i
+Sports
+Cable
+
+
+NFL RedZone
+1080i
+Sports
+Cable
+
+
+NHL Network
+1080i
+Sports
+Cable
+
+
+Nick at Nite
+1080i
+Family
+Cable
+
+
+Nickelodeon
+1080i
+Family
+Cable
+
+
+Nicktoons
+1080i
+Family
+Cable
+
+
+Nick Jr.
+1080i
+Family
+Cable
+
+
+One America News Network
+1080i
+News
+Cable
+
+
+ONE World Sports
+1080i
+Sports
+Cable
+
+
+Outdoor Channel
+1080i
+Sports
+Cable
+
+
+Ovation
+1080i
+Lifestyle
+Cable
+
+
+OWN
+1080i
+Lifestyle
+Cable
+
+
+Olympic Channel
+1080i
+Sports
+Cable
+
+
+Oxygen
+1080i
+Lifestyle
+Cable
+
+
+Pac-12 Network
+1080i
+Sports – College
+Cable
+
+
+PBS
+1080i
+Broadcast
+Broadcast
+
+
+Pets.TV
+1080i
+Lifestyle
+Cable
+
+
+Playboy TV
+1080i
+Adult
+Cable
+
+
+Pop
+1080i
+Lifestyle
+Cable
+
+
+QVC
+1080i
+Shopping
+Cable
+
+
+Recipe.TV
+1080i
+Lifestyle
+Cable
+
+
+Reelz
+720p
+Entertainment
+Cable
+
+
+Revolt
+1080i
+Music
+Cable
+
+
+Science
+1080i
+Lifestyle
+Cable
+
+
+SEC Network
+720p
+Sports
+Cable
+
+
+ShortsTV
+1080i
+Movies
+Cable
+
+
+Showtime (Showtime 2, Showcase, Showtime Extreme, Showtime Beyond, Showtime Next, Showtime Women)
+1080i
+Premium Movies
+Premium
+
+
+Smithsonian Channel
+1080i
+Lifestyle
+Cable
+
+
+SNY
+1080i
+Sports – Regional
+Cable
+
+
+Sony Movie Channel
+1080i
+Movies
+Cable
+
+
+Spectrum Sports (Florida)
+1080i
+Sports – Regional
+Cable
+
+
+Spectrum SportsNet LA
+1080i
+Sports – Regional
+Cable
+
+
+Spectrum SportsNet
+1080i
+Sports – Regional
+Cable
+
+
+Spectrum Deportes
+1080i
+Sports – Regional
+Cable
+
+
+Spike
+1080i
+Entertainment
+Cable
+
+
+Sportsman Channel
+1080i
+Sports
+Cable
+
+
+Starz (Starz Comedy, Starz Edge, Starz Kids and Family, Starz InBlack, Starz Cinema)
+1080i
+Premium Movies
+Premium
+
+
+Starz Encore (Starz Encore, Starz Encore Action, Starz Encore Black, Starz Encore Classic, Starz Encore Suspense)
+1080i
+Premium Movies
+Premium
+
+
+SundanceTV
+1080i
+Movies
+Cable
+
+
+Syfy
+1080i
+Entertainment
+Cable
+
+
+TBS
+1080i
+Entertainment
+Cable
+
+
+TCM
+1080i
+Movies
+Cable
+
+
+Telemundo
+1080i
+Broadcast – Spanish
+Broadcast
+
+
+TeenNick
+1080i
+Family
+Cable
+
+
+Tennis Channel
+1080i
+Sports
+Cable
+
+
+TLC
+1080i
+Lifestyle
+Cable
+
+
+TNT
+1080i
+Entertainment
+Cable
+
+
+Travel Channel
+1080i
+Lifestyle
+Cable
+
+
+truTV
+1080i
+Entertainment
+Cable
+
+
+TV Land
+1080i
+Family
+Cable
+
+
+TV One
+1080i
+Entertainment
+Cable
+
+
+UniMás
+1080i
+Broadcast – Spanish
+Broadcast
+
+
+Universal Kids
+1080i
+Family
+Cable
+
+
+Univision
+1080i
+Broadcast – Spanish
+Broadcast
+
+
+Univision Deportes
+1080i
+Sports – Spanish
+Cable
+
+
+Up
+1080i
+Family
+Cable
+
+
+USA Network
+1080i
+Entertainment
+Cable
+
+
+Velocity
+1080i
+Sports
+Cable
+
+
+Viceland
+1080i
+Lifestyle
+Cable
+
+
+VH1
+1080i
+Entertainment
+Cable
+
+
+WE tv
+1080i
+Lifestyle
+Cable
+
+
+The Weather Channel
+1080i
+News
+Cable
+
+
+WeatherNation TV
+1080i
+News
+Cable
+
+
+WGN America
+1080i
+Entertainment
+Cable
+
+
+World Fishing Network
+1080i
+Sports
+Cable
+
+
+YES
+1080i
+Sports – Regional
+Cable
+
+
+See also[edit]
+
+
+Television in the United States portal
+Television portal
+
+
+
+Big Three television networks
+Cable television in the United States
+Communications in the United States
+Fourth television network
+List of television stations in the United States
+List of United States cable and satellite television networks
+List of United States over-the-air television networks
+List of United States television markets
+Satellite television in the United States
+Television in the United States
+Television news in the United States
+United States cable news
+
+References[edit]
+
+
+
+^ HDTV SETS NOW IN OVER 80% OF U.S. HOUSEHOLDS Leichtman Research Group March 16, 2015
+^ History of WRAL Digital
+^ "HDTV: Launched and Counting". Broadcasting and Cable. BNET. 1998-11-02. Archived from the original on 2008-12-10. Retrieved 2008-10-24. 
+^ KXAS Texas Rangers vs Chicago White Sox introduction – March 31, 1998
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+High-definition television broadcasting by country
+
+
+
+
+
+
+
+
+
+United States
+Australia
+United Kingdom
+Singapore
+Malaysia
+
+
+
+
+
+
+in order of deployment
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ Television in the United States
+
+
+
+Stations and networks
+
+
+
+Over-the-air television networks
+
+ABC
+CBS
+NBC
+Fox
+Stations
+
+
+Cable and satellite
+
+Networks
+
+
+High-definition
+
+Channels
+
+
+
+
+
+
+
+Awards and events
+
+
+
+Emmy Award
+
+Primetime
+Daytime
+International
+Sports
+News & Documentary
+Technology & Engineering
+
+
+Sylvania Award
+Directors Guild of America Award
+Producers Guild of America Award
+Writers Guild of America Award
+Golden Globes
+Screen Actors Guild Award
+TCA Awards
+Critics' Choice TV Award
+Peabody Award
+People's Choice Awards
+NAACP Image Award
+Eddie Awards
+Artios Award
+American Society of Cinematographers Awards
+Humanitas Prize
+ADG Excellence in Production Design Award
+Hugo Award
+Visual Effects Society Awards
+Golden Reel Award
+GLAAD Media Award
+MTV Movie & TV Awards
+MTV Fandom Awards
+
+
+
+
+
+Organizations
+
+
+
+Academy of Television Arts & Sciences
+Alliance of Motion Picture and Television Producers
+American Society of Cinematographers
+Directors Guild of America
+Federal Communications Commission
+Motion Picture Association of America
+National Association of Broadcasters
+National Cable & Telecommunications Association
+Paley Center for Media
+Producers Guild of America
+SAG-AFTRA
+Writers Guild of America, East
+Writers Guild of America, West
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Telecommunications
+
+
+
+History
+
+
+
+
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Drums
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Internet
+Mass media
+Mobile phone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Smartphone
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+Timeline of communication technology
+Undersea telegraph line
+Videoconferencing
+Videophone
+Videotelephony
+Whistled language
+
+
+
+
+
+Pioneers
+
+
+
+Edwin Howard Armstrong
+John Logie Baird
+Paul Baran
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Vint Cerf
+Claude Chappe
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Erna Schneider Hoover
+Charles K. Kao
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Antonio Meucci
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+
+
+
+
+
+Transmission
+media
+
+
+
+Coaxial cable
+Free-space optical communication
+Molecular communication
+Optical fiber
+Radio waves
+Transmission line
+
+
+
+
+
+Network topology
+and switching
+
+
+
+Links
+Nodes
+Terminal node
+Network switching (circuit
+packet)
+Telephone exchange
+
+
+
+
+
+Multiplexing
+
+
+
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+
+
+
+
+
+Networks
+
+
+
+ARPANET
+BITNET
+Cellular network
+Computer
+CYCLADES
+Ethernet
+FidoNet
+Internet
+ISDN
+LAN
+Mobile
+NGN
+NPL network
+Public Switched Telephone
+Radio
+Telecommunications equipment
+Television
+Telex
+WAN
+Wireless
+World Wide Web
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=High-definition_television_in_the_United_States&oldid=809677809"					
+Categories: Digital television in the United StatesHigh-definition television by countryHidden categories: Articles needing additional references from March 2014All articles needing additional references 

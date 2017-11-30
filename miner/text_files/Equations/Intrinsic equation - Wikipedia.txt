@@ -1,0 +1,190 @@
+Intrinsic equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In geometry, an intrinsic equation of a curve is an equation that defines the curve using a relation between the curve's intrinsic properties, that is, properties that do not depend on the location and possibly the orientation of the curve. Therefore an intrinsic equation defines the shape of the curve without specifying its position relative to an arbitrarily defined coordinate system.
+The intrinsic quantities used most often are arc length 
+
+
+
+s
+
+
+{\displaystyle s}
+
+, tangential angle 
+
+
+
+θ
+
+
+{\displaystyle \theta }
+
+, curvature 
+
+
+
+κ
+
+
+{\displaystyle \kappa }
+
+ or radius of curvature, and, for 3-dimensional curves, torsion 
+
+
+
+τ
+
+
+{\displaystyle \tau }
+
+. Specifically:
+
+The natural equation is the curve given by its curvature and torsion.
+The Whewell equation is obtained as a relation between arc length and tangential angle.
+The Cesàro equation is obtained as a relation between arc length and curvature.
+
+The equation of a circle (including a line) for example is given by the equation 
+
+
+
+κ
+(
+s
+)
+=
+
+
+
+1
+r
+
+
+
+
+
+{\displaystyle \kappa (s)={\tfrac {1}{r}}}
+
+ where 
+
+
+
+s
+
+
+{\displaystyle s}
+
+ is the arc length, 
+
+
+
+κ
+
+
+{\displaystyle \kappa }
+
+ the curvature and 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ the radius of the circle.
+These coordinates greatly simplify some physical problem. For elastic rods for example, the potential energy is given by
+
+
+
+
+
+E
+=
+
+∫
+
+0
+
+
+L
+
+
+B
+
+κ
+
+2
+
+
+(
+s
+)
+d
+s
+
+
+{\displaystyle E=\int _{0}^{L}B\kappa ^{2}(s)ds}
+
+
+
+where 
+
+
+
+B
+
+
+{\displaystyle B}
+
+ is the bending modulus 
+
+
+
+E
+I
+
+
+{\displaystyle EI}
+
+. Moreover, as 
+
+
+
+κ
+(
+s
+)
+=
+d
+θ
+
+/
+
+d
+s
+
+
+{\displaystyle \kappa (s)=d\theta /ds}
+
+, elasticity of rods can be given a simple variational form.
+References[edit]
+
+R.C. Yates (1952). A Handbook on Curves and Their Properties. Ann Arbor, MI: J. W. Edwards. pp. 123–126. 
+J. Dennis Lawrence (1972). A catalog of special plane curves. Dover Publications. pp. 1–5. ISBN 0-486-60288-5. 
+
+External links[edit]
+
+Weisstein, Eric W. "Intrinsic Equation". MathWorld. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Intrinsic_equation&oldid=715324869"					
+Categories: CurvesEquations 

@@ -1,0 +1,1670 @@
+Petrov classification - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In differential geometry and theoretical physics, the Petrov classification (also known as Petrov–Pirani–Penrose classification) describes the possible algebraic symmetries of the Weyl tensor at each event in a Lorentzian manifold.
+It is most often applied in studying exact solutions of Einstein's field equations, but strictly speaking the classification is a theorem in pure mathematics applying to any Lorentzian manifold, independent of any physical interpretation. The classification was found in 1954 by A. Z. Petrov and independently by Felix Pirani in 1957.
+
+
+
+Contents
+
+
+1 Classification theorem
+2 Newman–Penrose formalism
+3 Bel criteria
+4 Physical interpretation
+5 Examples
+6 Generalization to higher dimensions
+7 See also
+8 References
+
+
+
+Classification theorem[edit]
+We can think of a fourth rank tensor such as the Weyl tensor, evaluated at some event, as acting on the space of bivectors at that event like a linear operator acting on a vector space:
+
+
+
+
+
+
+X
+
+a
+b
+
+
+→
+
+
+1
+2
+
+
+
+
+
+
+C
+
+a
+b
+
+
+
+
+m
+n
+
+
+
+X
+
+m
+n
+
+
+
+
+{\displaystyle X^{ab}\rightarrow {\frac {1}{2}}\,{C^{ab}}_{mn}X^{mn}}
+
+
+
+Then, it is natural to consider the problem of finding eigenvalues 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ and eigenvectors (which are now referred to as eigenbivectors) 
+
+
+
+
+X
+
+a
+b
+
+
+
+
+{\displaystyle X^{ab}}
+
+ such that
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+
+C
+
+a
+b
+
+
+
+
+m
+n
+
+
+
+
+X
+
+m
+n
+
+
+=
+λ
+
+
+X
+
+a
+b
+
+
+
+
+{\displaystyle {\frac {1}{2}}\,{C^{ab}}_{mn}\,X^{mn}=\lambda \,X^{ab}}
+
+
+
+In (four-dimensional) Lorentzian spacetimes, there is a six-dimensional space of antisymmetric bivectors at each event. However, the symmetries of the Weyl tensor imply that any eigenbivectors must belong to a four-dimensional subset. Thus, the Weyl tensor (at a given event) can in fact have at most four linearly independent eigenbivectors.
+Just as in the theory of the eigenvectors of an ordinary linear operator, the eigenbivectors of the Weyl tensor can occur with various multiplicities. Just as in the case of ordinary linear operators, any multiplicities among the eigenbivectors indicates a kind of algebraic symmetry of the Weyl tensor at the given event. Just as you would expect from the theory of the eigenvalues of an ordinary linear operator on a four-dimensional vector space, the different types of Weyl tensor (at a given event) can be determined by solving a characteristic equation, in this case a quartic equation.
+These eigenbivectors are associated with certain null vectors in the original spacetime, which are called the principal null directions (at a given event). The relevant multilinear algebra is somewhat involved (see the citations below), but the resulting classification theorem states that there are precisely six possible types of algebraic symmetry. These are known as the Petrov types:
+
+
+The Penrose diagram showing the possible degenerations of the Petrov type of the Weyl tensor
+
+
+
+Type I: four simple principal null directions,
+Type II: one double and two simple principal null directions,
+Type D: two double principal null directions,
+Type III: one triple and one simple principal null direction,
+Type N: one quadruple principal null direction,
+Type O: the Weyl tensor vanishes.
+
+The possible transitions between Petrov types are shown in the figure, which can also be interpreted as stating that some of the Petrov types are "more special" than others. For example, type I, the most general type, can degenerate to types II or D, while type II can degenerate to types III, N, or D.
+Different events in a given spacetime can have different Petrov types. A Weyl tensor that has type I (at some event) is called algebraically general; otherwise, it is called algebraically special (at that event). Type O spacetimes are said to be conformally flat.
+Newman–Penrose formalism[edit]
+The Newman–Penrose formalism is often used in practice for the classification. Consider the following set of bivectors:
+
+
+
+
+
+
+U
+
+a
+b
+
+
+=
+−
+
+l
+
+[
+a
+
+
+
+m
+
+b
+]
+
+
+
+
+{\displaystyle U_{ab}=-l_{[a}m_{b]}}
+
+
+
+
+
+
+
+V
+
+a
+b
+
+
+=
+
+n
+
+[
+a
+
+
+
+m
+
+b
+]
+
+
+
+
+{\displaystyle V_{ab}=n_{[a}m_{b]}}
+
+
+
+
+
+
+
+W
+
+a
+b
+
+
+=
+
+m
+
+[
+a
+
+
+
+
+
+
+m
+¯
+
+
+
+
+b
+]
+
+
+−
+
+n
+
+[
+a
+
+
+
+l
+
+b
+]
+
+
+.
+
+
+{\displaystyle W_{ab}=m_{[a}{\bar {m}}_{b]}-n_{[a}l_{b]}.}
+
+
+
+The Weyl tensor can be expressed as a combination of these bivectors through
+
+
+
+
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+
+=
+
+Ψ
+
+0
+
+
+
+U
+
+a
+b
+
+
+
+U
+
+c
+d
+
+
+
+
+
+
+
+
+
+
+
++
+
+Ψ
+
+1
+
+
+(
+
+U
+
+a
+b
+
+
+
+W
+
+c
+d
+
+
++
+
+W
+
+a
+b
+
+
+
+U
+
+c
+d
+
+
+)
+
+
+
+
+
+
+
+
+
++
+
+Ψ
+
+2
+
+
+(
+
+V
+
+a
+b
+
+
+
+U
+
+c
+d
+
+
++
+
+U
+
+a
+b
+
+
+
+V
+
+c
+d
+
+
++
+
+W
+
+a
+b
+
+
+
+W
+
+c
+d
+
+
+)
+
+
+
+
+
+
+
+
+
++
+
+Ψ
+
+3
+
+
+(
+
+V
+
+a
+b
+
+
+
+W
+
+c
+d
+
+
++
+
+W
+
+a
+b
+
+
+
+V
+
+c
+d
+
+
+)
+
+
+
+
+
+
+
+
+
++
+
+Ψ
+
+4
+
+
+
+V
+
+a
+b
+
+
+
+V
+
+c
+d
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}C_{abcd}&=\Psi _{0}U_{ab}U_{cd}\\&\,\,\,+\Psi _{1}(U_{ab}W_{cd}+W_{ab}U_{cd})\\&\,\,\,+\Psi _{2}(V_{ab}U_{cd}+U_{ab}V_{cd}+W_{ab}W_{cd})\\&\,\,\,+\Psi _{3}(V_{ab}W_{cd}+W_{ab}V_{cd})\\&\,\,\,+\Psi _{4}V_{ab}V_{cd}\end{aligned}}}
+
+
+
+where the 
+
+
+
+{
+
+Ψ
+
+j
+
+
+}
+
+
+{\displaystyle \{\Psi _{j}\}}
+
+ are the Weyl scalars. The six different Petrov types are distinguished by which of the Weyl scalars vanish. The conditions are
+
+Type I  : 
+
+
+
+
+Ψ
+
+0
+
+
+=
+0
+
+
+{\displaystyle \Psi _{0}=0}
+
+,
+Type II : 
+
+
+
+
+Ψ
+
+0
+
+
+=
+
+Ψ
+
+1
+
+
+=
+0
+
+
+{\displaystyle \Psi _{0}=\Psi _{1}=0}
+
+,
+Type D  : 
+
+
+
+
+Ψ
+
+0
+
+
+=
+
+Ψ
+
+1
+
+
+=
+
+Ψ
+
+3
+
+
+=
+
+Ψ
+
+4
+
+
+=
+0
+
+
+{\displaystyle \Psi _{0}=\Psi _{1}=\Psi _{3}=\Psi _{4}=0}
+
+,
+Type III : 
+
+
+
+
+Ψ
+
+0
+
+
+=
+
+Ψ
+
+1
+
+
+=
+
+Ψ
+
+2
+
+
+=
+0
+
+
+{\displaystyle \Psi _{0}=\Psi _{1}=\Psi _{2}=0}
+
+,
+Type N  : 
+
+
+
+
+Ψ
+
+0
+
+
+=
+
+Ψ
+
+1
+
+
+=
+
+Ψ
+
+2
+
+
+=
+
+Ψ
+
+3
+
+
+=
+0
+
+
+{\displaystyle \Psi _{0}=\Psi _{1}=\Psi _{2}=\Psi _{3}=0}
+
+,
+Type O  : 
+
+
+
+
+Ψ
+
+0
+
+
+=
+
+Ψ
+
+1
+
+
+=
+
+Ψ
+
+2
+
+
+=
+
+Ψ
+
+3
+
+
+=
+
+Ψ
+
+4
+
+
+=
+0
+
+
+{\displaystyle \Psi _{0}=\Psi _{1}=\Psi _{2}=\Psi _{3}=\Psi _{4}=0}
+
+.
+
+Bel criteria[edit]
+Given a metric on a Lorentzian manifold 
+
+
+
+M
+
+
+{\displaystyle M}
+
+, the Weyl tensor 
+
+
+
+C
+
+
+{\displaystyle C}
+
+ for this metric may be computed. If the Weyl tensor is algebraically special at some 
+
+
+
+p
+∈
+M
+
+
+{\displaystyle p\in M}
+
+, there is a useful set of conditions, found by Lluis (or Louis) Bel and Robert Debever,[1] for determining precisely the Petrov type at 
+
+
+
+p
+
+
+{\displaystyle p}
+
+. Denoting the Weyl tensor components at 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ by 
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+{\displaystyle C_{abcd}}
+
+ (assumed non-zero, i.e., not of type O), the Bel criteria may be stated as:
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+{\displaystyle C_{abcd}}
+
+ is type N if and only if there exists a vector 
+
+
+
+k
+(
+p
+)
+
+
+{\displaystyle k(p)}
+
+ satisfying
+
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+d
+
+
+=
+0
+
+
+{\displaystyle C_{abcd}\,k^{d}=0}
+
+
+
+where 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ is necessarily null and unique (up to scaling).
+
+If 
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+{\displaystyle C_{abcd}}
+
+ is not type N, then 
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+{\displaystyle C_{abcd}}
+
+ is of type III if and only if there exists a vector 
+
+
+
+k
+(
+p
+)
+
+
+{\displaystyle k(p)}
+
+ satisfying
+
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+b
+
+
+
+k
+
+d
+
+
+=
+0
+=
+
+
+
+
+
+∗
+
+
+C
+
+
+a
+b
+c
+d
+
+
+
+
+k
+
+b
+
+
+
+k
+
+d
+
+
+
+
+{\displaystyle C_{abcd}\,k^{b}k^{d}=0={^{*}C}_{abcd}\,k^{b}k^{d}}
+
+
+
+where 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ is necessarily null and unique (up to scaling).
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+{\displaystyle C_{abcd}}
+
+ is of type II if and only if there exists a vector 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ satisfying
+
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+b
+
+
+
+k
+
+d
+
+
+=
+α
+
+k
+
+a
+
+
+
+k
+
+c
+
+
+
+
+{\displaystyle C_{abcd}\,k^{b}k^{d}=\alpha k_{a}k_{c}}
+
+ and 
+
+
+
+
+
+
+
+∗
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+b
+
+
+
+k
+
+d
+
+
+=
+β
+
+k
+
+a
+
+
+
+k
+
+c
+
+
+
+
+{\displaystyle {}^{*}C_{abcd}\,k^{b}k^{d}=\beta k_{a}k_{c}}
+
+ (
+
+
+
+α
+β
+≠
+0
+
+
+{\displaystyle \alpha \beta \neq 0}
+
+)
+
+where 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ is necessarily null and unique (up to scaling).
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+{\displaystyle C_{abcd}}
+
+ is of type D if and only if there exists two linearly independent vectors 
+
+
+
+k
+
+
+{\displaystyle k}
+
+, 
+
+
+
+
+k
+′
+
+
+
+{\displaystyle k'}
+
+ satisfying the conditions
+
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+b
+
+
+
+k
+
+d
+
+
+=
+α
+
+k
+
+a
+
+
+
+k
+
+c
+
+
+
+
+{\displaystyle C_{abcd}\,k^{b}k^{d}=\alpha k_{a}k_{c}}
+
+, 
+
+
+
+
+
+
+
+∗
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+b
+
+
+
+k
+
+d
+
+
+=
+β
+
+k
+
+a
+
+
+
+k
+
+c
+
+
+
+
+{\displaystyle {}^{*}C_{abcd}\,k^{b}k^{d}=\beta k_{a}k_{c}}
+
+ (
+
+
+
+α
+β
+≠
+0
+
+
+{\displaystyle \alpha \beta \neq 0}
+
+)
+
+and
+
+
+
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+′
+
+b
+
+
+
+
+k
+
+′
+
+d
+
+
+
+=
+γ
+
+k
+
+a
+
+′
+
+
+k
+
+c
+
+′
+
+
+
+{\displaystyle C_{abcd}\,k'^{b}k'^{d}=\gamma k'_{a}k'_{c}}
+
+, 
+
+
+
+
+
+
+
+∗
+
+
+
+C
+
+a
+b
+c
+d
+
+
+
+
+k
+
+′
+
+b
+
+
+
+
+k
+
+′
+
+d
+
+
+
+=
+δ
+
+k
+
+a
+
+′
+
+
+k
+
+c
+
+′
+
+
+
+{\displaystyle {}^{*}C_{abcd}\,k'^{b}k'^{d}=\delta k'_{a}k'_{c}}
+
+ (
+
+
+
+γ
+δ
+≠
+0
+
+
+{\displaystyle \gamma \delta \neq 0}
+
+).
+
+where 
+
+
+
+
+
+
+
+
+
+∗
+
+
+C
+
+
+a
+b
+c
+d
+
+
+
+
+{\displaystyle {{}^{*}C}_{abcd}}
+
+ is the dual of the Weyl tensor at 
+
+
+
+p
+
+
+{\displaystyle p}
+
+.
+In fact, for each criterion above, there are equivalent conditions for the Weyl tensor to have that type. These equivalent conditions are stated in terms of the dual and self-dual of the Weyl tensor and certain bivectors and are collected together in Hall (2004).
+The Bel criteria find application in general relativity where determining the Petrov type of algebraically special Weyl tensors is accomplished by searching for null vectors.
+Physical interpretation[edit]
+According to general relativity, the various algebraically special Petrov types have some interesting physical interpretations, the classification then sometimes being called the classification of gravitational fields.
+Type D regions are associated with the gravitational fields of isolated massive objects, such as stars. More precisely, type D fields occur as the field of a gravitating object which is completely characterized by its mass and angular momentum. (A more general object might have nonzero higher multipole moments.) The two double principal null directions define "radially" ingoing and outgoing null congruences near the object which is the source of the field.
+The electrogravitic tensor (or tidal tensor) in a type D region is very closely analogous to the gravitational fields which are described in Newtonian gravity by a Coulomb type gravitational potential. Such a tidal field is characterized by tension in one direction and compression in the orthogonal directions; the eigenvalues have the pattern (-2,1,1). For example, a spacecraft orbiting the Earth experiences a tiny tension along a radius from the center of the Earth, and a tiny compression in the orthogonal directions. Just as in Newtonian gravitation, this tidal field typically decays like 
+
+
+
+O
+(
+
+r
+
+−
+3
+
+
+)
+
+
+{\displaystyle O(r^{-3})}
+
+, where 
+
+
+
+r
+
+
+{\displaystyle r}
+
+ is the distance from the object.
+If the object is rotating about some axis, in addition to the tidal effects, there will be various gravitomagnetic effects, such as spin-spin forces on gyroscopes carried by an observer. In the Kerr vacuum, which is the best known example of type D vacuum solution, this part of the field decays like 
+
+
+
+O
+(
+
+r
+
+−
+4
+
+
+)
+
+
+{\displaystyle O(r^{-4})}
+
+.
+Type III regions are associated with a kind of longitudinal gravitational radiation. In such regions, the tidal forces have a shearing effect. This possibility is often neglected, in part because the gravitational radiation which arises in weak-field theory is type N, and in part because type III radiation decays like 
+
+
+
+O
+(
+
+r
+
+−
+2
+
+
+)
+
+
+{\displaystyle O(r^{-2})}
+
+, which is faster than type N radiation.
+Type N regions are associated with transverse gravitational radiation, which is the type astronomers have detected with LIGO. The quadruple principal null direction corresponds to the wave vector describing the direction of propagation of this radiation. It typically decays like 
+
+
+
+O
+(
+
+r
+
+−
+1
+
+
+)
+
+
+{\displaystyle O(r^{-1})}
+
+, so the long-range radiation field is type N.
+Type II regions combine the effects noted above for types D, III, and N, in a rather complicated nonlinear way.
+Type O regions, or conformally flat regions, are associated with places where the Weyl tensor vanishes identically. In this case, the curvature is said to be pure Ricci. In a conformally flat region, any gravitational effects must be due to the immediate presence of matter or the field energy of some nongravitational field (such as an electromagnetic field). In a sense, this means that any distant objects are not exerting any long range influence on events in our region. More precisely, if there are any time varying gravitational fields in distant regions, the news has not yet reached our conformally flat region.
+Gravitational radiation emitted from an isolated system will usually not be algebraically special. The peeling theorem describes the way in which, as one moves farther way from the source of the radiation, the various components of the radiation field "peel" off, until finally only type N radiation is noticeable at large distances. This is similar to the electromagnetic peeling theorem.
+Examples[edit]
+In some (more or less) familiar solutions, the Weyl tensor has the same Petrov type at each event:
+
+the Kerr vacuum is everywhere type D,
+certain Robinson/Trautman vacuums are everywhere type III,
+the pp-wave spacetimes are everywhere type N,
+the FRW models are everywhere type O.
+
+More generally, any spherically symmetric spacetime must be of type D (or O). All algebraically special spacetimes having various types of stress–energy tensor are known, for example, all the type D vacuum solutions.
+Some classes of solutions can be invariantly characterized using algebraic symmetries of the Weyl tensor: for example, the class of non-conformally flat null electrovacuum or null dust solutions admitting an expanding but nontwisting null congruence is precisely the class of Robinson/Trautmann spacetimes. These are usually type II, but include type III and type N examples.
+Generalization to higher dimensions[edit]
+A. Coley, R. Milson, V. Pravda and A. Pravdová (2004) developed a generalization of algebraic classification to arbitrary spacetime dimension 
+
+
+
+d
+
+
+{\displaystyle d}
+
+. Their approach uses a null frame basis approach, that is a frame basis containing two null vectors 
+
+
+
+l
+
+
+{\displaystyle l}
+
+ and 
+
+
+
+n
+
+
+{\displaystyle n}
+
+, along with 
+
+
+
+d
+−
+2
+
+
+{\displaystyle d-2}
+
+ spacelike vectors. Frame basis components of the Weyl tensor are classified by their transformation properties under local Lorentz boosts. If particular Weyl components vanish, then 
+
+
+
+l
+
+
+{\displaystyle l}
+
+ and/or 
+
+
+
+n
+
+
+{\displaystyle n}
+
+ are said to be Weyl-Aligned Null Directions (WANDs). In four dimensions, 
+
+
+
+l
+
+
+{\displaystyle l}
+
+ is a WAND if and only if it is a principal null direction in the sense defined above. This approach gives a natural higher-dimensional extension of each of the various algebraic types II,D etc. defined above.
+An alternative, but inequivalent, generalization was previously defined by de Smet (2002), based on a spinorial approach. However, de Smet's approach is restricted to 5 dimensions only.
+See also[edit]
+
+Classification of electromagnetic fields
+Exact solutions in general relativity
+Segre classification
+Peeling theorem
+Plebanski tensor
+
+References[edit]
+
+
+^ Marcello Ortaggio (2009), Bel-Debever criteria for the classification of the Weyl tensors in higher dimensions.
+
+
+
+Coley, A.; et al. (2004). "Classification of the Weyl tensor in higher dimensions". Classical and Quantum Gravity. 21 (7): L35–L42. arXiv:gr-qc/0401008 . Bibcode:2004CQGra..21L..35C. doi:10.1088/0264-9381/21/7/L01. 
+de Smet, P. (2002). "Black holes on cylinders are not algebraically special". Classical and Quantum Gravity. 19 (19): 4877–4896. arXiv:hep-th/0206106 . Bibcode:2002CQGra..19.4877D. doi:10.1088/0264-9381/19/19/307. 
+d'Inverno, Ray (1992). Introducing Einstein's Relativity. Oxford: Oxford University Press. ISBN 0-19-859686-3.  See sections 21.7, 21.8
+Hall, Graham (2004). Symmetries and Curvature Structure in General Relativity (World Scientific Lecture Notes in Physics). Singapore: World Scientific Pub. Co. ISBN 981-02-1051-5.  See sections 7.3, 7.4 for a comprehensive discussion of the Petrov classification.
+MacCallum, M.A.H. (2000). "Editor's note: Classification of spaces defining gravitational fields". General Relativity and Gravitation. 32 (8): 1661–1663. Bibcode:2000GReGr..32.1661P. doi:10.1023/A:1001958823984. 
+Penrose, Roger (1960). "A spinor approach to general relativity". Annals of Physics. 10: 171–201. Bibcode:1960AnPhy..10..171P. doi:10.1016/0003-4916(60)90021-X. 
+Petrov, A.Z. (1954). "Klassifikacya prostranstv opredelyayushchikh polya tyagoteniya". Uch. Zapiski Kazan. Gos. Univ. 114 (8): 55–69.  English translation Petrov, A.Z. (2000). "Classification of spaces defined by gravitational fields". General Relativity and Gravitation. 32 (8): 1665–1685. Bibcode:2000GReGr..32.1665P. doi:10.1023/A:1001910908054. 
+Petrov, A.Z. (1969). Einstein Spaces. Oxford: Pergamon. ISBN 0080123155. , translated by R. F. Kelleher & J. Woodrow.
+Stephani, H.; Kramer, D.; MacCallum, M.; Hoenselaers, C. & Herlt, E. (2003). Exact Solutions of Einstein's Field Equations (2nd edn.). Cambridge: Cambridge University Press. ISBN 0-521-46136-7.  See chapters 4, 26
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Petrov_classification&oldid=812637100"					
+Categories: Tensors in general relativityExact solutions in general relativityDifferential geometry 

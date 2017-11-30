@@ -1,0 +1,104 @@
+Erdős–Moser equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+Unsolved problem in mathematics:
+Does the Erdős–Moser equation have solutions other than 11 + 21 = 31?
+(more unsolved problems in mathematics)
+
+
+
+In number theory, the Erdős–Moser equation is
+
+
+
+
+
+
+1
+
+k
+
+
++
+
+2
+
+k
+
+
++
+⋯
++
+
+m
+
+k
+
+
+=
+(
+m
++
+1
+
+)
+
+k
+
+
+
+
+{\displaystyle 1^{k}+2^{k}+\cdots +m^{k}=(m+1)^{k}}
+
+
+
+where 
+
+
+
+m
+
+
+{\displaystyle m}
+
+ and 
+
+
+
+k
+
+
+{\displaystyle k}
+
+ are positive integers. The only known solution is 11 + 21 = 31. No further solutions are known, and Paul Erdős conjectured that no further solutions exist.
+Constraints on solutions[edit]
+Leo Moser in 1953 proved that 2 divides k and that there is no other solution with m < 101,000,000.
+In 1966 it was shown that 6 ≤ k + 2 < m < 2k.
+In 1994 it was shown that lcm(1,2,...,200) divides k and that any prime factor of m + 1 must be irregular and > 10000.
+Moser's method was extended in 1999 to show that m > 1.485 × 109321155.
+In 2002 it was shown that all primes between 200 and 1000 must divide k.
+In 2009 new methods were used to show that m > 2.7139 × 101667658416 and that 2k / (2m – 1) must be a convergent of ln(2).
+References[edit]
+
+
+Gallot, Yves; Moree, Pieter; Zudilin, Wadim (2010). "The Erdős–Moser Equation 1k + 2k + ... + (m – 1)k = mk Revisited Using Continued Fractions". Mathematics of Computation. 80: 1221–1237. Retrieved 2017-03-20. 
+Moser, Leo (1953). "On the Diophantine Equation 1k + 2k + ... + (m – 1)k = mk". Scripta Math. 19: 84–88. 
+Butske, W.; Jaje, L.M.; Mayernik, D.R. (1999). "The Equation Σp|N 1/p + 1/N = 1, Pseudoperfect Numbers, and Partially Weighted Graphs". Math. Comp. 69: 407–420. Retrieved 2017-03-20. 
+Krzysztofek, B. (1966). "The Equation 1n + ... + mn = (m + 1)n". Wyz. Szkol. Ped. w. Katowicech-Zeszyty Nauk. Sekc. Math. (in Polish). 5: 47–54. 
+Moree, Pieter; te Riele, Herman; Urbanowicz, J. (1994). "Divisibility Properties of Integers x, k Satisfying 1k + 2k + ... + (x – 1)k = xk". Math. Comp. 63: 799–815. Retrieved 2017-03-20. 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Erdős–Moser_equation&oldid=790396230"					
+Categories: Number theoryDiophantine equationsPaul ErdősUnsolved problems in mathematicsHidden categories: CS1 Polish-language sources (pl) 

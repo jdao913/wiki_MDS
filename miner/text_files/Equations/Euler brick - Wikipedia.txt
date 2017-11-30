@@ -1,0 +1,521 @@
+Euler brick - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, an Euler brick, named after Leonhard Euler, is a rectangular cuboid whose edges and face diagonals all have integer lengths. A primitive Euler brick is an Euler brick whose edge lengths are relatively prime.
+
+
+
+
+Euler brick with edges a, b, c and face diagonals d, e, f
+
+
+
+
+
+Contents
+
+
+1 Definition
+2 Properties
+3 Examples
+4 Generating formula
+5 Perfect cuboid
+6 Almost-perfect cuboids
+7 Perfect parallelepiped
+8 See also
+9 Notes
+10 References
+
+
+
+Definition[edit]
+The definition of an Euler brick in geometric terms is equivalent to a solution to the following system of Diophantine equations:
+
+
+
+
+
+
+
+{
+
+
+
+
+a
+
+2
+
+
++
+
+b
+
+2
+
+
+=
+
+d
+
+2
+
+
+
+
+
+
+
+a
+
+2
+
+
++
+
+c
+
+2
+
+
+=
+
+e
+
+2
+
+
+
+
+
+
+
+b
+
+2
+
+
++
+
+c
+
+2
+
+
+=
+
+f
+
+2
+
+
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{cases}a^{2}+b^{2}=d^{2}\\a^{2}+c^{2}=e^{2}\\b^{2}+c^{2}=f^{2}\end{cases}}}
+
+
+
+where a, b, c are the edges and d, e, f are the diagonals.
+Properties[edit]
+
+If (a, b, c) is a solution, then (ka, kb, kc) is also a solution for any k. Consequently, the solutions in rational numbers are all rescalings of integer solutions. Given an Euler brick with edge-lengths (a, b, c), the triple (bc, ac, ab) constitutes an Euler brick as well.[1]:p. 106
+
+
+At least two edges of an Euler brick are divisible by 3.[1]:p. 106
+
+
+At least two edges of an Euler brick are divisible by 4.[1]:p. 106
+
+
+At least one edge of an Euler brick is divisible by 11.[1]:p. 106
+
+Examples[edit]
+
+
+
+
+All five primitive Euler bricks with dimensions under 1000
+
+
+The smallest Euler brick, discovered by Paul Halcke in 1719, has edges (a, b, c) = (44, 117, 240) and face diagonals (d, e, f ) = (125, 244, 267).
+Some other small primitive solutions, given as edges (a, b, c) — face diagonals (d, e, f), are below:
+
+
+
+
+(
+85,
+132,
+720
+) — (
+157,
+725,
+732
+)
+
+
+(
+140,
+480,
+693
+) — (
+500,
+707,
+843
+)
+
+
+(
+160,
+231,
+792
+) — (
+281,
+808,
+825
+)
+
+
+(
+187,
+1020,
+1584
+) — (
+1037,
+1595,
+1884
+)
+
+
+(
+195,
+748,
+6336
+) — (
+773,
+6339,
+6380
+)
+
+
+(
+240,
+252,
+275
+) — (
+348,
+365,
+373
+)
+
+
+(
+429,
+880,
+2340
+) — (
+979,
+2379,
+2500
+)
+
+
+(
+495,
+4888,
+8160
+) — (
+4913,
+8175,
+9512
+)
+
+
+(
+528,
+5796,
+6325
+) — (
+5820,
+6347,
+8579
+)
+
+
+
+
+Generating formula[edit]
+Euler found at least two parametric solutions to the problem, but neither gives all solutions.[2]
+An infinitude of Euler bricks can be generated with the Sounderson's[3] parametric formula. Let (u, v, w) be a Pythagorean triple (that is, u2 + v2 = w2.) Then[1]:105 the edges
+
+
+
+
+
+a
+=
+u
+
+|
+
+4
+
+v
+
+2
+
+
+−
+
+w
+
+2
+
+
+
+|
+
+,
+
+b
+=
+v
+
+|
+
+4
+
+u
+
+2
+
+
+−
+
+w
+
+2
+
+
+
+|
+
+,
+
+c
+=
+4
+u
+v
+w
+
+
+{\displaystyle a=u|4v^{2}-w^{2}|,\quad b=v|4u^{2}-w^{2}|,\quad c=4uvw}
+
+
+
+give face diagonals
+
+
+
+
+
+d
+=
+
+w
+
+3
+
+
+,
+
+e
+=
+u
+(
+4
+
+v
+
+2
+
+
++
+
+w
+
+2
+
+
+)
+,
+
+f
+=
+v
+(
+4
+
+u
+
+2
+
+
++
+
+w
+
+2
+
+
+)
+.
+
+
+{\displaystyle d=w^{3},\quad e=u(4v^{2}+w^{2}),\quad f=v(4u^{2}+w^{2}).}
+
+
+
+There are many Euler bricks which is not parametrized as above, for instance the Euler brick with edges (a, b, c) = (240, 252, 275) and face diagonals (d, e, f ) = (348, 365, 373).
+Perfect cuboid[edit]
+
+
+
+Unsolved problem in mathematics:
+Does a perfect cuboid exist?
+(more unsolved problems in mathematics)
+
+
+
+A perfect cuboid (also called a perfect Euler brick, a perfect box) is an Euler brick whose space diagonal also has integer length. In other words, the following equation is added to the system of Diophantine equations defining an Euler brick:
+
+
+
+
+
+
+a
+
+2
+
+
++
+
+b
+
+2
+
+
++
+
+c
+
+2
+
+
+=
+
+g
+
+2
+
+
+,
+
+
+{\displaystyle a^{2}+b^{2}+c^{2}=g^{2},}
+
+
+
+where g is the space diagonal. As of May 2017[update], no example of a perfect cuboid had been found and no one has proven that none exist.
+
+Exhaustive computer searches show that, if a perfect cuboid exists,
+
+the odd edge must be greater than 2.5 × 1013,[4]
+the smallest edge must be greater than 7011500000000000000♠5×1011.[4]
+
+Some facts are known about properties that must be satisfied by a primitive perfect cuboid, if one exists, based on modular arithmetic:[5]
+
+One edge, two face diagonals and the body diagonal must be odd, one edge and the remaining face diagonal must be divisible by 4, and the remaining edge must be divisible by 16.
+Two edges must have length divisible by 3 and at least one of those edges must have length divisible by 9.
+One edge must have length divisible by 5.
+One edge must have length divisible by 7.
+One edge must have length divisible by 11.
+One edge must have length divisible by 19.
+One edge or space diagonal must be divisible by 13.
+One edge, face diagonal or space diagonal must be divisible by 17.
+One edge, face diagonal or space diagonal must be divisible by 29.
+One edge, face diagonal or space diagonal must be divisible by 37.
+
+In addition:
+
+The space diagonal is neither a prime power nor a product of two primes.[6]:p. 579
+The space diagonal can only contain prime divisors ≡ 1(mod 4).[6]:p. 566[7]
+The space diagonal cannot be a power of 2 or 5 times a power of 2.[1]:p. 101
+
+Almost-perfect cuboids[edit]
+It has been discovered that there are 3 types of cuboids, called Body, Edge, and Face cuboids. Each type has one of the 7 lengths irrational, the other 6 lengths are rational.[8]
+In the case of the Body cuboid, the body (space) diagonal g is irrational. For the Edge cuboid, one of the edges a, b, c is irrational. The Face cuboid has just one of the face diagonals d, e, f irrational.
+The Body cuboid is commonly referred to as the Euler cuboid in honor of Leonard Euler, who discussed this type of cuboid.[9] He was also aware of Face cuboids, and provided the (104, 153, 672) example.[10]
+Only recently have cuboids in complex numbers become known.
+As of September 2017[update] Randall L. Rathbun published[11] 155,151 found cuboids with the smallest integer edge less than 157,000,000,000: 56,575 were Euler (Body) cuboids, 15,449 were Edge cuboids with a complex number edge length, 30,081 were Edge cuboids, and 53,046 were Face cuboids.
+The smallest solutions for each type of almost-perfect cuboids, given as edges, face diagonals and the space diagonal (a, b, c, d, e, f, g):
+
+Body cuboid: (44, 117, 240, 125, 244, 267, √73225)
+Edge cuboid: (520, 576, √618849, 776, 943, 975, 1105)
+Face cuboid: (104, 153, 672, 185, 680, √474993, 697)
+Complex Body cuboid: (63i, 60i, 65, 87i, 16, 25, √-3344)
+Complex Edge cuboid: (√-3344, 60, 63, 16, 25, 87, 65)
+Complex Face cuboid: (672i, 153i, 697, √-474993, 185, 680, 104)
+
+Perfect parallelepiped[edit]
+A perfect parallelepiped is a parallelepiped with integer-length edges, face diagonals, and body diagonals, but not necessarily with all right angles; a perfect cuboid is a special case of a perfect parallelepiped. In 2009, dozens of perfect parallelepipeds were shown to exist,[12] answering an open question of Richard Guy. A small example has edges 271, 106, and 103, face diagonals 101, 266, 255, 183, 312, and 323, and body diagonals 374, 300, 278, and 272. Some of these perfect parallelepipeds have two rectangular faces.
+See also[edit]
+
+Pythagorean quadruple
+
+Notes[edit]
+
+
+
+^ a b c d e f Wacław Sierpiński, Pythagorean Triangles, Dover Publications, 2003 (orig. ed. 1962).
+^ Weisstein, Eric W. "Euler Brick". MathWorld. 
+^ Math table, February 24, 2009, Oliver Knill, http://www.math.harvard.edu/~knill/various/eulercuboid/lecture.pdf
+^ a b R Matson, Results of a Computer Search for a Perfect Cuboid, http://unsolvedproblems.org/S58.pdf
+^ M. Kraitchik, On certain Rational Cuboids, Scripta Mathematica, volume 11 (1945).
+^ a b I. Korec, Lower bounds for Perfect Rational Cuboids, Math. Slovaca, 42 (1992), No. 5, p. 565-582.
+^ Ronald van Luijk, On Perfect Cuboids, June 2000
+^ Rathbun R. L., Granlund Т., The integer cuboid table with body, edge, and face type of solutions // Math. Comp., 1994, Vol. 62, P. 441-442.
+^ Euler, Leonard, Vollst¨andige Anleitung zur Algebra, Kayserliche Akademie der Wissenschaften, St. Petersburg, 1771
+^ Euler, Leonard, Vollst¨andige Anleitung zur Algebra, 2, Part II, 236, English translation: Euler, Elements of Algebra, Springer-Verlag 1984
+^ Randall L. Rathbun, The Integer Cuboid Table, Submitted on 16 May 2017 (v1), last revised 4 Sep 2017 (v2) https://arxiv.org/abs/1705.05929
+^ Sawyer, Jorge F.; Reiter, Clifford A. (2011). "Perfect parallelepipeds exist". Mathematics of Computation. 80: 1037–1040. arXiv:0907.0220 . doi:10.1090/s0025-5718-2010-02400-7. .
+
+
+
+References[edit]
+
+Leech, John (1977). "The Rational Cuboid Revisited". American Mathematical Monthly. 84 (7): 518–533. doi:10.2307/2320014. JSTOR 2320014. 
+Shaffer, Sherrill (1987). "Necessary Divisors of Perfect Integer Cuboids". Abstracts of the American Mathematical Society. 8 (6): 440. 
+Guy, Richard K. (2004). Unsolved Problems in Number Theory. Springer-Verlag. pp. 275–283. ISBN 0-387-20860-7. 
+Kraitchik, M. (1945). "On certain rational cuboids". Scripta Mathematica. 11: 317–326. 
+Roberts, Tim (2010). "Some constraints on the existence of a perfect cuboid". Australian Mathematical Society Gazette. 37: 29–31. ISSN 1326-2297. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Euler_brick&oldid=810604107"					
+Categories: Arithmetic problems of solid geometryDiophantine equationsUnsolved problems in mathematicsHidden categories: Articles containing potentially dated statements from May 2017All articles containing potentially dated statementsArticles containing potentially dated statements from September 2017Articles with inconsistent citation formats 

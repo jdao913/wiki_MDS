@@ -1,0 +1,175 @@
+Photon diffusion equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Photon diffusion equation is a second order partial differential equation describing the time behavior of photon fluence rate distribution in a low-absorption high-scattering medium.
+Its mathematical form is as follows. 
+
+
+
+∇
+(
+D
+(
+r
+)
+⋅
+∇
+)
+Φ
+(
+
+
+
+r
+→
+
+
+
+,
+t
+)
+−
+v
+
+μ
+
+a
+
+
+(
+
+
+
+r
+→
+
+
+
+)
+Φ
+(
+
+
+
+r
+→
+
+
+
+,
+t
+)
++
+v
+S
+(
+
+
+
+r
+→
+
+
+
+,
+t
+)
+=
+
+
+
+∂
+Φ
+(
+
+
+
+r
+→
+
+
+
+,
+t
+)
+
+
+∂
+t
+
+
+
+
+
+{\displaystyle \nabla (D(r)\cdot \nabla )\Phi ({\vec {r}},t)-v\mu _{a}({\vec {r}})\Phi ({\vec {r}},t)+vS({\vec {r}},t)={\frac {\partial \Phi ({\vec {r}},t)}{\partial t}}}
+
+ where 
+
+
+
+Φ
+
+
+{\displaystyle \Phi }
+
+ is photon fluence rate (W/cm2), 
+
+
+
+
+μ
+
+a
+
+
+
+
+{\displaystyle \mu _{a}}
+
+ is absorption coefficient (cm−1), 
+
+
+
+D
+
+
+{\displaystyle D}
+
+ is diffusion constant, 
+
+
+
+v
+
+
+{\displaystyle v}
+
+ is the speed of light in the medium (m/s), and 
+
+
+
+S
+
+
+{\displaystyle S}
+
+ is an isotropic source term (W/cm3).
+Its main difference with diffusion equation in physics is that photon diffusion equation has an absorption term in it.
+Application[edit]
+Medical Imaging[edit]
+diffuse optical tomography
+External links[edit]
+
+Diffuse Optics Lab at University of Pennsylvania, Philadelphia, USA
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Photon_diffusion_equation&oldid=568768959"					
+Categories: Equations 

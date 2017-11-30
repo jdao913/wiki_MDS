@@ -1,0 +1,887 @@
+Poisson's equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, Poisson's equation is a partial differential equation of elliptic type with broad utility in mechanical engineering and theoretical physics. It arises, for instance, to describe the potential field caused by a given charge or mass density distribution; with the potential field known, one can then calculate gravitational or electrostatic field. It is a generalization of Laplace's equation, which is also frequently seen in physics. The equation is named after the French mathematician, geometer, and physicist Siméon Denis Poisson.[1]
+
+
+
+Contents
+
+
+1 Statement of the equation
+2 Newtonian gravity
+3 Electrostatics
+
+3.1 Potential of a Gaussian charge density
+3.2 Surface reconstruction
+
+
+4 See also
+5 Notes
+6 References
+7 External links
+
+
+
+Statement of the equation[edit]
+Poisson's equation is
+
+
+
+
+
+Δ
+φ
+=
+f
+
+
+{\displaystyle \Delta \varphi =f}
+
+
+
+where 
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+ is the Laplace operator, and 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ and 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ are real or complex-valued functions on a manifold. Usually, 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ is given and 
+
+
+
+φ
+
+
+{\displaystyle \varphi }
+
+ is sought. When the manifold is Euclidean space, the Laplace operator is often denoted as ∇2 and so Poisson's equation is frequently written as
+
+
+
+
+
+
+∇
+
+2
+
+
+φ
+=
+f
+.
+
+
+{\displaystyle \nabla ^{2}\varphi =f.}
+
+
+
+In three-dimensional Cartesian coordinates, it takes the form
+
+
+
+
+
+
+(
+
+
+
+∂
+
+2
+
+
+
+∂
+
+x
+
+2
+
+
+
+
+
++
+
+
+
+∂
+
+2
+
+
+
+∂
+
+y
+
+2
+
+
+
+
+
++
+
+
+
+∂
+
+2
+
+
+
+∂
+
+z
+
+2
+
+
+
+
+
+)
+
+φ
+(
+x
+,
+y
+,
+z
+)
+=
+f
+(
+x
+,
+y
+,
+z
+)
+.
+
+
+{\displaystyle \left({\frac {\partial ^{2}}{\partial x^{2}}}+{\frac {\partial ^{2}}{\partial y^{2}}}+{\frac {\partial ^{2}}{\partial z^{2}}}\right)\varphi (x,y,z)=f(x,y,z).}
+
+
+
+When 
+
+
+
+f
+=
+0
+
+
+{\displaystyle f=0}
+
+ identically we obtain Laplace's equation.
+Poisson's equation may be solved using a Green's function; a general exposition of the Green's function for Poisson's equation is given in the article on the screened Poisson equation. There are various methods for numerical solution. The relaxation method, an iterative algorithm, is one example.
+Newtonian gravity[edit]
+Main articles: gravitational field and Gauss's law for gravity
+In the case of a gravitational field g due to an attracting massive object of density ρ, Gauss's law for gravity in differential form can be used to obtain the corresponding Poisson equation for gravity,
+
+
+
+
+
+∇
+⋅
+
+
+g
+
+
+=
+−
+4
+π
+G
+ρ
+ 
+.
+
+
+{\displaystyle \nabla \cdot {\mathbf {g}}=-4\pi G\rho ~.}
+
+
+
+Since the gravitational field is conservative (and irrotational), it can be expressed in terms of a scalar potential Φ,
+
+
+
+
+
+
+
+g
+
+
+=
+−
+∇
+ϕ
+ 
+.
+
+
+{\displaystyle {\mathbf {g}}=-\nabla \phi ~.}
+
+
+
+Substituting into Gauss's law
+
+
+
+
+
+∇
+⋅
+(
+−
+∇
+ϕ
+)
+=
+−
+4
+π
+G
+ρ
+
+
+{\displaystyle \nabla \cdot (-\nabla \phi )=-4\pi G\rho }
+
+
+
+yields Poisson's equation for gravity,
+
+
+
+
+
+
+
+∇
+
+
+2
+
+
+ϕ
+=
+4
+π
+G
+ρ
+.
+
+
+{\displaystyle {\nabla }^{2}\phi =4\pi G\rho .}
+
+
+
+If the mass density is zero, Poisson's equation reduces to Laplace's equation. Using Green's Function, the potential at distance r from a central point mass m (i.e., the fundamental solution) is
+
+
+
+
+
+ϕ
+(
+r
+)
+=
+
+
+
+
+−
+G
+m
+
+r
+
+
+
+.
+
+
+{\displaystyle \phi (r)={\dfrac {-Gm}{r}}.}
+
+
+
+which is equivalent to Newton's law of universal gravitation.
+Electrostatics[edit]
+Main article: Electrostatics
+One of the cornerstones of electrostatics is setting up and solving problems described by the Poisson equation. Solving the Poisson equation amounts to finding the electric potential φ for a given charge distribution 
+
+
+
+
+ρ
+
+f
+
+
+
+
+{\displaystyle \rho _{f}}
+
+.
+The mathematical details behind Poisson's equation in electrostatics are as follows (SI units are used rather than Gaussian units, which are also frequently used in electromagnetism).
+Starting with Gauss's law for electricity (also one of Maxwell's equations) in differential form, one has
+
+
+
+
+
+
+∇
+
+⋅
+
+D
+
+=
+
+ρ
+
+f
+
+
+
+
+{\displaystyle \mathbf {\nabla } \cdot \mathbf {D} =\rho _{f}}
+
+
+
+where 
+
+
+
+
+∇
+
+⋅
+
+
+{\displaystyle \mathbf {\nabla } \cdot }
+
+ is the divergence operator, D = electric displacement field, and ρf = free charge volume density (describing charges brought from outside).
+Assuming the medium is linear, isotropic, and homogeneous (see polarization density), we have the constitutive equation,
+
+
+
+
+
+
+D
+
+=
+ε
+
+E
+
+
+
+{\displaystyle \mathbf {D} =\varepsilon \mathbf {E} }
+
+
+
+where ε = permittivity of the medium and E = electric field.
+Substituting this into Gauss's law and assuming ε is spatially constant in the region of interest yields
+
+
+
+
+
+
+∇
+
+⋅
+
+E
+
+=
+
+
+ρ
+ε
+
+
+ 
+.
+
+
+{\displaystyle \mathbf {\nabla } \cdot \mathbf {E} ={\frac {\rho }{\varepsilon }}~.}
+
+
+
+where 
+
+
+
+
+ρ
+
+
+
+{\displaystyle {\rho }}
+
+ is a total volume charge density. In the absence of a changing magnetic field, B, Faraday's law of induction gives
+
+
+
+
+
+∇
+×
+
+E
+
+=
+−
+
+
+
+
+∂
+
+B
+
+
+
+∂
+t
+
+
+
+
+=
+0
+
+
+{\displaystyle \nabla \times \mathbf {E} =-{\dfrac {\partial \mathbf {B} }{\partial t}}=0}
+
+
+
+where ∇× is the curl operator and t is the time.
+Since the curl of the electric field is zero, it is defined by a scalar electric potential field, φ (see Helmholtz decomposition).
+
+
+
+
+
+
+E
+
+=
+−
+∇
+φ
+ 
+.
+
+
+{\displaystyle \mathbf {E} =-\nabla \varphi ~.}
+
+
+
+The derivation of Poisson's equation under these circumstances is straightforward. Substituting the potential gradient for the electric field,
+
+
+
+
+
+∇
+⋅
+
+
+E
+
+
+=
+∇
+⋅
+(
+−
+∇
+φ
+)
+=
+−
+
+
+∇
+
+
+2
+
+
+φ
+=
+
+
+ρ
+ε
+
+
+,
+
+
+{\displaystyle \nabla \cdot {\mathbf {E}}=\nabla \cdot (-\nabla \varphi )=-{\nabla }^{2}\varphi ={\frac {\rho }{\varepsilon }},}
+
+
+
+directly produces Poisson's equation for electrostatics, which is
+
+
+
+
+
+
+
+∇
+
+
+2
+
+
+φ
+=
+−
+
+
+ρ
+ε
+
+
+.
+
+
+{\displaystyle {\nabla }^{2}\varphi =-{\frac {\rho }{\varepsilon }}.}
+
+
+
+Solving Poisson's equation for the potential requires knowing the charge density distribution. If the charge density is zero, then Laplace's equation results. If the charge density follows a Boltzmann distribution, then the Poisson-Boltzmann equation results. The Poisson–Boltzmann equation plays a role in the development of the Debye–Hückel theory of dilute electrolyte solutions.
+Using Green's Function, the potential at distance r from a central point charge Q (i.e.: the Fundamental Solution) is:
+
+
+
+
+
+φ
+(
+r
+)
+=
+
+
+
+Q
+
+4
+π
+ε
+r
+
+
+
+
+.
+
+
+{\displaystyle \varphi (r)={\dfrac {Q}{4\pi \varepsilon r}}.}
+
+
+
+which is Coulomb's law of electrostatics. (For historic reasons, and unlike gravity's model above, the 
+
+
+
+4
+π
+
+
+{\displaystyle 4\pi }
+
+ factor appears here and not in Gauss's law.)
+The above discussion assumes that the magnetic field is not varying in time. The same Poisson equation arises even if it does vary in time, as long as the Coulomb gauge is used. In this more general context, computing φ is no longer sufficient to calculate E, since E also depends on the magnetic vector potential A, which must be independently computed. See Maxwell's equation in potential formulation for more on φ and A in Maxwell's equations and how Poisson's equation is obtained in this case.
+Potential of a Gaussian charge density[edit]
+If there is a static spherically symmetric Gaussian charge density
+
+
+
+
+
+
+ρ
+
+f
+
+
+(
+r
+)
+=
+
+
+Q
+
+
+σ
+
+3
+
+
+
+
+
+2
+π
+
+
+
+3
+
+
+
+
+
+
+
+e
+
+−
+
+r
+
+2
+
+
+
+/
+
+(
+2
+
+σ
+
+2
+
+
+)
+
+
+,
+
+
+{\displaystyle \rho _{f}(r)={\frac {Q}{\sigma ^{3}{\sqrt {2\pi }}^{3}}}\,e^{-r^{2}/(2\sigma ^{2})},}
+
+
+
+where Q is the total charge, then the solution φ(r) of Poisson's equation,
+
+
+
+
+
+
+
+∇
+
+
+2
+
+
+φ
+=
+−
+
+
+
+ρ
+
+f
+
+
+ε
+
+
+
+
+{\displaystyle {\nabla }^{2}\varphi =-{\rho _{f} \over \varepsilon }}
+
+,
+
+is given by
+
+
+
+
+
+φ
+(
+r
+)
+=
+
+
+1
+
+4
+π
+ε
+
+
+
+
+
+Q
+r
+
+
+
+
+erf
+
+
+(
+
+
+r
+
+
+
+2
+
+
+σ
+
+
+
+)
+
+
+
+{\displaystyle \varphi (r)={1 \over 4\pi \varepsilon }{\frac {Q}{r}}\,{\mbox{erf}}\left({\frac {r}{{\sqrt {2}}\sigma }}\right)}
+
+
+
+where erf(x) is the error function.
+This solution can be checked explicitly by evaluating ∇2φ.
+Note that, for r much greater than σ, the erf function approaches unity and the potential φ(r) approaches the point charge potential
+
+
+
+
+
+φ
+≈
+
+
+1
+
+4
+π
+ε
+
+
+
+
+
+Q
+r
+
+
+
+
+{\displaystyle \varphi \approx {1 \over 4\pi \varepsilon }{Q \over r}}
+
+,
+
+as one would expect. Furthermore, the erf function approaches 1 extremely quickly as its argument increases; in practice for r > 3σ the relative error is smaller than one part in a thousand.
+Surface reconstruction[edit]
+Surface reconstruction is an inverse problem. The goal is to digitally reconstruct a smooth surface based on a large number of points pi (a point cloud) where each point also carries an estimate of the local surface normal ni.[2] Poisson's equation can be utilized to solve this problem with a technique called Poisson Surface Reconstruction first published in (Kazhdan et al., 2006)[3]
+The goal of this technique is to reconstruct an implicit function f whose value is zero at the points pi and whose gradient at the points pi equals the normal vectors ni. The set of (pi, ni) is thus modeled as a continuous vector field V. The implicit function f is found by integrating the vector field V. Since not every vector field is the gradient of a function, the problem may or may not have a solution: the necessary and sufficient condition for a smooth vector field V to be the gradient of a function f is that the curl of V must be identically zero. In case this condition is difficult to impose, it is still possible to perform a least-squares fit to minimize the difference between V and the gradient of f.
+In order to effectively apply Poisson's equation to the problem of surface reconstruction, it is necessary to find a good discretization of the vector field V. The basic approach is to bound the data with a finite difference grid. For a function valued at the nodes of such a grid, its gradient can be represented as valued on staggered grids, i.e. on grids whose nodes lie in between the nodes of the original grid. It is convenient to define three staggered grids, each shifted in one and only one direction corresponding to the components of the normal data. On each staggered grid we perform [trilinear interpolation] on the set of points. The interpolation weights are then used to distribute the magnitude of the associated component of ni onto the nodes of the particular staggered grid cell containing pi. In (Kazhdan et al., 2006),[4] the authors give a more accurate method of discretization using an adaptive finite difference grid, i.e. the cells of the grid are smaller (the grid is more finely divided) where there are more data points. They suggest implementing this technique with an adaptive octree.
+See also[edit]
+
+Discrete Poisson equation
+Poisson–Boltzmann equation
+Uniqueness theorem for Poisson's equation
+
+Notes[edit]
+
+
+
+^ Jackson, Julia A.; Mehl, James P.; Neuendorf, Klaus K. E., eds. (2005), Glossary of Geology, American Geological Institute, Springer, p. 503, ISBN 9780922152766 
+^ Calakli, Fatih; Taubin, Gabriel (2011). "Smooth Signed Distance Surface Reconstruction" (PDF). Pacific Graphics. 30 (7). 
+^ Michael Kazhdan, Matthew Bolitho, and Hugues Hoppe. 2006. Poisson surface reconstruction. In Proceedings of the fourth Eurographics symposium on Geometry processing (SGP '06). Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 61-70.
+^ Michael Kazhdan, Matthew Bolitho, and Hugues Hoppe. 2006. Poisson surface reconstruction. In Proceedings of the fourth Eurographics symposium on Geometry processing (SGP '06). Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 61-70.
+
+
+
+References[edit]
+
+
+Poisson Equation at EqWorld: The World of Mathematical Equations
+Evans, Lawrence C. (1998), Partial Differential Equations, Providence (RI): American Mathematical Society, ISBN 0-8218-0772-2 
+Mathews, Jon; Walker, Robert L. (1970), Mathematical methods of physics (2nd ed.), New York: W. A. Benjamin, ISBN 0-8053-7002-1
+Polyanin, Andrei D. (2002), Handbook of Linear Partial Differential Equations for Engineers and Scientists, Boca Raton (FL): Chapman & Hall/CRC Press, ISBN 1-58488-299-9 
+Michael Kazhdan, Matthew Bolitho, and Hugues Hoppe. 2006. Poisson surface reconstruction. In Proceedings of the fourth Eurographics symposium on Geometry processing (SGP '06). Eurographics Association, Aire-la-Ville, Switzerland, Switzerland, 61-70.
+
+
+External links[edit]
+
+Hazewinkel, Michiel, ed. (2001) [1994], "Poisson equation", Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+Poisson's equation on PlanetMath.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Poisson%27s_equation&oldid=811172623"					
+Categories: Potential theoryPartial differential equationsElectrostaticsMathematical physicsEquations of physics 

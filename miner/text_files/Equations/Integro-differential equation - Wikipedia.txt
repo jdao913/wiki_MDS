@@ -1,0 +1,566 @@
+Integro-differential equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, an integro-differential equation is an equation that involves both integrals and derivatives of a function.
+
+
+
+Contents
+
+
+1 General first order linear equations
+
+1.1 Example
+
+
+2 Applications
+3 See also
+4 References
+5 External links
+
+
+
+General first order linear equations[edit]
+The general first-order, linear (only with respect to the term involving derivative) integro-differential equation is of the form
+
+
+
+
+
+
+
+d
+
+d
+x
+
+
+
+u
+(
+x
+)
++
+
+∫
+
+
+x
+
+0
+
+
+
+
+x
+
+
+f
+(
+t
+,
+u
+(
+t
+)
+)
+
+d
+t
+=
+g
+(
+x
+,
+u
+(
+x
+)
+)
+,
+
+u
+(
+
+x
+
+0
+
+
+)
+=
+
+u
+
+0
+
+
+,
+
+
+x
+
+0
+
+
+≥
+0.
+
+
+{\displaystyle {\frac {d}{dx}}u(x)+\int _{x_{0}}^{x}f(t,u(t))\,dt=g(x,u(x)),\qquad u(x_{0})=u_{0},\qquad x_{0}\geq 0.}
+
+
+
+As is typical with differential equations, obtaining a closed-form solution can often be difficult. In the relatively few cases where a solution can be found, it is often by some kind of integral transform, where the problem is first transformed into an algebraic setting. In such situations, the solution of the problem may be derived by applying the inverse transform to the solution of this algebraic equation.
+Example[edit]
+Consider the following first-order problem,
+
+
+
+
+
+
+u
+′
+
+(
+x
+)
++
+2
+u
+(
+x
+)
++
+5
+
+∫
+
+0
+
+
+x
+
+
+u
+(
+t
+)
+
+d
+t
+=
+
+{
+
+
+
+
+1
+,
+
+x
+≥
+0
+
+
+
+
+0
+,
+
+x
+<
+0
+
+
+
+
+
+
+
+
+with
+
+
+u
+(
+0
+)
+=
+0.
+
+
+{\displaystyle u'(x)+2u(x)+5\int _{0}^{x}u(t)\,dt=\left\{{\begin{array}{ll}1,\qquad x\geq 0\\0,\qquad x<0\end{array}}\right.\qquad {\text{with}}\qquad u(0)=0.}
+
+
+
+The Laplace transform is defined by,
+
+
+
+
+
+U
+(
+s
+)
+=
+
+
+L
+
+
+
+{
+u
+(
+x
+)
+}
+
+=
+
+∫
+
+0
+
+
+∞
+
+
+
+e
+
+−
+s
+x
+
+
+u
+(
+x
+)
+
+d
+x
+.
+
+
+{\displaystyle U(s)={\mathcal {L}}\left\{u(x)\right\}=\int _{0}^{\infty }e^{-sx}u(x)\,dx.}
+
+
+
+Upon taking term-by-term Laplace transforms, and utilising the rules for derivatives and integrals, the integro-differential equation is converted into the following algebraic equation,
+
+
+
+
+
+s
+U
+(
+s
+)
+−
+u
+(
+0
+)
++
+2
+U
+(
+s
+)
++
+
+
+5
+s
+
+
+U
+(
+s
+)
+=
+
+
+1
+s
+
+
+.
+
+
+{\displaystyle sU(s)-u(0)+2U(s)+{\frac {5}{s}}U(s)={\frac {1}{s}}.}
+
+
+
+Thus,
+
+
+
+
+
+U
+(
+s
+)
+=
+
+
+1
+
+
+s
+
+2
+
+
++
+2
+s
++
+5
+
+
+
+
+
+{\displaystyle U(s)={\frac {1}{s^{2}+2s+5}}}
+
+.
+
+Inverting the Laplace transform using contour integral methods then gives
+
+
+
+
+
+u
+(
+x
+)
+=
+
+
+1
+2
+
+
+
+e
+
+−
+x
+
+
+sin
+⁡
+(
+2
+x
+)
+
+
+{\displaystyle u(x)={\frac {1}{2}}e^{-x}\sin(2x)}
+
+.
+
+Applications[edit]
+Integro-differential equations model many situations from science and engineering. A particularly rich source is electrical circuit analysis.[citation needed]
+The activity of interacting inhibitory and excitatory neurons can be described by a system of integro-differential equations, see for example the Wilson-Cowan model.
+See also[edit]
+
+Laplace transform
+Integrodifference equation
+
+References[edit]
+
+Vangipuram Lakshmikantham, M. Rama Mohana Rao, “Theory of Integro-Differential Equations”, CRC Press, 1995
+
+External links[edit]
+
+Interactive Mathematics
+Numerical solution of the example using Chebfun
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Differential equations
+
+
+
+Classification
+
+
+
+
+Operations
+
+
+
+Differential operator
+Notation for differentiation
+Ordinary
+Partial
+Differential-algebraic
+Integro-differential
+Fractional
+Linear
+Non-linear
+
+
+
+
+
+Attributes of variables
+
+
+
+Dependent and independent variables
+Homogeneous
+Nonhomogeneous
+Coupled
+Decoupled
+Order
+Degree
+Autonomous
+Exact differential equation
+Complex differential equation
+
+
+
+
+
+Relation to processes
+
+
+
+Difference (discrete analogue)
+stochastic
+Delay
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+
+
+Solution topics
+
+
+
+Picard–Lindelöf theorem (existence and uniqueness)
+Wronskian
+Phase portrait
+Phase space
+Lyapunov stability
+Asymptotic stability
+Exponential stability
+Rate of convergence
+Series solutions
+Integral solutions
+Numerical integration
+Dirac Delta function
+
+
+
+
+
+Solution methods
+
+
+
+Inspection
+Separation of variables
+Method of undetermined coefficients
+Integrating factor
+Integral transforms
+Euler method
+Finite difference method
+Crank–Nicolson method
+Runge–Kutta methods
+Finite element method
+Finite volume method
+Galerkin method
+Perturbation theory
+
+
+
+
+
+
+
+
+Applications
+
+
+
+Astronomy
+Physics
+Continuum mechanics
+Chaos theory
+Chemistry
+Dynamical systems
+Economics
+Biology
+Geology
+Population dynamics
+
+
+
+
+
+Mathematicians
+
+
+
+Isaac Newton
+Leonhard Euler
+Émile Picard
+Józef Maria Hoene-Wroński
+Ernst Lindelöf
+Rudolf Lipschitz
+Augustin-Louis Cauchy
+John Crank
+Phyllis Nicolson
+Carl David Tolmé Runge
+Martin Wilhelm Kutta
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Integro-differential_equation&oldid=786958056"					
+Categories: Differential equationsHidden categories: All articles with unsourced statementsArticles with unsourced statements from February 2013 

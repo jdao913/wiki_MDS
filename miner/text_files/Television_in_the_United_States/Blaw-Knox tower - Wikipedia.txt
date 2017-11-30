@@ -1,0 +1,111 @@
+Blaw-Knox tower - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+This 808 foot (246 m) Blaw-Knox tower is the tallest in the United States, and belongs to WSM. It is located in the Nashville, Tennessee suburb of Brentwood.
+
+
+
+
+
+
+WBT's 428 ft (130 m) transmitter towers just south of Uptown Charlotte, North Carolina.
+
+
+
+
+
+
+Lakihegy Tower, a 314-metre (1030 ft) Blaw-Knox mast at Szigetszentmiklós-Lakihegy
+
+
+The Blaw-Knox company was a manufacturer of steel structures and construction equipment based in Pittsburgh, Pennsylvania. The company is today best known for its radio towers, most of which were constructed during the 1930s in the United States. Although Blaw-Knox built many kinds of towers, the term Blaw-Knox tower (or radiator) usually refers to the company's unusual "diamond cantilever" design, which is stabilized by guy wires attached only at the vertical center of the mast, where its cross-section is widest.[1] A 1942 advertisement claims that 70% of all radio towers in the US at the time were built by Blaw-Knox.[2]
+The distinctive diamond-shaped towers became an icon of early radio. Several are listed on the US National Register of Historic Places,[3][4] the distinctive diamond antenna design has been incorporated into logos of various organizations related to radio and a very large (scale) replica of the WSM (AM) Blaw-Knox tower has been built into the Country Music Hall of Fame and Museum.
+
+
+
+Contents
+
+
+1 Design
+2 Extant examples
+3 Gallery
+4 See also
+5 References
+6 External links
+
+
+
+Design[edit]
+The diamond-shaped tower was patented by Nicholas Gerten and Ralph Jenner for Blaw-Knox July 29, 1930.[5] and was one of the first mast radiators.[1][6] Previous antennas for medium and long wave broadcasting usually consisted of wires strung between masts, but in the Blaw-Knox antenna, as in modern AM broadcasting mast radiators, the metal mast structure itself functioned as the antenna.[1] To prevent the high frequency potential on the mast from short-circuiting to ground, the narrow lower end of the tower rested on a ceramic insulator about 3 feet wide, shaped like a ball and socket joint.[1] Thus the tower required guy lines to hold it upright.[1]
+The distinguishing feature of the Blaw-Knox tower was its wide diamond (or rhomboidal) shape, which served to make it rigid, to resist shear stresses. One advantage of this was to reduce the number of guy wires needed. Blaw-Knox masts required only one set of 3 or 4 guy cables, attached at the tower's wide "waist".[1] In contrast, narrow masts require 2 to 4 sets of guy cables, attached at different heights, to prevent the tower from buckling. The advantage of fewer guy cables was to simplify the electrical design of the antenna, because conductive guy cables interfered with its radiation pattern. If not insulated at their bottom end, guy wires acted as additional "antennas" and conducted the power radiated by the antenna to ground, wasting power. Even when insulated from ground, the sections of guy cable could act as "parasitic" resonant elements, reradiating the radio waves in other directions and thus altering the antenna's radiation pattern. In some Blaw-Knox mast designs (see WBT towers, right) the upper pyramidal section was made longer than the lower, to keep the attachment point of the guys as low as possible, to minimize their interference.
+Another advantage mentioned in the patent was that the tower could be erected in two parts. Half of the mast could be built, then its wide central section could be used as a stable base on which to erect the other half.
+Extant examples[edit]
+Many Blaw-Knox towers, of both conventional (uniform cross-section) and diamond design, remain in use in the United States. Few of the diamond towers were built, and several remain; all transmit AM radio signals:
+
+WSM, Nashville, Tennessee: 808 ft (246 m); originally 874 ft (267 m); tower located in Brentwood, Tennessee.
+WLW, Cincinnati, Ohio: 747 ft (227 m); originally 831 ft (253 m); tower located in Mason, Ohio.
+WBT, Charlotte, North Carolina: three towers, 428 ft (130 m) each (one original, two reproductions from the original plans after the originals were destroyed by Hurricane Hugo)
+WFEA, Manchester, New Hampshire: 400 ft (121 m); tower located in Merrimack, New Hampshire.
+WBNS, Columbus, Ohio: 380 ft (116 m)
+
+Several additional diamond-cantilever towers were built at stations in the Central Valley of California but are less well known. These towers were much smaller in both height and cross-section than the towers listed elsewhere; only one — KSTN, Stockton[7] — remains in use for broadcasting.
+The following Blaw-Knox diamond-cantilever towers remain standing in Europe:
+
+Lisnagarvey Mast (constructed: 1936) at Lisnagarvey, Northern Ireland
+Lakihegy Tower (constructed: 1933, height: 314 metres, 1030 ft) at Szigetszentmiklós-Lakihegy, Hungary (The tallest Blaw-Knox tower ever built)
+Vakarel Transmitter (constructed: 1937, height: 215 metres, 705 ft) at Vakarel, Bulgaria
+Stara Zagora Transmitter at Stara Zagora, Bulgaria
+
+The 480-foot self-supporting tower (four legs up to 400 ft., topped with an 80-foot pole), of WKQI (FM) Detroit is a Blaw-Knox tower. It began transmitting in 1949, when the station was WLDM. It is located on Ten Mile Rd. in the suburb of Oak Park.
+Gallery[edit]
+
+
+
+
+
+
+
+Vakarel radio transmitter
+
+
+
+
+See also[edit]
+
+Radio masts and towers
+
+References[edit]
+
+
+
+^ a b c d e f "Half Wave Mast Antenna: A 665 foot structure which constitutes a new departure" (PDF). Radio-Craft. Mount Morris, Illinois: Techni-Craft Publishing Corp. 3 (5): 269. November 1931. Retrieved August 31, 2014. 
+^ Blaw-Knox Division of Blaw-Knox Company. "On duty for the duration (advertisement)". Broadcasting and Broadcast Advertising. Washington, D.C.: Broadcasting Publications, Inc. 22 (19): 104. 
+^ WSM tower gets 'historic' status, The Tennessean, April 14, 2011
+^ "Weekly list of actions taken on properties: 3/14/11 through 3/18/11". National Park Service. March 25, 2011. Retrieved March 26, 2011. 
+^ US patent 1897373, Nicholas Gerten, Ralph Lindsay Jenner, Wave Antenna, filed July 29, 1930, granted March 14, 1933
+^ Siemens, Frederick (December 1931). "WABC's New "Wire-less" Antenna" (PDF). Radio News. New York: Teck Publishing Corp. 8 (6): 462–463. Retrieved May 26, 2015. 
+^ Fybush, Scott (2005-11-18). "The Historic AMs of Stockton, California". Fybush.com. Retrieved 2009-01-19. 
+
+
+
+External links[edit]
+
+Blaw-Knox Diamond Radio Towers
+Blaw-Knox Technical Origins
+WLDM web page maintained by Shannon Murdoch
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Blaw-Knox_tower&oldid=809409205"					
+Categories: Telecommunications equipmentRadio masts and towers in the United StatesTowers in Tennessee 

@@ -1,0 +1,180 @@
+Cannonball problem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+A square pyramid of cannonballs in a square frame
+
+
+In the mathematics of figurate numbers, the cannonball problem asks which numbers are both square and square pyramidal. Equivalently, which squares can be represented as the sum of consecutive squares, starting from 1?
+When cannonballs are stacked within a square frame, the number of balls is a square pyramidal number; Thomas Harriot gave a formula for this number around 1587, answering a question posed to him by Sir Walter Raleigh on their expedition to America.[1] Édouard Lucas formulated the cannonball problem as a Diophantine equation
+
+
+
+
+
+
+∑
+
+n
+=
+1
+
+
+N
+
+
+
+n
+
+2
+
+
+=
+
+M
+
+2
+
+
+
+
+{\displaystyle \sum _{n=1}^{N}n^{2}=M^{2}}
+
+
+
+or
+
+
+
+
+
+
+
+1
+6
+
+
+N
+(
+N
++
+1
+)
+(
+2
+N
++
+1
+)
+=
+
+
+
+2
+
+N
+
+3
+
+
++
+3
+
+N
+
+2
+
+
++
+N
+
+6
+
+
+=
+
+M
+
+2
+
+
+
+
+{\displaystyle {\frac {1}{6}}N(N+1)(2N+1)={\frac {2N^{3}+3N^{2}+N}{6}}=M^{2}}
+
+
+
+and conjectured that the only solutions are N = 1, M = 1, and N = 24, M = 70. It was not until 1918 that G. N. Watson found a proof for this fact, using elliptic functions. The result has relevance to the bosonic string theory in 26 dimensions.[2] More recently, elementary proofs have been published.[3][4]
+Although it is possible to tile a geometric square with unequal squares, it is not possible to do so with a solution to the cannonball problem. The squares with side lengths from 1 to 24 have areas equal to the square with side length 70, but they cannot be arranged to tile it.
+See also[edit]
+
+Square triangular number, the numbers that are simultaneously square and triangular
+Sixth power, the numbers that are simultaneously square and cubical
+
+References[edit]
+
+
+
+^ David Darling. "Cannonball Problem". The Internet Encyclopedia of Science. 
+^ "week95". Math.ucr.edu. 1996-11-26. Retrieved 2012-01-04. 
+^ Ma, D. G. (1985). "An Elementary Proof of the Solutions to the Diophantine Equation 
+
+
+
+6
+
+y
+
+2
+
+
+=
+x
+(
+x
++
+1
+)
+(
+2
+x
++
+1
+)
+
+
+{\displaystyle 6y^{2}=x(x+1)(2x+1)}
+
+". Sichuan Daxue Xuebao. 4: 107–116. 
+^ Anglin, W. S. (1990). "The Square Pyramid Puzzle". American Mathematical Monthly. 97 (2): 120–124. doi:10.2307/2323911. JSTOR 2323911. 
+
+
+
+
+
+
+This mathematics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Cannonball_problem&oldid=791404277"					
+Categories: Diophantine equationsFigurate numbersMathematics stubsHidden categories: All stub articles 

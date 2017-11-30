@@ -1,0 +1,941 @@
+SuperTV - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (October 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+
+SuperTV
+
+
+
+
+
+Launched
+1981 (1981)
+
+
+Closed
+1986 (1986)
+
+
+Owned by
+Subscription TV of Greater Washington, Inc.
+
+
+Picture format
+480i (SDTV)
+
+
+Country
+United States
+
+
+Language
+English
+
+
+Broadcast area
+Washington, D.C., Capital and central regions of Maryland and northern Virginia
+
+
+SuperTV is a defunct American subscription television service that was owned by Subscription TV of Greater Washington, Inc. It was an early form of subscription television that was offered to prospective subscribers as either a standalone service to those that did not have access to cable television-originated premium services (such as HBO and Showtime), or as an additional viewing alternative thereto.
+
+
+
+Contents
+
+
+1 Overview
+2 Technology
+3 See also
+4 References
+5 External links
+
+
+
+Overview[edit]
+Prior to the foray of home videocassettes and discs into the home entertainment market, SuperTV, like its competitors (ONTV, SelecTV and Spectrum) served as the only means available to watch recent movies, various music specials and late-night adult entertainment presented unedited and without commercial interruption. The service originated in the Washington, D.C. market in November 1981 on independent station WFTY (channel 50, now CW affiliate WDCW).
+Unlike other over-the-air subscription television services, SuperTV maintained a part-time schedule throughout its entire existence, never switching to a 24-hour schedule; it broadcast Monday through Fridays from 7:00 p.m. to 1:00 a.m. and from 3:00 p.m. to 1:00 a.m. on weekends. Subscribers received a 12x12-inch brown decoder box and a dedicated UHF antenna, which was installed atop a roof or on a balcony and aimed toward the station's transmitter. When attached to a television, the box would unencrypt the SuperTV programming. In July 1982, SuperTV expanded into the Baltimore market, affiliating with independent station WNUV (channel 54, also a CW affiliate).
+Each evening, subscribers could view a host of features that were scheduled to air at that time. The service carried a wide variety of films from the 1970s and 1980s; these included The China Syndrome, Ordinary People, Private Benjamin, 9 to 5, The Exorcist, Diner, Flashdance, On Golden Pond, Ran, 48 Hrs. and Poltergeist). The service also incorporated foreign and independent films, as well as an occasional horror film, however SuperTV primarily stayed away from carrying films within the slasher horror genre that was enormously popular at the time.
+For an additional monthly charge, SuperTV also ran Night Life, a late-night programing block which aired Thursday through Sundays from 11:00 p.m. to 2:00 a.m., featuring softcore versions of adult-oriented series and XXX movies. Customers who did not pay for the additional service found their signals scrambled, shortly after the Night Life intro sequence began.
+Baltimore residents could also watch 16 home games of the Baltimore Orioles in both 1982 and 1983. The announcers were Ted Patterson and Rex Barney.
+Since its Baltimore and Washington affiliates provided different programming at the same time, those outside the immediate coverage area were able to subscribe to both stations for the same price, as a limited-edition run of decoders featured the ability to choose between an A-feed (the primary station for the local area) and the B-feed (the primary station from the adjacent market). This meant that for accounts which had Washington listed as a primary and Baltimore as a secondary feed, a 378-384 MHz fixed-frequency crystal was installed in the A-feed line to pick up the WFTY signal and a 402-408 crystal was installed in the B-feed line for the WNUV signal. Customers with the opposite arrangement simply had the two crystals reversed in their respective feeds and the switch was accomplished by having an additional front-panel pushbutton in either the in (A) or out (B) position to receive the programming. These special decoders were only available for a short time, and only in areas defined as being part of both the Washington and Baltimore markets (such as Anne Arundel County). This feature made SuperTV unique among the pay television services operations during the late 1970s and early 1980s as no other company maintained services in neighboring markets (such as the situation in Chicago and Milwaukee, and in Phoenix and Tucson, where one market was served ONTV and the other by SelecTV).
+One reason for the early demise of SuperTV's dual-station format was the fact that, for those customers who had VCRs (a steadily increasing number of whom lived in middle-class and affluent areas such as that between northeastern D.C. and southwestern Baltimore), it was impossible to record a program on one SuperTV feed while watching the other direct-from-air without paying a second subscription fee and receiving an extra decoder, attached to an additional television set hooked up to a second VCR – thereby defeating the purpose. SuperTV subscribers also received a monthly or weekly catalog-size program guide, featuring a schedule of films that were scheduled to air on the service. Because of its limited broadcast hours, the service often limited repeat runs of certain films to once or twice each month.
+Early barker announcements spoofed the introduction to The Outer Limits by telling viewers that the station was now controlling the transmission and that for a "low, low monthly fee," they could regain control of their television sets. This was brought to the attention of the Federal Communications Commission (FCC) in 1982, which considered it to be false advertising and subsequently ordered that the service desist the pitch, even as a Federal Court was about to decree that SuperTV and its competitors were not covered under FCC restrictions that applied to over-the-air broadcasts, forcing it under the more liberal definition of cablecasting and rendering the ruling a moot point.
+Like similar services in other cities, SuperTV was popular until many issues rendered it obsolete in 1986. In addition to television sets capable of receiving multichannel television sound (MTS) stereocasting being able to receive the monaural audio off the subcarrier, a few set manufacturers attempted to incorporate the video decoding circuitry normally found in popular cable-descrambler boxes into their set models, eliminating the need for set-top boxes and making recording off-air much easier. These sets were quickly legislated out of existence, but by then the damage had been done, with the decoding circuitry being published in magazines such as Popular Science for anyone to construct from commonly available components.
+By 1986, cable television had begun a rapid expansion into areas not previously wired for service; home video rentals had also increased in popularity at an enormous rate a couple of years earlier. This resulted in an increased number of home entertainment choices available, and by 1987, fewer people cared to pay $11.95 a month to subscribe to a single-channel broadcast service that ran six hours a night. Moreover, established cable-originated pay television services such as HBO and Showtime were now heavily acquiring packages of films from the major studios through exclusive licensing agreements, making them off-limits to services like SuperTV (cable service Spotlight and Los Angeles-based Z Channel became the two other major casualties at that time as a result of this).
+Eventually, operators of over-the-air pay television services began launching secondary, unrelated services within the same market (for example, in Chicago, the main ONTV service broadcast movies, while its one-time crosstown rival Sportsvision ran mostly sporting events until that service was integrated into ONTV), however attempts to partner SuperTV with other similar services or with a sports programmer were ultimately unsuccessful. Eventually, SuperTV's two UHF affiliates, WFTY and WNUV, disaffiliated from the service, reverting into full-time general entertainment independent stations. Today, a very limited number of SuperTV memorabilia (such as T-shirts and movie guides) exists on the collector's market.
+Technology[edit]
+The Zenith SSAVI (sync suppression and video inversion) was used as the decode the signal, however it had no external controls other than a small chrome button atop the decoder box to select between standard television signals or SuperTV. In a then-pioneering effort at thwarting piracy, the station could address each box individually to authorize decoding of programs, including one-time pay-per-view broadcasts or adult program options. In addition, to defeat simple home-engineer descrambling techniques, video inversion was done selectively, often when the video frame was light overall, causing the scrambled picture to retain in a darker tint than the elevated sync pulses. In certain cases, video was inverted on alternate frames. The audio transmitted on the standard audio channel was a "barker" announcement, informing would-be customers that SuperTV was a scrambled service and required a subscription to view its content.
+The monaural audio used for SuperTV's film broadcasts was transmitted on a subcarrier, which would later be used to transmit the difference signal of multichannel television sound after 1984. Until the first MTS sets became available in 1985, most conventional television sets could not decode the audio; however shortly afterward, the barker channel would be transmitted on the right audio channel and the monoural program audio feed would transmit on the left.
+See also[edit]
+
+ONTV – an over-the-air subscription service that served Chicago, Cincinnati, Dallas/Fort Worth, Detroit, Fort Lauderdale, Phoenix, Salem/Portland and San Francisco.
+PRISM – an over-the-air and cable television subscription service that served Southeastern Pennsylvania, Southern New Jersey, Delaware and the Delmarva Peninsula.
+SelecTV – an over-the-air subscription service that served Los Angeles, Milwaukee and Philadelphia and later the Wometco Home Theater territories after WHT ceased its own programming.
+Spectrum – an over-the-air subscription service that served Chicago and was a direct competitor to On-TV.
+Wometco Home Theater – an over-the-air subscription service that served New York City, Northern and Central New Jersey, Long Island and Fairfield County, Connecticut.
+
+References[edit]
+
+External links[edit]
+
+YouTube.com A commercial from 1983 for the SuperTV service in Baltimore (recorded off of WMAR-TV)
+Subscription TV of Greater Washington v. Kaufmann, 606 F.Supp. 1540 (D.C., 1985)
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Premium television services in the United States
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Premium television services in the United States (movies, series and specials)
+
+
+
+Movies, series, and specials
+
+
+
+Home Box Office Inc.
+
+HBO
+Cinemax
+
+
+Showtime Networks
+
+Showtime
+The Movie Channel
+Flix
+
+
+Starz Inc.
+
+Starz
+Starz Encore
+MoviePlex
+
+
+Metro-Goldwyn-Mayer
+
+Epix
+
+
+
+
+
+
+
+Adult
+
+
+
+Playboy TV
+Penthouse TV
+Hustler TV
+
+
+
+
+
+Other
+
+
+
+Fox Soccer Plus
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Pay-per-view television services in the United States
+
+
+
+Pay-per-view
+
+
+
+In Demand (HD)
+TVN Entertainment
+
+
+
+
+
+Adult
+
+
+
+
+Playboy TV
+
+
+
+Playboy TV
+Playgirl
+Climax
+
+
+
+
+
+Spice Networks
+
+
+
+RKTV
+Brazzers TV
+BangU.
+Mofos
+
+
+
+
+
+The Erotic Network
+
+
+
+Blox
+Blue
+Clips
+Juicy
+Real
+Xtsy
+Penthouse TV (HD)
+TEN
+
+
+
+
+
+Other
+
+
+
+Hot Choice
+Hustler TV
+In Demand
+TVN Entertainment
+Too Much For TV
+
+
+
+
+
+
+
+
+Sports packages
+
+
+
+
+Pro sports
+
+
+
+ESPN College Extra
+NHL Center Ice (HD)
+NFL RedZone (HD)
+NFL Sunday Ticket (HD)
+NBA League Pass (HD)
+MLB Extra Innings (HD)
+MLS Direct Kick (HD)
+
+
+
+
+
+College sports
+
+
+
+NCAA Mega March Madness (HD)
+
+
+
+
+
+Other
+
+
+
+Cricket Ticket
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Defunct premium television services in the United States
+
+
+
+Premium services
+
+
+
+AMC1
+Bravo1
+Channel 100
+Disney Channel1
+Front Row (TV channel)
+Festival
+Galavisión1
+Home Theater Network
+Spotlight
+Starion Premiere Cinema
+Sundance Channel1
+
+
+Star Channel2
+Take Two (TV channel)
+
+
+
+
+
+Adult premium
+
+
+
+American Exxxtasy
+Escapade (TV channel)
+Uptown (TV channel)
+
+
+
+
+
+Pay-per-view
+
+
+
+Action Pay-Per-View
+Cable Video Store
+Drive-In Cinema
+Guest Cinema
+The HiLife Channel
+Rendezvous (TV channel)
+Request TV
+Spectradyne
+
+
+
+
+
+Sports
+
+
+
+ESPN GamePlan
+ESPN Full Court
+Mega March Madness
+NASCAR Hot Pass
+PASS Sports
+
+
+
+
+
+Subscription TV
+
+
+
+Hawkvision
+In-Home Theatre
+MovieBeam
+ONTV
+Phonevision
+Preview
+PRISM
+SCORE
+SelecTV
+Spectrum
+Sportsvision
+SuperTV
+Tele1st
+Telemeter
+VEU
+Wometco Home Theater
+Z Channel
+
+
+
+
+
+
+1 Indicates the channel is still in existence, but currently operates as a basic cable channel.
+2 Star Channel was part of Warner Communications' QUBE interactive cable service, and was the precursor to present-day The Movie Channel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+See also
+U.S. movie channels
+Canadian movie channels
+Canadian premium channels
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Movie-oriented television services in the United States
+
+
+
+Over-the-air
+digital television
+
+
+
+Escape
+GetTV
+Grit
+Movies!
+This TV
+
+
+
+
+
+Cable television
+
+
+
+
+Cable and satellite
+television only
+
+
+
+AMC
+Chiller
+Cinelatino
+FX Movie Channel
+HDNet Movies
+Hallmark Movies & Mysteries
+IFC
+LMN
+MGM HD
+PixL
+ShortsHD
+Sony Movie Channel
+SundanceTV
+Turner Classic Movies
+ViendoMovies
+
+
+
+
+
+Premium television
+
+
+
+HBO (Multiplex)
+Cinemax (Multiplex)
+Showtime (Multiplex)
+The Movie Channel (Multiplex)
+Flix
+Starz (Multiplex)
+Starz Encore (Multiplex)
+MoviePlex (Multiplex)
+Epix (Multiplex)
+
+
+
+
+
+
+
+
+Defunct
+
+
+
+
+Cable, satellite
+and terrestrial TV
+
+
+
+Documentary Channel
+Fearnet
+Festival
+Home Theater Network
+Spotlight
+Star Channel
+Take 2
+White Springs TV
+
+
+
+
+
+Subscription TV
+
+
+
+MovieBeam
+ONTV
+Phonevision
+Preview
+PRISM
+SelecTV
+Spectrum
+SuperTV
+VEU
+Wometco Home Theater
+Z Channel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+See also
+U.S. premium channels
+Canadian movie channels
+Canadian premium channels
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=SuperTV&oldid=752296994"					
+Categories: Television channels and stations established in 1981Defunct television stations in the United StatesAmerican subscription television servicesTelevision channels and stations disestablished in 1986Hidden categories: Articles lacking sources from October 2011All articles lacking sourcesArticles that may contain original research from October 2011All articles that may contain original research 
