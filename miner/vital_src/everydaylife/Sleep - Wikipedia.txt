@@ -1,0 +1,1092 @@
+Sleep - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about sleep in humans. For non-human sleep, see Sleep (non-human). For other uses, see Sleep (disambiguation).
+"Sleep architecture", "Waking up", "Asleep", and "Slept" redirect here. For other uses, see Waking Up (disambiguation), Asleep (disambiguation), and SLEPT analysis.
+
+
+
+
+Sleep is associated with a state of muscle relaxation and reduced perception of environmental stimuli.
+
+
+Sleep is a naturally recurring state of mind and body, characterized by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings.[1] It is distinguished from wakefulness by a decreased ability to react to stimuli, but is more easily reversed than the state of being comatose. Sleep occurs in repeating periods, in which the body alternates between two distinct modes known as non-REM and REM sleep. Although REM stands for "rapid eye movement", this mode of sleep has many other aspects, including virtual paralysis of the body. A well-known feature of sleep is the dream, an experience typically recounted in narrative form, which resembles waking life while in progress, but which usually can later be distinguished as fantasy.
+During sleep, most of the body's systems are in an anabolic state, helping to restore the immune, nervous, skeletal, and muscular systems; these are vital processes that maintain mood, memory, and cognitive performance, and play a large role in the function of the endocrine and immune systems.[2] The internal circadian clock promotes sleep daily at night. The diverse purposes and mechanisms of sleep are the subject of substantial ongoing research.[3] The advent of artificial light has substantially altered sleep timing in industrialized countries.[4]
+Humans may suffer from various sleep disorders, including dyssomnias, such as insomnia, hypersomnia, narcolepsy, and sleep apnea; parasomnias, such as sleepwalking and REM behavior disorder; bruxism; and circadian rhythm sleep disorders.
+
+
+
+Contents
+
+
+1 Physiology
+
+1.1 Non-REM and REM sleep
+1.2 Awakening
+
+
+2 Timing
+
+2.1 Circadian clock
+2.2 Process S
+2.3 Social timing
+2.4 Distribution
+
+2.4.1 Naps
+
+
+2.5 Genetics
+2.6 Quality
+
+
+3 Ideal duration
+
+3.1 Children
+3.2 Recommendations
+
+
+4 Functions of sleep
+
+4.1 Restoration
+4.2 Memory processing
+4.3 Dreaming
+
+
+5 Disorders
+
+5.1 Insomnia
+5.2 Obstructive sleep apnea
+5.3 Other disorders
+
+
+6 Drugs and diet
+7 In culture
+
+7.1 Anthropology
+7.2 Art
+
+
+8 See also
+
+8.1 Positions, practices, and rituals
+
+
+9 References
+
+9.1 Sources
+
+
+10 External links
+
+
+
+Physiology
+
+
+
+
+An artist's creative illustration depicting REM sleep.
+
+
+Main article: Neuroscience of sleep
+The most pronounced physiological changes in sleep occur in the brain.[5] Especially during non-REM sleep, the brain uses significantly less energy during sleep than it does in waking. In areas with reduced activity, the brain restores its supply of adenosine triphosphate (ATP), the molecule used for short-term storage and transport of energy.[6] (Since in quiet waking the brain is responsible for 20% of the body's energy use, this reduction has an independently noticeable impact on overall energy consumption.)[7]
+Sleep increases the sensory threshold. In other words, sleeping persons perceive fewer stimuli. However, they can generally still respond to loud noises and other salient sensory events.[7][5]
+During slow-wave sleep, humans secrete bursts of growth hormone. All sleep, even during the day, is associated with secretion of prolactin.[8]
+Key physiological measurements indicators of sleep include EEG of brain waves, electrooculography (EOG) of eye movements, electromyography (EMG) of skeletal muscle activity. Simultaneous collection of these measurements is called polysomnography, and can be performed in a specialized sleep laboratory.[9][10] Sleep researchers also use simplified electrocardiography (EKG) for cardiac activity and actigraphy for motor movements.[10]
+Non-REM and REM sleep
+Sleep is divided into two broad types: non-rapid eye movement (non-REM or NREM sleep) and rapid eye movement (REM sleep). non-REM and REM sleep are so different that physiologists identify them as distinct behavioral states. Non-REM sleep occurs first and after a transitional period is called slow wave sleep or deep sleep. During this phase, body temperature and heart rate fall, and the brain uses less energy.[5] REM sleep (also known as paradoxical sleep), a smaller portion of total sleep time and the main occasion for dreams (or nightmares), is associated with desynchronized and fast brain waves, eye movements, loss of muscle tone,[1] and suspension of homeostasis.[11]
+The sleep cycle of alternate NREM and REM sleep takes an average of 90 minutes, occurring 4–6 times in a good night's sleep.[10][12] The American Academy of Sleep Medicine (AASM) divides NREM into three stages: N1, N2, and N3, the last of which is also called delta sleep or slow-wave sleep.[13] The whole period normally proceeds in the order: N1 → N2 → N3 → N2 → REM. REM sleep occurs as a person returns to stage 2 or 1 from a deep sleep.[1] There is a greater amount of deep sleep (stage N3) earlier in the night, while the proportion of REM sleep increases in the two cycles just before natural awakening.[10]
+Awakening
+
+
+
+
+"The Awakening", an illustration to writing by Leo Tolstoy
+
+
+Further information: Wakefulness
+Awakening can mean the end of sleep, or simply a moment to survey the environment and readjust body position before falling back asleep. Sleepers typically awaken soon after the end of a REM phase or sometimes in the middle of REM. Internal circadian indicators, along with successful reduction of homeostatic sleep need, typically bring about awakening and the end of the sleep episode.[14] Awakening involves heightened electrical activation in the brain, beginning with the thalamus and spreading throughout the cortex.[14]
+During a night's sleep, a small portion is usually spent in a waking state. As measured by electroencephalography, young females are awake for 0–1% of the larger sleeping period; young males are awake for 0–2%. In adults, wakefulness increases, especially in later cycles. One study found 3% awake time in the first ninety-minute sleep cycle, 8% in the second, 10% in the third, 12% in the fourth, and 13–14% in the fifth. Most of this awake time occurred shortly after REM sleep.[14]
+Today, many humans wake up with an alarm clock.[15] (Some people, however, can reliably wake themselves up at a specific time with no need for an alarm.)[14] Many sleep quite differently on workdays versus days off, a pattern which can lead to chronic circadian desynchronization.[16][15] Many people regularly look at television and other screens before going to bed, a factor which may exacerbate this mass circadian disruption.[17] Scientific studies on sleep have shown that sleep stage at awakening is an important factor in amplifying sleep inertia.[18]
+Timing
+Sleep timing is controlled by the circadian clock (Process C), sleep-wake homeostasis (Process S), and to some extent by individual will.
+Circadian clock
+Main article: Circadian rhythm
+
+
+
+
+The human "biological clock"
+
+
+Sleep timing depends greatly on hormonal signals from the circadian clock, or Process C, a complex neurochemical system which uses signals from an organism's environment to recreate an internal day–night rhythm. Process C counteracts the homeostatic drive for sleep during the day (in diurnal animals) and augments it at night.[19][16] The suprachiasmatic nucleus (SCN), a brain area directly above the optic chiasm, is presently considered the most important nexus for this process; however, secondary clock systems have been found throughout the body.
+An organism whose circadian clock exhibits a regular rhythm corresponding to outside signals is said to be entrained; the rhythm so established persists even if the outside signals suddenly disappear. If an entrained human is isolated in a bunker with constant light or darkness, he or she will continue to experience rhythmic increases and decreases of body temperature and melatonin, on a period which slightly exceeds 24 hours. Scientists refer to such conditions as free-running of the circadian rhythm. Under natural conditions, light signals regularly adjust this period downward, so that it corresponds better with the exact 24 hours of an Earth day.[15][20][21]
+The clock exerts constant influence on the body, effecting sinusoidal oscillation of body temperature between roughly 36.2 °C and 37.2 °C.[21][22] The suprachiasmatic nucleus itself shows conspicuous oscillation activity, which intensifies during subjective day (i.e., the part of the rhythm corresponding with daytime, whether accurately or not) and drops to almost nothing during subjective night.[23] The circadian pacemaker in the suprachiasmatic nucleus has a direct neural connection to the pineal gland, which releases the hormone melatonin at night.[23] Cortisol levels typically rise throughout the night, peak in the awakening hours, and diminish during the day.[8][24] Circadian prolactin secretion begins in the late afternoon, especially in women, and is subsequently augmented by sleep-induced secretion, to peak in the middle of the night. Circadian rhythm exerts some influence on the nighttime secretion of growth hormone.[8]
+The circadian rhythm influences the ideal timing of a restorative sleep episode.[15][25] Sleepiness increases during the night. REM sleep occurs more during body temperature minimum within the circadian cycle, whereas slow-wave sleep can occur more independently of circadian time.[21]
+The internal circadian clock is profoundly influenced by changes in light, since these are its main clues about what time it is. Exposure to even small amounts of light during the night can suppress melatonin secretion, increase body temperature, and increase cognitive ability. Short pulses of light, at the right moment in the circadian cycle, can significantly 'reset' the internal clock.[22] Blue light, in particular, exerts the strongest effect,[16] leading to concerns that electronic media use before bed may interfere with sleep.[26]
+Modern humans often find themselves desynchronized from their internal circadian clock, due to the requirements of work (especially night shifts), long-distance travel, and the influence of universal indoor lighting.[21] Even if they have sleep debt, or feel sleepy, people can have difficulty staying asleep at the peak of their circadian cycle. Conversely they can have difficulty waking up in the trough of the cycle.[14] A healthy young adult entrained to the sun will (during most of the year) fall asleep a few hours after sunset, experience body temperature minimum at 6AM, and wake up a few hours after sunrise.[21]
+Process S
+Main article: Sleep debt
+Generally speaking, the longer an organism is awake, the more it feels a need to sleep ("sleep debt"). This driver of sleep is referred to as Process S. The balance between sleeping and waking is regulated by a process called homeostasis. Induced or perceived lack of sleep is commonly called sleep deprivation.
+Process S is driven by the depletion of glycogen and accumulation of adenosine in the forebrain that disinhibits the Ventrolateral preoptic nucleus, allowing for inhibition of the ascending reticular activating system.[27]
+Sleep deprivation tends to cause slower brain waves in the frontal cortex, shortened attention span, higher anxiety, impaired memory, and a grouchy mood. Conversely, a well-rested organism tends to have improved memory and mood.[28] Neurophysiological and functional imaging studies have demonstrated that frontal regions of the brain are particularly responsive to homeostatic sleep pressure.[29]
+Scientists do not agree on how much sleep debt it is possible to accumulate; whether it is accumulated against an individual's average sleep or some other benchmark; nor on whether the prevalence of sleep debt among adults has changed appreciably in the industrialized world in recent decades. Sleep debt does show some evidence of being cumulative. Subjectively, however, humans seem to reach maximum sleepiness after 30 hours of waking.[21] It is likely that children are sleeping less than previously in Western societies.[30]
+One neurochemical indicator of sleep debt is adenosine, a neurotransmitter that inhibits many of the bodily processes associated with wakefulness. Adenosine levels increase in the cortex and basal forebrain during prolonged wakefulness and decrease during the sleep-recovery period, potentially acting as a homeostatic regulator of sleep.[31][32] Coffee and caffeine temporarily block the effect of adenosine, prolong sleep latency, and reduce total sleep time and quality.[33]
+Social timing
+Humans are also influenced by aspects of social time: the hours when other people are awake, the hours when work is required, the time on the clock, etc. Time zones, standard times used to unify the timing for people in the same area, correspond only approximately to the natural rising and setting of the sun. The approximate nature of the timezone can be shown with China, a country which used to span five time zones and now uses only one (UTC +8).[15]
+Distribution
+In polyphasic sleep, an organism sleeps several times in a 24-hour cycle. Monophasic sleep occurs all at once. Under experimental conditions, humans tend to alternate more frequently between sleep and wakefulness (i.e., exhibit more polyphasic sleep) if they have nothing better to do.[21] Given a 14-hour period of darkness in experimental conditions, humans tended towards bimodal sleep, with two sleep periods concentrated at the beginning and at the end of the dark time. Bimodal sleep in humans was more common before the industrial revolution.[24]
+Different characteristic sleep patterns, such as the familiarly so-called "early bird" and "night owl", are called chronotypes. Genetics and sex have some influence on chronotype, but so do habits. Chronotype is also liable to change over the course of a person's lifetime. Seven-year-olds are better disposed to wake up early in the morning than are fifteen-year-olds.[16][15] Chronotypes far outside the normal range are called circadian rhythm sleep disorders.[34]
+Naps
+
+
+
+
+Man napping in San Cristóbal, Peru.
+
+
+Main article: Nap
+The siesta habit has recently been associated with a 37% lower coronary mortality, possibly due to reduced cardiovascular stress mediated by daytime sleep.[35] Short naps at mid-day and mild evening exercise were found to be effective for improved sleep, cognitive tasks, and mental health in elderly people.[36]
+Many people have a temporary drop in alertness in the early afternoon, commonly known as the "post-lunch dip." While a large meal can make a person feel sleepy, the post-lunch dip is mostly an effect of the circadian clock. People naturally feel most sleepy at two times of the day about 12 hours apart—for example, at 2:00 a.m. and 2:00 p.m. At those two times, the body clock "kicks in." At about 2 p.m. (14:00), it overrides the homeostatic buildup of sleep debt, allowing several more hours of wakefulness. At about 2 a.m. (02:00), with the daily sleep debt paid off, it "kicks in" again to ensure a few more hours of sleep.
+Genetics
+It is hypothesized that a considerable amount of sleep-related behavior, such as when and how long a person needs to sleep, is regulated by genetics. Researchers have discovered some evidence that seems to support this assumption.[37] Monozygotic (identical) but not dizygotic (fraternal) twins tend to have similar sleep habits. Neurotransmitters, molecules whose production can be traced to specific genes, are one genetic influence on sleep which can be analyzed. And the circadian clock has its own set of genes.[38] Genes which may influence sleep include ABCC9,[39] DEC2,[40][41] and variants near PAX 8 and VRK2.[42]
+Quality
+The quality of sleep may be evaluated from an objective and a subjective point of view. Objective sleep quality refers to how difficult it is for a person to fall asleep and remain in a sleeping state, and how many times they wake up during a single night. Poor sleep quality disrupts the cycle of transition between the different stages of sleep.[43] Subjective sleep quality in turn refers to a sense of being rested and regenerated after awaking from sleep. A study by A. Harvey et al. (2002) found that insomniacs were more demanding in their evaluations of sleep quality than individuals who had no sleep problems.[44]
+Homeostatic sleep propensity (the need for sleep as a function of the amount of time elapsed since the last adequate sleep episode) must be balanced against the circadian element for satisfactory sleep.[45][46] Along with corresponding messages from the circadian clock, this tells the body it needs to sleep.[47] A person who regularly awakens at an early hour will generally not be able to sleep much later than his or her normal waking time, even if moderately sleep-deprived[citation needed]. The timing is correct when the following two circadian markers occur after the middle of the sleep episode and before awakening:[48] maximum concentration of the hormone melatonin, and minimum core body temperature.
+Ideal duration
+
+
+
+
+The main health effects of sleep deprivation,[49] indicating impairment of normal maintenance by sleep.
+
+
+Human sleep needs vary by age and amongst individuals, and sleep is considered to be adequate when there is no daytime sleepiness or dysfunction. Moreover, self-reported sleep duration is only moderately correlated with actual sleep time as measured by actigraphy,[50] and those affected with sleep state misperception may typically report having slept only four hours despite having slept a full eight hours.[51]
+Researchers have found that sleeping 6–7 hours each night correlates with longevity and cardiac health in humans, though many underlying factors may be involved in the causality behind this relationship.[52][53][54][55][42][56][57]
+Sleep difficulties are furthermore associated with psychiatric disorders such as depression, alcoholism, and bipolar disorder.[58] Up to 90% of adults with depression are found to have sleep difficulties. Dysregulation found on EEG includes disturbances in sleep continuity, decreased delta sleep and altered REM patterns with regard to latency, distribution across the night and density of eye movements.[59]
+Children
+
+
+
+
+Bronze statue of Eros sleeping, 3rd century BC–early 1st century AD
+
+
+By the time infants reach the age of two, their brain size has reached 90 percent of an adult-sized brain;[60] a majority of this brain growth has occurred during the period of life with the highest rate of sleep. The hours that children spend asleep influence their ability to perform on cognitive tasks.[61][62] Children who sleep through the night and have few night waking episodes have higher cognitive attainments and easier temperaments than other children.[62][63][64]
+Sleep also influences language development. To test this, researchers taught infants a faux language and observed their recollection of the rules for that language.[65] Infants who slept within four hours of learning the language could remember the language rules better, while infants who stayed awake longer did not recall those rules as well. There is also a relationship between infants' vocabulary and sleeping: infants who sleep longer at night at 12 months have better vocabularies at 26 months.[64]
+Recommendations
+
+
+
+
+
+
+
+Children need many hours of sleep per day in order to develop and function properly: up to 18 hours for newborn babies, with a declining rate as a child ages.[47] Early in 2015, after a two-year study,[66] the National Sleep Foundation in the US announced newly revised recommendations as shown in the table below.
+
+
+Age and condition
+Sleep Needs
+
+
+Newborns (0–3 months)
+14 to 17 hours[66]
+
+
+Infants (4–11 months)
+12 to 15 hours[66]
+
+
+Toddlers (1–2 years)
+11 to 14 hours[66]
+
+
+Preschoolers (3–4 years)
+10 to 13 hours[66]
+
+
+School-age children (5–12 years)    
+  9 to 11 hours[66]
+
+
+Teenagers (13–17 years)
+  8 to 10 hours[66][67]
+
+
+Adults (18–64 years)
+  7 to 9 hours[66]
+
+
+Older Adults (65 years and over)
+  7 to 8 hours[66][68]
+
+
+Functions of sleep
+Restoration
+The human organism physically restores itself during sleep, healing itself and removing waste which builds up during periods of activity. This restoration takes place mostly during slow-wave sleep, during which body temperature, heart rate, and brain oxygen consumption decrease. The brain, especially, requires sleep for restoration, whereas in the rest of the body these processes can take place during quiescent waking. In both cases, the reduced rate of metabolism enables countervailing restorative processes.[69]
+While awake, metabolism generates reactive oxygen species, which are damaging to cells. In sleep, metabolic rates decrease and reactive oxygen species generation is reduced allowing restorative processes to take over. The sleeping brain has been shown to remove metabolic waste products at a faster rate than during an awake state.[70][71] It is further theorized that sleep helps facilitate the synthesis of molecules that help repair and protect the brain from these harmful elements generated during waking.[72] Anabolic hormones such as growth hormones are secreted preferentially during sleep. Sleep has also been theorized to effectively combat the accumulation of free radicals in the brain, by increasing the efficiency of endogenous antioxidant mechanisms.[73][unreliable medical source?] The concentration of the sugar compound glycogen in the brain increases during sleep, and is depleted through metabolism during wakefulness.[69]
+Wound healing has been shown to be affected by sleep.[74]
+It has been shown that sleep deprivation affects the immune system.[75] It is now possible to state that "sleep loss impairs immune function and immune challenge alters sleep," and it has been suggested that sleep increases white blood cell counts.[76] A 2014 study found that depriving mice of sleep increased cancer growth and dampened the immune system's ability to control cancers.[77]
+The effect of sleep duration on somatic growth is not completely known. One study recorded growth, height, and weight, as correlated to parent-reported time in bed in 305 children over a period of nine years (age 1–10). It was found that "the variation of sleep duration among children does not seem to have an effect on growth."[78] It is well established that slow-wave sleep affects growth hormone levels in adult men.[8] During eight hours' sleep, Van Cauter, Leproult, and Plat found that the men with a high percentage of SWS (average 24%) also had high growth hormone secretion, while subjects with a low percentage of SWS (average 9%) had low growth hormone secretion.[79]
+Memory processing
+Further information: Sleep and learning, Sleep and creativity, and Sleep and memory
+Scientists demonstrated in various ways that sleep enhances memory.[80][81] Apparently procedural memory benefits from late, REM-rich sleep, whereas declarative memory benefits from early, slow wave-rich sleep.[82][83]
+Sleep researchers Saper[84] and Stickgold[85] point out that an essential part of memory and learning consists of nerve cell dendrites' sending of information to the cell body to be organized into new neuronal connections. This process demands that no external information is presented to these dendrites, and it is suggested that this may be why it is during sleep that memories and knowledge are solidified and organized. Giulio Tononi and Chiara Cirelli have focused on the process of forgetting by pruning weaker connections during sleep, to select important memories and enable future memory encoding. They further suggest that synaptic potentiation drives Process S (homeostatic need for sleep).[86][87]
+Recent studies examining gene expression and evolutionary increases in brain size offer complimentary support for the role of sleep in the mammalian memory consolidation theory. Evolutionary advances in the size of the mammalian amygdala, (a brain structure active during sleep and involved in memory processing), are also associated with increases in NREM sleep durations.[88] Likewise, nighttime gene expression differs from daytime expression and specifically targets genes thought to be involved in memory consolidation and brain plasticity.[89]
+Dreaming
+
+
+
+
+Dreams often feel like waking life, yet with added surrealism.
+
+
+Main article: Dream
+During sleep, especially REM sleep, people tend to have dreams: elusive first-person experiences, which, despite their frequently bizarre qualities, seem realistic while in progress. Dreams can seamlessly incorporate elements within a person's mind that would not normally go together. They can include apparent sensations of all types, especially vision and movement.[90]
+People have proposed many hypotheses about the functions of dreaming. Sigmund Freud postulated that dreams are the symbolic expression of frustrated desires that have been relegated to the unconscious mind, and he used dream interpretation in the form of psychoanalysis in attempting to uncover these desires.[91]
+Counterintuitively, penile erections during sleep are not more frequent during sexual dreams than during other dreams.[92] The parasympathetic nervous system experiences increased activity during REM sleep which may cause erection of the penis or clitoris. In males, 80% to 95% of REM sleep is normally accompanied by partial to full penile erection, while only about 12% of men's dreams contain sexual content.[93]
+John Allan Hobson and Robert McCarley propose that dreams are caused by the random firing of neurons in the cerebral cortex during the REM period. Neatly, this theory helps explain the irrationality of the mind during REM periods, as, according to this theory, the forebrain then creates a story in an attempt to reconcile and make sense of the nonsensical sensory information presented to it. This would explain the odd nature of many dreams.[94]
+Using antidepressants,[clarification needed] acetaminophen, ibuprofen, or alcoholic beverages is thought to potentially suppress dreams, whereas melatonin may have the ability to encourage them.[95]
+Disorders
+Insomnia
+Insomnia is a general term for difficulty falling asleep and staying asleep. Insomnia is the most common sleep problem, with many adults reporting occasional insomnia, and 10–15% reporting a chronic condition.[96] Insomnia can have many different causes, including psychological stress, a poor sleep environment, an inconsistent sleep schedule, or excessive mental or physical stimulation in the hours before bedtime. Insomnia is often treated through behavioral changes like keeping a regular sleep schedule, avoiding stimulating or stressful activities before bedtime, and cutting down on stimulants such as caffeine. The sleep environment may be improved by installing heavy drapes to shut out all sunlight, and keeping computers, televisions and work materials out of the sleeping area.
+A 2010 review of published scientific research suggested that exercise generally improves sleep for most people, and helps sleep disorders such as insomnia. The optimum time to exercise may be 4 to 8 hours before bedtime, though exercise at any time of day is beneficial, with the exception of heavy exercise taken shortly before bedtime, which may disturb sleep. However, there is insufficient evidence to draw detailed conclusions about the relationship between exercise and sleep.[97] Sleeping medications such as Ambien and Lunesta are an increasingly popular treatment for insomnia. Although these nonbenzodiazepine medications are generally believed to be better and safer than earlier generations of sedatives, they have still generated some controversy and discussion regarding side-effects. White noise appears to be a promising treatment for insomnia.[98]
+Obstructive sleep apnea
+Obstructive sleep apnea is a condition in which major pauses in breathing occur during sleep, disrupting the normal progression of sleep and often causing other more severe health problems. Apneas occur when the muscles around the patient's airway relax during sleep, causing the airway to collapse and block the intake of oxygen.[99] Obstructive sleep apnea is more common than central sleep apnea.[100] As oxygen levels in the blood drop, the patient then comes out of deep sleep in order to resume breathing. When several of these episodes occur per hour, sleep apnea rises to a level of seriousness that may require treatment.
+Diagnosing sleep apnea usually requires a professional sleep study performed in a sleep clinic, because the episodes of wakefulness caused by the disorder are extremely brief and patients usually do not remember experiencing them. Instead, many patients simply feel tired after getting several hours of sleep and have no idea why. Major risk factors for sleep apnea include chronic fatigue, old age, obesity and snoring.
+Other disorders
+Sleep disorders include narcolepsy, periodic limb movement disorder (PLMD), restless leg syndrome (RLS), upper airway resistance syndrome (UARS), and the circadian rhythm sleep disorders. Fatal familial insomnia, or FFI, an extremely rare genetic disease with no known treatment or cure, is characterized by increasing insomnia as one of its symptoms; ultimately sufferers of the disease stop sleeping entirely, before dying of the disease.[101]
+Somnambulism, known as sleep walking, is also a common sleeping disorder, especially among children. In somnambulism the individual gets up from his/her sleep and wanders around while still sleeping.[102]
+Older people may be more easily awakened by disturbances in the environment[103] and may to some degree lose the ability to consolidate sleep.
+Drugs and diet
+Drugs which induce sleep, known as hypnotics, include benzodiazepines, although these interfere with REM;[104] Nonbenzodiazepine hypnotics such as eszopiclone (Lunesta), zaleplon (Sonata), and zolpidem (Ambien); Antihistamines, such as diphenhydramine (Benadryl) and doxylamine; Alcohol (ethanol), despite its rebound effect later in the night and interference with REM;[104][105] barbiturates, which have the same problem; melatonin, a component of the circadian clock, and released naturally at night by the pineal gland;[106] and cannabis, which may also interfere with REM.[107]
+Stimulants, which inhibit sleep, include caffeine, an adenosine antagonist; amphetamine, MDMA, empathogen-entactogens, and related drugs; cocaine, which can alter the circadian rhythm,[108][109] and methylphenidate, which acts similarly; and other analeptic drugs like modafinil and armodafinil with poorly understood mechanisms.
+Dietary and nutritional choices may affect sleep duration and quality. One 2016 review indicated that a high carbohydrate diet promoted shorter onset to sleep and longer duration sleep than a high fat diet.[110] A 2012 investigation indicated that mixed micronutrients and macronutrients are needed to promote quality sleep.[111] A varied diet containing fresh fruits and vegetables, low saturated fat, and whole grains may be optimal for individuals seeking to improve sleep quality.[110] High-quality clinical trials on long-term dietary practices are needed to better define the influence of diet on sleep quality.[110]
+In culture
+Anthropology
+
+
+
+
+The Land of Cockaigne by Pieter Bruegel the Elder, 1567.
+
+
+Research suggests that sleep patterns vary significantly across cultures.[112][113] The most striking differences are between societies that have plentiful sources of artificial light and ones that do not.[112] The primary difference appears to be that pre-light cultures have more broken-up sleep patterns.[112] For example, people without artificial light might go to sleep far sooner after the sun sets, but then wake up several times throughout the night, punctuating their sleep with periods of wakefulness, perhaps lasting several hours.[112]
+The boundaries between sleeping and waking are blurred in these societies.[112] Some observers believe that nighttime sleep in these societies is most often split into two main periods, the first characterized primarily by deep sleep and the second by REM sleep.[112]
+Some societies display a fragmented sleep pattern in which people sleep at all times of the day and night for shorter periods. In many nomadic or hunter-gatherer societies, people will sleep on and off throughout the day or night depending on what is happening.[112] Plentiful artificial light has been available in the industrialized West since at least the mid-19th century, and sleep patterns have changed significantly everywhere that lighting has been introduced.[112] In general, people sleep in a more concentrated burst through the night, going to sleep much later, although this is not always the case.[112]
+Historian A. Roger Ekirch thinks that the traditional pattern of "segmented sleep," as it is called, began to disappear among the urban upper class in Europe in the late 17th century and the change spread over the next 200 years; by the 1920s "the idea of a first and second sleep had receded entirely from our social consciousness."[114][115] Ekirch attributes the change to increases in "street lighting, domestic lighting and a surge in coffee houses," which slowly made nighttime a legitimate time for activity, decreasing the time available for rest.[115] Today in most societies people sleep during the night, but in very hot climates they may sleep during the day.[116] During Ramadan, many Muslims sleep during the day rather than at night.[117]
+In some societies, people sleep with at least one other person (sometimes many) or with animals. In other cultures, people rarely sleep with anyone except for an intimate partner. In almost all societies, sleeping partners are strongly regulated by social standards. For example, a person might only sleep with the immediate family, the extended family, a spouse or romantic partner, children, children of a certain age, children of specific gender, peers of a certain gender, friends, peers of equal social rank, or with no one at all. Sleep may be an actively social time, depending on the sleep groupings, with no constraints on noise or activity.[112]
+People sleep in a variety of locations. Some sleep directly on the ground; others on a skin or blanket; others sleep on platforms or beds. Some sleep with blankets, some with pillows, some with simple headrests, some with no head support. These choices are shaped by a variety of factors, such as climate, protection from predators, housing type, technology, personal preference, and the incidence of pests.[112]
+Art
+
+
+
+
+This section needs expansion. You can help by adding to it. (July 2017)
+
+
+
+Writing about the thematical representations of sleep in art, physician and sleep researcher Meir Kryger noted: "[Artists] have intense fascination with mythology, dreams, religious themes, the parallel between sleep and death, reward, abandonment of conscious control, healing, a depiction of innocence and serenity, and the erotic."[118]
+
+
+
+
+
+
+
+Zwei schlafende Mädchen auf der Ofenbank, Albert Anker, 1895
+
+
+
+
+
+
+
+
+
+Lullaby, William-Adolphe Bouguereau, 1875
+
+
+
+
+
+
+
+
+
+Flaming June by Frederic Lord Leighton, ~1895
+
+
+
+
+
+
+
+
+
+The Sentry by Carel Fabritius, 1654
+
+
+
+
+
+
+
+
+
+Sleep and his Half-brother Death by John William Waterhouse, 1874
+
+
+
+
+
+
+
+
+
+Noon – Rest from Work (after Millet) by Vincent van Gogh, 1890
+
+
+
+
+
+
+
+
+
+Sleeping Jaguar, by Paul Klimsch
+
+
+
+
+
+
+
+
+
+Chrapek (Snorer), Wrocław's dwarfs
+
+
+
+
+
+
+
+
+
+The Sleep of Reason Produces Monsters by Goya, 1799
+
+
+
+
+See also
+
+
+Microsleep
+Morvan's syndrome
+Oleamide
+Power nap
+Rheum
+Sleep epidemiology
+Sleep-learning
+Sleep medicine
+Sleep paralysis
+Somnology
+Sudden infant death syndrome
+Sudden unexpected death syndrome
+Sleep in space
+
+
+Positions, practices, and rituals
+
+
+Sleeping positions
+Co-sleeping
+Hypnosis
+Meditation
+Neutral spine
+Sleep hygiene
+Yoga-nidra
+World Sleep Day
+Unconsciousness
+
+
+References
+
+
+^ a b c "Brain Basics: Understanding Sleep". Office of Communications and Public Liaison, National Institute of Neurological Disorders and Stroke, US National Institutes of Health, Bethesda, MD. 2017. 
+^ "Sleep-wake cycle: its physiology and impact on health" (PDF). National Sleep Foundation. 2006. Retrieved 24 May 2017. 
+^ Bingham, Roger; Sejnowski, Terrence; Siegel, Jerry; Dyken, Mark Eric; Czeisler, Charles (February 2007). "Waking Up To Sleep" (Several conference videos). The Science Network. Retrieved 25 January 2008. 
+^ Randall, David K. (19 September 2012). "Book excerpt: How the lightbulb disrupted our sleeping patterns and changed the world". National Post. Retrieved 31 August 2016. "... the sudden introduction of bright nights during hours when it should be dark threw a wrench into a finely choreographed system of life. 
+^ a b c Pierre A. A. Maquet et al., "Brain Imaging on Passing to Sleep"; Chapter 6 in Parmeggiani & Velluti (2005).
+^ Brown, pp. 1118–1119: "Compared with wakefulness, sleep reduces brain energy demands, as suggested by the 44% reduction in the cerebral metabolic rate (CMR) of glucose (791) and a 25% reduction in the CMR of O2 (774) during sleep."
+^ a b Siegel Jerome M (2008). "Do all animals sleep?". Trends in Neurosciences. 31 (4): 208–13. doi:10.1016/j.tins.2008.02.001. PMID 18328577. 
+^ a b c d Eve Van Cauter & Karine Spiegel (1999). "Circadian and Sleep Control of Hormonal Secretions", in Turek & Zee (eds.), Regulation of Sleep and Circadian Rhythms, pp. 397–425.
+^ Brown, p. 1087.
+^ a b c d Rosa Peraita-Adrados, "Electroencephalography, Polysomnography, and Other Sleep Recording Systems"; Chapter 5 in Parmeggiani & Velluti (2005).
+^ Parmeggiani (2011), Systemic Homeostasis and Poikilostasis in Sleep, p. 12–15.
+^ Robert W. McCarley, “Neurobiology of REM and NREM sleep”; Sleep Medicine 8, June 2007; doi:10.1016/j.sleep.2007.03.005.
+^ Silber MH, Ancoli-Israel S, Bonnet MH, Chokroverty S, Grigg-Damberger MM, Hirshkowitz M, Kapen S, Keenan SA, Kryger MH, Penzel T, Pressman MR, Iber C (March 2007). "The visual scoring of sleep in adults" (PDF). Journal of Clinical Sleep Medicine. 3 (2): 121–31. PMID 17557422. 
+^ a b c d e Åkerstedt Torbjorn; Billiard Michel; Bonnet Michael; Ficca Gianluca; Garma Lucile; Mariotti Maurizio; Salzarulo Piero; Schulz Hartmut (2002). "Awakening from Sleep". Sleep Medicine Reviews. 6 (4): 267–286. doi:10.1053/smrv.2001.0202. 
+^ a b c d e f Roenneberga Till; Kuehnlea Tim; Judaa Myriam; Kantermanna Thomas; Allebrandta Karla; Gordijnb Marijke; Merrow Martha (2007). "Epidemiology of the human circadian clock". Sleep Medicine Reviews. 11 (6): 429–438. doi:10.1016/j.smrv.2007.07.005. PMID 17936039. 
+^ a b c d Waterhouse Jim; Fukuda Yumi; Morita Takeshi (2012). "Daily rhythms of the sleep-wake cycle". Journal of Physiological Anthropology. 31 (5). doi:10.1186/1880-6805-31-5. 
+^ Basner Mathias; Dinges David F (2009). "Dubious Bargain: Trading Sleep for Leno and Letterman". Sleep. 32: 6. 
+^ Tassi, P; Muzet, A (2000). "Sleep inertia". National Center for Biotechnology Information, U.S. National Library of Medicine. 4 (4): 341–353. doi:10.1053/smrv.2000.0098. PMID 12531174. 
+^ Fuller Patrick M.; Gooley Joshua J.; Saper Clifford B. (2006). "Neurobiology of the Sleep-Wake Cycle: Sleep Architecture, Circadian Regulation, and Regulatory Feedback". Journal of Biological Rhythms. 21: 6. 
+^ Phyllis C. Zee & Fred W. Turek (1999), "Introduction to Sleep and Circadian Rhythms", in Turek & Zee (eds.), Regulation of Sleep and Circadian Rhythms, pp. 1–17.
+^ a b c d e f g Derk-Jan Dijk & Dale M. Edgar (1999), "Circadian and Homeostatic Control of Wakefulness and Sleep", in Turek & Zee (eds.), Regulation of Sleep and Circadian Rhythms, pp. 111–147'
+^ a b Charles A. Czeisler & Kenneth P. Wright, Jr. (1999), "Influence of Light on Circadian Rhythmicity in Humans", in Turek & Zee (eds.), Regulation of Sleep and Circadian Rhythms, pp. 149–180.
+^ a b Piotr Zlomanczuk & William J. Schwartz (1999). "Cellular and Molecular Mechanisms of Circadian Rhythms in Mammals", in Turek & Zee (eds.), Regulation of Sleep and Circadian Rhythms, pp. 309–342.
+^ a b Thomas A. Wehr (1999). "The Impact of Changes in Nightlength (Scotoperiod) on Human Sleep", in Turek & Zee (eds.), Regulation of Sleep and Circadian Rhythms, pp. 263–285.
+^ Wyatt JK, Ritz-De Cecco A, Czeisler CA, Dijk DJ (1 October 1999). "Circadian temperature and melatonin rhythms, sleep, and neurobehavioral function in humans living on a 20-h day". American Journal of Physiology. 277 (4): R1152–R1163. PMID 10516257. 
+^ Chang, Anne-Marie; Aeschbach, Daniel; Duffy, Jeanne F.; Czeisler, Charles A. (2015-01-27). "Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness". Proceedings of the National Academy of Sciences of the United States of America. 112 (4): 1232–1237. doi:10.1073/pnas.1418490112. ISSN 0027-8424. PMID 25535358. 
+^ Schwartz, Jonathan R.L; Roth, Thomas (24 January 2017). "Neurophysiology of Sleep and Wakefulness: Basic Science and Clinical Implications". Current Neuropharmacology. 6 (4): 367–378. doi:10.2174/157015908787386050. ISSN 1570-159X. PMC 2701283 . PMID 19587857. 
+^ Brown, pp. 1134–1138.
+^ Gottselig JM, Adam M, Rétey JV, Khatami R, Achermann P, Landolt HP (March 2006). "Random number generation during sleep deprivation: effects of caffeine on response maintenance and stereotypy". Journal of Sleep Research. 15 (1): 31–40. doi:10.1111/j.1365-2869.2006.00497.x. PMID 16490000. 
+^ Iglowstein I, Jenni OG, Molinari L, Largo RH (February 2003). "Sleep duration from infancy to adolescence: reference values and generational trends". Pediatrics. 111 (2): 302–7. doi:10.1542/peds.111.2.302. PMID 12563055. Thus, the shift in the evening bedtime across cohorts accounted for the substantial decrease in sleep duration in younger children between the 1970s and the 1990s... [A] more liberal parental attitude toward evening bedtime in the past decades is most likely responsible for the bedtime shift and for the decline of sleep duration... 
+^ Huang, Z. L.; Zhan g, Z; Qu, W. M. (2014). "Roles of Adenosine and Its Receptors in Sleep–Wake Regulation". In Mori, Akihisa. Adenosine receptors in neurology and psychiatry. International Review of Neurobiology. 119. pp. 349–71. doi:10.1016/B978-0-12-801022-8.00014-3. ISBN 978-0-12-801022-8. PMID 25175972. 
+^ "The brain from top to bottom: Molecules that build up and make you sleep". McGill University, Montreal, Quebec, Canada. 
+^ Clark, I; Landolt, H. P. (2017). "Coffee, caffeine, and sleep: A systematic review of epidemiological studies and randomized controlled trials". Sleep Medicine Reviews. 31: 70–78. doi:10.1016/j.smrv.2016.01.006. PMID 26899133. 
+^ Dagan Y (2002). "Circadian rhythm sleep disorders (CRSD)" (PDF). Sleep Medicine Reviews. 6 (1): 45–54. doi:10.1053/smrv.2001.0190. PMID 12531141. Archived from the original (PDF: full text) on 27 February 2008. Retrieved 5 June 2016. Early onset of CRSD, the ease of diagnosis, the high frequency of misdiagnosis and erroneous treatment, the potentially harmful psychological and adjustment consequences, and the availability of promising treatments, all indicate the importance of greater awareness of these disorders. 
+^ Naska A, Oikonomou E, Trichopoulou A, Psaltopoulou T, Trichopoulos D (2007). "Siesta in healthy adults and coronary mortality in the general population". Archives of Internal Medicine. 167 (3): 296–301. doi:10.1001/archinte.167.3.296. PMID 17296887. 
+^ Tanaka, H; Tamura, N (2015). "Sleep education with self-help treatment and sleep health promotion for mental and physical wellness in Japan". Sleep and Biological Rhythms. 14: 89–99. doi:10.1007/s41105-015-0018-6. PMC 4732678 . PMID 26855610. 
+^ He Y, Jones CR, Fujiki N, Xu Y, Guo B, Holder JL, Rossner MJ, Nishino S, Fu YH (2009). "The Transcriptional Repressor DEC2 Regulates Sleep Length in Mammals". Science. 325 (5942): 866–70. Bibcode:2009Sci...325..866H. doi:10.1126/science.1174443. PMC 2884988 . PMID 19679812. 
+^ Brown, pp. 1138–1102.
+^ "The ABCC9 of Sleep: A Genetic Factor Regulates How Long We Sleep". Science Daily. Retrieved 21 August 2012. 
+^ "Gene Cuts Need for Sleep - Sleep Disorders Including, Sleep Apnea, Narcolepsy, Insomnia, Snoring and Nightmares on MedicineNet.com". Archived from the original on 14 July 2011. Retrieved 11 June 2010. 
+^ He Y, Jones CR, Fujiki N, Xu Y, Guo B, Holder JL, Rossner MJ, Nishino S, Fu YH (2009). "The transcriptional repressor DEC2 regulates sleep length in mammals". Science. 325 (5942): 866–70. Bibcode:2009Sci...325..866H. doi:10.1126/science.1174443. PMC 2884988 . PMID 19679812. 
+^ a b Jones, Samuel E.; Tyrrell, Jessica; Wood, Andrew R.; Beaumont, Robin N.; Ruth, Katherine S.; Tuke, Marcus A.; Yaghootkar, Hanieh; Hu, Youna; Teder-Laving, Maris (2016-08-01). "Genome-Wide Association Analyses in 128,266 Individuals Identifies New Morningness and Sleep Duration Loci". PLOS Genetics. 12 (8): e1006125. doi:10.1371/journal.pgen.1006125. ISSN 1553-7404. PMC 4975467 . PMID 27494321.   This content is available under the Creative Commons Attribution License 4.0.
+^ Barnes, C. M.; Lucianetti, L.; Bhave, D. P.; Christian, M. S. (2015). "You wouldn't like me when I'm sleepy: Leaders' sleep, daily abusive supervision, and work unit engagement". Academy of Management Journal. 58 (5): 1419–1437. doi:10.5465/amj.2013.1063. 
+^ Harvey, A. G.; Payne, S. (2002). "The management of unwanted pre-sleep thoughts in insomnia: Distraction with imagery versus general distraction". Behaviour Research and Therapy. 40 (3): 267–277. doi:10.1016/s0005-7967(01)00012-2. PMID 11863237. 
+^ Zisapel N (2007). "Sleep and sleep disturbances: biological basis and clinical implications". Cellular and Molecular Life Sciences. 64 (10): 1174–86. doi:10.1007/s00018-007-6529-9. PMID 17364142. 
+^ Dijk DJ, Lockley SW (February 2002). "Functional Genomics of Sleep and Circadian Rhythm Invited Review: Integration of human sleep-wake regulation and circadian rhythmicity". Journal of Applied Physiology. 92 (2): 852–62. doi:10.1152/japplphysiol.00924.2001. PMID 11796701. Consolidation of sleep for 8 h or more is only observed when sleep is initiated ~6–8 h before the temperature nadir. 
+^ a b de Benedictis, Tina; Larson, Heather; Kemp, Gina; Barston, Suzanne; Segal, Robert (2007). "Understanding Sleep: Sleep Needs, Cycles, and Stages". Helpguide.org. Archived from the original on 24 January 2008. Retrieved 25 January 2008. 
+^ Wyatt JK, Ritz-De Cecco A, Czeisler CA, Dijk DJ (1 October 1999). "Circadian temperature and melatonin rhythms, sleep, and neurobehavioral function in humans living on a 20-h day". American Journal of Physiology. 277 (4): R1152–R1163. PMID 10516257. ... significant homeostatic and circadian modulation of sleep structure, with the highest sleep efficiency occurring in sleep episodes bracketing the melatonin maximum and core body temperature minimum 
+^ Reference list is found on image page in Commons: Commons:File:Effects of sleep deprivation.svg#References
+^ Lauderdale DS, Knutson KL, Yan LL, Liu K, Rathouz PJ (2008). "Self-Reported and Measured Sleep Duration: How Similar Are They?". Epidemiology. 19 (6): 838–45. doi:10.1097/EDE.0b013e318187a7b0. PMC 2785092 . PMID 18854708. 
+^ Insomnia Causes. Healthcommunities.com. Original Publication: 1 December 2000, Updated: 1 December 2007.
+^ Rhonda Rowland (15 February 2002). "Experts challenge study linking sleep, life span". CNN. Retrieved 29 October 2013. 
+^ Patel SR, Ayas NT, Malhotra MR, White DP, Schernhammer ES, Speizer FE, Stampfer MJ, Hu FB (May 2004). "A prospective study of sleep duration and mortality risk in women". Sleep. 27 (3): 440–4. PMID 15164896. 
+^ Patel SR, Malhotra A, Gottlieb DJ, White DP, Hu FB (July 2006). "Correlates of long sleep duration". Sleep. 29 (7): 881–9. PMC 3500381 . PMID 16895254. ; cf. Irwin MR, Ziegler M (February 2005). "Sleep deprivation potentiates activation of cardiovascular and catecholamine responses in abstinent alcoholics". Hypertension. 45 (2): 252–7. doi:10.1161/01.HYP.0000153517.44295.07. PMID 15642774. 
+^ Ferrie JE, Shipley MJ, Cappuccio FP, Brunner E, Miller MA, Kumari M, Marmot MG (December 2007). "A prospective study of change in sleep duration: associations with mortality in the Whitehall II cohort". Sleep. 30 (12): 1659–66. PMC 2276139 . PMID 18246975. Lay summary – University of Warwick. 
+^ Cappuccio, Francesco P.; Taggart, Frances M.; Kandala, Ngianga-Bakwin; Currie, Andrew; Peile, Ed; Stranges, Saverio; Miller, Michelle A. (2008-05-01). "Meta-analysis of short sleep duration and obesity in children and adults". Sleep. 31 (5): 619–626. doi:10.1093/sleep/31.5.619. ISSN 0161-8105. PMC 2398753 . PMID 18517032. 
+^ Schmid, Sebastian M.; Hallschmid, Manfred; Schultes, Bernd (2015-01-01). "The metabolic burden of sleep loss". The Lancet Diabetes & Endocrinology. 3 (1): 52–62. doi:10.1016/S2213-8587(14)70012-9. ISSN 2213-8595. PMID 24731536. 
+^ Thase ME (2006). "Depression and sleep: pathophysiology and treatment" (Free full text). Dialogues in Clinical Neuroscience. 8 (2): 217–226. ISSN 1294-8322. PMC 3181772 . PMID 16889107. 
+^ Mann, Joseph John; David J. Kupfer (1993). Biology of Depressive Disorders: Subtypes of depression and comorbid disorders, Part 2 (Google books). Springer. p. 49. ISBN 0-306-44296-5. Retrieved 24 July 2009. 
+^ Dahl RE (2009). "The regulation of sleep and arousal: Development and psychopathology". Development and Psychopathology. 8 (1): 3–27. doi:10.1017/S0954579400006945. 
+^ Jenni OG, Dahl RE (2008). "Sleep, cognition, and neuron, and emotion: A developmental review.". In Nelson CA, Luciana M. Handbook of developmental cognitive neuroscience (2nd ed.). Cambridge, Mass.: MIT Press. pp. 807–817. ISBN 0262141043. 
+^ a b Scher A (2005). "Infant sleep at 10 months of age as a window to cognitive development". Early Human Development. 81 (3): 289–92. doi:10.1016/j.earlhumdev.2004.07.005. PMID 15814211. 
+^ Spruyt K, Aitken RJ, So K, Charlton M, Adamson TM, Horne RS (2008). "Relationship between sleep/wake patterns, temperament and overall development in term infants over the first year of life". Early Human Development. 84 (5): 289–96. doi:10.1016/j.earlhumdev.2007.07.002. PMID 17707119. 
+^ a b Bernier A, Carlson SM, Bordeleau S, Carrier J (2010). "Relations between physiological and cognitive regulatory systems: infant sleep regulation and subsequent executive functioning". Child Development. 81 (6): 1739–52. doi:10.1111/j.1467-8624.2010.01507.x. PMID 21077861. 
+^ Hupbach A, Gomez RL, Bootzin RR, Nadel L (2009). "Nap-dependent learning in infants". Developmental Science. 12 (6): 1007–12. doi:10.1111/j.1467-7687.2009.00837.x. PMID 19840054. 
+^ a b c d e f g h i Hirshkowitz, Max; Whiton, Kaitlyn; et al. (14 January 2015). "National Sleep Foundation's sleep time duration recommendations: methodology and results summary". Sleep Health. Elsevier Inc. 1: 40–43. doi:10.1016/j.sleh.2014.12.010. Retrieved 4 February 2015. 
+^ "Backgrounder: Later School Start Times". National Sleep Foundation. n.d. Retrieved 2 October 2009. Teens are among those least likely to get enough sleep; while they need on average 9 1⁄4 hours of sleep per night... 
+^ "How Much Sleep Is Enough?". National Heart, Lung and Blood Institute. Retrieved 25 July 2015. 
+^ a b Raymond Cespuglio, Damien Colas, & Sabine Gautier-Sauvigné, "Energy Processes Underlying the Sleep Wake Cycle"; Chapter 1 in Parmeggiani & Velluti (2005).
+^ "Brain may flush out toxins during sleep". National Institutes of Health. Retrieved 25 October 2013. 
+^ Lulu Xie, Hongyi Kang1, Qiwu Xu, Michael J. Chen, Yonghong Liao, Meenakshisundaram Thiyagarajan, John O'Donne, Daniel J. Christensen, Charles Nicholson, Jeffrey J. Iliff, Takahiro Takano, Rashid Deane, Maiken Nedergaard (2013). "Sleep Drives Metabolite Clearance from the Adult Brain". Science. 342 (6156): 373–377. Bibcode:2013Sci...342..373X. doi:10.1126/science.1241224. PMC 3880190 . PMID 24136970. Retrieved 18 October 2013. CS1 maint: Uses authors parameter (link)
+^ Siegel JM (2005). "Clues to the functions of mammalian sleep". Nature. 437 (7063): 1264–1271. Bibcode:2005Natur.437.1264S. doi:10.1038/nature04285. PMID 16251951. 
+^ Reimund E (October 1994). "The free radical flux theory of sleep". Medical Hypotheses. 43 (4): 231–3. doi:10.1016/0306-9877(94)90071-X. PMID 7838006. 
+^ Gümüştekín K, Seven B, Karabulut N, Aktaş O, Gürsan N, Aslan S, Keleş M, Varoglu E, Dane S (2004). "Effects of sleep deprivation, nicotine, and selenium on wound healing in rats". International Journal of Neuroscience. 114 (11): 1433–42. doi:10.1080/00207450490509168. PMID 15636354. 
+^ Zager A, Andersen ML, Ruiz FS, Antunes IB, Tufik S (2007). "Effects of acute and chronic sleep loss on immune modulation of rats". American Journal of Physiology. Regulatory, Integrative and Comparative Physiology. 293 (1): R504–9. doi:10.1152/ajpregu.00105.2007. PMID 17409265. 
+^ Opp MR (January 2009). "Sleeping to fuel the immune system: mammalian sleep and resistance to parasites". BMC Evolutionary Biology. BioMed Central Ltd. 9: 1471–2148. doi:10.1186/1471-2148-9-8. PMC 2633283 . PMID 19134176. 
+^ Peres, Judy (14 March 2012) A good reason to get your zzz's Chicago Tribune Health, retrieved 26 March 2014
+^ Jenni OG, Molinari L, Caflisch JA, Largo RH (2007). "Sleep duration from ages 1 to 10 years: Variability and stability in comparison with growth". Pediatrics. 120 (4): e769–e776. doi:10.1542/peds.2006-3300. PMID 17908734. 
+^ Van Cauter E, Leproult R, Plat L (2000). "Age-related changes in slow-wave sleep and REM sleep and relationship with growth hormone and cortisol levels in healthy men". JAMA: The Journal of the American Medical Association. 284 (7): 861–868. doi:10.1001/jama.284.7.861. PMID 10938176. 
+^ Turner TH, Drummond SP, Salamat JS, Brown GG (2007). "Effects of 42 hr sleep deprivation on component processes of verbal working memory". Neuropsychology. 21 (6): 787–795. doi:10.1037/0894-4105.21.6.787. PMID 17983292. . (Sleep deprivation shown to affect working memory. Men and women suffering sleep deprivation over multiple nights performed 38% worse than controls.)
+^ Daltrozzo J, Claude L, Tillmann B, Bastuji H, Perrin F (2012). Zang Y, ed. "Working Memory Is Partially Preserved during Sleep". PLOS One. 7 (12): e50997. Bibcode:2012PLoSO...750997D. doi:10.1371/journal.pone.0050997. PMC 3517624 . PMID 23236418. 
+^ Cited in Born J, Rasch B, Gais S (2006). "Sleep to remember". The Neuroscientist. 12 (5): 410–24. doi:10.1177/1073858406292647. PMID 16957003. 
+^ Marshall et al., 2006, as cited in Walker MP (2009). "The role of sleep in cognition and emotion". Annals of the New York Academy of Sciences. 1156: 168–97. Bibcode:2009NYASA1156..168W. doi:10.1111/j.1749-6632.2009.04416.x. PMID 19338508. 
+^ Saper CB, Scammell TE, Lu J (2005). "Hypothalamic regulation of sleep and circadian rhythms". Nature. 437 (7063): 1257–63. Bibcode:2005Natur.437.1257S. doi:10.1038/nature04284. PMID 16251950. 
+^ Stickgold R (2005). "Sleep-dependent memory consolidation". Nature. 437 (7063): 1272–8. Bibcode:2005Natur.437.1272S. doi:10.1038/nature04286. PMID 16251952. 
+^ Guilio Tononi and Chiara Cirelli. "Perchance to Prune" Scientific American. August 2013. Pgs 34–39. Print.
+^ Guilio Tononi & Chiara Cirelli, "A Possible Role for Sleep in Synaptic Homeostasis"; Chapter 4 in Parmeggiani & Velluti (2005).
+^ Capellini I, McNamara P, Preston BT, Nunn CL, Barton RA (2009). Sporns O, ed. "Does sleep play a role in memory consolidation? A comparative test". PLOS One. 4 (2): 4609. Bibcode:2009PLoSO...4.4609C. doi:10.1371/journal.pone.0004609. PMC 2643482 . PMID 19240803. 
+^ Cirelli C, Gutierrez CM, Tononi G (2004). "Extensive and divergent effects of sleep and wakefulness on brain gene expression". Neuron. 41 (1): 35–43. doi:10.1016/S0896-6273(03)00814-6. PMID 14715133. 
+^ J. Alan Hobson, Edward F. Pace-Scott, & Robert Stickgold (2000), "Dreaming and the brain: Toward a cognitive neuroscience of conscious states", Behavioral and Brain Sciences 23.
+^ See Freud: The Interpretation of Dreams.
+^ Pinel, John P. J. (2011). Biopsychology, 8th Edition. Pearson Education, Inc. p. 359. ISBN 978-0-205-83256-9. 
+^ Saladin, Kenneth S. (2012). Anatomy and Physiology: The Unity of Form and Function, 6th Edition. McGraw-Hill. p. 537. ISBN 978-0-07-337825-1. 
+^ Hobson J. Alan; McCarley Robert W. (1977). "The Brain as a Dream-State Generator: An Activation-Synthesis Hypothesis of the Dream Process". American Journal of Psychiatry. 134 (12): 1335–1348. doi:10.1176/ajp.134.12.1335. PMID 21570. 
+^ Naiman, Rubin (2007). "How To Interpret Your Dreams". Allure. Vol. 17 no. 5. pp. n/a. 
+^ Brown, pp. 1146–1147.
+^ Buman, M.P.; King, A. C. (2010). "Exercise as a Treatment to Enhance Sleep". American Journal of Lifestyle Medicine. 4 (6): 500–514. doi:10.1177/1559827610375532. 
+^ López HH, Bracha AS, Bracha HS (2002). "Evidence based complementary intervention for insomnia" (PDF). Hawaii Medical Journal. 61 (9): 192, 213. PMID 12422383. 
+^ "What is Sleep Apnoea? (Sleep Apnea)". britishsnoring.co.uk. 
+^ http://sleepfoundation.org/sleep-disorders-problems/sleep-apnea>
+^ Max, D. T. The Secrets of Sleep National Geographic Magazine, May 2010.
+^ Dugdale, David, C. (22 May 2011). Sleepwalking. US National institutes of health.
+^ How Aging Changes Sleep Patterns by Allison Aubrey. Morning Edition, 3 August 2009.
+^ a b Lee-chiong, Teofilo (24 April 2008). Sleep Medicine: Essentials and Review. Oxford University Press, USA. p. 52. ISBN 0-19-530659-7. 
+^ Alcohol and Sleep. Alcoholism.about.com (10 January 2011). Retrieved on 1 December 2011.
+^ Fred W. Turek & Charles A. Czeisler (1999). "Role of Melatonin in the Regulation of Sleep", in Turek & Zee (eds.), Regulation of Sleep and Circadian Rhythms, pp. 181–195.
+^ Marijuana, Sleep and Dreams. psychologytoday.com. Retrieved on 10 February 2012.
+^ Abarca C, Albrecht U, Spanagel R (June 2002). "Cocaine sensitization and reward are under the influence of circadian genes and rhythm". Proceedings of the National Academy of Sciences of the United States of America. 99 (13): 9026–30. Bibcode:2002PNAS...99.9026A. doi:10.1073/pnas.142039099. PMC 124417 . PMID 12084940. 
+^ Primary hypersomnia: Diagnostic Features. mindsite.com
+^ a b c St-Onge, M. P; Mikic, A; Pietrolungo, C. E (2016). "Effects of Diet on Sleep Quality". Advances in Nutrition. 7 (5): 938–949. doi:10.3945/an.116.012336. PMC 5015038 . PMID 27633109. 
+^ Peuhkuri Katri; Sihvola Nora; Korpela Riitta (2012). "Diet Promotes Sleep Duration and Quality". Nutrition Research. 32 (5): 309–19. doi:10.1016/j.nutres.2012.03.009. PMID 22652369. 
+^ a b c d e f g h i j k Carol M. Worthman; Melissa K. Melby. "6. Toward a comparative developmental ecology of human sleep" (PDF). A comparative developmental ecology (PDF)|format= requires |url= (help). Emory University. 
+^ Slumber's Unexplored Landscape. Science News Online (25 September 1999). Retrieved on 1 December 2011.
+^ Ekirch, A. Roger (2001). "Sleep we have lost: Pre-industrial slumber in the British Isles". The American Historical Review. 106 (2): 343–385. doi:10.2307/2651611. JSTOR 2651611. PMID 18680884. 
+^ a b Hegarty, Stephanie (22 February 2012). "The myth of the eight-hour sleep". BBC News. Retrieved 22 February 2012. 
+^ Huntington, Ellsworth (1915) Civilization and Climate. Yale University Press. p. 126
+^ Dilara Hafiz; Imran Hafiz; Yasmine Hafiz (2009). The American Muslim Teenager's Handbook. ISBN 978-1416986997. 
+^ Frank, Priscilla (24 June 2016). "Why Have Artists Always Found Sleep Such A Fascinating Subject?". HuffPost. Retrieved 14 July 2017. 
+
+
+Sources
+
+Brown Ritchie E.; Basheer Radhika; McKenna James T.; Strecker Robert E.; McCarley Robert W. (2012). "Control of Sleep and Wakefulness". Physiological Reviews. 92 (3): 1087–1187. doi:10.1152/physrev.00032.2011. PMC 3621793 . PMID 22811426. 
+Parmeggiani, Pier Luigi, & Ricardo A. Velluti, eds. (2005). The Physiologic Nature of Sleep. London: Imperial College Press. ISBN 1-86094-557-0.
+Parmeggiani, Pier Luigi (2011). Systemic Homeostasis and Poikilostasis in Sleep: Is REM Sleep a Physiological Paradox? London: Imperial College Press. ISBN 978-1-94916-572-2
+Turek, Fred W. & Phyllis C. Zee, eds. (1999). Regulation of Sleep and Circadian Rhythms. New York: Marcel Dekker, Inc. ISBN 0-8247-0231-X
+
+External links
+
+
+
+Wikimedia Commons has media related to Sleep.
+
+
+
+
+
+Look up sleep in Wiktionary, the free dictionary.
+
+
+
+Rethinking Sleep, David K. Randall, New York Times, September 2012
+How to Sleep, James Hamblin, The Atlantic, January 2017
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Neuroscience
+
+
+
+
+Outline of neuroscience
+
+
+
+Basic
+science
+
+
+
+Behavioral epigenetics
+Behavioral genetics
+Cellular neuroscience
+Computational neuroscience
+Connectomics
+Imaging genetics
+Integrative neuroscience
+Molecular neuroscience
+Neural engineering
+Neuroanatomy
+Neurochemistry
+Neuroendocrinology
+Neurogenetics
+Neuroinformatics
+Neurometrics
+Neuromorphology
+Neurophysics
+Neurophysiology
+
+
+
+
+
+
+
+
+Clinical
+neuroscience
+
+
+
+Behavioral neurology
+Clinical neurophysiology
+Neurocardiology
+Neuroepidemiology
+Neurogastroenterology
+Neuroimmunology
+Neurointensive care
+Neurology
+Neurooncology
+Neuro-ophthalmology
+Neuropathology
+Neuropharmacology
+Neuroprosthetics
+Neuropsychiatry
+Neuroradiology
+Neurorehabilitation
+Neurosurgery
+Neurotology
+Neurovirology
+Nutritional neuroscience
+Psychiatry
+
+
+
+
+
+Cognitive
+neuroscience
+
+
+
+Affective neuroscience
+Behavioral neuroscience
+Chronobiology
+Molecular cellular cognition
+Motor control
+Neurolinguistics
+Neuropsychology
+Sensory neuroscience
+Social neuroscience
+Systems neuroscience
+
+
+
+
+
+Interdisciplinary
+fields
+
+
+
+Consumer neuroscience
+Cultural neuroscience
+Educational neuroscience
+Evolutionary neuroscience
+Neuroanthropology
+Neurobioengineering
+Neurobiotics
+Neurocriminology
+Neuroeconomics
+Neuroepistemology
+Neuroesthetics
+Neuroethics
+Neuroethology
+Neurohistory
+Neurolaw
+Neuromarketing
+Neurophenomenology
+Neurophilosophy
+Neuropolitics
+Neurorobotics
+Neurosociology
+Neurotheology
+Paleoneurology
+
+
+
+
+
+Concepts
+
+
+
+Brain–computer interface
+Neural development
+Neural network (artificial)
+Neural network (biological)
+Detection theory
+Intraoperative neurophysiological monitoring
+Neurochip
+Neurodegeneration
+Neurodevelopmental disorder
+Neurodiversity
+Neurogenesis
+Neuroimaging
+Neuroimmune system
+Neuromanagement
+Neuromodulation
+Neuroplasticity
+Neurotechnology
+Neurotoxin
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Commons
+ Portal
+ Wikiproject
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychophysiology
+
+
+
+
+
+
+Appetite
+Arousal
+Biofeedback
+Blushing
+Consciousness
+Cerebral dominance
+Habituation
+Lie detection
+Orientation
+Reaction time
+Reflex
+Satiation
+Self stimulation
+Sensation
+Sleep
+Psychological stress
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Psychophysiology: Sleep and sleep disorders (F51 and G47 / 307.4 and 327)
+
+
+
+Sleep stages
+
+
+
+Rapid eye movement (REM)
+
+Non-rapid eye movement
+
+
+Slow-wave
+
+
+
+
+
+Brain waves
+
+
+
+Alpha wave
+Beta wave
+Delta wave
+Gamma wave
+K-complex
+Mu rhythm
+Sensorimotor rhythm
+Sleep spindle
+Theta wave
+
+
+
+
+
+Sleep
+disorders
+
+
+
+
+Dyssomnia
+
+
+
+Hypersomnia
+Insomnia
+Kleine–Levin syndrome
+Narcolepsy
+Sleep apnea
+
+Central hypoventilation syndrome
+Obesity hypoventilation syndrome
+
+
+Sleep state misperception
+
+
+
+
+
+
+Circadian rhythm
+disorder
+
+
+
+
+Advanced sleep phase disorder
+Delayed sleep phase disorder
+Irregular sleep–wake rhythm
+Jet lag
+Non-24-hour sleep–wake disorder
+Shift work sleep disorder
+
+
+
+
+
+Parasomnia
+
+
+
+Catathrenia
+Night terror
+Rapid eye movement sleep behavior disorder
+Sleepwalking
+Somniloquy
+
+
+
+
+
+Other
+
+
+
+Bruxism
+Night eating syndrome
+Nocturia
+Nocturnal myoclonus
+
+
+
+
+
+
+
+
+Benign
+phenomena
+
+
+
+Dream
+Exploding head syndrome
+False awakening
+Hypnagogia / Sleep onset
+Hypnic jerk
+Lucid dream
+Nightmare
+Nocturnal clitoral tumescence
+Nocturnal emission
+Nocturnal penile tumescence
+Sleep paralysis
+Somnolence
+
+
+
+
+
+Related
+topics
+
+
+
+Bed
+
+Bunk bed
+Daybed
+Four-poster bed
+Futon
+Hammock
+Mattress
+Sleeping bag
+
+
+Bed bug
+Bedding
+Bedroom
+Bedtime
+Bedtime story
+Bedtime toy
+Biphasic and polyphasic sleep
+Chronotype
+Dream journal
+Excessive daytime sleepiness
+Hypnopompic state
+Lullaby
+Microsleep
+Nap
+Nightwear
+Polysomnography
+Power nap
+Second wind
+Siesta
+Sleep and creativity
+Sleep and learning
+Sleep debt
+Sleep deprivation
+Sleep diary
+Sleep hygiene
+Sleep induction
+Sleep inertia
+Sleep medicine
+"Sleeping sickness"1
+Sleeping while on duty
+Sleepover
+Snoring
+Somnology
+
+
+
+
+
+
+
+
+1 Not a sleep disorder.
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Activities of daily living
+
+
+
+
+Used to refer to daily self-care activities
+
+
+
+Basic
+
+
+
+Personal hygiene
+Dressing
+Feeding oneself
+Voluntary urinary and bowel control
+Ambulation
+Sleeping
+
+
+
+
+
+Instrumental
+
+
+
+Housework
+Meal preparation
+Managing money
+Shopping
+Telephone use
+Technology use
+Cleaning
+
+
+
+
+
+Optional-Instrumental
+
+
+
+Care (of self, children, the elderly)
+Child rearing
+Emergency responses
+Safety procedures
+Driving
+Sexual activity
+
+
+
+
+
+Related articles
+
+
+
+Disability
+Personal care assistant
+Assisted living
+Care of residents
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+LCCN: sh85123396
+GND: 4052580-6
+BNF: cb11933879p (data)
+NDL: 00571565
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Sleep&oldid=812399905"					
+Categories: SleepPsychological statesUnsolved problems in neuroscienceHidden categories: CS1 maint: Uses authors parameterPages using citations with format and no URLWikipedia indefinitely semi-protected pagesUse dmy dates from May 2015All articles with unsourced statementsArticles with unsourced statements from June 2013All articles lacking reliable referencesArticles lacking reliable references from November 2017Wikipedia articles needing clarification from August 2017Articles to be expanded from July 2017All articles to be expandedArticles using small message boxesWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 

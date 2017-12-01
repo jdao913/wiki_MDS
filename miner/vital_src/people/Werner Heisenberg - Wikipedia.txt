@@ -1,0 +1,949 @@
+Werner Heisenberg - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Werner Heisenberg
+
+
+
+Heisenberg in 1933, as professor at Leipzig University
+
+
+
+Born
+Werner Karl Heisenberg
+(1901-12-05)5 December 1901
+Würzburg, Kingdom of Bavaria, German Empire
+
+
+Died
+1 February 1976(1976-02-01) (aged 74)
+Munich, Bavaria, West Germany
+
+
+Resting place
+Munich Waldfriedhof
+
+
+Nationality
+German
+
+
+Alma mater
+University of Munich
+
+
+Known for
+
+
+ 
+
+Uncertainty principle Heisenberg cut
+Heisenberg's entryway to matrix mechanics
+Heisenberg ferromagnet
+Heisenberg group
+Heisenberg limit
+Heisenberg's microscope
+Heisenberg model (classical)
+Heisenberg model (quantum)
+Heisenberg picture
+Isospin
+Matrix mechanics
+Euler-Heisenberg Lagrangian
+Kramers-Heisenberg formula
+Bootstrap model
+C*-algebra
+Exchange interaction
+Mott problem
+Quantum fluctuation
+Resonance (chemistry)
+S-matrix
+S-matrix theory
+Isospin
+Proton–neutron model of the nucleus
+
+
+
+
+
+Spouse(s)
+Elisabeth Schumacher (1937–1976)
+
+
+Children
+Maria
+Wolfgang
+Barbara
+Christine
+Jochen
+Martin
+Verena
+
+
+Awards
+
+
+
+Matteucci Medal (1929)
+Barnard Medal for Meritorious Service to Science (1930)
+Nobel Prize in Physics (1932)
+Max Planck Medal (1933)
+ForMemRS (1955)[1]
+
+
+
+
+
+Scientific career
+
+
+Fields
+Theoretical physics
+
+
+Institutions
+University of Göttingen
+University of Copenhagen
+University of Leipzig
+University of Berlin
+University of Munich
+
+
+Thesis
+On stability and turbulence of liquid flows (1923)
+
+
+Doctoral advisor
+Arnold Sommerfeld
+
+
+Other academic advisors
+Niels Bohr
+Max Born
+
+
+Doctoral students
+Felix Bloch
+Edward Teller
+Rudolf E. Peierls
+Reinhard Oehme
+Friedwardt Winterberg
+Peter Mittelstaedt
+Șerban Țițeica
+Ivan Supek
+Erich Bagge
+Hermann Arthur Jahn
+Heimo Dolch
+Hans Heinrich Euler
+Edwin Gora
+Bernhard Kockel
+Arnold Siegert
+Wang Foh-san
+Karl Ott
+Bary F. Malik
+
+
+Other notable students
+William Vermillion Houston
+Guido Beck
+Ugo Fano
+Ettore Majorana
+Herbert Wagner
+
+
+Influenced
+Robert Döpel
+Carl Friedrich von Weizsäcker
+
+
+
+
+
+Signature
+
+
+
+
+
+Notes
+
+
+
+He was the father of the neurobiologist Martin Heisenberg and the son of August Heisenberg
+
+
+
+Werner Karl Heisenberg (/ˈhaɪzənˌbɜːrɡ/;[2] German: [ˈhaɪzənbɛɐ̯k]; 5 December 1901 – 1 February 1976) was a German theoretical physicist and one of the key pioneers of quantum mechanics. He published his work in 1925 in a breakthrough paper. In the subsequent series of papers with Max Born and Pascual Jordan, during the same year, this matrix formulation of quantum mechanics was substantially elaborated. He is known for the Heisenberg uncertainty principle, which he published in 1927. Heisenberg was awarded the Nobel Prize in Physics for 1932 "for the creation of quantum mechanics".[3]
+He also made important contributions to the theories of the hydrodynamics of turbulent flows, the atomic nucleus, ferromagnetism, cosmic rays, and subatomic particles, and he was instrumental in planning the first West German nuclear reactor at Karlsruhe, together with a research reactor in Munich, in 1957. He was a principal scientist in the Nazi German nuclear weapon project during World War II. He travelled to occupied Copenhagen where he met and discussed the German project with Niels Bohr.
+Following World War II, he was appointed director of the Kaiser Wilhelm Institute for Physics, which soon thereafter was renamed the Max Planck Institute for Physics. He was director of the institute until it was moved to Munich in 1958, when it was expanded and renamed the Max Planck Institute for Physics and Astrophysics.
+Heisenberg was also president of the German Research Council, chairman of the Commission for Atomic Physics, chairman of the Nuclear Physics Working Group, and president of the Alexander von Humboldt Foundation.[1]
+
+
+
+Contents
+
+
+1 Life and career
+
+1.1 Early years
+1.2 Career
+
+1.2.1 Göttingen, Copenhagen, and Leipzig
+1.2.2 Matrix mechanics and the Nobel Prize
+1.2.3 The Deutsche Physik movement
+1.2.4 World War II
+1.2.5 Uranium Club
+1.2.6 1945: Alsos Mission and Operation Epsilon
+1.2.7 After 1945
+
+
+1.3 Personal life
+
+
+2 Honors and awards
+3 Research Reports in Nuclear Physics
+4 Publications
+
+4.1 Books
+
+
+5 See also
+6 Notes
+7 References
+8 Further reading
+9 External links
+
+
+
+Life and career[edit]
+Early years[edit]
+Werner Karl Heisenberg was born in Würzburg, Germany, to Kaspar Ernst August Heisenberg (de),[4] a secondary school teacher of classical languages who became Germany's only ordentlicher Professor (ordinarius professor) of medieval and modern Greek studies in the university system, and his wife, Annie Wecklein.[5]
+
+
+
+
+Heisenberg, Habilitation 1924
+
+
+He studied physics and mathematics from 1920 to 1923 at the Ludwig-Maximilians-Universität München and the Georg-August-Universität Göttingen. At Munich, he studied under Arnold Sommerfeld and Wilhelm Wien. At Göttingen, he studied physics with Max Born and James Franck, and he studied mathematics with David Hilbert. He received his doctorate in 1923, at Munich under Sommerfeld. He completed his Habilitation in 1924, at Göttingen under Born.[6][7]
+Because Sommerfeld had a sincere interest in his students and knew of Heisenberg's interest in Niels Bohr's theories on atomic physics, Sommerfeld took Heisenberg to Göttingen to the Bohr-Festspiele (Bohr Festival) in June 1922. At the event, Bohr was a guest lecturer and gave a series of comprehensive lectures on quantum atomic physics. There, Heisenberg met Bohr for the first time, and it had a significant and continuing effect on him.[8][9][10]
+Heisenberg's doctoral thesis, the topic of which was suggested by Sommerfeld, was on turbulence;[11] the thesis discussed both the stability of laminar flow and the nature of turbulent flow. The problem of stability was investigated by the use of the Orr–Sommerfeld equation, a fourth order linear differential equation for small disturbances from laminar flow. He briefly returned to this topic after World War II.[12]
+Heisenberg's paper on the anomalous Zeeman effect[13] was accepted as his Habilitationsschrift (Habilitation thesis) under Max Born at Göttingen.[14]
+In his youth he was a member and Scoutleader of the Neupfadfinder, a German Scout association and part of the German Youth Movement.[15][16][17] In August 1923 Robert Honsell and Heisenberg organized a trip (Großfahrt) to Finland with a Scout group of this association from Munich.[18] Heisenberg arrived at Munich in 1919 as a member of Freikorps to fight the Bavarian Soviet Republic established a year earlier. Five decades later he recalled those days as youthful fun, like "playing cops and robbers and so on; it was nothing serious at all."[19]
+Career[edit]
+Göttingen, Copenhagen, and Leipzig[edit]
+From 1924 to 1927, Heisenberg was a Privatdozent at Göttingen. From 17 September 1924 to 1 May 1925, under an International Education Board Rockefeller Foundation fellowship, Heisenberg went to do research with Niels Bohr, director of the Institute of Theoretical Physics at the University of Copenhagen. His seminal paper, Über quantentheoretischer Umdeutung was published in September 1925.[20] He returned to Göttingen and with Max Born and Pascual Jordan, over a period of about six months, developed the matrix mechanics formulation of quantum mechanics. On 1 May 1926, Heisenberg began his appointment as a university lecturer and assistant to Bohr in Copenhagen. It was in Copenhagen, in 1927, that Heisenberg developed his uncertainty principle, while working on the mathematical foundations of quantum mechanics. On 23 February, Heisenberg wrote a letter to fellow physicist Wolfgang Pauli, in which he first described his new principle.[21] In his paper[22] on the uncertainty principle, Heisenberg used the word "Ungenauigkeit" (imprecision).[6][23][24]
+In 1927, Heisenberg was appointed ordentlicher Professor (ordinarius professor) of theoretical physics and head of the department of physics at the Universität Leipzig; he gave his inaugural lecture on 1 February 1928. In his first paper published from Leipzig,[25] Heisenberg used the Pauli exclusion principle to solve the mystery of ferromagnetism.[6][7][23][26]
+In Heisenberg's tenure at Leipzig, the quality of doctoral students, post-graduate and research associates who studied and worked with Heisenberg there is attested to by the acclaim later earned by these people; at various times. They included Erich Bagge, Felix Bloch, Ugo Fano, Siegfried Flügge, William Vermillion Houston, Friedrich Hund, Robert S. Mulliken, Rudolf Peierls, George Placzek, Isidor Isaac Rabi, Fritz Sauter, John C. Slater, Edward Teller, John Hasbrouck van Vleck, Victor Frederick Weisskopf, Carl Friedrich von Weizsäcker, Gregor Wentzel and Clarence Zener.[27]
+In early 1929, Heisenberg and Pauli submitted the first of two papers[28] laying the foundation for relativistic quantum field theory. Also in 1929, Heisenberg went on a lecture tour in China, Japan, India, and the United States.[23][27] In the spring of 1929, he was a visiting lecturer at the University of Chicago, where he lectured on quantum mechanics.[29]
+Shortly after the discovery of the neutron by James Chadwick in 1932, Heisenberg submitted the first of three papers[30] on his neutron-proton model of the nucleus. He was awarded the 1932 Nobel Prize in Physics.[23][31]
+In 1928, the British mathematical physicist P. A. M. Dirac had derived the relativistic wave equation of quantum mechanics, which implied the existence of positive electrons, later to be named positrons. In 1932, from a cloud chamber photograph of cosmic rays, the American physicist Carl David Anderson identified a track as having been made by a positron. In mid-1933, Heisenberg presented his theory of the positron. His thinking on Dirac's theory and further development of the theory were set forth in two papers. The first, Bemerkungen zur Diracschen Theorie des Positrons (Remarks on Dirac's theory of the positron) was published in 1934,[32] and the second, Folgerungen aus der Diracschen Theorie des Positrons (Consequences of Dirac's Theory of the Positron), was published in 1936.[23][33][34] In these papers Heisenberg was the first to reinterpret the Dirac equation as a "classical" field equation for any point particle of spin ħ/2, itself subject to quantization conditions involving anti-commutators. Thus reinterpreting it as a (quantum) field equation accurately describing electrons, Heisenberg put matter on the same footing as electromagnetism: as being described by relativistic quantum field equations which allowed the possibility of particle creation and destruction. (Hermann Weyl had already described this in a 1929 letter to Einstein.)
+In the early 1930s in Germany, the Deutsche Physik movement was anti-Semitic and anti-theoretical physics, especially including quantum mechanics and the theory of relativity. As applied in the university environment, political factors took priority over the historically applied concept of scholarly ability,[35] even though its two most prominent supporters were the Nobel Laureates in Physics Philipp Lenard[36] and Johannes Stark.[37][38]
+After Adolf Hitler came to power in 1933, Heisenberg was attacked in the press as a "White Jew"[39] by elements of the Deutsche Physik (German Physics) movement for his insistence on teaching about the roles of Jewish scientists. As a result, he came under investigation by the SS. This was over an attempt to appoint Heisenberg as successor to Arnold Sommerfeld at the University of Munich. The issue was resolved in 1938 by Heinrich Himmler, head of the SS. While Heisenberg was not chosen as Sommerfeld's successor, he was rehabilitated to the physics community during the Third Reich. Nevertheless, supporters of Deutsche Physik launched vicious attacks against leading theoretical physicists, including Arnold Sommerfeld and Heisenberg. On 29 June 1936, a Nazi Party newspaper published a column attacking Heisenberg. On 15 July 1937, he was attacked in a journal of the SS. This was the beginning of what is called the Heisenberg Affair.[23]
+In mid-1936, Heisenberg presented his theory of cosmic-ray showers in two papers.[40] Four more papers[41][42][43][44] appeared in the next two years.[23][45]
+In June 1939, Heisenberg bought a summer home for his family in Urfeld am Walchensee, in southern Germany. He also travelled to the United States in June and July, visiting Samuel Abraham Goudsmit, at the University of Michigan in Ann Arbor. However, Heisenberg refused an invitation to emigrate to the United States. He did not see Goudsmit again until six years later, when Goudsmit was the chief scientific advisor to the American Operation Alsos at the close of World War II. Ironically, Heisenberg was arrested under Operation Alsos and detained in England under Operation Epsilon.[23][46][47]
+Matrix mechanics and the Nobel Prize[edit]
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2017) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+Niels Bohr, Werner Heisenberg, and Wolfgang Pauli, ca. 1935
+
+
+Heisenberg’s paper establishing quantum mechanics[48] has puzzled physicists and historians. His methods assume that the reader is familiar with Kramers-Heisenberg transition probability calculations. The main new idea, noncommuting matrices, is justified only by a rejection of unobservable quantities. It introduces the non-commutative multiplication of matrices by physical reasoning, based on the correspondence principle, despite the fact that Heisenberg was not then familiar with the mathematical theory of matrices. The path leading to these results has been reconstructed in MacKinnon, 1977,[49] and the detailed calculations are worked out in Aitchison et al.[50]
+In Copenhagen, Heisenberg and Hans Kramers collaborated on a paper on dispersion, or the scattering from atoms of radiation whose wavelength is larger than the atoms. They showed that the successful formula Kramers had developed earlier could not be based on Bohr orbits, because the transition frequencies are based on level spacings which are not constant. The frequencies which occur in the Fourier transform of sharp classical orbits, by contrast, are equally spaced. But these results could be explained by a semi-classical Virtual State model: the incoming radiation excites the valence, or outer, electron to a virtual state from which it decays. In a subsequent paper Heisenberg showed that this virtual oscillator model could also explain the polarization of fluorescent radiation.
+These two successes, and the continuing failure of the Bohr-Sommerfeld model to explain the outstanding problem of the anomalous Zeeman effect, led Heisenberg to use the virtual oscillator model to try to calculate spectral frequencies. The method proved too difficult to immediately apply to realistic problems, so Heisenberg turned to a simpler example, the anharmonic oscillator.
+The dipole oscillator consists of a simple harmonic oscillator, which is thought of as a charged particle on a spring, perturbed by an external force, like an external charge. The motion of the oscillating charge can be expressed as a Fourier series in the frequency of the oscillator. Heisenberg solved for the quantum behavior by two different methods. First, he treated the system with the virtual oscillator method, calculating the transitions between the levels that would be produced by the external source.
+He then solved the same problem by treating the anharmonic potential term as a perturbation to the harmonic oscillator and using the perturbation methods that he and Born had developed. Both methods led to the same results for the first and the very complicated second order correction terms. This suggested that behind the very complicated calculations lay a consistent scheme.
+So Heisenberg set out to formulate these results without any explicit dependence on the virtual oscillator model. To do this, he replaced the Fourier expansions for the spatial coordinates by matrices, matrices which corresponded to the transition coefficients in the virtual oscillator method. He justified this replacement by an appeal to Bohr’s correspondence principle and the Pauli doctrine that quantum mechanics must be limited to observables.
+On 9 July, Heisenberg gave Born this paper to review and submit for publication. When Born read the paper, he recognized the formulation as one which could be transcribed and extended to the systematic language of matrices,[51] which he had learned from his study under Jakob Rosanes[52] at Breslau University. Born, with the help of his assistant and former student Pascual Jordan, began immediately to make the transcription and extension, and they submitted their results for publication; the paper was received for publication just 60 days after Heisenberg's paper.[53] A follow-on paper was submitted for publication before the end of the year by all three authors.[54]
+Up until this time, matrices were seldom used by physicists; they were considered to belong to the realm of pure mathematics. Gustav Mie had used them in a paper on electrodynamics in 1912 and Born had used them in his work on the lattice theory of crystals in 1921. While matrices were used in these cases, the algebra of matrices with their multiplication did not enter the picture as they did in the matrix formulation of quantum mechanics.[55]
+In 1928, Albert Einstein nominated Heisenberg, Born, and Jordan for the Nobel Prize in Physics,[56] but it was not to be. The announcement of the Nobel Prize in Physics for 1932 was delayed until November 1933.[57] It was at that time that it was announced Heisenberg had won the Prize for 1932 "for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen".[58][59]
+The Deutsche Physik movement[edit]
+On 1 April 1935, the eminent theoretical physicist Arnold Sommerfeld, Heisenberg's doctoral advisor at the University of Munich, achieved emeritus status. However, Sommerfeld stayed in his chair during the selection process for his successor, which took until 1 December 1939. The process was lengthy due to academic and political differences between the Munich Faculty's selection and that of the Reichserziehungsministerium (REM, Reich Education Ministry) and the supporters of Deutsche Physik, which was anti-Semitic and had a bias against theoretical physics, especially quantum mechanics and the theory of relativity.
+In 1935, the Munich Faculty drew up a list of candidates to replace Sommerfeld as ordinarius professor of theoretical physics and head of the Institute for Theoretical Physics at the University of Munich. There were three names on the list: Werner Heisenberg, who received the Nobel Prize in Physics for 1932, Peter Debye, who received the Nobel Prize in Chemistry in 1936, and Richard Becker – all former students of Sommerfeld. The Munich Faculty was firmly behind these candidates, with Heisenberg as their first choice. However, supporters of Deutsche Physik and elements in the REM had their own list of candidates, and the battle dragged on for over four years. During this time, Heisenberg came under vicious attack by the Deutsche Physik supporters. One attack was published in Das Schwarze Korps, the newspaper of the Schutzstaffel (SS), headed by Heinrich Himmler. In this, Heisenberg was called a "White Jew" (i.e. an Aryan who acts like a Jew) who should be made to "disappear".[60] These attacks were taken seriously, as Jews were violently attacked and incarcerated. Heisenberg fought back with an editorial and a letter to Himmler, in an attempt to resolve this matter and regain his honour.
+At one point, Heisenberg's mother visited Himmler's mother. The two women knew each other, as Heisenberg's maternal grandfather and Himmler's father were rectors and members of a Bavarian hiking club. Eventually, Himmler settled the Heisenberg affair by sending two letters, one to SS Gruppenführer Reinhard Heydrich and one to Heisenberg, both on 21 July 1938. In the letter to Heydrich, Himmler said Germany could not afford to lose or silence Heisenberg, as he would be useful for teaching a generation of scientists. To Heisenberg, Himmler said the letter came on recommendation of his family and he cautioned Heisenberg to make a distinction between professional physics research results and the personal and political attitudes of the involved scientists. The letter to Heisenberg was signed under the closing "Mit freundlichem Gruß und, Heil Hitler!" (With friendly greetings, Heil Hitler!")[61] Overall, the Heisenberg affair was a victory for academic standards and professionalism. However, the appointment of Wilhelm Müller to replace Sommerfeld was a political victory over academic standards. Müller was not a theoretical physicist, had not published in a physics journal, and was not a member of the Deutsche Physikalische Gesellschaft; his appointment was considered a travesty and detrimental to educating theoretical physicists.[61][62][63][64][65]
+During the SS investigation of Heisenberg, the three investigators had training in physics. Heisenberg had participated in the doctoral examination of one of them at the Universität Leipzig. The most influential of the three was Johannes Juilfs. During their investigation, they had become supporters of Heisenberg as well as his position against the ideological policies of the Deutsche Physik movement in theoretical physics and academia.[66]
+World War II[edit]
+In 1939, shortly after the discovery of nuclear fission, the German nuclear weapon project, also known as the Uranverein (Uranium Club), had begun. Heisenberg was one of the principal scientists leading research and development in the project.
+From 15 to 22 September 1941, Heisenberg travelled to German-occupied Copenhagen to lecture and discuss nuclear research and theoretical physics with Niels Bohr.
+On 26 February 1942, Heisenberg presented a lecture to Reich officials on energy acquisition from nuclear fission, after the army withdrew most of its funding.[67] The Uranium Club was transferred to the Reich Research Council (RFR) in July 1942. On 4 June 1942, Heisenberg was summoned to report to Albert Speer, Germany's Minister of Armaments, on the prospects for converting the Uranium Club's research toward developing nuclear weapons. During the meeting, Heisenberg told Speer that a bomb could not be built before 1945, and would require significant monetary and manpower resources.[68][69] Five days later, on 9 June 1942, Adolf Hitler issued a decree for the reorganization of the RFR as a separate legal entity under the Reich Ministry for Armament and Ammunition; the decree appointed Reich Marshall Hermann Göring as the president.[70]
+In September 1942, Heisenberg submitted his first paper of a three-part series on the scattering matrix, or S-matrix, in elementary particle physics. The first two papers were published in 1943[71][72] and the third in 1944.[73] The S-matrix described only the states of incident particles in a collision process, the states of those emerging from the collision, and stable bound states; there would be no reference to the intervening states. This was the same precedent as he followed in 1925 in what turned out to be the foundation of the matrix formulation of quantum mechanics through only the use of observables.[23][45]
+In February 1943, Heisenberg was appointed to the Chair for Theoretical Physics at the Friedrich-Wilhelms-Universität (today, the Humboldt-Universität zu Berlin). In April, his election to the Preußische Akademie der Wissenschaften (Prussian Academy of Sciences) was approved. That same month, he moved his family to their retreat in Urfeld as Allied bombing increased in Berlin. In the summer, he dispatched the first of his staff at the Kaiser-Wilhelm Institut für Physik to Hechingen and its neighboring town of Haigerloch, on the edge of the Black Forest, for the same reasons. From 18–26 October, he travelled to German-occupied Netherlands. In December 1943, Heisenberg visited German-occupied Poland.[23][74]
+From 24 January to 4 February 1944, Heisenberg travelled to occupied Copenhagen, after the German army confiscated Bohr's Institute of Theoretical Physics. He made a short return trip in April. In December, Heisenberg lectured in neutral Switzerland.[23] The United States Office of Strategic Services sent former major league baseball catcher and OSS agent Moe Berg to attend the lecture carrying a pistol, with orders to shoot Heisenberg if his lecture indicated that Germany was close to completing an atomic bomb. Heisenberg did not give such an indication, so Berg decided not to shoot him, a decision Berg later described as his own "uncertainty principle".[75]
+In January 1945, Heisenberg, with most of the rest of his staff, moved from the Kaiser-Wilhelm Institut für Physik to the facilities in the Black Forest.[23]
+Uranium Club[edit]
+In December 1938, the German chemists Otto Hahn and Fritz Strassmann sent a manuscript to Naturwissenschaften reporting they had detected the element barium after bombarding uranium with neutrons and Otto Hahn concluded a bursting of the uranium nucleus;[76] simultaneously, Hahn communicated these results to his friend Lise Meitner, who had in July of that year fled to the Netherlands and then went to Sweden.[77]
+Meitner, and her nephew Otto Robert Frisch, correctly interpreted Hahn's and Strassmann's results as being nuclear fission.[78] Frisch confirmed this experimentally on 13 January 1939.[79][80] Frisch along with Rudolf Peierls, by then both in Britain, subsequently wrote the Frisch–Peierls memorandum and joined the British Tube Alloys project.
+Paul Harteck was director of the physical chemistry department at the University of Hamburg and an advisor to the Heereswaffenamt (HWA, Army Ordnance Office). On 24 April 1939, along with his teaching assistant Wilhelm Groth, Harteck made contact with the Reichskriegsministerium (RKM, Reich Ministry of War) to alert them to the potential of military applications of nuclear chain reactions. Two days earlier, on 22 April 1939, after hearing a colloquium paper by Wilhelm Hanle on the use of uranium fission in a Uranmaschine (uranium machine, i.e., nuclear reactor), Georg Joos, along with Hanle, notified Wilhelm Dames, at the Reichserziehungsministerium (REM, Reich Ministry of Education), of potential military applications of nuclear energy. The communication was given to Abraham Esau, head of the physics section of the Reichsforschungsrat (RFR, Reich Research Council) at the REM. On 29 April, a group, organized by Esau, met at the REM to discuss the potential of a sustained nuclear chain reaction.
+The group included the physicists Walther Bothe, Robert Döpel, Hans Geiger, Wolfgang Gentner (probably sent by Walther Bothe), Wilhelm Hanle, Gerhard Hoffmann and Georg Joos; Peter Debye was invited, but he did not attend. After this, informal work began at the Georg-August University of Göttingen by Joos, Hanle and their colleague Reinhold Mannfopff; the group of physicists was known informally as the first Uranverein (Uranium Club) and formally as Arbeitsgemeinschaft für Kernphysik. The group's work was discontinued in August 1939, when the three were called to military training.[81][82][83][84]
+The second Uranverein began after the Heereswaffenamt (HWA, Army Ordnance Office) squeezed the Reichsforschungsrat (RFR, Reich Research Council) out of the Reichserziehungsministerium (REM, Reich Ministry of Education) and started the formal German nuclear energy project under military auspices. The second Uranverein was formed on 1 September 1939, the day World War II began, and it had its first meeting on 16 September 1939. The meeting was organized by Kurt Diebner, advisor to the HWA, and held in Berlin. The invitees included Walther Bothe, Siegfried Flügge, Hans Geiger, Otto Hahn, Paul Harteck, Gerhard Hoffmann, Josef Mattauch and Georg Stetter. A second meeting was held soon thereafter and included Klaus Clusius, Robert Döpel, Werner Heisenberg and Carl Friedrich von Weizsäcker. Also at this time, the Kaiser-Wilhelm Institut für Physik (KWIP, Kaiser Wilhelm Institute for Physics, after World War II the Max Planck Institute for Physics), in Berlin-Dahlem, was placed under HWA authority, with Diebner as the administrative director, and the military control of the nuclear research commenced.[83][84][85]
+When it was apparent that the nuclear energy project would not make a decisive contribution to ending the war effort in the near term, control of the KWIP was returned in January 1942 to its umbrella organization, the Kaiser-Wilhelm Gesellschaft (KWG, Kaiser Wilhelm Society, after World War II the Max-Planck Gesellschaft), and HWA control of the project was relinquished to the RFR in July 1942. The nuclear energy project thereafter maintained its kriegswichtig (important for the war) designation and funding continued from the military. However, the German nuclear power project was then broken down into the following main areas: uranium and heavy water production, uranium isotope separation and the Uranmaschine (uranium machine, i.e., nuclear reactor). Also, the project was then essentially split up between a number of institutes, where the directors dominated the research and set their own research agendas.[83][86][87] The dominant personnel and facilities were the following:[88][89][90]
+
+Institut für Physik (Walther Bothe) of the Kaiser-Wilhelm Institut für medizinische Forschung (KWImF, Kaiser Wilhelm Institute for Medical Research),
+Institute for Physical Chemistry (Klaus Clusius) at the Ludwig Maximilian University of Munich,
+HWA Versuchsstelle (testing station) in Gottow (Kurt Diebner),
+Kaiser-Wilhelm-Institut für Chemie (Otto Hahn),
+Physical Chemistry Department (Paul Harteck) of the University of Hamburg,
+Kaiser-Wilhelm-Institut für Physik (Werner Heisenberg),
+Second Experimental Physics Institute (Hans Kopfermann) at the Georg-August University of Göttingen,
+Auergesellschaft (Nikolaus Riehl), and
+II. Physikalisches Institut (Georg Stetter) at the University of Vienna.
+
+Heisenberg was appointed director-in-residence of the KWIP on 1 July 1942, as Peter Debye was still officially the director and on leave in the United States; Debye had gone on leave as he was a citizen of The Netherlands and had refused to become a German citizen when the HWA took administrative control of the KWIP. Heisenberg still also had his department of physics at the University of Leipzig where work was done for the Uranverein by Robert Döpel and his wife Klara Döpel. During the period Kurt Diebner administered the KWIP under the HWA program, considerable personal and professional animosity developed between Diebner and the Heisenberg inner circle – Heisenberg, Karl Wirtz, and Carl Friedrich von Weizsäcker.[23][91]
+The point in 1942, when the army relinquished its control of the German nuclear energy project, was the zenith of the project relative to the number of personnel devoting time to the effort. There were only about 70 scientists working on the project, with about 40 devoting more than half their time to nuclear fission research. After this, the number of scientists working on applied nuclear fission diminished dramatically. Many of the scientists not working with the main institutes stopped working on nuclear fission and devoted their efforts to more pressing war related work.[92]
+Over time, the HWA and then the RFR controlled the German nuclear energy project. The most influential people in the project were Kurt Diebner, Abraham Esau, Walther Gerlach and Erich Schumann. Schumann was one of the most powerful and influential physicists in Germany. Schumann was director of the Physics Department II at the Frederick William University (later, University of Berlin), which was commissioned and funded by the Oberkommando des Heeres (OKH, Army High Command) to conduct physics research projects. He was also head of the research department of the HWA, assistant secretary of the Science Department of the OKH and Bevollmächtiger (plenipotentiary) for high explosives. Diebner, throughout the life of the nuclear energy project, had more control over nuclear fission research than did Walther Bothe, Klaus Clusius, Otto Hahn, Paul Harteck or Werner Heisenberg.[93][94]
+1945: Alsos Mission and Operation Epsilon[edit]
+
+
+
+
+Farm Hall, Godmanchester
+
+
+Alsos Mission was an Allied effort commanded by the Russian-American Colonel Boris T. Pash. He reported directly to General Leslie Groves, commander of the Manhattan Engineer District, which was developing atomic weapons for the United States. The chief scientific advisor to Alsos Mission was the physicist Samuel Goudsmit. Goudsmit was selected for this task because he had physics knowledge, he spoke German, and he personally knew a number of the German scientists working on the German nuclear energy project. He also knew little of the Manhattan Project, so, if he were captured, he would have little intelligence value to the Germans.
+The objectives of the Alsos Mission were to determine if the Germans had an atomic bomb program and to exploit German atomic related facilities, intellectual materials, materiel resources, and scientific personnel for the benefit of the US. Personnel on this operation generally swept into areas which had just come under control of the Allied military forces, but sometimes they operated in areas still under control by German forces.[95][96][97]
+Berlin had been a location of many German scientific research facilities. To limit casualties and loss of equipment, many of these facilities were dispersed to other locations in the latter years of the war. The Kaiser-Wilhelm-Institut für Physik (KWIP, Kaiser Wilhelm Institute for Physics) had mostly been moved in 1943 and 1944 to Hechingen and its neighboring town of Haigerloch, on the edge of the Black Forest, which eventually became the French occupation zone. This move, some scheming, and a fast-moving American task force allowed them to take into custody a large number of German scientists associated with nuclear research. The only section of the institute which remained in Berlin was the low-temperature physics section, headed by Ludwig Bewilogua (1906–83), who was in charge of the exponential uranium pile.[98][99]
+Nine of the prominent German scientists who published reports in Kernphysikalische Forschungsberichte as members of the Uranverein[100] were picked up by Operation Alsos and incarcerated in England under Operation Epsilon: Erich Bagge, Kurt Diebner, Walther Gerlach, Otto Hahn, Paul Harteck, Werner Heisenberg, Horst Korsching, Carl Friedrich von Weizsäcker and Karl Wirtz. Also incarcerated was Max von Laue, although he had nothing to do with the nuclear energy project. Goudsmit, the chief scientific advisor to Operation Alsos, thought von Laue might be beneficial to the postwar rebuilding of Germany and would benefit from the high level contacts he would have in England.[101]
+Heisenberg had been captured and arrested by Colonel Pash at Heisenberg's retreat in Urfeld, on 3 May 1945, in an alpine operation in territory still under control by German forces. He was taken to Heidelberg, where, on 5 May, he met Goudsmit for the first time since the Ann Arbor visit in 1939. Germany surrendered just two days later. Heisenberg did not see his family again for eight months. Heisenberg was moved across France and Belgium and flown to England on 3 July 1945.[102][103][104]
+The 10 German scientists were held at Farm Hall in England. The facility had been a safe house of the British foreign intelligence MI6. During their detention, their conversations were recorded. Conversations thought to be of intelligence value were transcribed and translated into English. The transcripts were released in 1992. Bernstein has published an annotated version of the transcripts in his book Hitler's Uranium Club: The Secret Recordings at Farm Hall, along with an introduction to put them in perspective. A complete, unedited publication of the British version of the reports appeared as Operation Epsilon: The Farm Hall Transcripts, which was published in 1993 by the Institute of Physics in Bristol and by the University of California Press in the US.[105][106][107]
+The Farm Hall transcripts reveal that Heisenberg, along with other physicists interned at Farm Hall including Otto Hahn and Carl Friedrich von Weizsäcker, were glad the Allies had won World War II, but regretted failing to create an atomic bomb. Upon hearing that the Allies had succeeded in creating atomic bombs and had dropped them in Japan, the German scientists speculated how the bomb was made and discussed their own failure. Heisenberg mentioned some misconceptions regarding the construction of an atomic bomb, such as the critical mass necessary to trigger a nuclear reaction. The morality of creating a bomb for the Nazis was also discussed. Only a few of the scientists expressed genuine horror at the prospect of nuclear weapons, and Heisenberg himself was cautious in discussing the matter. In his book Alsos, Samuel Goudsmit states that the German scientists were willing to work for the Nazis to develop an atomic weapon, and attributed their failure to scientific misconception. Paul Lawrence Rose argues in Heisenberg and the Nazi Atomic Bomb Project: a Study in German Culture that Heisenberg is intentionally misleading in his report of the atomic bomb project in order to protect his own reputation.[108][109]
+After 1945[edit]
+On 3 January 1946, the 10 Operation Epsilon detainees were transported to Alswede in Germany, which was in the British occupation zone. Heisenberg settled in Göttingen, also in the British zone. In July, he was named director of the Kaiser-Wilhelm-Institut für Physik (KWIP, Kaiser Wilhelm Institute for Physics), then located in Göttingen. Shortly thereafter, it was renamed the Max-Planck-Institut für Physik, in honor of Max Planck and to assuage political objections to the continuation of the institute. Heisenberg was its director until 1958. In 1958, the institute was moved to Munich, expanded, and renamed Max-Planck-Institut für Physik und Astrophysik (MPIFA). Heisenberg was its director from 1960 to 1970; in the interim, Heisenberg and the astrophysicist Ludwig Biermann were co-directors. Heisenberg resigned his directorship of the MPIFA on 31 December 1970. Upon the move to Munich, Heisenberg also became an ordentlicher Professor (ordinarius professor) at the University of Munich.[7][23]
+Just as the Americans did with Operation Alsos, the Soviets inserted special search teams into Germany and Austria in the wake of their troops. Their objective, under the Russian Alsos, was also the exploitation of German atomic related facilities, intellectual materials, materiel resources and scientific personnel for the benefit of the Soviet Union. One of the German scientists recruited under this Soviet operation was the nuclear physicist Heinz Pose, who was made head of Laboratory V in Obninsk. When he returned to Germany on a recruiting trip for his laboratory, Pose wrote a letter to Werner Heisenberg inviting him to work in the USSR. The letter lauded the working conditions in the USSR and the available resources, as well as the favorable attitude of the Soviets towards German scientists. A courier hand delivered the recruitment letter, dated 18 July 1946, to Heisenberg; Heisenberg politely declined in a return letter to Pose.[110][111]
+In 1947, Heisenberg presented lectures in Cambridge, Edinburgh and Bristol. Heisenberg also contributed to the understanding of the phenomenon of superconductivity with a paper in 1947[112] and two papers in 1948,[113][114] one of them with Max von Laue.[23][115]
+In the period shortly after World War II, Heisenberg briefly returned to the subject of his doctoral thesis, turbulence. Three papers were published in 1948[116][117][118] and one in 1950.[12][119]
+In the post-war period, Heisenberg continued his interests in cosmic-ray showers with considerations on multiple production of mesons. He published three papers[120][121][122] in 1949, two[123][124] in 1952, and one[125] in 1955.[126]
+On 9 March 1949, the Deutsche Forschungsrat (German Research Council) was established by the Max-Planck Gesellschaft (MPG, Max Planck Society, successor organization to the Kaiser-Wilhelm Gesellschaft). Heisenberg was appointed president of the Deutsche Forschungsrat. In 1951, the organization was fused with the Notgemeinschaft der Deutschen Wissenschaft (NG, Emergency Association of German Science) and that same year renamed the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation). With the merger, Heisenberg was appointed to the presidium.[23][127][128]
+In 1952, Heisenberg served as the chairman of the Commission for Atomic Physics of the DFG. Also that year, he headed the German delegation to the European Council for Nuclear Research (CERN).[6][23]
+In 1953, Heisenberg was appointed president of the Alexander von Humboldt-Stiftung by Konrad Adenauer. Heisenberg served until 1975. Also, from 1953, Heisenberg's theoretical work concentrated on the unified field theory of elementary particles.[6][7][23]
+In late 1955 to early 1956, Heisenberg gave the Gifford Lectures at St Andrews University, in Scotland, on the intellectual history of physics. The lectures were later published as Physics and Philosophy: The Revolution in Modern Science.[129]
+During 1956 and 1957, Heisenberg was the chairman of the Arbeitskreis Kernphysik (Nuclear Physics Working Group) of the Fachkommission II "Forschung und Nachwuchs" (Commission II "Research and Growth") of the Deutschen Atomkommission (DAtK, German Atomic Energy Commission). Other members of the Nuclear Physics Working Group in both 1956 and 1957 were: Walther Bothe, Hans Kopfermann (vice-chairman), Fritz Bopp, Wolfgang Gentner, Otto Haxel, Willibald Jentschke, Heinz Maier-Leibnitz, Josef Mattauch, Wolfgang Riezler, Wilhelm Walcher and Carl Friedrich von Weizsäcker. Wolfgang Paul was also a member of the group during 1957.[130]
+In 1957, Heisenberg was a signatory of the manifesto of the Göttinger Achtzehn (Göttingen Eighteen).[131]
+From 1957, Heisenberg was interested in plasma physics and the process of nuclear fusion. He also collaborated with the International Institute of Atomic Physics in Geneva. He was a member of the Institute's Scientific Policy Committee, and for several years was the Committee's chairman.[6]
+In 1973, Heisenberg gave a lecture at Harvard University on the historical development of the concepts of quantum theory.[132]
+On 24 March 1973, Heisenberg gave a speech before the Catholic Academy of Bavaria, accepting the Romano Guardini Prize. An English translation of its title is "Scientific and Religious Truth." And its stated goal was "In what follows, then, we shall first of all deal with the unassailability and value of scientific truth, and then with the much wider field of religion, of which – so far as the Christian religion is concerned – Guardini himself has so persuasively written; finally – and this will be the hardest part to formulate – we shall speak of the relationship of the two truths."[133] A more detailed insight into Heisenberg's view on religion has been discussed by Wilfried Schröder in "Natural science and religion" (Bremen 1999, Science edition) and Wilfried Schröder "Naturerkenntnis und Religion" (Bremen, science edition 2008).
+Personal life[edit]
+In January 1937 Heisenberg met Elisabeth Schumacher (1914–1998) at a private music recital. Elisabeth was the daughter of a well-known Berlin economics professor, and her brother was the economist E. F. Schumacher, author of Small Is Beautiful. Heisenberg married her on 29 April. Fraternal twins Maria and Wolfgang were born in January 1938, whereupon Wolfgang Pauli congratulated Heisenberg on his "pair creation" – a word play on a process from elementary particle physics, pair production. They had five more children over the next 12 years: Barbara, Christine, Jochen, Martin and Verena. Jochen became a physics professor at the University of New Hampshire.[134][135]
+Heisenberg enjoyed classical music and was an accomplished pianist.[6]
+Heisenberg was raised and lived as a Lutheran Christian, publishing and giving several talks reconciling science with his faith.[136]
+In his speech Scientific and Religious Truth (1974) while accepting the Romano Guardini Prize, Heisenberg affirmed:
+
+"In the history of science, ever since the famous trial of Galileo, it has repeatedly been claimed that scientific truth cannot be reconciled with the religious interpretation of the world. Although I am now convinced that scientific truth is unassailable in its own field, I have never found it possible to dismiss the content of religious thinking as simply part of an outmoded phase in the consciousness of mankind, a part we shall have to give up from now on. Thus in the course of my life I have repeatedly been compelled to ponder on the relationship of these two regions of thought, for I have never been able to doubt the reality of that to which they point." (Heisenberg 1974, 213)[137]
+
+
+"Where no guiding ideals are left to point the way, the scale of values disappears and with it the meaning of our deeds and sufferings, and at the end can lie only negation and despair. Religion is therefore the foundation of ethics, and ethics the presupposition of life." (Heisenberg 1974, 219).[138]
+
+In his autobiographical article in the journal Truth, Henry Margenau (Professor Emeritus of Physics and Natural Philosophy at Yale University) pointed out: "I have said nothing about the years between 1936 and 1950. There were, however, a few experiences I cannot forget. One was my first meeting with Heisenberg, who came to America soon after the end of the Second World War. Our conversation was intimate and he impressed me by his deep religious conviction. He was a true Christian in every sense of that word."[139]
+Heisenberg also enjoyed mountaineering. In his autobiography, he included photographs from this activity.
+Heisenberg died of cancer of the kidneys and gall bladder at his home, on 1 February 1976.[140] The next evening, his colleagues and friends walked in remembrance from the Institute of Physics to his home and each put a candle near the front door.[141] He is buried at Munich Waldfriedhof.
+Honors and awards[edit]
+Heisenberg was awarded a number of honors:[6]
+
+Honorary doctorates from the University of Bruxelles, the Technological University of Karlsruhe, and the University of Budapest.
+Order of Merit of Bavaria
+Romano Guardini Prize[133]
+Grand Cross for Federal Service with Star
+Knight of the Order of Merit (Civil Class)
+Elected a Foreign Member of the Royal Society (ForMemRS) in 1955[1]
+Member of the Academies of Sciences of Göttingen, Bavaria, Saxony, Prussia, Sweden, Romania, Norway, Spain, The Netherlands (1939),[142] Rome (Pontifical), the Deutsche Akademie der Naturforscher Leopoldina (Halle), the Accademia dei Lincei (Rome), and the American Academy of Sciences.
+1932–Nobel Prize in Physics "for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen".[58]
+1933–Max-Planck-Medaille of the Deutsche Physikalische Gesellschaft
+
+Research Reports in Nuclear Physics[edit]
+The following reports were published in Kernphysikalische Forschungsberichte (Research Reports in Nuclear Physics), an internal publication of the German Uranverein. The reports were classified Top Secret, they had very limited distribution, and the authors were not allowed to keep copies. The reports were confiscated under the Allied Operation Alsos and sent to the United States Atomic Energy Commission for evaluation. In 1971, the reports were declassified and returned to Germany. The reports are available at the Karlsruhe Nuclear Research Center and the American Institute of Physics.[143][144]
+
+Robert Döpel, K. Döpel, and Werner Heisenberg Bestimmung der Diffusionslänge thermischer Neutronen in Präparat 38[145] G-22 (5 December 1940)
+Robert Döpel, K. Döpel, and Werner Heisenberg Bestimmung der Diffusionslänge thermischer Neutronen in schwerem Wasser G-23 (7 August 1940)
+Werner Heisenberg Die Möglichkeit der technischer Energiegewinnung aus der Uranspaltung G-39 (6 December 1939)
+Werner Heisenberg Bericht über die Möglichkeit technischer Energiegewinnung aus der Uranspaltung (II) G-40 (29 February 1940)
+Robert Döpel, K. Döpel, and Werner Heisenberg Versuche mit Schichtenanordnungen von D2O und 38 G-75 (28 October 1941)
+Werner Heisenberg Über die Möglichkeit der Energieerzeugung mit Hilfe des Isotops 238 G-92 (1941)
+Werner Heisenberg Bericht über Versuche mit Schichtenanordnungen von Präparat 38 und Paraffin am Kaiser Wilhelm Institut für Physik in Berlin-Dahlem G-93 (May 1941)
+Fritz Bopp, Erich Fischer, Werner Heisenberg, Carl-Friedrich von Weizsäcker, and Karl Wirtz Untersuchungen mit neuen Schichtenanordnungen aus U-metall und Paraffin G-127 (March 1942)
+Robert Döpel Bericht über Unfälle beim Umgang mit Uranmetall G-135 (9 July 1942)
+Werner Heisenberg Bemerkungen zu dem geplanten halbtechnischen Versuch mit 1,5 to D2O und 3 to 38-Metall G-161 (31 July 1942)
+Werner Heisenberg, Fritz Bopp, Erich Fischer, Carl-Friedrich von Weizsäcker, and Karl Wirtz Messungen an Schichtenanordnungen aus 38-Metall und Paraffin G-162 (30 October 1942)
+Robert Döpel, K. Döpel, and Werner Heisenberg Der experimentelle Nachweis der effektiven Neutronenvermehrung in einem Kugel-Schichten-System aus D2O und Uran-Metall G-136 (July 1942)
+Werner Heisenberg Die Energiegewinnung aus der Atomkernspaltung G-217 (6 May 1943)
+Fritz Bopp, Walther Bothe, Erich Fischer, Erwin Fünfer, Werner Heisenberg, O. Ritter, and Karl Wirtz Bericht über einen Versuch mit 1.5 to D2O und U und 40 cm Kohlerückstreumantel (B7) G-300 (3 January 1945)
+Robert Döpel, K. Döpel, and Werner Heisenberg Die Neutronenvermehrung in einem D2O-38-Metallschichtensystem G-373 (March 1942)
+
+Publications[edit]
+
+Collected bibliographies
+
+
+Cassidy, David C. (2001). Werner Heisenberg : A Bibliography of His Writings (2nd ed.). Whittier. ISBN 1-57604-115-8. 
+Cassidy, David C. "Werner Heisenberg: A Bibliography of His Writings, 1922–1929, Expanded Edition". 
+Mott & Peierls 1977
+Ludovico, Anna (2001). Effetto Heisenberg. La rivoluzione scientifica che ha cambiato la storia. Roma: Armando. p. 224. ISBN 88-8358-182-2. 
+Blum, Barbara; Heisenberg, Helmut; Ludovico, Anna (2006). Per Heisenberg. Roma: Aracne. p. 96. ISBN 88-548-0636-6. 
+
+
+Selected articles
+
+
+
+Sommerfeld, A.; Heisenberg, W. (1922). "Eine Bemerkung über relativistische Röntgendubletts und Linienschärfe". Z. Phys. 10: 393–8. Bibcode:1922ZPhy...10..393S. doi:10.1007/BF01332582. 
+Sommerfeld, A.; Heisenberg, W. (1922). "Die Intensität der Mehrfachlinien und ihrer Zeeman-Komponenten". Z. Phys. 11: 131–154. Bibcode:1922ZPhy...11..131S. doi:10.1007/BF01328408. 
+Born, M.; Heisenberg, W. (1923). "Über Phasenbeziehungen bei den Bohrschen Modellen von Atomen und Molekeln". Z. Phys. 14: 44–55. Bibcode:1923ZPhy...14...44B. doi:10.1007/BF01340032. 
+Born, M.; Heisenberg, W. (1923). "Die Elektronenbahnen im angeregten Heliumatom". Z. Phys. 16 (9): 229–243. Bibcode:1924AnP...379....1B. doi:10.1002/andp.19243790902. 
+Born, M.; Heisenberg, W. (1924). "Zur Quantentheorie der Molekeln". Annalen der Physik. 74 (4): 1–31. Bibcode:1924AnP...379....1B. doi:10.1002/andp.19243790902. 
+— (1924). "Über Stabilität und Turbulenz von Flüssigkeitsströmmen (Diss.)". Annalen der Physik. 74 (4): 577–627. Bibcode:1924AnP...379..577H. doi:10.1002/andp.19243791502. 
+Born, M.; Heisenberg, W. (1924). "Über den Einfluss der Deformierbarekit der Ionen auf optische und chemische Konstanten. I". Z. Phys. 23: 388–410. Bibcode:1924ZPhy...23..388B. doi:10.1007/BF01327603. 
+— (1924). "Über eine Abänderung der formalin Regeln der Quantentheorie beim Problem der anomalen Zeeman-Effekte". Z. Phys. 26: 291–307. Bibcode:1924ZPhy...26..291H. doi:10.1007/BF01327336. 
+— (1925). "Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen". Zeitschrift für Physik. 33: 879–893. Bibcode:1925ZPhy...33..879H. doi:10.1007/BF01328377.  The paper was received on 29 July 1925. [English translation in: van der Waerden 1968, 12 "Quantum-Theoretical Re-interpretation of Kinematic and Mechanical Relations"] This is the first paper in the famous trilogy which launched the matrix mechanics formulation of quantum mechanics.
+Born, M.; Jordan, P. (1925). "Zur Quantenmechanik". Zeitschrift für Physik. 34: 858–888. Bibcode:1925ZPhy...34..858B. doi:10.1007/BF01328531.  The paper was received on 27 September 1925. [English translation in: van der Waerden 1968, "On Quantum Mechanics"] This is the second paper in the famous trilogy which launched the matrix mechanics formulation of quantum mechanics.
+Born, M.; Heisenberg, W.; Jordan, P. (1926). "Zur Quantenmechanik II". Zeitschrift für Physik. 35 (8–9): 557–615. Bibcode:1926ZPhy...35..557B. doi:10.1007/BF01379806.  The paper was received on 16 November 1925. [English translation in: van der Waerden 1968, 15 "On Quantum Mechanics II"] This is the third paper in the famous trilogy which launched the matrix mechanics formulation of quantum mechanics.
+— (1927). "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik". Z. Phys. 43 (3–4): 172–198. Bibcode:1927ZPhy...43..172H. doi:10.1007/BF01397280. 
+— (1928). "Zur Theorie des Ferromagnetismus". Z. Phys. 49 (9–10): 619–636. Bibcode:1928ZPhy...49..619H. doi:10.1007/BF01328601. 
+—; Pauli, W. (1929). "Zur Quantendynamik der Wellenfelder". Z. Phys. 56 (1): 1–61. Bibcode:1930ZPhy...56....1H. doi:10.1007/BF01340129. 
+—; Pauli, W. (1930). "Zur Quantentheorie der Wellenfelder. II". Z. Phys. 59 (3–4): 168–190. Bibcode:1930ZPhy...59..168H. doi:10.1007/BF01341423. 
+— (1932). "Über den Bau der Atomkerne. I". Z. Phys. 77: 1–11. Bibcode:1932ZPhy...77....1H. doi:10.1007/BF01342433. 
+— (1932). "Über den Bau der Atomkerne. II". Z. Phys. 78 (3–4): 156–164. Bibcode:1932ZPhy...78..156H. doi:10.1007/BF01337585. 
+— (1933). "Über den Bau der Atomkerne. III". Z. Phys. 80 (9–10): 587–596. Bibcode:1933ZPhy...80..587H. doi:10.1007/BF01335696. 
+— (1934). "Bemerkungen zur Diracschen Theorie des Positrons". Zeitschrift für Physik. 90 (3–4): 209–231. Bibcode:1934ZPhy...90..209H. doi:10.1007/BF01333516.  The author was cited as being at Leipzig. The paper was received on 21 June 1934.
+— (1936). "Über die 'Schauer' in der Kosmischen Strahlung". Forsch. Fortscher. 12: 341–2. 
+—; Euler, H. (1936). "Folgerungen aus der Diracschen Theorie des Positrons". Z. Phys. 98 (11–12): 714–732. Bibcode:1936ZPhy...98..714H. doi:10.1007/BF01343663.  The authors were cited as being at Leipzig. The paper was received on 22 December 1935. A translation of this paper has been done by W. Korolevski and H. Kleinert: arXiv:physics/0605038v1.
+— (1936). "Zur Theorie der 'Schauer' in der Höhenstrahlung". Z. Phys. 101 (9–10): 533–540. Bibcode:1936ZPhy..101..533H. doi:10.1007/BF01349603. 
+W. Heisenberg Der Durchgang sehr energiereicher Korpuskeln durch den Atomkern, Ber. Sächs, Akad. Wiss. Volume 89, 369; Die Naturwissenschaften Volume 25, 749–750 (1937)
+— (1937). "Theoretische Untersuchungen zur Ultrastrahlung". Verh. Stsch. Physical. Ges. 18: 50. 
+— (1938). "Die Absorption der durchdringenden Komponente der Höhenstrahlung". Annalen der Physik. 425 (7): 594–9. Bibcode:1938AnP...425..594H. doi:10.1002/andp.19384250705. 
+W. Heisenberg Der Durchgang sehr energiereicher Korpuskeln durch den Atomkern, Nuovo Cimento Volume 15, 31–34; Verh. Dtsch. physik. Ges. Volume 19, 2 (1938)
+— (1943). "Die beobachtbaren Grössen in der Theorie der Elementarteilchen. I". Z. Phys. 120 (7–10): 513–538. Bibcode:1943ZPhy..120..513H. doi:10.1007/BF01329800. 
+— (1943). "Die beobachtbaren Grössen in der Theorie der Elementarteilchen. II". Z. Phys. 120 (11–12): 673–702. Bibcode:1943ZPhy..120..673H. doi:10.1007/BF01336936. 
+— (1944). "Die beobachtbaren Grössen in der Theorie der Elementarteilchen. III". Z. Phys. 123: 93–112. Bibcode:1943ZPhy..123...93H. doi:10.1007/BF01375146. 
+W. Heisenberg Zur Theorie der Supraleitung, Forsch. Fortschr. Volumes 21/23, 243–244 (1947); Z. Naturforsch. Volume 2a, 185–201 (1947)
+— (1948). "Das elektrodynamische Verhalten der Supraleiter". Z. Naturforsch. 3a: 65–75. Bibcode:1948ZNatA...3...65H. doi:10.1515/zna-1948-0201. 
+von Laue, M.; Laue, W. (1948). "Das Barlowsche Rad aus supraleitendem Material". Z. Phys. 124 (7–12): 514–8. Bibcode:1948ZPhy..124..514H. doi:10.1007/BF01668888. 
+— (1948). "Zur statistischen Theorie der Tubulenz". Z. Phys. 124 (7–12): 628–657. Bibcode:1948ZPhy..124..628H. doi:10.1007/BF01668899. 
+— (1948). "On the theory of statistical and isotropic turbulence". Proceedings of the Royal Society A. 195 (1042): 402–6. Bibcode:1948RSPSA.195..402H. doi:10.1098/rspa.1948.0127. 
+— (1948). "Bemerkungen um Turbulenzproblem". Z. Naturforsch. 3a: 434–7. Bibcode:1948ZNatA...3..434H. doi:10.1515/zna-1948-8-1103. 
+— (1949). "Production of mesons showers". Nature. 164 (4158): 65–67. Bibcode:1949Natur.164...65H. doi:10.1038/164065c0. 
+— (1949). "Die Erzeugung von Mesonen in Vielfachprozessen". Nuovo Cimento. 6 (Suppl): 493–7. Bibcode:1949NCim....6S.493H. doi:10.1007/BF02822044. 
+— (1949). "Über die Entstehung von Mesonen in Vielfachprozessen". Z. Phys. 126 (6): 569–582. Bibcode:1949ZPhy..126..569H. doi:10.1007/BF01330108. 
+W. Heisenberg On the stability of laminar flow, Proc. International Congress Mathematicians Volume II, 292–296 (1950)
+— (1952). "Bermerkungen zur Theorie der Vielfacherzeugung von Mesonen". Die Naturwissenschaften. 39 (3): 69. Bibcode:1952NW.....39...69H. doi:10.1007/BF00596818. 
+— (1952). "Mesonenerzeugung als Stosswellenproblem". Z. Phys. 133: 65–79. Bibcode:1952ZPhy..133...65H. doi:10.1007/BF01948683. 
+— (1955). "The production of mesons in very high energy collisions". Nuovo Cimento. 12 (Suppl): 96–103. Bibcode:1955NCim....2S..96H. doi:10.1007/BF02746079. 
+— (1975). "Development of concepts in the history of quantum theory". American Journal of Physics. 43 (5): 389–394. Bibcode:1975AmJPh..43..389H. doi:10.1119/1.9833.  The substance of this article was presented by Heisenberg in a lecture at Harvard University.
+
+
+Books[edit]
+
+— (1949) [1930]. The Physical Principles of the Quantum Theory. Translators Eckart, Carl; Hoyt, F.C. Dover. ISBN 0486601137. 
+— (1955). Das Naturbild der heutigen Physik. Rowohlts Enzyklopädie. 8. Rowohlt. 
+— (1966). Philosophic Problems of Nuclear Science. Fawcett. 
+— (1971). Physics and Beyond: Encounters and Conversations. Harper & Row. 
+—; Busche, Jürgen (1979). Quantentheorie und Philosophie: Vorlesungen und Aufsätze. Reclam. ISBN 978-3-15-009948-3. 
+— (1979). Philosophical problems of quantum physics. Ox Bow. ISBN 978-0-918024-14-5. 
+— (1988). Physik und Philosophie: Weltperspektiven. Ullstein Taschenbuchvlg. 
+— (1989). Encounters with Einstein: And Other Essays on People, Places, and Particles. Princeton University Press. ISBN 978-0-691-02433-2. 
+—; Northrop, Filmer (1999). Physics and Philosophy: The Revolution in Modern Science (Great Minds Series). Prometheus. 
+— (2002). Der Teil und das Ganze: Gespräche im Umkreis der Atomphysik. Piper. ISBN 978-3-492-22297-6. 
+— (1992). Rechenberg, Helmut, ed. Deutsche und Jüdische Physik. Piper. ISBN 978-3-492-11676-3. 
+— (2007). Physik und Philosophie: Weltperspektiven. Hirzel. 
+— (2007). Physics and Philosophy: The Revolution in Modern Science. Harper Perennial Modern Classics (reprint ed.). HarperCollins. ISBN 978-0-06-120919-2.  (full text of 1958 version)
+
+See also[edit]
+
+
+Physics portal
+Biography portal
+
+
+
+List of things named after Werner Heisenberg
+List of German inventors and discoverers
+The Physical Principles of the Quantum Theory
+
+Notes[edit]
+
+
+^ a b c Mott, Nevill; Peierls, Rudolf (1977). "Werner Heisenberg 5 December 1901 – 1 February 1976". Biographical Memoirs of Fellows of the Royal Society. Royal Society. 23: 212. doi:10.1098/rsbm.1977.0009. 
+^ "Heisenberg". Random House Webster's Unabridged Dictionary.
+^ "The Nobel Prize in Physics 1932". Nobelprize.org. Retrieved 2012-12-07.  This source explains that Heisenberg actually received his Nobel Prize for 1932 one year later, in 1933.
+^ Cassidy 2009, p. 12
+^ Cassidy 1992, p. 3
+^ a b c d e f g h Werner Heisenberg Biography, Nobel Prize in Physics 1932 Nobelprize.org.
+^ a b c d Hentschel & Hentschel 1996, Appendix F; see the entry for Heisenberg.
+^ Cassidy 1992, pp. 127, Appendix A
+^ Powers 1993, p. 23
+^ van der Waerden 1968, p. 21
+^ W. Heisenberg (1924). "Über Stabilität und Turbulenz von Flüssigkeitsströmmen". Annalen der Physik. 379 (15): 577. Bibcode:1924AnP...379..577H. doi:10.1002/andp.19243791502.  as cited in Mott & Peierls 1977, p. 245
+^ a b Mott & Peierls 1977, p. 217
+^ Heisenberg, W. (1924). "Über eine Abänderung der formalen Regeln der Quantentheorie beim Problem der anomalen Zeeman-Effekte". Z. Phys. 26: 291–307. Bibcode:1924ZPhy...26..291H. doi:10.1007/BF01327336.  as cited in Mott & Peierls 1977, p. 243
+^ Mott & Peierls 1977, p. 219
+^ Maringer, Daniel. "Berühmte Physiker: Werner Heisenberg eine Biographie-Pfadfinderzeit" (in German). Retrieved 5 February 2009. 
+^ "Heisenberg Werner" (in German). Retrieved 5 February 2009. 
+^ "Ein Leben für die Jugendbewegung und Jugendseelsorger-100 Jahre Gottfried Simmerding" (PDF). Rundbrief der Regionen Donau und München (in German). Gemeinschaft Katholischer Männer und Frauen im Bund Neudeutschland-ND. 2/2005: 12. March 2005. Archived from the original (PDF) on 5 March 2009. 
+^ Helmut Raum (2008). "Die Pfadfinderbewegung im Freistaat Bayern Teil 53" (PDF). Der Bundschuh (in German). Pfadfinderförderkreis Nordbayern e.V. 2/2008: 23–24. 
+^ Arthur Miller. "137: Jung , Pauli and the pursuit of a scientific obsession." New York: Norton & Company, 2009. p.31
+^ H. Kragh, ‘Dirac, Paul Adrien Maurice (1902–1984)’, Oxford Dictionary of National Biography, Oxford University Press, 2004
+^ "February 1927: Heisenberg's Uncertainty Principle". APS News. American Physics Society. 17 (2). February 2008. 
+^ Heisenberg 1927, cited in Mott & Peierls 1977, p. 243
+^ a b c d e f g h i j k l m n o p q r Cassidy 1992, p. Appendix A
+^ Mott & Peierls 1977, p. 224
+^ Heisenberg 1928, as cited in Mott & Peierls 1977, p. 243
+^ Mott & Peierls 1977, pp. 226–227
+^ a b Mott & Peierls 1977, p. 227
+^ Heisenberg & Pauli 1929, Heisenberg & Pauli 1930, as cited in Mott & Peierls 1977, p. 243
+^ Kursunoglu, Behram N.; Wigner, Eugene P. (April 26, 1990). Paul Adrien Maurice Dirac: Reminiscences about a Great Physicist. Cambridge University Press. p. 132. ISBN 0521386888. 
+^ Heisenberg & 1932 I, Heisenberg & 1932 II, Heisenberg & 1933 III, as cited by Mott & Peierls 1977, p. 244
+^ Mott & Peierls 1977, p. 228
+^ Heisenberg 1934
+^ Heisenberg & Euler 1936
+^ Segrè, Emilio G. (1980). From X-rays to Quarks: Modern Physicists and Their Discoveries. W.H. Freeman. ISBN 071671146X. 
+^ Beyerchen, 1997, 141–167.
+^ Beyerchen 1977, pp. 79–102
+^ Beyerchen 1977, pp. 103–140
+^ Holton, Gerald (2007-01-12). "Werner Heisenberg and Albert Einstein". Physics Today. 53 (7): 38–42. Bibcode:2000PhT....53g..38H. doi:10.1063/1.1292474. ISSN 0031-9228. 
+^ "Heisenberg – The Difficult Years: Professor in Leipzig, 1927–1942". American Institute of Physics. 
+^ Heisenberg & 1936 Forsch. Fortscher., Heisenberg & 1936 Z. Phys., as cited by Mott & Peierls 1977, p. 244
+^ W. Heisenberg Der Durchgang sehr energiereicher Korpuskeln durch den Atomkern, Ber. Sächs, Akad. Wiss. Volume 89, 369; Die Naturwissenschaften Volume 25, 749–750 (1937), as cited by Mott & Peierls 1977, p. 244
+^ W. Heisenberg Theoretische Untersuchungen zur Ultrastrahlung, Verh. Stsch. physical. Ges. Volume 18, 50 (1937), as cited by Mott & Peierls 1977, p. 244
+^ Heisenberg, W. (1938). "Die Absorption der durchdringenden Komponente der Höhenstrahlung". Annalen der Physik. 425 (7): 594. Bibcode:1938AnP...425..594H. doi:10.1002/andp.19384250705. , as cited by Mott & Peierls 1977, p. 244
+^ W. Heisenberg Der Durchgang sehr energiereicher Korpuskeln durch den Atomkern, Nuovo Cimento Volume 15, 31–34; Verh. Dtsch. physik. Ges. Volume 19, 2 (1938), as cited by Mott & Peierls 1977, p. 244
+^ a b Mott & Peierls 1977, p. 231
+^ Hentschel & Hentschel 1996, pp. 387, 387n20
+^ Goudsmit, Alsos, 1986, picture facing p. 124.
+^ W. Heisenberg, Über quantentheoretishe Umdeutung kinematisher und mechanischer Beziehungen, Zeitschrift für Physik, 33, 879–893, 1925 (received 29 July 1925). [English translation in: B. L. van der Waerden, editor, Sources of Quantum Mechanics (Dover Publications, 1968) ISBN 0-486-61881-1 (English title: "Quantum-Theoretical Re-interpretation of Kinematic and Mechanical Relations").]
+^ MacKinnon, Edward (1977). "Heisenberg, Models, and the Rise of Quantum Mechanics". Historical Studies in the Physical Sciences. 8: 137–188. doi:10.2307/27757370. JSTOR 27757370. 
+^ Aitchison, Ian J. R.; MacManus, David A.; Snyder, Thomas M. (November 2004). "Understanding Heisenberg's 'magical' paper of July 1925: A new look at the calculational details, ". American Journal of Physics. 72 (11): 1370–9. arXiv:quant-ph/0404009v1 . Bibcode:2004AmJPh..72.1370A. doi:10.1119/1.1775243. 
+^ Pais, Abraham (1991). Niels Bohr's Times in Physics, Philosophy, and Polity. Clarendon Press. pp. 275–9. ISBN 0-19-852049-2. 
+^ Max Born The Statistical Interpretation of Quantum Mechanics, Nobel Lecture (1954)
+^ Born, M.; Jordan, P. (1925). "Zur Quantenmechanik". Zeitschrift für Physik. 34: 858–888. Bibcode:1925ZPhy...34..858B. doi:10.1007/BF01328531.  (received 27 September 1925). [English translation in: van der Waerden 1968, "On Quantum Mechanics"]
+^ Born, M.; Heisenberg, W.; Jordan, P. (1925). "Zur Quantenmechanik II". Zeitschrift für Physik. 35 (8–9): 557–615. Bibcode:1926ZPhy...35..557B. doi:10.1007/BF01379806.  The paper was received on 16 November 1925. [English translation in: van der Waerden 1968, 15 "On Quantum Mechanics II"]
+^ Jammer, 1966, pp. 206–207.
+^ Bernstein, 2004, p. 1004.
+^ Greenspan, 2005, p. 190.
+^ a b The Nobel Prize in Physics 1932. Nobelprize.org. Retrieved on 1 February 2012.
+^ Nobel Prize in Physics and 1933 – Nobel Prize Presentation Speech.
+^ Hentschel & Hentschel 1996, pp. 152–7 Document #55 ’White Jews’ in Science [15 July 1937&#x5D
+^ a b Goudsmit, Samuel A. ALSOS (Tomash Publishers, 1986) pp 117 -119.
+^ Beyerchen 1977, pp. 153–167
+^ Cassidy 1992, pp. 383–7
+^ Powers 1993, pp. 40–43
+^ Hentschel & Hentschel 1996, pp. 152–7 Document #55 ’White Jews’ in Science [15 July 1937]
+pp. 175–6 Document #63 Heinrich Himmler: Letter to Reinhard Heydrich [21 July 1938]
+pp. 176–7 Document #64 Heinrich Himmler: Letter to Werner Heisenberg [21 July 1938]
+pp. 261–6 Document #85 Ludwig Prandtl: Attachment to the letter to Reich Marschal (sic) Hermann Göring [28 April 1941]
+pp. 290–2 Document #93 Carl Ramsauer: The Munich Conciliation and Pacification Attempt [20 January 1942]
+^ Cassidy 1992, pp. 390–1 Please note that Cassidy uses the alias Mathias Jules for Johannes Juilfs.
+^ American Institute for Physics, Center for History of Physics.
+^ Albert Speer, Inside the Third Reich, Macmillan, 1970, pp. 225ff.
+^ Prof. Werner Carl Heisenberg (I662). Stanford.edu
+^ Hentschel & Hentschel 1996, pp. 303 Document 98: The Führer's Decree on the Reich Research Council, 9 June 1942
+^ Heisenberg, W. (1943). "Die beobachtbaren Grössen in der Theorie der Elementarteilchen. I". Z. Phys. 120 (7–10): 513–538. Bibcode:1943ZPhy..120..513H. doi:10.1007/BF01329800.  as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1943). "Die beobachtbaren Grössen in der Theorie der Elementarteilchen. II". Z. Phys. 120 (11–12): 673–702. Bibcode:1943ZPhy..120..673H. doi:10.1007/BF01336936.  as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1944). "Die beobachtbaren Grössen in der Theorie der Elementarteilchen. III". Z. Phys. 123: 93–112. Bibcode:1943ZPhy..123...93H. doi:10.1007/BF01375146.  as cited in Mott & Peierls 1977, p. 245
+^ Bernstein 2004, pp. 300–4
+^ William Tobey (January–February 2012), "Nuclear scientists as assassination targets", Bulletin of the Atomic Scientists, 68 (1): 63–64, doi:10.1177/0096340211433019 , citing Thomas Powers 1993 book "Heisenberg's War".
+^ O. Hahn and F. Strassmann Über den Nachweis und das Verhalten der bei der Bestrahlung des Urans mittels Neutronen entstehenden Erdalkalimetalle (On the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons), Naturwissenschaften Volume 27, Number 1, 11–15 (1939). The authors were identified as being at the Kaiser-Wilhelm-Institut für Chemie, Berlin-Dahlem. Received 22 December 1938.
+^ Ruth Lewin Sime (March 1990). "Lise Meitner's Escape from Germany". American Journal of Physics. 58 (3): 263–7. Bibcode:1990AmJPh..58..262S. doi:10.1119/1.16196. 
+^ Meitner, Lise; Frisch, O. R. (11 February 1939). "Disintegration of Uranium by Neutrons: a New Type of Nuclear Reaction". Nature. 143 (3615): 239–240. Bibcode:1939Natur.143..239M. doi:10.1038/143239a0.  The paper is dated 16 January 1939. Meitner is identified as being at the Physical Institute, Academy of Sciences, Stockholm. Frisch is identified as being at the Institute of Theoretical Physics, University of Copenhagen.
+^ Frisch, O. R. (18 February 1939). "Physical Evidence for the Division of Heavy Nuclei under Neutron Bombardment". Nature. 143 (3616): 276. Bibcode:1939Natur.143..276F. doi:10.1038/143276a0.  The paper Archived 23 January 2009 at the Wayback Machine. is dated 17 January 1939. [The experiment for this letter to the editor was conducted on 13 January 1939; see Richard Rhodes The Making of the Atomic Bomb 263 and 268 (Simon and Schuster, 1986).]
+^ In 1944, Hahn received the Nobel Prize for Chemistry for the discovery of nuclear fission. Some historians have documented the history of the discovery of nuclear fission and believe Meitner should have been awarded the Nobel Prize with Hahn. See the following references: Ruth Lewin Sime From Exceptional Prominence to Prominent Exception: Lise Meitner at the Kaiser Wilhelm Institute for Chemistry Ergebnisse 24 Forschungsprogramm Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus (2005); Ruth Lewin Sime Lise Meitner: A Life in Physics (University of California, 1997); and Crawford, Elisabeth; Lewin Sime, Ruth; Walker, Mark (September 1997). "A Nobel Tale of Postwar Injustice". Physics Today. 50 (9): 26–32. Bibcode:1997PhT....50i..26C. doi:10.1063/1.881933. 
+^ Kant, 2002, Reference 8 on p. 3.
+^ Hentschel & Hentschel 1996, pp. 363–4, Appendix F; see the entries for Esau, Harteck and Joos. See also the entry for the KWIP in Appendix A and the entry for the HWA in Appendix B.
+^ a b c Macrakis, 1993, 164–169.
+^ a b Mehra and Rechenberg, Volume 6, Part 2, 2001, 1010–1011.
+^ Hentschel & Hentschel 1996, pp. 363–4, Appendix F; see the entries for Diebner and Döpel. See also the entry for the KWIP in Appendix A and the entry for the HWA in Appendix B.
+^ Hentschel & Hentschel 1996; see the entry for the KWIP in Appendix A and the entries for the HWA and the RFR in Appendix B. Also see p. 372 and footnote #50 on p. 372.
+^ Walker 1993, pp. 49–53
+^ Walker 1993, pp. 52–53
+^ Kant, 2002, 19.
+^ Deutsches Museum – Tätigkeitsbericht des II. Physikalischen Instituts der Wiener Universität, 1945
+^ Walker 1993, pp. 19, 94–95
+^ Walker 1993, pp. 52, Reference #40 on p. 262
+^ Walker 1993, p. 208
+^ Hentschel & Hentschel 1996, Appendix F; see the entry for Schumann. Also see footnote #1 on p. 207.
+^ Goudsmit, Samuel with an introduction by R. V. Jones Alsos (Toamsh, 1986).
+^ Pash, Boris T. The Alsos Mission (Award, 1969).
+^ Cassidy 1992, pp. 491–500
+^ Naimark, 1995, 208–209.
+^ Bernstein 2001, pp. 49–52
+^ Walker 1993, pp. 268–274, Reference #40 on p. 262
+^ Bernstein 2001, pp. 50, 363–5
+^ Cassidy 1992, pp. 491–510
+^ Bernstein 2001, p. 60
+^ Pash, Boris T. The Alsos Mission (Award, 1969) pp. 219–241.
+^ Charles Franck Operation Epsilon: The Farm Hall Transcripts (University of California Press, 1993)
+^ Bernstein 2001
+^ Bernstein 2001, pp. xvii–xix
+^ "Transcript of Surreptitiously Taped Conversations among German Nuclear Physicists at Farm Hall (August 6-7, 1945)" (PDF). German History in Documents and Images. Retrieved 26 April 2017. 
+^ Sartori, Leo. "Reviews". American Physical Society. Retrieved 26 April 2017. 
+^ Walker 1993, pp. 184–5
+^ Oleynikov 2000, p. 14
+^ Heisenberg, W. (1947). "Zur Theorie der Supraleitung". Forsch. Fortschr. 21/23: 243–4. ; Z. Naturforsch. 2a: 185–201. 1947. Bibcode:1947ZNatA...2..185H. doi:10.1515/zna-1947-0401.  Missing or empty |title= (help) cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1948). "Das elektrodynamische Verhalten der Supraleiter". Z. Naturforsch. 3a: 65–75. Bibcode:1948ZNatA...3...65H. doi:10.1515/zna-1948-0201.  cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W.; Laue, M. V. (1948). "Das Barlowsche Rad aus supraleitendem Material". Z. Phys. 124 (7–12): 514–8. Bibcode:1948ZPhy..124..514H. doi:10.1007/BF01668888.  cited in Mott & Peierls 1977, p. 245
+^ Mott & Peierls 1977, pp. 238–239
+^ Heisenberg, W. (1948). "Zur statistischen Theorie der Tubulenz". Z. Phys. 124 (7–12): 628–657. Bibcode:1948ZPhy..124..628H. doi:10.1007/BF01668899.  as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1948). "On the theory of statistical and isotropic turbulence". Proceedings of the Royal Society A. 195 (1042): 402–6. Bibcode:1948RSPSA.195..402H. doi:10.1098/rspa.1948.0127.  as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1948). "Bemerkungen um Turbulenzproblem". Z. Naturforsch. 3a: 434–7. Bibcode:1948ZNatA...3..434H. doi:10.1515/zna-1948-8-1103.  as cited in Mott & Peierls 1977, p. 245
+^ W. Heisenberg On the stability of laminar flow, Proc. International Congress Mathematicians Volume II, 292–296 (1950), as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1949). "Production of mesons showers". Nature. 164 (4158): 65–67. Bibcode:1949Natur.164...65H. doi:10.1038/164065c0.  as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1949). "Die Erzeugung von Mesonen in Vielfachprozessen". Nuovo Cimento. 6 (Suppl): 493–7. Bibcode:1949NCim....6S.493H. doi:10.1007/BF02822044.  as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1949). "Über die Entstehung von Mesonen in Vielfachprozessen". Z. Phys. 126 (6): 569–582. Bibcode:1949ZPhy..126..569H. doi:10.1007/BF01330108.  as cited in Mott & Peierls 1977, p. 245
+^ Heisenberg, W. (1952). "Bermerkungen zur Theorie der Vielfacherzeugung von Mesonen". Die Naturwissenschaften. 39 (3): 69. Bibcode:1952NW.....39...69H. doi:10.1007/BF00596818.  as cited in Mott & Peierls 1977, p. 246
+^ Heisenberg, W. (1952). "Mesonenerzeugung als Stosswellenproblem". Z. Phys. 133: 65–79. Bibcode:1952ZPhy..133...65H. doi:10.1007/BF01948683.  as cited in Mott & Peierls 1977, p. 246
+^ Heisenberg, W. (1955). "The production of mesons in very high energy collisions". Nuovo Cimento. 12 (Suppl): 96–103. Bibcode:1955NCim....2S..96H. doi:10.1007/BF02746079.  as cited in Mott & Peierls 1977, p. 246
+^ Mott & Peierls 1977, p. 238
+^ Hentschel & Hentschel 1996, Appendix A; see the entries for DFG and NG.
+^ John L. Heilbron The Dilemmas of an Upright Man: Max Planck and the Fortunes of German Science (Harvard, 2000) pp. 90–92.
+^ Cassidy, Uncertainty, 1992, 262.
+^ Horst Kant Werner Heisenberg and the German Uranium Project / Otto Hahn and the Declarations of Mainau and Göttingen, Preprint 203 (Max-Planck Institut für Wissenschaftsgeschichte, 2002).
+^ Declaration of the German Nuclear Physicists ArmsControl.de Archived 18 March 2013 at the Wayback Machine..
+^ Heisenberg, Werner (1975). "Development of concepts in the history of quantum theory". American Journal of Physics. 43 (5): 389–394. Bibcode:1975AmJPh..43..389H. doi:10.1119/1.9833.  The substance of this article was presented by Heisenberg in a lecture at Harvard University.
+^ a b Chapter 16 "Scientific and Religious Truth" in Across the Frontiers, 1974, Harper & Row, p.213-229
+^ Cassidy, Uncertainty, 1992, 372 and Appendix A.
+^ David Cassidy and the American Institute of Physics, The Difficult Years.
+^ The religion of Werner Heisenberg, physicist. Adherents.com. Retrieved on 1 February 2012.
+^ - Heisenberg, Werner. 1970. "Erste Gespraeche ueber das Verhaeltnis von Naturwissenschaft und Religion". Werner Trutwin, ed. Religion-Wissenschaft-Weltbild. Duesseldorf: Patmos-Verlag, pp. 23-31. (Theologisches Forum. Texte für den Religionsunterricht 4.)
+^ Heisenberg, Werner. 1973. "Naturwissenschaftliche und religioese Wahrheit". Frankfurter Allgemeine Zeitung, 24 March, pp. 7–8. (Speech before the Catholic Academy of Bavaria, on acceptance of the Guardini Prize, 23 March 1974).
+^ (Margenau 1985, Vol. 1).Margenau, Henry. 1985. "Why I Am a Christian", in Truth (An International, Inter-disciplinary Journal of Christian Thought), Vol. 1. Truth Inc., in cooperation with the Institute for Research in Christianity and Contemporary Thought, the International Christian Graduate University, Dallas Baptist University and the International Institute for Mankind. USA.
+^ Cassidy, Uncertainty, 1992, 262, 545.
+^ Cassidy, Uncertainty, 1992, 545.
+^ "W.K. Heisenberg (1901 - 1976)". Royal Netherlands Academy of Arts and Sciences. Retrieved 24 January 2016. 
+^ Hentschel & Hentschel 1996, Appendix E; see the entry for Kernphysikalische Forschungsberichte.
+^ Walker 1993, pp. 268–274
+^ Präparat 38 was the cover name for uranium oxide; see Deutsches Museum.
+
+
+References[edit]
+
+
+Bernstein, Jeremy; Cassidy, David (August 1995). "Bomb Apologetics: Farm Hall, August 1945". Physics Today. 48 (8): 32–36. Bibcode:1995PhT....48h..32B. doi:10.1063/1.881469. 
+Bernstein, Jeremy (2001). Hitler's Uranium Club: The Secret Recording's at Farm Hall. Copernicus. ISBN 0-387-95089-3. 
+Bernstein, Jeremy (September 2002). "Heisenberg and the critical mass". Am. J. Phys. 70 (9): 911–6. Bibcode:2002AmJPh..70..911B. doi:10.1119/1.1495409. 
+Bernstein, Jeremy (March 2004). "Heisenberg in Poland". Am. J. Phys. 72 (3): 300–4. Bibcode:2004AmJPh..72..300B. doi:10.1119/1.1630333.  See also Letters to the Editor by Klaus Gottstein and a reply by Jeremy Bernstein in Gottstein, Klaus (September 2004). "Comment on "Heisenberg in Poland" by Jeremy Bernstein \Am. J. Phys. 72 (3), 300–304 (2004)". Am. J. Phys. 72 (9): 1143–5. arXiv:physics/0503167 . Bibcode:2004AmJPh..72.1143G. doi:10.1119/1.1778397. 
+Bernstein, Jeremy (November 2005). "Max Born and the Quantum Theory". Am. J. Phys. 73 (11): 999–1008. Bibcode:2005AmJPh..73..999B. doi:10.1119/1.2060717.  Department of Physics, Stevens Institute of Technology, Hoboken, New Jersey 07030. Received 14 April 2005; accepted 29 July 2005.
+Bethe, Hans A. (July 2000). "The German Uranium Project". Physics Today. 53 (7): 34–36. Bibcode:2000PhT....53g..34B. doi:10.1063/1.1292473. 
+Beyerchen, Alan D. (1977). Scientists Under Hitler: Politics and the Physics Community in the Third Reich. Yale. ISBN 0-300-01830-4. 
+Cassidy, David C. (1992). "Heisenberg, German Science, and the Third Reich". Social Research. 59 (3): 643–661. 
+Cassidy, David C. (1992). Uncertainty: The Life and Science of Werner Heisenberg. Freeman. 
+Cassidy, David C. (2009). Beyond Uncertainty: Heisenberg, Quantum Physics, and the Bomb. Bellevue Literary Press. ISBN 978-1-934137-28-4. 
+Cassidy, David C. (July 2000). "A Historical Perspective on Copenhagen". Physics Today. 53 (7): 28. Bibcode:2000PhT....53g..28C. doi:10.1063/1.1292472.  See also Gottstein, Klaus; Lipkin, Harry J.; Sachs, Donald C.; Cassidy, David C. (April 2001). "Heisenberg's Message to Bohr: Who Knows". Physics Today. 54 (4): 14 ff. Bibcode:2001PhT....54d..14G. doi:10.1063/1.1372099.  individual letters by Klaus Gottstein, Harry J. Lipkin, Donald C. Sachs, and David C. Cassidy.
+Chevalley, Catherine Werner Heisenberg: Philosophie le Manuscrit de 1942 (Éditions du Seuil, 1998)
+Eckert, Michael (1990). "Primacy doomed to failure: Heisenberg's role as scientific adviser for nuclear policy in the FRG". Historical Studies in the Physical and Biological Sciences. 21 (1): 29–58. doi:10.2307/27757654. JSTOR 27757654. 
+Eckert, Michael Werner Heisenberg: controversial scientist physicsweb.org (2001)
+Goudsmit, Samuel with an introduction by R. V. Jones Alsos (Toamsh, 1986)
+Fedak, William A.; Prentis, Jeffrey J. (2009). "The 1925 Born and Jordan paper "On quantum mechanics"". American Journal of Physics. 77 (2): 128–139. Bibcode:2009AmJPh..77..128F. doi:10.1119/1.3009634. 
+Greenspan, Nancy Thorndike (2005). The End of the Certain World: The Life and Science of Max Born. Basic Books. ISBN 0-7382-0693-8.  Also published in Germany: Max Born — Baumeister der Quantenwelt. Eine Biographie. Spektrum Akademischer Verlag. 2005. ISBN 382741640X. 
+Heisenberg, Werner Nobel Prize Presentation Speech, Nobelprize.org (1933)
+
+Werner Heisenberg Biography, Nobel Prize in Physics 1932 Nobelprize.org
+
+
+Heisenberg, Elisabeth Inner Exile: Recollections of a Life with Heisenberg (Birkhäuser, 1984)
+Heisenberg, Werner Physics and Beyond: Encounters and Conversations (Harper & Row, 1971)
+Heisenberg, Werner (1943). "Die theoretischen Grundlagen für die Energiegewinnung aus der Uranspaltung". Zeitschrift für die gesamte Naturwissenschaft. 9: 201–212.  See also the annotated English translation: Hentschel & Hentschel 1996, pp. 294–301 Document 95. Werner Heisenberg. The Theoretical Basis for the Generation of Energy from Uranium Fission [26 February 1942]
+Heisenberg, Werner (16 August 1947). "Research in Germany on the Technical Applications of Atomic Energy". Nature. 160 (4059): 211–5. Bibcode:1947Natur.160..211H. doi:10.1038/160211a0.  See also the annotated English translation: Hentschel & Hentschel 1996, pp. 361–379 Document 115. Werner Heisenberg: Research in Germany on the Technical Application of Atomic Energy [16 August 1947]
+Heisenberg, Werner; Cassidy, David; Sweet, William (August 1995). introduction by David Cassidy, translation by William Sweet. "A Lecture on Bomb Physics: February 1942". Physics Today. 48 (8): 27–30. Bibcode:1995PhT....48h..27H. doi:10.1063/1.881468. 
+Hentschel, Klaus; Hentschel, Ann M., eds. (1996). Physics and National Socialism: An Anthology of Primary Sources. Birkhäuser. ISBN 0-8176-5312-0.  [This book is a collection of 121 primary German documents relating to physics under National Socialism. The documents have been translated and annotated, and there is a lengthy introduction to put them into perspective.]
+Hentschel, Klaus The Metal Aftermath: The Mentality of German Physicists 1945–1949 (Oxford, 2007)
+Hoffmann, Dieter (2005). "Between Autonomy and Accommodation: The German Physical Society during the Third Reich". Physics in Perspective. 7 (3): 293–329. Bibcode:2005PhP.....7..293H. doi:10.1007/s00016-004-0235-x. 
+Jammer, Max The Conceptual Development of Quantum Mechanics (McGraw-Hill, 1966)
+Junk, Robert Brighter Than a Thousand Suns: A personal history of the atomic scientists (Harcourt, Brace, 1958)
+Kant, Horst Werner Heisenberg and the German Uranium Project / Otto Hahn and the Declarations of Mainau and Göttingen, Preprint 203 (Max-Planck Institut für Wissenschaftsgeschichte, 2002)
+Landsman, N. P. (June 2002). "Getting even with Heisenberg". Studies in History and Philosophy of Modern Physics. 33 (2): 297–325. Bibcode:2002SHPMP..33..297L. doi:10.1016/S1355-2198(02)00015-1.  as PDF
+MacKinnon, Edward (1977). "Heisenberg, Models, and the Rise of Quantum Mechanics". Historical Studies in the Physical Sciences. 8: 137–188. doi:10.2307/27757370. JSTOR 27757370. 
+Macrakis, Kristie Surviving the Swastika: Scientific Research in Nazi Germany (Oxford, 1993)
+Mehra, Jagdish; Rechenberg, Helmut (2001). Volume 1 Part 2 The Quantum Theory of Planck, Einstein, Bohr and Sommerfeld 1900–1925: Its Foundation and the Rise of Its Difficulties. The Historical Development of Quantum Theory. Springer. ISBN 0-387-95175-X. 
+Mehra, Jagdish; Rechenberg, Helmut (2001). Volume 3. The Formulation of Matrix Mechanics and Its Modifications 1925–1926. The Historical Development of Quantum Theory. Springer. ISBN 0-387-95177-6. 
+Mehra, Jagdish; Rechenberg, Helmut (2001). Volume 6. The Completion of Quantum Mechanics 1926–1941. Part 2. The Conceptual Completion and Extension of Quantum Mechanics 1932–1941. Epilogue: Aspects of the Further Development of Quantum Theory 1942–1999. The Historical Development of Quantum Theory. Springer. ISBN 978-0-387-95086-0. 
+Mott, N.; Peierls, R. (November 1977). "Werner Heisenberg". Biographical Memoirs of Fellows of the Royal Society. 23: 213–251. doi:10.1098/rsbm.1977.0009. 
+Norman M. Naimark The Russians in Germany: A History of the Soviet Zone of Occupation, 1945–1949 (Belkanp, 1995)
+Oleynikov, Pavel V. (2000). "German Scientists in the Soviet Atomic Project" (PDF). The Nonproliferation Review. 7 (2): 1–30. doi:10.1080/10736700008436807.  The author has been a group leader at the Institute of Technical Physics of the Russian Federal Nuclear Center in Snezhinsk (Chelyabinsk-70).
+Pash, Boris T. The Alsos Mission (Award, 1969)
+Powers, Thomas (1993). Heisenberg's War: The Secret History of the German Bomb. Knopf. 
+Rose, Paul Lawrence, Heisenberg and the Nazi Atomic Bomb Project: A Study in German Culture (California, 1998). For a critical review of this book, please see: Landsman 2002
+Schaaf, Michael: Heisenberg, Hitler und die Bombe. Gespräche mit Zeitzeugen. GNT-Verlag, Berlin 2001, ISBN 3-928186-60-4.
+Todorv, Ivan (2003). "Werner Heisenberg". arXiv:physics/0503235 . Bibcode:2005physics...3235T. 
+van der Waerden, B. L., ed. (1968). Sources of Quantum Mechanics. Dover. ISBN 0-486-61881-1. 
+Walker, Mark (January 1990). "Heisenberg, Goudsmit and the German Atomic Bomb". Physics Today. 43 (1): 52–60. Bibcode:1990PhT....43a..52W. doi:10.1063/1.881237. 
+Walker, Mark (1992). "Physics and propaganda: Werner Heisenberg's foreign lectures under National Socialism". Historical Studies in the Physical and Biological Sciences. 22 (2): 339–389. doi:10.2307/27757685. JSTOR 27757685. 
+Walker, Mark (1993). German National Socialism and the Quest for Nuclear Power 1939–1949. Cambridge. ISBN 0-521-43804-7. 
+Walker, Mark Eine Waffenschmiede? Kernwaffen- und Reaktorforschung am Kaiser-Wilhelm-Institut für Physik, Forschungsprogramm "Geschichte der Kaiser-Wilhelm-Gesellschaft im Nationalsozialismus" Ergebnisse 26 (2005)
+
+
+Further reading[edit]
+
+
+Born, Max The statistical interpretation of quantum mechanics. Nobel Lecture – 11 December 1954.
+Cassidy, David C. Werner Heisenberg : A Bibliography of His Writings, Second, Expanded Edition (Whittier, 2001)
+Cassidy, David C. (May 1992). "Heisenberg, Uncertainty and the Quantum Revolution" (PDF). Scientific American. 266 (5): 106–112. Bibcode:1992SciAm.266e.106C. doi:10.1038/scientificamerican0592-106. 
+Dörries, Matthias Michael Frayn's ‘Copenhagen’ in Debate: Historical Essays and Documents on the 1941 Meeting Between Niels Bohr and Werner Heisenberg (University of California, 2005)
+Fischer, Ernst P. Werner Heisenberg: Das selbstvergessene Genie (Piper, 2002)
+Heisenberg, Werner "A Scientist's case for the Classics" (Harper's Magazine, May 1958, p. 25–29)
+Heisenberg, Werner Across the Frontiers (Harper & Row, 1974)
+Kleint, Christian and Gerald Wiemer Werner Heisenberg im Spiegel seiner Leipziger Schüler und Kollegen (Leipziger Universitätsverlag, 2005)
+Medawar, Jean: Pyke, David (2012). Hitler's Gift: The True Story of the Scientists Expelled by the Nazi Regime (paperback). New York: Arcade Publishing. ISBN 978-1-61145-709-4. CS1 maint: Multiple names: authors list (link)
+Papenfuß, Dietrich, Dieter Lüst, and Wolfgang P. Schleich 100 Years Werner Heisenberg: Works and Impact (Wiley-VCH, 2002)
+Powers, Thomas, "The Private Heisenberg and the Absent Bomb" (review of Werner and Elisabeth Heisenberg, My Dear Li: Correspondence, 1937–1946, edited by Anna Maria Hirsch-Heisenberg and translated from the German by Irene Heisenberg, Yale University Press, 312 pp., $40.00), The New York Review of Books, vol. LXIII, no. 20 (December 22, 2016, pp. 65–67. "Heisenberg, Carl Friedrich von Weizsäcker, and... Karl Wirtz [during World War II led] an effort [to prevent] a complete shutdown [of work toward a German atom bomb], which would condemn young physicists to military service... or takeover by Nazi extremists who might think an atomic bomb could still give Hitler a complete victory." (p. 66.) Desiring on ethical grounds to prevent the introduction of nuclear weapons into the world, the key German nuclear physicists "'agreed... not to deny [the feasibility of] an atomic bomb, but... to [argue] that it could not be implemented within a realistic time frame...'" (p. 67.)
+Rechenberg, Helmut und Gerald Wiemers Werner Heisenberg (1901–1976), Schritte in die neue Physik (Sax-Verlag Beucha, 2001)
+Rhodes, Richard The Making of the Atomic Bomb (Simon and Schuster, 1986)
+Schiemann, Gregor Werner Heisenberg (C.H. Beck, 2008)
+von Weizsäcker, Carl Friedrich and Bartel Leendert van der Waerden Werner Heisenberg (Hanser, Carl GmbH, 1977)
+Walker, Mark (1989). "National Socialism and German Physics". Journal of Contemporary Physics. 24 (5655): 63–89. Bibcode:1978Natur.272..738M. doi:10.1038/272738a0. 
+Walker, Mark (1995). Nazi Science: Myth, Truth, and the German Atomic Bomb. Perseus. 
+Walker, Mark (2005). "German Work on Nuclear Weapons". Historia Scientiarum; International Journal for the History of Science Society of Japan. 14 (3): 164–181. 
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Werner Heisenberg.
+
+
+
+
+
+Wikiquote has quotations related to: Werner Heisenberg
+
+
+
+Annotated Bibliography for Werner Heisenberg from the Alsos Digital Library for Nuclear Issues
+MacTutor Biography: Werner Karl Heisenberg
+Heisenberg/Uncertainty biographical exhibit by American Institute of Physics.
+Key Participants: Werner Heisenberg – Linus Pauling and the Nature of the Chemical Bond: A Documentary History
+Nobelprize.org biography
+Werner Heisenberg: Atomic Physics Mentorees
+"Oral history interview transcript with Werner Heisenberg". American Institute of Physics, Niels Bohr Library & Archives. 16 June 1970. 
+"Oral history interview transcript with Werner Heisenberg". American Institute of Physics, Niels Bohr Library & Archives. 30 November 1962. 
+Werner Heisenberg (Character) on IMDb
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laureates of the Nobel Prize in Physics
+
+
+
+1901–1925
+
+
+
+1901 Röntgen
+1902 Lorentz / Zeeman
+1903 Becquerel / P. Curie / M. Curie
+1904 Rayleigh
+1905 Lenard
+1906 J. J. Thomson
+1907 Michelson
+1908 Lippmann
+1909 Marconi / Braun
+1910 Van der Waals
+1911 Wien
+1912 Dalén
+1913 Kamerlingh Onnes
+1914 Laue
+1915 W. L. Bragg / W. H. Bragg
+1916
+1917 Barkla
+1918 Planck
+1919 Stark
+1920 Guillaume
+1921 Einstein
+1922 N. Bohr
+1923 Millikan
+1924 M. Siegbahn
+1925 Franck / Hertz
+
+
+
+
+
+
+
+
+1926–1950
+
+
+
+1926 Perrin
+1927 Compton / C. Wilson
+1928 O. Richardson
+1929 De Broglie
+1930 Raman
+1931
+1932 Heisenberg
+1933 Schrödinger / Dirac
+1934
+1935 Chadwick
+1936 Hess / C. D. Anderson
+1937 Davisson / G. P. Thomson
+1938 Fermi
+1939 Lawrence
+1940
+1941
+1942
+1943 Stern
+1944 Rabi
+1945 Pauli
+1946 Bridgman
+1947 Appleton
+1948 Blackett
+1949 Yukawa
+1950 Powell
+
+
+
+
+
+1951–1975
+
+
+
+1951 Cockcroft / Walton
+1952 Bloch / Purcell
+1953 Zernike
+1954 Born / Bothe
+1955 Lamb / Kusch
+1956 Shockley / Bardeen / Brattain
+1957 C. N. Yang / T. D. Lee
+1958 Cherenkov / Frank / Tamm
+1959 Segrè / Chamberlain
+1960 Glaser
+1961 Hofstadter / Mössbauer
+1962 Landau
+1963 Wigner / Goeppert-Mayer / Jensen
+1964 Townes / Basov / Prokhorov
+1965 Tomonaga / Schwinger / Feynman
+1966 Kastler
+1967 Bethe
+1968 Alvarez
+1969 Gell-Mann
+1970 Alfvén / Néel
+1971 Gabor
+1972 Bardeen / Cooper / Schrieffer
+1973 Esaki / Giaever / Josephson
+1974 Ryle / Hewish
+1975 A. Bohr / Mottelson / Rainwater
+
+
+
+
+
+1976–2000
+
+
+
+1976 Richter / Ting
+1977 P. W. Anderson / Mott / Van Vleck
+1978 Kapitsa / Penzias / R. Wilson
+1979 Glashow / Salam / Weinberg
+1980 Cronin / Fitch
+1981 Bloembergen / Schawlow / K. Siegbahn
+1982 K. Wilson
+1983 Chandrasekhar / Fowler
+1984 Rubbia / Van der Meer
+1985 von Klitzing
+1986 Ruska / Binnig / Rohrer
+1987 Bednorz / Müller
+1988 Lederman / Schwartz / Steinberger
+1989 Ramsey / Dehmelt / Paul
+1990 Friedman / Kendall / R. Taylor
+1991 de Gennes
+1992 Charpak
+1993 Hulse / J. Taylor
+1994 Brockhouse / Shull
+1995 Perl / Reines
+1996 D. Lee / Osheroff / R. Richardson
+1997 Chu / Cohen-Tannoudji / Phillips
+1998 Laughlin / Störmer / Tsui
+1999 't Hooft / Veltman
+2000 Alferov / Kroemer / Kilby
+
+
+
+
+
+2001–
+present
+
+
+
+2001 Cornell / Ketterle / Wieman
+2002 Davis / Koshiba / Giacconi
+2003 Abrikosov / Ginzburg / Leggett
+2004 Gross / Politzer / Wilczek
+2005 Glauber / Hall / Hänsch
+2006 Mather / Smoot
+2007 Fert / Grünberg
+2008 Nambu / Kobayashi / Maskawa
+2009 Kao / Boyle / Smith
+2010 Geim / Novoselov
+2011 Perlmutter / Riess / Schmidt
+2012 Wineland / Haroche
+2013 Englert / Higgs
+2014 Akasaki / Amano / Nakamura
+2015 Kajita / McDonald
+2016 Thouless / Haldane / Kosterlitz
+2017 Weiss / Barish / Thorne
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 49241584
+LCCN: n50029198
+ISNI: 0000 0001 2131 8913
+GND: 118548670
+SELIBR: 231852
+SUDOC: 028535588
+BNF: cb12035206w (data)
+MGP: 51469
+NLA: 35661641
+NDL: 00442941
+NKC: jn20000720102
+BNE: XX843229
+IATH: w6j967hs
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Werner_Heisenberg&oldid=812594283"					
+Categories: 1901 births1976 deathsPeople from WürzburgForeign Members of the Royal SocietyGerman LutheransGerman mountain climbersGerman Nobel laureatesGerman physicistsGrand Crosses with Star and Sash of the Order of Merit of the Federal Republic of GermanyHumboldt University of Berlin facultyLudwig Maximilian University of Munich alumniMax Planck Society peopleMembers of the Pontifical Academy of SciencesMembers of the Prussian Academy of SciencesMembers of the Royal Netherlands Academy of Arts and SciencesNobel laureates in Physics20th-century physicistsNuclear program of Nazi GermanyPeople from the Kingdom of BavariaPhilosophers of scienceQuantum physicistsFluid dynamicistsRecipients of the Pour le Mérite (civil class)Scouting and Guiding in GermanyTheoretical physicistsUniversity of Göttingen facultyLeipzig University facultyBurials at Munich WaldfriedhofWinners of the Max Planck MedalNiels Bohr International Gold Medal recipientsMembers of the Bavarian Academy of SciencesWerner HeisenbergOperation EpsilonPeople associated with CERNHidden categories: CS1 German-language sources (de)Webarchive template wayback linksPages with citations lacking titlesBiography with signatureArticles with hCardsPages using infobox scientist with unknown parametersInterlanguage link template link numberArticles needing additional references from February 2017All articles needing additional referencesCS1 maint: Multiple names: authors listWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with SELIBR identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiersWikipedia articles with SNAC-ID identifiersUse dmy dates from October 2012 

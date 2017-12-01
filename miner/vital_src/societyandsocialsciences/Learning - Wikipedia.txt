@@ -1,0 +1,879 @@
+Learning - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+"Learn" and "Learned" redirect here. For other uses, see Learn (disambiguation) and Learned (disambiguation).
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+Neuropsychology
+
+
+
+
+Topics
+
+
+Brain regions
+Clinical neuropsychology
+Cognitive neuropsychology
+Cognitive neuroscience
+Dementia
+Human brain
+Neuroanatomy
+Neurophysiology
+Neuropsychological assessment
+Neuropsychological rehabilitation
+Traumatic brain injury
+
+
+
+
+
+
+
+
+Brain functions
+
+
+Arousal
+Attention
+Consciousness
+Decision making
+Executive functions
+Natural language
+Learning
+Memory
+Motor coordination
+Perception
+Planning
+Problem solving
+Thought
+
+
+
+
+
+
+
+
+People
+
+
+Arthur L. Benton
+David Bohm
+Antonio Damasio
+Phineas Gage
+Norman Geschwind
+Elkhonon Goldberg
+Patricia Goldman-Rakic
+Pasko Rakic
+Donald O. Hebb
+Kenneth Heilman
+Edith Kaplan
+Muriel Lezak
+Benjamin Libet
+Rodolfo Llinás
+Alexander Luria
+Brenda Milner
+Karl H. Pribram
+Oliver Sacks
+Mark Rosenzweig
+Roger W. Sperry
+Hans-Lukas Teuber
+Henry Molaison ("H.M.", patient)
+K.C. (patient)
+
+
+
+
+
+
+
+
+Tests
+
+
+Benton Visual Retention Test
+Continuous Performance Task
+Halstead-Reitan Neuropsychological Battery
+Hayling and Brixton tests
+Lexical Decision Task
+Luria-Nebraska neuropsychological battery
+Mini–Mental State Examination
+Rey–Osterrieth complex figure
+Stroop Test
+Wechsler Adult Intelligence Scale
+Wechsler Memory Scale
+Wisconsin Card Sorting Task
+
+
+
+
+
+
+Mind and brain portal
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Learning is the process of acquiring new or modifying existing knowledge, behaviors, skills, values, or preferences. Evidence that learning has occurred may be seen in changes in behavior from simple to complex, from moving a finger to skill in synthesizing information or a change in attitude[clarification needed].[1] The ability to learn is possessed by humans, animals, and some machines. There is also evidence for some kind of learning in some plants.[2] Some learning is immediate, induced by a single event (e.g. being burned by a hot stove), but much skill and knowledge accumulates from repeated experiences. The changes induced by learning often last a lifetime, and it is hard to distinguish learned material that seems to be "lost" from that which cannot be retrieved.[3]
+Human learning begins before birth and continues until death as a consequence of ongoing interactions between person and environment. The nature and processes involved in learning are studied in many fields, including educational psychology, neuropsychology, experimental psychology, and pedagogy. Research in such fields has led to the identification of various sorts of learning. For example, learning may occur as a result of habituation, or classical conditioning, operant conditioning or as a result of more complex activities such as play, seen only in relatively intelligent animals.[4][5] Learning may occur consciously or without conscious awareness. Learning that an aversive event can't be avoided nor escaped may result in a condition called learned helplessness.[6] There is evidence for human behavioral learning prenatally, in which habituation has been observed as early as 32 weeks into gestation, indicating that the central nervous system is sufficiently developed and primed for learning and memory to occur very early on in development.[7]
+Play has been approached by several theorists as the first form of learning. Children experiment with the world, learn the rules, and learn to interact through play. Lev Vygotsky agrees that play is pivotal for children's development, since they make meaning of their environment through playing educational games.
+
+
+
+Contents
+
+
+1 Types
+
+1.1 Non-associative learning
+
+1.1.1 Habituation
+1.1.2 Sensitization
+
+
+1.2 Active learning
+1.3 Associative learning
+
+1.3.1 Operant conditioning
+1.3.2 Classical conditioning
+1.3.3 Observational Learning
+1.3.4 Imprinting
+
+
+1.4 Play
+1.5 Enculturation
+1.6 Episodic learning
+1.7 Multimedia learning
+1.8 E-learning and augmented learning
+1.9 Rote learning
+1.10 Meaningful learning
+1.11 Informal learning
+1.12 Formal learning
+1.13 Nonformal learning
+1.14 Nonformal learning and combined approaches
+1.15 Tangential learning
+1.16 Dialogic learning
+1.17 Incidental learning
+
+
+2 Domains
+3 Transfer
+4 Factors affecting learning
+
+4.1 External factors
+4.2 Internal factors
+
+
+5 In animal evolution
+
+5.1 Costs and benefits of learned and innate knowledge
+
+
+6 Machine learning
+7 See also
+
+7.1 Information theory
+7.2 Types of education
+
+
+8 Notes
+9 References
+10 External links
+
+
+
+Types[edit]
+See also: Learning styles and Machine learning § Types of problems and tasks
+Non-associative learning[edit]
+Non-associative learning refers to "a relatively permanent change in the strength of response to a single stimulus due to repeated exposure to that stimulus. Changes due to such factors as sensory adaptation, fatigue, or injury do not qualify as non-associative learning."[8]
+Non-associative learning can be divided into habituation and sensitization.
+Habituation[edit]
+Main article: Habituation
+Habituation is an example of non-associative learning in which the strength or probability of a response diminishes when the response is repeated. The response is typically a reflex or unconditioned response. Thus, habituation must be distinguished from extinction, which is an associative process. In operant extinction, for example, a response declines because it is no longer followed by reward. An example of habituation can be seen in small song birds—if a stuffed owl (or similar predator) is put into the cage, the birds initially react to it as though it were a real predator. Soon the birds react less, showing habituation. If another stuffed owl is introduced (or the same one removed and re-introduced), the birds react to it again as though it were a predator, demonstrating that it is only a very specific stimulus that is habituated to (namely, one particular unmoving owl in one place). Habituation has been shown in essentially every species of animal, as well as the sensitive plant Mimosa pudica[9] and the large protozoan Stentor coeruleus.[10]
+Sensitization[edit]
+Main article: Sensitization
+Sensitization is an example of non-associative learning in which the progressive amplification of a response follows repeated administrations of a stimulus (Bell et al., 1995).[citation needed] An everyday example of this mechanism is the repeated tonic stimulation of peripheral nerves that occurs if a person rubs their arm continuously. After a while, this stimulation creates a warm sensation that eventually turns painful. The pain results from the progressively amplified synaptic response of the peripheral nerves warning that the stimulation is harmful.[clarification needed] Sensitisation is thought to underlie both adaptive as well as maladaptive learning processes in the organism.[citation needed]
+Active learning[edit]
+Main article: Active learning
+
+
+
+
+Experiential learning is more efficient than passive learning like reading or listening.[11]
+
+
+Active learning occurs when a person takes control of his/her learning experience. Since understanding information is the key aspect of learning, it is important for learners to recognize what they understand and what they do not. By doing so, they can monitor their own mastery of subjects. Active learning encourages learners to have an internal dialogue in which they verbalize understandings. This and other meta-cognitive strategies can be taught to a child over time. Studies within metacognition have proven the value in active learning, claiming that the learning is usually at a stronger level as a result.[12] In addition, learners have more incentive to learn when they have control over not only how they learn but also what they learn.[13] Active learning is a key characteristic of student-centered learning. Conversely, passive learning and direct instruction are characteristics of teacher-centered learning (or traditional education).
+Associative learning[edit]
+Associative learning is the process by which a person or animal learns an association between two stimuli. In classical conditioning a previously neutral stimulus is repeatedly paired with a reflex eliciting stimulus until eventually the neutral stimulus elicits a response on its own. In operant conditioning, a behavior that is reinforced or punished in the presence of a stimulus becomes more on less likely to occur in the presence of that stimulus.
+Operant conditioning[edit]
+Main article: Operant conditioning
+In operant conditioning, the consequences (reinforcement or punishment) of a behavior change the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
+Classical conditioning[edit]
+Main article: Classical conditioning
+The typical paradigm for classical conditioning involves repeatedly pairing an unconditioned stimulus (which unfailingly evokes a reflexive response) with another previously neutral stimulus (which does not normally evoke the response). Following conditioning, the response occurs both to the unconditioned stimulus and to the other, unrelated stimulus (now referred to as the "conditioned stimulus"). The response to the conditioned stimulus is termed a conditioned response. The classic example is Ivan Pavlov and his dogs. Pavlov fed his dogs meat powder, which naturally made the dogs salivate—salivating is a reflexive response to the meat powder. Meat powder is the unconditioned stimulus (US) and the salivation is the unconditioned response (UR). Pavlov rang a bell before presenting the meat powder. The first time Pavlov rang the bell, the neutral stimulus, the dogs did not salivate, but once he put the meat powder in their mouths they began to salivate. After numerous pairings of bell and food, the dogs learned that the bell signaled that food was about to come, and began to salivate when they heard the bell. Once this occurred, the bell became the conditioned stimulus (CS) and the salivation to the bell became the conditioned response (CR). Classical conditioning has been demonstrated in many species. For example, it is seen in honeybees, in the proboscis extension reflex paradigm.[14] And recently, it was demonstrated in garden pea plants.[15]
+Another influential person in the world of classical conditioning is John B. Watson. Watson's work was very influential and paved the way for B.F. Skinner's radical behaviorism. Watson's behaviorism (and philosophy of science) stood in direct contrast to Freud and other accounts based largely on introspection. Watson's view was that the introspective method was too subjective, and that we should limit the study of human development to directly observable behaviors. In 1913, Watson published the article "Psychology as the Behaviorist Views," in which he argued that laboratory studies should serve psychology best as a science. Watson's most famous, and controversial, experiment, "Little Albert", where he demonstrated how psychologists can account for the learning of emotion through classical conditioning principles.
+Observational Learning[edit]
+Main article: Observational learning
+Observational learning is learning that occurs through observing the behavior of others. It is a form of social learning which takes various forms, based on various processes. In humans, this form of learning seems to not need reinforcement to occur, but instead, requires a social model such as a parent, sibling, friend, or teacher with surroundings.
+Imprinting[edit]
+Main article: Imprinting (psychology)
+Imprinting is a kind of learning occurring at a particular life stage that is rapid and apparently independent of the consequences of behavior. In filial imprinting, young animals, particularly birds, form an association with another individual or in some cases, an object, that they respond to as they would to a parent. In 1935, the Austrian Zoologist Konrad Lorenz discovered that certain birds follow and form a bond if the object makes sounds.
+Play[edit]
+Main article: Play (activity)
+Play generally describes behavior with no particular end in itself, but that improves performance in similar future situations. This is seen in a wide variety of vertebrates besides humans, but is mostly limited to mammals and birds. Cats are known to play with a ball of string when young, which gives them experience with catching prey. Besides inanimate objects, animals may play with other members of their own species or other animals, such as orcas playing with seals they have caught. Play involves a significant cost to animals, such as increased vulnerability to predators and the risk of injury and possibly infection. It also consumes energy, so there must be significant benefits associated with play for it to have evolved. Play is generally seen in younger animals, suggesting a link with learning. However, it may also have other benefits not associated directly with learning, for example improving physical fitness.
+Play, as it pertains to humans as a form of learning is central to a child's learning and development. Through play, children learn social skills such as sharing and collaboration. Children develop emotional skills such as learning to deal with the emotion of anger, through play activities. As a form of learning, play also facilitates the development of thinking and language skills in children.[16]
+There are five types of play:
+
+sensorimotor play aka functional play, characterized by repetition of activity
+role play occurs starting at the age of 3
+rule-based play where authoritative prescribed codes of conduct are primary
+construction play involves experimentation and building
+movement play aka physical play[16]
+
+These five types of play are often intersecting. All types of play generate thinking and problem-solving skills in children. Children learn to think creatively when they learn through play.[17] Specific activities involved in each type of play change over time as humans progress through the lifespan. Play as a form of learning, can occur solitarily, or involve interacting with others.
+Enculturation[edit]
+Main article: Enculturation
+Enculturation is the process by which people learn values and behaviors that are appropriate or necessary in their surrounding culture.[18] Parents, other adults, and peers shape the individual's understanding of these values.[18] If successful, enculturation results in competence in the language, values and rituals of the culture.[18] This is different from acculturation, where a person adopts the values and societal rules of a culture different from their native one.
+Multiple examples of enculturation can be found cross-culturally. Collaborative practices in the Mazahua people have shown that participation in everyday interaction and later learning activities contributed to enculturation rooted in nonverbal social experience.[19] As the children participated in everyday activities, they learned the cultural significance of these interactions. The collaborative and helpful behaviors exhibited by Mexican and Mexican-heritage children is a cultural practice known as being "acomedido".[20] Chillihuani girls in Peru described themselves as weaving constantly, following behavior shown by the other adults.[21]
+Episodic learning[edit]
+Episodic learning is a change in behavior that occurs as a result of an event.[22] For example, a fear of dogs that follows being bitten by a dog is episodic learning. Episodic learning is so named because events are recorded into episodic memory, which is one of the three forms of explicit learning and retrieval, along with perceptual memory and semantic memory.[23]
+Multimedia learning[edit]
+Main article: Multimedia learning
+Multimedia learning is where a person uses both auditory and visual stimuli to learn information (Mayer 2001). This type of learning relies on dual-coding theory (Paivio 1971).
+E-learning and augmented learning[edit]
+Main article: Electronic learning
+Electronic learning or e-learning is computer-enhanced learning. A specific and always more diffused e-learning is mobile learning (m-learning), which uses different mobile telecommunication equipment, such as cellular phones.
+When a learner interacts with the e-learning environment, it's called augmented learning. By adapting to the needs of individuals, the context-driven instruction can be dynamically tailored to the learner's natural environment. Augmented digital content may include text, images, video, audio (music and voice). By personalizing instruction, augmented learning has been shown to improve learning performance for a lifetime.[24] See also minimally invasive education.
+Moore (1989)[25] purported that three core types of interaction are necessary for quality, effective online learning:
+
+learner–learner (i.e. communication between and among peers with or without the teacher present),
+learner–instructor (i.e. student teacher communication), and
+learner–content (i.e. intellectually interacting with content that results in changes in learners' understanding, perceptions, and cognitive structures).
+
+In his theory of transactional distance, Moore (1993)[26] contented that structure and interaction or dialogue bridge the gap in understanding and communication that is created by geographical distances (known as transactional distance).
+Rote learning[edit]
+Main article: Rote learning
+Rote learning is memorizing information so that it can be recalled by the learner exactly the way it was read or heard. The major technique used for rote learning is learning by repetition, based on the idea that a learner can recall the material exactly (but not its meaning) if the information is repeatedly processed. Rote learning is used in diverse areas, from mathematics to music to religion. Although it has been criticized by some educators, rote learning is a necessary precursor to meaningful learning.
+Meaningful learning[edit]
+See also: Deeper Learning
+Meaningful learning is the concept that learned knowledge (e.g., a fact) is fully understood to the extent that it relates to other knowledge. To this end, meaningful learning contrasts with rote learning in which information is acquired without regard to understanding. Meaningful learning, on the other hand, implies there is a comprehensive knowledge of the context of the facts learned.[27]
+Informal learning[edit]
+Main article: Informal learning
+Informal learning occurs through the experience of day-to-day situations (for example, one would learn to look ahead while walking because of the danger inherent in not paying attention to where one is going). It is learning from life, during a meal at table with parents, play, exploring, etc.
+Formal learning[edit]
+Main article: Education
+
+
+
+
+A depiction of the world's oldest continually operating university, the University of Bologna, Italy
+
+
+Formal learning is learning that takes place within a teacher-student relationship, such as in a school system. The term formal learning has nothing to do with the formality of the learning, but rather the way it is directed and organized. In formal learning, the learning or training departments set out the goals and objectives of the learning.[28]
+Nonformal learning[edit]
+Main article: Nonformal learning
+Nonformal learning is organized learning outside the formal learning system. For example, learning by coming together with people with similar interests and exchanging viewpoints, in clubs or in (international) youth organizations, workshops.
+Nonformal learning and combined approaches[edit]
+The educational system may use a combination of formal, informal, and nonformal learning methods. The UN and EU recognize these different forms of learning (cf. links below). In some schools, students can get points that count in the formal-learning systems if they get work done in informal-learning circuits. They may be given time to assist international youth workshops and training courses, on the condition they prepare, contribute, share and can prove this offered valuable new insight, helped to acquire new skills, a place to get experience in organizing, teaching, etc.
+To learn a skill, such as solving a Rubik's Cube quickly, several factors come into play at once:
+
+Reading directions helps a player learn the patterns that solve the Rubik's Cube.
+Practicing the moves repeatedly helps build "muscle memory" and speed.
+Thinking critically about moves helps find shortcuts, which speeds future attempts.
+Observing the Rubik's Cube's six colors help anchor solutions in the mind.
+Revisiting the cube occasionally helps retain the skill.
+
+Tangential learning[edit]
+Tangential learning is the process by which people self-educate if a topic is exposed to them in a context that they already enjoy. For example, after playing a music-based video game, some people may be motivated to learn how to play a real instrument, or after watching a TV show that references Faust and Lovecraft, some people may be inspired to read the original work.[29] Self-education can be improved with systematization. According to experts in natural learning, self-oriented learning training has proven an effective tool for assisting independent learners with the natural phases of learning.[30]
+Dialogic learning[edit]
+Main article: Dialogic learning
+Dialogic learning is a type of learning based on dialogue.
+Incidental learning[edit]
+In incidental teaching learning is not planned by the instructor or the student, it occurs as a byproduct of another activity — an experience, observation, self-reflection, interaction, unique event, or common routine task. This learning happens in addition to or apart from the instructor's plans and the student's expectations. An example of incidental teaching is when the instructor places a train set on top of a cabinet. If the child points or walks towards the cabinet, the instructor prompts the student to say “train.” Once the student says “train,” he gets access to the train set.
+Here are some steps most commonly used in incidental teaching:[31]
+
+An instructor will arrange the learning environment so that necessary materials are within the student’s sight, but not within his reach, thus impacting his motivation to seek out those materials.
+An instructor waits for the student to initiate engagement.
+An instructor prompts the student to respond if needed.
+An instructor allows access to an item/activity contingent on a correct response from the student.
+The instructor fades out the prompting process over a period of time and subsequent trials.
+
+Incidental learning is an occurrence that is not generally accounted for using the traditional methods of instructional objectives and outcomes assessment. This type of learning occurs in part as a product of social interaction and active involvement in both online and onsite courses. Research implies that some un-assessed aspects of onsite and online learning challenge the equivalency of education between the two modalities. Both onsite and online learning have distinct advantages with traditional on-campus students experiencing higher degrees of incidental learning in three times as many areas as online students. Additional research is called for to investigate the implications of these findings both conceptually and pedagogically.[32]
+Domains[edit]
+
+
+
+
+Future school (1901 or 1910).
+
+
+Benjamin Bloom has suggested three domains of learning:
+
+Cognitive: To recall, calculate, discuss, analyze, problem solve, etc.
+Psychomotor: To dance, swim, ski, dive, drive a car, ride a bike, etc.
+Affective: To like something or someone, love, appreciate, fear, hate, worship, etc.
+
+These domains are not mutually exclusive. For example, in learning to play chess, the person must learn the rules (cognitive domain)—but must also learn how to set up the chess pieces and how to properly hold and move a chess piece (psychomotor). Furthermore, later in the game the person may even learn to love the game itself, value its applications in life, and appreciate its history (affective domain).[33]
+Transfer[edit]
+Transfer of learning is the application of skill, knowledge or understanding to resolve a novel problem or situation that happens when certain conditions are fulfilled. Research indicates that learning transfer is infrequent; most common when "... cued, primed, and guided..."[34] and has sought to clarify what it is, and how it might be promoted through instruction.
+Over the history of its discourse, various hypotheses and definitions have been advanced. First, it is speculated that different types of transfer exist, including: near transfer, the application of skill to solve a novel problem in a similar context; and far transfer, the application of skill to solve novel problem presented in a different context.[35] Furthermore, Perkins and Salomon (1992) suggest that positive transfer in cases when learning supports novel problem solving, and negative transfer occurs when prior learning inhibits performance on highly correlated tasks, such as second or third-language learning.[36] Concepts of positive and negative transfer have a long history; researchers in the early 20th century described the possibility that "...habits or mental acts developed by a particular kind of training may inhibit rather than facilitate other mental activities".[37] Finally, Schwarz, Bransford and Sears (2005) have proposed that transferring knowledge into a situation may differ from transferring knowledge out to a situation as a means to reconcile findings that transfer may both be frequent and challenging to promote.[38]
+A significant and long research history has also attempted to explicate the conditions under which transfer of learning might occur. Early research by Ruger, for example, found that the "level of attention", "attitudes", "method of attack" (or method for tackling a problem), a "search for new points of view", "a careful testing of hypothesis" and "generalization" were all valuable approaches for promoting transfer.[39] To encourage transfer through teaching, Perkins and Salomon recommend aligning ("hugging") instruction with practice and assessment, and "bridging", or encouraging learners to reflect on past experiences or make connections between prior knowledge and current content.[36]
+Factors affecting learning[edit]
+External factors[edit]
+
+Heredity: A classroom instructor can neither change nor increase heredity, but the student can use and develop it. Some learners are rich in hereditary endowment while others are poor. Each student is unique and has different abilities. The native intelligence is different in individuals. Heredity governs or conditions our ability to learn and the rate of learning. The intelligent learners can establish and see relationship very easily and more quickly.
+Status of students: Physical and home conditions also matter: Certain problems like malnutrition i.e.; inadequate supply of nutrients to the body, fatigue i.e.; tiredness, bodily weakness, and bad health are great obstructers in learning. These are some of the physical conditions by which a student can get affected. Home is a place where a family lives. If the home conditions are not proper, the student is affected seriously. Some of the home conditions are bad ventilation, unhygienic living, bad light, etc. These affect the student and his or her rate of learning.[40][41]
+Physical environment: The design, quality, and setting of a learning space, such as a school or classroom, can each be critical to the success of a learning environment. Size, configuration, comfort—fresh air, temperature, light, acoustics, furniture—can all affect a student's learning. The tools used by both instructors and students directly affect how information is conveyed, from display and writing surfaces (blackboards, markerboards, tack surfaces) to digital technologies. For example, if a room is too crowded, stress levels rise, student attention is reduced, and furniture arrangement is restricted. If furniture is incorrectly arranged, sight lines to the instructor or instructional material is limited and the ability to suit the learning or lesson style is restricted. Aesthetics can also play a role, for if student morale suffers, so does motivation to attend school.[42][43]
+
+Internal factors[edit]
+There are several internal factors that affect learning.[44][45] They are
+
+Goals or purposes: Each and everyone has a goal. A goal should be set to each pupil according to the standard expected to him. A goal is an aim or desired result. There are 2 types of goals called immediate and distant goals. A goal that occurs or is done at once is called an immediate goal, and distant goals are those that take time to achieve. Immediate goals should be set before the young learner and distant goals for older learners. Goals should be specific and clear, so that learners understand.
+Motivational behavior: Motivation means to provide with a motive. Motivation learners should be motivated so that they stimulate themselves with interest. This behavior arouses and regulates the student's internal energies.
+Interest: This is a quality that arouses a feeling. It encourages a student to move over tasks further. During teaching, the instructor must raise interests among students for the best learning. Interest is an apparent ( clearly seen or understood) behaviour.
+Attention: Attention means consideration. It is concentration or focusing of consciousness upon one object or an idea. If effective learning should take place attention is essential. Instructors must secure the attention of the student.
+Drill or practice: This method includes repiting the tasks "n" number of times like needs, phrases, principles, etc. This makes learning more effective.
+Fatigue: Generally there are three types of fatigue, i.e., muscular, sensory, and mental. Muscular and sensory fatigues are bodily fatigue. Mental fatigue is in the central nervous system. The remedy is to change teaching methods, e.g., use audio-visual aids, etc.
+Aptitude: Aptitude is natural ability. It is a condition in which an individuals ability to acquire certain skills, knowledge through training.
+Attitude: It is a way of thinking. The attitude of the student must be tested to find out how much inclination he or she has for learning a subject or topic.
+Emotional conditions: Emotions are physiological states of being. Students who answer a question properly or give good results should be praised. This encouragement increases their ability and helps them produce better results. Certain attitudes, such as always finding fault in a student's answer or provoking or embarrassing the student in front of a class are counterproductive.
+Speed, Accuracy and retention: Speed is the rapidity of movement. Retention is the act of retaining. These 3 elements depend upon aptitude, attitude, interest, attention and motivation of the students.
+Learning activities: Learning depends upon the activities and experiences provided by the teacher, his concept of discipline, methods of teaching and above all his overall personality.
+Testing: Various tests measure individual learner differences at the heart of effective learning. Testing helps eliminate subjective elements of measuring pupil differences and performances.
+Guidance: Everyone needs guidance in some part or some time in life. Some need it constantly and some very rarely depending on the students conditions. Small learners need more guidance. Guidance is an advice to solve a problem. Guidance involves the art of helping boys and girls in various aspects of academics, improving vocational aspects like choosing careers and recreational aspects like choosing hobbies. Guidance covers the whole gamut of learners problems- learning as well as non- learning.
+
+In animal evolution[edit]
+Animals gain knowledge in two ways. First is learning—in which an animal gathers information about its environment and uses this information. For example, if an animal eats something that hurts its stomach, it learns not to eat that again. The second is innate knowledge that is genetically inherited. An example of this is when a horse is born and can immediately walk. The horse has not learned this behavior; it simply knows how to do it.[46] In some scenarios, innate knowledge is more beneficial than learned knowledge. However, in other scenarios the opposite is true—animals must learn certain behaviors when it is disadvantageous to have a specific innate behavior. In these situations, learning evolves in the species.
+Costs and benefits of learned and innate knowledge[edit]
+In a changing environment, an animal must constantly gain new information to survive. However, in a stable environment, this same individual needs to gather the information it needs once, and then rely on it for the rest of its life. Therefore, different scenarios better suit either learning or innate knowledge. Essentially, the cost of obtaining certain knowledge versus the benefit of already having it determines whether an animal evolved to learn in a given situation, or whether it innately knew the information. If the cost of gaining the knowledge outweighes the benefit of having it, then the animal does not evolve to learn in this scenario—but instead, non-learning evolves. However, if the benefit of having certain information outweighs the cost of obtaining it, then the animal is far more likely to evolve to have to learn this information.[46]
+Non-learning is more likely to evolve in two scenarios. If an environment is static and change does not or rarely occurs, then learning is simply unnecessary. Because there is no need for learning in this scenario—and because learning could prove disadvantageous due to the time it took to learn the information—non-learning evolves. However, if an environment is in a constant state of change, then learning is disadvantageous. Anything learned is immediately irrelevant because of the changing environment.[46] The learned information no longer applies. Essentially, the animal would be just as successful if it took a guess as if it learned. In this situation, non-learning evolves. In fact, a study of Drosophila melanogaster showed that learning can actually lead to a decrease in productivity, possibly because egg-laying behaviors and decisions were impaired by interference from the memories gained from the new learned materials or because of the cost of energy in learning.[47]
+However, in environments where change occurs within an animal's lifetime but is not constant, learning is more likely to evolve. Learning is beneficial in these scenarios because an animal can adapt to the new situation, but can still apply the knowledge that it learns for a somewhat extended period of time. Therefore, learning increases the chances of success as opposed to guessing.[46] An example of this is seen in aquatic environments with landscapes subject to change. In these environments, learning is favored because the fish are predisposed to learn the specific spatial cues where they live.[48]
+Machine learning[edit]
+
+
+Play media
+
+
+Robots can learn to cooperate.
+
+
+Main article: Machine learning
+Machine learning, a branch of artificial intelligence, concerns the construction and study of systems that can learn from data. For example, a machine learning system could be trained on email messages to learn to distinguish between spam and non-spam messages.
+See also[edit]
+
+
+21st century skills
+Epistemology
+Implicit learning
+Instructional theory
+Learning sciences
+Lifelong learning
+Living educational theory
+Media psychology
+Subgoal labeling
+
+
+Information theory[edit]
+
+
+Algorithmic information theory
+Algorithmic probability
+Bayesian inference
+Inductive logic programming
+Inductive probability
+Information theory
+Minimum description length
+Minimum message length
+Occam's razor
+Solomonoff's theory of inductive inference
+Universal artificial intelligence
+
+
+Types of education[edit]
+
+Andragogy
+Heutagogy
+Pedagogy
+
+Notes[edit]
+
+
+^ Richard Gross, Psychology: The Science of Mind and Behaviour 6E, Hachette UK, ISBN 9781444164367.
+^ Karban, R. (2015). Plant Learning and Memory. In: Plant Sensing and Communication. Chicago and London: The University of Chicago Press, pp. 31-44, [1].
+^ Daniel L. Schacter; Daniel T. Gilbert; Daniel M. Wegner (2011) [2009]. Psychology, 2nd edition. Worth Publishers. p. 264. ISBN 978-1-4292-3719-2. 
+^ Jungle Gyms: The Evolution of Animal Play Archived 2007-10-11 at the Wayback Machine.
+^ What behavior can we expect of octopuses?
+^ Learned helplessness at Encyclopædia Britannica
+^ Sandman, Wadhwa; Hetrick, Porto; Peeke (1997). "Human fetal heart rate dishabituation between thirty and thirty-two weeks gestation". Child Development. 68: 1031–1040. doi:10.1111/j.1467-8624.1997.tb01982.x. 
+^ http://users.ipfw.edu/abbott/314/Non-associativeLearning.pdf
+^ Gagliano, M.; et al. (2014). "Experience teaches plants to learn faster and forget slower in environments where it matters". Oecologia. 175: 1. doi:10.1007/s00442-013-2873-7. 
+^ Wood, D.C. (1988). "Habituation in Stentor produced by mechanoreceptor channel modification". Journal of Neuroscience. 2254: 8. 
+^ Skill Pyramid, Competence Pyramid, and Retention of Learning
+^ [(Bransford, 2000, pg.15-20)]
+^ J. Scott Armstrong (2012). "Natural Learning in Higher Education". Encyclopedia of the Sciences of Learning. 
+^ Bitterman; et al. (1983). "Classical Conditioning of Proboscis Extension in Honeybees (Apis mellifera)". J. Comp. Psychol. 97: 107–119. doi:10.1037/0735-7036.97.2.107. 
+^ Gagliano, Monica; Vyazovskiy, Vladyslav V.; Borbély, Alexander A.; Grimonprez, Mavra; Depczynski, Martial (2016-12-02). "Learning by Association in Plants". Scientific Reports. 6 (1). doi:10.1038/srep38427. ISSN 2045-2322. PMC 5133544 . PMID 27910933. 
+^ a b Lillemyr, O.F. (2009). Taking play seriously. Children and play in early childhood education: an exciting challenge. Charlotte, NC: Information Age Publishing.
+^ Whitebread, D.; Coltman, P.; Jameson, H.; Lander, R. (2009). "Play, cognition and self-regulation: What exactly are children learning when they learn through play?". Educational & Child Psychology. 26 (2): 40–52. 
+^ a b c Grusec, Joan E.; Hastings, Paul D. "Handbook of Socialization: Theory and Research", 2007, Guilford Press; ISBN 1-59385-332-7, ISBN 978-1-59385-332-7; at page 547.
+^ Paradise, Ruth (1994). "Interactional Style and Nonverbal Meaning: Mazahua Children Learning How to Be Separate-But-Together". Anthropology & Education Quarterly. 25: 156–172. doi:10.1525/aeq.1994.25.2.05x0907w. 
+^ Lopez, Angelica; Najafi, Behnosh; Rogoff, Barbara; Mejia-Arauz, Rebeca (2012). "Collaboration and helping as cultural practices". The Oxford Handbook of Culture and Psychology. 
+^ Bolin, Inge (2006). Growing Up in a Culture of Respect: Childrearing in highland Peru (2 ed.). Austin: University of Texas. pp. 90–99. ISBN 978-0-292-71298-0. 
+^ Terry, W. S. (2006). Learning and Memory: Basic principles, processes, and procedures. Boston: Pearson Education, Inc.
+^ Baars, B. J. & Gage, N. M. (2007). Cognition, Brain, and Consciousness: Introduction to cognitive neuroscience. London: Elsevier Ltd.
+^ Augmented Learning, Augmented Learning: Context-Aware Mobile Augmented Reality Architecture for Learning
+^ Moore, M (1989). "Three types of interaction". American Journal of Distance Education. 3 (2): 1–6. doi:10.1080/08923648909526659. 
+^ Moore, M. G. (1993). Theory of transactional distance. In D. Keegan (Ed.), Theoretical principles of distance education (pp. 22-38). London and New York: Routledge
+^ Hassard, Jack. "Backup of Meaningful Learning Model". Retrieved 30 November 2011. 
+^ Bell, J., and Dale, M., " Informal Learning in the Workplace", Department for Education and Employment Research Report No. 134. London, England: Department for Education and Employment, August 1999
+^ Tangential Learning http://penny-arcade.com/patv/episode/tangential-learning
+^ J. Scott Armstrong (1979). "The Natural Learning Project". Journal of Experiential Learning and Simulation. 1: 5–12. 
+^ "What is incidental teaching?". North Shore Pediatric Therapy, Illinois. 2017. Retrieved August 29, 2017. 
+^ Konetes, George (2011). "The Effects of Distance Education and Student Involvement on Incidental Learning" (PDF). IUP Doctoral Dissertations: 115. Archived from the original (PDF) on 2014-07-14. Retrieved 2014-07-12. 
+^ Bloom's Taxonomy of Learning
+^ Perkins, D.N.; Salomon, G. (Jan–Feb 1989). "Are Cognitive Skills Context-Bound?". Educational Researcher. 18 (1): 16–25 [19]. doi:10.3102/0013189x018001016. 
+^ Committee on Developments in the Science of Learning with additional material from the Committee on Learning Research (2000). Chapter 3. Learning and Transfer. How People Learn: Brain, Mind, Experience, and School: Expanded Edition. The National Academies Press. 
+^ a b Perkins, D.N.; Salomon, G. (1992). "Transfer of Learning". International Encyclopedia of Education. 2. 
+^ Rogers, Agnes L. (1916). "The Bearing of the New Psychology upon the Teaching of Mathematics". Teacher's College Record. 17: 344–352. 
+^ Schwartz, Daniel L., John D. Bransford, and David Sears (2005). "Efficiency and innovation in transfer: Transfer of learning from a modern multidisciplinary perspective": 1–15. CS1 maint: Multiple names: authors list (link)
+^ Ruger, Henry Alfred (1910). "The psychology of efficiency: an experimental study of the processes involved in the solution of mechanical puzzles and in the acquisition of skill in their manipulation". Science Press. 19 (2). 
+^ Mangal, S.K. (January 5, 2007). ESSENTIALS OF EDUCATIONAL PSYCHOLOGY. PHI Learning Pvt. Ltd. p. 736. ISBN 9788120330559. 
+^ Aggarwal, J.C (November 1, 2009). Essentials Of Educational Psychology (Second ed.). Vikas Publishing House Pvt Ltd. p. 596. ISBN 9788125922926. 
+^ New Teachers: Designing Learning Environments, May 7, 2015. Retrieved 2016-03-19
+^ A Place for Learning: The Physical Environment of Classrooms, Mark Phillips, May 20, 2014. Retrieved 2016-03-19
+^ Mangal, SK (January 1, 2002). ADVANCED EDUCATIONAL PSYCHOLOGY (Second ed.). PHI Learning Pvt. Ltd. p. 536. ISBN 9788120320383. 
+^ Bhatia, H.R (January 1, 1973). Elements Of Educational Psychology. Orient Blackswan. p. 558. ISBN 9788125000297. 
+^ a b c d DunlapLehtila_umn_0130E_10349.pdf. at <"Archived copy" (PDF). Archived from the original (PDF) on 2013-11-13. Retrieved 2013-12-15. >
+^ "An operating cost of learning in Drosophila melanogaster". Animal Behaviour. 68: 589–598. doi:10.1016/j.anbehav.2003.12.005. 
+^ Odling-Smee, L.; Braithwaite, V. A. (2003). "The role of learning in fish orientation". Fish and Fisheries. 4: 235–246. doi:10.1046/j.1467-2979.2003.00127.x. 
+
+
+References[edit]
+
+
+Library resources about
+Learning
+
+
+
+
+
+Resources in your library
+
+
+
+
+
+
+Mayer, R.E. (2001). Multimedia learning. New York: Cambridge University Press. ISBN 0-521-78749-1. 
+Paivio, A. (1971). Imagery and verbal processes. New York: Holt, Rinehart, and Winston. ISBN 978-0-03-085173-5. 
+
+
+External links[edit]
+
+How People Learn: Brain, Mind, Experience, and School (expanded edition) published by the National Academies Press
+Applying Science of Learning in Education: Infusing Psychological Science into the Curriculum published by the American Psychological Association
+
+
+
+
+
+Links to related articles
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Ethology
+
+
+
+Branches
+
+
+
+Animal cognition
+Animal communication
+Animal consciousness
+Animal culture
+Animal sexual behaviour
+Animal welfare science
+Anthrozoology
+Bee learning and communication
+Behavioural ecology
+Behavioural genetics
+Cognitive ethology
+Comparative psychology
+Emotion in animals
+Evolutionary neuroscience
+Human ethology
+Instinct
+Learning
+Neuroethology
+Pain in animals
+Sociobiology
+Tool use by animals
+Zoosemiotics
+Zoomusicology
+
+
+
+
+
+Ethologists
+
+
+
+Patrick Bateson
+Marc Bekoff
+Donald Broom
+Charles Darwin
+Marian Dawkins
+Richard Dawkins
+Irenäus Eibl-Eibesfeldt
+Dian Fossey
+Karl von Frisch
+Jane Goodall
+Heini Hediger
+Julian Huxley
+Konrad Lorenz
+Desmond Morris
+Thomas Sebeok
+William Homan Thorpe
+Nikolaas Tinbergen
+Jakob von Uexküll
+Wolfgang Wickler
+E. O. Wilson
+Solly Zuckerman
+
+
+
+
+
+Societies
+
+
+
+Association for the Study of Animal Behaviour
+International Society for Applied Ethology
+
+
+
+
+
+Journals
+
+
+
+Animal Behaviour
+Animal Cognition
+Animal Welfare
+Behavioral Ecology
+Behaviour
+
+
+
+
+
+Related topics
+
+
+
+ Animals portal
+ Biology portal
+ Ethology (category)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Human intelligence topics
+
+
+
+Types
+
+
+
+Collective
+Emotional
+Intellectual
+Linguistic
+Multiple
+Social
+Spatial (visuospatial)
+
+
+
+
+
+
+
+
+Abilities
+Traits
+Constructs
+
+
+
+
+
+
+Cognition
+Communication
+Creativity
+Fluid and crystallized intelligence
+g factor
+Intelligence quotient
+Knowledge
+Learning
+Memory
+Problem solving
+Reasoning
+Thought (abstraction)
+Understanding
+Visual processing
+
+
+
+
+
+Models and theories
+
+
+
+Cattell–Horn–Carroll theory
+Fluid and crystallized intelligence
+Multiple-intelligences theory
+Three-stratum theory
+Triarchic theory
+PASS theory
+
+
+
+
+
+Areas of research
+
+
+
+Evolution of human intelligence
+Heritability of IQ
+Psychometrics
+Intelligence and environment / health / longevity / neuroscience / race
+
+
+
+
+
+
+
+
+Outline of human intelligence / thought
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Learning
+
+
+
+Simple non-associative learning
+
+
+
+Habituation
+Sensitization
+
+
+
+
+
+Associative learning
+
+
+
+Operant conditioning
+Classical conditioning
+Imprinting
+Observational learning
+
+
+
+
+
+Insight learning
+
+
+
+Deductive reasoning
+Inductive reasoning
+Abductive reasoning
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Mental processes
+
+
+
+Cognition
+
+
+
+Awareness
+Cognitive dissonance
+Comprehension
+Consciousness
+Imagination
+Intuition
+
+
+
+
+
+Perception
+
+
+
+Amodal
+Haptic (touch)
+Sound
+
+pitch
+harmonics
+speech
+
+
+Social
+Perception as interpretation
+Visual
+Color
+
+RGB model
+
+
+Peripheral
+Depth
+Form
+
+
+
+
+
+Memory
+
+
+
+Encoding
+Storage
+Recall
+Consolidation
+
+
+
+
+
+Other
+
+
+
+Attention
+Higher nervous activity
+Intention
+Learning
+Mental fatigue
+Mental set
+Thinking
+Volition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Learning&oldid=812622364"					
+Categories: Cognitive scienceEducational psychologyDevelopmental psychologyIntelligenceLearningNeuropsychological assessmentSystems scienceHidden categories: Webarchive template wayback linksArticles with Encyclopædia Britannica linksCS1 maint: Multiple names: authors listArticles needing additional references from October 2016All articles needing additional referencesWikipedia articles needing clarification from October 2017All articles with unsourced statementsArticles with unsourced statements from January 2012Wikipedia articles needing clarification from January 2011Articles with unsourced statements from March 2016Articles containing video clips 

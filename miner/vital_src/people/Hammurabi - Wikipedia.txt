@@ -1,0 +1,738 @@
+Hammurabi - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For other uses, see Hammurabi (disambiguation).
+Not to be confused with Ammurapi.
+
+
+Hammurabi
+
+
+
+Hammurabi (standing), depicted as receiving his royal insignia from Shamash (or possibly Marduk). Hammurabi holds his hands over his mouth as a sign of prayer[1] (relief on the upper part of the stele of Hammurabi's code of laws).
+
+
+
+Born
+c. 1810 BC
+Babylon
+
+
+Died
+1750 BC middle chronology (modern-day Jordan and Syria)
+(aged c. 60)
+Babylon
+
+
+Known for
+Code of Hammurabi
+
+
+Title
+King of Babylon
+
+
+Term
+42 years; c. 1792 – 1750 BC (middle)
+
+
+Predecessor
+Sin-Muballit
+
+
+Successor
+Samsu-iluna
+
+
+Children
+Samsu-iluna
+
+
+Hammurabi (Akkadian 𒄩𒄠𒈬𒊏𒁉 Ḫa-am-mu-ra-bi, c. 1810 BC – c. 1750 BC) was the sixth king of the First Babylonian Dynasty, reigning from 1792 BC to 1750 BC (according to the Middle Chronology). He was preceded by his father, Sin-Muballit, who abdicated due to failing health. He extended Babylon's control throughout Mesopotamia through military campaigns.[2] Hammurabi is known for the Code of Hammurabi, one of the earliest surviving codes of law in recorded history, which he claimed to have received from Shamash, the Babylonian god of justice. Despite similarities between the Code of Hammurabi and the Law of Moses in the Torah, it is unlikely that Hammurabi's laws exerted any direct impact on the later Mosaic ones. The name Hammurabi derives from the Amorite term ʻAmmurāpi ("the kinsman is a healer"), itself from ʻAmmu ("paternal kinsman") and Rāpi ("healer").
+
+
+
+Contents
+
+
+1 Reign and conquests
+2 Code of laws
+
+2.1 Example laws in Hammurabi's code
+
+
+3 Legacy and depictions
+4 See also
+5 Further reading
+6 Notes
+7 References
+
+7.1 Bibliography
+
+
+8 External links
+
+
+
+Reign and conquests
+
+
+
+
+Map showing the Babylonian territory upon Hammurabi's ascension in c. 1792 BC and upon his death in c. 1750 BC
+
+
+Hammurabi was an Amorite First Dynasty king of the city-state of Babylon, and inherited the power from his father, Sin-Muballit, in c. 1792 BC.[3] Babylon was one of the many largely Amorite ruled city-states that dotted the central and southern Mesopotamian plains and waged war on each other for control of fertile agricultural land.[4] Though many cultures co-existed in Mesopotamia, Babylonian culture gained a degree of prominence among the literate classes throughout the Middle East under Hammurabi.[5] The kings who came before Hammurabi had founded a relatively minor City State in 1894 BC which controlled little territory outside of the city itself. Babylon was overshadowed by older, larger and more powerful kingdoms such as Elam, Assyria, Isin, Eshnunna and Larsa for a century or so after its founding. However his father Sin-Muballit had begun to consolidate rule of a small area of south central Mesopotamia under Babylonian hegemony and, by the time of his reign, had conquered the minor city-states of Borsippa, Kish, and Sippar.[5]
+Thus Hammurabi ascended to the throne as the king of a minor kingdom in the midst of a complex geopolitical situation. The powerful kingdom of Eshnunna controlled the upper Tigris River while Larsa controlled the river delta. To the east of Mesopotamia lay the powerful kingdom of Elam which regularly invaded and forced tribute upon the small states of southern Mesopotamia. In northern Mesopotamia, the Assyrian king Shamshi-Adad I, who had already inherited centuries old Assyrian colonies in Asia Minor, had expanded his territory into the Levant and central Mesopotamia,[6] although his untimely death would somewhat fragment his empire.[7]
+The first few decades of Hammurabi's reign were quite peaceful. Hammurabi used his power to undertake a series of public works, including heightening the city walls for defensive purposes, and expanding the temples.[8] In c. 1801 BC, the powerful kingdom of Elam, which straddled important trade routes across the Zagros Mountains, invaded the Mesopotamian plain.[9] With allies among the plain states, Elam attacked and destroyed the kingdom of Eshnunna, destroying a number of cities and imposing its rule on portions of the plain for the first time.[10]
+
+
+
+
+Detail of a limestone votive monument from Sippar, Iraq, dating to c. 1792 – c. 1750 BC showing King Hammurabi raising his right arm in worship, now held in the British Museum
+
+
+
+This bust, known as the "Head of Hammurabi", is now thought to predate Hammurabi by a few hundred years[11] (Louvre)
+
+
+
+
+In order to consolidate its position, Elam tried to start a war between Hammurabi's Babylonian kingdom and the kingdom of Larsa.[12] Hammurabi and the king of Larsa made an alliance when they discovered this duplicity and were able to crush the Elamites, although Larsa did not contribute greatly to the military effort.[12] Angered by Larsa's failure to come to his aid, Hammurabi turned on that southern power, thus gaining control of the entirety of the lower Mesopotamian plain by c. 1763 BC.[13]
+As Hammurabi was assisted during the war in the south by his allies from the north such as Yamhad and Mari, the absence of soldiers in the north led to unrest.[13] Continuing his expansion, Hammurabi turned his attention northward, quelling the unrest and soon after crushing Eshnunna.[14] Next the Babylonian armies conquered the remaining northern states, including Babylon's former ally Mari, although it is possible that the conquest of Mari was a surrender without any actual conflict.[15][16][17]
+Hammurabi entered into a protracted war with Ishme-Dagan I of Assyria for control of Mesopotamia, with both kings making alliances with minor states in order to gain the upper hand. Eventually Hammurabi prevailed, ousting Ishme-Dagan I just before his own death. Mut-Ashkur the new king of Assyria was forced to pay tribute to Hammurabi, however Babylon did not rule Assyria directly.
+In just a few years, Hammurabi succeeded in uniting all of Mesopotamia under his rule.[17] The Assyrian kingdom survived but was forced to pay tribute during his reign, and of the major city-states in the region, only Aleppo and Qatna to the west in the Levant maintained their independence.[17] However, one stele of Hammurabi has been found as far north as Diyarbekir, where he claims the title "King of the Amorites".[18]
+Vast numbers of contract tablets, dated to the reigns of Hammurabi and his successors, have been discovered, as well as 55 of his own letters.[19] These letters give a glimpse into the daily trials of ruling an empire, from dealing with floods and mandating changes to a flawed calendar, to taking care of Babylon's massive herds of livestock.[20] Hammurabi died and passed the reins of the empire on to his son Samsu-iluna in c. 1750 BC, under whose rule the Babylonian empire began to quickly unravel.[21]
+Code of laws
+Main article: Code of Hammurabi
+
+
+
+
+Code of Hammurabi stele. Louvre Museum, Paris
+
+
+The Code of Hammurabi was inscribed on a stele and placed in a public place so that all could see it, although it is thought that few were literate. The stele was later plundered by the Elamites and removed to their capital, Susa; it was rediscovered there in 1901 in Iran and is now in the Louvre Museum in Paris. The code of Hammurabi contained 282 laws, written by scribes on 12 tablets. Unlike earlier laws, it was written in Akkadian, the daily language of Babylon, and could therefore be read by any literate person in the city.[22]
+The structure of the code is very specific, with each offense receiving a specified punishment. The punishments tended to be very harsh by modern standards, with many offenses resulting in death, disfigurement, or the use of the "Eye for eye, tooth for tooth" (Lex Talionis "Law of Retaliation") philosophy.[23] The code is also one of the earliest examples of the idea of presumption of innocence, and it also suggests that the accused and accuser have the opportunity to provide evidence.[24] However, there is no provision for extenuating circumstances to alter the prescribed punishment.
+A carving at the top of the stele portrays Hammurabi receiving the laws from Shamash, the Babylonian god of justice,[25] and the preface states that Hammurabi was chosen by Shamash to bring the laws to the people.[26] Parallels between this narrative and the giving of the Covenant Code to Moses by Yahweh atop Mount Sinai in the Biblical Book of Exodus and similarities between the two legal codes suggest a common ancestor in the Semitic background of the two.[27][28][29][30] Nonetheless, fragments of previous law codes have been found and it is unlikely that the Mosaic laws were directly inspired by the Code of Hammurabi.[27][28][29][30][Note 1] Some scholars have disputed this; David P. Wright argues that the Jewish Covenant Code is "directly, primarily, and throughout" based upon the Laws of Hammurabi.[31] In 2010, a team of archaeologists from Hebrew University discovered a cuneiform tablet dating to the eighteenth or seventeenth century BC at Hazor in Israel containing laws clearly derived from the Code of Hammurabi.[32]
+Similar codes of law were created in several nearby civilizations, including the earlier Mesopotamian examples of Ur-Nammu's code, Laws of Eshnunna, and Code of Lipit-Ishtar, and the later Hittite code of laws.[33]
+Example laws in Hammurabi's code
+
+(Text taken from Harper's translation, readable on wikisource)
+
+
+§ 8 – If any one steal cattle or sheep, or an ass, or a pig or a goat, if it belong to a god or to the court, the thief shall pay thirtyfold therefor; if they belonged to a freed man of the king he shall pay tenfold; if the thief has nothing with which to pay he shall be put to death.
+§ 21 – If a man make a breach in a house, they shall put him to death in front of that breach and they shall thrust him therein.
+§ 55 – If a man open his canal for irrigation and neglect it and the water carry away an adjacent field, he shall measure out grain on the basis of the adjacent fields.
+§ 59 – If a man cut down a tree in a man's orchard, without the consent of the owner of the orchard, he shall pay one-half mina of silver.
+§ 168 – If a man set his face to disinherit his son and say to the judges: "I will disinherit my son," the judges shall inquire into his antecedents, and if the son have not committed a crime sufficiently grave to cut him off from sonship, the father may not cut off his son from sonship.
+§ 169 – If he have committed a crime against his father sufficiently grave to cut him off from sonship, they shall condone his first (offense). If he commit a crime a second time, the father may cut off his son from sonship.
+§ 195 – If a son strike his father, they shall cut off his fingers.
+§ 196–201 – If a man destroy the eye of another man, they shall destroy his eye. If one break a man's bone, they shall break his bone. If one destroy the eye of a freeman or break the bone of a freeman he shall pay one mana of silver. If one destroy the eye of a man's slave or break a bone of a man's slave he shall pay one-half his price. If a man knock out a tooth of a man of his own rank, they shall knock out his tooth. If one knock out a tooth of a freeman, he shall pay one-third mana of silver.
+§ 218–219 – If a physician operate on a man for a severe wound with a bronze lancet and cause that man's death; or open an abscess (in the eye) of a man with a bronze lancet and destroy the man's eye, they shall cut off his fingers. If a physician operate on a slave of a freeman for a severe wound with a bronze lancet and cause his death, he shall restore a slave of equal value.
+§ 229–232 – If a builder build a house for a man and do not make its construction firm, and the house which he has built collapse and cause the death of the owner of the house, that builder shall be put to death. If it cause the death of a son of the owner of the house, they shall put to death a son of that builder. If it cause the death of a slave of the owner of the house, he shall give the owner of the house a slave of equal value. If it destroy property, he shall restore whatever it destroyed, and because he did not make the house which he built firm and it collapsed, he shall rebuild the house which collapsed from his own property (i.e., at his own expense).
+
+Legacy and depictions
+
+
+
+
+The bas-relief of Hammurabi at the United States Congress
+
+
+During the reign of Hammurabi, Babylon usurped the position of "most holy city" in southern Mesopotamia from its predecessor, Nippur.[34] Under the rule of Hammurabi's successor Samsu-iluna, the short-lived Babylonian Empire began to collapse. In northern Mesopotamia, both the Amorites and Babylonians were driven from Assyria by Puzur-Sin a native Akkadian-speaking ruler, c. 1740 BC. Around the same time, native Akkadian speakers threw off Amorite Babylonian rule in the far south of Mesopotamia, creating the Sealand Dynasty, in more or less the region of ancient Sumer. Hammurabi's ineffectual successors met with further defeats and loss of territory at the hands of Assyrian kings such as Adasi and Bel-ibni, as well as to the Sealand Dynasty to the south, Elam to the east, and to the Kassites from the northeast. Thus was Babylon quickly reduced to the small and minor state it had once been upon its founding.[35]
+The coup de grace for the Hammurabi's Amorite Dynasty occurred in 1595 BC, when Babylon was sacked and conquered by the powerful Hittite Empire, thereby ending all Amorite political presence in Mesopotamia.[36] However, the Indo-European-speaking Hittites did not remain, turning over Babylon to their Kassite allies, a people speaking a language isolate, from the Zagros mountains region. This Kassite Dynasty ruled Babylon for over 400 years[36] and adopted many aspects of the Babylonian culture, including Hammurabi's code of laws.[36]
+In the early twentieth century, many scholars believed that Hammurabi was Amraphel, the King of Shinar in the Book of Genesis 14:1.[37][38] This view has now been largely rejected,[39][40] and Amraphael's existence is not attested in any writings from outside the Bible.[40]
+Because of Hammurabi's reputation as a lawgiver, his depiction can be found in several U.S. government buildings. Hammurabi is one of the 23 lawgivers depicted in marble bas-reliefs in the chamber of the U.S. House of Representatives in the United States Capitol.[41] A frieze by Adolph Weinman depicting the "great lawgivers of history", including Hammurabi, is on the south wall of the U.S. Supreme Court building.[42][43]
+At the time of Saddam Hussein, the Iraqi Army's 1st Hammurabi Armoured Division was named after the ancient king as part of an effort to emphasize the connection between modern Iraq and the pre-Arab Mesopotamian cultures.
+See also
+
+
+Ancient Near East portal
+
+
+
+Babylonian law
+Cuneiform law
+Short chronology timeline
+Manusmṛti
+
+Further reading
+
+Finet, André (1973). Le trone et la rue en Mésopotamie: L'exaltation du roi et les techniques de l'opposition, in La voix de l'opposition en Mésopotamie. Bruxelles: Institut des Hautes Études de Belgique. OCLC 652257981. 
+Jacobsen, Th. (1943). "Primitive democracy in Ancient Mesopotomia". Journal of Near Eastern Studies. 2 (3): 159–172. doi:10.1086/370672. 
+Finkelstein, J. J. (1966). "The Genealogy of the Hammurabi Dynasty". Journal of Cuneiform Studies. 20 (3): 95–118. doi:10.2307/1359643. 
+Hammurabi (1952). Driver, G.R.; Miles, John C., eds. The Babylonian Laws. Oxford: Clarendon Press. 
+Leemans, W. F. (1950). The Old Babylonian Merchant: His Business and His Social Position. Leiden: Brill. 
+Munn-Rankin, J. M. (1956). "Diplomacy in Western Asia in the Early Second Millennium BC". Iraq. 18 (1): 68–110. doi:10.2307/4199599. 
+Pallis, S. A. (1956). The Antiquity of Iraq: A Handbook of Assyriology. Copenhagen: Ejnar Munksgaard. 
+Richardson, M.E.J. (2000). Hammurabi's laws : text, translation and glossary. Sheffield: Sheffield Acad. Press. ISBN 1-84127-030-X. 
+Saggs, H.W.F. (1988). The greatness that was Babylon : a survey of the ancient civilization of the Tigris-Euphrates Valley. London: Sidgwick & Jackson. ISBN 0-283-99623-4. 
+Yoffee, Norman (1977). The economic role of the crown in the old Babylonian period. Malibu, CA: Undena Publications. ISBN 0-89003-021-9. 
+
+Notes
+
+
+
+^ Barton, a former professor of Semitic languages at the University of Pennsylvania, stated that while there are similarities between the two texts, a study of the entirety of both laws "convinces the student that the laws of the Old Testament are in no essential way dependent upon the Babylonian laws." He states that "such resemblances" arose from "a similarity of antecedents and of general intellectual outlook" between the two cultures, but that "the striking differences show that there was no direct borrowing."[28]
+
+
+
+References
+
+
+^ Roux, Georges, "The Time of Confusion", Ancient Iraq, Penguin Books, p. 266, ISBN 9780141938257 
+^ Beck, Roger B.; Black, Linda; Krieger, Larry S.; Naylor, Phillip C.; Shabaka, Dahia Ibo (1999). World History: Patterns of Interaction. Evanston, IL: McDougal Littell. ISBN 0-395-87274-X. OCLC 39762695. 
+^ Van De Mieroop 2005, p. 1
+^ Van De Mieroop 2005, pp. 1–2
+^ a b Van De Mieroop 2005, p. 3
+^ Van De Mieroop 2005, pp. 3–4
+^ Van De Mieroop 2005, p. 16
+^ Arnold 2005, p. 43
+^ Van De Mieroop 2005, pp. 15–16
+^ Van De Mieroop 2005, p. 17
+^ Claire, Iselin. "Royal head, known as the "Head of Hammurabi"". Musée du Louvre. 
+^ a b Van De Mieroop 2005, p. 18
+^ a b Van De Mieroop 2005, p. 31
+^ Van De Mieroop 2005, pp. 40–41
+^ Van De Mieroop 2005, pp. 54–55
+^ Van De Mieroop 2005, pp. 64–65
+^ a b c Arnold 2005, p. 45
+^ Clay, Albert Tobias (1919). The Empire of the Amorites. Yale University Press. p. 97. 
+^ Breasted 2003, p. 129
+^ Breasted 2003, pp. 129–130
+^ Arnold 2005, p. 42
+^ Breasted 2003, p. 141
+^ "Review: The Code of Hammurabi," J. Dyneley Prince, The American Journal of Theology Vol. 8, No. 3 (Jul., 1904), pp. 601–609 Published by: The University of Chicago Press
+^ Victimology: Theories and Applications, Ann Wolbert Burgess, Albert R. Roberts, Cheryl Regehr, Jones & Bartlett Learning, 2009, p. 103
+^ Kleiner, Fred S. (2010). Gardner's Art through the Ages: The Western Perspective. 1 (Thirteenth ed.). Boston, Massachusetts: Wadsworth Cengage Learning. p. 29. ISBN 978-0-495-57360-9. 
+^ Smith, J. M. Powis (2005). The Origin and History of Hebrew Law. Clark, New Jersey: The Lawbook Exchange, Ltd. p. 13. ISBN 978-1-58477-489-1. 
+^ a b Douglas, J. D.; Tenney, Merrill C. (2011). Zondervan Illustrated Bible Dictionary. Grand Rapids, Michigan: Zondervan. p. 1323. ISBN 978-0310229834. 
+^ a b c Barton, G.A: Archaeology and the Bible. University of Michigan Library, 2009, p.406.
+^ a b Unger, M.F.: Archaeology and the Old Testament. Grand Rapids: Zondervan Publishing Co., 1954, p.156, 157
+^ a b Free, J.P.: Archaeology and Biblical History. Wheaton: Scripture Press, 1950, 1969, p. 121
+^ Wright, David P. (2009). Inventing God's Law: How the Covenant Code of the Bible Used and Revised the Laws of Hammurabi. Oxford, England: Oxford University Press. pp. 3 and passim. 
+^ "Tablet Discovered by Hebrew U Matches Code of Hammurabi". Beit El: HolyLand Holdings, Ltd. Arutz Sheva. 26 June 2010. 
+^ Davies, W. W. (January 2003). Codes of Hammurabi and Moses. Kessinger Publishing. ISBN 0-7661-3124-6. OCLC 227972329. 
+^ Schneider, Tammi J. (2011), An Introduction to Ancient Mesopotamian Religion, Grand Rapids, Michigan: William B. Eerdman's Publishing Company, pp. 58–59, ISBN 978-0-8028-2959-7 
+^ Georges Roux – Ancient Iraq
+^ a b c DeBlois 1997, p. 19
+^ "AMRAPHEL - JewishEncyclopedia.com". 
+^ "Bible Gateway passage: Genesis 14 - New International Version". 
+^ North, Robert (1993). "Abraham". In Metzger, Bruce M.; Coogan, Michael D. The Oxford Companion to the Bible. Oxford, England: Oxford University Press. p. 5. ISBN 0-19-504645-5. 
+^ a b Granerød, Gard (26 March 2010). Abraham and Melchizedek: Scribal Activity of Second Temple Times in Genesis 14 and Psalm 110. Berlin, Germany: Walter de Gruyter. p. 120. ISBN 978-3-11-022346-0. 
+^ "Hammurabi". Architect of the Capitol. Retrieved 2008-05-19. 
+^ "Courtroom Friezes" (PDF). Supreme Court of the United States. Archived from the original (PDF) on June 1, 2010. Retrieved 2008-05-19. 
+^ Biskupic, Joan (11 March 1998). "LAWGIVERS: FROM TWO FRIEZES, GREAT FIGURES OF LEGAL HISTORY GAZE UPON THE SUPREME COURT BENCH". WP Company LLC. The Washington Post. Retrieved 28 November 2017. 
+
+
+Bibliography
+
+
+Arnold, Bill T. (2005). Who Were the Babylonians?. Brill Publishers. ISBN 90-04-13071-3. OCLC 225281611. 
+Breasted, James Henry (2003). Ancient Time or a History of the Early World, Part 1. Kessinger Publishing. ISBN 0-7661-4946-3. OCLC 69651827. 
+DeBlois, Lukas (1997). An Introduction to the Ancient World. Routledge. ISBN 0-415-12773-4. OCLC 231710353. 
+Van De Mieroop, Marc (2005). King Hammurabi of Babylon: A Biography. Blackwell Publishing. ISBN 1-4051-2660-4. OCLC 255676990. 
+
+
+External links
+
+
+
+Wikiquote has quotations related to: Hammurabi
+
+
+
+
+
+Wikimedia Commons has media related to Hammurabi.
+
+
+
+
+
+Wikisource has original works written by or about:
+Hammurabi
+
+
+
+A Closer Look at the Code of Hammurabi (Louvre museum)
+Works by Hammurabi at Project Gutenberg
+Works by or about Hammurabi at Internet Archive
+
+
+
+Preceded by
+Sin-muballit
+Kings of Babylon
+Succeeded by
+Samsu-iluna
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Babylonian kings
+
+
+
+Amorite period
+(Middle Bronze Age)
+
+
+
+
+First Dynasty of Isin
+
+
+
+
+c. 1953 – 1730 BC
+
+
+
+Ishbi-Erra
+Shu-Ilishu
+Iddin-Dagan
+Ishme-Dagan
+Lipit-Eshtar
+Ur-Ninurta
+Bur-Suen
+Lipit-Enlil
+Erra-imitti
+Enlil-bani
+Zambiya
+Iter-pisha
+Ur-du-kuga
+Suen-magir
+Damiq-ilishu
+
+
+
+
+
+
+
+
+Kings of Larsa
+
+
+
+
+c. 1961 – 1674 BC
+
+
+
+Naplanum
+Emisum
+Samium
+Zabaia
+Gungunum
+Abisare
+Sumuel
+Nur-Adad
+Sin-Iddinam
+Sin-Eribam
+Sin-Iqisham
+Silli-Adad
+Warad-Sin
+Rim-Sin I
+Hammurabi (of Babylon)
+Samsu-iluna (of Babylon)
+Rim-Sin II
+
+
+
+
+
+
+
+
+
+
+
+Middle Bronze Age
+
+
+
+
+First Babylonian Dynasty
+(Dynasty I)
+
+
+
+
+c. 1830 – 1531 BC
+
+
+
+Sumu-abum
+Sumu-la-El
+Sabium
+Apil-Sin
+Sin-muballit
+Hammurabi
+Samsu-iluna
+Abi-eshuh
+Ammi-ditana
+Ammi-saduqa
+Samsu-Ditana
+
+
+
+
+
+
+
+
+Sealand Dynasty
+(Dynasty II)
+
+
+
+
+c. 1732 – 1460 BC
+
+
+
+Ilum-ma-ili
+Itti-ili-nibi
+Damqi-ilishu
+Ishkibal
+Shushushi
+Gulkishar
+mDIŠ+U-EN
+Peshgaldaramesh
+Ayadaragalama
+Akurduana
+Melamkurkurra
+Ea-gamil
+
+
+
+
+
+
+
+
+Early Kassite rulers
+
+
+
+
+c. 1730 – 1570 BC
+
+
+
+Gandash
+Agum I
+Kashtiliashu I
+Abi-Rattash
+Kashtiliashu II
+Ur-zigurumash
+Hurbazum
+Shipta'ulzi
+
+
+
+
+
+
+
+
+
+
+
+Late Bronze Age
+
+
+
+
+Kassite Dynasty
+(Dynasty III)
+
+
+
+
+c. 1570 – 1155 BC
+
+
+
+Agum II
+Burnaburiash I
+Kashtiliash III
+Ulamburiash
+Agum III
+Karaindash
+Kadashman-harbe I
+Kurigalzu I
+Kadashman-Enlil I
+Burnaburiash II
+Kara-hardash
+Nazi-Bugash
+Kurigalzu II
+Nazi-Maruttash
+Kadashman-Turgu
+Kadashman-Enlil II
+Kudur-Enlil
+Shagarakti-Shuriash
+Kashtiliashu IV
+Enlil-nadin-shumi
+Kadashman-Harbe II
+Adad-shuma-iddina
+Adad-shuma-usur
+Meli-Shipak II
+Marduk-apla-iddina I
+Zababa-shuma-iddin
+Enlil-nadin-ahi
+
+
+
+
+
+
+
+
+
+
+
+Iron Age
+
+
+
+
+Second Dynasty of Isin
+(Dynasty IV of Babylon)
+
+
+
+
+c. 1155 – 1025 BC
+
+
+
+Marduk-kabit-ahheshu
+Itti-Marduk-balatu
+Ninurta-nadin-shumi
+Nebuchadnezzar I
+Enlil-nadin-apli
+Marduk-nadin-ahhe
+Marduk-shapik-zeri
+Adad-apla-iddina
+Marduk-ahhe-eriba
+Marduk-zer-X
+Nabu-shum-libur
+
+
+
+
+
+
+
+
+Dynasty V
+
+
+
+
+c. 1025 – 1004 BC
+
+
+
+Simbar-shipak
+Ea-mukin-zeri
+Kashshu-nadin-ahi
+
+
+
+
+
+
+
+
+Dynasty VI
+
+
+
+
+c. 1004 – 985 BC
+
+
+
+Eulmash-shakin-shumi
+Ninurta-kudurri-usur I
+Shirikti-shuqamuna
+
+
+
+
+
+
+
+
+Dynasty VII
+
+
+
+
+c. 985 – 979 BC
+
+
+
+Mar-biti-apla-usur
+
+
+
+
+
+
+
+
+Dynasty of E
+(Mixed Dynasties VIII/IX)
+
+
+
+
+c. 979 – 729 BC
+
+
+
+Nabû-mukin-apli
+Ninurta-kudurri-usur II
+Mar-biti-ahhe-iddina
+Shamash-mudammiq
+Nabu-shuma-ukin I
+Nabu-apla-iddina
+Marduk-zakir-shumi I
+Marduk-balassu-iqbi
+Baba-aha-iddina
+(five kings)
+Ninurta-apla-X
+Marduk-bel-zeri
+Marduk-apla-usur
+Eriba-Marduk
+Nabu-shuma-ishkun
+Nabonassar
+Nabu-nadin-zeri
+Nabu-shuma-ukin II
+Nabu-mukin-zeri
+
+
+
+
+
+
+
+
+Neo-Assyrian rule
+(Dynasty X)
+
+
+
+
+729 – 620 BC
+
+
+
+Tiglath-Pileser III†
+Shalmaneser V†
+Marduk-apla-iddina II
+Sargon II†
+Sennacherib†
+Marduk-zakir-shumi II
+Marduk-apla-iddina II
+Bel-ibni
+Ashur-nadin-shumi†
+Nergal-ushezib
+Mushezib-Marduk
+Sennacherib†
+Esarhaddon†
+Shamash-shum-ukin†
+Kandalanu†
+Sin-shumu-lishir†
+Sinsharishkun†
+
+
+
+
+
+
+
+
+Neo-Babylonian Empire
+(Dynasty XI)
+
+
+
+
+626 – 539 BC
+
+
+
+Nabopolassar
+Nebuchadnezzar II
+Amel-Marduk
+Neriglissar
+Labashi-Marduk
+Nabonidus
+Nebuchadnezzar III
+Nebuchadnezzar IV
+
+
+
+
+
+
+
+
+
+
+
+
+† Assyrian rulers
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 280799209
+LCCN: n50019979
+ISNI: 0000 0000 8985 0706
+GND: 118545485
+SELIBR: 255802
+SUDOC: 027764796
+BNF: cb12611886p (data)
+IATH: w6dj68w9
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Hammurabi&oldid=812941680"					
+Categories: 19th-century BC births18th-century BC deaths18th-century BC rulersAmorite kingsBabylonian kingsAncient legislatorsHidden categories: Wikipedia pages semi-protected against vandalismPages using infobox person with unknown parametersInfobox person using religionArticles with hCardsArticles with Project Gutenberg linksArticles with Internet Archive linksGood articlesWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with SELIBR identifiersWikipedia articles with BNF identifiersWikipedia articles with SNAC-ID identifiersYear of birth unknown 

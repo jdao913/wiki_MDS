@@ -1,0 +1,260 @@
+Strong interaction - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2015) (Learn how and when to remove this template message)
+
+
+
+"Color force" redirects here. For the company, see Color Force.
+
+
+
+
+The nucleus of a helium atom. The two protons have the same charge, but still stay together due to the residual nuclear force
+
+
+
+
+Standard Model of particle physics
+
+
+
+Elementary particles of the standard model
+
+
+
+
+
+Background
+Particle physics
+Standard Model
+Quantum field theory
+Gauge theory
+Spontaneous symmetry breaking
+Higgs mechanism
+
+
+
+
+
+
+Constituents
+Electroweak interaction
+Quantum chromodynamics
+CKM matrix
+Standard Model mathematics
+
+
+
+
+
+
+Limitations
+Strong CP problem
+Hierarchy problem
+Neutrino oscillations
+Physics beyond the Standard Model
+
+
+
+
+
+
+Scientists
+Rutherford · Thomson · Chadwick · Bose · Sudarshan · Koshiba · Davis Jr. · Anderson · Fermi · Dirac · Feynman · Rubbia · Gell-Mann · Kendall · Taylor · Friedman · Powell · P. W. Anderson · Glashow · Iliopoulos · Maiani · Meer · Cowan · Nambu · Chamberlain · Cabibbo · Schwartz · Perl · Majorana · Weinberg · Lee · Ward · Salam · Kobayashi · Maskawa · Yang · Yukawa · 't Hooft · Veltman · Gross · Politzer · Wilczek · Cronin · Fitch · Vleck · Higgs · Englert · Brout · Hagen · Guralnik  · Kibble  · Ting · Richter
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In particle physics, the strong interaction is the mechanism responsible for the strong nuclear force (also called the strong force or nuclear strong force), and is one of the four known fundamental interactions, with the others being electromagnetism, the weak interaction, and gravitation. At the range of 10−15 m (1 femtometer), the strong force is approximately 137 times as strong as electromagnetism, a million times as strong as the weak interaction, and 1038 times as strong as gravitation.[1] The strong nuclear force holds most ordinary matter together because it confines quarks into hadron particles such as the proton and neutron. In addition, the strong force binds neutrons and protons to create atomic nuclei. Most of the mass of a common proton or neutron is the result of the strong force field energy; the individual quarks provide only about 1% of the mass of a proton.
+The strong interaction is observable at two ranges: on a larger scale (about 1 to 3 fm), it is the force that binds protons and neutrons (nucleons) together to form the nucleus of an atom. On the smaller scale (less than about 0.8 fm, the radius of a nucleon), it is the force (carried by gluons) that holds quarks together to form protons, neutrons, and other hadron particles. In the latter context, it is often known as the color force. The strong force inherently has such a high strength that hadrons bound by the strong force can produce new massive particles. Thus, if hadrons are struck by high-energy particles, they give rise to new hadrons instead of emitting freely moving radiation (gluons). This property of the strong force is called color confinement, and it prevents the free "emission" of the strong force: instead, in practice, jets of massive particles are produced.
+In the context of binding protons and neutrons together to form atomic nuclei, the strong interaction is called the nuclear force (or residual strong force). In this case, it is the residuum of the strong interaction between the quarks that make up the protons and neutrons. As such, the residual strong interaction obeys a quite different distance-dependent behavior between nucleons, from when it is acting to bind quarks within nucleons. The binding energy that is partly released on the breakup of a nucleus is related to the residual strong force and is harnessed as fission energy in nuclear power and fission-type nuclear weapons.[2][3]
+The strong interaction is mediated by the exchange of massless particles called gluons that act between quarks, antiquarks, and other gluons. Gluons are thought to interact with quarks and other gluons by way of a type of charge called color charge. Color charge is analogous to electromagnetic charge, but it comes in three types (±red, ±green, ±blue) rather than one, which results in a different type of force, with different rules of behavior. These rules are detailed in the theory of quantum chromodynamics (QCD), which is the theory of quark-gluon interactions.
+After the Big Bang and during the electroweak epoch of the universe, the electroweak force separated from the strong force. A Grand Unified Theory is hypothesized to have existed to describe this, but no such theory has yet been successfully formulated, and the unification remains an unsolved problem in physics.
+
+
+
+Contents
+
+
+1 History
+2 Details
+
+2.1 Behavior of the strong force
+2.2 Residual strong force
+
+
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+History[edit]
+Before the 1970s, physicists were uncertain as to how the atomic nucleus was bound together. It was known that the nucleus was composed of protons and neutrons and that protons possessed positive electric charge, while neutrons were electrically neutral. By the understanding of physics at that time, positive charges would repel one another and the positively charged protons should cause the nucleus to fly apart. However, this was never observed. New physics was needed to explain this phenomenon.
+A stronger attractive force was postulated to explain how the atomic nucleus was bound despite the protons' mutual electromagnetic repulsion. This hypothesized force was called the strong force, which was believed to be a fundamental force that acted on the protons and neutrons that make up the nucleus.
+It was later discovered that protons and neutrons were not fundamental particles, but were made up of constituent particles called quarks. The strong attraction between nucleons was the side-effect of a more fundamental force that bound the quarks together into protons and neutrons. The theory of quantum chromodynamics explains that quarks carry what is called a color charge, although it has no relation to visible color.[4] Quarks with unlike color charge attract one another as a result of the strong interaction, and the particle that mediated this was called the gluon.
+Details[edit]
+
+
+
+
+The fundamental couplings of the strong interaction, from left to right: gluon radiation, gluon splitting and gluon self-coupling.
+
+
+The word strong is used since the strong interaction is the "strongest" of the four fundamental forces. At a distance of 1 femtometer (1 fm = 10−15 meters) or less, its strength is around 137 times that of the electromagnetic force, some 106 times as great as that of the weak force, and about 1038 times that of gravitation.
+Behavior of the strong force[edit]
+The strong force is described by quantum chromodynamics (QCD), a part of the standard model of particle physics. Mathematically, QCD is a non-Abelian gauge theory based on a local (gauge) symmetry group called SU(3).
+Quarks and gluons are the only fundamental particles that carry non-vanishing color charge, and hence they participate in strong interactions only with each other. The strong force is the expression of the gluon interaction with other quark and gluon particles.
+All quarks and gluons in QCD interact with each other through the strong force. The strength of interaction is parametrized by the strong coupling constant. This strength is modified by the gauge color charge of the particle, a group theoretical property.
+The strong force acts between quarks. Unlike all other forces (electromagnetic, weak, and gravitational), the strong force does not diminish in strength with increasing distance between pairs of quarks. After a limiting distance (about the size of a hadron) has been reached, it remains at a strength of about 10,000 newtons (N), no matter how much farther the distance between the quarks.[5] As the separation between the quarks grows, the energy added to the pair creates new pairs of matching quarks between the original two; hence it is impossible to create separate quarks. The explanation is that the amount of work done against a force of 10,000 newtons is enough to create particle-antiparticle pairs within a very short distance of that interaction. The very energy added to the system required to pull two quarks apart would create a pair of new quarks that will pair up with the original ones. In QCD, this phenomenon is called color confinement; as a result only hadrons, not individual free quarks, can be observed. The failure of all experiments that have searched for free quarks is considered to be evidence of this phenomenon.
+The elementary quark and gluon particles involved in a high energy collision are not directly observable. The interaction produces jets of newly created hadrons that are observable. Those hadrons are created, as a manifestation of mass-energy equivalence, when sufficient energy is deposited into a quark-quark bond, as when a quark in one proton is struck by a very fast quark of another impacting proton during a particle accelerator experiment. However, quark–gluon plasmas have been observed.[6]
+Every quark in the universe does not attract every other quark in the above distance independent manner, since color-confinement implies that the strong force acts without distance-diminishment only between pairs of quarks, and that in collections of bound quarks (i.e., hadrons), the net color-charge of the quarks essentially cancels out, resulting in a limit of the action of the forces. Collections of quarks (hadrons) therefore appear nearly without color-charge, and the strong force is therefore nearly absent between those hadrons except that the cancellation is not quite perfect. A residual force remains (described below) known as the residual strong force. This residual force does diminish rapidly with distance, and is thus very short-range (effectively a few femtometers). It manifests as a force between the "colorless" hadrons, and is sometimes known as the strong nuclear force or simply nuclear force.
+Residual strong force[edit]
+Main article: Nuclear force
+
+
+
+
+An animation of the nuclear force (or residual strong force) interaction between a proton and a neutron. The small colored double circles are gluons, which can be seen binding the proton and neutron together. These gluons also hold the quark-antiquark combination called the pion together, and thus help transmit a residual part of the strong force even between colorless hadrons. Anticolors are shown as per this diagram. For a larger version, click here
+
+
+The residual effect of the strong force is called the nuclear force. The nuclear force acts between hadrons, known as mesons and baryons. This "residual strong force", acting indirectly, transmits gluons that form part of the virtual π and ρ mesons, which, in turn, transmit the force between nucleons that holds the nucleus (beyond protium) together.
+The residual strong force is thus a minor residuum of the strong force that binds quarks together into protons and neutrons. This same force is much weaker between neutrons and protons, because it is mostly neutralized within them, in the same way that electromagnetic forces between neutral atoms (van der Waals forces) are much weaker than the electromagnetic forces that hold electrons in association with the nucleus, forming the atoms.[7]
+Unlike the strong force itself, the residual strong force, does diminish in strength, and it in fact diminishes rapidly with distance. The decrease is approximately as a negative exponential power of distance, though there is no simple expression known for this; see Yukawa potential. The rapid decrease with distance of the attractive residual force and the less-rapid decrease of the repulsive electromagnetic force acting between protons within a nucleus, causes the instability of larger atomic nuclei, such as all those with atomic numbers larger than 82 (the element lead).
+See also[edit]
+
+
+Physics portal
+
+
+
+Nuclear binding energy
+Color charge
+Coupling constant
+Nuclear physics
+QCD matter
+Quantum field theory and Gauge theory
+Standard model of particle physics and Standard Model (mathematical formulation)
+Weak interaction, electromagnetism and gravity
+Intermolecular force
+Vortex
+Yukawa interaction
+
+References[edit]
+
+
+
+^ Relative strength of interaction varies with distance. See for instance Matt Strassler's essay, "The strength of the known forces".
+^ on Binding energy: see Binding Energy, Mass Defect, Furry Elephant physics educational site, retr 2012-07-01
+^ on Binding energy: see Chapter 4 NUCLEAR PROCESSES, THE STRONG FORCE[permanent dead link], M. Ragheb 1/27/2012, University of Illinois
+^ Feynman, R. P. (1985). QED: The Strange Theory of Light and Matter. Princeton University Press. p. 136. ISBN 0-691-08388-6. The idiot physicists, unable to come up with any wonderful Greek words anymore, call this type of polarization by the unfortunate name of 'color', which has nothing to do with color in the normal sense. 
+^ Fritzsch, op. cite, p. 164. The author states that the force between differently colored quarks remains constant at any distance after they travel only a tiny distance from each other, and is equal to that need to raise one ton, which is 1000 kg × 9.8 m/s² = ~10,000 N.
+^ "Quark-gluon plasma is the most primordial state of matter". About.com Education. Retrieved 2017-01-16. 
+^ Fritzsch, H. (1983). Quarks: The Stuff of Matter. Basic Books. pp. 167–168. ISBN 978-0-465-06781-7. 
+
+
+
+Further reading[edit]
+
+Christman, J. R. (2001). "MISN-0-280: The Strong Interaction" (PDF). Project PHYSNET.  External link in |work= (help)
+Griffiths, David (1987). Introduction to Elementary Particles. John Wiley & Sons. ISBN 0-471-60386-4. 
+Halzen, F.; Martin, A. D. (1984). Quarks and Leptons: An Introductory Course in Modern Particle Physics. John Wiley & Sons. ISBN 0-471-88741-2. 
+Kane, G. L. (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 0-201-11749-5. 
+Morris, R. (2003). The Last Sorcerers: The Path from Alchemy to the Periodic Table. Joseph Henry Press. ISBN 0-309-50593-3. 
+
+External links[edit]
+
+Strong force at Encyclopædia Britannica
+
+
+
+
+
+
+
+v
+t
+e
+
+
+The fundamental interactions of physics
+
+
+
+
+Physical forces
+
+Strong interaction
+Weak interaction
+Electromagnetism
+Gravitation
+
+
+
+
+
+
+Radiations
+
+Electromagnetic radiation
+Gravitational radiation
+
+
+
+
+
+
+Hypothetical forces
+
+Quintessence
+Weak gravity conjecture
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4182921-9
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Strong_interaction&oldid=811812920"					
+Categories: Concepts in physicsQuantum chromodynamicsParticle physicsNuclear physicsHidden categories: All articles with dead external linksArticles with dead external links from August 2017Articles with permanently dead external linksArticles needing additional references from November 2015All articles needing additional referencesCS1 errors: external linksArticles with Encyclopædia Britannica linksWikipedia articles with GND identifiers 

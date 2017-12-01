@@ -1,0 +1,2648 @@
+History of technology - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the technology in human history. For the book series, see History of Technology (book series). For the academic discipline that studies the history of technology, see History of science and technology. For an account of the contemporary use of production techniques, see Technology. For a historical account of economically important technologies, see Productivity improving technologies (economic history). For other uses, see Technology (disambiguation).
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+History of technology
+
+
+
+
+By technological eras
+
+
+Neolithic Revolution
+Stone Age · Bronze Age · Iron Age
+Ancient Greek and Roman technology
+Medieval technology
+Renaissance technology
+Industrial Revolution ( Second )
+Atomic Age
+Jet Age
+Space Age
+Digital Revolution
+Information Age
+
+
+
+
+
+
+
+
+By historical regions
+
+
+Ancient Egypt
+Ancient Africa
+Ancient India
+Ancient China
+Ancient Greece
+Ancient Rome
+Maya civilization
+Byzantine Empire
+Medieval Europe
+Medieval Islamic world
+
+
+
+
+
+
+
+
+By type of technology
+
+
+History of agriculture
+History of biotechnology
+History of communication
+History of computer hardware
+History of electrical engineering
+History of manufacturing
+History of materials science
+History of measurement
+History of medicine
+History of nuclear technology
+History of transport
+
+
+
+
+
+
+
+
+Technology timelines
+
+
+Timeline of historic inventions
+Complete list by category
+
+
+
+
+
+
+
+
+article indices
+
+
+Outline of technology
+Outline of prehistoric technology
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+The wheel, invented sometime before the 4th millennium BC, is one of the most ubiquitous and important technologies. This detail of the "Standard of Ur", ca. 2500 BC., displays a Sumerian chariot
+
+
+The history of technology is the history of the invention of tools and techniques and is similar to other sides of the history of humanity. Technology can refer to methods ranging from as simple as language and stone tools to the complex genetic engineering and information technology that has emerged since the 1980s. The term technology comes from the Greek word techne, meaning art and craft, and the word logos, meaning word and speech. It was first used to describe applied arts, but it is now used to described advancements and changes that affects the environment around us.[1]
+New knowledge has enabled people to create new things, and conversely, many scientific endeavors are made possible by technologies which assist humans in traveling to places they could not previously reach, and by scientific instruments by which we study nature in more detail than our natural senses allow.
+Since much of technology is applied science, technical history is connected to the history of science. Since technology uses resources, technical history is tightly connected to economic history. From those resources, technology produces other resources, including technological artifacts used in everyday life.
+Technological change affects and is affected by, a society's cultural traditions. It is a force for economic growth and a means to develop and project economic, political, military power and wealth.
+
+
+
+Contents
+
+
+1 Measuring technological progress
+2 By period and geography
+
+2.1 Prehistory
+
+2.1.1 Stone Age
+2.1.2 Copper and bronze Ages
+2.1.3 Iron Age
+
+
+2.2 Ancient
+
+2.2.1 Egyptians
+2.2.2 Indus Valley
+2.2.3 Mesopotamians
+2.2.4 Chinese
+2.2.5 Greek
+2.2.6 Roman
+2.2.7 Inca and Mayan
+
+
+2.3 Medieval to early modern
+
+2.3.1 East Asia
+2.3.2 Indian subcontinent
+2.3.3 Islamic world
+2.3.4 Medieval Europe
+2.3.5 Renaissance technology
+2.3.6 Age of Exploration
+
+
+2.4 Industrial Revolution
+2.5 19th century
+2.6 20th century
+2.7 21st century
+
+
+3 By type
+
+3.1 Biotechnology
+3.2 Civil engineering
+3.3 Communication
+3.4 Computing
+3.5 Consumer technology
+3.6 Electrical engineering
+3.7 Energy
+3.8 Materials science
+3.9 Measurement
+3.10 Medicine
+3.11 Military
+3.12 Nuclear
+3.13 Science and technology
+3.14 Transport
+
+
+4 See also
+5 References
+6 Further reading
+7 External links
+
+
+
+Measuring technological progress[edit]
+Many sociologists and anthropologists have created social theories dealing with social and cultural evolution. Some, like Lewis H. Morgan, Leslie White, and Gerhard Lenski have declared technological progress to be the primary factor driving the development of human civilization. Morgan's concept of three major stages of social evolution (savagery, barbarism, and civilization) can be divided by technological milestones, such as fire. White argued the measure by which to judge the evolution of culture was energy.[2]
+For White, "the primary function of culture" is to "harness and control energy." White differentiates between five stages of human development: In the first, people use the energy of their own muscles. In the second, they use the energy of domesticated animals. In the third, they use the energy of plants (agricultural revolution). In the fourth, they learn to use the energy of natural resources: coal, oil, gas. In the fifth, they harness nuclear energy. White introduced a formula P=E*T, where E is a measure of energy consumed, and T is the measure of the efficiency of technical factors using the energy. In his own words, "culture evolves as the amount of energy harnessed per capita per year is increased, or as the efficiency of the instrumental means of putting the energy to work is increased". Nikolai Kardashev extrapolated his theory, creating the Kardashev scale, which categorizes the energy use of advanced civilizations.
+Lenski's approach focuses on information. The more information and knowledge (especially allowing the shaping of natural environment) a given society has, the more advanced it is. He identifies four stages of human development, based on advances in the history of communication. In the first stage, information is passed by genes. In the second, when humans gain sentience, they can learn and pass information through experience. In the third, the humans start using signs and develop logic. In the fourth, they can create symbols, develop language and writing. Advancements in communications technology translate into advancements in the economic system and political system, distribution of wealth, social inequality and other spheres of social life. He also differentiates societies based on their level of technology, communication, and economy:
+
+hunter-gatherer,
+simple agricultural,
+advanced agricultural,
+industrial,
+special (such as fishing societies).
+
+In economics, productivity is a measure of technological progress. Productivity increases when fewer inputs (labor, energy, materials or land) are used in the production of a unit of output. Another indicator of technological progress is the development of new products and services, which is necessary to offset unemployment that would otherwise result as labor inputs are reduced. In developed countries productivity growth has been slowing since the late 1970s; however, productivity growth was higher in some economic sectors, such as manufacturing.[3] For example, in employment in manufacturing in the United States declined from over 30% in the 1940s to just over 10% 70 years later. Similar changes occurred in other developed countries. This stage is referred to as post-industrial.
+In the late 1970s sociologists and anthropologists like Alvin Toffler (author of Future Shock), Daniel Bell and John Naisbitt have approached the theories of post-industrial societies, arguing that the current era of industrial society is coming to an end, and services and information are becoming more important than industry and goods. Some extreme visions of the post-industrial society, especially in fiction, are strikingly similar to the visions of near and post-Singularity societies.
+By period and geography[edit]
+
+
+
+
+Agriculture preceded writing in the history of technology.
+
+
+The following is a summary of the history of technology by time period and geography:
+
+
+Olduvai stone technology (Oldowan) 2.5 million years ago (scrapers; to butcher dead animals)
+Acheulean stone technology 1.6 million years ago (hand axe)
+Fire creation and manipulation, used since the Paleolithic, possibly by Homo erectus as early as 1.5 Million years ago
+(Homo sapiens sapiens - modern human anatomy arises, around 200,000 years ago.)
+Clothing possibly 170,000 years ago.
+Stone tools, used by Homo floresiensis, possibly 100,000 years ago.
+Ceramics c. 25,000 BC
+Domestication of animals, c. 15,000 BC
+Bow, sling c. 9th millennium BC
+Microliths c. 9th millennium BC
+6000 BCE Handmade bricks first used for construction in the Middle East
+Agriculture and Plough c. 4000 BC
+Wheel c. 4000 BC
+Gnomon c. 4000 BC
+Writing systems c. 3500 BC
+Copper c. 3000 BC
+Bronze c. 2500 BC
+Salt c. 2500 BC
+Chariot c. 2000 BC
+Iron c. 1500 BC
+Sundial c. 800 BC
+Glass ca. 500 BC
+Catapult c. 400 BC
+Horseshoe c. 300 BC
+Stirrup first few centuries AD
+
+
+Prehistory[edit]
+
+Human timeline
+
+view • discuss • edit
+
+-10 —
+–
+-9 —
+–
+-8 —
+–
+-7 —
+–
+-6 —
+–
+-5 —
+–
+-4 —
+–
+-3 —
+–
+-2 —
+–
+-1 —
+–
+0 —
+
+
+
+
+Human-like
+apes
+
+
+Nakalipithecus
+
+
+Ouranopithecus
+
+
+Sahelanthropus
+
+
+Orrorin
+
+
+Ardipithecus
+
+
+Australopithecus
+
+
+Homo habilis
+
+
+Homo erectus
+
+
+
+
+
+Neanderthal
+
+
+Homo sapiens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+←
+
+Earlier apes
+
+
+
+←
+
+Separation from gorillas
+
+
+
+←
+
+Possibly bipedal
+
+
+
+
+
+
+
+
+
+←
+
+Separation from chimpanzees
+
+
+
+
+
+
+←
+
+Earliest bipedal
+
+
+
+
+
+
+←
+
+Earliest stone tools
+
+
+
+
+
+
+←
+
+Earliest exit from Africa
+
+
+
+←
+
+Earliest fire use
+
+
+
+←
+
+Earliest in Europe
+
+
+
+←
+
+Earliest cooking
+
+
+
+←
+
+Earliest clothes
+
+
+
+←
+
+Modern speech
+
+
+
+
+
+
+←
+
+Modern humans
+
+
+
+
+
+P
+l
+e
+i
+s
+t
+o
+c
+e
+n
+e
+
+
+
+
+
+P
+l
+i
+o
+c
+e
+n
+e
+
+
+
+
+
+M
+i
+o
+c
+e
+n
+e
+
+
+
+
+
+H
+
+o
+
+m
+
+i
+
+n
+
+i
+
+d
+
+s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Axis scale: millions of years ago.
+Also see: Life timeline and Nature timeline
+
+Main article: Prehistoric technology
+Stone Age[edit]
+Main article: Stone Age
+
+
+
+
+A variety of stone tools
+
+
+During most of the Paleolithic - the bulk of the Stone Age - all humans had a lifestyle which involved limited tools and few permanent settlements. The first major technologies were tied to survival, hunting, and food preparation. Stone tools and weapons, fire, and clothing were technological developments of major importance during this period.
+Human ancestors have been using stone and other tools since long before the emergence of Homo sapiens approximately 200,000 years ago.[4] The earliest methods of stone tool making, known as the Oldowan "industry", date back to at least 2.3 million years ago,[5] with the earliest direct evidence of tool usage found in Ethiopia within the Great Rift Valley, dating back to 2.5 million years ago.[6] This era of stone tool use is called the Paleolithic, or "Old stone age", and spans all of human history up to the development of agriculture approximately 12,000 years ago.
+To make a stone tool, a "core" of hard stone with specific flaking properties (such as flint) was struck with a hammerstone. This flaking produced sharp edges which could be used as tools, primarily in the form of choppers or scrapers.[7] These tools greatly aided the early humans in their hunter-gatherer lifestyle to perform a variety of tasks including butchering carcasses (and breaking bones to get at the marrow); chopping wood; cracking open nuts; skinning an animal for its hide, and even forming other tools out of softer materials such as bone and wood.[8]
+The earliest stone tools were irrelevant, being little more than a fractured rock. In the Acheulian era, beginning approximately 1.65 million years ago, methods of working these stone into specific shapes, such as hand axes emerged. This early Stone Age is described as the Lower Paleolithic.
+The Middle Paleolithic, approximately 300,000 years ago, saw the introduction of the prepared-core technique, where multiple blades could be rapidly formed from a single core stone.[7] The Upper Paleolithic, beginning approximately 40,000 years ago, saw the introduction of pressure flaking, where a wood, bone, or antler punch could be used to shape a stone very finely.[9]
+The end of the last Ice Age about 10,000 years ago is taken as the end point of the Upper Paleolithic and the beginning of the Epipaleolithic / Mesolithic. The Mesolithic technology included the use of microliths as composite stone tools, along with wood, bone, and antler tools.
+The later Stone Age, during which the rudiments of agricultural technology were developed, is called the Neolithic period. During this period, polished stone tools were made from a variety of hard rocks such as flint, jade, jadeite, and greenstone, largely by working exposures as quarries, but later the valuable rocks were pursued by tunneling underground, the first steps in mining technology. The polished axes were used for forest clearance and the establishment of crop farming and were so effective as to remain in use when bronze and iron appeared. These stone axes were used alongside a continued use of stone tools such as a range of projectiles, knives, and scrapers, as well as tools, made organic materials such as wood, bone, and antler.[10]
+Stone Age cultures developed music and engaged in organized warfare. Stone Age humans developed ocean-worthy outrigger canoe technology, leading to migration across the Malay archipelago, across the Indian Ocean to Madagascar and also across the Pacific Ocean, which required knowledge of the ocean currents, weather patterns, sailing, and celestial navigation.
+Although Paleolithic cultures left no written records, the shift from nomadic life to settlement and agriculture can be inferred from a range of archaeological evidence. Such evidence includes ancient tools,[11] cave paintings, and other prehistoric art, such as the Venus of Willendorf. Human remains also provide direct evidence, both through the examination of bones, and the study of mummies. Scientists and historians have been able to form significant inferences about the lifestyle and culture of various prehistoric peoples, and especially their technology.
+Copper and bronze Ages[edit]
+Main article: Bronze Age
+
+
+
+
+A late Bronze Age sword or dagger blade
+
+
+The Stone Age developed into the Bronze Age after the Neolithic Revolution. The Neolithic Revolution involved radical changes in agricultural technology which included the development of agriculture, animal domestication, and the adoption of permanent settlements. These combined factors made possible the development of metal smelting, with copper and later bronze, an alloy of tin and copper, being the materials of choice, although polished stone tools continued to be used for a considerable time owing to their abundance compared with the less common metals (especially tin).
+This technological trend apparently began in the Fertile Crescent and spread outward over time. These developments were not, and still are not, universal. The three-age system does not accurately describe the technology history of groups outside of Eurasia, and does not apply at all in the case of some isolated populations, such as the Spinifex People, the Sentinelese, and various Amazonian tribes, which still make use of Stone Age technology, and have not developed agricultural or metal technology.
+Iron Age[edit]
+Main article: Iron Age
+
+
+
+
+An axehead made of iron, dating from the Swedish Iron Age
+
+
+The Iron age involved the adoption of iron smelting technology. It generally replaced bronze and made it possible to produce tools which were stronger, lighter and cheaper to make than bronze equivalents. In many Eurasian cultures, the Iron Age was the last major step before the development of written language, though again this was not universally the case. It was not possible to mass manufacture steel because high furnace temperatures were needed, but steel could be produced by forging bloomery iron to reduce the carbon content in a controllable way. Iron ores were much more widespread than either copper or tin. In Europe, large hill forts were built either as a refuge in time of war or sometimes as permanent settlements. In some cases, existing forts from the Bronze Age were expanded and enlarged. The pace of land clearance using the more effective iron axes increased, providing more farmland to support the growing population.
+Ancient[edit]
+Main article: Ancient technology
+It was the growth of the ancient civilizations which produced the greatest advances in technology and engineering, advances which stimulated other societies to adopt new ways of living and how they governed their people
+Egyptians[edit]
+The Egyptians invented and used many simple machines, such as the ramp to aid construction processes. Egyptian society made significant advances during dynastic periods in areas such as astronomy, mathematics, and medicine. They also made paper and monuments. The Egyptians made significant advances in shipbuilding. Astronomy was used by Egyptian leaders to govern people.
+Indus Valley[edit]
+The Indus Valley Civilization, situated in a resource-rich area, is notable for its early application of city planning and sanitation technologies. Indus Valley construction and architecture, called 'Vaastu Shastra', suggests a thorough understanding of materials engineering, hydrology, and sanitation.
+Mesopotamians[edit]
+The peoples of Mesopotamia (Sumerians, Akkadians, Assyrians, and Babylonians) have been credited with the invention of the wheel, but this is no longer certain. They lived in cities from c. 4000 BC,[12] and developed a sophisticated architecture in mud-brick and stone,[13] including the use of the true arch. The walls of Babylon were so massive they were quoted as a Wonder of the World. They developed extensive water systems; canals for transport and irrigation in the alluvial south, and catchment systems stretching for tens of kilometers in the hilly north. Their palaces had sophisticated drainage systems.[14]
+Writing was invented in Mesopotamia, using the cuneiform script. Many records on clay tablets and stone inscriptions have survived. These civilizations were early adopters of bronze technologies which they used for tools, weapons and monumental statuary. By 1200 BC they could cast objects 5 m long in a single piece. The Assyrian King Sennacherib (704-681 BC) claims to have invented automatic sluices and to have been the first to use water screws, of up to 30 tons weight, which were cast using two-part clay molds rather than by the 'lost wax' process.[14] The Jerwan Aqueduct (c. 688 BC) is made with stone arches and lined with waterproof concrete.[15]
+The Babylonian astronomical diaries spanned 800 years. They enabled meticulous astronomers to plot the motions of the planets and to predict eclipses.[16]
+Chinese[edit]
+The Chinese made many first-known discoveries and developments. Major technological contributions from China include early seismological detectors, matches, paper, sliding calipers, the double-action piston pump, cast iron, the iron plough, the multi-tube seed drill, the wheelbarrow, the suspension bridge, the parachute, natural gas as fuel, the compass, the raised-relief map, the propeller, the crossbow, the South Pointing Chariot and gunpowder.
+Other Chinese discoveries and inventions from the Medieval period, include block printing, movable type printing, phosphorescent paint, endless power chain drive and the clock escapement mechanism. The solid-fuel rocket was invented in China about 1150, nearly 200 years after the invention of gunpowder (which acted as the rocket's fuel). Decades before the West's age of exploration, the Chinese emperors of the Ming Dynasty also sent large fleets for maritime voyages, some reaching Africa.
+Greek[edit]
+
+
+
+
+An illustration of the aeolipile, the earliest steam-powered device
+
+
+Greek and Hellenistic engineers were responsible for myriad inventions and improvements to existing technology. The Hellenistic period, in particular, saw a sharp increase in technological advancement, fostered by a climate of openness to new ideas, the blossoming of a mechanistic philosophy, and the establishment of the Library of Alexandria and its close association with the adjacent museion. In contrast to the typically anonymous inventors of earlier ages, ingenious minds such as Archimedes, Philo of Byzantium, Heron, Ctesibius, and Archytas remain known by name to posterity.
+Ancient Greek innovations were particularly pronounced in mechanical technology, including the ground-breaking invention of the watermill which constituted the first human-devised motive force not to rely on muscle power (besides the sail). Apart from their pioneering use of waterpower, Greek inventors were also the first to experiment with wind power (see Heron's windwheel) and even created the earliest steam engine (the aeolipile), opening up entirely new possibilities in harnessing natural forces whose full potential would not be exploited until the Industrial Revolution. The newly devised right-angled gear and screw would become particularly important to the operation of mechanical devices. That is when the age of mechanical devices started.
+
+
+
+
+The compartmented water-wheel, here its overshot version, was invented in Hellenistic times.
+
+
+Ancient agriculture, as in any period prior to the modern age the primary mode of production and subsistence, and its irrigation methods, were considerably advanced by the invention and widespread application of a number of previously unknown water-lifting devices, such as the vertical water-wheel, the compartmented wheel, the water turbine, Archimedes' screw, the bucket-chain and pot-garland, the force pump, the suction pump, the double-action piston pump and quite possibly the chain pump.[17]
+In music, the water organ, invented by Ctesibius and subsequently improved, constituted the earliest instance of a keyboard instrument. In time-keeping, the introduction of the inflow clepsydra and its mechanization by the dial and pointer, the application of a feedback system and the escapement mechanism far superseded the earlier outflow clepsydra.
+The famous Antikythera mechanism, a kind of analogous computer working with a differential gear, and the astrolabe both show great refinement in astronomical science.
+Greek engineers were also the first to devise automata such as vending machines, suspended ink pots, automatic washstands, and doors, primarily as toys, which however featured many new useful mechanisms such as the cam and gimbals.
+In other fields, ancient Greek inventions include the catapult and the gastraphetes crossbow in warfare, hollow bronze-casting in metallurgy, the dioptra for surveying, in infrastructure the lighthouse, central heating, the tunnel excavated from both ends by scientific calculations, the ship trackway, the dry dock, and plumbing. In horizontal vertical and transport, great progress resulted from the invention of the crane, the winch, the wheelbarrow and the odometer.
+Further newly created techniques and items were spiral staircases, the chain drive, sliding calipers and showers.
+Roman[edit]
+
+
+
+
+Pont du Gard in France, a Roman aqueduct
+
+
+The Romans developed an intensive and sophisticated agriculture, expanded upon existing iron working technology, created laws providing for individual ownership, advanced stone masonry technology, advanced road-building (exceeded only in the 19th century), military engineering, civil engineering, spinning and weaving and several different machines like the Gallic reaper that helped to increase productivity in many sectors of the Roman economy. Roman engineers were the first to build monumental arches, amphitheatres, aqueducts, public baths, true arch bridges, harbours, reservoirs and dams, vaults and domes on a very large scale across their Empire. Notable Roman inventions include the book (Codex), glass blowing and concrete. Because Rome was located on a volcanic peninsula, with sand which contained suitable crystalline grains, the concrete which the Romans formulated was especially durable. Some of their buildings have lasted 2000 years, to the present day.
+Inca and Mayan[edit]
+The engineering skills of the Inca and the Mayans were great, even by today's standards. An example is the use of pieces weighing upwards of one ton in their stonework placed together so that not even a blade can fit in-between the cracks. The villages used irrigation canals and drainage systems, making agriculture very efficient. While some claim that the Incas were the first inventors of hydroponics, their agricultural technology was still soil based, if advanced. Though the Maya civilization had no metallurgy or wheel technology, they developed complex writing and astrological systems, and created sculptural works in stone and flint. Like the Inca, the Maya also had command of fairly advanced agricultural and construction technology. Throughout this time period, much of this construction was made only by women, as men of the Maya civilization believed that females were responsible for the creation of new things. The main contribution of the Aztec rule was a system of communications between the conquered cities. In Mesoamerica, without draft animals for transport (nor, as a result, wheeled vehicles), the roads were designed for travel on foot, just like the Inca and Mayan civilizations
+Medieval to early modern[edit]
+East Asia[edit]
+Main articles: History of science and technology in China, History of science and technology in Korea, and Science and technology in Japan
+See also: Science and technology of the Song dynasty, List of Chinese inventions, and List of Japanese inventions
+Indian subcontinent[edit]
+Main article: History of science and technology in the Indian subcontinent
+See also: List of Indian inventions and discoveries
+Islamic world[edit]
+Main articles: List of inventions in the medieval Islamic world, Arab Agricultural Revolution, and Science in the medieval Islamic world
+See also: Science and technology in Iran, Science and technology in the Ottoman Empire, and Islamic contributions to Medieval Europe
+As earlier empires had done, the Muslim caliphates united in trade large areas that had previously traded little. The conquered sometimes paid lower taxes than in their earlier independence, and ideas spread even more easily than goods. Peace was more frequent than it had been. These conditions fostered improvements in agriculture and other technology as well as in sciences which largely adapted from earlier Greek, Roman and Persian empires, with improvements.
+Medieval Europe[edit]
+
+
+
+
+Medieval counterweight trebuchet (reconstruction)
+
+
+Main article: Medieval technology
+European technology in the Middle Ages may be best described as a symbiosis of traditio et innovatio. While medieval technology has been long depicted as a step backwards in the evolution of Western technology, sometimes willfully so by modern authors intent on denouncing the church as antagonistic to scientific progress (see e.g. Myth of the Flat Earth), a generation of medievalists around the American historian of science Lynn White stressed from the 1940s onwards the innovative character of many medieval techniques. Genuine medieval contributions include for example mechanical clocks, spectacles and vertical windmills. Medieval ingenuity was also displayed in the invention of seemingly inconspicuous items like the watermark or the functional button. In navigation, the foundation to the subsequent age of exploration was laid by the introduction of pintle-and-gudgeon rudders, lateen sails, the dry compass, the horseshoe and the astrolabe.
+Significant advances were also made in military technology with the development of plate armour, steel crossbows, counterweight trebuchets and cannon. The Middle Ages are perhaps best known for their architectural heritage: While the invention of the rib vault and pointed arch gave rise to the high rising Gothic style, the ubiquitous medieval fortifications gave the era the almost proverbial title of the 'age of castles'.
+Papermaking, a 2nd-century Chinese technology, was carried to the Middle East when a group of Chinese papermakers were captured in the 8th century.[18] Papermaking technology was spread to Europe by the Umayyad conquest of Hispania.[19] A paper mill was established in Sicily in the 12th century. In Europe the fiber to make pulp for making paper was obtained from linen and cotton rags. Lynn White credited the spinning wheel with increasing the supply of rags, which led to cheap paper, which was a factor in the development of printing.[20]
+Renaissance technology[edit]
+Main article: Renaissance technology
+
+
+
+
+
+
+
+
+
+
+Dome of Florence Cathedral
+
+
+
+
+
+
+
+
+
+Design for a flying machine (c.1488) by da Vinci
+
+
+
+
+
+
+
+The era is marked by such profound technical advancements like linear perceptivity, double shell domes or Bastion fortresses. Note books of the Renaissance artist-engineers such as Taccola and Leonardo da Vinci give a deep insight into the mechanical technology then known and applied. Architects and engineers were inspired by the structures of Ancient Rome, and men like Brunelleschi created the large dome of Florence Cathedral as a result. He was awarded one of the first patents ever issued in order to protect an ingenious crane he designed to raise the large masonry stones to the top of the structure. Military technology developed rapidly with the widespread use of the cross-bow and ever more powerful artillery, as the city-states of Italy were usually in conflict with one another. Powerful families like the Medici were strong patrons of the arts and sciences. Renaissance science spawned the Scientific Revolution; science and technology began a cycle of mutual advancement.
+The invention of the movable cast metal type printing press, whose pressing mechanism was adapted from an olive screw press, (c. 1441) lead to a tremendous increase in the number of books and the number of titles published.
+Age of Exploration[edit]
+Main article: Age of Exploration
+An improved sailing ship, the (nau or carrack), enabled the Age of Exploration with the European colonization of the Americas, epitomized by Francis Bacon's New Atlantis. Pioneers like Vasco da Gama, Cabral, Magellan and Christopher Columbus explored the world in search of new trade routes for their goods and contacts with Africa, India and China to shorten the journey compared with traditional routes overland. They produced new maps and charts which enabled following mariners to explore further with greater confidence. Navigation was generally difficult, however, owing to the problem of longitude and the absence of accurate chronometers. European powers rediscovered the idea of the civil code, lost since the time of the Ancient Greeks.
+Industrial Revolution[edit]
+Main article: Industrial Revolution
+
+
+
+
+
+
+
+
+
+
+A Watt steam engine
+
+
+
+
+
+
+
+
+
+The Iron Bridge
+
+
+
+
+
+
+
+The British Industrial Revolution is characterized by developments in the areas of textile manufacturing, mining, metallurgy and transport driven by the development of the steam engine. Above all else, the revolution was driven by cheap energy in the form of coal, produced in ever-increasing amounts from the abundant resources of Britain. Coal converted to coke gave the blast furnace and cast iron in much larger amounts than before, and a range of structures could be created, such as The Iron Bridge. Cheap coal meant that industry was no longer constrained by water resources driving the mills, although it continued as a valuable source of power. The steam engine helped drain the mines, so more coal reserves could be accessed, and the output of coal increased. The development of the high-pressure steam engine made locomotives possible, and a transport revolution followed.[21]
+19th century[edit]
+See also: Second Industrial Revolution
+
+
+
+
+The preserved Rocket
+
+
+The 19th century saw astonishing developments in transportation, construction, manufacturing and communication technologies originating in Europe. The steam engine which had existed since the early 18th century, was practically applied to both steamboat and railway transportation. The Liverpool and Manchester Railway, the first purpose built railway line, opened in 1830, the Rocket locomotive of Robert Stephenson being one of its first working locomotives used. Telegraphy also developed into a practical technology in the 19th century to help run the railways safely. Along with the development of telegraphy was the patenting of the first telephone. March 1876 marks the date that Alexander Graham Bell officially patented his version of an "electric telegraph". Although Bell is noted with the creation of the telephone, it is still debated about who actually developed the first working model.[22]
+Other technologies were explored for the first time, including the incandescent light bulb. The invention of the incandescent light bulb had a profound effect on the workplace because factories could now have second and third shift workers. Manufacture of ships' pulley blocks by all-metal machines at the Portsmouth Block Mills instigated the age of mass production. Machine tools used by engineers to manufacture parts began in the first decade of the century, notably by Richard Roberts and Joseph Whitworth. The development of interchangeable parts through what is now called the American system of manufacturing began in the firearms industry at the U.S Federal arsenals in the early 19th century, and became widely used by the end of the century.
+Shoe production was mechanized and sewing machines introduced around the middle of the 19th century. Mass production of sewing machines and agricultural machinery such as reapers occurred in the mid to late 19th century. Bicycles were mass-produced beginning in the 1880s.
+Steam-powered factories became widespread, although the conversion from water power to steam occurred in England before in the U.S.
+Steamships were eventually completely iron-clad, and played a role in the opening of Japan and China to trade with the West. The Second Industrial Revolution at the end of the 19th century saw rapid development of chemical, electrical, petroleum, and steel technologies connected with highly structured technology research.
+The period from the last third of the 19th century until World War I is sometimes referred to as the Second Industrial Revolution.
+20th century[edit]
+
+
+
+
+Landing on the Moon
+
+
+20th century technology developed rapidly. Broad teaching and implementation of the scientific method, and increased research spending contributed to the advancement of modern science and technology. New technology improved communication and transport, thus spreading technical understanding.
+Mass production brought automobiles and other high-tech goods to masses of consumers. Military research and development sped advances including electronic computing and jet engines. Radio and telephony improved greatly and spread to larger populations of users, though near-universal access would not be possible until mobile phones became affordable to developing world residents in the late 2000s and early 2010s.
+Energy and engine technology improvements included nuclear power, developed after the Manhattan project which heralded the new Atomic Age. Rocket development led to long range missiles and the first space age that lasted from the 1950s with the launch of Sputnik to the mid-1980s.
+Electrification spread rapidly in the 20th century. At the beginning of the century electric power was for the most part only available to wealthy people in a few major cities such as New York, London, Paris, and Newcastle upon Tyne, but by the time the World Wide Web was invented in 1990 an estimated 62 percent of homes worldwide had electric power, including about a third of households in[23] the rural developing world.
+Birth control also became widespread during the 20th century. Electron microscopes were very powerful by the late 1970s and genetic theory and knowledge were expanding, leading to developments in genetic engineering.
+The first "test tube baby" Louise Brown was born in 1978, which led to the first successful gestational surrogacy pregnancy in 1985 and the first pregnancy by ICSI in 1991, which is the implanting of a single sperm into an egg. Preimplantation genetic diagnosis was first performed in late 1989 and led to successful births in July 1990. These procedures have become relatively common.
+The massive data analysis resources necessary for running transatlantic research programs such as the Human Genome Project and the Large Electron-Positron Collider led to a necessity for distributed communications, causing Internet protocols to be more widely adopted by researchers and also creating a justification for Tim Berners-Lee to create the World Wide Web.
+Vaccination spread rapidly to the developing world from the 1980s onward due to many successful humanitarian initiatives, greatly reducing childhood mortality in many poor countries with limited medical resources.
+The US National Academy of Engineering, by expert vote, established the following ranking of the most important technological developments of the 20th century:[24]
+
+
+Electrification
+Automobile
+Airplane
+Water supply and Distribution
+Electronics
+Radio and Television
+Mechanized agriculture
+Computers
+Telephone
+Air Conditioning and Refrigeration
+Highways
+Spacecraft
+Internet
+Imaging technology
+Household appliances
+Health technology
+Petroleum and Petrochemical technologies
+Laser and Fiber Optics
+Nuclear technology
+Materials science
+
+
+21st century[edit]
+
+
+
+
+The Mars Exploration Rovers have provided huge amounts of information by functioning well beyond NASA's original lifespan estimates.
+
+
+Main article: 2000s in science and technology
+In the early 21st century research is ongoing into quantum computers, gene therapy (introduced 1990), 3D printing (introduced 1981), nanotechnology (introduced 1985), bioengineering/biotechnology, nuclear technology, advanced materials (e.g., graphene), the scramjet and drones (along with railguns and high-energy laser beams for military uses), superconductivity, the memristor, and green technologies such as alternative fuels (e.g., fuel cells, self-driving electric and plug-in hybrid cars), augmented reality devices and wearable electronics, artificial intelligence, and more efficient and powerful LEDs, solar cells, integrated circuits, wireless power devices, engines, and batteries.
+Perhaps the greatest research tool built in the 21st century is the Large Hadron Collider, the largest single machine ever built. The understanding of particle physics is expected to expand with better instruments including larger particle accelerators such as the LHC[25] and better neutrino detectors. Dark matter is sought via underground detectors and observatories like LIGO have started to detect gravitational waves.
+Genetic engineering technology continues to improve, and the importance of epigenetics on development and inheritance has also become increasingly recognized.[26]
+New spaceflight technology and spacecraft are also being developed, like the Orion and Dragon. New, more capable space telescopes, such as the James Webb Telescope, to be launched to orbit in late 2018, and the Colossus Telescope are being designed. The International Space Station was completed in the 2000s, and NASA and ESA plan a manned mission to Mars in the 2030s. The Variable Specific Impulse Magnetoplasma Rocket (VASIMR) is an electro-magnetic thruster for spacecraft propulsion and is expected to be tested in 2015.
+Breakthrough Initiatives, together with famed physicist Stephen Hawking, plan to send the first ever spacecraft to visit another star, which will consist of numerous super-light chips driven by Electric propulsion in the 2030s, and receive images of the Proxima Centauri system, along with, possibly, the potentially habitable planet Proxima Centauri b, by midcentury[27].
+2004 saw the first manned commercial spaceflight when Mike Melvill crossed the boundary of space on June 21, 2004.
+By type[edit]
+
+
+
+
+
+
+This section is in a list format that may be better presented using prose. You can help by converting this section to prose, if appropriate. Editing help is available. (March 2015)
+
+
+
+Biotechnology[edit]
+Main article: History of biotechnology
+
+Timeline of agriculture and food technology
+
+Civil engineering[edit]
+Main articles: History of civil engineering and History of construction
+
+Civil engineering
+Architecture and building construction
+Bridges, harbors, tunnels, dams
+Surveying, instruments and maps, cartography, urban engineering, water supply and sewerage
+
+Communication[edit]
+Main article: History of communication
+
+
+Communications
+Writing systems
+Telecommunications
+History of mobile phones
+History of animation
+History of broadcasting
+History of radar
+History of radio
+Printing
+Cinema
+Radio
+Television
+Internet
+
+
+Computing[edit]
+Main article: History of computing
+
+
+History of computing hardware before 1960
+History of computing hardware (1960s–present)
+History of computer hardware in Soviet Bloc countries
+History of computer science
+History of operating systems
+History of software engineering
+History of programming languages
+History of artificial intelligence
+History of the graphical user interface
+History of the Internet
+History of the World Wide Web
+History of computer and video games
+
+
+Consumer technology[edit]
+
+
+Timeline of lighting technology
+History of textiles and clothing
+History of materials science
+Family and consumer science
+History of knitting
+History of lensmaking
+History of the chair
+History of the umbrella
+Manufacturing
+
+
+Electrical engineering[edit]
+Main article: History of electrical engineering
+
+Timeline of electrical and electronic engineering
+
+Energy[edit]
+Main article: History of energy
+
+
+Energy (History, Use by humans, See also)
+History of coal mining
+History of perpetual motion machines
+Timeline of heat engine technology
+Timeline of steam power
+Timeline of hydrogen technologies
+Timeline of alcohol fuel
+Timeline of nuclear fusion
+
+
+Materials science[edit]
+Main article: History of materials science
+
+Timeline of materials technology
+Metallurgy
+Materials and processing
+
+Measurement[edit]
+Main article: History of measurement
+
+History of time in the United States
+Timeline of time measurement technology
+
+Medicine[edit]
+Main article: History of medicine
+Military[edit]
+Main article: History of military technology
+
+Military history#Technological evolution
+Category:Military history – articles on history of specific technologies
+
+Nuclear[edit]
+Main article: Nuclear technology § History
+
+Manhattan Project
+Atomic Age
+Nuclear testing
+Nuclear arms race
+
+Science and technology[edit]
+Main article: History of science and technology
+
+
+History of telescopes
+Timeline of telescopes, observatories, and observing technology
+Timeline of microscope technology
+Timeline of particle physics technology
+Timeline of low-temperature technology
+Timeline of temperature and pressure measurement technology
+
+
+Transport[edit]
+Main articles: History of transport and Timeline of transportation technology
+
+
+History of the automobile
+Timeline of aviation
+Timeline of jet power
+Timeline of motor and engine technology
+Timeline of photography technology
+Timeline of rocket and missile technology
+Timeline of communication technology
+
+
+See also[edit]
+
+
+
+
+
+
+This "see also" section may contain an excessive number of suggestions. Please ensure that only the most relevant links are given, that they are not red links, and that any links are not already in this article. (April 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+Technology portal
+Science portal
+
+
+
+Related history
+
+
+History of science
+History of mathematics
+History of philosophy
+Outline of prehistoric technology
+Timeline of historic inventions
+
+
+Related disciplines
+
+
+
+List of independent discoveries
+Critique of technology
+Technical education
+Philosophy of technology
+History of science and technology (field of study)
+History of ideas (field of study)
+Technology Dynamics (field of study)
+Technology
+Engineering
+
+Mechanical engineering
+Electrical engineering
+Civil engineering
+Environmental engineering
+
+
+Science and technology in Canada
+
+
+
+Related subjects
+
+
+
+High technology
+Simple machine
+Deindustrialization
+Disruptive innovation
+List of technologies
+
+
+
+Related conceptions
+
+
+Historical materialism
+
+
+Future (speculative)
+
+
+
+Emerging technologies
+Futurology
+List of emerging technologies
+Technological singularity
+Technocapitalism
+Technological change
+Technological determinism
+Technology forecasting
+Robotics
+
+
+
+People
+
+
+List of engineers and list of inventors
+Biography of inventors and explorers
+Technical societies
+Technocracy
+Technology and society
+
+
+Historiography
+
+
+Kranzberg's laws of technology
+Lexikon der gesamten Technik
+Exploratory engineering
+
+
+Historians
+
+
+
+Johann Beckmann
+I. Bernard Cohen
+John L. Heilbron
+Thomas P. Hughes
+Daniel Kevles
+Melvin Kranzberg
+Thomas Kuhn
+Lewis Mumford
+Joseph Needham
+David Noble
+Abraham Pais
+George Sarton
+Charles Singer
+W. Patrick McCray
+Harry Lintsen
+
+
+
+Book series
+
+
+History of Technology
+
+
+Journals and periodicals
+
+
+History and Technology
+IEEE Annals of the History of Computing
+Technology and Culture
+Transactions of the Newcomen Society
+
+
+Notebooks
+
+
+Marx's notebooks on the history of technology
+
+
+Research institutes
+
+
+Bell Labs
+Charles Babbage Institute
+Max Planck Institute for the History of Science, Berlin
+
+References[edit]
+
+
+^ https://www.britannica.com/technology/history-of-technology
+^ Knight, Elliot; Smith, Karen. "American Materialism". The University of Alabama - Department of Anthropology. Retrieved 9 April 2015. 
+^ Bjork, Gordon J. (1999). The Way It Worked and Why It Won’t: Structural Change and the Slowdown of U.S. Economic Growth. Westport, CT; London: Praeger. pp. 2, 67. ISBN 0-275-96532-5. 
+^ "Human Ancestors Hall: Homo sapiens". Smithsonian Institution. Retrieved 8 December 2007. 
+^ "Ancient 'tool factory' uncovered". BBC News. 6 May 1999. Retrieved 18 February 2007. 
+^ Heinzelin, Jean de; Clark, JD; White, T; Hart, W; Renne, P; Woldegabriel, G; Beyene, Y; Vrba, E (April 1999). "Environment and Behavior of 2.5-Million-Year-Old Bouri Hominids". Science. 284 (5414): 625–629. doi:10.1126/science.284.5414.625. PMID 10213682. 
+^ a b Burke, Ariane. "Archaeology". Encyclopedia Americana. Archived from the original on 21 May 2008. Retrieved 17 May 2008. 
+^ Plummer, Thomas (2004). "Flaked Stones and Old Bones: Biological and Cultural Evolution at the Dawn of Technology" (47). Yearbook of Physical Anthropology. 
+^ Haviland, William A. (2004). Cultural Anthropology: The Human Challenge. The Thomson Corporation. p. 77. ISBN 0-534-62487-1. 
+^ Tóth, Zsuzsanna (2012). "The First Neolithic Sites in Central/South-East European Transect, Volume III: The Körös Culture in Eastern Hungary". In Anders, Alexandra; Siklósi, Zsuzsanna. Bone, Antler, and Tusk tools of the Early Neolithic Körös Culture. Oxford: BAR International Series 2334. 
+^ Lovgren, Stefan. "Ancient Tools Unearthed in Siberian Arctic". National Geographic News. National Geographic. Retrieved 7 April 2015. 
+^ JN Postgate, Early Mesopotamia, Routledge (1992)
+^ See entries under Nineveh and Babylon
+^ a b S Dalley, The Mystery of the Hanging Gardens of Babylon, Oxford University Press(2013)
+^ T Jacobsen and S Lloyd, Sennacherib's Aqueduct at Jerwan, Chicago University Press, (1935)
+^ CBF Walker, Astronomy before the telescope, British Museum Press, (1996)
+^ Oleson, John Peter Oleson (2000). "Water-Lifting". In Wikander, Örjan. Handbook of Ancient Water Technology. Technology and Change in History. 2. Leiden. pp. 217–302. ISBN 90-04-11123-9 
+^ "Timeline: 8th century". Oxford reference. HistoryWorld. Retrieved 9 April 2015. 
+^ de Safita, Neathery (July 2002). "A Brief History Of Paper". Retrieved 9 April 2015. 
+^ Marchetti, Cesare (1978). "A Postmortem Technology Assessment of the Spinning Wheel: The Last 1000 Years, Technological Forecasting and Social Change, 13; pp. 91-93" (PDF). 
+^ Griffin, Emma. "'The Mechanical Age': technology, innovation and industrialisation". Short History of the British Industrial Revolution. Palgrave. Retrieved 6 February 2013. 
+^ "Top 10 Greatest Inventions of the 19th Century - Toptenz.net". Toptenz.net. 2010-08-09. Retrieved 2017-10-04. 
+^ http://www.energyfordevelopment.com/2014/11/rural-electrification-by-numbers-1970_2.html
+^ "Greatest Engineering Achievements of the 20th Century". greatachievements.org. Retrieved 7 April 2015. 
+^ "World's Largest Science Experiment comes to Northern Ireland". Science & Technology Facilities Council. Archived from the original on 13 April 2015. Retrieved 9 April 2015. 
+^ http://discovermagazine.com/2006/nov/cover
+^ https://breakthroughinitiatives.org/Initiative/3
+
+
+Further reading[edit]
+
+
+Brush, S. G. (1988). The History of Modern Science: A Guide to the Second Scientific Revolution 1800-1950. Ames: Iowa State University Press.
+Bunch, Bryan and Hellemans, Alexander, (1993) The Timetables of Technology, New York, Simon & Schuster.
+Derry, Thomas Kingston and Williams, Trevor I., (1993) A Short History of Technology: From the Earliest Times to A.D. 1900. New York: Dover Publications.
+Greenwood, Jeremy (1997) The Third Industrial Revolution: Technology, Productivity and Income Inequality AEI Press.
+Kranzberg, Melvin and Pursell, Carroll W. Jr., eds. (1967)Technology in Western Civilization: Technology in the Twentieth Century New York: Oxford University Press.
+Landa, Manuel de, War in the Age of Intelligent Machines, 2001.
+McNeil, Ian (1990). An Encyclopedia of the History of Technology. London: Routledge. ISBN 0-415-14792-1. 
+Olby, R. C. et al., eds. (1996). Companion to the History of Modern Science. New York, Routledge.
+Pacey, Arnold, (1974, 2ed 1994),The Maze of Ingenuity, The MIT Press, Cambridge, Mass, 1974, [2ed 1994, cited here]
+Singer, C., Holmyard, E.J., Hall, A. R and Williams, T. I. (eds.), (1954–59 and 1978) A History of Technology, 7 vols., Oxford, Clarendon Press. (Vols 6 and 7, 1978, ed. T. I. Williams)
+Wilson, George (1855). What is Technology?: an inaugural lecture delivered in the University of Edinburgh on November 7, 1855 (1 ed.). Edinburgh: Sutherland and Knox. 
+
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: History of technology
+
+
+
+
+
+Wikimedia Commons has media related to History of technology.
+
+
+
+Electropaedia on the History of Technology
+MIT 6.933J – The Structure of Engineering Revolutions. From MIT OpenCourseWare, course materials (graduate level) for a course on the history of technology through a Thomas Kuhn-ian lens.
+Concept of Civilization Events. From Jaroslaw Kessler, a chronology of "civilizing events".
+Ancient and Medieval City Technology
+Society for the History of Technology
+
+
+
+
+
+
+
+v
+t
+e
+
+
+History of technology
+
+
+
+
+
+
+History of technology cultures
+
+
+Prehistoric technology
+Neolithic
+Ancient Egypt
+Mayan
+Ancient Greek
+Roman
+Chinese
+Byzantine
+Medieval Islam
+Medieval Europe
+Renaissance
+Ottoman
+Great Divergence
+Industrial Revolution
+Modern
+
+
+
+
+
+
+
+
+History of technology domains
+
+
+History of biotechnology
+History of communication
+History of computing hardware
+History of electrical engineering
+History of materials science
+History of measurement
+History of medicine
+History of nuclear technology
+History of transport
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Inventions and discoveries
+
+
+
+Lists of inventions or discoveries
+by country/region
+
+
+
+Australia
+Austria
+Azerbaijan
+Brazil
+Britain
+
+England
+Scotland
+
+
+Canada
+China
+
+inventions
+discoveries
+
+
+Croatia
+France
+Germany
+Greece
+India
+Indonesia
+Ireland
+Israel
+Italy
+Japan
+Korea
+Malaysia
+Mexico
+Netherlands
+Pakistan
+Philippines
+Poland
+Portugal
+
+inventions
+discoveries
+
+
+Russia
+Serbia
+South Africa
+Spain
+Switzerland
+Taiwan
+Thailand
+United States
+
+inventions
+
+before 1890
+1890–1945
+1946–1991
+after 1991
+
+
+discoveries
+
+
+
+
+
+
+
+by topic
+
+
+
+Discoveries
+
+chemistry
+cosmology
+multiple discoveries
+science
+
+
+Historic inventions
+
+Analog-to-digital
+Byzantine Empire
+Indus Valley
+Medieval Islamic
+Military
+Native American
+
+
+
+
+
+
+
+Lists of inventors or discoverers
+by country/region
+
+
+
+Worldwide
+African
+American
+
+African-American
+Puerto Rican
+
+
+Austrian
+British
+
+English
+Welsh
+
+
+Bulgarian
+German
+Italian
+New Zealander
+Polish
+Romanian
+Russian
+Serbian
+Spanish
+Swedish
+Swiss
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Prehistoric technology
+
+
+
+
+
+
+Prehistory
+
+timeline
+outline
+Stone Age
+subdivisions
+New Stone Age
+synoptic table
+
+
+Technology
+
+history
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+
+
+Farming
+
+
+
+Neolithic Revolution
+
+founder crops
+New World crops
+
+
+Ard / plough
+Celt
+Digging stick
+Domestication
+Goad
+Irrigation
+Secondary products
+Sickle
+Terracing
+
+
+
+
+
+Food processing
+
+
+
+Fire
+Basket
+Cooking
+
+Earth oven
+
+
+Granaries
+Grinding slab
+Ground stone
+Hearth
+
+Aşıklı Höyük
+Qesem Cave
+
+
+Manos
+Metate
+Mortar and pestle
+Pottery
+Quern-stone
+Storage pit
+
+
+
+
+
+Hunting
+
+
+
+
+
+
+
+Arrow
+Boomerang
+
+throwing stick
+
+
+Bow and arrow
+
+history
+
+
+Nets
+Spear
+
+Spear-thrower
+baton
+harpoon
+woomera
+Schöningen Spears
+
+
+
+
+
+
+
+Projectile points
+
+
+
+Arrowhead
+Bare Island
+Cascade
+Clovis
+Cresswell
+Cumberland
+Eden
+Folsom
+Lamoka
+Manis Site
+Plano
+Transverse arrowhead
+
+
+
+
+
+Systems
+
+
+
+Game drive system
+
+Buffalo jump
+
+
+
+
+
+
+
+
+
+
+Toolmaking
+
+
+
+Earliest toolmaking
+
+Oldowan
+Acheulean
+Mousterian
+
+
+Clovis culture
+Cupstone
+Fire hardening
+Gravettian culture
+Hafting
+Hand axe
+
+Grooves
+
+
+Langdale axe industry
+Levallois technique
+Lithic core
+Lithic reduction
+
+analysis
+debitage
+flake
+
+
+Lithic technology
+Magdalenian culture
+Metallurgy
+Microblade technology
+Mining
+Prepared-core technique
+Solutrean industry
+Striking platform
+Tool stone
+Uniface
+Yubetsu technique
+
+
+
+
+
+Other tools
+
+
+
+Adze
+Awl
+
+bone
+
+
+Axe
+Bannerstone
+Blade
+
+prismatic
+
+
+Bone tool
+Bow drill
+Burin
+Canoe
+
+Oar
+Pesse canoe
+
+
+Chopper
+
+tool
+
+
+Cleaver
+Denticulate tool
+Fire plough
+Fire-saw
+Hammerstone
+Knife
+Microlith
+Quern-stone
+Racloir
+Rope
+Scraper
+
+side
+
+
+Stone tool
+Tally stick
+Weapons
+Wheel
+
+illustration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Architecture
+
+
+
+
+
+
+
+Ceremonial
+
+
+
+Göbekli Tepe
+Kiva
+Standing stones
+
+megalith
+row
+Stonehenge
+
+
+Pyramid
+
+
+
+
+
+Dwellings
+
+
+
+Neolithic architecture
+British megalith architecture
+Nordic megalith architecture
+Burdei
+Cave
+Cliff dwelling
+Dugout
+Hut
+
+Quiggly hole
+
+
+Jacal
+Longhouse
+Mud brick
+
+Mehrgarh
+
+
+Neolithic long house
+Pit-house
+Pueblitos
+Pueblo
+Rock shelter
+
+Blombos Cave
+Abri de la Madeleine
+Sibudu Cave
+
+
+Stone roof
+Roundhouse
+Stilt house
+
+Alp pile dwellings
+
+
+Wattle and daub
+
+
+
+
+
+Water management
+
+
+
+Check dam
+Cistern
+Flush toilet
+Reservoir
+Water well
+
+
+
+
+
+Other architecture
+
+
+
+Archaeological features
+Broch
+Burnt mound
+
+fulacht fiadh
+
+
+Causewayed enclosure
+
+Tor enclosure
+
+
+Circular enclosure
+
+Goseck
+
+
+Cursus
+Henge
+
+Thornborough
+
+
+Oldest buildings
+Megalithic architectural elements
+Midden
+Timber circle
+Timber trackway
+
+Sweet Track
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arts and culture
+
+
+
+
+
+
+
+Material goods
+
+
+
+Baskets
+Beadwork
+Beds
+Chalcolithic
+Clothing/textiles
+
+timeline
+
+
+Cosmetics
+Glue
+Hides
+
+shoes
+Ötzi
+
+
+Jewelry
+
+amber use
+
+
+Mirrors
+Pottery
+
+Cardium
+Grooved ware
+Linear
+Jōmon
+Unstan ware
+
+
+Sewing needle
+Weaving
+Wine
+
+Winery
+wine press
+
+
+
+
+
+
+
+PrehistArt
+
+
+
+Art of the Upper Paleolithic
+Art of the Middle Paleolithic
+
+Blombos Cave
+
+
+List of Stone Age art
+Bird stone
+Bradshaw rock paintings
+Cairn
+Carved Stone Balls
+Cave paintings
+
+painting
+pigment
+
+
+Cup and ring mark
+Geoglyph
+Golden hats
+Guardian stones
+Megalithic art
+Petroform
+Petroglyph
+Petrosomatoglyph
+Pictogram
+Rock art
+
+Stone carving
+
+
+Sculpture
+Statue menhir
+Stone circle
+
+list
+British Isles and Brittany
+
+
+Venus figurines
+
+
+
+
+
+Burial
+
+
+
+Burial mounds
+
+Bowl barrow
+Round barrow
+
+
+Mound Builders culture
+
+U.S. sites
+
+
+Chamber tomb
+
+Severn-Cotswold
+
+
+Cist
+
+Dartmoor kistvaens
+
+
+Clava cairn
+Court tomb
+Cremation
+Dolmen
+
+Great dolmen
+
+
+Funeral pyre
+Gallery grave
+
+transepted
+wedge-shaped
+
+
+Grave goods
+Jar burial
+Long barrow
+
+unchambered
+Grønsalen
+
+
+Megalithic tomb
+Mummy
+Passage grave
+Rectangular dolmen
+Ring cairn
+Simple dolmen
+Stone box grave
+Tor cairn
+Tumulus
+Unchambered long cairn
+
+
+
+
+
+Other cultural
+
+
+
+Astronomy
+
+sites
+lunar calendar
+
+
+Behavioral modernity
+Origin of language
+Prehistoric medicine
+
+trepanning
+
+
+Evolutionary musicology
+
+music archaeology
+
+
+Prehistoric music
+
+Alligator drum
+flutes
+Divje Babe flute
+gudi
+
+
+Prehistoric numerals
+Origin of religion
+
+Paleolithic religion
+Prehistoric religion
+Spiritual drug use
+
+
+Prehistoric warfare
+Symbols
+
+symbolism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+History of science
+
+
+
+Background
+
+
+
+Theories and sociology
+Historiography
+Pseudoscience
+
+
+
+
+
+
+
+
+By era
+
+
+
+Early cultures
+Classical Antiquity
+The Golden Age of Islam
+Renaissance
+Scientific Revolution
+Romanticism
+
+
+
+
+
+By culture
+
+
+
+African
+Byzantine
+Medieval European
+Chinese
+Indian
+Medieval Islamic
+
+
+
+
+
+Natural sciences
+
+
+
+Astronomy
+Biology
+Botany
+Chemistry
+Ecology
+Evolution
+Geology
+Geophysics
+Paleontology
+Physics
+
+
+
+
+
+Mathematics
+
+
+
+Algebra
+Calculus
+Combinatorics
+Geometry
+Logic
+Probability
+Statistics
+Trigonometry
+
+
+
+
+
+Social sciences
+
+
+
+Anthropology
+Economics
+Geography
+Linguistics
+Political science
+Psychology
+Sociology
+Sustainability
+
+
+
+
+
+Technology
+
+
+
+Agricultural science
+Computer science
+Materials science
+Engineering
+
+
+
+
+
+Medicine
+
+
+
+Human medicine
+Veterinary medicine
+Anatomy
+Neuroscience
+Neurology
+Nutrition
+Pathology
+Pharmacy
+
+
+
+
+
+
+
+
+ Timelines
+ Portal
+ Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Science and technology studies
+
+
+
+Economics
+
+
+
+Economics of science
+Economics of scientific knowledge
+
+
+
+
+
+History
+
+
+
+History and philosophy of science
+History of science
+
+and technology
+
+
+History of technology
+
+
+
+
+
+Philosophy
+
+
+
+Antipositivism
+Empiricism
+Fuzzy logic
+Philosophy of science
+Philosophy of social science
+Philosophy of technology
+Positivism
+Postpositivism
+Social constructivism
+Social epistemology
+
+
+
+
+
+Sociology
+
+
+
+Actor–network theory
+Social
+
+construction of technology
+shaping of technology
+
+
+Sociology of knowledge
+
+scientific
+
+
+Sociology of scientific ignorance
+Sociology of the history of science
+Sociotechnology
+Strong programme
+
+
+
+
+
+Science
+studies
+
+
+
+Antiscience
+Bibliometrics
+Boundary-work
+Consilience
+Demarcation problem
+Double hermeneutic
+Mapping controversies
+Paradigm shift
+Pseudoscience
+Science
+
+citizen
+communication
+education
+normal
+post-normal
+rhetoric
+wars
+
+
+Scientific
+
+method
+consensus
+controversy
+enterprise
+misconduct
+
+
+Scientometrics
+Team science
+Traditional knowledge
+
+ecological
+
+
+Unity of science
+Women in science
+
+STEM
+
+
+
+
+
+
+
+Technology
+studies
+
+
+
+Coproduction
+Cyborg anthropology
+Digital anthropology
+Dematerialization
+Early adopter
+Hype cycle
+Innovation
+
+diffusion
+disruptive
+linear model
+system
+user
+
+
+Leapfrogging
+Normalization process theory
+Reverse salient
+Skunkworks project
+Sociotechnical system
+Technical change
+Technoscience
+
+feminist
+
+
+Technological
+
+change
+convergence
+determinism
+revolution
+transitions
+
+
+Technology
+
+and society
+critique of
+dynamics
+theories of
+transfer
+
+
+Engineering studies
+Women in engineering
+
+
+
+
+
+Policy
+
+
+
+Digital divide
+Evidence-based policy
+Factor 10
+Science policy
+
+history of
+science of
+
+
+Politicization of science
+Regulation of science
+Research ethics
+Socio-scientific issues
+Technology assessment
+Technology policy
+Transition management
+
+
+
+
+
+
+
+
+ Portals
+
+Science
+History of science
+Technology
+Sociology
+
+
+ Category
+
+Associations
+Journals
+Scholars
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Social sciences
+
+
+
+Primary
+
+
+
+Anthropology
+
+archaeology
+cultural
+linguistics
+social
+
+
+Economics
+
+microeconomics
+macroeconomics
+
+
+Geography
+
+human
+integrative
+
+
+History
+
+cultural
+economic
+military
+political
+social
+
+
+Law
+
+jurisprudence
+legal history
+legal systems
+
+
+Political science
+
+international relations
+psephology
+public administration
+public policy
+
+
+Psychology
+
+abnormal
+biological
+cognitive
+developmental
+personality
+social
+
+
+Sociology
+
+criminology
+demography
+internet
+rural
+urban
+
+
+
+
+
+
+
+Interdisciplinary
+
+
+
+Anthrozoology
+Area studies
+Business studies
+Cognitive science
+Communication studies
+Community studies
+Cultural studies
+Development studies
+Education
+Environmental (social science
+studies)
+Food studies
+Gender studies
+Global studies
+History of technology
+Human ecology
+Information science
+International studies
+Media studies
+Philosophy of science
+
+economics
+history
+psychology
+social science
+
+
+Planning
+
+land use
+regional
+urban
+
+
+Political ecology
+Political economy
+Public health
+Regional science
+Science and technology studies
+Science studies
+
+historical
+
+
+Social work
+
+
+
+
+
+Other categorizations
+
+
+
+Humanities
+Geisteswissenschaft
+Human science
+
+
+
+
+
+
+
+
+Index
+Journals
+Outline
+Wikiversity
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4139574-8
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=History_of_technology&oldid=812763016"					
+Categories: History of technologyHistory of science by disciplineHistory of industriesHidden categories: Articles with inconsistent citation formatsArticles needing additional references from April 2015All articles needing additional referencesArticles needing cleanup from March 2015All pages needing cleanupArticles with sections that need to be turned into prose from March 2015Articles with excessive see also sections from April 2015Wikipedia articles with GND identifiers 

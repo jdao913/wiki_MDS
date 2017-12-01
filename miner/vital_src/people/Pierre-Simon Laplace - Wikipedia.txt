@@ -1,0 +1,1825 @@
+Pierre-Simon Laplace - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+"Laplace" redirects here. For other uses, see Laplace (disambiguation).
+
+
+Pierre-Simon Laplace
+
+
+
+Pierre-Simon Laplace (1749–1827). Posthumous portrait by
+Jean-Baptiste Paulin Guérin, 1838.
+
+
+
+Born
+(1749-03-23)23 March 1749
+Beaumont-en-Auge, Normandy, Kingdom of France
+
+
+Died
+5 March 1827(1827-03-05) (aged 77)
+Royal College, Glasgow Bourbon France
+
+
+Nationality
+French
+
+
+Alma mater
+University of Caen
+
+
+Known for
+
+
+ 
+
+Work in celestial mechanics
+Predicting the existence of black holes[1]
+Bayesian inference
+Bayesian probability
+Laplace's equation
+Laplacian
+Laplace transform
+Inverse Laplace transform
+Laplace distribution
+Laplace's demon
+Laplace expansion
+Young–Laplace equation
+Laplace number
+Laplace limit
+Laplace invariant
+Laplace principle
+Laplace's principle of insufficient reason
+Laplace's method
+Laplace expansion
+Laplace force
+Laplace formula
+Laplace filter
+Laplace functional
+Laplacian matrix
+Laplace motion
+Laplace plane
+Laplace pressure
+Laplace resonance
+Laplace's spherical harmonics
+Laplace smoothing
+Laplace expansion
+Laplace expansion
+Laplace-Bayes estimator
+Laplace–Stieltjes transform
+Laplace–Runge–Lenz vector
+Nebular hypothesis
+
+
+
+
+
+Scientific career
+
+
+Fields
+Astronomer and mathematician
+
+
+Institutions
+École Militaire (1769–1776)
+
+
+Academic advisors
+Jean d'Alembert
+Christophe Gadbled
+Pierre Le Canu
+
+
+Doctoral students
+Siméon Denis Poisson
+
+
+
+
+
+Signature
+
+
+
+
+
+Pierre-Simon, marquis de Laplace (/ləˈplɑːs/; French: [pjɛʁ simɔ̃ laplas]; 23 March 1749 – 5 March 1827) was a French scholar whose work was important to the development of mathematics, statistics, physics and astronomy. He summarised and extended the work of his predecessors in his five-volume Mécanique Céleste (Celestial Mechanics) (1799–1825). This work translated the geometric study of classical mechanics to one based on calculus, opening up a broader range of problems. In statistics, the Bayesian interpretation of probability was developed mainly by Laplace.[2]
+Laplace formulated Laplace's equation, and pioneered the Laplace transform which appears in many branches of mathematical physics, a field that he took a leading role in forming. The Laplacian differential operator, widely used in mathematics, is also named after him. He restated and developed the nebular hypothesis of the origin of the Solar System and was one of the first scientists to postulate the existence of black holes and the notion of gravitational collapse.
+Laplace is remembered as one of the greatest scientists of all time. Sometimes referred to as the French Newton or Newton of France, he has been described as possessing a phenomenal natural mathematical faculty superior to that of any of his contemporaries.[3] He was Napoleon's examiner when Napoleon attended the Ecole Militaire in Paris in 1784. Laplace became a count of the Empire in 1806 and was named a marquis in 1817, after the Bourbon Restoration.
+
+
+
+Contents
+
+
+1 Early years
+2 Analysis, probability, and astronomical stability
+
+2.1 Stability of the Solar System
+
+
+3 Tidal dynamics
+
+3.1 The dynamic theory of tides
+3.2 Laplace's tidal equations
+
+
+4 On the figure of the Earth
+
+4.1 Spherical harmonics
+4.2 Potential theory
+
+
+5 Planetary and lunar inequalities
+
+5.1 Jupiter–Saturn great inequality
+5.2 Books
+
+
+6 Black holes
+7 Arcueil
+8 Analytic theory of probabilities
+
+8.1 Inductive probability
+8.2 Probability-generating function
+8.3 Least squares and central limit theorem
+
+
+9 Laplace's demon
+10 Laplace transforms
+11 Other discoveries and accomplishments
+
+11.1 Mathematics
+11.2 Surface tension
+11.3 Speed of sound
+
+
+12 Politics
+
+12.1 Minister of the Interior
+12.2 From Bonaparte to the Bourbons
+12.3 Political philosophy
+
+
+13 Death
+14 Religious opinions
+
+14.1 I had no need of that hypothesis
+14.2 Views on God
+14.3 Excommunication of a comet
+
+
+15 Honors
+16 Quotations
+17 Bibliography
+
+17.1 English translations
+
+
+18 See also
+19 References
+20 Sources
+21 External links
+
+
+
+Early years[edit]
+The original documents relating to the life of Laplace were lost when the family château of Saint-Julien de Mailloc, near Lisieux, the home of his great-great-grandson the Comte de Colbert-Laplace burned in 1925 and some had been destroyed earlier, when his house at Arcueil near Paris was looted by house breakers in 1871.[4] Laplace was born in Beaumont-en-Auge, Normandy on 23 March 1749, a village four miles west of Pont l'Eveque in Normandy. According to W. W. Rouse Ball,[5] his father, Pierre de Laplace, owned and farmed the small estates of Maarquis. His great-uncle, Maitre Oliver de Laplace, had held the title of Chirurgien Royal. It would seem that from a pupil he became an usher in the school at Beaumont; but, having procured a letter of introduction to d'Alembert, he went to Paris to advance his fortune. However, Karl Pearson[4] is scathing about the inaccuracies in Rouse Ball's account and states:
+
+Indeed Caen was probably in Laplace's day the most intellectually active of all the towns of Normandy. It was here that Laplace was educated and was provisionally a professor. It was here he wrote his first paper published in the Mélanges of the Royal Society of Turin, Tome iv. 1766–1769, at least two years before he went at 22 or 23 to Paris in 1771. Thus before he was 20 he was in touch with Lagrange in Turin. He did not go to Paris a raw self-taught country lad with only a peasant background! In 1765 at the age of sixteen Laplace left the "School of the Duke of Orleans" in Beaumont and went to the University of Caen, where he appears to have studied for five years and was a member of the Sphinx. The 'École Militaire' of Beaumont did not replace the old school until 1776.
+
+His parents were from comfortable families. His father was Pierre Laplace, and his mother was Marie-Anne Sochon. The Laplace family was involved in agriculture until at least 1750, but Pierre Laplace senior was also a cider merchant and syndic of the town of Beaumont.
+Pierre Simon Laplace attended a school in the village run at a Benedictine priory, his father intending that he be ordained in the Roman Catholic Church. At sixteen, to further his father's intention, he was sent to the University of Caen to read theology.[6]
+At the university, he was mentored by two enthusiastic teachers of mathematics, Christophe Gadbled and Pierre Le Canu, who awoke his zeal for the subject. Here Laplace's brilliance as a mathematician was quickly recognised and while still at Caen he wrote a memoir Sur le Calcul integral aux differences infiniment petites et aux differences finies. This provided the first intercourse between Laplace and Lagrange for Lagrange who was the senior by thirteen years, had recently founded in his native city of Turin a journal named Miscellanea Taurinensia, in which many of his other early works were printed and it was in the fourth volume of this series the Laplace's paper appeared. About this time, recognising that he had no vocation for the priesthood, he determined to become a professional mathematician. In this connection reference may perhaps be made to the statement, which has appeared in some notices of him, that he broke altogether with the church and became an atheist.[citation needed] Laplace did not graduate in theology but left for Paris with a letter of introduction from Le Canu to Jean le Rond d'Alembert who at that time was supreme in scientific circles.[6][7]
+According to his great-great-grandson,[4] d'Alembert received him rather poorly, and to get rid of him gave him a thick mathematics book, saying to come back when he had read it. When Laplace came back a few days later, d'Alembert was even less friendly and did not hide his opinion that it was impossible that Laplace could have read and understood the book. But upon questioning him, he realised that it was true, and from that time he took Laplace under his care.
+Another version is that Laplace solved overnight a problem that d'Alembert set him for submission the following week, then solved a harder problem the following night. D'Alembert was impressed and recommended him for a teaching place in the École Militaire.[8]
+With a secure income and undemanding teaching, Laplace now threw himself into original research and in the next seventeen years, 1771–1787, he produced much of his original work in astronomy.[9]
+Laplace further impressed the Marquis de Condorcet, and already in 1771 Laplace felt that he was entitled to membership of the French Academy of Sciences. However, in that year, admission went to Alexandre-Théophile Vandermonde and in 1772 to Jacques Antoine Joseph Cousin. Laplace was disgruntled, and at the beginning of 1773, d'Alembert wrote to Lagrange in Berlin to ask if a position could be found for Laplace there. However, Condorcet became permanent secretary of the Académie in February and Laplace was elected associate member on 31 March, at age 24.[10]
+On 15 March 1788,[11][4] at the age of thirty-nine, Laplace married Marie-Charlotte de Courty de Romanges, an eighteen year old woman from a 'good' family in Besançon.[12] The wedding was celebrated at Saint-Sulpice, Paris. The couple had a son, Charles-Émile (1789–1874), and a daughter, Sophie-Suzanne (1792–1813).[13][14]
+Analysis, probability, and astronomical stability[edit]
+Laplace's early published work in 1771 started with differential equations and finite differences but he was already starting to think about the mathematical and philosophical concepts of probability and statistics.[15] However, before his election to the Académie in 1773, he had already drafted two papers that would establish his reputation. The first, Mémoire sur la probabilité des causes par les événements was ultimately published in 1774 while the second paper, published in 1776, further elaborated his statistical thinking and also began his systematic work on celestial mechanics and the stability of the Solar System. The two disciplines would always be interlinked in his mind. "Laplace took probability as an instrument for repairing defects in knowledge."[16] Laplace's work on probability and statistics is discussed below with his mature work on the analytic theory of probabilities.
+Stability of the Solar System[edit]
+Sir Isaac Newton had published his Philosophiae Naturalis Principia Mathematica in 1687 in which he gave a derivation of Kepler's laws, which describe the motion of the planets, from his laws of motion and his law of universal gravitation. However, though Newton had privately developed the methods of calculus, all his published work used cumbersome geometric reasoning, unsuitable to account for the more subtle higher-order effects of interactions between the planets. Newton himself had doubted the possibility of a mathematical solution to the whole, even concluding that periodic divine intervention was necessary to guarantee the stability of the Solar System. Dispensing with the hypothesis of divine intervention would be a major activity of Laplace's scientific life.[17] It is now generally regarded that Laplace's methods on their own, though vital to the development of the theory, are not sufficiently precise to demonstrate the stability of the Solar System,[18] and indeed, the Solar System is understood to be chaotic, although it happens to be fairly stable.
+One particular problem from observational astronomy was the apparent instability whereby Jupiter's orbit appeared to be shrinking while that of Saturn was expanding. The problem had been tackled by Leonhard Euler in 1748 and Joseph Louis Lagrange in 1763 but without success.[19] In 1776, Laplace published a memoir in which he first explored the possible influences of a purported luminiferous ether or of a law of gravitation that did not act instantaneously. He ultimately returned to an intellectual investment in Newtonian gravity.[20] Euler and Lagrange had made a practical approximation by ignoring small terms in the equations of motion. Laplace noted that though the terms themselves were small, when integrated over time they could become important. Laplace carried his analysis into the higher-order terms, up to and including the cubic. Using this more exact analysis, Laplace concluded that any two planets and the sun must be in mutual equilibrium and thereby launched his work on the stability of the Solar System.[21] Gerald James Whitrow described the achievement as "the most important advance in physical astronomy since Newton".[17]
+Laplace had a wide knowledge of all sciences and dominated all discussions in the Académie.[22] Laplace seems to have regarded analysis merely as a means of attacking physical problems, though the ability with which he invented the necessary analysis is almost phenomenal. As long as his results were true he took but little trouble to explain the steps by which he arrived at them; he never studied elegance or symmetry in his processes, and it was sufficient for him if he could by any means solve the particular question he was discussing.[9]
+Tidal dynamics[edit]
+Main article: Theory of tides
+The dynamic theory of tides[edit]
+While Newton explained the tides by describing the tide-generating forces and Bernoulli gave a description of the static reaction of the waters on Earth to the tidal potential, the dynamic theory of tides, developed by Laplace in 1775,[23][24] describes the ocean's real reaction to tidal forces.[25] Laplace's theory of ocean tides took into account friction, resonance and natural periods of ocean basins. It predicted the large amphidromic systems in the world's ocean basins and explains the oceanic tides that are actually observed.[26][27]
+
+The equilibrium theory, based on the gravitational gradient from the Sun and Moon but ignoring the Earth's rotation, the effects of continents, and other important effects, could not explain the real ocean tides.[28][29][30][31][32][33][34][35][36]
+
+Since measurements have confirmed the theory, many things have possible explanations now, like how the tides interact with deep sea ridges and chains of seamounts give rise to deep eddies that transport nutrients from the deep to the surface.[37] The equilibrium tide theory calculates the height of the tide wave of less than half a meter, while the dynamic theory explains why tides are up to 15 meters.[38] Satellite observations confirm the accuracy of the dynamic theory, and the tides worldwide are now measured to within a few centimeters.[39][40] Measurements from the CHAMP satellite closely match the models based on the TOPEX data.[41][42][43] Accurate models of tides worldwide are essential for research since the variations due to tides must be removed from measurements when calculating gravity and changes in sea levels.[44]
+Laplace's tidal equations[edit]
+
+
+
+
+
+
+
+A. Lunar gravitational potential: this depicts the Moon directly over 30° N (or 30° S) viewed from above the Northern Hemisphere.
+
+
+
+
+
+
+
+
+B. This view shows same potential from 180° from view A. Viewed from above the Northern Hemisphere. Red up, blue down.
+
+
+
+
+
+In 1776, Laplace formulated a single set of linear partial differential equations, for tidal flow described as a barotropic two-dimensional sheet flow. Coriolis effects are introduced as well as lateral forcing by gravity. Laplace obtained these equations by simplifying the fluid dynamic equations. But they can also be derived from energy integrals via Lagrange's equation.
+For a fluid sheet of average thickness D, the vertical tidal elevation ζ, as well as the horizontal velocity components u and v (in the latitude φ and longitude λ directions, respectively) satisfy Laplace's tidal equations:[45]
+
+
+
+
+
+
+
+
+
+
+
+
+∂
+ζ
+
+
+∂
+t
+
+
+
+
+
+
++
+
+
+1
+
+a
+cos
+⁡
+(
+φ
+)
+
+
+
+
+[
+
+
+∂
+
+∂
+λ
+
+
+
+(
+u
+D
+)
++
+
+
+∂
+
+∂
+φ
+
+
+
+
+(
+v
+D
+cos
+⁡
+(
+φ
+)
+)
+
+]
+
+=
+0
+,
+
+
+
+
+
+
+
+∂
+u
+
+
+∂
+t
+
+
+
+
+
+
+−
+v
+
+(
+2
+Ω
+sin
+⁡
+(
+φ
+)
+)
+
++
+
+
+1
+
+a
+cos
+⁡
+(
+φ
+)
+
+
+
+
+
+∂
+
+∂
+λ
+
+
+
+
+(
+g
+ζ
++
+U
+)
+
+=
+0
+
+
+and
+
+
+
+
+
+
+
+
+∂
+v
+
+
+∂
+t
+
+
+
+
+
+
++
+u
+
+(
+2
+Ω
+sin
+⁡
+(
+φ
+)
+)
+
++
+
+
+1
+a
+
+
+
+
+∂
+
+∂
+φ
+
+
+
+
+(
+g
+ζ
++
+U
+)
+
+=
+0
+,
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}{\frac {\partial \zeta }{\partial t}}&+{\frac {1}{a\cos(\varphi )}}\left[{\frac {\partial }{\partial \lambda }}(uD)+{\frac {\partial }{\partial \varphi }}\left(vD\cos(\varphi )\right)\right]=0,\\[2ex]{\frac {\partial u}{\partial t}}&-v\left(2\Omega \sin(\varphi )\right)+{\frac {1}{a\cos(\varphi )}}{\frac {\partial }{\partial \lambda }}\left(g\zeta +U\right)=0\qquad {\text{and}}\\[2ex]{\frac {\partial v}{\partial t}}&+u\left(2\Omega \sin(\varphi )\right)+{\frac {1}{a}}{\frac {\partial }{\partial \varphi }}\left(g\zeta +U\right)=0,\end{aligned}}}
+
+
+
+where Ω is the angular frequency of the planet's rotation, g is the planet's gravitational acceleration at the mean ocean surface, a is the planetary radius, and U is the external gravitational tidal-forcing potential.
+William Thomson (Lord Kelvin) rewrote Laplace's momentum terms using the curl to find an equation for vorticity. Under certain conditions this can be further rewritten as a conservation of vorticity.
+On the figure of the Earth[edit]
+During the years 1784–1787 he published some memoirs of exceptional power. Prominent among these is one read in 1783, reprinted as Part II of Théorie du Mouvement et de la figure elliptique des planètes in 1784, and in the third volume of the Mécanique céleste. In this work, Laplace completely determined the attraction of a spheroid on a particle outside it. This is memorable for the introduction into analysis of spherical harmonics or Laplace's coefficients, and also for the development of the use of what we would now call the gravitational potential in celestial mechanics.
+Spherical harmonics[edit]
+
+
+Spherical harmonics.
+
+
+In 1783, in a paper sent to the Académie, Adrien-Marie Legendre had introduced what are now known as associated Legendre functions.[9] If two points in a plane have polar co-ordinates (r, θ) and (r ', θ'), where r ' ≥ r, then, by elementary manipulation, the reciprocal of the distance between the points, d, can be written as:
+
+
+
+
+
+
+
+1
+d
+
+
+=
+
+
+1
+
+r
+′
+
+
+
+
+
+[
+1
+−
+2
+cos
+⁡
+(
+
+θ
+′
+
+−
+θ
+)
+
+
+r
+
+r
+′
+
+
+
++
+
+
+(
+
+
+r
+
+r
+′
+
+
+
+)
+
+
+2
+
+
+]
+
+
+−
+
+
+
+1
+2
+
+
+
+
+
+.
+
+
+{\displaystyle {\frac {1}{d}}={\frac {1}{r'}}\left[1-2\cos(\theta '-\theta ){\frac {r}{r'}}+\left({\frac {r}{r'}}\right)^{2}\right]^{-{\tfrac {1}{2}}}.}
+
+
+
+This expression can be expanded in powers of r/r ' using Newton's generalised binomial theorem to give:
+
+
+
+
+
+
+
+1
+d
+
+
+=
+
+
+1
+
+r
+′
+
+
+
+
+∑
+
+k
+=
+0
+
+
+∞
+
+
+
+P
+
+k
+
+
+0
+
+
+(
+cos
+⁡
+(
+
+θ
+′
+
+−
+θ
+)
+)
+
+
+(
+
+
+r
+
+r
+′
+
+
+
+)
+
+
+k
+
+
+.
+
+
+{\displaystyle {\frac {1}{d}}={\frac {1}{r'}}\sum _{k=0}^{\infty }P_{k}^{0}(\cos(\theta '-\theta ))\left({\frac {r}{r'}}\right)^{k}.}
+
+
+
+The sequence of functions P0k(cosф) is the set of so-called "associated Legendre functions" and their usefulness arises from the fact that every function of the points on a circle can be expanded as a series of them.[9]
+Laplace, with scant regard for credit to Legendre, made the non-trivial extension of the result to three dimensions to yield a more general set of functions, the spherical harmonics or Laplace coefficients. The latter term is not in common use now .[9]
+Potential theory[edit]
+This paper is also remarkable for the development of the idea of the scalar potential.[9] The gravitational force acting on a body is, in modern language, a vector, having magnitude and direction. A potential function is a scalar function that defines how the vectors will behave. A scalar function is computationally and conceptually easier to deal with than a vector function.
+Alexis Clairaut had first suggested the idea in 1743 while working on a similar problem though he was using Newtonian-type geometric reasoning. Laplace described Clairaut's work as being "in the class of the most beautiful mathematical productions".[46] However, Rouse Ball alleges that the idea "was appropriated from Joseph Louis Lagrange, who had used it in his memoirs of 1773, 1777 and 1780".[9] The term "potential" itself was due to Daniel Bernoulli, who introduced it in his 1738 memoire Hydrodynamica. However, according to Rouse Ball, the term "potential function" was not actually used (to refer to a function V of the coordinates of space in Laplace's sense) until George Green's 1828 An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism.[47][48]
+Laplace applied the language of calculus to the potential function and showed that it always satisfies the differential equation:[9]
+
+
+
+
+
+
+∇
+
+2
+
+
+V
+=
+
+
+
+
+∂
+
+2
+
+
+V
+
+
+∂
+
+x
+
+2
+
+
+
+
+
++
+
+
+
+
+∂
+
+2
+
+
+V
+
+
+∂
+
+y
+
+2
+
+
+
+
+
++
+
+
+
+
+∂
+
+2
+
+
+V
+
+
+∂
+
+z
+
+2
+
+
+
+
+
+=
+0.
+
+
+{\displaystyle \nabla ^{2}V={\partial ^{2}V \over \partial x^{2}}+{\partial ^{2}V \over \partial y^{2}}+{\partial ^{2}V \over \partial z^{2}}=0.}
+
+
+
+An analogous result for the velocity potential of a fluid had been obtained some years previously by Leonhard Euler.[49][50]
+Laplace's subsequent work on gravitational attraction was based on this result. The quantity ∇2V has been termed the concentration of V and its value at any point indicates the "excess" of the value of V there over its mean value in the neighbourhood of the point. Laplace's equation, a special case of Poisson's equation, appears ubiquitously in mathematical physics. The concept of a potential occurs in fluid dynamics, electromagnetism and other areas. Rouse Ball speculated that it might be seen as "the outward sign" of one of the a priori forms in Kant's theory of perception.[9]
+The spherical harmonics turn out to be critical to practical solutions of Laplace's equation. Laplace's equation in spherical coordinates, such as are used for mapping the sky, can be simplified, using the method of separation of variables into a radial part, depending solely on distance from the centre point, and an angular or spherical part. The solution to the spherical part of the equation can be expressed as a series of Laplace's spherical harmonics, simplifying practical computation.
+Planetary and lunar inequalities[edit]
+Jupiter–Saturn great inequality[edit]
+Laplace presented a memoir on planetary inequalities in three sections, in 1784, 1785, and 1786. This dealt mainly with the identification and explanation of the perturbations now known as the "great Jupiter–Saturn inequality". Laplace solved a longstanding problem in the study and prediction of the movements of these planets. He showed by general considerations, first, that the mutual action of two planets could never cause large changes in the eccentricities and inclinations of their orbits; but then, even more importantly, that peculiarities arose in the Jupiter–Saturn system because of the near approach to commensurability of the mean motions of Jupiter and Saturn.
+In this context commensurability means that the ratio of the two planets' mean motions is very nearly equal to a ratio between a pair of small whole numbers. Two periods of Saturn's orbit around the Sun almost equal five of Jupiter's. The corresponding difference between multiples of the mean motions, (2nJ − 5nS), corresponds to a period of nearly 900 years, and it occurs as a small divisor in the integration of a very small perturbing force with this same period. As a result, the integrated perturbations with this period are disproportionately large, about 0.8° degrees of arc in orbital longitude for Saturn and about 0.3° for Jupiter.
+Further developments of these theorems on planetary motion were given in his two memoirs of 1788 and 1789, but with the aid of Laplace's discoveries, the tables of the motions of Jupiter and Saturn could at last be made much more accurate. It was on the basis of Laplace's theory that Delambre computed his astronomical tables.[9]
+Books[edit]
+
+
+Classical mechanics
+
+
+
+
+
+
+
+
+
+F
+→
+
+
+
+=
+m
+
+
+
+a
+→
+
+
+
+
+
+{\displaystyle {\vec {F}}=m{\vec {a}}}
+
+
+Second law of motion
+
+
+
+
+
+
+History
+Timeline
+
+
+
+
+
+
+
+Branches
+
+
+
+Applied
+Celestial
+Continuum
+Dynamics
+Kinematics
+Kinetics
+Statics
+Statistical
+
+
+
+
+
+
+
+
+
+Fundamentals
+
+
+
+Acceleration
+Angular momentum
+Couple
+D'Alembert's principle
+Energy
+
+kinetic
+potential
+
+
+Force
+Frame of reference
+Impulse
+Inertia / Moment of inertia
+Mass
+
+Mechanical power
+Mechanical work
+
+Moment
+Momentum
+Space
+Speed
+Time
+Torque
+Velocity
+Virtual work
+
+
+
+
+
+
+
+
+
+Formulations
+
+
+
+Newton's laws of motion
+
+
+Analytical mechanics
+
+
+Lagrangian mechanics
+Hamiltonian mechanics
+Routhian mechanics
+Hamilton–Jacobi equation
+Appell's equation of motion
+Udwadia–Kalaba equation
+Koopman–von Neumann mechanics
+
+
+
+
+
+
+
+
+
+
+
+
+Core topics
+
+
+
+Damping (ratio)
+Displacement
+Equations of motion
+Euler's laws of motion
+Fictitious force
+Friction
+Harmonic oscillator
+
+
+
+Inertial / Non-inertial reference frame
+Mechanics of planar particle motion
+
+
+
+Motion (linear)
+Newton's law of universal gravitation
+Newton's laws of motion
+Relative velocity
+Rigid body
+
+dynamics
+Euler's equations
+
+
+Simple harmonic motion
+Vibration
+
+
+
+
+
+
+
+
+
+Rotation
+
+
+
+Circular motion
+Rotating reference frame
+Centripetal force
+Centrifugal force
+
+reactive
+
+
+Coriolis force
+Pendulum
+Tangential speed
+Rotational speed
+
+
+
+Angular acceleration / displacement / frequency / velocity
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Galileo
+Newton
+Kepler
+Horrocks
+Halley
+Euler
+d'Alembert
+Clairaut
+Lagrange
+Laplace
+Hamilton
+Poisson
+Daniel Bernoulli
+Johann Bernoulli
+Cauchy
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Laplace now set himself the task to write a work which should "offer a complete solution of the great mechanical problem presented by the Solar System, and bring theory to coincide so closely with observation that empirical equations should no longer find a place in astronomical tables." The result is embodied in the Exposition du système du monde and the Mécanique céleste.[9]
+The former was published in 1796, and gives a general explanation of the phenomena, but omits all details. It contains a summary of the history of astronomy. This summary procured for its author the honour of admission to the forty of the French Academy and is commonly esteemed one of the masterpieces of French literature, though it is not altogether reliable for the later periods of which it treats.[9]
+Laplace developed the nebular hypothesis of the formation of the Solar System, first suggested by Emanuel Swedenborg and expanded by Immanuel Kant, a hypothesis that continues to dominate accounts of the origin of planetary systems. According to Laplace's description of the hypothesis, the Solar System had evolved from a globular mass of incandescent gas rotating around an axis through its centre of mass. As it cooled, this mass contracted, and successive rings broke off from its outer edge. These rings in their turn cooled, and finally condensed into the planets, while the sun represented the central core which was still left. On this view, Laplace predicted that the more distant planets would be older than those nearer the sun.[9][51]
+As mentioned, the idea of the nebular hypothesis had been outlined by Immanuel Kant in 1755,[51] and he had also suggested "meteoric aggregations" and tidal friction as causes affecting the formation of the Solar System. Laplace was probably aware of this, but, like many writers of his time, he generally did not reference the work of others.[4]
+Laplace's analytical discussion of the Solar System is given in his Mécanique céleste published in five volumes. The first two volumes, published in 1799, contain methods for calculating the motions of the planets, determining their figures, and resolving tidal problems. The third and fourth volumes, published in 1802 and 1805, contain applications of these methods, and several astronomical tables. The fifth volume, published in 1825, is mainly historical, but it gives as appendices the results of Laplace's latest researches. Laplace's own investigations embodied in it are so numerous and valuable that it is regrettable to have to add that many results are appropriated from other writers with scanty or no acknowledgement, and the conclusions – which have been described as the organised result of a century of patient toil – are frequently mentioned as if they were due to Laplace.[9]
+Jean-Baptiste Biot, who assisted Laplace in revising it for the press, says that Laplace himself was frequently unable to recover the details in the chain of reasoning, and, if satisfied that the conclusions were correct, he was content to insert the constantly recurring formula, "Il est aisé à voir que..." ("It is easy to see that..."). The Mécanique céleste is not only the translation of Newton's Principia into the language of the differential calculus, but it completes parts of which Newton had been unable to fill in the details. The work was carried forward in a more finely tuned form in Félix Tisserand's Traité de mécanique céleste (1889–1896), but Laplace's treatise will always remain a standard authority.[9]
+Black holes[edit]
+Laplace also came close to propounding the concept of the black hole. He suggested that there could be massive stars whose gravity is so great that not even light could escape from their surface (see escape velocity).[52][1][53][54]
+Arcueil[edit]
+
+
+
+
+Laplace's house at Arcueil.
+
+
+Main article: Society of Arcueil
+In 1806, Laplace bought a house in Arcueil, then a village and not yet absorbed into the Paris conurbation. Claude Louis Berthollet was a neighbour—their gardens were not separated[55]—and the pair formed the nucleus of an informal scientific circle, latterly known as the Society of Arcueil. Because of their closeness to Napoleon, Laplace and Berthollet effectively controlled advancement in the scientific establishment and admission to the more prestigious offices. The Society built up a complex pyramid of patronage.[56] In 1806, Laplace was also elected a foreign member of the Royal Swedish Academy of Sciences.
+Analytic theory of probabilities[edit]
+In 1812, Laplace issued his Théorie analytique des probabilités in which he laid down many fundamental results in statistics. The first half of this treatise was concerned with probability methods and problems, the second half with statistical methods and applications. Laplace's proofs are not always rigorous according to the standards of a later day, and his perspective slides back and forth between the Bayesian and non-Bayesian views with an ease that makes some of his investigations difficult to follow, but his conclusions remain basically sound even in those few situations where his analysis goes astray.[57] In 1819, he published a popular account of his work on probability. This book bears the same relation to the Théorie des probabilités that the Système du monde does to the Méchanique céleste.[9]
+Inductive probability[edit]
+In his Essai philosophique sur les probabilités (1814), Laplace set out a mathematical system of inductive reasoning based on probability, which we would today recognise as Bayesian. He begins the text with a series of principles of probability, the first six being:
+
+Probability is the ratio of the "favored events" to the total possible events.
+The first principle assumes equal probabilities for all events. When this is not true, we must first determine the probabilities of each event. Then, the probability is the sum of the probabilities of all possible favoured events.
+For independent events, the probability of the occurrence of all is the probability of each multiplied together.
+For events not independent, the probability of event B following event A (or event A causing B) is the probability of A multiplied by the probability that A and B both occur.
+The probability that A will occur, given that B has occurred, is the probability of A and B occurring divided by the probability of B.
+Three corollaries are given for the sixth principle, which amount to Bayesian probability. Where event Ai ∈ {A1, A2, ...An} exhausts the list of possible causes for event B, Pr(B) = Pr(A1, A2, ..., An). Then
+
+
+
+
+
+
+
+
+
+
+Pr
+(
+
+A
+
+i
+
+
+∣
+B
+)
+=
+Pr
+(
+
+A
+
+i
+
+
+)
+
+
+
+Pr
+(
+B
+∣
+
+A
+
+i
+
+
+)
+
+
+
+∑
+
+j
+
+
+Pr
+(
+
+A
+
+j
+
+
+)
+Pr
+(
+B
+∣
+
+A
+
+j
+
+
+)
+
+
+
+.
+
+
+{\displaystyle \Pr(A_{i}\mid B)=\Pr(A_{i}){\frac {\Pr(B\mid A_{i})}{\sum _{j}\Pr(A_{j})\Pr(B\mid A_{j})}}.}
+
+
+
+
+
+
+
+One well-known formula arising from his system is the rule of succession, given as principle seven. Suppose that some trial has only two possible outcomes, labelled "success" and "failure". Under the assumption that little or nothing is known a priori about the relative plausibilities of the outcomes, Laplace derived a formula for the probability that the next trial will be a success.
+
+
+
+
+
+Pr
+(
+
+next outcome is success
+
+)
+=
+
+
+
+s
++
+1
+
+
+n
++
+2
+
+
+
+
+
+{\displaystyle \Pr({\text{next outcome is success}})={\frac {s+1}{n+2}}}
+
+
+
+where s is the number of previously observed successes and n is the total number of observed trials. It is still used as an estimator for the probability of an event if we know the event space, but have only a small number of samples.
+The rule of succession has been subject to much criticism, partly due to the example which Laplace chose to illustrate it. He calculated that the probability that the sun will rise tomorrow, given that it has never failed to in the past, was
+
+
+
+
+
+Pr
+(
+
+sun will rise tomorrow
+
+)
+=
+
+
+
+d
++
+1
+
+
+d
++
+2
+
+
+
+
+
+{\displaystyle \Pr({\text{sun will rise tomorrow}})={\frac {d+1}{d+2}}}
+
+
+
+where d is the number of times the sun has risen in the past. This result has been derided as absurd, and some authors have concluded that all applications of the Rule of Succession are absurd by extension. However, Laplace was fully aware of the absurdity of the result; immediately following the example, he wrote, "But this number [i.e., the probability that the sun will rise tomorrow] is far greater for him who, seeing in the totality of phenomena the principle regulating the days and seasons, realizes that nothing at the present moment can arrest the course of it."[58]
+Probability-generating function[edit]
+The method of estimating the ratio of the number of favourable cases to the whole number of possible cases had been previously indicated by Laplace in a paper written in 1779. It consists of treating the successive values of any function as the coefficients in the expansion of another function, with reference to a different variable. The latter is therefore called the probability-generating function of the former. Laplace then shows how, by means of interpolation, these coefficients may be determined from the generating function. Next he attacks the converse problem, and from the coefficients he finds the generating function; this is effected by the solution of a finite difference equation.[9]
+Least squares and central limit theorem[edit]
+The fourth chapter of this treatise includes an exposition of the method of least squares, a remarkable testimony to Laplace's command over the processes of analysis. In 1805 Legendre had published the method of least squares, making no attempt to tie it to the theory of probability. In 1809 Gauss had derived the normal distribution from the principle that the arithmetic mean of observations gives the most probable value for the quantity measured; then, turning this argument back upon itself, he showed that, if the errors of observation are normally distributed, the least squares estimates give the most probable values for the coefficients in regression situations. These two works seem to have spurred Laplace to complete work toward a treatise on probability he had contemplated as early as 1783.[57]
+In two important papers in 1810 and 1811, Laplace first developed the characteristic function as a tool for large-sample theory and proved the first general central limit theorem. Then in a supplement to his 1810 paper written after he had seen Gauss's work, he showed that the central limit theorem provided a Bayesian justification for least squares: if one were combining observations, each one of which was itself the mean of a large number of independent observations, then the least squares estimates would not only maximise the likelihood function, considered as a posterior distribution, but also minimise the expected posterior error, all this without any assumption as to the error distribution or a circular appeal to the principle of the arithmetic mean.[57] In 1811 Laplace took a different non-Bayesian tack. Considering a linear regression problem, he restricted his attention to linear unbiased estimators of the linear coefficients. After showing that members of this class were approximately normally distributed if the number of observations was large, he argued that least squares provided the "best" linear estimators. Here it is "best" in the sense that it minimised the asymptotic variance and thus both minimised the expected absolute value of the error, and maximised the probability that the estimate would lie in any symmetric interval about the unknown coefficient, no matter what the error distribution. His derivation included the joint limiting distribution of the least squares estimators of two parameters.[57]
+Laplace's demon[edit]
+Main article: Laplace's demon
+In 1814, Laplace published what is usually known as the first articulation of causal or scientific determinism:[59]
+
+We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.
+— Pierre Simon Laplace, A Philosophical Essay on Probabilities[60]
+
+This intellect is often referred to as Laplace's demon (in the same vein as Maxwell's demon) and sometimes Laplace's Superman (after Hans Reichenbach). Laplace, himself, did not use the word "demon", which was a later embellishment. As translated into English above, he simply referred to: "Une intelligence... Rien ne serait incertain pour elle, et l'avenir comme le passé, serait présent à ses yeux."
+Even though Laplace is known as the first to express such ideas about causal determinism, his view is very similar to the one proposed by Boscovich as early as 1763 in his book Theoria philosophiae naturalis.[61]
+Laplace transforms[edit]
+Main article: Laplace transform § History
+As early as 1744, Euler, followed by Lagrange, had started looking for solutions of differential equations in the form:[62]
+
+
+
+
+
+z
+=
+∫
+X
+(
+x
+)
+
+e
+
+a
+x
+
+
+
+d
+x
+
+ and 
+
+z
+=
+∫
+X
+(
+x
+)
+
+x
+
+a
+
+
+
+d
+x
+.
+
+
+{\displaystyle z=\int X(x)e^{ax}\,dx{\text{  and  }}z=\int X(x)x^{a}\,dx.}
+
+
+
+In 1785, Laplace took the key forward step in using integrals of this form to transform a whole difference equation, rather than simply as a form for the solution, and found that the transformed equation was easier to solve than the original.[63][64]
+Other discoveries and accomplishments[edit]
+Mathematics[edit]
+Amongst the other discoveries of Laplace in pure and applied mathematics are:
+
+Discussion, contemporaneously with Alexandre-Théophile Vandermonde, of the general theory of determinants, (1772);[9]
+Proof that every equation of an even degree must have at least one real quadratic factor;[9]
+Laplace's method for approximating integrals
+Solution of the linear partial differential equation of the second order;[9]
+He was the first to consider the difficult problems involved in equations of mixed differences, and to prove that the solution of an equation in finite differences of the first degree and the second order might always be obtained in the form of a continued fraction;[9] and
+In his theory of probabilities:
+
+de Moivre–Laplace theorem that approximates binomial distribution with a normal distribution
+Evaluation of several common definite integrals;[9] and
+General proof of the Lagrange reversion theorem.[9]
+
+
+
+Surface tension[edit]
+Main article: Young–Laplace equation § History
+Laplace built upon the qualitative work of Thomas Young to develop the theory of capillary action and the Young–Laplace equation.
+Speed of sound[edit]
+Laplace in 1816 was the first to point out that the speed of sound in air depends on the heat capacity ratio. Newton's original theory gave too low a value, because it does not take account of the adiabatic compression of the air which results in a local rise in temperature and pressure. Laplace's investigations in practical physics were confined to those carried on by him jointly with Lavoisier in the years 1782 to 1784 on the specific heat of various bodies.[9]
+Politics[edit]
+Minister of the Interior[edit]
+In his early years Laplace was careful never to become involved in politics, or indeed in life outside the Académie des sciences. He prudently withdrew from Paris during the most violent part of the Revolution.[65]
+In November 1799, immediately after seizing power in the coup of 18 Brumaire, Napoleon appointed Laplace to the post of Minister of the Interior. The appointment, however, lasted only six weeks, after which Lucien, Napoleon's brother, was given the post. Evidently, once Napoleon's grip on power was secure, there was no need for a prestigious but inexperienced scientist in the government.[66] Napoleon later (in his Mémoires de Sainte Hélène) wrote of Laplace's dismissal as follows:[9]
+
+Géomètre de premier rang, Laplace ne tarda pas à se montrer administrateur plus que médiocre; dès son premier travail nous reconnûmes que nous nous étions trompé. Laplace ne saisissait aucune question sous son véritable point de vue: il cherchait des subtilités partout, n'avait que des idées problématiques, et portait enfin l'esprit des 'infiniment petits' jusque dans l'administration.
+(Geometrician of the first rank, Laplace was not long in showing himself a worse than average administrator; from his first actions in office we recognized our mistake. Laplace did not consider any question from the right angle: he sought subtleties everywhere, conceived only problems, and finally carried the spirit of "infinitesimals" into the administration.)
+
+Grattan-Guinness, however, describes these remarks as "tendentious", since there seems to be no doubt that Laplace "was only appointed as a short-term figurehead, a place-holder while Napoleon consolidated power".[66]
+From Bonaparte to the Bourbons[edit]
+
+
+
+
+Laplace.
+
+
+Although Laplace was removed from office, it was desirable to retain his allegiance. He was accordingly raised to the senate, and to the third volume of the Mécanique céleste he prefixed a note that of all the truths therein contained the most precious to the author was the declaration he thus made of his devotion towards the peacemaker of Europe. In copies sold after the Bourbon Restoration this was struck out. (Pearson points out that the censor would not have allowed it anyway.) In 1814 it was evident that the empire was falling; Laplace hastened to tender his services to the Bourbons, and in 1817 during the Restoration he was rewarded with the title of marquis.
+According to Rouse Ball, the contempt that his more honest colleagues felt for his conduct in the matter may be read in the pages of Paul Louis Courier. His knowledge was useful on the numerous scientific commissions on which he served, and, says Rouse Ball, probably accounts for the manner in which his political insincerity was overlooked.[9]
+Roger Hahn disputes this portrayal of Laplace as an opportunist and turncoat, pointing out that, like many in France, he had followed the debacle of Napoleon's Russian campaign with serious misgivings. The Laplaces, whose only daughter Sophie had died in childbirth in September 1813, were in fear for the safety of their son Émile, who was on the eastern front with the emperor. Napoleon had originally come to power promising stability, but it was clear that he had overextended himself, putting the nation at peril. It was at this point that Laplace's loyalty began to weaken. Although he still had easy access to Napoleon, his personal relations with the emperor cooled considerably. As a grieving father, he was particularly cut to the quick by Napoleon's insensitivity in an exchange related by Jean-Antoine Chaptal: "On his return from the rout in Leipzig, he [Napoleon] accosted Mr Laplace: 'Oh! I see that you have grown thin—Sire, I have lost my daughter—Oh! that's not a reason for losing weight. You are a mathematician; put this event in an equation, and you will find that it adds up to zero.'"[67]
+Political philosophy[edit]
+In the second edition (1814) of the Essai philosophique, Laplace added some revealing comments on politics and governance. Since it is, he says, "the practice of the eternal principles of reason, justice and humanity that produce and preserve societies, there is a great advantage to adhere to these principles, and a great inadvisability to deviate from them".[68][69] Noting "the depths of misery into which peoples have been cast" when ambitious leaders disregard these principles, Laplace makes a veiled criticism of Napoleon's conduct: "Every time a great power intoxicated by the love of conquest aspires to universal domination, the sense of liberty among the unjustly threatened nations breeds a coalition to which it always succumbs." Laplace argues that "in the midst of the multiple causes that direct and restrain various states, natural limits" operate, within which it is "important for the stability as well as the prosperity of empires to remain". States that transgress these limits cannot avoid being "reverted" to them, "just as is the case when the waters of the seas whose floor has been lifted by violent tempests sink back to their level by the action of gravity".[70][71]
+About the political upheavals he had witnessed, Laplace formulated a set of principles derived from physics to favour evolutionary over revolutionary change:
+
+Let us apply to the political and moral sciences the method founded upon observation and calculation, which has served us so well in the natural sciences. Let us not offer fruitless and often injurious resistance to the inevitable benefits derived from the progress of enlightenment; but let us change our institutions and the usages that we have for a long time adopted only with extreme caution. We know from past experience the drawbacks they can cause, but we are unaware of the extent of ills that change may produce. In the face of this ignorance, the theory of probability instructs us to avoid all change, especially to avoid sudden changes which in the moral as well as the physical world never occur without a considerable loss of vital force.[72]
+
+In these lines, Laplace expressed the views he had arrived at after experiencing the Revolution and the Empire. He believed that the stability of nature, as revealed through scientific findings, provided the model that best helped to preserve the human species. "Such views," Hahn comments, "were also of a piece with his steadfast character."[71]
+Death[edit]
+Laplace died in Paris in 1827. His brain was removed by his physician, François Magendie, and kept for many years, eventually being displayed in a roving anatomical museum in Britain. It was reportedly smaller than the average brain.[4] Laplace was buried at Père Lachaise in Paris but in 1888 his remains were moved to Saint Julien de Mailloc in the canton of Orbec and reinterred on the family estate.[73] The tomb is situated on a hill overlooking the village of St Julien de Mailloc, Normandy, France.
+
+
+
+
+Tomb of Pierre-Simon Laplace
+
+
+Religious opinions[edit]
+I had no need of that hypothesis[edit]
+A frequently cited but apocryphal interaction between Laplace and Napoleon purportedly concerns the existence of God. A typical version is provided by Rouse Ball:[9]
+
+Laplace went in state to Napoleon to present a copy of his work, and the following account of the interview is well authenticated, and so characteristic of all the parties concerned that I quote it in full. Someone had told Napoleon that the book contained no mention of the name of God; Napoleon, who was fond of putting embarrassing questions, received it with the remark, 'M. Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator.' Laplace, who, though the most supple of politicians, was as stiff as a martyr on every point of his philosophy, drew himself up and answered bluntly, Je n'avais pas besoin de cette hypothèse-là. ("I had no need of that hypothesis.") Napoleon, greatly amused, told this reply to Lagrange, who exclaimed, Ah! c'est une belle hypothèse; ça explique beaucoup de choses. ("Ah, it is a fine hypothesis; it explains many things.")
+
+An earlier report, although without the mention of Laplace's name, is found in Antommarchi's The Last Moments of Napoleon (1825):[74]
+
+Je m'entretenais avec L...... je le félicitais d'un ouvrage qu'il venait de publier et lui demandais comment le nom de Dieu, qui se reproduisait sans cesse sous la plume de Lagrange, ne s'était pas présenté une seule fois sous la sienne. C'est, me répondit-il, que je n'ai pas eu besoin de cette hypothèse. ("While speaking with L...... I congratulated him on a work which he had just published and asked him how the name of God, which appeared endlessly in the works of Lagrange, didn't occur even once in his. He replied that he had no need of that hypothesis.")
+
+In 1884, however, the astronomer Hervé Faye[75][76] affirmed that this account of Laplace's exchange with Napoleon presented a "strangely transformed" (étrangement transformée) or garbled version of what had actually happened. It was not God that Laplace had treated as a hypothesis, but merely his intervention at a determinate point:
+
+In fact Laplace never said that. Here, I believe, is what truly happened. Newton, believing that the secular perturbations which he had sketched out in his theory would in the long run end up destroying the Solar System, says somewhere that God was obliged to intervene from time to time to remedy the evil and somehow keep the system working properly. This, however, was a pure supposition suggested to Newton by an incomplete view of the conditions of the stability of our little world. Science was not yet advanced enough at that time to bring these conditions into full view. But Laplace, who had discovered them by a deep analysis, would have replied to the First Consul that Newton had wrongly invoked the intervention of God to adjust from time to time the machine of the world (la machine du monde) and that he, Laplace, had no need of such an assumption. It was not God, therefore, that Laplace treated as a hypothesis, but his intervention in a certain place.
+
+Laplace's younger colleague, the astronomer François Arago, who gave his eulogy before the French Academy in 1827,[77] told Faye that the garbled version of Laplace's interaction with Napoleon was already in circulation towards the end of Laplace's life. Faye writes:[75][76]
+
+I have it on the authority of M. Arago that Laplace, warned shortly before his death that that anecdote was about to be published in a biographical collection, had requested him [Arago] to demand its deletion by the publisher. It was necessary to either explain or delete it, and the second way was the easiest. But, unfortunately, it was neither deleted nor explained.
+
+The Swiss-American historian of mathematics Florian Cajori appears to have been unaware of Faye's research, but in 1893 he came to a similar conclusion.[78] Stephen Hawking said in 1999,[59] "I don't think that Laplace was claiming that God does not exist. It's just that he doesn't intervene, to break the laws of Science."
+The only eyewitness account of Laplace's interaction with Napoleon is from the entry for 8 August 1802 in the diary of the British astronomer Sir William Herschel:[79]
+
+The first Consul then asked a few questions relating to Astronomy and the construction of the heavens to which I made such answers as seemed to give him great satisfaction. He also addressed himself to Mr Laplace on the same subject, and held a considerable argument with him in which he differed from that eminent mathematician. The difference was occasioned by an exclamation of the first Consul, who asked in a tone of exclamation or admiration (when we were speaking of the extent of the sidereal heavens): 'And who is the author of all this!' Mons. De la Place wished to shew that a chain of natural causes would account for the construction and preservation of the wonderful system. This the first Consul rather opposed. Much may be said on the subject; by joining the arguments of both we shall be led to 'Nature and nature's God'.
+
+Since this makes no mention of Laplace saying, "I had no need of that hypothesis," Daniel Johnson[80] argues that "Laplace never used the words attributed to him." Arago's testimony, however, appears to imply that he did, only not in reference to the existence of God.
+Views on God[edit]
+Born a Catholic, Laplace appears for most of his life to have veered between deism (presumably his considered position, since it is the only one found in his writings) and atheism.
+Faye thought that Laplace "did not profess atheism",[75] but Napoleon, on Saint Helena, told General Gaspard Gourgaud, "I often asked Laplace what he thought of God. He owned that he was an atheist."[81] Roger Hahn, in his biography of Laplace, mentions a dinner party at which "the geologist Jean-Étienne Guettard was staggered by Laplace's bold denunciation of the existence of God". It appeared to Guettard that Laplace's atheism "was supported by a thoroughgoing materialism".[82] But the chemist Jean-Baptiste Dumas, who knew Laplace well in the 1820s, wrote that Laplace "provided materialists with their specious arguments, without sharing their convictions".[83][84]
+Hahn states: "Nowhere in his writings, either public or private, does Laplace deny God's existence."[85] Expressions occur in his private letters that appear inconsistent with atheism.[3] On 17 June 1809, for instance, he wrote to his son, "Je prie Dieu qu'il veille sur tes jours. Aie-Le toujours présent à ta pensée, ainsi que ton père et ta mère [I pray that God watches over your days. Let Him be always present to your mind, as also your father and your mother]."[76][86] Ian S. Glass, quoting Herschel's account of the celebrated exchange with Napoleon, writes that Laplace was "evidently a deist like Herschel".[87]
+In Exposition du système du monde, Laplace quotes Newton's assertion that "the wondrous disposition of the Sun, the planets and the comets, can only be the work of an all-powerful and intelligent Being".[88] This, says Laplace, is a "thought in which he [Newton] would be even more confirmed, if he had known what we have shown, namely that the conditions of the arrangement of the planets and their satellites are precisely those which ensure its stability".[89] By showing that the "remarkable" arrangement of the planets could be entirely explained by the laws of motion, Laplace had eliminated the need for the "supreme intelligence" to intervene, as Newton had "made" it do.[90] Laplace cites with approval Leibniz's criticism of Newton's invocation of divine intervention to restore order to the Solar System: "This is to have very narrow ideas about the wisdom and the power of God."[91] He evidently shared Leibniz's astonishment at Newton's belief "that God has made his machine so badly that unless he affects it by some extraordinary means, the watch will very soon cease to go".[92]
+In a group of manuscripts, preserved in relative secrecy in a black envelope in the library of the Académie des sciences and published for the first time by Hahn, Laplace mounted a deist critique of Christianity. It is, he writes, the "first and most infallible of principles ... to reject miraculous facts as untrue".[93] As for the doctrine of transubstantiation, it "offends at the same time reason, experience, the testimony of all our senses, the eternal laws of nature, and the sublime ideas that we ought to form of the Supreme Being". It is the sheerest absurdity to suppose that "the sovereign lawgiver of the universe would suspend the laws that he has established, and which he seems to have maintained invariably".[94]
+In old age, Laplace remained curious about the question of God[95] and frequently discussed Christianity with the Swiss astronomer Jean-Frédéric-Théodore Maurice.[96] He told Maurice that "Christianity is quite a beautiful thing" and praised its civilising influence. Maurice thought that the basis of Laplace's beliefs was, little by little, being modified, but that he held fast to his conviction that the invariability of the laws of nature did not permit of supernatural events.[95] After Laplace's death, Poisson told Maurice, "You know that I do not share your [religious] opinions, but my conscience forces me to recount something that will surely please you." When Poisson had complimented Laplace about his "brilliant discoveries", the dying man had fixed him with a pensive look and replied, "Ah! we chase after phantoms [chimères]."[97] These were his last words, interpreted by Maurice as a realisation of the ultimate "vanity" of earthly pursuits.[98] Laplace received the last rites from the curé of the Missions Étrangères (in whose parish he was to be buried)[84] and the curé of Arcueil.[98]
+However, according to his biographer, Roger Hahn, since it is "not credible" that Laplace "had a proper Catholic end", the "last rights" (sic) were ineffective and he "remained a skeptic" to the very end of his life.[99] Laplace in his last years has been described as an agnostic.[100][101][102]
+Excommunication of a comet[edit]
+In 1470 the humanist scholar Bartolomeo Platina wrote[103] that Pope Callixtus III had asked for prayers for deliverance from the Turks during a 1456 appearance of Halley's Comet. Platina's account does not accord with Church records, which do not mention the comet. Laplace is alleged to have embellished the story by claiming the Pope had "excommunicated" Halley's comet.[104] What Laplace actually said, in Exposition du système du monde (1796), was that the Pope had ordered the comet to be "exorcised" (conjuré). It was Arago, in Des Comètes en général (1832), who first spoke of an excommunication.[105][106][107]
+Honors[edit]
+
+Correspondent of the Royal Institute of the Netherlands in 1809.[108]
+Foreign Honorary Member of the American Academy of Arts and Sciences in 1822.[109]
+The asteroid 4628 Laplace is named for Laplace.[110]
+A spur of the Montes Jura on the moon is known as Promontorium Laplace.
+His name is one of the 72 names inscribed on the Eiffel Tower.
+The tentative working name of the European Space Agency Europa Jupiter System Mission is the "Laplace" space probe.
+A train station in the RER B in Arcueil bears his name
+
+Quotations[edit]
+
+
+
+
+
+
+This section contains too many quotations for an encyclopedic entry. Please help improve the article by presenting facts as a neutrally-worded summary with appropriate citations. Consider transferring direct quotations to Wikiquote. (August 2016)
+
+
+
+
+I had no need of that hypothesis. ("Je n'avais pas besoin de cette hypothèse-là", allegedly as a reply to Napoleon, who had asked why he hadn't mentioned God in his book on astronomy.)[9]
+It is therefore obvious that ... (Frequently used in the Celestial Mechanics when he had proved something and mislaid the proof, or found it clumsy. Notorious as a signal for something true, but hard to prove.)
+"We are so far from knowing all the agents of nature and their diverse modes of action that it would not be philosophical to deny phenomena solely because they are inexplicable in the actual state of our knowledge. But we ought to examine them with an attention all the more scrupulous as it appears more difficult to admit them."[111]
+
+This is restated in Theodore Flournoy's work From India to the Planet Mars as the Principle of Laplace or, "The weight of the evidence should be proportioned to the strangeness of the facts."[112]
+Most often repeated as "The weight of evidence for an extraordinary claim must be proportioned to its strangeness." (see also: Sagan standard)
+
+
+This simplicity of ratios will not appear astonishing if we consider that all the effects of nature are only mathematical results of a small number of immutable laws.[113]
+Infinitely varied in her effects, nature is only simple in her causes.[114]
+What we know is little, and what we are ignorant of is immense. (Fourier comments: "This was at least the meaning of his last words, which were articulated with difficulty.")[55]
+
+Bibliography[edit]
+
+Œuvres complètes de Laplace, 14 vol. (1878–1912), Paris: Gauthier-Villars (copy from Gallica in French)
+Théorie du movement et de la figure elliptique des planètes (1784) Paris (not in Œuvres complètes)
+Précis de l'histoire de l'astronomie
+
+English translations[edit]
+
+Bowditch, N. (trans.) (1829–1839) Mécanique céleste, 4 vols, Boston
+
+New edition by Reprint Services ISBN 0-7812-2022-X
+
+
+– [1829–1839] (1966–1969) Celestial Mechanics, 5 vols, including the original French
+Pound, J. (trans.) (1809) The System of the World, 2 vols, London: Richard Phillips
+_ The System of the World (v.1)
+_ The System of the World (v.2)
+– [1809] (2007) The System of the World, vol.1, Kessinger, ISBN 1-4326-5367-9
+Toplis, J. (trans.) (1814) A treatise upon analytical mechanics Nottingham: H. Barnett
+A Philosophical Essay on Probabilities. Translated by Truscott, F. W. & Emory, F. L. 2007 [1902]. ISBN 1-60206-328-1. , translated from the French 6th ed. (1840)
+
+A Philosophical Essay on Probabilities (1902) on the Internet Archive
+
+
+Philosophical Essay on Probabilities. Sources in the History of Mathematics and Physical Sciences. 13. Translated by Andrew I. Dale. Springer. 1995. doi:10.1007/978-1-4612-4184-3. ISBN 978-1-4612-8689-9. , translated from the French 5th ed. (1825)
+
+See also[edit]
+
+
+Mathematics portal
+Physics portal
+
+
+
+Laplace–Bayes estimator
+Ratio estimator
+List of things named after Pierre-Simon Laplace
+
+References[edit]
+
+
+^ a b S. W. Hawking and George F. R. Ellis, The Large Scale Structure of Space-Time, Cambridge University Press, 1973, p. 364.
+^ Stigler, Stephen M. (1986). The History of Statistics: The Measurement of Uncertainty before 1900. Harvard University Press, Chapter 3.
+^ a b [Anon.] (1911) "Pierre Simon, Marquis De Laplace", Encyclopædia Britannica
+^ a b c d e f "Laplace, being Extracts from Lectures delivered by Karl Pearson", Biometrika, vol. 21, December 1929, pp. 202–216.
+^ W. W. Rouse Ball A Short Account of the History of Mathematics, 4th edition, 1908.
+^ a b *O'Connor, John J.; Robertson, Edmund F., "Pierre-Simon Laplace", MacTutor History of Mathematics archive, University of St Andrews .. Retrieved 25 August 2007
+^ Edmund Whittaker (Vol. 33, No. 303 (Feb. 1949), pp. 1–12), "Laplace", The Mathematical Gazette.
+^ Gillispie (1997), pp. 3–4
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab Rouse Ball (1908)
+^ Gillispie (1997), p. 5
+^ Hahn (2005), p. 99. However, Gillispie (1997), p. 67, gives the month of the marriage as May.
+^ Hahn (2005), pp. 99–100
+^ Gillispie (1997), p. 67
+^ Hahn (2005), p. 101
+^ Gillispie (1989), pp. 7–12
+^ Gillispie (1989). pp. 14–15
+^ a b Whitrow (2001)
+^ Celletti, A. & Perozzi, E. (2007). Celestial Mechanics: The Waltz of the Planets. Berlin: Springer. pp. 91–93. ISBN 0-387-30777-X. 
+^ Whittaker (1949b)
+^ Gillispie (1989). pp. 29–35
+^ Gillispie (1989), pp. 35–36
+^ School of Mathematics and Statistics, University of St Andrews, Scotland.
+^ http://www.preservearticles.com/2011112017524/short-notes-on-the-dynamical-theory-of-laplace.html
+^ "Shelf and Coastal Oceanography". Es.flinders.edu.au. Retrieved 2012-06-02. 
+^ http://faculty.washington.edu/luanne/pages/ocean420/notes/tidedynamics.pdf
+^ http://www.pearsonhighered.com/samplechapter/0132401223.pdf
+^ http://ocean.kisti.re.kr/downfile/volume/kess/JGGHBA/2009/v30n5/JGGHBA_2009_v30n5_671.pdf
+^ Tidal theory website South African Navy Hydrographic Office
+^ "Dynamic theory for tides". Oberlin.edu. Retrieved 2012-06-02. 
+^ "Dynamic Theory of Tides". 
+^ http://www.pearsonhighered.com/samplechapter/0132401223.pdf
+^ "Dynamic Tides – In contrast to "static" theory, the dynamic theory of tides recognizes that water covers only three-quarters o". Web.vims.edu. Retrieved 2012-06-02. 
+^ "The Dynamic Theory of Tides". Coa.edu. Retrieved 2012-06-02. 
+^ https://beacon.salemstate.edu/~lhanson/gls214/gls214_tides
+^ "Tides – building, river, sea, depth, oceans, effects, important, largest, system, wave, effect, marine, Pacific". Waterencyclopedia.com. 2010-06-27. Retrieved 2012-06-02. 
+^ "TIDES". Ocean.tamu.edu. Retrieved 2012-06-02. 
+^ Floor Anthoni. "Tides". Seafriends.org.nz. Retrieved 2012-06-02. 
+^ "The Cause & Nature of Tides". 
+^ "Scientific Visualization Studio TOPEX/Poseidon images". Svs.gsfc.nasa.gov. Retrieved 2012-06-02. 
+^ "TOPEX/Poseidon Western Hemisphere: Tide Height Model : NASA/Goddard Space Flight Center Scientific Visualization Studio : Free Download & Streaming : Internet Archive". Archive.org. Retrieved 2012-06-02. 
+^ TOPEX data used to model actual tides for 15 days from the year 2000 |url=http://svs.gsfc.nasa.gov/vis/a000000/a001300/a001332/
+^ http://www.geomag.us/info/Ocean/m2_CHAMP+longwave_SSH.swf
+^ "OSU Tidal Data Inversion". Volkov.oce.orst.edu. Retrieved 2012-06-02. 
+^ "Dynamic and residual ocean tide analysis for improved GRACE de-aliasing (DAROTA)". 
+^ "The Laplace Tidal Equations and Atmospheric Tides" (PDF). 
+^ Grattan-Guinness, I. (2003). Companion Encyclopedia of the History and Philosophy of the Mathematical Sciences. Baltimore: Johns Hopkins University Press. pp. 1097–1098. ISBN 0-8018-7396-7. 
+^ W. W. Rouse Ball A Short Account of the History of Mathematics (4th edition, 1908)
+^ Green, G. (1828). An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism. Nottingham. arXiv:0807.0088 . Bibcode:2008arXiv0807.0088G. 
+^ Kline, Morris (1972). Mathematical thought from ancient to modern times. 2. Oxford University Press. pp. 524–525. ISBN 0-19-506136-5. 
+^ Euler, Leonhard (1757). "General principles of the motion of fluids". Novi. Comm. Acad. Sci. Petrop.: 271–311. 
+^ a b Owen, T. C. (2001) "Solar system: origin of the solar system", Encyclopædia Britannica, Deluxe CDROM edition
+^ Laplace, P.-S. (1799). Allgemeine geographische Ephemeriden herausgegeben von F. von Zach. IV. Band, I. Stück, I. Abhandlung, Weimar; translation in English: Hawking, Stephen W.; Ellis, George F. R. (1973). The Large Scale Structure of Space-Time. Cambridge University Press. pp. 365ff. ISBN 978-0-521-09906-6. .
+^ Colin Montgomery, Wayne Orchiston and Ian Whittingham, "Michell, Laplace and the origin of the Black Hole Concept", Journal of Astronomical History and Heritage, 12(2), 90–96 (2009).
+^ See Israel (1987), sec. 7.2.
+^ a b Fourier (1829)
+^ Crosland (1967), p. 1
+^ a b c d Stigler, 1975
+^ Laplace, Pierre Simon, A Philosophical Essay on Probabilities, translated from the 6th French edition by Frederick Wilson Truscott and Frederick Lincoln Emory. New York: John Wiley & Sons, 1902, p. 19. Dover Publications edition (New York, 1951) has same pagination.
+^ a b Hawking, Stephen (1999). "Does God Play Dice?". Public Lecture. Archived from the original on 8 July 2000. 
+^ Laplace, A Philosophical Essay, New York, 1902, p. 4.
+^ Cercignani, Carlo (1998). "Chapter 2: Physics before Boltzmann". Ludwig Boltzmann, The Man Who Trusted Atoms. Oxford University Press. p. 55. ISBN 0-19-850154-4. 
+^ Grattan-Guinness, in Gillispie (1997), p. 260
+^ Grattan-Guinness, in Gillispie (1997), pp. 261–262
+^ Deakin (1981)
+^ Crosland (2006), p. 30
+^ a b Grattan-Guinness (2005), p. 333
+^ Hahn (2005), p. 191
+^ Laplace, A Philosophical Essay, New York, 1902, p. 62. (Translation in this paragraph of article is from Hahn.)
+^ Hahn (2005), p. 184
+^ Laplace, A Philosophical Essay, New York, 1902, p. 63. (Translation in this paragraph of article is from Hahn.)
+^ a b Hahn (2005), p. 185
+^ Laplace, A Philosophical Essay, New York, 1902, pp. 107–108. (Translation in this paragraph of article is from Hahn.)
+^ Gillispie (1997), pp. 278
+^ p. 282, Mémoires du docteur F. Antommarchi, ou les derniers momens de Napoléon, vol. 1, 1825, Paris: Barrois L'Ainé
+^ a b c Faye, Hervé (1884), Sur l'origine du monde: théories cosmogoniques des anciens et des modernes. Paris: Gauthier-Villars, pp. 109–111
+^ a b c Pasquier, Ernest (1898). "Les hypothèses cosmogoniques (suite)". Revue néo-scholastique, 5o année, No 18, pp. 124–125, footnote 1
+^ Arago, François (1827), Laplace: Eulogy before the French Academy, translated by Prof. Baden Powell, Smithsonian Report, 1874
+^ Cajori, Florian (1893), A History of Mathematics. Fifth edition (1991), reprinted by the American Mathematical Society, 1999, p. 262. ISBN 0-8218-2102-4
+^ William Herschel's diary of his trip to Paris, as quoted on p. 310 of The Herschel Chronicle, Constance A. Lubbock, Cambridge: Cambridge University Press, 2013, ISBN 1107650011.
+^ Johnson, Daniel (18 June 2007), "The Hypothetical Atheist", Commentary.
+^ Talks of Napoleon at St. Helena with General Baron Gourgaud, translated by Elizabeth Wormely Latimer. Chicago: A. C. McClurg & Co., 1903, p. 276.
+^ Hahn (2005), p. 67.
+^ Dumas, Jean-Baptiste (1885). Discours et éloges académiques, Vol. II. Paris: Gauthier-Villars, p. 255.
+^ a b Kneller, Karl Alois. Christianity and the Leaders of Modern Science: A Contribution to the History of Culture in the Nineteenth Century, translated from the second German edition by T. M. Kettle. London: B. Herder, 1911, pp. 73–74
+^ Hahn (1981), p. 95.
+^ Œuvres de Laplace. Paris: Gauthier-Villars, 1878, Vol. I, pp. v–vi.
+^ Glass, Ian S. (2006). Revolutionaries of the Cosmos: The Astrophysicists. Cambridge University Press, p. 108. ISBN 0-19-857099-6
+^ General Scholium, from the end of Book III of the Principia; first appeared in the second edition, 1713.
+^ Laplace, Exposition du système du monde, 6th edition. Brussels, 1827, pp. 522–523.
+^ Laplace, Exposition, 1827, p. 523.
+^ Leibniz to Conti, Nov. or Dec. 1715, in H. G. Alexander, ed., The Leibniz–Clarke Correspondence (Manchester University Press, 1956), Appendix B. 1: "Leibniz and Newton to Conti", p. 185 ISBN 0-7190-0669-4; cited in Laplace, Exposition, 1827, p. 524.
+^ Leibniz to Conti, 1715, in Alexander, ed., 1956, p. 185.
+^ Hahn (2005), p. 220
+^ Hahn (2005), p. 223
+^ a b Hahn (2005), p. 202
+^ Hahn (2005), pp. 202, 233
+^ De Morgan, Augustus (1872). A budget of paradoxes, Longmans, Green, and co, London, p. 3. Compare Edmund Burke's famous remark, occasioned by a parliamentary candidate's sudden death, about "what shadows we are, and what shadows we pursue".
+^ a b Hahn (2005), p. 204
+^ Roger Hahn (2005). Pierre Simon Laplace, 1749–1827: A Determined Scientist. Harvard University Press. p. 204. ISBN 9780674018921. The Catholic newspaper La Quotidienne [The Daily] announced that Laplace had died in the arms of two curés (priests), implying that he had a proper Catholic end, but this is not credible. To the end, he remained a skeptic, wedded to his deterministic creed and to an uncompromised ethos derived from his vast scientific experience. 
+^ Roger Hahn (2005). Pierre Simon Laplace, 1749–1827: A Determined Scientist. Harvard University Press. p. 202. ISBN 9780674018921. Publicly, Laplace maintained his agnostic beliefs, and even in his old age continued to be skeptical about any function God might play in a deterministic universe. 
+^ Morris Kline (1986). Mathematics and the Search for Knowledge. Oxford University Press. p. 214. ISBN 9780195042306. Lagrange and Laplace, though of Catholic parentage, were agnostics. 
+^ Edward Kasner; James Newman; James Roy Newman (2001). Mathematics and the Imagination. Courier Dover Publications. p. 253. ISBN 9780486417035. Modern physics, indeed all of modern science, is as humble as Lagrange, and as agnostic as Laplace. 
+^ E. Emerson (1910). Comet Lore. Schilling Press, New York. p. 83. 
+^ C. M. Botley (1971). "The Legend of 1P/Halley 1456". The Observatory. 91: 125–126. Bibcode:1971Obs....91..125B. 
+^ Hagen, John G.  Herbermann, Charles, ed. (1913). "Pierre-Simon Laplace". Catholic Encyclopedia. New York: Robert Appleton Company. 
+^ Stein, John (1911), "Bartolomeo Platina", The Catholic Encyclopedia, Vol. 12. New York: Robert Appleton Company
+^ Rigge, William F. (04/1910), "An Historical Examination of the Connection of Calixtus III with Halley's Comet", Popular Astronomy, Vol. 18, pp. 214–219
+^ "P.S. de Laplace (1749–1827)". Royal Netherlands Academy of Arts and Sciences. Retrieved 19 July 2015. 
+^ "Book of Members, 1780–2010: Chapter L" (PDF). American Academy of Arts and Sciences. Retrieved 28 July 2014. 
+^ Schmadel, L. D. (2003). Dictionary of Minor Planet Names (5th rev. ed.). Berlin: Springer-Verlag. ISBN 3-540-00238-3. 
+^ Laplace, Pierre Simon (1814). Essai philosophique sur les probabilités. p. 50. 
+^ Flournoy, Théodore (1899). Des Indes à la planète Mars: étude sur un cas de somnambulisme avec glossolalie. Slatkine. pp. 344–345. *Flournoy, Théodore (2007). From India to the Planet Mars: A Study of a Case of Somnambulism. Daniel D. Vermilye, trans. Cosimo, Inc. pp. 369–370. ISBN 9781602063570. 
+^ Laplace, A Philosophical Essay, New York, 1902, p. 177.
+^ Laplace, The System of the World, Dublin, 1830, p. 91.
+
+
+Sources[edit]
+
+Andoyer, H. (1922). L'œuvre scientifique de Laplace. Paris: Payot.  (in French)
+Bigourdan, G. (1931). "La jeunesse de P.-S. Laplace". La Science moderne (in French). 9: 377–384. 
+Crosland, M. (1967). The Society of Arcueil: A View of French Science at the Time of Napoleon I. Cambridge MA: Harvard University Press. ISBN 0-435-54201-X. 
+– (2006) "A Science Empire in Napoleonic France", History of Science, vol. 44, pp. 29–48
+Dale, A. I. (1982). "Bayes or Laplace? an examination of the origin and early application of Bayes' theorem". Archive for History of Exact Sciences. 27: 23–47. 
+David, F. N. (1965) "Some notes on Laplace", in Neyman, J. & LeCam, L. M. (eds) Bernoulli, Bayes and Laplace, Berlin, pp30–44
+Deakin, M. A. B. (1981). "The development of the Laplace transform". Archive for History of Exact Sciences. 25 (4): 343–390. doi:10.1007/BF01395660. 
+— (1982). "The development of the Laplace transform". Archive for History of Exact Sciences. 26 (4): 351–381. doi:10.1007/BF00418754. 
+Dhombres, J. (1989). "La théorie de la capillarité selon Laplace: mathématisation superficielle ou étendue". Revue d'Histoire des sciences et de leurs applications (in French). 62: 43–70. doi:10.3406/rhs.1989.4134. 
+Duveen, D. & Hahn, R. (1957). "Laplace's succession to Bézout's post of Examinateur des élèves de l'artillerie". Isis. 48 (4): 416–427. doi:10.1086/348608. 
+Finn, B. S. (1964). "Laplace and the speed of sound". Isis. 55: 7–19. doi:10.1086/349791. 
+Fourier, J. B. J. (1829). "Éloge historique de M. le Marquis de Laplace". Mémoires de l'Académie Royale des Sciences. 10: lxxxi–cii. , delivered 15 June 1829, published in 1831. (in French) Link to article
+Gillispie, C. C. (1972). "Probability and politics: Laplace, Condorcet, and Turgot". Proceedings of the American Philosophical Society. 116 (1): 1–20. 
+– (1997) Pierre Simon Laplace 1749–1827: A Life in Exact Science, Princeton: Princeton University Press, ISBN 0-691-01185-0
+Grattan-Guinness, I., 2005, "'Exposition du système du monde' and 'Traité de méchanique céleste'" in his Landmark Writings in Western Mathematics. Elsevier: 242–57.
+Hahn, R. (1955). "Laplace's religious views". Archives internationales d'histoire des sciences. 8: 38–40. 
+– (1981) "Laplace and the Vanishing Role of God in the Physical Universe", in Woolf, Henry, ed., The Analytic Spirit: Essays in the History of Science. Ithaca, NY: Cornell University Press. ISBN 0-8014-1350-8
+— (1982). Calendar of the Correspondence of Pierre Simon Laplace. 8 (Berkeley Papers in the History of Science ed.). Berkeley, CA: University of California. ISBN 0-918102-07-3. 
+— (1994). New Calendar of the Correspondence of Pierre Simon Laplace. 16 (Berkeley Papers in the History of Science ed.). Berkeley, CA: University of California. ISBN 0-918102-07-3. 
+– (2005) Pierre Simon Laplace 1749–1827: A Determined Scientist, Cambridge, MA: Harvard University Press, ISBN 0-674-01892-3
+Israel, Werner (1987). "Dark stars: the evolution of an idea". In Hawking, Stephen W.; Israel, Werner. 300 Years of Gravitation. Cambridge University Press. pp. 199–276. 
+O'Connor, John J.; Robertson, Edmund F., "Pierre-Simon Laplace", MacTutor History of Mathematics archive, University of St Andrews . (1999)
+Nikulin, M. (1992). "A remark on the converse of Laplace's theorem". Journal of Soviet Mathematics. 59: 976–979. doi:10.1007/bf01099128. 
+Rouse Ball, W. W. [1908] (2003) "Pierre Simon Laplace (1749–1827)", in A Short Account of the History of Mathematics, 4th ed., Dover, ISBN 0-486-20630-0
+Stigler, S. M. (1975). "Napoleonic statistics: the work of Laplace". Biometrika. Biometrika. 62 (2): 503–517. doi:10.2307/2335393. JSTOR 2335393. 
+— (1978). "Laplace's early work: chronology and citations". Isis. 69 (2): 234–254. doi:10.1086/352006. 
+Whitrow, G. J. (2001) "Laplace, Pierre-Simon, marquis de", Encyclopædia Britannica, Deluxe CDROM edition
+Whittaker, E. T. (1949a). "Laplace". Mathematical Gazette. 33 (303): 1–12. doi:10.2307/3608408. JSTOR 3608408. 
+— (1949b). "Laplace". American Mathematical Monthly. 56 (6): 369–372. doi:10.2307/2306273. JSTOR 2306273. 
+Wilson, C. (1985). "The Great Inequality of Jupiter and Saturn: from Kepler to Laplace". Archive for History of Exact Sciences. 33 (1–3): 15–290. doi:10.1007/BF00328048. 
+Young, T. (1821). Elementary Illustrations of the Celestial Mechanics of Laplace: Part the First, Comprehending the First Book. London: John Murray.  (available from Google Books)
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Pierre-Simon Laplace.
+
+
+
+
+
+Wikiquote has quotations related to: Pierre-Simon Laplace
+
+
+
+
+
+Wikisource has original works written by or about:
+Pierre-Simon Laplace
+
+
+
+"Laplace, Pierre (1749–1827)". Eric Weisstein's World of Scientific Biography. Wolfram Research. Retrieved 24 August 2007. 
+"Pierre-Simon Laplace" in the MacTutor History of Mathematics archive.
+"Bowditch's English translation of Laplace's preface". Méchanique Céleste. The MacTutor History of Mathematics archive. Retrieved 4 September 2007. 
+Guide to the Pierre Simon Laplace Papers at The Bancroft Library
+Pierre-Simon Laplace at the Mathematics Genealogy Project
+English translation of a large part of Laplace's work in probability and statistics, provided by Richard Pulskamp
+Pierre-Simon Laplace – Œuvres complètes (last 7 volumes only) Gallica-Math
+"Sur le mouvement d'un corps qui tombe d'une grande hauteur" (Laplace 1803), online and analysed on BibNum (English).
+
+
+
+Political offices
+
+
+Preceded by
+Nicolas Marie Quinette
+Minister of the Interior
+12 November 1799 – 25 December 1799
+Succeeded by
+Lucien Bonaparte
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+French Consulate (10 November 1799 – 18 May 1804)
+
+
+
+Provisional consuls
+
+
+
+Napoleon Bonaparte
+Emmanuel Joseph Sieyès
+Roger Ducos
+
+
+
+
+
+Bonaparte
+First Consul
+
+
+
+Consuls
+
+
+
+Napoleon Bonaparte
+Jean Jacques Régis de Cambacérès
+Charles-François Lebrun, duc de Plaisance
+
+
+
+
+
+Ministers
+
+
+
+
+Foreign Affairs
+
+
+
+Charles-Frédéric Reinhard
+Charles Maurice de Talleyrand-Périgord
+
+
+
+
+
+Justice
+
+
+
+Jean Jacques Régis de Cambacérès
+André Joseph Abrial
+Claude Ambroise Régnier
+
+
+
+
+
+War
+
+
+
+Louis-Alexandre Berthier
+Lazare Carnot
+Louis-Alexandre Berthier
+
+
+
+
+
+Finance
+
+Martin-Michel-Charles Gaudin
+
+
+
+Police
+
+Joseph Fouché
+
+
+
+Interior
+
+
+
+Pierre-Simon Laplace
+Lucien Bonaparte
+Jean-Antoine Chaptal
+
+
+
+
+
+Navy and Colonies
+
+
+
+Marc Antoine Bourdon de Vatry
+Pierre-Alexandre-Laurent Forfait
+Denis Decrès
+
+
+
+
+
+Secretary of State
+
+Hugues-Bernard Maret, duc de Bassano
+
+
+
+Treasury
+
+François Barbé-Marbois
+
+
+
+War Administration
+
+Jean François Aimé Dejean
+
+
+
+
+
+
+
+
+
+Preceded by French Directory
+Followed by First cabinet of Napoleon
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Académie française seat 8
+
+
+
+
+
+
+Claude de Malleville (1634)
+Jean Ballesdens (1648)
+Géraud de Cordemoy (1675)
+Jean-Louis Bergeret (1684)
+Charles-Irénée Castel de Saint-Pierre (1694)
+Pierre Louis Maupertuis (1743)
+Jean-Jacques Lefranc, Marquis de Pompignan (1759)
+Jean-Sifrein Maury (1784)
+Michel-Louis-Étienne Regnaud de Saint-Jean d'Angély (1803)
+Pierre-Simon Laplace (1816)
+Pierre Paul Royer-Collard (1827)
+Charles de Rémusat (1846)
+Jules Simon (1875)
+Adrien Albert Marie de Mun (1897)
+Alfred-Henri-Marie Baudrillart (1918)
+Octave Aubry (1946)
+Édouard Herriot (1946)
+Jean Rostand (1959)
+Michel Déon (1978)
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 4932158
+LCCN: n81077094
+ISNI: 0000 0001 2275 8822
+GND: 118726536
+SELIBR: 205973
+SUDOC: 026965704
+BNF: cb119110516 (data)
+MGP: 108295
+NLA: 35803805
+NDL: 00446884
+NKC: mzk2003202328
+Léonore: LH/1477/83
+BNE: XX961601
+IATH: w6bz69tb
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pierre-Simon_Laplace&oldid=811429412"					
+Categories: 1749 births1827 deathsPierre-Simon LaplacePeople from Calvados (department)18th-century astronomers18th-century French mathematicians19th-century French mathematiciansCounts of the First French EmpireDeterministsEnlightenment scientistsDeistsFrench agnosticsFrench astronomersFrench Roman CatholicsFrench MarquessesFrench physicistsFluid dynamicistsGrand Officiers of the Légion d'honneurMathematical analystsMembers of the Académie françaiseMembers of the French Academy of SciencesMembers of the Royal Netherlands Academy of Arts and SciencesMembers of the Royal Swedish Academy of SciencesFellows of the Royal SocietyProbability theoristsFrench interior ministersTheoretical physicistsFellows of the American Academy of Arts and SciencesHidden categories: Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource referenceEngvarB from July 2017Use dmy dates from July 2017Biography with signatureArticles with hCardsAll articles with unsourced statementsArticles with unsourced statements from August 2016Wikipedia articles needing style editing from August 2016All articles needing style editingArticles with Internet Archive linksCS1 French-language sources (fr)AC with 14 elementsWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with SELIBR identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiersWikipedia articles with SNAC-ID identifiers 

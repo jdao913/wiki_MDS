@@ -1,0 +1,742 @@
+Sanitation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Not to be confused with Sanitization.
+
+
+
+
+The sanitation value chain: preventing contact with human excreta.
+
+
+Sanitation refers to public health conditions related to clean drinking water and adequate treatment and disposal of sewage.[1] Preventing human contact with feces, for example, is part of sanitation, as is hand washing with soap. Sanitation system aim to protect human health by providing a clean environment that will stop the transmission of disease, especially through the fecal-oral route.[2] For example, diarrhea, the leading cause of malnutrition and stunted growth in children, can be reduced through sanitation.[3]
+The Human Right to Water and Sanitation was recognized by the United Nations (UN) General Assembly in 2010. Sanitation is a global development priority and the subject of Sustainable Development Goal 6.[4] 2.3 billion people across the world still do not have access to basic sanitation facilities.[5] Lack of access to sanitation has an impact on public health, dignity, and safety.
+A sanitation system includes the capture, storage, transport, treatment and disposal or reuse of human waste.[6] There is a broad spectrum of sanitation technologies that can be used to benchmark and compare service levels within countries or across countries.[7] The sanitation ladder defined by the Joint Monitoring Programme starts at open defecation and moves upwards using the terms "unimproved," "limited" and "basic" with the top of the ladder being called "safely managed."[8]
+There are many different sanitation technologies, processes and approaches. Some examples are container-based sanitation, community-led total sanitation, ecological sanitation, emergency sanitation, environmental sanitation, onsite sanitation and sustainable sanitation.
+
+
+
+Contents
+
+
+1 Definition
+2 Purposes
+3 Types and terms
+
+3.1 Basic sanitation
+3.2 Container-based sanitation
+3.3 Community-led total sanitation
+3.4 Dry sanitation
+3.5 Ecological sanitation
+3.6 Emergency sanitation
+3.7 Environmental sanitation
+3.8 Improved and unimproved sanitation
+3.9 Lack of sanitation
+3.10 Onsite sanitation
+3.11 Safely managed sanitation
+3.12 Sustainable sanitation
+3.13 Other
+
+
+4 Health aspects
+
+4.1 Diarrhea
+4.2 Malnutrition and stunting
+4.3 Diseases caused by lack of sanitation
+4.4 Hygiene promotion
+
+
+5 Environmental aspects
+
+5.1 Indicator organisms
+5.2 Wastewater and stormwater management
+5.3 Solid waste disposal
+
+
+6 Other industries
+
+6.1 Food industry
+
+
+7 Developing countries
+
+7.1 Sustainable Development Goal Number 6 (from 2016 onwards)
+
+7.1.1 Millennium Development Goal Number 7 until 2015
+
+
+7.2 Economic benefits
+7.3 Various initiatives
+
+
+8 History
+9 See also
+10 References
+11 External links
+
+
+
+Definition[edit]
+
+
+Play media
+
+
+Animated video to underline the importance of sanitation (here with a focus on toilets) on public health in developing countries
+
+
+The World Health Organization defines the term "sanitation" as follows:
+
+"Sanitation generally refers to the provision of facilities and services for the safe disposal of human urine and feces. The word 'sanitation' also refers to the maintenance of hygienic conditions, through services such as garbage collection and wastewater disposal."[9]
+
+Sanitation includes all four of these engineering infrastructure items (even though often only the first one is strongly associated with the term "sanitation"): Excreta management systems, wastewater management systems (included here are wastewater treatment plants), solid waste management systems, drainage systems for rainwater, also called stormwater drainage.
+There are some variations on the use of the term "sanitation" between countries. For example, hygiene promotion is seen by some as an integral part of sanitation. For this reason, the Water Supply and Sanitation Collaborative Council defines sanitation as "The collection, transport, treatment and disposal or reuse of human excreta, domestic wastewater and solid waste, and associated hygiene promotion."[10]
+Despite the fact that sanitation includes wastewater treatment, the two terms are often used side by side as "sanitation and wastewater management".
+Purposes[edit]
+The overall purposes of sanitation are to provide a healthy living environment for everyone, to protect the natural resources (such as surface water, groundwater, soil), and to provide safety, security and dignity for people when they defecate or urinate.
+We also have a human right to sanitation: In September, 2010, the UN Human Rights Council adopted a resolution recognizing that the human right to water and sanitation are a part of the right to an adequate standard of living.[11]
+Effective sanitation systems provide barriers between excreta and humans in such a way as to break the disease transmission cycle (for example in the case of fecal-borne diseases).[12] This aspect is visualised with the F-diagram where all major routes of fecal-oral disease transmission begin with the letter F: feces, fingers, flies, fields, fluids, food.[13]
+One of the main challenges is to provide sustainable sanitation, especially in developing countries. Maintaining and sustaining sanitation has aspects that are technological, institutional and social in nature. Sanitation infrastructure has to be adapted to several specific contexts including consumers' expectations and local resources available.
+Sanitation technologies may involve centralized civil engineering structures like sewer systems, sewage treatment, surface runoff treatment and solid waste landfills. These structures are designed to treat wastewater and municipal solid waste. Sanitation technologies may also take the form of relatively simple onsite sanitation systems. This can in some cases consist of a simple pit latrine or other type of non-flush toilet for the excreta management part.
+Providing sanitation to people requires attention to the entire system, not just focusing on technical aspects such as the toilet, fecal sludge management or the wastewater treatment plant.[14] The "sanitation chain" involves the experience of the user, excreta and wastewater collection methods, transporting and treatment of waste, and reuse or disposal. All need to be thoroughly considered.[14]
+Types and terms[edit]
+
+
+
+
+Percentage of population served by different types of sanitation systems[15]
+
+
+
+
+
+
+Example of sanitation infrastructure: Shower, double-vault urine-diverting dry toilet (UDDT) and waterless urinal in Lima, Peru
+
+
+The term sanitation is connected with various descriptors or adjectives to signify certain types of sanitation systems (which may deal only with human excreta management or with the entire sanitation system, i.e. also greywater, stormwater and solid waste management) - in alphabetical order:
+Basic sanitation[edit]
+In 2017, JMP defined a new term: "basic sanitation service". This is defined as the use of improved sanitation facilities that are not shared with other households. A lower level of service is now called "limited sanitation service" which refers to use of improved sanitation facilities that are shared between two or more households.[4]
+Container-based sanitation[edit]
+Main article: Container-based sanitation
+Container-based sanitation (CBS) refers to a sanitation system where human excreta is collected in sealable, removable containers (or cartridges) that are transported to treatment facilities.[16] Container-based sanitation is usually provided as a service involving provision of certain types of portable toilets, and collection of excreta at a cost borne by the users. With suitable development, support and functioning partnerships, CBS can be used to provide low-income urban populations with safe collection, transport and treatment of excrement at a lower cost than installing and maintaining sewers.[17] In most cases, CBS is based on the use of urine-diverting dry toilets.
+Community-led total sanitation[edit]
+Main article: Community-led total sanitation
+Community-Led Total Sanitation (CLTS) is an approach to achieve behavior change in mainly rural people by a process of "triggering", leading to spontaneous and long-term abandonment of open defecation practices. CLTS takes an approach to rural sanitation that works without hardware subsidies and that facilitates communities to recognize the problem of open defecation and take collective action to clean up and become "open defecation free".
+Dry sanitation[edit]
+The term "dry sanitation" is not in wide-spread use and is not very well defined. It usually refers to a system that uses a type of dry toilet and no sewers to transport excreta. Often when people speak of "dry sanitation" they mean a sanitation system that uses urine-diverting dry toilet (UDDTs).[18][19][20]
+Ecological sanitation[edit]
+Main article: Ecological sanitation
+Ecological sanitation, which is commonly abbreviated to ecosan, is an approach, rather than a technology or a device which is characterized by a desire to "close the loop" (mainly for the nutrients and organic matter) between sanitation and agriculture in a safe manner. Put in other words: "Ecosan systems safely recycle excreta resources (plant nutrients and organic matter) to crop production in such a way that the use of non-renewable resources is minimised". When properly designed and operated, ecosan systems provide a hygienically safe, economical, and closed-loop system to convert human excreta into nutrients to be returned to the soil, and water to be returned to the land. Ecosan is also called resource-oriented sanitation.[citation needed]
+
+
+
+
+Emergency pit lining kits by Evenproducts
+
+
+Emergency sanitation[edit]
+Main article: Emergency sanitation
+Emergency sanitation is required in situations including natural disasters and relief for refugees and Internally Displaced Persons (IDPs).[21] There are three phases: Immediate, short term and long term.[21] In the immediate phase, the focus is on managing open defecation, and toilet technologies might include very basic latrines, pit latrines, bucket toilets, container-based toilets, chemical toilets. The short term phase might also involve technologies such as urine-diverting dry toilets, septic tanks, decentralized wastewater systems. Providing handwashing facilities and management of fecal sludge are also part of emergency sanitation. The Sphere Project handbook provides protection principles and core standards for sanitation to put in place after a disaster or conflict.
+Environmental sanitation[edit]
+Environmental sanitation encompasses the control of environmental factors that are connected to disease transmission. Subsets of this category are solid waste management, water and wastewater treatment, industrial waste treatment and noise and pollution control.
+Improved and unimproved sanitation[edit]
+Main article: Improved sanitation
+Improved sanitation and unimproved sanitation refers to the management of human feces at the household level. This terminology is the indicator used to describe the target of the Millennium Development Goal on sanitation, by the WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation.
+Lack of sanitation[edit]
+Lack of sanitation refers to the absence of sanitation. In practical terms it usually means lack of toilets or lack of hygienic toilets that anybody would want to use voluntarily. The result of lack of sanitation is usually open defecation (and open urination but this is of less concern) with associated serious public health issues.[22] It is estimated that 2.4 billion people still lacked improved sanitation facilities as of 2015.[23]
+Onsite sanitation[edit]
+Onsite sanitation (or on-site sanitation) is defined as a sanitation system in which excreta and wastewater are collected, stored or treated at the same location (or on the same plot) where they are generated.[24] Examples are pit latrines and septic tanks. On-site sanitation systems are often connected to fecal sludge management systems where the fecal sludge that is generated onsite is treated as an offsite location. A related term is a decentralized wastewater system which refers in particular to the wastewater part of on-site sanitation. Similarly, an onsite sewage facility can treat the wastewater generated locally.
+Safely managed sanitation[edit]
+A relatively high level of sanitation service is now called "safely managed sanitation" by the JMP definition. This is basic sanitation service where in addition excreta are safely disposed of in situ or transported and treated offsite.[4]
+Sustainable sanitation[edit]
+Main article: Sustainable sanitation
+Sustainable sanitation considers the entire "sanitation value chain", from the experience of the user, excreta and wastewater collection methods, transportation or conveyance of waste, treatment, and reuse or disposal.[14] The term is widely used since about 2009. In 2007 the Sustainable Sanitation Alliance had defined five sustainability criteria to compare the sustainability of sanitation systems. In order to be sustainable, a sanitation system has to be not only (i) economically viable, (ii) socially acceptable, and (iii) technically and (iv) institutionally appropriate, it should also (v) protect the environment and the natural resources.[2]
+Other[edit]
+Other terms used to describe certain types of sanitation include:
+
+Community-based sanitation (often related to decentralized wastewater treatment or DEWATS)
+
+Health aspects[edit]
+
+
+
+
+The "F-diagram" (feces, fingers, flies, fields, fluids, food), showing pathways of fecal-oral disease transmission. The vertical blue lines show barriers: toilets, safe water, hygiene and handwashing.
+
+
+Further information: Child mortality and Infant mortality
+For any social and economic development, adequate sanitation in conjunction with good hygiene and safe water are essential to good health. Lack of proper sanitation causes diseases. Most of the diseases resulting from sanitation have a direct relation to poverty. The lack of clean water and poor sanitation causes many diseases and the spread of diseases. It is estimated that inadequate sanitation is responsible for 4.0 percent of deaths and 5.7 percent of disease burden worldwide.[25]
+Lack of sanitation is a serious issue that is affecting most developing countries and countries in transition. The importance of the isolation of excreta and waste lies in an effort to prevent diseases which can be transmitted through human waste, which afflict both developed countries as well as developing countries to differing degrees.
+This situation presents substantial public health risks as the waste could contaminate drinking water and cause life-threatening forms of diarrhea to infants. Improved sanitation, including hand washing and water purification, could save the lives of 1.5 million children who die from diarrheal diseases each year.[26]
+It is estimated that up to 5 million people die each year from preventable waterborne diseases,[27] as a result of inadequate sanitation and hygiene practices. The effects of sanitation has impacted the society of people throughout history.[28] Sanitation is a necessity for a healthy life.[29]
+Diarrhea[edit]
+Further information: Diarrhea
+Diarrhea plays a significant role: Deaths resulting from diarrhea are estimated to be between 1.6 and 2.5 million deaths every year.[30] Most of the affected are young children below the ages of five.[31] Children suffering from diarrhea are more vulnerable to become underweight (due to stunted growth) which makes them more vulnerable to other diseases such as acute respiratory infections and malaria. Diarrhoea is primarily transmitted through faecal-oral routes.
+Numerous studies have shown that improvements in drinking water and sanitation (WASH) lead to decreased risks of diarrhoea.[32] Such improvements might include for example use of water filters, provision of high-quality piped water and sewer connections.[32]
+Open defecation - or lack of sanitation - is a major factor in causing various diseases, most notably diarrhea and intestinal worm infections.[33][34] For example, infectious diarrhea resulted in about 0.7 million deaths in children under five years old in 2011 and 250 million lost school days.[33][35] It can also lead to malnutrition and stunted growth in children. Open defecation is a leading cause of diarrheal death; 2,000 children under the age of five die every day, one every 40 seconds, from diarrhea.[36]
+Malnutrition and stunting[edit]
+Further information: Malnutrition in children
+
+
+
+
+A child receiving malnutrition treatment in Northern Kenya
+
+
+The combination of direct and indirect deaths from malnutrition caused by unsafe water, sanitation and hygiene (WASH) practices is estimated by the World Health Organisation to lead to 860,000 deaths per year in children under five years of age.[6] The multiple interdependencies between malnutrition and infectious diseases make it very difficult to quantify the portion of malnutrition that is caused by infectious diseases which are in turn caused by unsafe WASH practices. Based on expert opinions and a literature survey, researchers at WHO arrived at the conclusion that approximately half of all cases of malnutrition (which often leads to stunting) in children under five is associated with repeated diarrhoea or intestinal worm infections as a result of unsafe water, inadequate sanitation or insufficient hygiene.[6]
+Diseases caused by lack of sanitation[edit]
+Relevant diseases and conditions caused by lack of sanitation and hygiene include:
+
+Waterborne diseases, which can contaminate drinking water
+Diseases transmitted by the fecal-oral route
+
+Infections with intestinal helminths (worms) - approximately two billion people are infected with soil-transmitted helminths worldwide; they are transmitted by eggs present in human faeces which in turn contaminate soil in areas where sanitation is poor.[37]
+
+
+Stunted growth in children
+Malnutrition, particularly in children
+
+The list of diseases that could be reduced with proper access to sanitation and hygiene practices is very long. For example, in India, 15 diseases have been listed which could be stamped out by improving sanitation:[38]
+
+Anaemia, malnutrition
+Ascariasis (a type of intestinal worm infection)
+Campylobacteriosis
+Cholera
+Cyanobacteria toxins
+Dengue
+Hepatitis
+Japanese encephalitis (JE)
+Leptospirosis
+Malaria
+Ringworm or Tinea (a type of intestinal worm infection)
+Scabies
+Schistosomiasis
+Trachoma
+Typhoid and paratyphoid enteric fevers
+Shigellosis
+
+Polio is another disease which is related to improper sanitation and hygiene.
+Hygiene promotion[edit]
+
+
+
+
+Hygiene education (on proper handwashing) in Afghanistan
+
+
+In many settings, provision of sanitation facilities alone does not guarantee good health of the population. Studies have suggested that the impact of hygiene practices have as great an impact on sanitation related diseases as the actual provision of sanitation facilities. Hygiene promotion is therefore an important part of sanitation and is usually key in maintaining good health.[39]
+Hygiene promotion is a planned approach of enabling people to act and change their behaviour in an order to reduce and/or prevent incidences of water, sanitation and hygiene (WASH) related diseases. It usually involves a participatory approach of engaging people to take responsibility of WASH services and infrastructure including its operation and maintenance. The three key elements of promoting hygiene are; mutual sharing of information and knowledge, the mobilisation of affected communities and the provision of essential material and facilities.[40]
+Environmental aspects[edit]
+Indicator organisms[edit]
+When analysing environmental samples, various types of indicator organisms are used to check for fecal pollution of the sample. Commonly used indicators for bacteriological water analysis include the bacterium Escherichia coli (abbreviated as E. coli) and non-specific fecal coliforms. With regards to samples of soil, sewage sludge, biosolids or fecal matter from dry toilets, helminth eggs are a commonly used indicator. With helminth egg analysis, eggs are extracted from the sample after which a viability test is done to distinguish between viable and non viable eggs. The viable fraction of the helminth eggs in the sample is then counted.
+Wastewater and stormwater management[edit]
+Main articles: Wastewater and Wastewater treatment
+
+
+
+
+Sewage treatment plant, Australia.
+
+
+Wastewater management consists of collection, wastewater treatment (be it municipal or industrial wastewater), disposal or reuse of treated wastewater. The latter is also referred to as water reclamation.
+Sanitation systems in urban areas of developed countries usually consist of the collection of wastewater in gravity driven sewers, its treatment in wastewater treatment plants for reuse or disposal in rivers, lakes or the sea. Sewers are either combined with storm drains or separated from them as sanitary sewers. Combined sewers are usually found in the central, older parts or urban areas. Heavy rainfall and inadequate maintenance can lead to combined sewer overflows or sanitary sewer overflows, i.e., more or less diluted raw sewage being discharged into the environment. Industries often discharge wastewater into municipal sewers, which can complicate wastewater treatment unless industries pre-treat their discharges.[41]
+In developing countries most wastewater is still discharged untreated into the environment. Alternatives to centralized sewer systems include onsite sanitation, decentralized wastewater systems, dry toilets connected to fecal sludge management.
+Solid waste disposal[edit]
+Main article: Waste management
+
+
+
+
+Hiriya Landfill, Israel.
+
+
+Disposal of solid waste is most commonly conducted in landfills, but incineration, recycling, composting and conversion to biofuels are also avenues. In the case of landfills, advanced countries typically have rigid protocols for daily cover with topsoil, where underdeveloped countries customarily rely upon less stringent protocols.[42] The importance of daily cover lies in the reduction of vector contact and spreading of pathogens. Daily cover also minimises odor emissions and reduces windblown litter. Likewise, developed countries typically have requirements for perimeter sealing of the landfill with clay-type soils to minimize migration of leachate that could contaminate groundwater (and hence jeopardize some drinking water supplies).
+For incineration options, the release of air pollutants, including certain toxic components is an attendant adverse outcome. Recycling and biofuel conversion are the sustainable options that generally have superior lifecycle costs, particularly when total ecological consequences are considered.[43] Composting value will ultimately be limited by the market demand for compost product.
+Other industries[edit]
+Food industry[edit]
+
+
+
+
+Modern restaurant food preparation area.
+
+
+Main article: food safety
+Sanitation within the food industry means the adequate treatment of food-contact surfaces by a process that is effective in destroying vegetative cells of microorganisms of public health significance, and in substantially reducing numbers of other undesirable microorganisms, but without adversely affecting the food or its safety for the consumer (U.S. Food and Drug Administration, Code of Federal Regulations, 21CFR110, USA). Sanitation Standard Operating Procedures are mandatory for food industries in United States. Similarly, in Japan, food hygiene has to be achieved through compliance with food sanitation law.[44]
+In the food and biopharmaceutical industries, the term "sanitary equipment" means equipment that is fully cleanable using clean-in-place (CIP) and sterilization-in-place (SIP) procedures: that is fully drainable from cleaning solutions and other liquids. The design should have a minimum amount of deadleg, or areas where the turbulence during cleaning is insufficient to remove product deposits.[45] In general, to improve cleanability, this equipment is made from Stainless Steel 316L, (an alloy containing small amounts of molybdenum). The surface is usually electropolished to an effective surface roughness of less than 0.5 micrometre to reduce the possibility of bacterial adhesion.
+Developing countries[edit]
+
+
+
+
+Modified logo of International Year of Sanitation, used in the UN Drive to 2015 campaign logo
+
+
+In December 2006, the United Nations General Assembly declared 2008 "The International Year of Sanitation", in recognition of the slow progress being made towards the MDGs sanitation target.[46] The year aimed to develop awareness and more actions to meet the target.
+Sustainable Development Goal Number 6 (from 2016 onwards)[edit]
+In the year 2016, the Sustainable Development Goals replaced the Millennium Development Goals. Sanitation is a global development priority and the subject of Sustainable Development Goal 6 (SDG 6).[4] The target is to ensure everyone everywhere has access to toilets by 2030.[32]
+The main indicator for the sanitation target is the "Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water".[47] The current value in the 2017 baseline estimate by JMP is that 4.5 billion people currently do not have safely managed sanitation.[4] JMP is the Joint Monitoring Programme by UNICEF and WHO to monitor SDG6 progress.
+Millennium Development Goal Number 7 until 2015[edit]
+
+
+
+
+Example for lack of sanitation: Unhygienic pit latrine with ring slab in Kalibari community in Mymensingh, Bangladesh
+
+
+The United Nations, during the Millennium Summit in New York in 2000 and the 2002 World Summit on Sustainable Development in Johannesburg, developed the Millennium Development Goals (MDGs) aimed at poverty eradication and sustainable development. The specific goal for the year 2015 was to reduce by half the number of people who had no access to potable water and sanitation in the baseline year of 1990. As the JMP and the United Nations Development Programme (UNDP) Human Development Report in 2006 has shown, progress meeting the MDG sanitation target is slow, with a large gap between the target coverage and the current reality.
+There are numerous reasons for this gap. A major one is that sanitation is rarely given political attention received by other topics despite its key importance. Sanitation is not high on the international development agenda, and projects such as those relating to water supply projects are emphasised.[citation needed]
+The Joint Monitoring Programme for Water Supply and Sanitation of WHO and UNICEF (JMP) has been publishing reports of updated estimates every two years on the use of various types of drinking-water sources and sanitation facilities at the national, regional and global levels. The JMP report for 2015 stated that:[23]
+
+Between 1990 and 2015, open defecation rates have decreased from 38% to 25% globally. Just under one billion people (946 million) still practise open defecation worldwide in 2015.
+82% of the global urban population, and 51% of the rural population is using improved sanitation facilities in 2015, as per per the JMP definition of "improved sanitation".[48]
+
+Economic benefits[edit]
+The benefits to society of managing human excreta are considerable, for public health as well as for the environment. For every US$1 spent on sanitation, the estimated return to society is US$5.5.[49]:2
+Various initiatives[edit]
+In 2011 the Bill & Melinda Gates Foundation launched the Reinvent the Toilet Challenge to promote safer, more effective ways to treat human waste. The program is aimed at developing technologies that might help bridge the global sanitation gap.
+
+
+
+
+The treatment components of the Nano Membrane Toilet from the BMGF "Reinvent the toilet challenge"
+
+
+History[edit]
+Further information: Toilet § History, History of water supply and sanitation, and History of waste management
+Major human settlements could initially develop only where fresh surface water was plentiful, such as near rivers or natural springs. Throughout history people have devised systems to get water into their communities and households, and to dispose (and later also treat) wastewater.[50] The focus of sewage treatment at that time was on conveying raw sewage to a natural body of water, e.g. a river or ocean, where it would be diluted and dissipated.
+The Sanitation in the Indus Valley Civilization in Asia is an example of public water supply and sanitation during the Bronze Age (3300–1300 BCE).
+Sanitation in ancient Rome was quite extensive. These systems consisted of stone and wooden drains to collect and remove wastewater from populated areas—see for instance the Cloaca Maxima into the River Tiber in Rome. It is estimated that the first sewers of ancient Rome were built between 800 and 735 BCE.[51] Nevertheless, there was widespread presence of several helminth types (intestinal worms) that caused dysentery.[52]
+There is little record of other sanitation in most of Europe until the High Middle Ages. Unsanitary conditions and overcrowding were widespread throughout Europe and Asia during the Middle Ages. This resulted in pandemics such as the Plague of Justinian (541-42) and the Black Death (1347–1351), which killed tens of millions of people.[53] Very high infant and child mortality prevailed in Europe throughout medieval times, due partly to deficiencies in sanitation.[54]
+See also[edit]
+
+Fecal sludge management (FSM)
+List of abbreviations used in sanitation
+List of water supply and sanitation by country
+Self-supply of water and sanitation
+Sustainable Sanitation Alliance
+Water, sanitation, hygiene (WASH)
+World Toilet Day
+
+References[edit]
+
+
+^ "sanitation | Definition of sanitation in English by Oxford Dictionaries". Oxford Dictionaries | English. Retrieved 2017-11-17. 
+^ a b SuSanA (2008). Towards more sustainable sanitation solutions - SuSanA Vision Document. Sustainable Sanitation Alliance (SuSanA)
+^ "Diarrhoeal disease". World Health Organization. Retrieved 2017-11-17. 
+^ a b c d e WHO and UNICEF (2017) Progress on Drinking Water, Sanitation and Hygiene: 2017 Update and SDG Baselines. Geneva: World Health Organization (WHO) and the United Nations Children’s Fund (UNICEF), 2017
+^ "Sanitation". World Health Organization. Retrieved 2017-11-17. 
+^ Gates Foundation (2010). "Water Sanitation Hygiene Fact Sheet 2010" (PDF). Gates Foundation. 
+^ "Sanitation | JMP". washdata.org. Retrieved 2017-11-17. 
+^ "Sanitation | JMP". washdata.org. Retrieved 2017-11-17. 
+^ "Sanitation". Health topics. World Health Organization. 
+^ Evans, B., van der Voorden, C., Peal, A. (2009). Public Funding for Sanitation - The many faces of sanitation subsidies. Water Supply and Sanitation Collaborative Council (WSSCC), Geneva, Switzerland, p. 35
+^ Right to water and sanitation derive from the right to an adequate standard of living. http://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=10403&LangID=E
+^ Thor Axel Stenström (2005) Breaking the sanitation barriers; WHO Guidelines for excreta use as a baseline for environmental health, Ecosan Conference, Durban, South Africa
+^ Conant, Jeff (2005). Sanitation and Cleanliness for a Healthy Environment (PDF). Berkeley, California, USA: The Hesperian Foundation in collaboration with the United Nations Development Programme (UNDP), Sida. p. 6. 
+^ a b c Tilley, E., Ulrich, L., Lüthi, C., Reymond, Ph. and Zurbrügg, C. (2014). Compendium of Sanitation Systems and Technologies. 2nd Revised Edition. Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland
+^ WWAP (United Nations World Water Assessment Programme) (2017). The United Nations World Water Development Report 2017. Wastewater: The Untapped Resource. Paris. ISBN 978-92-3-100201-4. 
+^ Tilmans, Sebastien; Russel, Kory; Sklar, Rachel; Page, Leah; Kramer, Sasha; Davis, Jennifer (2015-04-13). "Container-based sanitation: assessing costs and effectiveness of excreta management in Cap Haitien, Haiti". Environment and Urbanization. 27 (1): 89–104. doi:10.1177/0956247815572746. PMC 4461065 . PMID 26097288. 
+^ Shepard, Jon (2017). The world can’t wait for sewers; Advancing container-based sanitation businesses as a viable answer to the global sanitation crisis (PDF). 
+^ "AKUT Sustainable Sanitation in Peru (Video)". 13 October 2014. Retrieved 21 October 2014. 
+^ Platzer, C., Hoffmann, H., Ticona, E. (2008). Alternatives to waterborne sanitation - a comparative study – limits and potentials. IRC Symposium: Sanitation for the urban poor - partnerships and governance, Delft, The Netherlands
+^ Flores, A. (2010). Towards sustainable sanitation: evaluating the sustainability of resource-oriented sanitation. PhD Thesis, University of Cambridge, UK
+^ a b Peter Harvey, with contrib. from Andy Bastable...[et al.] (2007). Excreta disposal in emergencies a field manual : an inter-agency publication. Loughborough: Loughborough university. Water, engineering and development centre (WEDC). p. 250. ISBN 9781843801139. 
+^ Mara, Duncan (2017-03-01). "The elimination of open defecation and its adverse health effects: a moral imperative for governments and development professionals". Journal of Water Sanitation and Hygiene for Development. 7 (1): 1–12. doi:10.2166/washdev.2017.027. ISSN 2043-9083. 
+^ a b WHO and UNICEF Progress on Sanitation and Drinking-water: 2015 Update, WHO, Geneva and UNICEF, New York
+^ Tilley, E.; Ulrich, L.; Lüthi, C.; Reymond, Ph.; Zurbrügg, C. Compendium of Sanitation Systems and Technologies - (2nd Revised Edition). Swiss Federal Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland. ISBN 978-3-906484-57-0. 
+^ Prüss A, Kay D, Fewtrell L, Bartram J (2002) Estimating the burden of disease from water, sanitation, and hygiene at a global level. Environmental Health Perspectives 110: 537–542.
+^ World Health Organization and UNICEF. Progress on Drinking Water and Sanitation: Special Focus on Sanitation.
+^ Gleick, P. (2002) Dirty Water: Estimated Deaths from Water-Related Diseases 2000-2020, Pacific Institute for Studies in Development, Environment, and Security
+^ Ehlers, Victor (1943). Municipal and rural sanitation. New York: McGraw-Hill book company, inc. 
+^ George, Rose (2008). The Big Necessity: The Unmentionable Worls of Human Waste and Why it Matters. New York: Metropolitan Books/Henrey Holt and Company. 
+^ Kosek, Margaret; Bern, Caryn; Guerrant, Richard (2003). "The global burden of diarrhoeal disease, as estimated from studies published between 1992 and 2000" (PDF). WHO. Retrieved 3 August 2016. 
+^ "Diarrhoea remains a leading killer of young children, despite the availability of a simple treatment solution". UNICEF. Retrieved 2 August 2016. 
+^ a b c Wolf, Jennyfer; Prüss-Ustün, Annette; Cumming, Oliver; Bartram, Jamie; Bonjour, Sophie; Cairncross, Sandy; Clasen, Thomas; Colford, John M.; Curtis, Valerie; De France, Jennifer; Fewtrell, Lorna; Freeman, Matthew C.; Gordon, Bruce; Hunter, Paul R.; Jeandron, Aurelie; Johnston, Richard B.; Mäusezahl, Daniel; Mathers, Colin; Neira, Maria; Higgins, Julian P. T. (August 2014). "Systematic review: Assessing the impact of drinking water and sanitation on diarrhoeal disease in low- and middle-income settings: systematic review and meta-regression". Tropical Medicine & International Health. 19 (8): 928–942. doi:10.1111/tmi.12331.  Cite error: Invalid <ref> tag; name ":0" defined multiple times with different content (see the help page).
+^ a b "Call to action on sanitation" (pdf). United Nations. Retrieved 15 August 2014. 
+^ "Open Defecation and Childhood Stunting in India: An Ecological Analysis of New Data from 112 Districts". PLoS ONE. Retrieved 2014-03-10. 
+^ Walker, CL; Rudan, I; Liu, L; Nair, H; Theodoratou, E; Bhutta, ZA; O'Brien, KL; Campbell, H; Black, RE (Apr 20, 2013). "Global burden of childhood pneumonia and diarrhoea". Lancet. 381 (9875): 1405–16. doi:10.1016/S0140-6736(13)60222-6. PMID 23582727. 
+^ "WHO | Diarrhoeal disease". Who.int. Retrieved 2014-03-10. 
+^ WHO (2014) Soil-transmitted helminth infections, Fact sheet N°366
+^ "Article in Hindustan Times: 15 diseases India can stamp out by improving sanitation". 1 October 2014. Retrieved 21 October 2014. 
+^ Reed, Brian; Bevan, Jane (2014). Managing hygiene promotion in WASH programmes. Leicestershire, UK: Water, Engineering and Development Centre (WEDC), Loughborough University. ISBN 978 1 84380 168 9. 
+^ Project, The Sphere (2011). Humanitarian charter and minimum standards in humanitarian response (3rd ed., 2011 ed.). [Geneva]: Sphere Project. ISBN 9781908176004. 
+^ Environmental Biotechnology: Advancement in Water And Wastewater Application, edited by Z. Ujang, IWA Proceedings, Malaysia (2003)
+^ George Tchobanoglous and Frank Kreith Handbook of Solid Waste Management, McGraw Hill (2002)
+^ William D. Robinson, The Solid Waste Handbook: A Practical Guide, John Wiley and sons (1986)
+^ Japan External Trade Organization. "Food Sanitation Law in Japan" (PDF). Retrieved 1 March 2008. 
+^ Treatment of deadleg plumbing areas
+^ "Peri-urban Water and Sanitation Services". Springer. 2010. 
+^ Cite error: The named reference :12 was invoked but never defined (see the help page).
+^ WHO and UNICEF types of improved drinking-water source on the JMP website[permanent dead link], WHO, Geneva and UNICEF, New York, accessed on June 10, 2012
+^ WWAP (United Nations World Water Assessment Programme) (2017). The United Nations World Water Development Report 2017. Wastewater: The Untapped Resource. Paris. ISBN 978-92-3-100201-4. 
+^ "The Art of Plumbing as Recorded through History". www.academia.edu. Retrieved 2016-03-10. 
+^ Farnsworth Gray, Harold. "Sewerage in Ancient and Mediaeval Times." Sewage Works Journal Vol.12.5 (1940): 939-46
+^ Mitchell, Piers D. (2017/01). "Human parasites in the Roman World: health consequences of conquering an empire". Parasitology. 144 (1): 48–58. doi:10.1017/S0031182015001651. ISSN 0031-1820.  Check date values in: |date= (help)
+^ Carlo M. Cipolla, Before the Industrial Revolution: European Society and Economy 1000-1700, W.W. Norton and Company, London (1980) ISBN 0-393-95115-4
+^ Burnett White, Natural History of Infectious Diseases
+
+
+External links[edit]
+
+
+
+Wikipedia's health care articles can be viewed offline with the Medical Wikipedia app.
+
+
+
+Look up sanitation in Wiktionary, the free dictionary.
+
+
+
+IRC /en/ World Health Organization overview on sanitation
+Sanitation, Hygiene and Wastewater Resource Guide (World Bank)
+Sustainable Sanitation Alliance
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Public health
+
+
+
+General
+
+
+
+Auxology
+Biological hazard
+Chief Medical Officer
+Cultural competence
+Deviance
+Environmental health
+Euthenics
+Genomics
+Globalization and disease
+Health economics
+Health literacy
+Health policy
+
+Health system
+Health care reform
+Public health law
+
+
+Maternal health
+Medical anthropology
+Medical sociology
+Mental health
+Pharmaceutical policy
+Public health laboratory
+Reproductive health
+Social psychology
+Sociology of health and illness
+
+
+
+
+
+Preventive healthcare
+
+
+
+Behavior change
+
+Theories
+
+
+Family planning
+Health promotion
+Human nutrition
+Preventive nutrition
+Hygiene
+
+Food safety
+Hand washing
+Infection control
+Oral hygiene
+
+
+Occupational safety and health
+
+Human factors and ergonomics
+Hygiene
+Injury prevention
+Medicine
+Nursing
+
+
+Patient safety
+
+Organization
+
+
+Pharmacovigilance
+Safe sex
+Sanitation
+
+Emergency
+Fecal–oral transmission
+Open defecation
+Sanitary sewer
+Waterborne diseases
+
+
+Smoking cessation
+Vaccination
+Vector control
+
+
+
+
+
+Population health
+
+
+
+Biostatistics
+Child mortality
+Community health
+Epidemiology
+Global health
+Health impact assessment
+Health system
+Infant mortality
+Open-source healthcare software
+Public health informatics
+Social determinants of health
+
+Health equity
+Race and health
+
+
+Social medicine
+
+
+
+
+
+Biological and
+epidemiological statistics
+
+
+
+Case-control study
+Randomized controlled trial
+Relative risk
+Statistical hypothesis testing
+
+Analysis of variance (ANOVA)
+Regression analysis
+ROC curve
+Student's t-test
+Z-test
+
+
+Statistical software
+
+
+
+
+
+Infectious and epidemic
+disease prevention
+
+
+
+Asymptomatic carrier
+Epidemics
+
+List
+
+
+Notifiable diseases
+
+List
+
+
+Public health surveillance
+
+Disease surveillance
+
+
+Quarantine
+Sexually transmitted infection
+Tropical disease
+Vaccine trial
+
+
+
+
+
+Food hygiene and
+safety management
+
+
+
+Food
+
+Additive
+Chemistry
+Engineering
+Microbiology
+Processing
+Safety
+Safety scandals
+
+
+Genetically modified food
+Good agricultural practice
+Good manufacturing practice
+
+HACCP
+ISO 22000
+
+
+
+
+
+
+
+Health behavioral
+sciences
+
+
+
+Diffusion of innovations
+Health belief model
+Health communication
+Health psychology
+Positive deviance
+PRECEDE-PROCEED model
+Social cognitive theory
+Social norms approach
+Theory of planned behavior
+Transtheoretical model
+
+
+
+
+
+Organizations,
+education
+and history
+
+
+
+
+Organizations
+
+
+
+Europe
+
+Centre for Disease Prevention and Control
+Committee on the Environment, Public Health and Food Safety
+
+
+India
+
+Ministry of Health and Family Welfare
+
+
+U.S.
+
+Centers for Disease Control and Prevention
+City and county health departments
+Council on Education for Public Health
+Public Health Service
+
+
+World Health Organization
+World Toilet Organization
+
+
+
+
+
+Education
+
+
+
+Health education
+Higher education
+
+Bachelor of Science in Public Health
+Doctor of Public Health
+Professional degrees of public health
+Schools of public health
+
+
+
+
+
+
+
+History
+
+
+
+Sara Josephine Baker
+Samuel Jay Crumbine
+Carl Rogers Darnall
+Joseph Lister
+Margaret Sanger
+John Snow
+Typhoid Mary
+Germ theory of disease
+Social hygiene movement
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Commons
+ WikiProject
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4127385-0
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Sanitation&oldid=812054718"					
+Categories: SanitationHygieneSewerageWater supply and sanitation by countryHidden categories: Pages with reference errorsPages with duplicate reference namesPages with broken reference namesAll articles with dead external linksArticles with dead external links from August 2017Articles with permanently dead external linksCS1 errors: datesAll articles with unsourced statementsArticles with unsourced statements from April 2017Articles with unsourced statements from March 2015Articles with medical app sidebarWikipedia articles with GND identifiersArticles containing video clips 

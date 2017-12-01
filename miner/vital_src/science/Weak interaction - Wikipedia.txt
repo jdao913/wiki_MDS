@@ -1,0 +1,1043 @@
+Weak interaction - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+The radioactive beta decay is due to the weak interaction, which transforms a neutron into: a proton, an electron, and an electron antineutrino.
+
+
+
+
+Standard Model of particle physics
+
+
+
+Elementary particles of the standard model
+
+
+
+
+
+Background
+Particle physics
+Standard Model
+Quantum field theory
+Gauge theory
+Spontaneous symmetry breaking
+Higgs mechanism
+
+
+
+
+
+
+Constituents
+Electroweak interaction
+Quantum chromodynamics
+CKM matrix
+Standard Model mathematics
+
+
+
+
+
+
+Limitations
+Strong CP problem
+Hierarchy problem
+Neutrino oscillations
+Physics beyond the Standard Model
+
+
+
+
+
+
+Scientists
+Rutherford · Thomson · Chadwick · Bose · Sudarshan · Koshiba · Davis Jr. · Anderson · Fermi · Dirac · Feynman · Rubbia · Gell-Mann · Kendall · Taylor · Friedman · Powell · P. W. Anderson · Glashow · Iliopoulos · Maiani · Meer · Cowan · Nambu · Chamberlain · Cabibbo · Schwartz · Perl · Majorana · Weinberg · Lee · Ward · Salam · Kobayashi · Maskawa · Yang · Yukawa · 't Hooft · Veltman · Gross · Politzer · Wilczek · Cronin · Fitch · Vleck · Higgs · Englert · Brout · Hagen · Guralnik  · Kibble  · Ting · Richter
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In particle physics, the weak interaction (the weak force or weak nuclear force) is the mechanism of interaction between sub-atomic particles that causes radioactive decay and thus plays an essential role in nuclear fission. The theory of the weak interaction is sometimes called quantum flavourdynamics (QFD), in analogy with the terms quantum chromodynamics (QCD) dealing with the strong interaction and quantum electrodynamics (QED) dealing with the electromagnetic force. However, the term QFD is rarely used because the weak force is best understood in terms of electro-weak theory (EWT).[1]
+The weak interaction takes place only at very small, sub-atomic distances, less than the diameter of a proton. It is one of the four known fundamental interactions of nature, alongside the strong interaction, electromagnetism, and gravitation.
+
+
+
+Contents
+
+
+1 Background
+2 History
+3 Properties
+
+3.1 Weak isospin and weak hypercharge
+
+
+4 Interaction types
+
+4.1 Charged-current interaction
+4.2 Neutral-current interaction
+
+
+5 Electroweak theory
+6 Violation of symmetry
+7 See also
+8 References
+
+8.1 Citations
+8.2 General readers
+8.3 Texts
+
+
+9 External links
+
+
+
+Background[edit]
+The Standard Model of particle physics provides a uniform framework for understanding the electromagnetic, weak, and strong interactions. An interaction occurs when two particles, typically but not necessarily half-integer spin fermions, exchange integer-spin, force-carrying bosons. The fermions involved in such exchanges can be either elementary (e.g. electrons or quarks) or composite (e.g. protons or neutrons), although at the deepest levels, all weak interactions ultimately are between elementary particles.
+In the case of the weak interaction, fermions can exchange three distinct types of force carriers known as the W+, W−, and Z bosons. The mass of each of these bosons is far greater than the mass of a proton or neutron, which is consistent with the short range of the weak force. The force is in fact termed weak because its field strength over a given distance is typically several orders of magnitude less than that of the strong nuclear force or electromagnetic force.
+Quarks, which make up composite particles like neutrons and protons, come in six "flavours" – up, down, strange, charm, top and bottom – which give those composite particles their properties. The weak interaction is unique in that it allows for quarks to swap their flavour for another. The swapping of those properties is mediated by the force carrier bosons. For example, during beta minus decay, a down quark within a neutron is changed into an up quark, thus converting the neutron to a proton and resulting in the emission of an electron and an electron antineutrino. Also, the weak interaction is the only fundamental interaction that breaks parity-symmetry, and similarly, the only one to break charge parity symmetry.
+Other important examples of phenomena involving the weak interaction include beta decay, and the fusion of hydrogen into deuterium that powers the Sun's thermonuclear process. Most fermions will decay by a weak interaction over time. Such decay makes radiocarbon dating possible, as carbon-14 decays through the weak interaction to nitrogen-14. It can also create radioluminescence, commonly used in tritium illumination, and in the related field of betavoltaics.[2]
+During the quark epoch of the early universe, the electroweak force separated into the electromagnetic and weak forces.
+History[edit]
+In 1933, Enrico Fermi proposed the first theory of the weak interaction, known as Fermi's interaction. He suggested that beta decay could be explained by a four-fermion interaction, involving a contact force with no range.[3][4]
+However, it is better described as a non-contact force field having a finite range, albeit very short.[citation needed] In 1968, Sheldon Glashow, Abdus Salam and Steven Weinberg unified the electromagnetic force and the weak interaction by showing them to be two aspects of a single force, now termed the electro-weak force.[citation needed]
+The existence of the W and Z bosons was not directly confirmed until 1983.[citation needed]
+Properties[edit]
+
+
+
+
+A diagram depicting the various decay routes due to the weak interaction and some indication of their likelihood. The intensity of the lines is given by the CKM parameters.
+
+
+The weak interaction is unique in a number of respects:
+
+It is the only interaction capable of changing the flavour of quarks (i.e., of changing one type of quark into another).
+It is the only interaction that violates P or parity-symmetry. It is also the only one that violates charge-parity CP symmetry.
+It is mediated (propagated) by force carrier particles that have significant masses, an unusual feature which is explained in the Standard Model by the Higgs mechanism.
+
+Due to their large mass (approximately 90 GeV/c2[5]) these carrier particles, termed the W and Z bosons, are short-lived with a lifetime of under 10−24 seconds.[6] The weak interaction has a coupling constant (an indicator of interaction strength) of between 10−7 and 10−6, compared to the strong interaction's coupling constant of 1 and the electromagnetic coupling constant of about 10−2;[7] consequently the weak interaction is weak in terms of strength.[8] The weak interaction has a very short range (around 10−17 to 10−16 m[8]).[7] At distances around 10−18 meters, the weak interaction has a strength of a similar magnitude to the electromagnetic force, but this starts to decrease exponentially with increasing distance. At distances of around 3×10−17 m, a distance which is scaled up by just one and a half decimal orders of magnitude from before, the weak interaction is 10,000 times weaker than the electromagnetic.[9]
+The weak interaction affects all the fermions of the Standard Model, as well as the Higgs boson; neutrinos interact through gravity and the weak interaction only, and neutrinos were the original reason for the name weak force.[8] The weak interaction does not produce bound states (nor does it involve binding energy) – something that gravity does on an astronomical scale, that the electromagnetic force does at the atomic level, and that the strong nuclear force does inside nuclei.[10]
+Its most noticeable effect is due to its first unique feature: flavour changing. A neutron, for example, is heavier than a proton (its sister nucleon), but it cannot decay into a proton without changing the flavour (type) of one of its two down quarks to an up quark. Neither the strong interaction nor electromagnetism permit flavour changing, so this proceeds by weak decay; without weak decay, quark properties such as strangeness and charm (associated with the quarks of the same name) would also be conserved across all interactions.
+All mesons are unstable because of weak decay.[11] In the process known as beta decay, a down quark in the neutron can change into an up quark by emitting a virtual W− boson which is then converted into an electron and an electron antineutrino.[12] Another example is the electron capture, a common variant of radioactive decay, wherein a proton and an electron within an atom interact, and are changed to a neutron (an up quark is changed to a down quark) and an electron neutrino is emitted.
+Due to the large masses of the W bosons, particle transformations or decays (e.g., flavour change) that depend on the weak interaction typically occur much more slowly than transformations or decays that depend only on the strong or electromagnetic forces. For example, a neutral pion decays electromagnetically, and so has a life of only about 10−16 seconds. In contrast, a charged pion can only decay through the weak interaction, and so lives about 10−8 seconds, or a hundred million times longer than a neutral pion.[13] A particularly extreme example is the weak-force decay of a free neutron, which takes about 15 minutes.[12]
+Weak isospin and weak hypercharge[edit]
+Main article: Weak isospin
+
+Left-handed fermions in the Standard Model[14]
+
+Generation 1
+Generation 2
+Generation 3
+
+
+Fermion
+Symbol
+Weak
+isospin
+Fermion
+Symbol
+Weak
+isospin
+Fermion
+Symbol
+Weak
+isospin
+
+
+Electron neutrino
+
+
+
+
+
+ν
+
+e
+
+
+
+
+
+{\displaystyle \nu _{e}\,}
+
+
+
+
+
+
++
+1
+
+/
+
+2
+
+
+
+{\displaystyle +1/2\,}
+
+
+Muon neutrino
+
+
+
+
+
+ν
+
+μ
+
+
+
+
+
+{\displaystyle \nu _{\mu }\,}
+
+
+
+
+
+
++
+1
+
+/
+
+2
+
+
+
+{\displaystyle +1/2\,}
+
+
+Tau neutrino
+
+
+
+
+
+ν
+
+τ
+
+
+
+
+
+{\displaystyle \nu _{\tau }\,}
+
+
+
+
+
+
++
+1
+
+/
+
+2
+
+
+
+{\displaystyle +1/2\,}
+
+
+
+
+Electron
+
+
+
+
+
+e
+
+−
+
+
+
+
+
+{\displaystyle e^{-}\,}
+
+
+
+
+
+
+−
+1
+
+/
+
+2
+
+
+
+{\displaystyle -1/2\,}
+
+
+Muon
+
+
+
+
+
+μ
+
+−
+
+
+
+
+
+{\displaystyle \mu ^{-}\,}
+
+
+
+
+
+
+−
+1
+
+/
+
+2
+
+
+
+{\displaystyle -1/2\,}
+
+
+Tau
+
+
+
+
+
+τ
+
+−
+
+
+
+
+
+{\displaystyle \tau ^{-}\,}
+
+
+
+
+
+
+−
+1
+
+/
+
+2
+
+
+
+{\displaystyle -1/2\,}
+
+
+
+
+Up quark
+
+
+
+
+u
+
+
+
+{\displaystyle u\,}
+
+
+
+
+
+
++
+1
+
+/
+
+2
+
+
+
+{\displaystyle +1/2\,}
+
+
+Charm quark
+
+
+
+
+c
+
+
+
+{\displaystyle c\,}
+
+
+
+
+
+
++
+1
+
+/
+
+2
+
+
+
+{\displaystyle +1/2\,}
+
+
+Top quark
+
+
+
+
+t
+
+
+
+{\displaystyle t\,}
+
+
+
+
+
+
++
+1
+
+/
+
+2
+
+
+
+{\displaystyle +1/2\,}
+
+
+
+
+Down quark
+
+
+
+
+d
+
+
+
+{\displaystyle d\,}
+
+
+
+
+
+
+−
+1
+
+/
+
+2
+
+
+
+{\displaystyle -1/2\,}
+
+
+Strange quark
+
+
+
+
+s
+
+
+
+{\displaystyle s\,}
+
+
+
+
+
+
+−
+1
+
+/
+
+2
+
+
+
+{\displaystyle -1/2\,}
+
+
+Bottom quark
+
+
+
+
+b
+
+
+
+{\displaystyle b\,}
+
+
+
+
+
+
+−
+1
+
+/
+
+2
+
+
+
+{\displaystyle -1/2\,}
+
+
+
+
+All left-handed antiparticles and right-handed (regular) particles have weak isospin of 0.
+Right-handed antiparticles have the opposite weak isospin.
+
+
+All particles have a property called weak isospin (symbol T3), which serves as a quantum number and governs how that particle behaves in the weak interaction. Weak isospin plays the same role in the weak interaction as does electric charge in electromagnetism, and color charge in the strong interaction. All left-handed fermions have a weak isospin value of either + 1⁄2 or − 1⁄2. For example, the up quark has a T3 of + 1⁄2 and the down quark − 1⁄2. A quark never decays through the weak interaction into a quark of the same T3: Quarks with a T3 of + 1⁄2 only decay into quarks with a T3 of − 1⁄2 and vice versa.
+
+
+
+
+π+ decay through the weak interaction
+
+
+In any given interaction, weak isospin is conserved: the sum of the weak isospin numbers of the particles entering the interaction equals the sum of the weak isospin numbers of the particles exiting that interaction. For example, a (left-handed) π+, with a weak isospin of 1 normally decays into a ν
+μ (+ 1⁄2) and a μ+ (as a right-handed antiparticle, + 1⁄2).[13]
+Following the development of the electroweak theory, another property, weak hypercharge, was developed. It is dependent on a particle's electrical charge and weak isospin, and is defined by:
+
+
+
+
+
+
+Y
+
+W
+
+
+=
+2
+(
+Q
+−
+
+T
+
+3
+
+
+)
+
+
+{\displaystyle \qquad Y_{W}=2(Q-T_{3})}
+
+
+where YW is the weak hypercharge of a given type of particle, Q is its electrical charge (in elementary charge units) and T3 is its weak isospin. Whereas some particles have a weak isospin of zero, all spin- 1⁄2 particles have non-zero weak hypercharge. Weak hypercharge is the generator of the U(1) component of the electroweak gauge group.
+Interaction types[edit]
+There are two types of weak interaction (called vertices). The first type is called the "charged-current interaction" because it is mediated by particles that carry an electric charge (the W+ or W− bosons), and is responsible for the beta decay phenomenon. The second type is called the "neutral-current interaction" because it is mediated by a neutral particle, the Z boson.
+Charged-current interaction[edit]
+
+
+
+
+The Feynman diagram for beta-minus decay of a neutron into a proton, electron and electron anti-neutrino, via an intermediate heavy W− boson
+
+
+In one type of charged current interaction, a charged lepton (such as an electron or a muon, having a charge of −1) can absorb a W+ boson (a particle with a charge of +1) and be thereby converted into a corresponding neutrino (with a charge of 0), where the type ("flavour") of neutrino (electron, muon or tau) is the same as the type of lepton in the interaction, for example:
+
+
+
+
+
+
+μ
+
+−
+
+
++
+
+W
+
++
+
+
+→
+
+ν
+
+μ
+
+
+
+
+{\displaystyle \mu ^{-}+W^{+}\to \nu _{\mu }}
+
+
+
+Similarly, a down-type quark (d with a charge of − 1⁄3) can be converted into an up-type quark (u, with a charge of + 2⁄3), by emitting a W− boson or by absorbing a W+ boson. More precisely, the down-type quark becomes a quantum superposition of up-type quarks: that is to say, it has a possibility of becoming any one of the three up-type quarks, with the probabilities given in the CKM matrix tables. Conversely, an up-type quark can emit a W+ boson, or absorb a W− boson, and thereby be converted into a down-type quark, for example:
+
+
+
+
+
+
+
+
+
+d
+
+
+
+→
+u
++
+
+W
+
+−
+
+
+
+
+
+
+d
++
+
+W
+
++
+
+
+
+
+
+→
+u
+
+
+
+
+c
+
+
+
+→
+s
++
+
+W
+
++
+
+
+
+
+
+
+c
++
+
+W
+
+−
+
+
+
+
+
+→
+s
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}d&\to u+W^{-}\\d+W^{+}&\to u\\c&\to s+W^{+}\\c+W^{-}&\to s\end{aligned}}}
+
+
+
+The W boson is unstable so will rapidly decay, with a very short lifetime. For example:
+
+
+
+
+
+
+
+
+
+
+W
+
+−
+
+
+
+
+
+→
+
+e
+
+−
+
+
++
+
+
+
+
+ν
+¯
+
+
+
+
+e
+
+
+ 
+
+
+
+
+
+W
+
++
+
+
+
+
+
+→
+
+e
+
++
+
+
++
+
+ν
+
+e
+
+
+ 
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}W^{-}&\to e^{-}+{\bar {\nu }}_{e}~\\W^{+}&\to e^{+}+\nu _{e}~\end{aligned}}}
+
+
+
+Decay of the W boson to other products can happen, with varying probabilities.[15]
+In the so-called beta decay of a neutron (see picture, above), a down quark within the neutron emits a virtual W− boson and is thereby converted into an up quark, converting the neutron into a proton. Because of the energy involved in the process (i.e., the mass difference between the down quark and the up quark), the W− boson can only be converted into an electron and an electron-antineutrino.[16] At the quark level, the process can be represented as:
+
+
+
+
+
+d
+→
+u
++
+
+e
+
+−
+
+
++
+
+
+
+
+ν
+¯
+
+
+
+
+e
+
+
+ 
+
+
+{\displaystyle d\to u+e^{-}+{\bar {\nu }}_{e}~}
+
+
+
+Neutral-current interaction[edit]
+In neutral current interactions, a quark or a lepton (e.g., an electron or a muon) emits or absorbs a neutral Z boson. For example:
+
+
+
+
+
+
+e
+
+−
+
+
+→
+
+e
+
+−
+
+
++
+
+Z
+
+0
+
+
+
+
+{\displaystyle e^{-}\to e^{-}+Z^{0}}
+
+
+
+Like the W boson, the Z boson also decays rapidly,[15] for example:
+
+
+
+
+
+
+Z
+
+0
+
+
+→
+b
++
+
+
+
+b
+¯
+
+
+
+
+
+{\displaystyle Z^{0}\to b+{\bar {b}}}
+
+
+
+Electroweak theory[edit]
+Main article: Electroweak interaction
+The Standard Model of particle physics describes the electromagnetic interaction and the weak interaction as two different aspects of a single electroweak interaction. This theory was developed around 1968 by Sheldon Glashow, Abdus Salam and Steven Weinberg, and they were awarded the 1979 Nobel Prize in Physics for their work.[17] The Higgs mechanism provides an explanation for the presence of three massive gauge bosons (W+, W−, Z0, the three carriers of the weak interaction) and the massless photon (γ, the carrier of the electromagnetic interaction).[18]
+According to the electroweak theory, at very high energies, the universe has four massless gauge boson fields – each similar to the photon – and a complex scalar Higgs field doublet. However, at low energies, this gauge symmetry is spontaneously broken down to the U(1) symmetry of electromagnetism, since one of the Higgs fields acquires a vacuum expectation value. This symmetry-breaking would produce three massless bosons, but they become integrated by the three photon-like fields and acquire mass through the Higgs mechanism. These three fields become the W+, W− and Z0 bosons of the weak interaction. The fourth gauge field is the photon of electromagnetism, and remains massless.[18]
+This theory has made a number of predictions, including a prediction of the masses of the Z and W-bosons before their discovery. On 4 July 2012, the CMS and the ATLAS experimental teams at the Large Hadron Collider independently announced that they had confirmed the formal discovery of a previously unknown boson of mass between 125–127 GeV/c2, whose behaviour so far was "consistent with" a Higgs boson, while adding a cautious note that further data and analysis were needed before positively identifying the new boson as being a Higgs boson of some type. By 14 March 2013, the Higgs boson was tentatively confirmed to exist.[19]
+Violation of symmetry[edit]
+
+
+
+
+Left- and right-handed particles: p is the particle's momentum and S is its spin. Note the lack of reflective symmetry between the states.
+
+
+The laws of nature were long thought to remain the same under mirror reflection. The results of an experiment viewed via a mirror were expected to be identical to the results of a mirror-reflected copy of the experimental apparatus. This so-called law of parity conservation was known to be respected by classical gravitation, electromagnetism and the strong interaction; it was assumed to be a universal law.[20] However, in the mid-1950s Chen-Ning Yang and Tsung-Dao Lee suggested that the weak interaction might violate this law. Chien Shiung Wu and collaborators in 1957 discovered that the weak interaction violates parity, earning Yang and Lee the 1957 Nobel Prize in Physics.[21]
+Although the weak interaction was once described by Fermi's theory, the discovery of parity violation and renormalization theory suggested that a new approach was needed. In 1957, Robert Marshak and George Sudarshan and, somewhat later, Richard Feynman and Murray Gell-Mann proposed a V−A (vector minus axial vector or left-handed) Lagrangian for weak interactions. In this theory, the weak interaction acts only on left-handed particles (and right-handed antiparticles). Since the mirror reflection of a left-handed particle is right-handed, this explains the maximal violation of parity. Interestingly, the V−A theory was developed before the discovery of the Z boson, so it did not include the right-handed fields that enter in the neutral current interaction.
+However, this theory allowed a compound symmetry CP to be conserved. CP combines parity P (switching left to right) with charge conjugation C (switching particles with antiparticles). Physicists were again surprised when in 1964, James Cronin and Val Fitch provided clear evidence in kaon decays that CP symmetry could be broken too, winning them the 1980 Nobel Prize in Physics.[22] In 1973, Makoto Kobayashi and Toshihide Maskawa showed that CP violation in the weak interaction required more than two generations of particles,[23] effectively predicting the existence of a then unknown third generation. This discovery earned them half of the 2008 Nobel Prize in Physics.[24] Unlike parity violation, CP violation occurs in only a small number of instances, but remains widely held as an answer to the difference between the amount of matter and antimatter in the universe; it thus forms one of Andrei Sakharov's three conditions for baryogenesis.[25]
+See also[edit]
+
+
+Physics portal
+
+
+
+Weakless Universe – the postulate that weak interactions are not anthropically necessary
+Gravity
+Nuclear force
+Electromagnetism
+
+References[edit]
+Citations[edit]
+
+
+^ Griffiths, David (2009). Introduction to Elementary Particles. pp. 59–60. ISBN 978-3-527-40601-2. 
+^ "The Nobel Prize in Physics 1979: Press Release". NobelPrize.org. Nobel Media. Retrieved 22 March 2011. 
+^ Fermi, Enrico (1934). "Versuch einer Theorie der β-Strahlen. I". Zeitschrift für Physik A. 88 (3–4): 161–177. Bibcode:1934ZPhy...88..161F. doi:10.1007/BF01351864. 
+^ Wilson, Fred L. (December 1968). "Fermi's Theory of Beta Decay". American Journal of Physics. 36 (12): 1150–1160. Bibcode:1968AmJPh..36.1150W. doi:10.1119/1.1974382. 
+^ W.-M. Yao et al. (Particle Data Group) (2006). "Review of Particle Physics: Quarks" (PDF). Journal of Physics G. 33: 1–1232. arXiv:astro-ph/0601168 . Bibcode:2006JPhG...33....1Y. doi:10.1088/0954-3899/33/1/001. 
+^ Peter Watkins (1986). Story of the W and Z. Cambridge: Cambridge University Press. p. 70. ISBN 978-0-521-31875-4. 
+^ a b "Coupling Constants for the Fundamental Forces". HyperPhysics. Georgia State University. Retrieved 2 March 2011. 
+^ a b c J. Christman (2001). "The Weak Interaction" (PDF). Physnet. Michigan State University. Archived from the original (PDF) on 20 July 2011. 
+^ "Electroweak". The Particle Adventure. Particle Data Group. Retrieved 3 March 2011. 
+^ Walter Greiner; Berndt Müller (2009). Gauge Theory of Weak Interactions. Springer. p. 2. ISBN 978-3-540-87842-1. 
+^ Cottingham & Greenwood (1986, 2001), p.29
+^ a b Cottingham & Greenwood (1986, 2001), p.28
+^ a b Cottingham & Greenwood (1986, 2001), p.30
+^ Baez, John C.; Huerta, John (2009). "The Algebra of Grand Unified Theories". Bull. Am. Math. Soc. 0904: 483–552. arXiv:0904.1556 . Bibcode:2009arXiv0904.1556B. doi:10.1090/s0273-0979-10-01294-2. Retrieved 15 October 2013. 
+^ a b K. Nakamura et al. (Particle Data Group) (2010). "Gauge and Higgs Bosons" (PDF). Journal of Physics G. 37. Bibcode:2010JPhG...37g5021N. doi:10.1088/0954-3899/37/7a/075021. 
+^ K. Nakamura et al. (Particle Data Group) (2010). "n" (PDF). Journal of Physics G. 37: 7. Bibcode:2010JPhG...37g5021N. doi:10.1088/0954-3899/37/7a/075021. 
+^ "The Nobel Prize in Physics 1979". NobelPrize.org. Nobel Media. Retrieved 26 February 2011. 
+^ a b C. Amsler et al. (Particle Data Group) (2008). "Review of Particle Physics – Higgs Bosons: Theory and Searches" (PDF). Physics Letters B. 667: 1–6. Bibcode:2008PhLB..667....1A. doi:10.1016/j.physletb.2008.07.018. 
+^ "New results indicate that new particle is a Higgs boson | CERN". Home.web.cern.ch. Retrieved 20 September 2013. 
+^ Charles W. Carey (2006). "Lee, Tsung-Dao". American scientists. Facts on File Inc. p. 225. ISBN 9781438108070. 
+^ "The Nobel Prize in Physics 1957". NobelPrize.org. Nobel Media. Retrieved 26 February 2011. 
+^ "The Nobel Prize in Physics 1980". NobelPrize.org. Nobel Media. Retrieved 26 February 2011. 
+^ M. Kobayashi; T. Maskawa (1973). "CP-Violation in the Renormalizable Theory of Weak Interaction". Progress of Theoretical Physics. 49 (2): 652–657. Bibcode:1973PThPh..49..652K. doi:10.1143/PTP.49.652. hdl:2433/66179. 
+^ "The Nobel Prize in Physics 1980". NobelPrize.org. Nobel Media. Retrieved 17 March 2011. 
+^ Paul Langacker (2001) [1989]. "Cp Violation and Cosmology". In Cecilia Jarlskog. CP violation. London, River Edge: World Scientific Publishing Co. p. 552. ISBN 9789971505615. 
+
+
+General readers[edit]
+
+R. Oerter (2006). The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Plume. ISBN 978-0-13-236678-6. 
+B.A. Schumm (2004). Deep Down Things: The Breathtaking Beauty of Particle Physics. Johns Hopkins University Press. ISBN 0-8018-7971-X. 
+
+Texts[edit]
+
+Walter Greiner; B. Müller (2000). Gauge Theory of Weak Interactions. Springer. ISBN 3-540-67672-4. 
+G.D. Coughlan; J.E. Dodd; B.M. Gripaios (2006). The Ideas of Particle Physics: An Introduction for Scientists (3rd ed.). Cambridge University Press. ISBN 978-0-521-67775-2. 
+W. N. Cottingham; D. A. Greenwood (2001) [1986]. An introduction to nuclear physics (2nd ed.). Cambridge University Press. p. 30. ISBN 978-0-521-65733-4. 
+D.J. Griffiths (1987). Introduction to Elementary Particles. John Wiley & Sons. ISBN 0-471-60386-4. 
+G.L. Kane (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 0-201-11749-5. 
+D.H. Perkins (2000). Introduction to High Energy Physics. Cambridge University Press. ISBN 0-521-62196-8. 
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Weak interaction
+
+
+
+Harry Cheung, The Weak Force @Fermilab
+Fundamental Forces @Hyperphysics, Georgia State University.
+Brian Koberlein, What is the weak force?
+
+
+
+
+
+
+
+v
+t
+e
+
+
+The fundamental interactions of physics
+
+
+
+
+Physical forces
+
+Strong interaction
+Weak interaction
+Electromagnetism
+Gravitation
+
+
+
+
+
+
+Radiations
+
+Electromagnetic radiation
+Gravitational radiation
+
+
+
+
+
+
+Hypothetical forces
+
+Quintessence
+Weak gravity conjecture
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4129644-8
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Weak_interaction&oldid=808224043"					
+Categories: Nuclear physicsElectroweak theoryConcepts in physicsHidden categories: Use dmy dates from October 2013Use British English Oxford spelling from August 2016Good articlesAll articles with unsourced statementsArticles with unsourced statements from November 2015Use dmy dates from March 2011Wikipedia articles with GND identifiers 

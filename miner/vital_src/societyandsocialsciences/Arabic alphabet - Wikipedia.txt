@@ -1,0 +1,3695 @@
+Arabic alphabet - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Arabic Alphabet
+
+
+
+
+
+Type
+
+Impure abjad
+
+
+
+Languages
+Arabic
+
+
+
+Time period
+
+356 AD to the present
+
+
+
+Parent systems
+
+
+Egyptian
+
+Proto-Sinaitic
+
+Phoenician
+
+Aramaic
+
+Syriac
+
+Nabataean
+
+Arabic Alphabet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Direction
+Right-to-left
+
+
+ISO 15924
+Arab, 160
+
+
+
+Unicode alias
+
+Arabic
+
+
+
+Unicode range
+
+
+
+
+U+0600–U+06FF Arabic
+U+0750–U+077F Arabic Supplement
+U+08A0–U+08FF Arabic Extended-A
+U+FB50–U+FDFF Arabic Presentation Forms-A
+U+FE70–U+FEFF Arabic Presentation Forms-B
+U+1EE00–U+1EEFF Arabic Mathematical Alphabetic Symbols
+
+
+
+
+
+This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+
+
+
+
+Arabic alphabet
+
+
+
+
+Arabic script
+
+
+
+
+History
+Transliteration
+Diacritics
+Hamza
+Numerals
+Numeration
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+History of the alphabet
+
+
+Egyptian hieroglyphs 32 c. BCE
+
+Hieratic 32 c. BCE
+
+Demotic 7 c. BCE
+
+Meroitic 3 c. BCE
+
+
+
+
+Proto-Sinaitic 19 c. BCE
+
+Ugaritic 15 c. BCE
+Epigraphic South Arabian 9 c. BCE
+
+Ge’ez 5–6 c. BCE
+
+
+Phoenician 12 c. BCE
+
+Paleo-Hebrew 10 c. BCE
+
+Samaritan 6 c. BCE
+
+
+Libyco-Berber 3 c. BCE
+
+Tifinagh
+
+
+Paleohispanic (semi-syllabic) 7 c. BCE
+Aramaic 8 c. BCE
+
+Kharoṣṭhī 4 c. BCE
+Brāhmī 4 c. BCE
+
+Brahmic family (see)
+
+E.g. Tibetan 7 c. CE
+Devanagari 13 c. CE
+
+Canadian syllabics 1840
+
+
+
+
+
+
+Hebrew 3 c. BCE
+Pahlavi 3 c. BCE
+
+Avestan 4 c. CE
+
+
+Palmyrene 2 c. BCE
+Syriac 2 c. BCE
+
+Nabataean 2 c. BCE
+
+Arabic 4 c. CE
+
+N'Ko 1949 CE
+
+
+
+
+Sogdian 2 c. BCE
+
+Orkhon (old Turkic) 6 c. CE
+
+Old Hungarian c. 650 CE
+
+
+Old Uyghur
+
+Mongolian 1204 CE
+
+
+
+
+
+
+Mandaic 2 c. CE
+
+
+Greek 8 c. BCE
+
+Etruscan 8 c. BCE
+
+Latin 7 c. BCE
+
+Cherokee (syllabary; letter forms only) c. 1820 CE
+
+
+Runic 2 c. CE
+Ogham (origin uncertain) 4 c. CE
+
+
+Coptic 3 c. CE
+Gothic 3 c. CE
+Armenian 405 CE
+Georgian (origin uncertain) c. 430 CE
+Glagolitic 862 CE
+Cyrillic c. 940 CE
+
+Old Permic 1372 CE
+
+
+
+
+
+
+
+
+
+Hangul 1443 (probably influenced by Tibetan)
+Thaana 18 c. CE (derived from Brahmi numerals)
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This article contains Arabic text. Without proper rendering support, you may see question marks, boxes, or other symbols.
+
+
+
+
+
+
+Countries that utilise the Arabic script:
+  as the sole official script
+  as a co-official script.
+
+
+
+The Arabic alphabet (Arabic: الأَبْجَدِيَّة العَرَبِيَّة‎ al-abjadīyah al-ʻarabīyah, or الحُرُوف العَرَبِيَّة al-ḥurūf al-ʻarabīyah) or Arabic abjad is the Arabic script as it is codified for writing the Arabic language. It is written from right to left in a cursive style and includes 28 letters.
+Originally, the alphabet was an abjad, with only consonants, but it is now considered an "impure abjad". As with other abjads, such as the Hebrew alphabet, scribes later devised means of indicating vowel sounds by separate vowel points.
+
+
+
+Contents
+
+
+1 Consonants
+
+1.1 Alphabetical order
+
+1.1.1 Abjadī
+1.1.2 Hijā’ī
+
+
+1.2 Letter forms
+
+1.2.1 Table of basic letters
+1.2.2 Alif
+1.2.3 Modified letters
+1.2.4 Ligatures
+1.2.5 Gemination
+1.2.6 Nunation
+
+
+
+
+2 Vowels
+
+2.1 Short vowels
+2.2 Long vowels
+2.3 Diphthongs
+2.4 Vowel omission
+
+
+3 Additional letters
+
+3.1 Regional variations
+3.2 Non-native letters
+3.3 Used in languages other than Arabic
+
+
+4 Numerals
+
+4.1 Letters as numerals
+
+
+5 History
+
+5.1 Arabic printing presses
+
+
+6 Computers
+
+6.1 Unicode
+6.2 Keyboards
+6.3 Handwriting recognition
+
+
+7 See also
+8 References
+9 External links
+
+
+
+Consonants[edit]
+The basic Arabic alphabet contains 28 letters. Adaptations of the Arabic script for other languages added and removed some letters, as for Kurdish, Persian, Ottoman Turkish, Sindhi, Urdu, Malay, Pashto, Arwi and Malayalam (Arabi Malayalam), all of which have additional letters as shown below. There are no distinct upper and lower case letter forms.
+Many letters look similar but are distinguished from one another by dots (i‘jām) above or below their central part (rasm). These dots are an integral part of a letter, since they distinguish between letters that represent different sounds. For example, the Arabic letters ب (b), ت (t), and ث (th) have the same basic shape, but have one dot below, two dots above, and three dots above; the letter ن (n) also has the same form in initial and medial forms, with one dot above, though it is somewhat different in isolated and final form.
+Both printed and written Arabic are cursive, with most of the letters within a word directly connected to the adjacent letters.
+Alphabetical order[edit]
+There are two main collating sequences for the Arabic alphabet: abjad and hija.
+The original abjadī order (أَبْجَدِي), used for lettering, derives from the order of the Phoenician alphabet, and is therefore similar to the order of other Phoenician-derived alphabets, such as the Hebrew alphabet. In this order, letters are also used as numbers, Abjad numerals, and possess the same alphanumeric code/cipher as Hebrew gematria and Greek isopsephy.
+The hijā’ī (هِجَائِي) or alifbā’ī (أَلِفْبَائِي) order, used where lists of names and words are sorted, as in phonebooks, classroom lists, and dictionaries, groups letters by similarity of shape.
+Abjadī[edit]
+The abjadī order is not a simple historical continuation of the earlier north Semitic alphabetic order, since it has a position corresponding to the Aramaic letter samekh / semkat ס, yet no letter of the Arabic alphabet historically derives from that letter. Loss of sameḵ was compensated for by the split of shin ש into two independent Arabic letters, ش (shīn) and ﺱ (sīn) which moved up to take the place of sameḵ. The six other letters that do not correspond to any north Semitic letter are placed at the end.
+
+Common abjadī sequence
+
+غ
+ظ
+ض
+ذ
+خ
+ث
+ت
+ش
+ر
+ق
+ص
+ف
+ع
+س
+ن
+م
+ل
+ك
+ي
+ط
+ح
+ز
+و
+هـ
+د
+ج
+ب
+ا
+
+
+gh
+ẓ
+ḍ
+dh
+kh
+th
+t
+sh
+r
+q
+ṣ
+f
+‘
+s
+n
+m
+l
+k
+y
+ṭ
+ḥ
+z
+w
+h
+d
+j
+b
+ā
+
+
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+09
+08
+07
+06
+05
+04
+03
+02
+01
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is commonly vocalized as follows:
+
+abjad hawwaz ḥuṭṭī kalaman sa‘faṣ qarashat thakhadh ḍaẓagh.
+
+Another vocalization is:
+
+abujadin hawazin ḥuṭiya kalman sa‘faṣ qurishat thakhudh ḍaẓugh
+
+
+Maghrebian abjadī sequence (probably older)[1]
+
+ش
+غ
+ظ
+ذ
+خ
+ث
+ت
+س
+ر
+ق
+ض
+ف
+ع
+ص
+ن
+م
+ل
+ك
+ي
+ط
+ح
+ز
+و
+هـ
+د
+ج
+ب
+ا
+
+
+sh
+gh
+ẓ
+dh
+kh
+th
+t
+s
+r
+q
+ḍ
+f
+‘
+ṣ
+n
+m
+l
+k
+y
+ṭ
+ḥ
+z
+w
+h
+d
+j
+b
+ā
+
+
+28
+27
+26
+25
+24
+23
+22
+21
+20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+10
+09
+08
+07
+06
+05
+04
+03
+02
+01
+
+
+
+
+
+
+
+
+
+
+
+
+
+This can be vocalized as:
+
+abujadin hawazin ḥuṭiya kalman ṣa‘faḍ qurisat thakhudh ẓaghush
+
+Hijā’ī[edit]
+Modern dictionaries and other reference books do not use the abjadī order to sort alphabetically; instead, the newer hijā’ī order is used wherein letters are partially grouped together by similarity of shape. The hijā’ī order is never used as numerals.
+
+Common hijā’ī order
+
+ي
+و
+هـ
+ن
+م
+ل
+ك
+ق
+ف
+غ
+ع
+ظ
+ط
+ض
+ص
+ش
+س
+ز
+ر
+ذ
+د
+خ
+ح
+ج
+ث
+ت
+ب
+ا
+
+
+y
+w
+h
+n
+m
+l
+k
+q
+f
+gh
+‘
+ẓ
+ṭ
+ḍ
+ṣ
+sh
+s
+z
+r
+dh
+d
+kh
+ḥ
+j
+th
+t
+b
+ā
+
+
+
+
+
+
+
+
+
+
+
+Another kind of hijā’ī order was used widely in the Maghreb until recently[when?] when it was replaced by the Mashriqi order.[1]
+
+Maghrebian hijā’ī order
+
+ي
+و
+هـ
+ش
+س
+ق
+ف
+غ
+ع
+ض
+ص
+ن
+م
+ل
+ك
+ظ
+ط
+ز
+ر
+ذ
+د
+خ
+ح
+ج
+ث
+ت
+ب
+ا
+
+
+y
+w
+h
+sh
+s
+q
+f
+gh
+‘
+ḍ
+ṣ
+n
+m
+l
+k
+ẓ
+ṭ
+z
+r
+dh
+d
+kh
+ḥ
+j
+th
+t
+b
+ā
+
+
+
+
+
+
+
+
+
+
+
+Letter forms[edit]
+
+
+
+
+
+Calligraphy
+
+
+
+
+Arabic
+Chinese
+Georgian
+Indian
+Islamic
+Japanese
+Korean
+Mongolian
+Persian
+Tibetan
+Western
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The Arabic alphabet is always cursive and letters vary in shape depending on their position within a word. Letters can exhibit up to four distinct forms corresponding to an initial, medial (middle), final, or isolated position (IMFI). While some letters show considerable variations, others remain almost identical across all four positions. Generally, letters in the same word are linked together on both sides by short horizontal lines, but six letters (و ز ر ذ د ا) can only be linked to their preceding letter. For example, أرارات (Ararat) has only isolated forms because each letter cannot be connected to its following one. In addition, some letter combinations are written as ligatures (special shapes), notably lām-alif.[2]
+Table of basic letters[edit]
+For other uses, see Arabic script.
+
+Arabic letters usage in Literary Arabic
+
+Common
+Maghrebian
+Letter
+name
+Letter
+name in Arabic script
+Trans-
+literation
+Value in Literary Arabic (IPA)
+Closest English equivalent in pronunciation
+Contextual forms
+Isolated
+form
+
+
+Abjadī
+Hijā'ī
+Abjadī
+Hijā'ī
+Final
+Medial
+Initial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+1.
+1.
+1.
+1.
+’alif
+أَلِفْ
+ā / ’
+(also ʾ )
+
+various,
+including /aː/[a]
+up, father
+ـا
+ا
+
+
+2.
+2.
+2.
+2.
+bā’
+بَاء
+b
+/b/[b]
+barn
+ـب
+ـبـ
+بـ
+ب
+
+
+22.
+3.
+22.
+3.
+tā’
+تَاء
+t
+/t/
+stick
+ـت
+ـتـ
+تـ
+ت
+
+
+23.
+4.
+23.
+4.
+thā’
+ثَاء
+th
+(also ṯ )
+
+/θ/
+think
+ـث
+ـثـ
+ثـ
+ث
+
+
+3.
+5.
+3.
+5.
+jīm
+جِيمْ
+j
+(also ǧ )
+
+/d͡ʒ/[b][c]
+Jim, gym
+ـج
+ـجـ
+جـ
+ج
+
+
+8.
+6.
+8.
+6.
+ḥā’
+حَاء
+ḥ
+(also ḩ )
+
+/ħ/
+no equivalent
+("guttural" h, may be approximated as heart)
+
+ـح
+ـحـ
+حـ
+ح
+
+
+24.
+7.
+24.
+7.
+khā’
+خَاء
+kh
+(also ḫ, ḵ, ẖ )
+
+/x/
+loch; German Bach
+ـخ
+ـخـ
+خـ
+خ
+
+
+4.
+8.
+4.
+8.
+dāl
+دَالْ
+d
+/d/
+dear
+ـد
+د
+
+
+25.
+9.
+25.
+9.
+dhāl
+ذَال
+dh
+(also ḏ )
+
+/ð/
+that
+ـذ
+ذ
+
+
+20.
+10.
+20.
+10.
+rā’
+رَاء
+r
+/r/
+rap
+ـر
+ر
+
+
+7.
+11.
+7.
+11.
+zayn / zāy
+زَاي
+z
+/z/
+zebra
+ـز
+ز
+
+
+15.
+12.
+21.
+24.
+sīn
+ِسِينْ
+s
+/s/
+sin
+ـس
+ـسـ
+سـ
+س
+
+
+21.
+13.
+28.
+25.
+shīn
+شِينْ
+sh
+(also š )
+
+/ʃ/
+shin
+ـش
+ـشـ
+شـ
+ش
+
+
+18.
+14.
+15.
+18.
+ṣād
+صَادْ
+ṣ
+(also ş )
+
+/sˤ/
+swarm
+ـص
+ـصـ
+صـ
+ص
+
+
+26.
+15.
+18.
+19.
+ḍād
+ضَاد
+ḍ
+(also ḑ )
+
+/dˤ/
+dwarf
+ـض
+ـضـ
+ضـ
+ض
+
+
+9.
+16.
+9.
+12.
+ṭā’
+طَاء
+ṭ
+(also ţ )
+
+/tˤ/
+star
+ـط
+ـطـ
+طـ
+ط
+
+
+27.
+17.
+26.
+13.
+ẓā’
+ظَاء
+ẓ
+(also z̧ )
+
+/ðˤ/
+buzzword
+ـظ
+ـظـ
+ظـ
+ظ
+
+
+16.
+18.
+16.
+20.
+‘ayn
+عَين
+ ‘ 
+(also ʿ )
+
+/ʕ/
+no equivalent
+("guttural" voiced h; similar to ḥā’ above)
+
+ـع
+ـعـ
+عـ
+ع
+
+
+28.
+19.
+27.
+21.
+ghayn
+غَين
+gh
+(also ġ, ḡ )
+
+/ɣ/[b]
+Spanish higo
+ـغ
+ـغـ
+غـ
+غ
+
+
+17.
+20.
+17.
+22.
+fā’
+فَاء
+f
+/f/[b]
+far
+ـف
+ـفـ
+فـ
+ف[d]
+
+
+19.
+21.
+19.
+23.
+qāf
+قَاف
+q
+/q/[b]
+scar
+ـق
+ـقـ
+قـ
+ق[d]
+
+
+11.
+22.
+11.
+14.
+kāf
+كَاف
+k
+/k/[b]
+key, cap
+ـك
+ـكـ
+كـ
+ك
+
+
+12.
+23.
+12.
+15.
+lām
+لاَمْ
+l
+/l/
+lamp
+ـل
+ـلـ
+لـ
+ل
+
+
+13.
+24.
+13.
+16.
+mīm
+مِيمْ
+m
+/m/
+me
+ـم
+ـمـ
+مـ
+م
+
+
+14.
+25.
+14.
+17.
+nūn
+نُون
+n
+/n/
+nun
+ـن
+ـنـ
+نـ
+ن
+
+
+5.
+26.
+5.
+26.
+hā’
+هَاء
+h
+/h/
+hat
+ـه
+ـهـ
+هـ
+ه
+
+
+6.
+27.
+6.
+27.
+wāw
+وَاو
+w / ū
+/w/, /uː/[b]
+we
+ـو
+و
+
+
+10.
+28.
+10.
+28.
+yā’
+يَاء
+y / ī
+/j/, /iː/[b]
+yacht
+ـي
+ـيـ
+يـ
+ي[d]
+
+
+
+
+
+(not counted as alphabet but plays an important role in Arabic grammar and lexicon, including indication [denoting most irregular female nouns] and spelling)
+hamzah
+هَمْزة
+’
+(also ʾ )
+
+/ʔ/
+ uh–oh
+(aka "glottal stop")
+
+ء
+(used mainly in medial and final position, which is an unlinked letter)
+
+
+
+ʼalīf hamzah
+أَلِفْ هَمْزة
+ـأ
+أ
+
+
+ـإ
+إ
+
+
+wāw hamzah
+وَاو هَمْزة
+ـؤ
+ؤ
+
+
+yāʼ hamzah
+يَاء هَمْزة
+ـئ
+ـئـ
+ئـ
+ئ
+
+
+ʼalīf maddah
+أَلِفْ مَدَّة
+ʾā
+/ʔaː/
+
+ـآ
+آ
+
+
+Notes
+
+
+
+^ Alif can represent many phonemes. See the section on alif.
+^ a b c d e f g h See the section on non-native letters and sounds; the letters ⟨ك⟩ ,⟨ق⟩ ,⟨غ⟩ ,⟨ج⟩ are sometimes used to transcribe the phoneme /g/ in loanwords, ⟨ب⟩ to transcribe /p/ and ⟨ف⟩ to transcribe /v/. Likewise the letters ⟨و⟩ and ⟨ي⟩ are used to transcribe the vowels /oː/ and /eː/ respectively in loanwords and dialects.
+^ ج is pronounced differently depending on the region. See Arabic phonology#Consonants.
+^ a b c See the section on regional variations in letter form.
+
+
+
+
+See the article Romanization of Arabic for details on various transliteration schemes; however, Arabic language speakers may usually not follow a standardized scheme when transcribing names. Also names are regularly transcribed as pronounced locally, not as pronounced in Literary Arabic (if they were of Arabic origin).
+Regarding pronunciation, the phonemic values given are those of Modern Standard Arabic, which is taught in schools and universities. In practice, pronunciation may vary considerably from region to region. For more details concerning the pronunciation of Arabic, consult the articles Arabic phonology and varieties of Arabic.
+The names of the Arabic letters can be thought of as abstractions of an older version where they were meaningful words in the Proto-Semitic language. Names of Arabic letters may have quite different names popularly.
+Six letters (و ز ر ذ د ا) don't have a distinct medial form and have to be written with their final form without being connected to the next letter. Their initial form matches the isolated form.
+The letter alif originated in the Phoenician alphabet as a consonant-sign indicating a glottal stop. Today it has lost its function as a consonant, and, together with ya’ and wāw, is a mater lectionis, a consonant sign standing in for a long vowel (see below), or as support for certain diacritics (maddah and hamzah).
+Arabic currently uses a diacritic sign, ء, called hamzah, to denote the glottal stop [ʔ], written alone or with a carrier:
+
+alone: ء
+with a carrier: إ أ (above or under a alif), ؤ (above a wāw), ئ (above a dotless yā’ or yā’ hamzah).
+
+
+
+
+In academic work, the hamzah (ء) is transliterated with the modifier letter right half ring (ʾ), while the modifier letter left half ring (ʿ) transliterates the letter ‘ayn (ع), which represents a different sound, not found in English.
+
+
+
+
+Letters lacking an initial or medial version are never linked to the letter that follows, even within a word. The hamzah has a single form, since it is never linked to a preceding or following letter. However, it is sometimes combined with a wāw, yā’, or alif, and in that case the carrier behaves like an ordinary wāw, yā’, or alif.
+
+
+
+Alif[edit]
+
+
+Context
+Form
+Value
+Closest English Equivalent
+
+
+Without diacritics
+ا
+
+
+initially: a, i   /a, i/ or sometimes silent in the definite article ال (a)l-
+medially or finally: ā   /aː/
+
+
+Initial position: a - up; i - hip
+Medial/ Final position: a - up
+
+
+
+With hamzah over
+أ
+
+
+Initial/ medial/ final: followed by fat·ḥah - ʾa, or ḍammah - ʾu
+Isolated or on its own without a vowel (usually followed by a sukūn): /ʾ/, pronounced as a glottal stop like "uh" in "uh-oh"
+
+
+Initial/ Medial/ Final position: ʾa - heart; ʾu - pour
+Isolated or on its own without a vowel usually appearing in this case, the medial and final position (usually followed by a sukūn): /ʾ/, pronounced as a glottal stop like "uh" in "uh-oh"
+
+
+
+With hamzah under
+إ
+
+
+initially: ʾi   /ʔi/
+does not appear medially or finally (see hamza)
+
+
+Initial position: ʾi - inn
+
+
+With maddah
+آ
+ʾā   /ʔaː/
+Initial/ Medial/ Final position: aardvark
+
+
+Modified letters[edit]
+The following are not individual letters, but rather different contextual variants of some of the Arabic letters.
+
+
+Conditional forms
+Name
+Translit.
+Phonemic Value (IPA)
+
+
+Isolated
+Final
+Medial
+Initial
+
+
+آ
+ـآ
+آ
+alif maddah
+ā
+/ʔaː/
+
+
+ة
+ـة
+
+
+tā’ marbūṭah
+h or
+t / h / ẗ
+used in final position only and for denoting the feminine noun/word or to make the noun/word feminine, however in rare irregular noun/word cases, it appears to denote the "masculine";
+singular nouns: 1. /ah/
+2. if the case is, tā’ marbūṭah followed by the definite article "al" [ال] transforms into /at ’ul/ usually in the nominative case;
+plural nouns: /āt/ (a preceding letter followed by a fatḥah alif + tā’ = ـَات‎)
+
+
+
+ى
+ـى
+
+
+alif maqṣūrah
+ā / á / ỳ
+used in the final position only and in some special cases, denoting the feminine aspect of the noun/word which acts similar to tā’ marbūṭah;
+/aː/
+(aka "shortened ’alīf" - thus the Arabic name, its purpose is for writing purposes mostly used in classical texts and in some dialects like Egyptian Arabic
+
+
+
+Ligatures[edit]
+
+
+
+
+Components of a ligature for "Allah":
+1. alif
+2. hamzat waṣl (همزة وصل)
+3. lām
+4. lām
+5. shadda (شدة)
+6. dagger alif (ألف خنجرية)
+7. hāʾ
+
+
+The use of ligature in Arabic is common. There is one compulsory ligature, that for lām + alif, which exists in two forms. All other ligatures (yā’ + mīm, etc.) are optional.
+
+
+Contextual forms
+Name
+Trans.
+Value
+
+
+Final
+Medial
+Initial
+Isolated
+
+
+ﻼ
+ﻻ
+lām + alif
+laa
+/lā/
+
+
+A more complex ligature that combines as many as seven distinct components is commonly used to represent the word Allāh.
+The only ligature within the primary range of Arabic script in Unicode (U+06xx) is lām + alif. This is the only one compulsory for fonts and word-processing. Other ranges are for compatibility to older standards and contain other ligatures, which are optional.
+
+lām + alif
+
+لا
+
+
+
+Note: Unicode also has in its Presentation Form B FExx range a code for this ligature. If your browser and font are configured correctly for Arabic, the ligature displayed above should be identical to this one, U+FEFB ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM:
+
+
+
+ﻻ
+
+
+
+
+U+0640 ARABIC TATWEEL + lām + alif
+
+ـلا
+
+
+
+Note: Unicode also has in its Presentation Form B U+FExx range a code for this ligature. If your browser and font are configured correctly for Arabic, the ligature displayed above should be identical to this one:
+
+U+FEFC ARABIC LIGATURE LAM WITH ALEF FINAL FORM
+
+ﻼ
+
+
+
+Another ligature in the Unicode Presentation Form A range U+FB50 to U+FDxx is the special code for glyph for the ligature Allāh ("God"), U+FDF2 ARABIC LIGATURE ALLAH ISOLATED FORM:
+
+
+
+ﷲ
+
+
+
+This is a work-around for the shortcomings of most text processors, which are incapable of displaying the correct vowel marks for the word Allāh in Koran. Because Arabic script is used to write other texts rather than Koran only, rendering lām + lām + hā’ as the previous ligature is considered faulty:[3] If one of a number of fonts (Noto Naskh Arabic, mry_KacstQurn, KacstOne, DejaVu Sans, Harmattan, Scheherazade, Lateef, Iranian Sans) is installed on a computer (Iranian Sans is supported by Wikimedia web-fonts), the word will appear without diacritics.
+
+lām + lām + hā’ = LILLĀH (meaning "to Allāh [only to Allah])
+
+لله  or   لله
+
+
+alif + lām + lām + hā’ = ALLĀH (the Islamic name for "God")
+
+الله  or   الله
+
+
+alif + lām + lām + U+0651 ARABIC SHADDA + U+0670 ARABIC LETTER SUPERSCRIPT ALEF + hā’
+
+اللّٰه   (DejaVu Sans and KacstOne don't show the added superscript Alef)
+
+
+
+An attempt to show them on the faulty fonts without automatically adding the gemination mark and the superscript alif, although may not display as desired on all browsers, is by adding the U+200d (Zero width joiner) after the first or second lām
+
+(alif +) lām + lām + U+200d ZERO WIDTH JOINER + hā’
+
+الل‍ه   ‎   لل‍ه
+
+
+
+Gemination[edit]
+Further information: Shadda
+Gemination is the doubling of a consonant. Instead of writing the letter twice, Arabic places a W-shaped sign called shaddah, above it. Note that if a vowel occurs between the two consonants the letter will simply be written twice. The diacritic only appears where the consonant at the end of one syllable is identical to the initial consonant of the following syllable. (The generic term for such diacritical signs is ḥarakāt).
+
+
+General
+Unicode
+Name
+Name in Arabic script
+Transliteration
+
+
+0651
+ ّ‎
+shaddah
+شَدَّة
+(consonant doubled)
+
+
+Nunation[edit]
+Main article: Nunation
+Nunation (Arabic: تنوين‎ tanwīn) is the addition of a final -n  to a noun or adjective. The vowel before it indicates grammatical case. In written Arabic nunation is indicated by doubling the vowel diacritic at the end of the word.
+Vowels[edit]
+Users of Arabic usually write long vowels but omit short ones, so readers must utilize their knowledge of the language in order to supply the missing vowels. However, in the education system and particularly in classes on Arabic grammar these vowels are used since they are crucial to the grammar. An Arabic sentence can have a completely different meaning by a subtle change of the vowels. This is why in an important text such as the Qur’ān the three basic vowel signs (see below) are mandated, like the ḥarakāt and all the other diacritics or other types of marks, for example the cantillation signs.
+Short vowels[edit]
+Further information: Arabic diacritics
+In the Arabic handwriting of everyday use, in general publications, and on street signs, short vowels are typically not written. On the other hand, copies of the Qur’ān cannot be endorsed by the religious institutes that review them unless the diacritics are included. Children's books, elementary school texts, and Arabic-language grammars in general will include diacritics to some degree. These are known as "vocalized" texts.
+Short vowels may be written with diacritics placed above or below the consonant that precedes them in the syllable, called ḥarakāt. All Arabic vowels, long and short, follow a consonant; in Arabic, words like "Ali" or "alif", for example, start with a consonant: ‘Aliyy, alif.
+
+
+Short vowels
+(fully vocalized text)
+Code
+Name
+Name in Arabic script
+Trans.
+Value
+
+
+
+▖َ‎
+064E
+fat·ḥah
+فَتْحَة
+a
+/a/
+
+
+
+▖ُ‎
+064F
+ḍammah
+ضَمَّة
+u
+/u/
+
+
+
+▘ِ‎
+0650
+kasrah
+كَسْرَة
+i
+/i/
+
+
+Long vowels[edit]
+In the fully vocalized Arabic text found in texts such as Quran, a long ā following a consonant other than a hamzah is written with a short a sign (fatḥah) on the consonant plus an alif after it; long ī is written as a sign for short i (kasrah) plus a yā’; and long ū as a sign for short u (ḍammah) plus a wāw. Briefly, ᵃa = ā, ⁱy = ī and ᵘw = ū. Long ā following a hamzah may be represented by an alif maddah or by a free hamzah followed by an alif.
+The table below shows vowels placed above or below a dotted circle replacing a primary consonant letter or a shaddah sign. For clarity in the table, the primary letters on the left used to mark these long vowels are shown only in their isolated form. Please note that most consonants do connect to the left with alif, wāw and yā’ written then with their medial or final form. Additionally, the letter yā’ in the last row may connect to the letter on its left, and then will use a medial or initial form. Use the table of primary letters to look at their actual glyph and joining types.
+
+
+Long vowels
+(fully vocalized text)
+Name
+Trans.
+Value
+
+
+064E 0627
+ـَا‎
+fatḥah alif
+ā
+/aː/
+
+
+064E 0649
+ـَى‎
+fatḥah alif maqṣūrah
+ā / á / ỳ
+
+
+064F 0648
+ـُو‎
+ḍammah wāw
+ū
+/uː/
+
+
+0650 064A
+ـِي‎
+kasrah yā’
+ī
+/iː/
+
+
+In unvocalized text (one in which the short vowels are not marked), the long vowels are represented by the vowel in question: alif ṭawīlah/maqṣūrah, wāw, or yā’. Long vowels written in the middle of a word of unvocalized text are treated like consonants with a sukūn (see below) in a text that has full diacritics. Here also, the table shows long vowel letters only in isolated form for clarity.
+Combinations وا and يا are always pronounced wā and yā respectively. The exception is when وا is the verb ending, where alif is silent, resulting in ū, or even aw.
+
+
+Long vowels
+(unvocalized text)
+Name
+Trans.
+Value
+
+
+0627
+ا
+(implied fatḥah) alif
+ā
+/aː/
+
+
+0649
+ى
+(implied fatḥah) alif maqṣūrah
+ā / á / ỳ
+
+
+0648
+و
+(implied ḍammah) wāw
+ū / uw
+/uː/
+
+
+064A
+ي
+(implied kasrah) yā’
+ī / iy
+/iː/
+
+
+In addition, when transliterating names and loanwords, Arabic language speakers write out most or all the vowels as long (ā with ا alif, ē and ī with ي ya’, and ō and ū with و wāw), meaning it approaches a true alphabet.
+Diphthongs[edit]
+The diphthongs /aj/ and /aw/ are represented in vocalized text as follows:
+
+
+Diphthongs
+(fully vocalized text)
+Name
+Trans.
+Value
+
+
+064A 064E
+ـَي‎
+fatḥah yā’
+ay
+/aj/
+
+
+0648 064E
+ـَو‎
+fatḥah wāw
+aw
+/aw/
+
+
+Vowel omission[edit]
+An Arabic syllable can be open (ending with a vowel) or closed (ending with a consonant):
+
+open: CV [consonant-vowel] (long or short vowel)
+closed: CVC (short vowel only)
+
+A normal text is composed only of a series of consonants plus vowel-lengthening letters; thus, the word qalb, "heart", is written qlb, and the word qalab "he turned around", is also written qlb.
+To write qalab without this ambiguity, we could indicate that the l is followed by a short a by writing a fatḥah above it.
+To write qalb, we would instead indicate that the l is followed by no vowel by marking it with a diacritic called sukūn ( ْ‎), like this: قلْبْ.
+This is one step down from full vocalization, where the vowel after the q would also be indicated by a fatḥah: قَلْبْ.
+The Qur’ān is traditionally written in full vocalization.
+The long i sound in some editions of the Qur’ān is written with a kasrah followed by a diacritic-less y, and long u by a ḍammah followed by a bare w. In others, these y and w carry a sukūn. Outside of the Qur’ān, the latter convention is extremely rare, to the point that y with sukūn will be unambiguously read as the diphthong /aj/, and w with sukūn will be read /aw/.
+For example, the letters m-y-l can be read like English meel or mail, or (theoretically) also like mayyal or mayil. But if a sukūn is added on the y then the m cannot have a sukūn (because two letters in a row cannot be sukūnated), cannot have a ḍammah (because there is never an uy sound in Arabic unless there is another vowel after the y), and cannot have a kasrah (because kasrah before sukūnated y is never found outside the Qur’ān), so it must have a fatḥah and the only possible pronunciation is /majl/ (meaning mile, or even e-mail). By the same token, m-y-t with a sukūn over the y can be mayt but not mayyit or meet, and m-w-t with a sukūn on the w can only be mawt, not moot (iw is impossible when the w closes the syllable).
+Vowel marks are always written as if the i‘rāb vowels were in fact pronounced, even when they must be skipped in actual pronunciation. So, when writing the name Aḥmad, it is optional to place a sukūn on the ḥ, but a sukūn is forbidden on the d, because it would carry a ḍammah if any other word followed, as in Aḥmadu zawjī "Ahmad is my husband".
+Another example: the sentence that in correct literary Arabic must be pronounced Aḥmadu zawjun sharrīr "Ahmad is a wicked husband", is usually mispronounced (due to influence from vernacular Arabic varieties) as Aḥmad zawj sharrīr. Yet, for the purposes of Arabic grammar and orthography, is treated as if it were not mispronounced and as if yet another word followed it, i.e., if adding any vowel marks, they must be added as if the pronunciation were Aḥmadu zawjun sharrīrun with a tanwīn 'un' at the end. So, it is correct to add an un tanwīn sign on the final r, but actually pronouncing it would be a hypercorrection. Also, it is never correct to write a sukūn on that r, even though in actual pronunciation it is (and in correct Arabic MUST be) sukūned.
+Of course, if the correct i‘rāb is a sukūn, it may be optionally written.
+
+
+General
+Unicode
+Name
+Name in Arabic script
+Translit.
+Phonemic Value (IPA)
+
+
+0652
+ ْ‎
+sukūn
+سُكُون
+(no vowel with this consonant letter or
+diphthong with this long vowel letter)
+∅
+
+
+0670
+ ٰ‎
+alīf khanjariyyah [dagger ’alīf - smaller ’alīf written above consonant]
+أَلِيف خَنْجَرِيَّة
+ā
+/aː/
+
+
+The sukūn is also used for transliterating words into the Arabic script. The Persian word ماسک (mâsk, from the English word "mask"), for example, might be written with a sukūn above the ﺱ to signify that there is no vowel sound between that letter and the ک.
+Additional letters[edit]
+Regional variations[edit]
+Some letters take a traditionally different form in specific regions:
+
+
+Letter
+Explanation
+
+
+Isolated
+Final
+Medial
+Initial
+
+
+ڛ‎
+ـڛ‎
+ـڛـ‎
+ڛـ‎
+A traditional form to denotate the sīn س letter, rarely used in areas influenced by Persian script and former Ottoman script.[4]
+
+
+ڢ‎
+ـڢ‎
+ـڢـ‎
+ڢـ‎
+A traditional Maghrebi variant (except for Libya and Algeria) of fā’ ف.
+
+
+ڧ/ٯ‎
+ـڧ/ـٯ‎
+ـڧـ‎
+ڧـ‎
+A traditional Maghrebi variant (except for Libya and Algeria) of qāf ق. Generally dotless in isolated and final positions and dotted in the initial and medial forms.
+
+
+ک‎
+ـک‎
+ـکـ‎
+کـ‎
+An alternative version of kāf ك used especially in Maghrebi under the influence of the Ottoman script or in Gulf script under the influence of the Persian script.
+
+
+ی‎
+ـی‎
+ـیـ‎
+یـ‎
+Notably in Egypt, Sudan (Nile Valley) and sometimes Maghreb, yā’ ي is dotless in the isolated and final position. Visually identical to alif maqṣūrah ى. The use in handwriting resembles the Perso-Arabic letter یـ ـیـ ـی ی which was also used in Ottoman Turkish.
+
+
+Non-native letters[edit]
+See also Arabic script#Special letters for languages other than Arabic.
+Some modified letters are used to represent non-native sounds of Arabic. These letters are used in transliterated names, loanwords and dialectal words.
+
+
+Letter
+Value
+Note
+
+
+ڤ
+/v/
+Used in loanwords and dialectal words instead of fā’ ف.[5] Not to be confused with ڨ.
+
+
+ڥ
+Used in Tunisia, Algeria and Morocco.
+
+
+پ
+/p/
+Sometimes used when transliterating foreign names and loanwords. Can be substituted with bā’ ب and pronounced as such.
+
+
+ڜ
+/t͡ʃ/
+Used in Morocco.
+
+
+چ
+Sometimes used when transliterating foreign names and loanwords and in the Gulf and Arabic dialects. The sequence تش tāʼ-shīn is usually preferred (e.g. تشاد for "Chad").
+
+
+/ʒ/
+Used in Egypt and can be a reduction of /d͡ʒ/, where ج is pronounced /ɡ/.
+
+
+/ɡ/
+Used in Israel, for example on road signs.
+
+
+گ
+Used in northwest Africa and west Asia.
+
+
+ڨ
+Used in Tunisia and in Algeria for loanwords and for the dialectal pronunciation of qāf ق in some words. Not to be confused with ڤ.
+
+
+ڭ
+Used in Morocco.
+
+
+ڠ
+Rarely used in Persian Gulf.
+
+
+Used in languages other than Arabic[edit]
+Main article: Arabic script
+
+Most common non-Classical Arabic consonant phonemes/graphemes
+
+Language family
+Austron.
+Dravid.
+Turkic
+Indic (Indo-European)
+Iranian (Indo-European)
+
+Arabic (Semitic)
+
+
+Language/Script
+Jawi
+Arwi
+Uyghur
+Sindhi
+Punjabi
+Urdu
+Persian
+Balochi
+Kurdish
+Pashto
+Iraqi
+Hejazi
+Egyptian
+Algerian
+Tunisian
+Moroccan
+
+
+/p/
+ڤ‎
+ڣ‎
+پ‎
+پ‎
+
+
+/g/
+ݢ‎
+ࢴ‎
+گ‎
+ګ‎
+گ‎
+ق‎
+ج‎
+ڨ‎
+ڭ‎
+
+
+/t͡ʃ/
+چ‎
+چ‎
+تش‎
+ڜ‎
+
+
+/ʒ/
+Ø
+ژ‎
+Ø
+ژ‎
+Ø
+چ‎
+Ø
+ج‎
+
+
+/v/
+ۏ‎
+و‎
+ۋ‎
+و‎
+Ø
+ڤ‎
+Ø
+ڤ‎
+ڥ‎
+
+
+/ŋ/
+ڠ‎
+ࢳ‎
+ڭ‎
+ڱ‎
+ں‎
+ن‎
+Ø
+Ø
+
+
+/ɳ/
+Ø
+ڹ‎
+Ø
+ڻ‎
+Ø
+ڼ‎
+Ø
+
+
+/ɲ/
+ڽ‎
+ݧ‎
+Ø
+ڃ
+Ø
+Ø
+
+
+Numerals[edit]
+
+
+Western
+(Maghreb, Europe)
+Central
+(Mideast)
+Eastern
+(Persian, Urdu)
+
+
+0
+٠
+۰
+
+
+
+1
+١
+۱
+
+
+
+2
+٢
+۲
+
+
+
+3
+٣
+۳
+
+
+
+4
+٤
+۴
+
+
+
+5
+٥
+۵
+
+
+
+6
+٦
+۶
+
+
+
+7
+٧
+۷
+
+
+
+8
+٨
+۸
+
+
+
+9
+٩
+۹
+
+
+
+10
+١٠
+۱۰
+
+
+
+Main articles: Western Arabic numerals and Eastern Arabic numerals
+There are two main kinds of numerals used along with Arabic text; Western Arabic numerals and Eastern Arabic numerals. In most of present-day North Africa, the usual Western Arabic numerals are used. Like Western Arabic numerals, in Eastern Arabic numerals, the units are always right-most, and the highest value left-most.
+Letters as numerals[edit]
+Main article: Abjad numerals
+In addition, the Arabic alphabet can be used to represent numbers (Abjad numerals). This usage is based on the abjadī order of the alphabet. ا alif is 1, ب bā’ is 2, ج jīm is 3, and so on until ي yā’ = 10, ك kāf = 20, ل lām = 30, …, ر rā’ = 200, …, غ ghayn = 1000. This is sometimes used to produce chronograms.
+History[edit]
+Main article: History of the Arabic alphabet
+
+
+
+
+Evolution of early Arabic calligraphy (9th–11th century). The Basmala is taken as an example, from Kufic Qur’ān manuscripts. (1) Early 9th century script used no dots or diacritic marks;[6] (2) and (3) in the 9th–10th century during the Abbasid dynasty, Abu al-Aswad's system used red dots with each arrangement or position indicating a different short vowel. Later, a second system of black dots was used to differentiate between letters like fā’ and qāf;[7][7] (4) in the 11th century (al-Farāhīdī's system) dots were changed into shapes resembling the letters to transcribe the corresponding long vowels. This system is the one used today.[8]
+
+
+The Arabic alphabet can be traced back to the Nabataean alphabet used to write the Nabataean. The first known text in the Arabic alphabet is a late 4th-century inscription from Jabal Ramm (50 km east of ‘Aqabah) in Jordan, but the first dated one is a trilingual inscription at Zebed in Syria from 512.[citation needed] However, the epigraphic record is extremely sparse, with only five certainly pre-Islamic Arabic inscriptions surviving, though some others may be pre-Islamic. Later, dots were added above and below the letters to differentiate them. (The Aramaic language had fewer phonemes than the Arabic, and some originally distinct Aramaic letters had become indistinguishable in shape, so that in the early writings 15 distinct letter-shapes had to do duty for 28 sounds; cf. the similarly ambiguous Pahlavi alphabet.) The first surviving document that definitely uses these dots is also the first surviving Arabic papyrus (PERF 558), dated April 643, although they did not become obligatory until much later. Important texts were and still are frequently memorized, especially in Qur'an memorization, a practice which probably arose partially from a desire to avoid the great ambiguity of the script.[citation needed]
+Later still, vowel marks and the hamzah were introduced, beginning some time in the latter half of the 7th century, preceding the first invention of Syriac and Hebrew vocalization. Initially, this was done by a system of red dots, said to have been commissioned in the Umayyad era by Abu al-Aswad al-Du'ali a dot above = a, a dot below = i, a dot on the line = u, and doubled dots indicated nunation. However, this was cumbersome and easily confusable with the letter-distinguishing dots, so about 100 years later, the modern system was adopted. The system was finalized around 786 by al-Farāhīdī.
+Arabic printing presses[edit]
+Although Napoleon Bonaparte generally receives credit for introducing the printing press to Egypt during his invasion of that country in 1798, and though he did indeed bring printing presses and Arabic script presses to print the French occupation's official newspaper Al-Tanbiyyah ("The Courier"), printing in the Arabic language started several centuries earlier.
+In 1514, following Gutenberg's invention of the printing press in 1450, Gregorio de Gregorii, a Venetian, published an entire prayer-book in Arabic script; it was entitled Kitab Salat al-Sawa'i and was intended for eastern Christian communities[9]
+Between 1580 and 1586, type designer Robert Granjon designed Arabic typefaces for Cardinal Ferdinando de' Medici, and the Medici press published many Christian prayer and scholarly Arabic texts in the late 16th century.[citation needed]
+Maronite monks at the Maar Quzhayy Monastery in Mount Lebanon published the first Arabic books to use movable type in the Middle East. The monks transliterated the Arabic language using Syriac script.
+A goldsmith (like Gutenberg) designed and implemented an Arabic-script movable-type printing-press in the Middle East. The Greek Orthodox monk Abd Allah Zakhir set up an Arabic language printing press using movable type at the monastery of Saint John at the town of Dhour El Shuwayr in Mount Lebanon, the first homemade press in Lebanon using Arabic script. He personally cut the type molds and did the founding of the typeface. The first book came off his press in 1734; this press continued in use until 1899.[10]
+Computers[edit]
+The Arabic alphabet can be encoded using several character sets, including ISO-8859-6, Windows-1256 and Unicode (see links in Infobox above), latter thanks to the "Arabic segment", entries U+0600 to U+06FF. However, none of the sets indicates the form that each character should take in context. It is left to the rendering engine to select the proper glyph to display for each character.
+Each letter has a position-independent encoding in Unicode, and the rendering software can infer the correct glyph form (initial, medial, final or isolated) from its joining context. That is the current recommendation. However, for compatibility with previous standards, the initial, medial, final and isolated forms can also be encoded separately.
+Unicode[edit]
+Main article: Arabic characters in Unicode
+As of Unicode 7.0, the following ranges encode Arabic characters:
+
+Arabic (0600-06FF)
+Arabic Supplement (0750-077F)
+Arabic Extended-A (08A0-08FF)
+Arabic Presentation Forms-A (FB50-FDFF)
+Arabic Presentation Forms-B (FE70-FEFF)
+Arabic Mathematical Alphabetic Symbols 1EE00-1EEFF)
+Rumi Numeral Symbols (10E60-10E7F)
+
+The basic Arabic range encodes the standard letters and diacritics but does not encode contextual forms (U+0621-U+0652 being directly based on ISO 8859-6). It also includes the most common diacritics and Arabic-Indic digits. U+06D6 to U+06ED encode Qur'anic annotation signs such as "end of ayah" ۝ۖ and "start of rub el hizb" ۞. The Arabic supplement range encodes letter variants mostly used for writing African (non-Arabic) languages. The Arabic Extended-A range encodes additional Qur'anic annotations and letter variants used for various non-Arabic languages.
+The Arabic Presentation Forms-A range encodes contextual forms and ligatures of letter variants needed for Persian, Urdu, Sindhi and Central Asian languages. The Arabic Presentation Forms-B range encodes spacing forms of Arabic diacritics, and more contextual letter forms. The Arabic Mathematical Alphabetical Symbols block encodes characters used in Arabic mathematical expressions.
+See also the notes of the section on modified letters.
+Keyboards[edit]
+See also: Keyboard layout
+
+
+
+
+Arabic Mac keyboard layout
+
+
+
+
+
+
+Arabic PC keyboard layout
+
+
+
+
+
+
+Intellark imposed on a QWERTY keyboard layout.
+
+
+Keyboards designed for different nations have different layouts so proficiency in one style of keyboard, such as Iraq's, does not transfer to proficiency in another, such as Saudi Arabia's. Differences can include the location of non-alphabetic characters.
+All Arabic keyboards allow typing Roman characters, e.g., for the URL in a web browser. Thus, each Arabic keyboard has both Arabic and Roman characters marked on the keys. Usually the Roman characters of an Arabic keyboard conform to the QWERTY layout, but in North Africa, where French is the most common language typed using the Roman characters, the Arabic keyboards are AZERTY.
+To encode a particular written form of a character, there are extra code points provided in Unicode which can be used to express the exact written form desired. The range Arabic presentation forms A (U+FB50 to U+FDFF) contain ligatures while the range Arabic presentation forms B (U+FE70 to U+FEFF) contains the positional variants. These effects are better achieved in Unicode by using the zero-width joiner and non-joiner, as these presentation forms are deprecated in Unicode, and should generally only be used within the internals of text-rendering software, when using Unicode as an intermediate form for conversion between character encodings, or for backwards compatibility with implementations that rely on the hard-coding of glyph forms.
+Finally, the Unicode encoding of Arabic is in logical order, that is, the characters are entered, and stored in computer memory, in the order that they are written and pronounced without worrying about the direction in which they will be displayed on paper or on the screen. Again, it is left to the rendering engine to present the characters in the correct direction, using Unicode's bi-directional text features. In this regard, if the Arabic words on this page are written left to right, it is an indication that the Unicode rendering engine used to display them is out of date.[11][12]
+There are competing online tools, e.g. Yamli editor, which allow entry of Arabic letters without having Arabic support installed on a PC, and without knowledge of the layout of the Arabic keyboard.[13]
+Handwriting recognition[edit]
+The first software program of its kind in the world that identifies Arabic handwriting in real time was developed by researchers at Ben-Gurion University (BGU).
+The prototype enables the user to write Arabic words by hand on an electronic screen, which then analyzes the text and translates it into printed Arabic letters in a thousandth of a second. The error rate is less than three percent, according to Dr. Jihad El-Sana, from BGU's department of computer sciences, who developed the system along with master's degree student Fadi Biadsy.[14]
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Arabic alphabet.
+
+
+
+
+Arabic calligraphy
+Arabic diacritics (pointed vowels and consonants)
+Arabic numerals
+Arabic script about other languages written in Arabic letters.
+Arabic Unicode
+Arabic Chat Alphabet
+ArabTeX – provides Arabic support for TeX and LaTeX
+Rasm (unpointed consonants)
+Romanization of Arabic
+South Arabian alphabet
+Perso-Arabic script
+Arabic braille
+Algerian braille
+ʿilm al-Ḥurouf
+
+
+References[edit]
+
+
+^ a b (in Arabic) Alyaseer.net ترتيب المداخل والبطاقات في القوائم والفهارس الموضوعية Ordering entries and cards in subject indexes Discussion thread (Accessed 2009-October–06)
+^ Rogers, Henry (2005). Writing Systems: A Linguistic Approach. Blackwell Publishing. p. 135. 
+^ SIL International: This simplified style is often preferred for clarity, especially in non-Arabic languages
+^ http://gallica.bnf.fr/ark:/12148/bpt6k5824879v/f26.item.zoom
+^ Arabic Dialect Tutorial
+^ File:Basmala kufi.svg - Wikimedia Commons
+^ a b File:Kufi.jpg - Wikimedia Commons
+^ File:Qur'an folio 11th century kufic.jpg - Wikimedia Commons
+^ "294° anniversario della Biblioteca Federiciana: ricerche e curiosità sul Kitab Salat al-Sawai". Retrieved 2017-01-31. 
+^ Arabic and the Art of Printing – A Special Section, by Paul Lunde
+^ For more information about encoding Arabic, consult the Unicode manual available at The Unicode website
+^ See also Multilingual Computing with Arabic and Arabic Transliteration: Arabicizing Windows Applications to Read and Write Arabic & Solutions for the Transliteration Quagmire Faced by Arabic-Script Languages and A PowerPoint Tutorial (with screen shots and an English voice-over) on how to add Arabic to the Windows Operating System. Archived 11 September 2011 at the Wayback Machine.
+^ Yamli in the News
+^ Israel 21c
+
+
+External links[edit]
+
+Shaalan, Khaled; Raza, Hafsa (August 2009). "NERA: Named entity recognition for Arabic". Journal of the American Society for Information Science and Technology. 60 (8). 
+"Why the right side of your brain doesn't like Arabic". CNN. 9 September 2010. 
+Arabic at DMOZ
+
+
+This article contains major sections of text from the very detailed article Arabic alphabet from the French Wikipedia, which has been partially translated into English. Further translation of that page, and its incorporation into the text here, are welcomed.
+
+
+
+
+
+
+v
+t
+e
+
+
+Arabic alphabets
+
+
+
+Europe
+
+
+
+Aljamiado
+Arebica
+Azerbaijani
+Belarusian
+Kazakh
+Ottoman Turkish
+Tatar (İske imlâ
+Yaña imlâ)
+
+
+
+
+
+Asia
+
+
+
+Arabic
+Arabi Malayalam
+Arwi
+Azerbaijani
+Buri Wolio
+Jawi
+Kazakh
+Khowar
+Kurdish
+Kyrgyz
+Ottoman Turkish
+Pashto
+Pegon
+Persian
+Saraiki
+Sindhi
+Shahmukhī
+Tajik
+Turkmen
+Urdu
+Uyghur
+Uzbek
+Xiao'erjing
+
+
+
+
+
+Africa
+
+
+
+Afrikaans
+Ajami
+Berber
+Fula
+Sorabe
+Swahili
+Wadaad
+Wolof
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Arabic language
+
+
+
+Overviews
+
+
+
+Language
+Alphabet
+History
+Romanization
+Numerology
+Influence on other languages
+
+
+
+
+
+Alphabet
+
+
+
+Nabataean alphabet
+Perso-Arabic alphabet
+Ancient North Arabian
+Ancient South Arabian script
+
+Zabūr script
+
+
+Arabic numerals
+Eastern numerals
+Arabic Braille
+
+Algerian
+
+
+Diacritics
+
+i‘jām
+Tashkil
+Harakat
+Tanwin
+Shaddah
+Hamza
+
+
+Tāʾ marbūṭah
+
+
+
+
+
+Letters
+
+
+
+ʾAlif
+Bāʾ
+Tāʾ
+Ṯāʾ
+Ǧīm
+Ḥāʾ
+Ḫāʾ
+Dāl
+Ḏāl
+Rāʾ
+Zāy
+Sīn
+Šīn
+Ṣād
+Ḍād
+Ṭāʾ
+Ẓāʾ
+ʿAyn
+Ġayn
+Fāʾ
+Qāf
+Kāf
+Lām
+Mīm
+Nūn
+Hāʾ
+Wāw
+Yāʾ
+
+
+
+
+
+Notable varieties
+
+
+
+
+Ancient
+
+
+
+Proto-Arabic
+Old Arabic
+Ancient North Arabian
+Old South Arabian
+
+
+
+
+
+Standardized
+
+
+
+Classical
+Modern Standard
+Maltese
+
+
+
+
+
+Regional
+
+
+
+Nilo-Egyptian
+Levantine
+Maghrebi
+
+Pre-Hilalian dialects
+Hilalian dialects
+Moroccan Darija
+Tunisian Arabic
+Sa'idi Arabic
+
+
+Mesopotamian
+Peninsular
+
+Yemeni Arabic
+Tihamiyya Arabic
+
+
+Sudanese
+Chadian
+Modern South Arabian
+
+
+
+
+
+Ethnic / religious
+
+
+
+Judeo-Arabic
+
+
+
+
+
+
+
+
+Pidgins/Creoles
+
+
+
+Juba Arabic
+Nubi language
+Babalia Creole Arabic
+Maridi Arabic
+Maltese
+
+
+
+
+
+Academic
+
+
+
+Literature
+Names
+
+
+
+
+
+Linguistics
+
+
+
+Phonology
+Sun and moon letters
+ʾIʿrāb (inflection)
+Grammar
+Triliteral root
+Mater lectionis
+IPA
+Quranic Arabic Corpus
+
+
+
+
+
+
+
+
+Calligraphy
+Script
+
+
+
+
+
+
+Diwani
+Jawi script
+Kufic
+Rasm
+Mashq
+Hijazi script
+Muhaqqaq
+Thuluth
+Naskh (script)
+Ruqʿah script
+Taʿlīq script
+Nastaʿlīq script
+Shahmukhī script
+Sini (script)
+
+
+
+
+
+Technical
+
+
+
+Arabic keyboard
+Arabic script in Unicode
+ISO/IEC 8859-6
+Windows-1256
+MS-DOS codepages
+
+708
+709
+710
+711
+720
+864
+
+
+MacArabic encoding
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Types of writing systems
+
+
+
+
+
+
+
+Overview
+
+
+
+History of writing
+Grapheme
+
+
+
+
+
+Lists
+
+
+
+Writing systems
+
+undeciphered
+inventors
+constructed
+
+
+Languages by writing system / by first written accounts
+
+
+
+
+
+
+
+
+
+
+
+
+
+Types
+
+
+
+
+
+
+
+
+
+
+
+
+Abjads
+
+
+
+
+
+
+Numerals
+
+
+Aramaic
+
+Hatran
+
+
+Arabic
+Pitman shorthand
+Hebrew
+
+Ashuri
+Cursive
+Rashi
+Solitreo
+
+
+Tifinagh
+Manichaean
+Nabataean
+Old North Arabian
+Pahlavi
+Pegon
+Phoenician
+
+Paleo-Hebrew
+
+
+Proto-Sinaitic
+Psalter
+Punic
+Samaritan
+South Arabian
+
+Zabur
+Musnad
+
+
+Sogdian
+Syriac
+
+ʾEsṭrangēlā
+Serṭā
+Maḏnḥāyā
+
+
+Teeline Shorthand
+Ugaritic
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abugidas
+
+
+
+
+
+
+
+Brahmic
+
+
+
+
+Northern
+
+
+
+Asamiya (Ôxômiya)
+Bānglā
+Bhaikshuki
+Bhujinmol
+Brāhmī
+Devanāgarī
+Dogri
+Gujarati
+Gupta
+Gurmukhī
+Kaithi
+Kalinga
+Khojki
+Khotanese
+Khudawadi
+Laṇḍā
+Lepcha
+Limbu
+Mahajani
+Meitei Mayek
+Modi
+Multani
+Nāgarī
+Nandinagari
+Odia
+'Phags-pa
+Newar
+Ranjana
+Sharada
+Saurashtra
+Siddhaṃ
+Soyombo
+Sylheti Nagari
+Takri
+Tibetan
+
+Uchen
+Umê
+
+
+Tirhuta
+Tocharian
+Zanabazar Square
+Zhang-Zhung
+
+Drusha
+Marchen
+Marchung
+Pungs-chen
+Pungs-chung
+
+
+
+
+
+
+
+Southern
+
+
+
+Ahom
+Balinese
+Batak
+Baybayin
+Bhattiprolu
+Buhid
+Burmese
+Chakma
+Cham
+Grantha
+Goykanadi
+Hanunó'o
+Javanese
+Kadamba
+Kannada
+Kawi
+Khmer
+Kulitan
+Lanna
+Lao
+Leke
+Lontara
+Malayalam
+Maldivian
+
+Dhives Akuru
+Eveyla Akuru
+Thaana
+
+
+Mon
+Old Makassarese
+Old Sundanese
+Pallava
+Pyu
+Rejang
+Rencong
+Sinhala
+Sundanese
+Tagbanwa
+Tai Le
+Tai Tham
+Tai Viet
+Tamil
+Telugu
+Thai
+Tigalari
+Vatteluttu
+
+Kolezhuthu
+Malayanma
+
+
+Visayan
+
+
+
+
+
+
+
+
+Others
+
+
+
+Boyd's syllabic shorthand
+Canadian syllabics
+
+Blackfoot
+Déné syllabics
+
+
+Fox I
+Ge'ez
+Gunjala Gondi
+Japanese Braille
+Jenticha
+Kayah Li
+Kharosthi
+Mandombe
+Masaram Gondi
+Meroitic
+Miao
+Mwangwego
+Sorang Sompeng
+Pahawh Hmong
+Thomas Natural Shorthand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alphabets
+
+
+
+
+
+
+
+Linear
+
+
+
+Abkhaz
+Adlam
+Armenian
+Avestan
+Avoiuli
+Bassa Vah
+Borama
+Carian
+Caucasian Albanian
+Coorgi–Cox alphabet
+Coptic
+Cyrillic
+Deseret
+Duployan shorthand
+
+Chinook writing
+
+
+Early Cyrillic
+Eclectic shorthand
+Elbasan
+Etruscan
+Evenki
+Fox II
+Fraser
+Gabelsberger shorthand
+Garay
+Georgian
+
+Asomtavruli
+Nuskhuri
+Mkhedruli
+
+
+Glagolitic
+Gothic
+Gregg shorthand
+Greek
+Greco-Iberian alphabet
+Hangul
+Hanifi
+IPA
+Kaddare
+Latin
+
+Beneventan
+Blackletter
+Carolingian minuscule
+Fraktur
+Gaelic
+Insular
+Kurrent
+Merovingian
+Sigla
+Sütterlin
+Tironian notes
+Visigothic
+
+
+Luo
+Lycian
+Lydian
+Manchu
+Mandaic
+Medefaidrin
+Molodtsov
+Mongolian
+Mru
+Neo-Tifinagh
+New Tai Lue
+N'Ko
+Ogham
+Oirat
+Ol Chiki
+Old Hungarian
+Old Italic
+Old Permic
+Orkhon
+Old Uyghur
+Osage
+Osmanya
+Pau Cin Hau
+Runic
+
+Anglo-Saxon
+Cipher
+Dalecarlian
+Elder Futhark
+Younger Futhark
+Gothic
+Marcomannic
+Medieval
+Staveless
+
+
+Sidetic
+Shavian
+Somali
+Tifinagh
+Vagindra
+Visible Speech
+Vithkuqi
+Wancho
+Zaghawa
+
+
+
+
+
+Non-linear
+
+
+
+Braille
+Maritime flags
+Morse code
+New York Point
+Semaphore line
+Flag semaphore
+Moon type
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ideograms/Pictograms
+
+
+
+
+
+
+Adinkra
+Aztec
+Blissymbol
+Dongba
+Ersu Shaba
+Emoji
+IConji
+Isotype
+Kaidā
+Míkmaq
+Mixtec
+New Epoch Notation Painting
+Nsibidi
+Ojibwe Hieroglyphs
+Siglas poveiras
+Testerian
+Yerkish
+Zapotec
+
+
+
+
+
+
+
+
+
+
+
+
+
+Logograms
+
+
+
+
+
+
+
+Chinese family of scripts
+
+
+
+
+Chinese Characters
+
+
+
+Simplified
+Traditional
+Oracle bone script
+Bronze Script
+Seal Script
+
+large
+small
+bird-worm
+
+
+Hanja
+Idu
+Kanji
+Chữ nôm
+Zhuang
+
+
+
+
+
+Chinese-influenced
+
+
+
+Jurchen
+Khitan large script
+Sui
+Tangut
+
+
+
+
+
+
+
+
+Cuneiform
+
+
+
+Akkadian
+Assyrian
+Elamite
+Hittite
+Luwian
+Sumerian
+
+
+
+
+
+Other logo-syllabic
+
+
+
+Anatolian
+Bagam
+Cretan
+Isthmian
+Maya
+Proto-Elamite
+Yi (Classical)
+
+
+
+
+
+Logo-consonantal
+
+
+
+Demotic
+Hieratic
+Hieroglyphs
+
+
+
+
+
+Numerals
+
+
+
+Hindu-Arabic
+Abjad
+Attic (Greek)
+Muisca
+Roman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Semi-syllabaries
+
+
+
+
+
+
+
+Full
+
+
+
+Celtiberian
+Northeastern Iberian
+Southeastern Iberian
+Khom
+
+
+
+
+
+Redundant
+
+
+
+Espanca
+Pahawh Hmong
+Khitan small script
+Southwest Paleohispanic
+Zhuyin fuhao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Somacheirograms
+
+
+
+
+
+
+ASLwrite
+SignWriting
+si5s
+Stokoe Notation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Syllabaries
+
+
+
+
+
+
+Afaka
+Bamum
+Bété
+Byblos
+Cherokee
+Cypriot
+Cypro-Minoan
+Ditema tsa Dinoko
+Eskayan
+Geba
+Great Lakes Algonquian syllabics
+Iban
+Japanese
+
+Hiragana
+Katakana
+Man'yōgana
+Hentaigana
+Sogana
+Jindai moji
+
+
+Kikakui
+Kpelle
+Linear B
+Linear Elamite
+Lisu
+Loma
+Nüshu
+Nwagu Aneke script
+Old Persian Cuneiform
+Vai
+Woleai
+Yi (Modern)
+Yugtun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Braille  ⠃⠗⠁⠊⠇⠇⠑
+
+
+
+Braille cell
+
+
+
+1829 braille
+International uniformity
+ASCII braille
+Unicode braille patterns
+
+
+
+
+
+Braille scripts
+
+
+
+
+French-ordered scripts
+(see for more)
+
+
+
+Albanian
+Amharic
+Arabic
+Armenian
+Azerbaijani
+Belarusian
+Bharati
+
+Devanagari (Hindi  /  Marathi  /  Nepali)
+Bengali
+Punjabi
+Sinhalese
+Tamil
+Urdu
+etc.
+
+
+Bulgarian
+Burmese
+Cambodian
+Cantonese
+Catalan
+Chinese (Mandarin, mainland)
+Czech
+Dutch
+Dzongkha (Bhutanese)
+English (Unified English)
+Esperanto
+Estonian
+Faroese
+French
+Georgian
+German
+Ghanaian
+Greek
+Guarani
+Hawaiian
+Hebrew
+Hungarian
+Icelandic
+Inuktitut (reassigned vowels)
+Iñupiaq
+IPA
+Irish
+Italian
+Kazakh
+Kyrgyz
+Latvian
+Lithuanian
+Maltese
+Mongolian
+Māori
+Nigerian
+Northern Sami
+Persian
+Philippine
+Polish
+Portuguese
+Romanian
+Russian
+Samoan
+Scandinavian
+Slovak
+South African
+Spanish
+Tatar
+Taiwanese Mandarin (largely reassigned)
+Thai & Lao (Japanese vowels)
+Tibetan
+Turkish
+Ukrainian
+Vietnamese
+Welsh
+Yugoslav
+
+
+
+
+
+Reordered scripts
+
+
+
+Algerian Braille (obsolete)
+
+
+
+
+
+Frequency-based scripts
+
+
+
+American Braille (obsolete)
+
+
+
+
+
+Independent scripts
+
+
+
+Japanese
+Korean
+Two-Cell Chinese
+
+
+
+
+
+Eight-dot scripts
+
+
+
+Luxembourgish
+Kanji
+Gardner–Salinas braille codes (GS8)
+
+
+
+
+
+
+
+
+Symbols in braille
+
+
+
+Braille music
+Canadian currency marks
+Computer Braille Code
+Gardner–Salinas braille codes (GS8/GS6)
+International Phonetic Alphabet (IPA)
+Nemeth braille code
+
+
+
+
+
+Braille technology
+
+
+
+Braille e-book
+Braille embosser
+Braille translator
+Braille watch
+Mountbatten Brailler
+Optical braille recognition
+Perforation
+Perkins Brailler
+Refreshable braille display
+Slate and stylus
+Braigo
+
+
+
+
+
+Persons
+
+
+
+Louis Braille
+Charles Barbier
+Valentin Haüy
+Thakur Vishva Narain Singh
+Sabriye Tenberken
+William Bell Wait
+
+
+
+
+
+Organisations
+
+
+
+Braille Institute of America
+Braille Without Borders
+Japan Braille Library
+National Braille Association
+Blindness organizations
+Schools for the blind
+American Printing House for the Blind
+
+
+
+
+
+Other tactile alphabets
+
+
+
+Decapoint
+Moon type
+New York Point
+Night writing
+Vibratese
+
+
+
+
+
+Related topics
+
+
+
+Accessible publishing
+Braille literacy
+RoboBraille
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+The Northwest Semitic abjad
+
+
+
+
+
+
+
+
+ʾ
+
+
+b
+
+
+g
+
+
+d
+
+
+h
+
+
+w
+
+
+z
+
+
+ḥ
+
+
+ṭ
+
+
+y
+
+
+k
+
+
+l
+
+
+m
+
+
+n
+
+
+s
+
+
+ʿ
+
+
+p
+
+
+ṣ
+
+
+q
+
+
+r
+
+
+š
+
+
+t
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+200
+300
+400
+
+
+
+
+
+
+
+
+
+History
+Phoenician
+
+Paleo-Hebrew
+
+
+Hebrew
+Aramaic
+Syriac
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+NDL: 00560296
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Arabic_alphabet&oldid=812917765"					
+Categories: Scripts with ISO 15924 four-letter codesArticles containing Semitic languages-language textArabic alphabetsArabic orthographyHidden categories: Articles containing Arabic-language textArticles with Arabic-language external linksWebarchive template wayback linksArticles containing Hebrew-language textAll articles with vague or ambiguous timeVague or ambiguous time from July 2014Use dmy dates from February 2015Articles containing Persian-language textArticles containing Urdu-language textAll articles with unsourced statementsArticles with unsourced statements from December 2016Articles with DMOZ links 

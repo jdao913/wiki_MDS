@@ -1,0 +1,1200 @@
+Common cold - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For other uses, see Cold (disambiguation).
+
+
+Common cold
+
+
+Synonyms
+Acute viral nasopharyngitis, nasopharyngitis, viral rhinitis, rhinopharyngitis, acute coryza, head cold[1]
+
+
+
+
+
+A representation of the molecular surface of one variant of human rhinovirus.
+
+
+Specialty
+Infectious disease
+
+
+Symptoms
+Cough, sore throat, runny nose, fever[2][3]
+
+
+Complications
+Otitis media, sinusitis[4]
+
+
+Usual onset
+~2 days from exposure[5]
+
+
+Duration
+1–3 weeks[2][6]
+
+
+Causes
+Viral[7]
+
+
+Similar conditions
+Allergic rhinitis, pertussis, sinusitis[4]
+
+
+Prevention
+Hand washing, face mask[2]
+
+
+Treatment
+Symptomatic[2]
+
+
+Medication
+NSAIDs[8]
+
+
+Frequency
+2–4 per year (adults); 6–8 per year (young children)[9]
+
+
+
+[edit on Wikidata]
+
+
+
+The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the nose.[7] The throat, sinuses, and larynx may also be affected.[5] Signs and symptoms may begin less than two days following exposure.[5] They include coughing, sore throat, runny nose, sneezing, headache, and fever.[2][3] People usually recover in seven to ten days.[2] Some symptoms may last up to three weeks.[6] In those with other health problems, pneumonia may occasionally develop.[2]
+Well over 200 virus strains are implicated in the cause of the common cold; the rhinoviruses are the most common.[10] They spread through the air during close contact with infected people and indirectly through contact with objects in the environment followed by transfer to the mouth or nose.[2] Risk factors include going to daycare, not sleeping well, and psychological stress.[5] Symptoms are mostly due to the body's immune response to the infection rather than to tissue destruction by the viruses themselves.[11] People with influenza often show similar symptoms as people with a cold, though symptoms are usually more severe in the former.[5] Influenza is less likely to result in a runny nose.[12]
+There is no vaccine for the common cold.[2] The primary methods of prevention are hand washing; not touching the eyes, nose or mouth with unwashed hands; and staying away from other sick people.[2] Some evidence supports the use of face masks.[13] No cure for the common cold exists, but the symptoms can be treated.[2] Nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen may help with pain.[8] Antibiotics should not be used.[14] Evidence does not support a benefit from cough medicines.[5]
+The common cold is the most frequent infectious disease in humans.[15] The average adult gets two to four colds a year, while the average child may get six to eight.[9] They occur more commonly during the winter.[2] These infections have been with humanity throughout history.[16]
+
+
+
+Contents
+
+
+1 Signs and symptoms
+
+1.1 Progression
+
+
+2 Cause
+
+2.1 Viruses
+2.2 Transmission
+2.3 Weather
+2.4 Other
+
+
+3 Pathophysiology
+4 Diagnosis
+5 Prevention
+6 Management
+
+6.1 Symptomatic
+6.2 Exercise
+6.3 Antibiotics and antivirals
+6.4 Alternative medicine
+
+
+7 Prognosis
+8 Epidemiology
+9 History
+10 Society and culture
+11 Research directions
+12 References
+
+12.1 Notes
+
+
+13 External links
+
+
+
+Signs and symptoms
+The typical symptoms of a cold include a cough, a runny nose, nasal congestion and a sore throat, sometimes accompanied by muscle ache, fatigue, headache, and loss of appetite.[17] A sore throat is present in about 40% of cases and a cough in about 50%,[7] while muscle ache occurs in about half.[3] In adults, a fever is generally not present but it is common in infants and young children.[3] The cough is usually mild compared to that accompanying influenza.[3] While a cough and a fever indicate a higher likelihood of influenza in adults, a great deal of similarity exists between these two conditions.[18] A number of the viruses that cause the common cold may also result in asymptomatic infections.[19][20]
+The color of the sputum or nasal secretion may vary from clear to yellow to green and does not indicate the class of agent causing the infection.[21]
+Progression
+A cold usually begins with fatigue, a feeling of being chilled, sneezing, and a headache, followed in a couple of days by a runny nose and cough.[17] Symptoms may begin within sixteen hours of exposure[22] and typically peak two to four days after onset.[3][23] They usually resolve in seven to ten days, but some can last for up to three weeks.[6] The average duration of cough is eighteen days[24] and in some cases people develop a post-viral cough which can linger after the infection is gone.[25] In children, the cough lasts for more than ten days in 35–40% of cases and continues for more than 25 days in 10%.[26]
+Cause
+Viruses
+
+
+
+
+Coronaviruses are a group of viruses known for causing the common cold. They have a halo or crown-like (corona) appearance when viewed under an electron microscope.
+
+
+The common cold is a viral infection of the upper respiratory tract. The most commonly implicated virus is a rhinovirus (30–80%), a type of picornavirus with 99 known serotypes.[27][28] Other commonly implicated viruses include human coronavirus (≈ 15%),[29][30] influenza viruses (10–15%),[31] adenoviruses (5%),[31] human respiratory syncytial virus, enteroviruses other than rhinoviruses, human parainfluenza viruses, and metapneumovirus.[32] Frequently more than one virus is present.[33] In total over 200 viral types are associated with colds.[3]
+Transmission
+The common cold virus is typically transmitted via airborne droplets (aerosols), direct contact with infected nasal secretions, or fomites (contaminated objects).[7][34] Which of these routes is of primary importance has not been determined; however, hand-to-hand and hand-to-surface-to-hand contact seems of more importance than transmission via aerosols.[35] The viruses may survive for prolonged periods in the environment (over 18 hours for rhinoviruses) and can be picked up by people's hands and subsequently carried to their eyes or nose where infection occurs.[34] Transmission is common in daycare and at school due to the proximity of many children with little immunity and frequently poor hygiene.[36] These infections are then brought home to other members of the family.[36] There is no evidence that recirculated air during commercial flight is a method of transmission.[34] People sitting in close proximity appear to be at greater risk of infection.[35]
+Rhinovirus-caused colds are most infectious during the first three days of symptoms; they are much less infectious afterwards.[37]
+Weather
+The traditional theory is that a cold can be "caught" by prolonged exposure to cold weather such as rain or winter conditions, which is how the disease got its name.[38] Some of the viruses that cause the common colds are seasonal, occurring more frequently during cold or wet weather.[39] The reason for the seasonality has not been conclusively determined.[40] Possible explanations may include cold temperature-induced changes in the respiratory system,[41] decreased immune response,[42] and low humidity causing an increase in viral transmission rates, perhaps due to dry air allowing small viral droplets to disperse farther and stay in the air longer.[43]
+The apparent seasonality may also be due to social factors, such as people spending more time indoors, near infected people,[41] and specifically children at school.[36][40] There is some controversy over the role of low body temperature as a risk factor for the common cold; the majority of the evidence suggests that it may result in greater susceptibility to infection.[42]
+Other
+Herd immunity, generated from previous exposure to cold viruses, plays an important role in limiting viral spread, as seen with younger populations that have greater rates of respiratory infections.[44] Poor immune function is a risk factor for disease.[44][45] Insufficient sleep and malnutrition have been associated with a greater risk of developing infection following rhinovirus exposure; this is believed to be due to their effects on immune function.[46][47] Breast feeding decreases the risk of acute otitis media and lower respiratory tract infections among other diseases,[48] and it is recommended that breast feeding be continued when an infant has a cold.[49] In the developed world breast feeding may not be protective against the common cold in and of itself.[50]
+Pathophysiology
+
+
+
+
+The common cold is a disease of the upper respiratory tract.
+
+
+The symptoms of the common cold are believed to be primarily related to the immune response to the virus.[11] The mechanism of this immune response is virus specific. For example, the rhinovirus is typically acquired by direct contact; it binds to human ICAM-1 receptors through unknown mechanisms to trigger the release of inflammatory mediators.[11] These inflammatory mediators then produce the symptoms.[11] It does not generally cause damage to the nasal epithelium.[3] The respiratory syncytial virus (RSV), on the other hand, is contracted by direct contact and airborne droplets. It then replicates in the nose and throat before frequently spreading to the lower respiratory tract.[51] RSV does cause epithelium damage.[51] Human parainfluenza virus typically results in inflammation of the nose, throat, and bronchi.[52] In young children when it affects the trachea it may produce the symptoms of croup due to the small size of their airways.[52]
+Diagnosis
+The distinction between viral upper respiratory tract infections is loosely based on the location of symptoms with the common cold affecting primarily the nose, pharyngitis the throat, and bronchitis the lungs.[7] However, there can be significant overlap and multiple areas can be affected.[7] The common cold is frequently defined as nasal inflammation with varying amount of throat inflammation.[53] Self-diagnosis is frequent.[3] Isolation of the viral agent involved is rarely performed,[53] and it is generally not possible to identify the virus type through symptoms.[3]
+Prevention
+The only useful ways to reduce the spread of cold viruses are physical measures[13] such as hand washing and face masks; in the healthcare environment, gowns and disposable gloves are also used.[13] Isolation or quarantine is not used as the disease is so widespread and symptoms are non-specific. Vaccination has proved difficult as there are many viruses involved and they mutate rapidly.[13] Creation of a broadly effective vaccine is, thus, highly improbable.[54]
+Regular hand washing appears to be effective in reducing the transmission of cold viruses, especially among children.[55] Whether the addition of antivirals or antibacterials to normal hand washing provides greater benefit is unknown.[55] Wearing face masks when around people who are infected may be beneficial; however, there is insufficient evidence for maintaining a greater social distance.[55]
+Zinc supplements may help to reduce the frequency of colds.[56][57] Routine vitamin C supplements do not reduce the risk or severity of the common cold, though they may reduce its duration.[58] Gargling with water was found useful in one small trial.[59]
+Management
+
+
+
+
+Poster from 1937 encouraging citizens to "consult your physician" for treatment of the common cold
+
+
+No medications or herbal remedies have been conclusively demonstrated to shorten the duration of infection.[60] Treatment thus comprises symptomatic relief.[9] Getting plenty of rest, drinking fluids to maintain hydration, and gargling with warm salt water are reasonable conservative measures.[32] Much of the benefit from treatment is, however, attributed to the placebo effect.[61]
+Symptomatic
+Treatments that may help with symptoms include simple pain medication and medications for fevers such as ibuprofen[8] and acetaminophen (paracetamol).[62] It, however, is not clear if acetaminophen helps with symptoms.[63] It is not known if over the counter cough medications are effective for treating an acute cough.[64] Cough medicines are not recommended for use in children due to a lack of evidence supporting effectiveness and the potential for harm.[65][66] In 2009, Canada restricted the use of over-the-counter cough and cold medication in children six years and under due to concerns regarding risks and unproven benefits.[65] The misuse of dextromethorphan (an over-the-counter cough medicine) has led to its ban in a number of countries.[67] Intranasal corticosteroids have not been found to be useful.[68]
+In adults short term use of nasal decongestants may have a small benefit.[69] Antihistamines may improve symptoms in the first day or two; however, there is no longer-term benefit and they have adverse effects such as drowsiness.[70] Other decongestants such as pseudoephedrine appear effective in adults.[71][72] Ipratropium nasal spray may reduce the symptoms of a runny nose but has little effect on stuffiness.[73] The safety and effectiveness of nasal decongestant use in children is unclear.[72]
+Due to lack of studies, it is not known whether increased fluid intake improves symptoms or shortens respiratory illness,[74] and there is a similar lack of data for the use of heated humidified air.[75] One study has found chest vapor rub to provide some relief of nocturnal cough, congestion, and sleep difficulty.[76]
+Exercise
+Some advise to avoid physical exercise if there are symptoms such as fever, widespread muscle aches or fatigue.[77][78] It is regarded as safe to perform moderate exercise if the symptoms are confined to the head, including runny nose, nasal congestion, sneezing, or a minor sore throat.[77][78]
+Antibiotics and antivirals
+Antibiotics have no effect against viral infections or against the viruses that cause the common cold.[79] Due to their side effects, antibiotics cause overall harm but are still frequently prescribed.[79][80] Some of the reasons that antibiotics are so commonly prescribed include people's expectations for them, physicians' desire to help, and the difficulty in excluding complications that may be amenable to antibiotics.[81] There are no effective antiviral drugs for the common cold even though some preliminary research has shown benefits.[9][82]
+Alternative medicine
+While there are many alternative treatments used for the common cold, there is insufficient scientific evidence to support the use of most.[9] As of 2014 there is insufficient evidence to recommend for or against honey.[83] As of 2015 there is tentative evidence to support nasal irrigation.[84]
+Zinc lozenges have been used to treat symptoms, with some studies suggesting that they may reduce the duration of the common cold.[85] Due to wide differences between the studies, further research may be needed to determine how and when zinc may be effective.[86] Zinc lozenges may produce side effects, and there is only a weak rationale for physicians to recommend them as a treatment of the common cold.[87] Some zinc remedies directly applied to the inside of the nose have led to the loss of the sense of smell.[88]
+Vitamin C's effect on the common cold, while extensively researched, is disappointing, except in limited circumstances: specifically, individuals exercising vigorously in cold environments.[58][89] There is no firm evidence that Echinacea products provide any meaningful benefit in treating or preventing colds.[90] It is unknown if garlic is effective.[91] A single trial of vitamin D did not find benefit.[92]
+Prognosis
+The common cold is generally mild and self-limiting with most symptoms generally improving in a week.[7] Half of cases go away in 10 days and 90% in 15 days.[93] Severe complications, if they occur, are usually in the very old, the very young, or those who are immunosuppressed.[15] Secondary bacterial infections may occur resulting in sinusitis, pharyngitis, or an ear infection.[94] It is estimated that sinusitis occurs in 8% and ear infection in 30% of cases.[95]
+Epidemiology
+The common cold is the most common human disease[15] and affects people all over the globe.[36] Adults typically have two to five infections annually,[7][3] and children may have six to ten colds a year (and up to twelve colds a year for school children).[9] Rates of symptomatic infections increase in the elderly due to declining immunity.[44]
+Native Americans and Inuit are more likely to be infected with colds and develop complications such as otitis media than Caucasians.[31] This may be explained by issues such as poverty and overcrowding rather than by ethnicity.[31]
+History
+
+
+
+
+A British poster from World War II describing the cost of the common cold[96]
+
+
+While the cause of the common cold has only been identified since the 1950s, the disease has been with humanity throughout history.[16] Its symptoms and treatment are described in the Egyptian Ebers papyrus, the oldest existing medical text, written before the 16th century BCE.[97] The name "cold" came into use in the 16th century, due to the similarity between its symptoms and those of exposure to cold weather.[98]
+In the United Kingdom, the Common Cold Unit was set up by the Medical Research Council in 1946 and it was where the rhinovirus was discovered in 1956.[99] In the 1970s, the CCU demonstrated that treatment with interferon during the incubation phase of rhinovirus infection protects somewhat against the disease,[100] but no practical treatment could be developed. The unit was closed in 1989, two years after it completed research of zinc gluconate lozenges in the prophylaxis and treatment of rhinovirus colds, the only successful treatment in the history of the unit.[101]
+Society and culture
+The economic impact of the common cold is not well understood in much of the world.[95] In the United States, the common cold leads to 75–100 million physician visits annually at a conservative cost estimate of $7.7 billion per year. Americans spend $2.9 billion on over-the-counter drugs and another $400 million on prescription medicines for symptom relief.[102] More than one-third of people who saw a doctor received an antibiotic prescription, which has implications for antibiotic resistance.[102] An estimated 22–189 million school days are missed annually due to a cold. As a result, parents missed 126 million workdays to stay home to care for their children. When added to the 150 million workdays missed by employees suffering from a cold, the total economic impact of cold-related work loss exceeds $20 billion per year.[32][102] This accounts for 40% of time lost from work in the United States.[103]
+Research directions
+Antivirals have been tested for effectiveness in the common cold; as of 2009, none had been both found effective and licensed for use.[82] There are ongoing trials of the anti-viral drug pleconaril which shows promise against picornaviruses as well as trials of BTA-798.[104] The oral form of pleconaril had safety issues and an aerosol form is being studied.[104] DRACO, a broad-spectrum antiviral therapy, has shown preliminary effectiveness in treating rhinovirus, as well as other infectious viruses.[105]
+The genomes for all known human rhinovirus strains have been sequenced.[106]
+
+References
+
+
+
+^ John, Pramod R. John (2008). Textbook of Oral Medicine. Jaypee Brothers Publishers. p. 336. ISBN 9788180615627. Archived from the original on 29 May 2016. 
+^ a b c d e f g h i j k l "Common Colds: Protect Yourself and Others". CDC. 6 October 2015. Archived from the original on 5 February 2016. Retrieved 4 February 2016. 
+^ a b c d e f g h i j k Eccles R (November 2005). "Understanding the symptoms of the common cold and influenza". Lancet Infect Dis. 5 (11): 718–25. doi:10.1016/S1473-3099(05)70270-X. PMID 16253889. 
+^ a b Bennett, John E.; Dolin, Raphael; Blaser, Martin J. (2014). Principles and Practice of Infectious Diseases. Elsevier Health Sciences. p. 750. ISBN 9781455748013. Archived from the original on 8 September 2017. 
+^ a b c d e f Allan, GM; Arroll, B (18 February 2014). "Prevention and treatment of the common cold: making sense of the evidence". CMAJ : Canadian Medical Association Journal. 186 (3): 190–9. doi:10.1503/cmaj.121442. PMC 3928210 . PMID 24468694. 
+^ a b c Heikkinen T, Järvinen A (January 2003). "The common cold". Lancet. 361 (9351): 51–9. doi:10.1016/S0140-6736(03)12162-9. PMID 12517470. 
+^ a b c d e f g h Arroll, B (March 2011). "Common cold". Clinical evidence. 2011 (3): 1510. PMC 3275147 . PMID 21406124. Common colds are defined as upper respiratory tract infections that affect the predominantly nasal part of the respiratory mucosa  
+^ a b c Kim, SY; Chang, YJ; Cho, HM; Hwang, YW; Moon, YS (21 September 2015). "Non-steroidal anti-inflammatory drugs for the common cold". The Cochrane database of systematic reviews. 9: CD006362. doi:10.1002/14651858.CD006362.pub4. PMID 26387658. 
+^ a b c d e f Simasek M, Blandino DA (2007). "Treatment of the common cold". American Family Physician. 75 (4): 515–20. PMID 17323712. Archived from the original on 26 September 2007.  
+^ "Common Cold and Runny Nose" (17 April 2015). CDC. Archived from the original on 1 February 2016. Retrieved 4 February 2016. 
+^ a b c d Eccles p. 112
+^ "Cold Versus Flu". 11 August 2016. Archived from the original on 6 January 2017. Retrieved 5 January 2017. 
+^ a b c d Eccles p. 209
+^ Harris, AM; Hicks, LA; Qaseem, A; High Value Care Task Force of the American College of Physicians and for the Centers for Disease Control and, Prevention (19 January 2016). "Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults: Advice for High-Value Care From the American College of Physicians and the Centers for Disease Control and Prevention". Annals of Internal Medicine. 164: 425. doi:10.7326/M15-1840. PMID 26785402. 
+^ a b c Eccles p. 1
+^ a b Eccles, Ronald; Weber, Olaf (2009). Common cold. Basel: Birkhäuser. p. 3. ISBN 978-3-7643-9894-1. Archived from the original on 8 May 2016. 
+^ a b Eccles p. 24
+^ Eccles p. 26
+^ Eccles p. 129
+^ Eccles p. 50
+^ Eccles p. 30
+^ Richard A. Helms, ed. (2006). Textbook of therapeutics: drug and disease management (8. ed.). Philadelphia, Pa. [u.a.]: Lippincott Williams & Wilkins. p. 1882. ISBN 9780781757348. Archived from the original on 30 April 2016. 
+^ al.], edited by Helga Rübsamen-Waigmann ... [et (2003). Viral Infections and Treatment. Hoboken: Informa Healthcare. p. 111. ISBN 9780824756413. Archived from the original on 4 May 2016. CS1 maint: Extra text: authors list (link)
+^ Ebell, M. H.; Lundgren, J.; Youngpairoj, S. (Jan–Feb 2013). "How long does a cough last? Comparing patients' expectations with data from a systematic review of the literature". Annals of Family Medicine. 11 (1): 5–13. doi:10.1370/afm.1430. PMC 3596033 . PMID 23319500.  
+^ Dicpinigaitis PV (May 2011). "Cough: an unmet clinical need". Br. J. Pharmacol. 163 (1): 116–24. doi:10.1111/j.1476-5381.2010.01198.x. PMC 3085873 . PMID 21198555.  
+^ Goldsobel AB, Chipps BE (March 2010). "Cough in the pediatric population". J. Pediatr. 156 (3): 352–358.e1. doi:10.1016/j.jpeds.2009.12.004. PMID 20176183. 
+^ Palmenberg AC, Spiro D, Kuzmickas R, Wang S, Djikeng A, Rathe JA, Fraser-Liggett CM, Liggett SB (2009). "Sequencing and Analyses of All Known Human Rhinovirus Genomes Reveals Structure and Evolution". Science. 324 (5923): 55–9. doi:10.1126/science.1165557. PMC 3923423 . PMID 19213880. 
+^ Eccles p. 77
+^ Pelczar (2010). Microbiology: Application Based Approach. p. 656. ISBN 978-0-07-015147-5. Archived from the original on 16 May 2016. 
+^ medicine, s cecil. Goldman (24th ed.). Philadelphia: Elsevier Saunders. p. 2103. ISBN 978-1-4377-2788-3. Archived from the original on 4 May 2016. 
+^ a b c d Michael Rajnik; Robert W Tolan (13 September 2013). "Rhinovirus Infection". Medscape Reference. Archived from the original on 8 March 2013. Retrieved 19 March 2013.  
+^ a b c "Common Cold". National Institute of Allergy and Infectious Diseases. 27 November 2006. Archived from the original on 6 September 2008. Retrieved 11 June 2007. }} 
+^ Eccles p. 107
+^ a b c Eccles, Ronald; Weber, Olaf (2009). Common cold (Online-Ausg. ed.). Basel: Birkhäuser. p. 197. ISBN 978-3-7643-9894-1. Archived from the original on 2 May 2016. 
+^ a b Eccles pp. 211, 215
+^ a b c d al.], edited by Arie J. Zuckerman ... [et (2007). Principles and practice of clinical virology (6th ed.). Hoboken, N.J.: Wiley. p. 496. ISBN 978-0-470-51799-4. Archived from the original on 3 June 2016. CS1 maint: Extra text: authors list (link)
+^ Gwaltney JM Jr; Halstead SB. "Contagiousness of the common cold".  Invited letter in "Questions and answers". Journal of the American Medical Association. 278 (3): 256–257. 16 July 1997. doi:10.1001/jama.1997.03550030096050. Archived from the original on 24 November 2011. Retrieved 16 September 2011.  
+^ Zuger, Abigail (4 March 2003). "'You'll Catch Your Death!' An Old Wives' Tale? Well." The New York Times. Archived from the original on 22 March 2017. 
+^ Eccles p. 79
+^ a b "Common cold – Background information". National Institute for Health and Clinical Excellence. Archived from the original on 15 November 2012. Retrieved 19 March 2013. 
+^ a b Eccles p. 80
+^ a b Mourtzoukou EG, Falagas ME (September 2007). "Exposure to cold and respiratory tract infections". The International Journal of Tuberculosis and Lung Disease. 11 (9): 938–43. PMID 17705968. 
+^ Eccles p. 157
+^ a b c Eccles p. 78
+^ Eccles p. 166
+^ Cohen S, Doyle WJ, Alper CM, Janicki-Deverts D, Turner RB (January 2009). "Sleep habits and susceptibility to the common cold". Arch. Intern. Med. 169 (1): 62–7. doi:10.1001/archinternmed.2008.505. PMC 2629403 . PMID 19139325.  
+^ Eccles pp. 160–165
+^ McNiel, ME; Labbok, MH; Abrahams, SW (July 2010). "What are the risks associated with formula feeding? A re-analysis and review". Breastfeeding Review. 18 (2): 25–32. PMID 20879657. 
+^ Lawrence, Ruth A. Lawrence, Robert M. (30 September 2010). Breastfeeding a guide for the medical profession (7th ed.). Maryland Heights, Mo.: Mosby/Elsevier. p. 478. ISBN 9781437735901. Archived from the original on 17 June 2016. 
+^ Williams, [edited by] Kenrad E. Nelson, Carolyn F. Masters (2007). Infectious disease epidemiology : theory and practice (2nd ed.). Sudbury, Mass.: Jones and Bartlett Publishers. p. 724. ISBN 9780763728793. Archived from the original on 20 May 2016. CS1 maint: Extra text: authors list (link)
+^ a b Eccles p. 116
+^ a b Eccles p. 122
+^ a b Eccles pp. 51–52
+^ Lawrence DM (May 2009). "Gene studies shed light on rhinovirus diversity". Lancet Infect Dis. 9 (5): 278. doi:10.1016/S1473-3099(09)70123-9. 
+^ a b c Jefferson T, Del Mar CB, Dooley L, Ferroni E, Al-Ansary LA, Bawazeer GA, van Driel ML, Nair S, Jones MA, Thorning S, Conly JM (July 2011). Jefferson T, ed. "Physical interventions to interrupt or reduce the spread of respiratory viruses". Cochrane Database of Systematic Reviews (7): CD006207. doi:10.1002/14651858.CD006207.pub4. PMID 21735402. 
+^ Allan GM, Arroll B (February 2014). "Prevention and treatment of the common cold: making sense of the evidence". Canadian Medical Association Journal. 186 (3): 190–199. doi:10.1503/cmaj.121442. PMC 3928210 . PMID 24468694. 
+^ Singh M, Das RR (February 2011). Singh M, ed. "Zinc for the common cold". Cochrane Database of Systematic Reviews (2): CD001364. doi:10.1002/14651858.CD001364.pub3. PMID 21328251. 
+^ a b Hemilä, H; Chalker, E (31 January 2013). "Vitamin C for preventing and treating the common cold". The Cochrane database of systematic reviews. 1: CD000980. doi:10.1002/14651858.CD000980.pub4. PMID 23440782. 
+^ Satomura, K; Kitamura, T; Kawamura, T; Shimbo, T; Watanabe, M; Kamei, M; Takano, Y; Tamakoshi, A; Great Cold, Investigators-I (November 2005). "Prevention of upper respiratory tract infections by gargling: a randomized trial". American journal of preventive medicine. 29 (4): 302–7. doi:10.1016/j.amepre.2005.06.013. PMID 16242593. 
+^ "Common Cold: Treatments and Drugs". Mayo Clinic. Archived from the original on 12 February 2010. Retrieved 9 January 2010. 
+^ Eccles p. 261
+^ Eccles R (2006). "Efficacy and safety of over-the-counter analgesics in the treatment of common cold and flu". Journal of Clinical Pharmacy and Therapeutics. 31 (4): 309–319. doi:10.1111/j.1365-2710.2006.00754.x. PMID 16882099. 
+^ Li, Siyuan; Yue, Jirong; Dong, Bi Rong; Yang, Ming; Lin, Xiufang; Wu, Taixiang (2013-07-01). "Acetaminophen (paracetamol) for the common cold in adults". The Cochrane Database of Systematic Reviews (7): CD008800. doi:10.1002/14651858.CD008800.pub2. ISSN 1469-493X. PMID 23818046. 
+^ Smith, SM; Schroeder, K; Fahey, T (24 November 2014). "Over-the-counter (OTC) medications for acute cough in children and adults in community settings". The Cochrane database of systematic reviews. 11: CD001831. doi:10.1002/14651858.CD001831.pub5. PMID 25420096. 
+^ a b Shefrin AE, Goldman RD (November 2009). "Use of over-the-counter cough and cold medications in children" (PDF). Can Fam Physician. 55 (11): 1081–3. PMC 2776795 . PMID 19910592. Archived (PDF) from the original on 23 September 2015.  
+^ Vassilev ZP, Kabadi S, Villa R (March 2010). "Safety and efficacy of over-the-counter cough and cold medicines for use in children". Expert opinion on drug safety. 9 (2): 233–42. doi:10.1517/14740330903496410. PMID 20001764. 
+^ Eccles p. 246
+^ Hayward, Gail; Thompson, Matthew J; Perera, Rafael; Del Mar, Chris B; Glasziou, Paul P; Heneghan, Carl J (13 October 2015). Cochrane Database of Systematic Reviews. John Wiley & Sons, Ltd. doi:10.1002/14651858.cd008116.pub3. Archived from the original on 4 September 2017. 
+^ Deckx, L; De Sutter, AI; Guo, L; Mir, NA; van Driel, ML (17 October 2016). "Nasal decongestants in monotherapy for the common cold" (PDF). The Cochrane database of systematic reviews. 10: CD009612. doi:10.1002/14651858.CD009612.pub2. PMID 27748955. 
+^ De Sutter, AI; Saraswat, A; van Driel, ML (29 November 2015). "Antihistamines for the common cold". The Cochrane database of systematic reviews. 11: CD009345. doi:10.1002/14651858.CD009345.pub2. PMID 26615034. 
+^ Taverner D, Latte GJ (2007). Latte, G. Jenny, ed. "Nasal decongestants for the common cold". Cochrane Database Syst Rev (1): CD001953. doi:10.1002/14651858.CD001953.pub3. PMID 17253470. 
+^ a b Deckx, Laura; De Sutter, An Im; Guo, Linda; Mir, Nabiel A.; van Driel, Mieke L. (17 October 2016). "Nasal decongestants in monotherapy for the common cold". The Cochrane Database of Systematic Reviews. 10: CD009612. doi:10.1002/14651858.CD009612.pub2. PMID 27748955. 
+^ AlBalawi, Zaina H.; Othman, Sahar S.; Alfaleh, Khalid (2013-06-19). "Intranasal ipratropium bromide for the common cold". The Cochrane Database of Systematic Reviews (6): CD008231. doi:10.1002/14651858.CD008231.pub3. ISSN 1469-493X. PMID 23784858. 
+^ Guppy MP, Mickan SM, Del Mar CB, Thorning S, Rack A (February 2011). Guppy MP, ed. "Advising patients to increase fluid intake for treating acute respiratory infections". Cochrane Database of Systematic Reviews (2): CD004419. doi:10.1002/14651858.CD004419.pub3. PMID 21328268. 
+^ Singh, M; Singh, M (4 June 2013). "Heated, humidified air for the common cold". The Cochrane database of systematic reviews. 6: CD001728. doi:10.1002/14651858.CD001728.pub5. PMID 23733382. 
+^ Paul IM, Beiler JS, King TS, Clapp ER, Vallati J, Berlin CM (December 2010). "Vapor rub, petrolatum, and no treatment for children with nocturnal cough and cold symptoms". Pediatrics. 126 (6): 1092–9. doi:10.1542/peds.2010-1601. PMC 3600823 . PMID 21059712.  
+^ a b Edward R. Laskowski (9 February 2017). "Is it OK to exercise if I have a cold?". Mayo Clinic. Archived from the original on 19 July 2017. Retrieved 4 July 2017. 
+^ a b "Clearing the Air on Exercise and the Common Cold". American College of Sports Medicine. Archived from the original on 22 July 2017. Retrieved 4 July 2017. 
+^ a b Kenealy, T; Arroll, B (4 June 2013). "Antibiotics for the common cold and acute purulent rhinitis". The Cochrane database of systematic reviews. 6: CD000247. doi:10.1002/14651858.CD000247.pub3. PMID 23733381. 
+^ Eccles p. 238
+^ Eccles p. 234
+^ a b Eccles p. 218
+^ Oduwole, O; Meremikwu, MM; Oyo-Ita, A; Udoh, EE (23 December 2014). "Honey for acute cough in children". The Cochrane database of systematic reviews. 12: CD007094. doi:10.1002/14651858.CD007094.pub4. PMID 25536086. 
+^ King, D; Mitchell, B; Williams, CP; Spurling, GK (20 April 2015). "Saline nasal irrigation for acute upper respiratory tract infections". The Cochrane database of systematic reviews. 4: CD006821. doi:10.1002/14651858.CD006821.pub3. PMID 25892369. 
+^ Hemilä, H; Petrus, EJ; Fitzgerald, JT; Prasad, A (November 2016). "Zinc acetate lozenges for treating the common cold: an individual patient data meta-analysis". British Journal of Clinical Pharmacology. 82 (5): 1393–1398. doi:10.1111/bcp.13057. PMC 5061795 . PMID 27378206. 
+^ "Zinc for the common cold — Health News — NHS Choices". nhs.uk. 2012. Archived from the original on 1 January 2012. Retrieved 24 February 2012. In this review, there was a high level of heterogeneity between the studies that were pooled to determine the effect of zinc on the duration of cold symptoms. This may suggest that it was inappropriate to pool them. It certainly makes this particular finding less conclusive. 
+^ Science, M.; Johnstone, J.; Roth, D. E.; Guyatt, G.; Loeb, M. (10 July 2012). "Zinc for the treatment of the common cold: a systematic review and meta-analysis of randomized controlled trials". Canadian Medical Association Journal. 184 (10): E551–E561. doi:10.1503/cmaj.111990. PMC 3394849 . PMID 22566526.  
+^ "Loss of Sense of Smell with Intranasal Cold Remedies Containing Zinc". 2009. Archived from the original on 4 June 2015. 
+^ Heiner KA, Hart AM, Martin LG, Rubio-Wallace S (2009). "Examining the evidence for the use of vitamin C in the prophylaxis and treatment of the common cold". Journal of the American Academy of Nurse Practitioners. 21 (5): 295–300. doi:10.1111/j.1745-7599.2009.00409.x. PMID 19432914. 
+^ Karsch-Völk M, Barrett B, Kiefer D, Bauer R, Ardjomand-Woelkart K, Linde K (2014). "Echinacea for preventing and treating the common cold". Cochrane Database Syst Rev (Systematic review). 2: CD000530. doi:10.1002/14651858.CD000530.pub3. PMC 4068831 . PMID 24554461. 
+^ Lissiman E, Bhasale AL, Cohen M (2014). Lissiman E, ed. "Garlic for the common cold". Cochrane Database Syst Rev. 11: CD006206. doi:10.1002/14651858.CD006206.pub4. PMID 25386977. 
+^ Murdoch, David R. (3 October 2012). "Effect of Vitamin D3 Supplementation on Upper Respiratory Tract Infections in Healthy Adults: The VIDARIS Randomized Controlled Trial</subtitle>". JAMA: The Journal of the American Medical Association. 308 (13): 1333. doi:10.1001/jama.2012.12505. 
+^ Thompson, M; Vodicka, TA; Blair, PS; Buckley, DI; Heneghan, C; Hay, AD; TARGET Programme, Team (11 Dec 2013). "Duration of symptoms of respiratory tract infections in children: systematic review". BMJ (Clinical research ed.). 347: f7027. doi:10.1136/bmj.f7027. PMC 3898587 . PMID 24335668. 
+^ Eccles p. 76
+^ a b Eccles p. 90
+^ "The Cost of the Common Cold and Influenza". Imperial War Museum: Posters of Conflict. vads. Archived from the original on 27 July 2011. 
+^ Eccles p. 6
+^ "Cold". Online Etymology Dictionary. Archived from the original on 24 October 2007. Retrieved 12 January 2008. 
+^ Eccles p. 20
+^ Tyrrell DA (1987). "Interferons and their clinical value". Rev. Infect. Dis. 9 (2): 243–9. doi:10.1093/clinids/9.2.243. PMID 2438740. 
+^ Al-Nakib W; Higgins, P.G.; Barrow, I.; Batstone, G.; Tyrrell, D.A.J. (December 1987). "Prophylaxis and treatment of rhinovirus colds with zinc gluconate lozenges". J Antimicrob Chemother. 20 (6): 893–901. doi:10.1093/jac/20.6.893. PMID 3440773. 
+^ a b c Fendrick AM, Monto AS, Nightengale B, Sarnes M (2003). "The economic burden of non-influenza-related viral respiratory tract infection in the United States". Arch. Intern. Med. 163 (4): 487–94. doi:10.1001/archinte.163.4.487. PMID 12588210. 
+^ Kirkpatrick GL (December 1996). "The common cold". Prim. Care. 23 (4): 657–75. doi:10.1016/S0095-4543(05)70355-9. PMID 8890137. 
+^ a b Eccles p. 226
+^ Rider TH, Zook CE, Boettcher TL, Wick ST, Pancoast JS, Zusman BD (2011). Sambhara S, ed. "Broad-spectrum antiviral therapeutics". PLoS ONE. 6 (7): e22572. doi:10.1371/journal.pone.0022572. PMC 3144912 . PMID 21818340.  
+^ Val Willingham (12 February 2009). "Genetic map of cold virus a step toward cure, scientists say". CNN. Archived from the original on 26 April 2009. Retrieved 28 April 2009. 
+
+
+
+Notes
+
+Eccles, Ronald; Weber, Olaf, eds. (2009). Common Cold. Basel: Birkhäuser. ISBN 978-3-7643-9894-1. 
+
+External links
+
+
+Classification
+
+V · T · D
+
+
+ICD-10: J00
+ICD-9-CM: 460
+MeSH: D003139
+DiseasesDB: 31088
+
+
+
+
+
+External resources
+
+
+
+MedlinePlus: 000678
+Patient UK: Common cold
+
+
+
+
+
+
+
+
+Medicine portal
+Viruses portal
+
+
+
+
+
+Wikimedia Commons has media related to Common cold.
+
+
+
+
+
+Wikipedia's health care articles can be viewed offline with the Medical Wikipedia app.
+
+Common cold at DMOZ
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Infectious diseases – viral systemic diseases (A80–B34, 042–079)
+
+
+
+Oncovirus
+
+
+
+DNA virus
+HBV
+
+Hepatocellular carcinoma
+
+
+HPV
+
+Cervical cancer
+Anal cancer
+Penile cancer
+Vulvar cancer
+Vaginal cancer
+Oropharyngeal cancer
+
+
+KSHV
+
+Kaposi's sarcoma
+
+
+EBV
+
+Nasopharynx cancer
+Burkitt's lymphoma
+Hodgkin's lymphoma
+Follicular dendritic cell sarcoma
+Extranodal NK/T-cell lymphoma, nasal type
+
+
+MCPyV
+
+Merkel-cell carcinoma
+
+
+
+
+RNA virus
+HCV
+
+Hepatocellular carcinoma
+Splenic marginal zone lymphoma
+
+
+HTLV-I
+
+Adult T-cell leukemia/lymphoma
+
+
+
+
+
+
+
+Immune disorders
+
+
+
+HIV
+
+AIDS
+
+
+
+
+
+
+
+Central
+nervous system
+
+
+
+
+Encephalitis/
+meningitis
+
+
+
+DNA virus
+JCV
+
+Progressive multifocal leukoencephalopathy
+
+
+
+
+RNA virus
+MeV
+
+Subacute sclerosing panencephalitis
+
+
+LCV
+
+Lymphocytic choriomeningitis
+
+
+Arbovirus encephalitis
+Orthomyxoviridae (probable)
+
+Encephalitis lethargica
+
+
+RV
+
+Rabies
+
+
+Chandipura virus
+Herpesviral meningitis
+Ramsay Hunt syndrome type 2
+
+
+
+
+
+Myelitis
+
+
+
+Poliovirus
+
+Poliomyelitis
+Post-polio syndrome
+
+
+HTLV-I
+
+Tropical spastic paraparesis
+
+
+
+
+
+
+
+Eye
+
+
+
+Cytomegalovirus
+
+Cytomegalovirus retinitis
+
+
+HSV
+
+Herpes of the eye
+
+
+
+
+
+
+
+
+
+
+Cardiovascular
+
+
+
+CBV
+
+Pericarditis
+Myocarditis
+
+
+
+
+
+
+
+Respiratory system/
+acute viral nasopharyngitis/
+viral pneumonia
+
+
+
+
+DNA virus
+
+
+
+Epstein–Barr virus
+
+EBV infection/Infectious mononucleosis
+
+
+Cytomegalovirus
+
+
+
+
+
+RNA virus
+
+
+
+IV: SARS coronavirus
+
+Severe acute respiratory syndrome
+
+
+
+
+V: Orthomyxoviridae: Influenzavirus A/B/C
+
+Influenza/Avian influenza
+
+
+
+
+V, Paramyxoviridae: Human parainfluenza viruses
+
+Parainfluenza
+
+
+RSV
+hMPV
+
+
+
+
+
+
+
+
+Human digestive system
+
+
+
+
+Pharynx/Esophagus
+
+
+
+MuV
+
+Mumps
+
+
+Cytomegalovirus
+
+Cytomegalovirus esophagitis
+
+
+
+
+
+
+
+Gastroenteritis/
+diarrhea
+
+
+
+DNA virus
+Adenovirus
+
+Adenovirus infection
+
+
+
+
+RNA virus
+Rotavirus
+Norovirus
+Astrovirus
+Coronavirus
+
+
+
+
+
+Hepatitis
+
+
+
+DNA virus
+HBV (B)
+
+
+RNA virus
+CBV
+HAV (A)
+HCV (C)
+HDV (D)
+HEV (E)
+HGV (G)
+
+
+
+
+
+Pancreatitis
+
+
+
+CBV
+
+
+
+
+
+
+
+
+Urogenital
+
+
+
+BK virus
+MuV
+
+Mumps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Diseases of the respiratory system (J, 460–519)
+
+
+
+Upper RT
+(including URTIs,
+common cold)
+
+
+
+
+Head
+
+
+
+sinuses
+Sinusitis
+
+
+nose
+Rhinitis
+
+Vasomotor rhinitis
+Atrophic rhinitis
+Hay fever
+
+
+Nasal polyp
+Rhinorrhea
+nasal septum
+
+Nasal septum deviation
+Nasal septum perforation
+Nasal septal hematoma
+
+
+
+
+tonsil
+Tonsillitis
+Adenoid hypertrophy
+Peritonsillar abscess
+
+
+
+
+
+Neck
+
+
+
+pharynx
+Pharyngitis
+
+Strep throat
+
+
+Laryngopharyngeal reflux (LPR)
+Retropharyngeal abscess
+
+
+larynx
+Croup
+Laryngomalacia
+Laryngeal cyst
+Laryngitis
+Laryngopharyngeal reflux (LPR)
+Laryngospasm
+
+
+vocal folds
+Laryngopharyngeal reflux (LPR)
+Vocal fold nodule
+Vocal fold paresis
+Vocal cord dysfunction
+
+
+epiglottis
+Epiglottitis
+
+
+trachea
+Tracheitis
+Laryngotracheal stenosis
+
+
+
+
+
+
+
+
+Lower RT/lung disease
+(including LRTIs)
+
+
+
+
+Bronchial/
+obstructive
+
+
+
+acute
+Acute bronchitis
+
+
+chronic
+COPD
+
+Chronic bronchitis
+Acute exacerbations of chronic bronchitis
+Acute exacerbation of COPD
+Emphysema)
+Asthma (Status asthmaticus
+Aspirin-induced
+Exercise-induced
+
+
+Bronchiectasis
+
+
+unspecified
+Bronchitis
+Bronchiolitis
+
+Bronchiolitis obliterans
+
+
+Diffuse panbronchiolitis
+
+
+
+
+
+Interstitial/
+restrictive
+(fibrosis)
+
+
+
+
+External agents/
+occupational
+lung disease
+
+
+
+Pneumoconiosis
+
+Asbestosis
+Baritosis
+Bauxite fibrosis
+Berylliosis
+Caplan's syndrome
+Chalicosis
+Coalworker's pneumoconiosis
+Siderosis
+Silicosis
+Talcosis
+Byssinosis
+
+
+
+
+Hypersensitivity pneumonitis
+
+Bagassosis
+Bird fancier's lung
+Farmer's lung
+Lycoperdonosis
+
+
+
+
+
+
+
+Other
+
+
+
+ARDS
+Pulmonary edema
+Löffler's syndrome/Eosinophilic pneumonia
+Respiratory hypersensitivity
+
+Allergic bronchopulmonary aspergillosis
+
+
+Hamman-Rich syndrome
+Idiopathic pulmonary fibrosis
+Sarcoidosis
+
+
+
+
+
+
+
+
+Obstructive or
+restrictive
+
+
+
+
+Pneumonia/
+pneumonitis
+
+
+
+
+By pathogen
+
+
+
+Viral
+Bacterial
+
+Pneumococcal
+Klebsiella)
+
+
+Atypical bacterial
+
+Mycoplasma
+Legionnaires' disease
+Chlamydiae
+
+
+Fungal
+
+Pneumocystis
+
+
+Parasitic
+noninfectious
+
+Chemical/Mendelson's syndrome
+Aspiration/Lipid
+
+
+
+
+
+
+
+By vector/route
+
+
+
+Community-acquired
+Healthcare-associated
+Hospital-acquired
+
+
+
+
+
+By distribution
+
+
+
+Broncho-
+Lobar
+
+
+
+
+
+IIP
+
+
+
+UIP
+DIP
+BOOP-COP
+NSIP
+RB
+
+
+
+
+
+
+
+
+Other
+
+
+
+Atelectasis
+circulatory
+
+Pulmonary hypertension
+Pulmonary embolism
+
+
+Lung abscess
+
+
+
+
+
+
+
+
+
+
+
+Pleural cavity/
+mediastinum
+
+
+
+
+Pleural disease
+
+
+
+Pleuritis/pleurisy
+
+
+Pneumothorax/Hemopneumothorax
+
+
+Pleural effusion
+Hemothorax
+Hydrothorax
+Chylothorax
+Empyema/pyothorax
+Malignant
+
+
+Fibrothorax
+
+
+
+
+
+Mediastinal disease
+
+
+
+Mediastinitis
+Mediastinal emphysema
+
+
+
+
+
+
+
+
+Other/general
+
+
+
+Respiratory failure
+Influenza
+SARS
+Idiopathic pulmonary haemosiderosis
+Pulmonary alveolar proteinosis
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Common cold
+
+
+
+Viruses
+
+
+
+Adenovirus
+Coronavirus
+Enterovirus
+Human metapneumovirus
+Human parainfluenza viruses
+Human respiratory syncytial virus
+Orthomyxoviruses
+
+Influenza A virus
+Influenza B virus
+Influenza C virus
+
+
+Rhinovirus
+
+
+
+
+
+Symptoms
+
+
+
+Cough
+Fatigue
+Fever
+Headache
+Loss of appetite
+Malaise
+Muscle aches
+Nasal congestion
+Rhinorrhea
+Sneezing
+Sore throat
+Weakness
+
+
+
+
+
+Complications
+
+
+
+Acute bronchitis
+Bronchiolitis
+Croup
+Otitis media
+Pharyngitis
+Pneumonia
+Sinusitis
+Strep throat
+
+
+
+
+
+Drugs
+
+
+
+Antiviral drugs
+Pleconaril (experimental)
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4136665-7
+NDL: 00564849
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Common_cold&oldid=811113074"					
+Categories: Acute upper respiratory infectionsAnimal viral diseasesEnterovirus-associated diseasesInflammationsHidden categories: CS1 maint: Extra text: authors listWikipedia indefinitely semi-protected pagesUse dmy dates from July 2013Good articlesInfobox medical condition (new)Articles with medical app sidebarArticles with DMOZ linksWikipedia articles with GND identifiersRTT(full)RTTEM 

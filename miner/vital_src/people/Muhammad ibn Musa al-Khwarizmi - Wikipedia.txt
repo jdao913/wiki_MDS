@@ -1,0 +1,1642 @@
+Muhammad ibn Musa al-Khwarizmi - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+"al-Khwārizmī" redirects here. For other uses, see al-Khwārizmī (disambiguation).
+
+
+Muḥammad ibn Mūsā al-Khwārizmī
+
+
+
+Khwarizmi statute in Amir Kabir University, Tehran
+
+
+
+Born
+c. 780
+Khwarezm[1]
+
+
+Died
+c. 850
+
+
+
+
+
+Academic work
+
+
+Era
+Medieval era (Islamic Golden Age)
+
+
+Notable ideas
+Treatises on algebra and Indian numerals
+
+
+Influenced
+Abu Kamil[2]
+
+
+
+
+
+Muḥammad ibn Mūsā al-Khwārizmī[note 1] (Persian: محمد بن موسى خوارزمی‎‎; c. 780 – c. 850), formerly Latinized as Algoritmi,[note 2] was a Persian[3][4] scholar in the House of Wisdom in Baghdad who produced works in mathematics, astronomy, and geography during the Abbasid Caliphate.
+In the 12th century, Latin translations of his work on the Indian numerals introduced the decimal positional number system to the Western world.[5] Al-Khwārizmī's The Compendious Book on Calculation by Completion and Balancing presented the first systematic solution of linear and quadratic equations in Arabic. Because he is the first to teach algebra as an independent discipline and introduced the methods of "reduction" and "balancing" (the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation), he has been described as the father[6][7][8] or founder[9][10] of algebra. His work on algebra was used until the sixteenth century as the principle mathematical text-book of European universities.[11]
+He revised Ptolemy's Geography and wrote on astronomy and astrology.
+Some words reflect the importance of al-Khwārizmī's contributions to mathematics. "Algebra" is derived from al-jabr, one of the two operations he used to solve quadratic equations. Algorism and algorithm stem from Algoritmi, the Latin form of his name.[12] His name is also the origin of (Spanish) guarismo[13] and of (Portuguese) algarismo, both meaning digit.
+
+
+
+Contents
+
+
+1 Life
+2 Contributions
+
+2.1 Algebra
+2.2 Arithmetic
+2.3 Astronomy
+2.4 Trigonometry
+2.5 Geography
+2.6 Jewish calendar
+2.7 Other works
+
+
+3 See also
+4 Notes
+5 References
+6 Further reading
+
+6.1 Specific references
+6.2 General references
+
+
+
+
+
+Life[edit]
+Few details of al-Khwārizmī's life are known with certainty. He was born in a Persian[4] family and Ibn al-Nadim gives his birthplace as Khwarezm[14] in Greater Khorasan (modern Khiva, Xorazm Region, Uzbekistan).
+Muhammad ibn Jarir al-Tabari gives his name as Muḥammad ibn Musá al-Khwārizmiyy al-Majūsiyy al-Quṭrubbaliyy (محمد بن موسى الخوارزميّ المجوسـيّ القطربّـليّ). The epithet al-Qutrubbulli could indicate he might instead have come from Qutrubbul (Qatrabbul),[15] a viticulture district near Baghdad. However, Rashed[16] suggests:
+
+There is no need to be an expert on the period or a philologist to see that al-Tabari's second citation should read "Muhammad ibn Mūsa al-Khwārizmī and al-Majūsi al-Qutrubbulli," and that there are two people (al-Khwārizmī and al-Majūsi al-Qutrubbulli) between whom the letter wa [Arabic 'و' for the conjunction 'and'] has been omitted in an early copy. This would not be worth mentioning if a series of errors concerning the personality of al-Khwārizmī, occasionally even the origins of his knowledge, had not been made. Recently, G. J. Toomer ... with naive confidence constructed an entire fantasy on the error which cannot be denied the merit of amusing the reader.
+
+Regarding al-Khwārizmī's religion, Toomer writes:
+
+Another epithet given to him by al-Ṭabarī, "al-Majūsī," would seem to indicate that he was an adherent of the old Zoroastrian religion. This would still have been possible at that time for a man of Iranian origin, but the pious preface to al-Khwārizmī's Algebra shows that he was an orthodox Muslim, so al-Ṭabarī's epithet could mean no more than that his forebears, and perhaps he in his youth, had been Zoroastrians.[17]
+
+However, Rashed E Grant (ed.), A source book in medieval science (Cambridge, 1974)., put a rather different interpretation on the same words by Al-Tabari:-
+... Al-Tabari's words should read: "Muhammad ibn Musa al-Khwarizmi and al-Majusi al-Qutrubbulli ...", (and that there are two people al-Khwarizmi and al-Majusi al-Qutrubbulli): the letter "wa" was omitted in the early copy. This would not be worth mentioning if a series of conclusions about al-Khwarizmi's personality, occasionally even the origins of his knowledge, had not been drawn. In his article ([1]) G J Toomer, with naive confidence, constructed an entire fantasy on the error which cannot be denied the merit of making amusing reading.
+
+Ibn al-Nadīm's Kitāb al-Fihrist includes a short biography on al-Khwārizmī together with a list of the books he wrote. Al-Khwārizmī accomplished most of his work in the period between 813 and 833. After the Muslim conquest of Persia, Baghdad became the centre of scientific studies and trade, and many merchants and scientists from as far as China and India traveled to this city, as did al-Khwārizmī[citation needed]. He worked in Baghdad as a scholar at the House of Wisdom established by Caliph al-Ma’mūn, where he studied the sciences and mathematics, which included the translation of Greek and Sanskrit scientific manuscripts.
+Douglas Morton Dunlop suggests that it may have been possible that Muḥammad ibn Mūsā al-Khwārizmī was in fact the same person as Muḥammad ibn Mūsā ibn Shākir, the eldest of the three Banū Mūsā.[18]
+Contributions[edit]
+
+
+
+
+A page from al-Khwārizmī's Algebra
+
+
+Al-Khwārizmī's contributions to mathematics, geography, astronomy, and cartography established the basis for innovation in algebra and trigonometry. His systematic approach to solving linear and quadratic equations led to algebra, a word derived from the title of his book on the subject, "The Compendious Book on Calculation by Completion and Balancing".
+On the Calculation with Hindu Numerals written about 820, was principally responsible for spreading the Hindu–Arabic numeral system throughout the Middle East and Europe. It was translated into Latin as Algoritmi de numero Indorum. Al-Khwārizmī, rendered as (Latin) Algoritmi, led to the term "algorithm".
+Some of his work was based on Persian and Babylonian astronomy, Indian numbers, and Greek mathematics.
+Al-Khwārizmī systematized and corrected Ptolemy's data for Africa and the Middle East. Another major book was Kitab surat al-ard ("The Image of the Earth"; translated as Geography), presenting the coordinates of places based on those in the Geography of Ptolemy but with improved values for the Mediterranean Sea, Asia, and Africa.[citation needed]
+He also wrote on mechanical devices like the astrolabe and sundial.
+He assisted a project to determine the circumference of the Earth and in making a world map for al-Ma'mun, the caliph, overseeing 70 geographers.[19]
+When, in the 12th century, his works spread to Europe through Latin translations, it had a profound impact on the advance of mathematics in Europe.[citation needed]
+Algebra[edit]
+Main article: The Compendious Book on Calculation by Completion and Balancing
+Further information: Latin translations of the 12th century and Science in the medieval Islamic world
+
+
+
+
+
+
+
+
+
+Left: The original Arabic print manuscript of the Book of Algebra by Al-Khwārizmī. Right: A page from The Algebra of Al-Khwarizmi by Fredrick Rosen, in English.
+
+
+The Compendious Book on Calculation by Completion and Balancing (Arabic: الكتاب المختصر في حساب الجبر والمقابلة‎ al-Kitāb al-mukhtaṣar fī ḥisāb al-jabr wal-muqābala) is a mathematical book written approximately 820 CE. The book was written with the encouragement of Caliph al-Ma'mun as a popular work on calculation and is replete with examples and applications to a wide range of problems in trade, surveying and legal inheritance.[20] The term "algebra" is derived from the name of one of the basic operations with equations (al-jabr, meaning "restoration", referring to adding a number to both sides of the equation to consolidate or cancel terms) described in this book. The book was translated in Latin as Liber algebrae et almucabala by Robert of Chester (Segovia, 1145) hence "algebra", and also by Gerard of Cremona. A unique Arabic copy is kept at Oxford and was translated in 1831 by F. Rosen. A Latin translation is kept in Cambridge.[21]
+It provided an exhaustive account of solving polynomial equations up to the second degree,[22] and discussed the fundamental methods of "reduction" and "balancing", referring to the transposition of terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation.[23]
+Al-Khwārizmī's method of solving linear and quadratic equations worked by first reducing the equation to one of six standard forms (where b and c are positive integers)
+
+squares equal roots (ax2 = bx)
+squares equal number (ax2 = c)
+roots equal number (bx = c)
+squares and roots equal number (ax2 + bx = c)
+squares and number equal roots (ax2 + c = bx)
+roots and number equal squares (bx + c = ax2)
+
+by dividing out the coefficient of the square and using the two operations al-jabr (Arabic: الجبر‎ "restoring" or "completion") and al-muqābala ("balancing"). Al-jabr is the process of removing negative units, roots and squares from the equation by adding the same quantity to each side. For example, x2 = 40x − 4x2 is reduced to 5x2 = 40x. Al-muqābala is the process of bringing quantities of the same type to the same side of the equation. For example, x2 + 14 = x + 5 is reduced to x2 + 9 = x.
+The above discussion uses modern mathematical notation for the types of problems which the book discusses. However, in al-Khwārizmī's day, most of this notation had not yet been invented, so he had to use ordinary text to present problems and their solutions. For example, for one problem he writes, (from an 1831 translation)
+
+If some one say: "You divide ten into two parts: multiply the one by itself; it will be equal to the other taken eighty-one times." Computation: You say, ten less thing, multiplied by itself, is a hundred plus a square less twenty things, and this is equal to eighty-one things. Separate the twenty things from a hundred and a square, and add them to eighty-one. It will then be a hundred plus a square, which is equal to a hundred and one roots. Halve the roots; the moiety is fifty and a half. Multiply this by itself, it is two thousand five hundred and fifty and a quarter. Subtract from this one hundred; the remainder is two thousand four hundred and fifty and a quarter. Extract the root from this; it is forty-nine and a half. Subtract this from the moiety of the roots, which is fifty and a half. There remains one, and this is one of the two parts.[20]
+
+In modern notation this process, with 'x' the "thing" (شيء shayʾ) or "root", is given by the steps,
+
+
+
+
+
+(
+10
+−
+x
+
+)
+
+2
+
+
+=
+81
+x
+
+
+{\displaystyle (10-x)^{2}=81x}
+
+
+
+
+
+
+
+x
+
+2
+
+
+−
+20
+x
++
+100
+=
+81
+x
+
+
+{\displaystyle x^{2}-20x+100=81x}
+
+
+
+
+
+
+
+x
+
+2
+
+
++
+100
+=
+101
+x
+
+
+{\displaystyle x^{2}+100=101x}
+
+
+
+Let the roots of the equation be 'p' and 'q'. Then 
+
+
+
+
+
+
+
+p
++
+q
+
+2
+
+
+
+=
+50
+
+
+
+1
+2
+
+
+
+
+
+{\displaystyle {\tfrac {p+q}{2}}=50{\tfrac {1}{2}}}
+
+, 
+
+
+
+p
+q
+=
+100
+
+
+{\displaystyle pq=100}
+
+ and
+
+
+
+
+
+
+
+
+p
+−
+q
+
+2
+
+
+=
+
+
+
+
+(
+
+
+
+p
++
+q
+
+2
+
+
+)
+
+
+2
+
+
+−
+p
+q
+
+
+=
+
+
+2550
+
+
+
+1
+4
+
+
+
+−
+100
+
+
+=
+49
+
+
+
+1
+2
+
+
+
+
+
+{\displaystyle {\frac {p-q}{2}}={\sqrt {\left({\frac {p+q}{2}}\right)^{2}-pq}}={\sqrt {2550{\tfrac {1}{4}}-100}}=49{\tfrac {1}{2}}}
+
+
+
+So a root is given by
+
+
+
+
+
+x
+=
+50
+
+
+
+1
+2
+
+
+
+−
+49
+
+
+
+1
+2
+
+
+
+=
+1
+
+
+{\displaystyle x=50{\tfrac {1}{2}}-49{\tfrac {1}{2}}=1}
+
+
+
+Several authors have also published texts under the name of Kitāb al-jabr wal-muqābala, including Abū Ḥanīfa Dīnawarī, Abū Kāmil Shujāʿ ibn Aslam, Abū Muḥammad al-‘Adlī, Abū Yūsuf al-Miṣṣīṣī, 'Abd al-Hamīd ibn Turk, Sind ibn ‘Alī, Sahl ibn Bišr, and Sharaf al-Dīn al-Ṭūsī.
+J. J. O'Conner and E. F. Robertson wrote in the MacTutor History of Mathematics archive:
+
+Perhaps one of the most significant advances made by Arabic mathematics began at this time with the work of al-Khwarizmi, namely the beginnings of algebra. It is important to understand just how significant this new idea was. It was a revolutionary move away from the Greek concept of mathematics which was essentially geometry. Algebra was a unifying theory which allowed rational numbers, irrational numbers, geometrical magnitudes, etc., to all be treated as "algebraic objects". It gave mathematics a whole new development path so much broader in concept to that which had existed before, and provided a vehicle for future development of the subject. Another important aspect of the introduction of algebraic ideas was that it allowed mathematics to be applied to itself in a way which had not happened before.[24]
+
+R. Rashed and Angela Armstrong write:
+
+Al-Khwarizmi's text can be seen to be distinct not only from the Babylonian tablets, but also from Diophantus' Arithmetica. It no longer concerns a series of problems to be resolved, but an exposition which starts with primitive terms in which the combinations must give all possible prototypes for equations, which henceforward explicitly constitute the true object of study. On the other hand, the idea of an equation for its own sake appears from the beginning and, one could say, in a generic manner, insofar as it does not simply emerge in the course of solving a problem, but is specifically called on to define an infinite class of problems.[25]
+
+
+
+
+
+Page from a Latin translation, beginning with "Dixit algorizmi"
+
+
+Arithmetic[edit]
+Al-Khwārizmī's second major work was on the subject of arithmetic, which survived in a Latin translation but was lost in the original Arabic. The translation was most likely done in the 12th century by Adelard of Bath, who had also translated the astronomical tables in 1126.
+The Latin manuscripts are untitled, but are commonly referred to by the first two words with which they start: Dixit algorizmi ("So said al-Khwārizmī"), or Algoritmi de numero Indorum ("al-Khwārizmī on the Hindu Art of Reckoning"), a name given to the work by Baldassarre Boncompagni in 1857. The original Arabic title was possibly Kitāb al-Jam‘ wat-Tafrīq bi-Ḥisāb al-Hind[26] ("The Book of Addition and Subtraction According to the Hindu Calculation").[27]
+Al-Khwārizmī's work on arithmetic was responsible for introducing the Arabic numerals, based on the Hindu–Arabic numeral system developed in Indian mathematics, to the Western world. The term "algorithm" is derived from the algorism, the technique of performing arithmetic with Hindu-Arabic numerals developed by al-Khwārizmī. Both "algorithm" and "algorism" are derived from the Latinized forms of al-Khwārizmī's name, Algoritmi and Algorismi, respectively.
+Astronomy[edit]
+
+
+
+
+Page from Corpus Christi College MS 283. A Latin translation of al-Khwārizmī's Zīj.
+
+
+Al-Khwārizmī's Zīj al-Sindhind[17] (Arabic: زيج السند هند‎, "astronomical tables of Siddhanta"[28]) is a work consisting of approximately 37 chapters on calendrical and astronomical calculations and 116 tables with calendrical, astronomical and astrological data, as well as a table of sine values. This is the first of many Arabic Zijes based on the Indian astronomical methods known as the sindhind.[29] The work contains tables for the movements of the sun, the moon and the five planets known at the time. This work marked the turning point in Islamic astronomy. Hitherto, Muslim astronomers had adopted a primarily research approach to the field, translating works of others and learning already discovered knowledge.
+The original Arabic version (written c. 820) is lost, but a version by the Spanish astronomer Maslamah Ibn Ahmad al-Majriti (c. 1000) has survived in a Latin translation, presumably by Adelard of Bath (January 26, 1126).[30] The four surviving manuscripts of the Latin translation are kept at the Bibliothèque publique (Chartres), the Bibliothèque Mazarine (Paris), the Biblioteca Nacional (Madrid) and the Bodleian Library (Oxford).
+Trigonometry[edit]
+Al-Khwārizmī's Zīj al-Sindhind also contained tables for the trigonometric functions of sines and cosine.[29] A related treatise on spherical trigonometry is also attributed to him.[24]
+Geography[edit]
+
+
+
+
+Daunicht's reconstruction of the section of al-Khwārizmī's world map concerning the Indian Ocean.
+
+
+
+
+
+
+A 15th-century version of Ptolemy's Geography for comparison.
+
+
+
+
+
+
+A stamp issued September 6, 1983 in the Soviet Union, commemorating al-Khwārizmī's (approximate) 1200th birthday.
+
+
+
+
+
+
+Statue of Al-Khwārizmī in his birth town Khiva, Uzbekistan.
+
+
+Al-Khwārizmī's third major work is his Kitāb Ṣūrat al-Arḍ (Arabic: كتاب صورة الأرض‎, "Book of the Description of the Earth"),[31] also known as his Geography, which was finished in 833. It is a major reworking of Ptolemy's 2nd-century Geography, consisting of a list of 2402 coordinates of cities and other geographical features following a general introduction.[32]
+There is only one surviving copy of Kitāb Ṣūrat al-Arḍ, which is kept at the Strasbourg University Library. A Latin translation is kept at the Biblioteca Nacional de España in Madrid.[citation needed] The book opens with the list of latitudes and longitudes, in order of "weather zones", that is to say in blocks of latitudes and, in each weather zone, by order of longitude. As Paul Gallez[dubious – discuss] points out, this excellent system allows the deduction of many latitudes and longitudes where the only extant document is in such a bad condition as to make it practically illegible. Neither the Arabic copy nor the Latin translation include the map of the world itself; however, Hubert Daunicht was able to reconstruct the missing map from the list of coordinates. Daunicht read the latitudes and longitudes of the coastal points in the manuscript, or deduces them from the context where they were not legible. He transferred the points onto graph paper and connected them with straight lines, obtaining an approximation of the coastline as it was on the original map. He then does the same for the rivers and towns.[33]
+Al-Khwārizmī corrected Ptolemy's gross overestimate for the length of the Mediterranean Sea[34] from the Canary Islands to the eastern shores of the Mediterranean; Ptolemy overestimated it at 63 degrees of longitude, while al-Khwārizmī almost correctly estimated it at nearly 50 degrees of longitude. He "also depicted the Atlantic and Indian Oceans as open bodies of water, not land-locked seas as Ptolemy had done."[35] Al-Khwārizmī's Prime Meridian at the Fortunate Isles was thus around 10° east of the line used by Marinus and Ptolemy. Most medieval Muslim gazetteers continued to use al-Khwārizmī's prime meridian.[34]
+Jewish calendar[edit]
+Al-Khwārizmī wrote several other works including a treatise on the Hebrew calendar, titled Risāla fi istikhrāj ta’rīkh al-yahūd (Arabic: رسالة في إستخراج تأريخ اليهود‎, "Extraction of the Jewish Era"). It describes the Metonic cycle, a 19-year intercalation cycle; the rules for determining on what day of the week the first day of the month Tishrei shall fall; calculates the interval between the Anno Mundi or Jewish year and the Seleucid era; and gives rules for determining the mean longitude of the sun and the moon using the Hebrew calendar. Similar material is found in the works of Abū Rayḥān al-Bīrūnī and Maimonides.[17]
+Other works[edit]
+Ibn al-Nadim's Kitāb al-Fihrist, an index of Arabic books, mentions al-Khwārizmī's Kitāb al-Taʾrīkh (Arabic: كتاب التأريخ‎), a book of annals. No direct manuscript survives; however, a copy had reached Nusaybin by the 11th century, where its metropolitan bishop, Mar Elyas bar Shinaya, found it. Elias's chronicle quotes it from "the death of the Prophet" through to 169 AH, at which point Elias's text itself hits a lacuna.[36]
+Several Arabic manuscripts in Berlin, Istanbul, Tashkent, Cairo and Paris contain further material that surely or with some probability comes from al-Khwārizmī. The Istanbul manuscript contains a paper on sundials; the Fihrist credits al-Khwārizmī with Kitāb ar-Rukhāma(t) (Arabic: كتاب الرخامة‎). Other papers, such as one on the determination of the direction of Mecca, are on the spherical astronomy.
+Two texts deserve special interest on the morning width (Ma‘rifat sa‘at al-mashriq fī kull balad) and the determination of the azimuth from a height (Ma‘rifat al-samt min qibal al-irtifā‘).
+He also wrote two books on using and constructing astrolabes.
+See also[edit]
+
+
+
+Wikiquote has quotations related to: al-Khwārizmī
+
+
+
+
+
+Wikimedia Commons has media related to Muhammad ibn Musa al-Khwarizmi.
+
+
+
+Al-Khwarizmi (crater) — A crater on the far side of the moon named for al-Khwārizmī.
+Astronomy in the medieval Islamic world
+Indian influence on Islamic science
+List of pioneers in computer science
+Khwarizmi International Award — An Iranian award named after al-Khwārizmī.
+Mathematics in medieval Islam
+
+
+Notes[edit]
+
+
+
+^ There is some confusion in the literature on whether al-Khwārizmī's full name is Abū ʿAbdallāh Muḥammad ibn Mūsā al-Khwārizmī or Abū Ja‘far Muḥammad ibn Mūsā al-Khwārizmī. Ibn Khaldun notes in his encyclopedic work: "The first who wrote upon this branch [algebra] was Abu ‘Abdallah al-Khowarizmi, after whom came Abu Kamil Shoja‘ ibn Aslam." (MacGuckin de Slane). (Rosen 1831, pp. xi–xiii) mentions that "[Abu Abdallah Mohammed ben Musa] lived and wrote under the caliphate of Al Mamun, and must therefore be distinguished from Abu Jafar Mohammed ben Musa, likewise a mathematician and astronomer, who flourished under the Caliph Al Motaded (who reigned A.H. 279–289, A.D. 892–902)." In the introduction to his critical commentary on Robert of Chester's Latin translation of al-Khwārizmī's Algebra, L.C. Karpinski notes that Abū Ja‘far Muḥammad ibn Mūsā refers to the eldest of the Banū Mūsā brothers. Karpinski notes in his review on (Ruska 1917) that in (Ruska 1918): "Ruska here inadvertently speaks of the author as Abū Ga‘far M. b. M., instead of Abū Abdallah M. b. M."
+^ Other Latin transliterations include Algaurizin.[citation needed]
+
+
+
+References[edit]
+
+
+^ Berggren 1986; Struik 1987, p. 93
+^ O'Connor, John J.; Robertson, Edmund F., "Abū Kāmil Shujā‘ ibn Aslam", MacTutor History of Mathematics archive, University of St Andrews.
+^ Saliba, George (September 1998). "Science and medicine". Iranian Studies. 31 (3-4): 681–690. doi:10.1080/00210869808701940. Take, for example, someone like Muhammad b. Musa al-Khwarizmi (fl. 850) who may present a problem for the EIr, for although he was obviously of Persian descent, he lived and worked in Baghdad and was not known to have produced a single scientific work in Persian. 
+^ a b Toomer 1990; Oaks, Jeffrey A. "Was al-Khwarizmi an applied algebraist?". University of Indianapolis. Retrieved 2008-05-30. ; Hogendijk, Jan P. (1998). "al-Khwarzimi". Pythagoras. 38 (2): 4–5. ISSN 0033-4766. 
+^ Struik 1987, p. 93
+^ (Boyer 1991, "The Arabic Hegemony" p. 229) "It is not certain just what the terms al-jabr and muqabalah mean, but the usual interpretation is similar to that implied in the translation above. The word al-jabr presumably meant something like "restoration" or "completion" and seems to refer to the transposition of subtracted terms to the other side of an equation; the word muqabalah is said to refer to "reduction" or "balancing" - that is, the cancellation of like terms on opposite sides of the equation."
+^ Boyer, Carl B., 1985. A History of Mathematics, p. 252. Princeton University Press. "Diophantus sometimes is called the father of algebra, but this title more appropriately belongs to al-Khowarizmi...","...the Al-jabr comes closer to the elementay algebra of today than the works of either Diophantus or Brahmagupta..."
+^ S Gandz, The sources of al-Khwarizmi's algebra, Osiris, i (1936), 263-77,"Al-Khwarizmi's algebra is regarded as the foundation and cornerstone of the sciences. In a sense, al-Khwarizmi is more entitled to be called "the father of algebra" than Diophantus because al-Khwarizmi is the first to teach algebra in an elementary form and for its own sake, Diophantus is primarily concerned with the theory of numbers."
+^ https://eclass.uoa.gr/modules/document/file.php/MATH104/20010-11/HistoryOfAlgebra.pdf,"The first true algebra text which is still extant is the work on al-jabr and al-muqabala by Mohammad ibn Musa al-Khwarizmi, written in Baghdad around 825"
+^ https://books.google.fr/books?id=9HUDXkJIE3EC&pg=PA188&lpg=PA188&dq=Al-Tusi+introduced+a+new+discipline%E2%80%94algebraic+geometry%E2%80%94that+relies+on+equations+to+study+curves.%22&source=bl&ots=XPTsT1hkMh&sig=DC59ymcLgnfr1Nx42RkM5MLlq1U&hl=fr&sa=X&ved=0ahUKEwiSrtiBl93WAhVJIcAKHSDnAxQQ6AEIUDAF#v=onepage&q=Al-Tusi%20introduced%20a%20new%20discipline%E2%80%94algebraic%20geometry%E2%80%94that%20relies%20on%20equations%20to%20study%20curves.%22&f=true,"Al-Khwarizmi is often considered the founder of algebra and his name gave rise to the term algorithm"
+^ Philip Khuri Hitti (2002). History of the Arabs. p. 379. 
+^ Daffa 1977
+^ Knuth, Donald (1979). Algorithms in Modern Mathematics and Computer Science (PDF). Springer-Verlag. ISBN 0-387-11157-3. 
+^ Cristopher Moore and Stephan Mertens, The Nature of Computation, (Oxford University Press, 2011), 36.
+^ "Iraq After the Muslim Conquest", by Michael G. Morony, ISBN 1-59333-315-3 (a 2005 facsimile from the original 1984 book), p. 145
+^ Rashed, Roshdi (1988). "al-Khwārizmī's Concept of Algebra". In Zurayq, Qusṭanṭīn; Atiyeh, George Nicholas; Oweiss, Ibrahim M. Arab Civilization: Challenges and Responses : Studies in Honor of Constantine K. Zurayk. SUNY Press. p. 108. ISBN 0-88706-698-4. 
+^ a b c Toomer 1990
+^ Dunlop 1943
+^ "al-Khwarizmi". Encyclopædia Britannica. Retrieved 2008-05-30. 
+^ a b Rosen, Frederic. "The Compendious Book on Calculation by Completion and Balancing, al-Khwārizmī". 1831 English Translation. Retrieved 2009-09-14. 
+^ Karpinski, L. C. (1912). "History of Mathematics in the Recent Edition of the Encyclopædia Britannica". American Association for the Advancement of Science. 
+^ Boyer, Carl B. (1991). "The Arabic Hegemony". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. p. 228. ISBN 0-471-54397-7. 
+
+"The Arabs in general loved a good clear argument from premise to conclusion, as well as systematic organization — respects in which neither Diophantus nor the Hindus excelled."
+
+
+^ (Boyer 1991, "The Arabic Hegemony" p. 229) "It is not certain just what the terms al-jabr and muqabalah mean, but the usual interpretation is similar to that implied in the translation above. The word al-jabr presumably meant something like "restoration" or "completion" and seems to refer to the transposition of subtracted terms to the other side of an equation; the word muqabalah is said to refer to "reduction" or "balancing" — that is, the cancellation of like terms on opposite sides of the equation."
+^ a b O'Connor, John J.; Robertson, Edmund F., "Muhammad ibn Musa al-Khwarizmi", MacTutor History of Mathematics archive, University of St Andrews .
+^ Rashed, R.; Armstrong, Angela (1994). The Development of Arabic Mathematics. Springer. pp. 11–2. ISBN 0-7923-2565-6. OCLC 29181926. 
+^ Ruska
+^ Berggren 1986, p. 7
+^ Thurston, Hugh (1996), Early Astronomy, Springer Science & Business Media, pp. 204–, ISBN 978-0-387-94822-5 
+^ a b Kennedy 1956, pp. 26–9
+^ Kennedy 1956, p. 128
+^ The full title is "The Book of the Description of the Earth, with its Cities, Mountains, Seas, All the Islands and the Rivers, written by Abu Ja'far Muhammad ibn Musa al-Khwārizmī, according to the Geographical Treatise written by Ptolemy the Claudian", although due to ambiguity in the word surah it could also be understood as meaning "The Book of the Image of the Earth" or even "The Book of the Map of the World".
+^ "The history of cartography". GAP computer algebra system. Retrieved 2008-05-30. 
+^ Daunicht.
+^ a b Edward S. Kennedy, Mathematical Geography, p. 188, in (Rashed & Morelon 1996, pp. 185–201)
+^ Covington, Richard (2007). "The Third Dimension". Saudi Aramco World, May–June 2007: 17–21. Retrieved 2008-07-06. 
+^ LJ Delaporte (1910). Chronographie de Mar Elie bar Sinaya. Paris. p. xiii. 
+
+
+Further reading[edit]
+Specific references[edit]
+
+
+Biographical
+
+
+Toomer, Gerald (1990). "Al-Khwārizmī, Abu Ja'far Muḥammad ibn Mūsā". In Gillispie, Charles Coulston. Dictionary of Scientific Biography. 7. New York: Charles Scribner's Sons. ISBN 0-684-16962-2. 
+Brentjes, Sonja (2007). "Khwārizmī: Muḥammad ibn Mūsā al‐Khwārizmī" in Thomas Hockey et al.(eds.). The Biographical Encyclopedia of Astronomers, Springer Reference. New York: Springer, 2007, pp. 631–633. (PDF version)
+Dunlop, Douglas Morton (1943). "Muḥammad b. Mūsā al-Khwārizmī". The Journal of the Royal Asiatic Society of Great Britain and Ireland. Cambridge University (2): 248–250. JSTOR 25221920. 
+Hogendijk, Jan P., Muhammad ibn Musa (Al-)Khwarizmi (ca. 780-850 CE) – bibliography of his works, manuscripts, editions and translations.
+O'Connor, John J.; Robertson, Edmund F., "Abu Ja'far Muhammad ibn Musa Al-Khwarizmi", MacTutor History of Mathematics archive, University of St Andrews .
+Fuat Sezgin. Geschichte des arabischen Schrifttums. 1974, E. J. Brill, Leiden, the Netherlands.
+Sezgin, F., ed., Islamic Mathematics and Astronomy, Frankfurt: Institut für Geschichte der arabisch-islamischen Wissenschaften, 1997–9.
+
+
+Algebra
+
+
+Gandz, Solomon (November 1926). "The Origin of the Term "Algebra"". The American Mathematical Monthly. The American Mathematical Monthly, Vol. 33, No. 9. 33 (9): 437–440. doi:10.2307/2299605. ISSN 0002-9890. JSTOR 2299605. 
+Gandz, Solomon (1936). "The Sources of al-Khowārizmī's Algebra". Osiris. 1 (1): 263–277. doi:10.1086/368426. ISSN 0369-7827. JSTOR 301610. 
+Gandz, Solomon (1938). "The Algebra of Inheritance: A Rehabilitation of Al-Khuwārizmī". Osiris. 5 (5): 319–391. doi:10.1086/368492. ISSN 0369-7827. JSTOR 301569. 
+Hughes, Barnabas (1986). "Gerard of Cremona's Translation of al-Khwārizmī's al-Jabr: A Critical Edition". Mediaeval Studies. 48: 211–263. 
+Barnabas Hughes. Robert of Chester's Latin translation of al-Khwarizmi's al-Jabr: A new critical edition. In Latin. F. Steiner Verlag Wiesbaden (1989). ISBN 3-515-04589-9.
+Karpinski, L. C. (1915). Robert of Chester's Latin Translation of the Algebra of Al-Khowarizmi: With an Introduction, Critical Notes and an English Version. The Macmillan Company. 
+Rosen, Fredrick (1831). The Algebra of Mohammed Ben Musa. Kessinger Publishing. ISBN 1-4179-4914-7. 
+Ruska, Julius (1917). "Zur ältesten arabischen Algebra und Rechenkunst". Sitzungsberichte der Heidelberger Akademie der Wissenschaften, Philosophisch-historische Klasse: 1–125. 
+
+
+Arithmetic
+
+
+Folkerts, Menso (1997). Die älteste lateinische Schrift über das indische Rechnen nach al-Ḫwārizmī (in German and Latin). München: Bayerische Akademie der Wissenschaften. ISBN 3-7696-0108-4. 
+Vogel, Kurt (1968). Mohammed ibn Musa Alchwarizmi's Algorismus; das früheste Lehrbuch zum Rechnen mit indischen Ziffern. Nach der einzigen (lateinischen) Handschrift (Cambridge Un. Lib. Ms. Ii. 6.5) in Faksimile mit Transkription und Kommentar herausgegeben von Kurt Vogel. Aalen, O. Zeller.
+
+
+Astronomy
+
+
+Goldstein, B. R. (1968). Commentary on the Astronomical Tables of Al-Khwarizmi: By Ibn Al-Muthanna. Yale University Press. ISBN 0-300-00498-2. 
+Hogendijk, Jan P. (1991). "Al-Khwārizmī's Table of the "Sine of the Hours" and the Underlying Sine Table". Historia Scientiarum. 42: 1–12. 
+King, David A. (1983). Al-Khwārizmī and New Trends in Mathematical Astronomy in the Ninth Century. New York University: Hagop Kevorkian Center for Near Eastern Studies: Occasional Papers on the Near East 2. LCCN 85150177. 
+Neugebauer, Otto (1962). The Astronomical Tables of al-Khwarizmi. 
+Rosenfeld, Boris A. (1993). Menso Folkerts; J. P. Hogendijk, eds. ""Geometric trigonometry" in treatises of al-Khwārizmī, al-Māhānī and Ibn al-Haytham". Vestiga mathematica: Studies in Medieval and Early Modern Mathematics in Honour of H. L. L. Busard. Amsterdam: Rodopi. ISBN 90-5183-536-1. 
+Suter, Heinrich. [Ed.]: Die astronomischen Tafeln des Muhammed ibn Mûsâ al-Khwârizmî in der Bearbeitung des Maslama ibn Ahmed al-Madjrîtî und der latein. Übersetzung des Athelhard von Bath auf Grund der Vorarbeiten von A. Bjørnbo und R. Besthorn in Kopenhagen. Hrsg. und komm. Kopenhagen 1914. 288 pp. Repr. 1997 (Islamic Mathematics and Astronomy. 7). ISBN 3-8298-4008-X.
+Van Dalen, B. Al-Khwarizmi's Astronomical Tables Revisited: Analysis of the Equation of Time.
+
+
+Spherical trigonometry
+
+
+B. A. Rozenfeld. "Al-Khwarizmi's spherical trigonometry" (Russian), Istor.-Mat. Issled. 32–33 (1990), 325–339.
+
+
+Jewish calendar
+
+
+Kennedy, E. S. (1964). "Al-Khwārizmī on the Jewish Calendar". Scripta Mathematica. 27: 55–59. 
+
+
+Geography
+
+
+Daunicht, Hubert (1968–1970). Der Osten nach der Erdkarte al-Ḫuwārizmīs : Beiträge zur historischen Geographie und Geschichte Asiens (in German). Bonner orientalistische Studien. N.S.; Bd. 19. LCCN 71468286. 
+Mžik, Hans von (1915). "Ptolemaeus und die Karten der arabischen Geographen". Mitteil. D. K. K. Geogr. Ges. In Wien. 58: 152. 
+Mžik, Hans von (1916). "Afrika nach der arabischen Bearbeitung der γεωγραφικὴ ὑφήγησις des Cl. Ptolomeaus von Muh. ibn Mūsa al-Hwarizmi". Denkschriften d. Akad. D. Wissen. In Wien, Phil.-hist. Kl. 59. 
+Mžik, Hans von (1926). Das Kitāb Ṣūrat al-Arḍ des Abū Ǧa‘far Muḥammad ibn Mūsā al-Ḫuwārizmī. Leipzig. 
+Nallino, C. A. (1896), "Al-Ḫuwārizmī e il suo rifacimento della Geografia di Tolemo", Atti della R. Accad. dei Lincei, Arno 291, Serie V, Memorie, Classe di Sc. Mor., Vol. II, Rome 
+Ruska, Julius (1918). "Neue Bausteine zur Geschichte der arabischen Geographie". Geographische Zeitschrift. 24: 77–81. 
+Spitta, W. (1879). "Ḫuwārizmī's Auszug aus der Geographie des Ptolomaeus". Zeitschrift Deutschen Morgenl. Gesell. 33. 
+
+
+General references[edit]
+
+For a more extensive bibliography see: History of mathematics, Mathematics in medieval Islam, and Astronomy in medieval Islam.
+
+
+
+Berggren, J. Lennart (1986). Episodes in the Mathematics of Medieval Islam. New York: Springer Science+Business Media. ISBN 0-387-96318-9. 
+Boyer, Carl B. (1991). "The Arabic Hegemony". A History of Mathematics (Second ed.). John Wiley & Sons, Inc. ISBN 0-471-54397-7. 
+Daffa, Ali Abdullah al- (1977). The Muslim contribution to mathematics. London: Croom Helm. ISBN 0-85664-464-1. 
+Dallal, Ahmad (1999). "Science, Medicine and Technology". In Esposito, John. The Oxford History of Islam. Oxford University Press, New York. 
+Kennedy, E. S. (1956). "A Survey of Islamic Astronomical Tables; Transactions of the American Philosophical Society". 46 (2). Philadelphia: American Philosophical Society. 
+King, David A. (1999a). "Islamic Astronomy". In Walker, Christopher. Astronomy before the telescope. British Museum Press. pp. 143–174. ISBN 0-7141-2733-7. 
+King, David A. (2002). "A Vetustissimus Arabic Text on the Quadrans Vetus". Journal for the History of Astronomy. 33: 237–255. Bibcode:2002JHA....33..237K. 
+Struik, Dirk Jan (1987). A Concise History of Mathematics (4th ed.). Dover Publications. ISBN 0-486-60255-9. 
+O'Connor, John J.; Robertson, Edmund F., "Abraham bar Hiyya Ha-Nasi", MacTutor History of Mathematics archive, University of St Andrews .
+O'Connor, John J.; Robertson, Edmund F., "Arabic mathematics: forgotten brilliance?", MacTutor History of Mathematics archive, University of St Andrews .
+Roshdi Rashed, The development of Arabic mathematics: between arithmetic and algebra, London, 1994.
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Mathematics in medieval Islam
+
+
+
+Mathematicians
+(Works)
+
+
+
+
+9th century
+
+
+
+'Abd al-Hamīd ibn Turk
+Sind ibn Ali
+Al-Abbās ibn Said al-Jawharī
+Al-Ḥajjāj ibn Yūsuf ibn Maṭar
+Al-Kindi
+
+De Gradibus
+
+
+Al-Mahani
+Banū Mūsā
+Hunayn ibn Ishaq
+al-Khwārizmī
+
+The Compendious Book on Calculation by Completion and Balancing
+
+
+ibn Qurra
+Na'im ibn Musa
+Sahl ibn Bishr
+Habash al-Hasib al-Marwazi
+Abu Said Gorgani
+
+
+
+
+
+10th century
+
+
+
+Abd al-Rahman al-Sufi
+
+Book of Fixed Stars
+
+
+Abu al-Wafa' Buzjani
+Abū Ja'far al-Khāzin
+Abū Kāmil Shujāʿ ibn Aslam
+Abu'l-Hasan al-Uqlidisi
+Abu-Mahmud Khojandi
+Ahmad ibn Yusuf
+Al-Nayrizi
+Al-Saghani
+Brethren of Purity
+Ibn Sahl
+Ibn Yunus
+Ibrahim ibn Sinan
+Al-Battani
+Sinan ibn Thabit
+Al-Isfahani
+Nazif ibn Yumn
+Abū Sahl al-Qūhī
+Abu al-Jud
+
+
+
+
+
+11th century
+
+
+
+Abū Ishāq Ibrāhīm al-Zarqālī
+Abu Nasr Mansur
+Al-Biruni
+Ibn al-Haytham / Alhazen
+
+Book of Optics
+
+
+Ibn Muʿādh al-Jayyānī
+Al-Karaji
+Al-Sijzi
+Alī ibn Ahmad al-Nasawī
+Avicenna
+
+The Book of Healing
+
+
+Abu Mansur al-Baghdadi
+Kushyar Gilani
+Yusuf al-Mu'taman ibn Hud
+Abu Mansur al-Baghdadi
+Al-Isfizari
+
+
+
+
+
+12th century
+
+
+
+Al-Khazini
+Al-Samawal al-Maghribi
+Omar Khayyam
+Jabir ibn Aflah
+Abu Bakr al-Hassar
+Al-Kharaqī
+
+
+
+
+
+13th century
+
+
+
+Muhyi al-Dīn al-Maghribī
+Nasir al-Din al-Tusi
+
+Zij-i Ilkhani
+
+
+Shams al-Dīn al-Samarqandī
+Sharaf al-Dīn al-Ṭūsī
+Ibn al‐Ha'im al‐Ishbili
+Ibn Abi al-Shukr
+
+
+
+
+
+14th century
+
+
+
+Yaʿīsh ibn Ibrāhīm al-Umawī
+Ibn al-Banna' al-Marrakushi
+Ibn al-Shatir
+Kamāl al-Dīn al-Fārisī
+Al-Khalili
+Qutb al-Din al-Shirazi
+Ahmad al-Qalqashandi
+
+
+
+
+
+15th century
+
+
+
+Abū al-Ḥasan ibn ʿAlī al-Qalaṣādī
+Ali Qushji
+Jamshīd al-Kāshī
+Qāḍī Zāda al-Rūmī
+Ulugh Beg
+Ibn al-Majdi
+Abu Ishaq al-Kubunani
+
+
+
+
+
+16th century
+
+
+
+Al-Birjandi
+Muhammad Baqir Yazdi
+Taqi ad-Din
+Ibn Hamza al-Maghribi
+Ibn Ghazi al-Miknasi
+
+
+
+
+
+
+
+
+
+
+
+Other treatises
+
+
+
+Almanac
+Encyclopedia of the Brethren of Purity
+Toledan Tables
+Tabula Rogeriana
+Zij
+Zij-i Sultani
+
+
+
+
+
+Concepts
+
+
+
+Alhazen's problem
+Islamic geometric patterns
+
+
+
+
+
+Centers
+
+
+
+Al-Azhar University
+Al-Mustansiriya University
+House of Knowledge
+House of Wisdom
+Constantinople observatory of Taqi al-Din
+Madrasa
+Maktab
+Maragheh observatory
+University of Al Quaraouiyine
+
+
+
+
+
+Influences
+
+
+
+Babylonian mathematics
+Greek mathematics
+Indian mathematics
+
+
+
+
+
+Influenced
+
+
+
+Byzantine mathematics
+European mathematics
+Indian mathematics
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Astronomy in the medieval Islamic world
+
+
+
+
+
+
+
+
+Topics
+
+
+
+
+
+
+
+Works
+
+
+
+
+
+
+
+Arabic star names
+Islamic calendar
+ʿAjā'ib al-makhlūqāt wa gharā'ib al-mawjūdāt
+Encyclopedia of the Brethren of Purity
+Tabula Rogeriana
+The Book of Healing
+
+
+
+
+
+Zij
+
+
+
+Alfonsine tables
+Huihui Lifa
+Book of Fixed Stars
+Toledan Tables
+Zij-i Ilkhani
+Zij-i Sultani
+Sullam al-sama'
+
+
+
+
+
+
+
+
+Instruments
+
+
+
+Alidade
+Analog computer
+Aperture
+Armillary sphere
+Astrolabe
+Astronomical clock
+Celestial globe
+Compass
+Compass rose
+Dioptra
+Equatorial ring
+Equatorium
+Globe
+Graph paper
+Magnifying glass
+Mural instrument
+Navigational astrolabe
+Nebula
+Planisphere
+Quadrant
+Sextant
+Shadow square
+Sundial
+Schema for horizontal sundials
+Triquetrum
+
+
+
+
+
+Concepts
+
+
+
+Almucantar
+Apogee
+Astrology in medieval Islam
+Astrophysics
+Axial tilt
+Azimuth
+Celestial mechanics
+Celestial spheres
+Circular orbit
+Deferent and epicycle
+Earth's rotation
+Eccentricity
+Ecliptic
+Elliptic orbit
+Equant
+Galaxy
+Geocentrism
+Gravitational potential energy
+Gravity
+Heliocentrism
+Inertia
+Islamic cosmology
+Moonlight
+Multiverse
+Obliquity
+Parallax
+Precession
+Qibla
+Salah times
+Specific gravity
+Spherical Earth
+Sublunary sphere
+Sunlight
+Supernova
+Temporal finitism
+Trepidation
+Triangulation
+Tusi couple
+Universe
+
+
+
+
+
+Institutions
+
+
+
+Al-Azhar University
+House of Knowledge
+House of Wisdom
+University of Al Quaraouiyine
+Observatories
+
+Constantinople (Taqi al-Din)
+Maragheh
+Samarkand (Ulugh Beg)
+
+
+
+
+
+
+
+Influences
+
+
+
+Babylonian astronomy
+Egyptian astronomy
+Hellenistic astronomy
+Indian astronomy
+
+
+
+
+
+Influenced
+
+
+
+Byzantine science
+Chinese astronomy
+Medieval European science
+Indian astronomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Astronomers
+
+
+
+
+
+
+
+
+
+
+by century (CE
+AD)
+
+
+
+
+
+8th
+
+
+
+Ahmad Nahavandi
+Al-Fadl ibn Naubakht
+Muḥammad ibn
+Ibrāhīm al-Fazārī
+Mashallah ibn Athari
+Yaʿqūb ibn Ṭāriq
+
+
+
+
+
+9th
+
+
+
+Abu Maʿshar
+Abu Said Gorgani
+Al-Farghānī
+Al-Kindi
+Al-Mahani
+Al-Ḥajjāj ibn Yūsuf ibn Maṭar
+Al-Marwazi
+Ali ibn Isa al-Asturlabi
+Banu Musa
+Iranshahri
+Khālid ibn ʿAbd al‐Malik
+Al-Khwārizmī
+Sahl ibn Bishr
+Thābit ibn Qurra
+Yahya ibn Abi Mansur
+
+
+
+
+
+10th
+
+
+
+Abd al-Rahman al-Sufi
+Ibn
+Al-Adami
+Abu-Mahmud Khojandi
+Abū Ja'far al-Khāzin
+Abū Sahl al-Qūhī
+Abu al-Wafa' Buzjani
+Ahmad ibn Yusuf
+al-Battani
+Al-Qabisi (Alchabitius)
+Al-Nayrizi
+Al-Saghani
+Ibn Yunus
+Ibrahim ibn Sinan
+Ma Yize
+al-Sijzi
+Mariam al-Asturlabi
+Nastulus
+Abolfadl Harawi
+Haseb-i Tabari
+
+
+
+
+
+11th
+
+
+
+Abu Nasr Mansur
+al-Biruni
+Al-Zarqālī
+Ibn al-Haytham (Alhazen)
+Avicenna
+Ibn al-Saffar
+Kushyar ibn Labban
+Said al-Andalusi
+Al-Isfizari
+
+
+
+
+
+12th
+
+
+
+Al-Bitruji
+Al-Kharaqī
+Al-Khazini
+Al-Samawal al-Maghribi
+Abu al-Salt
+Anvari
+Ibn al-Kammad
+Jabir ibn Aflah
+Omar Khayyam
+Sharaf al-Dīn al-Ṭūsī
+Al-Kharaqī
+
+
+
+
+
+13th
+
+
+
+Ibn al-Banna' al-Marrakushi
+Ibn al‐Ha'im al‐Ishbili
+Jamal ad-Din
+Muhyi al-Dīn al-Maghribī
+Nasir al-Din al-Tusi
+Qutb al-Din al-Shirazi
+Shams al-Dīn al-Samarqandī
+Zakariya al-Qazwini
+Ibn Abi al-Shukr
+Muʾayyad al-Dīn al-ʿUrḍī
+Athir al-Din al-Abhari
+Muhammad ibn Abi Bakr al‐Farisi
+Al-Ashraf Umar II
+
+
+
+
+
+14th
+
+
+
+Ibn al-Shatir
+Shams al-Dīn Abū Abd Allāh al-Khalīlī
+Abū al‐ʿUqūl
+Nizam al-Din Nishapuri
+
+
+
+
+
+15th
+
+
+
+Ali Kuşçu
+ʿAbd al‐Wājid
+Jamshīd al-Kāshī
+Kadızade Rumi
+Ulugh Beg
+Sibt al-Maridini
+Ibn al-Majdi
+'Abd al-'Aziz al-Wafa'i
+Abu Ishaq al-Kubunani
+
+
+
+
+
+16th
+
+
+
+Al-Birjandi
+Bahāʾ al-dīn al-ʿĀmilī
+Piri Reis
+Takiyüddin
+
+
+
+
+
+17th
+
+
+
+Yang Guangxian
+Ahmad Khani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Geography and cartography in medieval Islam
+
+
+
+Geographers
+
+
+
+
+9th century
+
+
+
+Muḥammad ibn Mūsā al-Khwārizmī
+Abū Ḥanīfa Dīnawarī
+Ya'qubi
+Sulaiman al-Tajir
+
+
+
+
+
+10th century
+
+
+
+Ibn Khordadbeh
+Ahmad ibn Rustah
+Ahmad ibn Fadlan
+Abu Zayd al-Balkhi
+Abū Muhammad al-Hasan al-Hamdānī
+Al-Masudi
+Istakhri
+Khashkhash Ibn Saeed Ibn Aswad
+Ibn Hawqal
+Ibn al-Faqih
+Al-Muqaddasi
+Al-Ramhormuzi
+
+
+
+
+
+11th century
+
+
+
+Abū Rayḥān al-Bīrūnī
+Abu Saʿīd Gardēzī
+Al-Bakri
+Mahmud al-Kashgari
+Domiyat
+
+
+
+
+
+12th century
+
+
+
+Al-Zuhri
+Muhammad al-Idrisi
+Abu'l Abbas al-Hijazi
+
+
+
+
+
+13th century
+
+
+
+Ibn Jubayr
+Saadi Shirazi
+Yaqut al-Hamawi
+Ibn Said al-Maghribi
+Ibn al-Nafis
+
+
+
+
+
+14th century
+
+
+
+Al-Dimashqi
+Abu'l-Fida
+Ibn al-Wardi
+Hamdollah Mostowfi
+Ibn Battuta
+Lin Nu
+
+
+
+
+
+15th century
+
+
+
+Abd-al-Razzāq Samarqandī
+Ghiyāth al-dīn Naqqāsh
+Ahmad ibn Mājid
+Zheng He
+Ma Huan
+Fei Xin
+
+
+
+
+
+16th century
+
+
+
+Sulaiman Al Mahri
+Piri Reis
+Mir Ahmed Nasrallah Thattvi
+Amīn Rāzī
+
+
+
+
+
+17th century
+
+
+
+Evliya Çelebi
+
+
+
+
+
+
+
+
+Works
+
+
+
+Book of Roads and Kingdoms (al-Bakrī)
+Book of Roads and Kingdoms (ibn Khordadbeh)
+Tabula Rogeriana
+Kitab al-Rawd al-Mitar
+Mu'jam Al-Buldan
+Rihla
+The Meadows of Gold
+Piri Reis map
+
+
+
+
+
+Influences
+
+
+
+Geography (Ptolemy)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+People of Khorasan
+
+
+
+Scientists
+
+
+
+Abu Maʿshar
+Abu Wafa
+Abu Ubayd Juzjani
+Abu Zayd Balkhi
+Alfraganus
+Ali Qushji
+Avicenna
+Birjandi
+Biruni
+Hāsib Marwazī
+Ibn Hayyān
+Khāzin
+Khāzinī
+Khojandi
+Khwarizmi
+Nasawi
+Nasir al-Din al-Tusi
+Omar Khayyam
+Sharaf al-Dīn al-Ṭūsī
+Sijzi
+
+
+
+
+
+Philosophers
+
+
+
+Algazel
+Amiri
+Avicenna
+Farabi
+Haji Bektash Veli
+Nasir Khusraw
+Qushayri
+Sijistani
+Shahrastani
+
+
+
+
+
+Islamic scholars
+
+
+
+Abu Dawood
+Abu Hanifa
+Ansari
+Baghavi
+Bayhaqi
+Boharsi
+Bukhari
+Ghazali
+Hākim Nishapuri
+Juwayni
+Marghinani
+Maturidi
+Ibn Mubarak
+Mulla al-Qari
+Muqatil
+Muslim
+Nasafi
+Nasa'i
+Al-Qushayri
+Razi
+Shaykh Tusi
+Taftazani
+Tha'labi Nishapuri
+Tirmidhi
+Zamakhshari
+
+
+
+
+
+Poets and artists
+
+
+
+Abū-Sa'īd Abul-Khayr
+Anvari
+Asadi Tusi
+Attar Nishapuri
+Behzad
+Daqiqi
+Farrukhi Sistani
+Ferdowsi
+Jami
+Nasir Khusraw
+Rabia Balkhi
+Rudaki
+Rumi
+Sanā'ī
+
+
+
+
+
+Historians and
+political scientists
+
+
+
+Abu'l-Fadl Bayhaqi
+Abu'l-Hasan Isfaraini
+Abu'l-Ma'ali Nasrallah
+Abu Muslim
+Abu Sa'id Gardezi
+Ali-Shir Nava'i
+Ata-Malik Juvayni
+Aufi
+Muhammad Bal'ami
+Goharshad Begum
+Ibn Khordadbeh
+Khalid ibn Barmak
+Nizam al-Mulk
+Tahir ibn Husayn
+Yahya Barmaki
+Ahmad ibn Nizam al-Mulk
+Shihab al-Nasawi
+
+Category:People from Khorasan
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 365144782982270357614
+LCCN: n84020660
+ISNI: 0000 0001 2030 4018
+GND: 118676180
+SELIBR: 33137
+SUDOC: 030896711
+BNF: cb165923408 (data)
+NLA: 35538363
+NKC: ola2002161349
+BNE: XX4929767
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Muhammad_ibn_Musa_al-Khwarizmi&oldid=812966573"					
+Categories: Medieval Persian astrologersMedieval Persian astronomersAstronomers of medieval IslamPersian geographersMedieval Persian mathematiciansMathematicians of medieval IslamMathematicians who worked on Islamic inheritanceMedieval Persian peopleScientists who worked on Qibla determinationGeographers of medieval Islam780 births850 deaths9th-century geographers9th-century astronomers8th-century Iranian people9th-century Iranian people8th-century astrologers9th-century astrologersPersian physicistsMuslim InventorsPeople from Xorazm RegionHidden categories: All articles with unsourced statementsArticles with unsourced statements from August 2015Wikipedia indefinitely move-protected pagesArticles with hCardsArticles containing Persian-language textArticles containing Arabic-language textArticles with unsourced statements from April 2017Articles with unsourced statements from April 2016Articles with unsourced statements from November 2014Articles containing Latin-language textArticles with unsourced statements from September 2013All accuracy disputesArticles with disputed statements from January 2011CS1 German-language sources (de)CS1 Latin-language sources (la)Wikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiersWikipedia articles with SELIBR identifiersWikipedia articles with BNF identifiersWikipedia articles with NLA identifiers 

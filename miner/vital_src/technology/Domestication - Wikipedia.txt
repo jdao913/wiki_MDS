@@ -1,0 +1,1051 @@
+Domestication - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Dogs and sheep were among the first animals to be domesticated.
+
+
+Domestication is a sustained multi-generational relationship in which one group of organisms assumes a significant degree of influence over the reproduction and care of another group to secure a more predictable supply of resources from that second group.[1] Charles Darwin recognized the small number of traits that made domestic species different from their wild ancestors. He was also the first to recognize the difference between conscious selective breeding in which humans directly select for desirable traits, and unconscious selection where traits evolve as a by-product of natural selection or from selection on other traits.[2][3][4] There is a genetic difference between domestic and wild populations. There is also such a difference between the domestication traits that researchers believe to have been essential at the early stages of domestication, and the improvement traits that have appeared since the split between wild and domestic populations.[5][6][7] Domestication traits are generally fixed within all domesticates, and were selected during the initial episode of domestication of that animal or plant, whereas improvement traits are present only in a proportion of domesticates, though they may be fixed in individual breeds or regional populations.[6][7][8]
+The dog was the first domesticated vertebrate,[9][10][11] and was established across Eurasia before the end of the Late Pleistocene era, well before cultivation and before the domestication of other animals.[10] The archaeological and genetic data suggest that long-term bidirectional gene flow between wild and domestic stocks – including donkeys, horses, New and Old World camelids, goats, sheep, and pigs – was common.[7][12] Given its importance to humans and its value as a model of evolutionary and demographic change, domestication has attracted scientists from archaeology, palaeontology, anthropology, botany, zoology, genetics, and the environmental sciences.[13] Among birds, the major domestic species today is the chicken, important for meat and eggs, though economically valuable poultry include the turkey, guineafowl and numerous other species. Birds are also widely kept as cagebirds, from songbirds to parrots. The longest established invertebrate domesticates are the honey bee and the silkworm. Terrestrial snails are raised for food, while species from several phyla are kept for research, and others are bred for biological control.
+The domestication of plants began at least 12,000 years ago with cereals in the Middle East, and the bottle gourd in Asia. Agriculture developed in at least 11 different centres around the world, domesticating different crops and animals.
+
+
+
+Contents
+
+
+1 Overview
+2 Animals
+
+2.1 Theory
+2.2 Mammals
+2.3 Birds
+2.4 Invertebrates
+
+
+3 Plants
+
+3.1 History
+3.2 Differences from wild plants
+
+
+4 Fungi
+5 Effects
+
+5.1 On domestic animals
+5.2 On society
+5.3 On diversity
+
+
+6 See also
+7 Notes
+8 References
+9 Bibliography
+10 Further reading
+11 External links
+
+
+
+Overview[edit]
+
+
+
+
+Succulents like this jelly bean plant (Sedum rubrotinctum) need infrequent watering, making them convenient as houseplants.
+
+
+Domestication, from the Latin domesticus, 'belonging to the house',[14] is "a sustained multi-generational, mutualistic relationship in which one organism assumes a significant degree of influence over the reproduction and care of another organism in order to secure a more predictable supply of a resource of interest, and through which the partner organism gains advantage over individuals that remain outside this relationship, thereby benefitting and often increasing the fitness of both the domesticator and the target domesticate."[1][15][16][17][18] This definition recognizes both the biological and the cultural components of the domestication process and the impacts on both humans and the domesticated animals and plants. All past definitions of domestication have included a relationship between humans with plants and animals, but their differences lay in who was considered as the lead partner in the relationship. This new definition recognizes a mutualistic relationship in which both partners gain benefits. Domestication has vastly enhanced the reproductive output of crop plants, livestock, and pets far beyond that of their wild progenitors. Domesticates have provided humans with resources that they could more predictably and securely control, move, and redistribute, which has been the advantage that had fueled a population explosion of the agro-pastoralists and their spread to all corners of the planet.[18]
+Houseplants and ornamentals are plants domesticated primarily for aesthetic enjoyment in and around the home, while those domesticated for large-scale food production are called crops. Domesticated plants deliberately altered or selected for special desirable characteristics are cultigens. Animals domesticated for home companionship are called pets, while those domesticated for food or work are known as livestock.
+This biological mutualism is not restricted to humans with domestic crops and livestock but is well-documented in nonhuman species, especially among a number of social insect domesticators and their plant and animal domesticates, for example the ant–fungus mutualism that exists between leafcutter ants and certain fungi.[1]
+Domestication syndrome is the suite of phenotypic traits arising during domestication that distinguish crops from their wild ancestors.[5][19] The term is also applied to vertebrate animals, and includes increased docility and tameness, coat color changes, reductions in tooth size, changes in craniofacial morphology, alterations in ear and tail form (e.g., floppy ears), more frequent and nonseasonal estrus cycles, alterations in adrenocorticotropic hormone levels, changed concentrations of several neurotransmitters, prolongations in juvenile behavior, and reductions in both total brain size and of particular brain regions.[20]
+The domestication of animals and plants began with the wolf (Canis lupus) at least 15,000 years before present (YBP), which then led to a rapid shift in the evolution, ecology, and demography of both humans and numerous species of animals and plants.[21][7] The sudden appearance of the domestic dog (Canis lupus familiaris) in the archaeological record was followed by livestock and crop domestication, and the transition of humans from foraging to farming in different places and times across the planet.[21][22][23]
+Around 10,000 YBP, a new way of life emerged for humans through the management and exploitation of plant and animal species, leading to higher-density populations in the centers of domestication,[21][24] the expansion of agricultural economies, and the development of urban communities.[21][25]
+Animals[edit]
+Theory[edit]
+Main article: Domestication of animals
+
+
+
+
+Karakul sheep[a] and shepherds in Iran. Photograph by Harold F. Weston, 1920s
+
+
+The domestication of animals is the mutual relationship between animals with the humans who have influence on their care and reproduction.[1] Charles Darwin recognized the small number of traits that made domestic species different from their wild ancestors. He was also the first to recognize the difference between conscious selective breeding in which humans directly select for desirable traits, and unconscious selection where traits evolve as a by-product of natural selection or from selection on other traits.[2][3][4] There is a genetic difference between domestic and wild populations. There is also such a difference between the domestication traits that researchers believe to have been essential at the early stages of domestication, and the improvement traits that have appeared since the split between wild and domestic populations.[5][6][7] Domestication traits are generally fixed within all domesticates, and were selected during the initial episode of domestication of that animal or plant, whereas improvement traits are present only in a proportion of domesticates, though they may be fixed in individual breeds or regional populations.[6][7][8]
+Domestication should not be confused with taming. Taming is the conditioned behavioral modification of a wild-born animal when its natural avoidance of humans is reduced and it accepts the presence of humans, but domestication is the permanent genetic modification of a bred lineage that leads to an inherited predisposition toward humans.[27][28][29] Certain animal species, and certain individuals within those species, make better candidates for domestication than others because they exhibit certain behavioral characteristics: (1) the size and organization of their social structure; (2) the availability and the degree of selectivity in their choice of mates; (3) the ease and speed with which the parents bond with their young, and the maturity and mobility of the young at birth; (4) the degree of flexibility in diet and habitat tolerance; and (5) responses to humans and new environments, including flight responses and reactivity to external stimuli.[18]:Fig 1[30][31][32]
+Mammals[edit]
+Main articles: Domestication of animals and List of domesticated animals
+The beginnings of animal domestication involved a protracted coevolutionary process with multiple stages along different pathways.[7] It is proposed that there were three major pathways that most animal domesticates followed into domestication: (1) commensals, adapted to a human niche (e.g., dogs, cats, fowl, possibly pigs); (2) prey animals sought for food (e.g., sheep, goats, cattle, water buffalo, yak, pig, reindeer, llama and alpaca); and (3) targeted animals for draft and nonfood resources (e.g., horse, donkey, camel).[7][12][18][33][34][35][36] The dog was the first domesticant,[10][11] and was established across Eurasia before the end of the Late Pleistocene era, well before cultivation and before the domestication of other animals.[10] Humans did not intend to domesticate animals from, or at least they did not envision a domesticated animal resulting from, either the commensal or prey pathways. In both of these cases, humans became entangled with these species as the relationship between them, and the human role in their survival and reproduction, intensified, leading eventually to a formalised animal husbandry.[7] Although the directed pathway proceeded from capture to taming, the other two pathways are not as goal-oriented and archaeological records suggest that they took place over much longer time frames.[13]
+Unlike other domestic species which were primarily selected for production-related traits, dogs were initially selected for their behaviors.[37][38] The archaeological and genetic data suggest that long-term bidirectional gene flow between wild and domestic stocks – including donkeys, horses, New and Old World camelids, goats, sheep, and pigs – was common.[7][12] One study has concluded that human selection for domestic traits likely counteracted the homogenizing effect of gene flow from wild boars into pigs and created domestication islands in the genome. The same process may also apply to other domesticated animals.[39][40]
+
+Birds[edit]
+
+
+
+
+The red junglefowl of Southeast Asia was domesticated, apparently for cockfighting, some 7,000 years ago.
+
+
+Main articles: Poultry and Aviculture
+Domesticated birds principally mean poultry, raised for meat and eggs[41]: some Galliformes (chicken, turkey, guineafowl) and Anseriformes (waterfowl: duck, goose, swan). Also widely domesticated are cagebirds such as songbirds and parrots; these are kept both for pleasure and for use in research[42]. Domestic pigeon is known as a messenger, research suggests it was domesticated as early as 10,000 years ago[43]. Chickens were domesticated at least 7,000 years ago, with fossils in China from c. 5400 BC. The chicken's wild ancestor is Gallus gallus, the red junglefowl of Southeast Asia, and another species, probably the grey junglefowl of India. It appears to have been kept initially for cockfighting rather than for food.[44]
+Invertebrates[edit]
+Further information: Beekeeping and Sericulture
+
+
+
+
+Sericulturalists preparing silkworms for spinning of the silk
+
+
+Two insects, the silkworm and the western honey bee, have been domesticated for over 5,000 years, often for commercial use. The silkworm is raised for the silk threads wound around its pupal cocoon; the western honey bee, for honey, and, lately, for pollination of crops.[45]
+Several other invertebrates have been domesticated, both terrestrial and aquatic, including some such as Drosophila melanogaster fruit flies and the freshwater cnidarian Hydra for research into genetics and physiology. Few have a long history of domestication. Most are used for food or other products such as shellac and cochineal. The phyla involved are Cnidaria, Platyhelminthes (for biological control), Annelida, Mollusca, Arthropoda (marine crustaceans as well as insects and spiders), and Echinodermata. While many marine molluscs are used for food, only a few have been domesticated, including squid, cuttlefish and octopus, all used in research on behaviour and neurology. Terrestrial snails in the genera Helix and Murex are raised for food. Several parasitic or parasitoidal insects including the fly Eucelatoria, the beetle Chrysolina, and the wasp Aphytis are raised for biological control. Conscious or unconscious artificial selection has many effects on species under domestication; variability can readily be lost by inbreeding, selection against undesired traits, or genetic drift, while in Drosophila, variability in eclosion time (when adults emerge) has increased.[46]
+
+
+Plants[edit]
+Further information: List of domesticated plants
+The initial domestication of animals impacted most on the genes that controlled their behavior, but the initial domestication of plants impacted most on the genes that controlled their morphology (seed size, plant architecture, dispersal mechanisms) and their physiology (timing of germination or ripening).[18][23]
+
+
+
+
+Farmers with wheat and cattle - Ancient Egyptian art 1,422 BC
+
+
+The domestication of wheat provides an example. Wild wheat shatters and falls to the ground to reseed itself when ripe, but domesticated wheat stays on the stem for easier harvesting. This change was possible because of a random mutation in the wild populations at the beginning of wheat's cultivation. Wheat with this mutation was harvested more frequently and became the seed for the next crop. Therefore, without realizing, early farmers selected for this mutation. The result is domesticated wheat, which relies on farmers for its reproduction and dissemination.[47]
+History[edit]
+Further information: History of agriculture
+The earliest human attempts at plant domestication occurred in the Middle East. There is early evidence for conscious cultivation and trait selection of plants by pre-Neolithic groups in Syria: grains of rye with domestic traits have been recovered from Epi-Palaeolithic (c. 11,050 BCE) contexts at Abu Hureyra in Syria,[48] but this appears to be a localised phenomenon resulting from cultivation of stands of wild rye, rather than a definitive step towards domestication.[48]
+By 10,000 BCE the bottle gourd (Lagenaria siceraria) plant, used as a container before the advent of ceramic technology, appears to have been domesticated. The domesticated bottle gourd reached the Americas from Asia by 8000 BCE, most likely due to the migration of peoples from Asia to America.[49]
+Cereal crops were first domesticated around 9000 BCE in the Fertile Crescent in the Middle East. The first domesticated crops were generally annuals with large seeds or fruits. These included pulses such as peas and grains such as wheat. The Middle East was especially suited to these species; the dry-summer climate was conducive to the evolution of large-seeded annual plants, and the variety of elevations led to a great variety of species. As domestication took place humans began to move from a hunter-gatherer society to a settled agricultural society. This change would eventually lead, some 4000 to 5000 years later, to the first city states and eventually the rise of civilization itself.
+Continued domestication was gradual, a process of intermittent trial and error. Over time perennials and small trees including the apple and the olive were domesticated. Some plants, such as the macadamia nut and the pecan, were not domesticated until recently.
+In other parts of the world very different species were domesticated. In the Americas squash, maize, beans, and perhaps manioc (also known as cassava) formed the core of the diet. In East Asia millet, rice, and soy were the most important crops. Some areas of the world such as Southern Africa, Australia, California and southern South America never saw local species domesticated.
+Differences from wild plants[edit]
+Domesticated plants may differ from their wild relatives in many ways, including
+
+the way they spread to a more diverse environment and have a wider geographic range;[50]
+different ecological preference (sun, water, temperature, nutrients, etc. requirements), different disease susceptibility;
+conversion from a perennial to annual;
+loss of seed dormancy and photoperiodic controls;
+simultaneous flower and fruit, double flowers;
+a lack of shattering or scattering of seeds, or even loss of their dispersal mechanisms completely;
+less efficient breeding system (e.g. lack normal pollinating organs, making human intervention a requirement), smaller seeds with lower success in the wild, or even complete sexual sterility (e.g. seedless fruits) and therefore only vegetative reproduction;
+less defensive adaptations such as hairs, thorns, spines, and prickles, poison, protective coverings and sturdiness, rendering them more likely to be eaten by animals and pests unless cared by humans;
+chemical composition, giving them better palatability (e.g. sugar content), better smell, and lower toxicity
+edible part larger, and easier separated from non-edible part (e.g. freestone fruit).
+
+Fungi[edit]
+Further information: List of domesticated fungi
+
+
+
+
+Button mushrooms are widely cultivated for food.
+
+
+Several species of fungi have been domesticated for use directly as food, or in fermentation to produce foods and drugs. The white button mushroom Agaricus bisporus is widely grown for food.[51] The yeast Saccharomyces cerevisiae have been used for thousands of years to ferment beer and wine, and to leaven bread.[52] Mould fungi including Penicillium are used to mature cheeses and other dairy products, as well as to make drugs such as antibiotics.[53]
+Effects[edit]
+On domestic animals[edit]
+Selection of animals for visible "desirable" traits may have undesired consequences. Captive and domesticated animals often have smaller size, piebald color, shorter faces with smaller and fewer teeth, diminished horns, weak muscle ridges, and less genetic variability. Poor joint definition, late fusion of the limb bone epiphyses with the diaphyses, hair changes, greater fat accumulation, smaller brains, simplified behavior patterns, extended immaturity, and more pathology are among the defects of domestic animals. All of these changes have been documented by archaeological evidence, and confirmed by animal breeders in the 20th century.[54] In 2014, a study proposed the theory that under selection, docility in mammals and birds results partly from a slowed pace of neural crest development, that would in turn cause a reduced fear–startle response due to mild neurocristopathy that causes domestication syndrome. The theory was unable to explain curly tails nor domestication syndrome exhibited by plants.[20]
+A side effect of domestication has been zoonotic diseases. For example, cattle have given humanity various viral poxes, measles, and tuberculosis; pigs and ducks have given influenza; and horses have given the rhinoviruses. Many parasites have their origins in domestic animals.[3][page needed] The advent of domestication resulted in denser human populations which provided ripe conditions for pathogens to reproduce, mutate, spread, and eventually find a new host in humans.[citation needed]
+Paul Shepard writes "Man substitutes controlled breeding for natural selection; animals are selected for special traits like milk production or passivity, at the expense of overall fitness and nature-wide relationships...Though domestication broadens the diversity of forms – that is, increases visible polymorphism – it undermines the crisp demarcations that separate wild species and cripples our recognition of the species as a group. Knowing only domestic animals dulls our understanding of the way in which unity and discontinuity occur as patterns in nature, and substitutes an attention to individuals and breeds. The wide variety of size, color, shape, and form of domestic horses, for example, blurs the distinction among different species of Equus that once were constant and meaningful."[55]
+On society[edit]
+Jared Diamond in his book Guns, Germs, and Steel describes the universal tendency for populations that have acquired agriculture and domestic animals to develop a large population and to expand into new territories. He recounts migrations of people armed with domestic crops overtaking, displacing or killing indigenous hunter-gatherers,[3]:p112 whose lifestyle is coming to an end.[3]:p86
+Some anarcho-primitivist authors describe domestication as the process by which previously nomadic human populations shifted towards a sedentary or settled existence through agriculture and animal husbandry. They claim that this kind of domestication demands a totalitarian relationship with both the land and the plants and animals being domesticated. They say that whereas, in a state of wildness, all life shares and competes for resources, domestication destroys this balance. Domesticated landscape (e.g. pastoral lands/agricultural fields and, to a lesser degree, horticulture and gardening) ends the open sharing of resources; where "this was everyone's", it is now "mine". Anarcho-primitivists state that this notion of ownership laid the foundation for social hierarchy as property and power emerged. It also involved the destruction, enslavement, or assimilation of other groups of early people who did not make such a transition.[56]
+On diversity[edit]
+
+
+
+
+Industrialized wheat harvest - North America today
+
+
+Further information: Sustainable agriculture
+In 2016, a study found that humans have had a major impact on global genetic diversity as well as extinction rates, including a contribution to megafaunal extinctions. Pristine landscapes no longer exist and have not existed for millennia, and humans have concentrated the planet's biomass into human-favored plants and animals. Domesticated ecosystems provide food, reduce predator and natural dangers, and promote commerce, but have also resulted in habitat loss and extinctions commencing in the Late Pleistocene. Ecologists and other researchers are advised to make better use of the archaeological and paleoecological data available for gaining an understanding the history of human impacts before proposing solutions.[57]
+See also[edit]
+
+
+Animal husbandry
+Anthrozoology
+Columbian Exchange
+Domestication theory
+Experimental evolution
+Genetic engineering
+Genetic erosion
+Genomics of domestication
+History of plant breeding
+Horticulture
+Marker assisted selection
+Selective breeding
+Self-domestication
+Timeline of agriculture and food technology
+
+
+Notes[edit]
+
+
+
+^ This Central Asian breed is ancient, dating perhaps to 1400 BC.[26]
+
+
+
+References[edit]
+
+
+^ a b c d Zeder MA (2015). "Core questions in domestication Research". Proceedings of the National Academy of Sciences of the United States of America. 112 (11): 3191–8. doi:10.1073/pnas.1501711112. PMC 4371924 . PMID 25713127. 
+^ a b Darwin, Charles (1868). The Variation of Animals and Plants under Domestication. London: John Murray. OCLC 156100686. 
+^ a b c d e Jared Diamond (1997). Guns, Germs, and Steel. Chatto and Windus London. ISBN 978-0-09-930278-0. 
+^ a b Larson, G.; Piperno, D. R.; Allaby, R. G.; Purugganan, M. D.; Andersson, L.; Arroyo-Kalin, M.; Barton, L.; Climer Vigueira, C.; Denham, T.; Dobney, K.; Doust, A. N.; Gepts, P.; Gilbert, M. T. P.; Gremillion, K. J.; Lucas, L.; Lukens, L.; Marshall, F. B.; Olsen, K. M.; Pires, J. C.; Richerson, P. J.; Rubio De Casas, R.; Sanjur, O. I.; Thomas, M. G.; Fuller, D. Q. (2014). "Current perspectives and the future of domestication studies". Proceedings of the National Academy of Sciences. 111 (17): 6139–6146. doi:10.1073/pnas.1323964111. PMC 4035915 . PMID 24757054. 
+^ a b c Olsen, KM; Wendel, JF (2013). "A bountiful harvest: genomic insights into crop domestication phenotypes". Annu. Rev. Plant Biol. 64: 47–70. doi:10.1146/annurev-arplant-050312-120048. PMID 23451788. 
+^ a b c d Doust, A. N.; Lukens, L.; Olsen, K. M.; Mauro-Herrera, M.; Meyer, A.; Rogers, K. (2014). "Beyond the single gene: How epistasis and gene-by-environment effects influence crop domestication". Proceedings of the National Academy of Sciences. 111 (17): 6178–6183. doi:10.1073/pnas.1308940110. PMC 4035984 . PMID 24753598. 
+^ a b c d e f g h i j Larson, G (2014). "The Evolution of Animal Domestication" (PDF). Annual Review of Ecology, Evolution, and Systematics. 45: 115–36. doi:10.1146/annurev-ecolsys-110512-135813. 
+^ a b Meyer, Rachel S.; Purugganan, Michael D. (2013). "Evolution of crop species: Genetics of domestication and diversification". Nature Reviews Genetics. 14 (12): 840–52. doi:10.1038/nrg3605. PMID 24240513. 
+^ "Domestication". Encyclopædia Britannica. 2016. Retrieved May 26, 2016. 
+^ a b c d Larson G (2012). "Rethinking dog domestication by integrating genetics, archeology, and biogeography" (PDF). Proceedings of the National Academy of Sciences of the United States of America. 109 (23): 8878–83. doi:10.1073/pnas.1203005109. PMC 3384140 . PMID 22615366. 
+^ a b Perri, Angela (2016). "A wolf in dog's clothing: Initial dog domestication and Pleistocene wolf variation". Journal of Archaeological Science. 68: 1–4. doi:10.1016/j.jas.2016.02.003. 
+^ a b c Marshall, F. (2013). "Evaluating the roles of directed breeding and gene flow in animal domestication". Proceedings of the National Academy of Sciences of the United States of America. 111 (17): 6153–8. doi:10.1073/pnas.1312984110. PMC 4035985 . PMID 24753599. 
+^ a b Larson, G (2013). "A population genetics view of animal domestication" (PDF). 
+^ "Domesticate". Oxford Dictionaries. Oxford University Press. 2014. 
+^ Lorenzo Maggioni (2015) Domestication of Brassica oleracea L., Acta Universitatis Agriculturae Sueciae, p38
+^ Zeder, M. (2014). "Domestication: Definition and Overview". In Claire Smith. Encyclopedia of Global Archaeology. Springer Science & Business Media, New York. pp. 2184–2194. doi:10.1007/978-1-4419-0465-2_71. 
+^ Sykes, N (2014). "Animal Revolutions". Beastly Questions: Animal Answers to Archaeological Issues. Bloomsbury Academic. pp. 25–26. ISBN 9781472506245. 
+^ a b c d e Zeder MA (2012). "The domestication of animals". Journal of Anthropological Research. 68 (2): 161–190. doi:10.3998/jar.0521004.0068.201. 
+^ Hammer, K (1984). "Das Domestikationssyndrom". Kulturpflanze. 32: 11–34. doi:10.1007/bf02098682. 
+^ a b Wilkins, Adam S.; Wrangham, Richard W.; Fitch, W. Tecumseh (July 2014). "The 'Domestication Syndrome' in Mammals: A Unified Explanation Based on Neural Crest Cell Behavior and Genetics". Genetics. 197 (3): 795–808. doi:10.1534/genetics.114.165423. PMC 4096361 . PMID 25024034. 
+^ a b c d Machugh, David E.; Larson, Greger; Orlando, Ludovic (2016). "Taming the Past: Ancient DNA and the Study of Animal Domestication". Annual Review of Animal Biosciences. 5: 329–351. doi:10.1146/annurev-animal-022516-022747. PMID 27813680. 
+^ Fuller DQ, Willcox G, Allaby RG. 2011. Cultivation and domestication had multiple origins: arguments against the core area hypothesis for the origins of agriculture in the Near East. World Archaeol. 43:628–52
+^ a b Zeder MA. 2006. Archaeological approaches to documenting animal domestication. In Documenting Domestication: New Genetic and Archaeological Paradigms, ed. M Zeder, DG Bradley, E Emshwiller, BD Smith, pp. 209–27. Berkeley: Univ. Calif. Press
+^ Bocquet-Appel, JP (2011). "When the world's population took off: the springboard of the Neolithic Demographic Transition". Science. 333 (6042): 560–61. doi:10.1126/science.1208880. PMID 21798934. 
+^ Barker G. 2006. The Agricultural Revolution in Prehistory: Why Did Foragers Become Farmers? Oxford:Oxford Univ. Press
+^ "Karakul". Breeds of Livestock. Oklahoma State University. Retrieved 2 October 2017. 
+^ Price, E (2008). Principles and applications of domestic animal behavior: an introductory text. Cambridge University Press. ISBN 9781780640556. Retrieved 2016-01-21. 
+^ Driscoll, C. A.; MacDonald, D. W.; O'Brien, S. J. (2009). "From wild animals to domestic pets, an evolutionary view of domestication". Proceedings of the National Academy of Sciences. 106: 9971–9978. doi:10.1073/pnas.0901586106. PMC 2702791 . PMID 19528637. 
+^ Diamond, J (2012). "1". In Gepts, P. Biodiversity in Agriculture: Domestication, Evolution, and Sustainability. Cambridge University Press. p. 13. 
+^ Hale, E. B. 1969. "Domestication and the evolution of behavior," in The behavior of domestic animals, second edition. Edited by E. S. E. Hafez, pp. 22–42. London: Bailliere, Tindall, and Cassell
+^ Price, Edward O (1984). "Behavioral aspects of animal domestication". Quarterly Review of Biology. 59: 1–32. doi:10.1086/413673. JSTOR 2827868. 
+^ Price, Edward O. (2002). Animal domestication and behavior (PDF). Wallingford, UK: CABI Publishing. 
+^ Frantz, L (2015). "The Evolution of Suidae". Annual Review of Animal Biosciences. 4: 61–85. doi:10.1146/annurev-animal-021815-111155. PMID 26526544. 
+^ Blaustein, R. (2015). "Unraveling the Mysteries of Animal Domestication:Whole-genome sequencing challenges old assumptions". BioScience. Bioscience, Oxford University Press. 65 (1): 7–13. doi:10.1093/biosci/biu201. 
+^ Vahabi, M (2015). "Human species as the master predator". The Political Economy of Predation: Manhunting and the Economics of Escape. Cambridge University Press. p. 72. ISBN 9781107133976. 
+^ Paul Gepts, ed. (2012). "9". Biodiversity in Agriculture: Domestication, Evolution, and Sustainability. Cambridge University Press. pp. 227–259. 
+^ Serpell J, Duffy D. Dog Breeds and Their Behavior. In: Domestic Dog Cognition and Behavior. Berlin, Heidelberg: Springer; 2014
+^ Cagan, Alex; Blass, Torsten (2016). "Identification of genomic variants putatively targeted by selection during dog domestication". BMC Evolutionary Biology. 16: 10. doi:10.1186/s12862-015-0579-7. PMC 4710014 . PMID 26754411. 
+^ Frantz, L (2015). "Evidence of long-term gene flow and selection during domestication from analyses of Eurasian wild and domestic pig genomes". Nature Genetics. 47 (10): 1141–8. doi:10.1038/ng.3394. PMID 26323058. 
+^ Pennisi, E (2015). "The taming of the pig took some wild turns". Science. doi:10.1126/science.aad1692. 
+^ "Poultry". The American Heritage: Dictionary of the English Language. 4th edition. Houghton Mifflin Company. 2009. 
+^ "Avicultural Society of America". Avicultural Society of America. Retrieved 25 March 2017. 
+^ Blechman, Andrew (2007). Pigeons-The fascinating saga of the world's most revered and reviled bird. St Lucia, Queensland: University of Queensland Press. ISBN 978-0-7022-3641-9. 
+^ Lawler, Andrew; Adler, Jerry (June 2012). "How the Chicken Conquered the World". Smithsonian Magazine (June 2012). 
+^ Bailey, Leslie; Ball, B. V. (2013). Honey Bee Pathology. Elsevier. pp. 7–8. ISBN 978-1-4832-8809-3. 
+^ Gon III, Samuel M.; Price, Edward O. (October 1984). "Invertebrate Domestication: Behavioral Considerations". BioScience. 34 (9): 575–579. doi:10.2307/1309600. JSTOR 1309600. 
+^ Zohary, D.; Hopf, M. (2000). Domestication of Plants in the Old World Oxford Univ. Press.[page needed]
+^ a b Hillman G, Hedges R, Moore A, Colledge S, Pettitt P; Hedges; Moore; Colledge; Pettitt (2001). "New evidence of Lateglacial cereal cultivation at Abu Hureyra on the Euphrates". Holocene. 11 (4): 383–393. doi:10.1191/095968301678302823. CS1 maint: Multiple names: authors list (link)
+^ Erickson DL, Smith BD, Clarke AC, Sandweiss DH, Tuross N; Smith; Clarke; Sandweiss; Tuross (December 2005). "An Asian origin for a 10,000-year-old domesticated plant in the Americas". Proc. Natl. Acad. Sci. U.S.A. 102 (51): 18315–20. Bibcode:2005PNAS..10218315E. doi:10.1073/pnas.0509279102. PMC 1311910 . PMID 16352716. CS1 maint: Multiple names: authors list (link)
+^ Zeven, A. C.; de Wit, J. M. (1982). Dictionary of Cultivated Plants and Their Regions of Diversity, Excluding Most Ornamentals, Forest Trees and Lower Plants. Wageningen, Netherlands: Centre for Agricultural Publishing and Documentation. 
+^ "Agaricus bisporus:The Button Mushroom". MushroomExpert.com. Retrieved 25 March 2017. 
+^ Legras, Jean-LUC; Merdinoglu, Didier; Cornuet, Jean-Marie; Karst, Francis (2007). "Bread, beer and wine: Saccharomyces cerevisiae diversity reflects human history". Molecular Ecology. 16 (10): 2091. doi:10.1111/j.1365-294X.2007.03266.x. PMID 17498234. 
+^ "Pfizer's work on penicillin for World War II becomes a National Historic Chemical Landmark". American Chemical Society. June 12, 2008. 
+^ Berry, R.J. (1969). "The Genetical Implications of Domestication in Animals". In Ucko, Peter J.; Dimbleby, G.W. The Domestication and Exploitation of Plants and Animals. Chicago: Aldine. pp. 207–217. 
+^ Paul Shepard (1973). "Chapter One: Ten Thousand Years of Crisis". The Tender Carnivore and the Sacred Game. Athens, GA: University of Georgia Press. pp. 10–11. 
+^ Boyden, Stephen Vickers (1992). "Biohistory: The interplay between human society and the biosphere, past and present". Man and the Biosphere Series. UNESCO. 8 (supplement 173): 665. Bibcode:1992EnST...26..665.. doi:10.1021/es00028a604. 
+^ Boivin, Nicole L.; Zeder, Melinda A.; Fuller, Dorian Q.; Crowther, Alison; Larson, Greger; Erlandson, Jon M.; Denham, Tim; Petraglia, Michael D. (2016). "Ecological consequences of human niche construction: Examining long-term anthropogenic shaping of global species distributions". Proceedings of the National Academy of Sciences. 113 (23): 6388–6396. doi:10.1073/pnas.1525200113. PMC 4988612 . PMID 27274046. 
+
+
+Bibliography[edit]
+
+Darwin, Charles. The Variation of Animals and Plants under Domestication, 1868.
+Diamond, Jared. Guns, germs and steel. A short history of everybody for the last 13,000 years, 1997.
+
+Further reading[edit]
+
+Halcrow, S. E.; Harris, N. J.; Tayles, N.; Ikehara-Quebral, R.; Pietrusewsky, M. (2013). "From the mouths of babes: Dental caries in infants and children and the intensification of agriculture in mainland Southeast Asia". Am. J. Phys. Anthropol. 150 (3): 409–420. doi:10.1002/ajpa.22215. PMID 23359102. 
+Hayden, B (2003). "Were luxury foods the first domesticates? Ethnoarchaeological perspectives from Southeast Asia". World Archaeology. 34 (3): 458–469. doi:10.1080/0043824021000026459a. 
+Marciniak, Arkadiusz (2005). Placing Animals in the Neolithic: Social Zooarchaeology of Prehistoric Farming Communities. London: UCL Press. ISBN 1844720926. 
+
+External links[edit]
+
+
+
+Look up domestication or taming in Wiktionary, the free dictionary.
+
+
+
+Crop Wild Relative Inventory and Gap Analysis: reliable information source on where and what to conserve ex-situ, for crop genepools of global importance
+Discussion of animal domestication with Jared Diamond
+The Initial Domestication of Cucurbita pepo in the Americas 10,000 Years Ago
+Cattle domestication diagram
+Major topic "domestication": free full-text articles (more than 100 plus reviews) in National Library of Medicine
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Prehistoric technology
+
+
+
+
+
+
+Prehistory
+
+timeline
+outline
+Stone Age
+subdivisions
+New Stone Age
+synoptic table
+
+
+Technology
+
+history
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+
+
+
+
+
+
+Farming
+
+
+
+Neolithic Revolution
+
+founder crops
+New World crops
+
+
+Ard / plough
+Celt
+Digging stick
+Domestication
+Goad
+Irrigation
+Secondary products
+Sickle
+Terracing
+
+
+
+
+
+Food processing
+
+
+
+Fire
+Basket
+Cooking
+
+Earth oven
+
+
+Granaries
+Grinding slab
+Ground stone
+Hearth
+
+Aşıklı Höyük
+Qesem Cave
+
+
+Manos
+Metate
+Mortar and pestle
+Pottery
+Quern-stone
+Storage pit
+
+
+
+
+
+Hunting
+
+
+
+
+
+
+
+Arrow
+Boomerang
+
+throwing stick
+
+
+Bow and arrow
+
+history
+
+
+Nets
+Spear
+
+Spear-thrower
+baton
+harpoon
+woomera
+Schöningen Spears
+
+
+
+
+
+
+
+Projectile points
+
+
+
+Arrowhead
+Bare Island
+Cascade
+Clovis
+Cresswell
+Cumberland
+Eden
+Folsom
+Lamoka
+Manis Site
+Plano
+Transverse arrowhead
+
+
+
+
+
+Systems
+
+
+
+Game drive system
+
+Buffalo jump
+
+
+
+
+
+
+
+
+
+
+Toolmaking
+
+
+
+Earliest toolmaking
+
+Oldowan
+Acheulean
+Mousterian
+
+
+Clovis culture
+Cupstone
+Fire hardening
+Gravettian culture
+Hafting
+Hand axe
+
+Grooves
+
+
+Langdale axe industry
+Levallois technique
+Lithic core
+Lithic reduction
+
+analysis
+debitage
+flake
+
+
+Lithic technology
+Magdalenian culture
+Metallurgy
+Microblade technology
+Mining
+Prepared-core technique
+Solutrean industry
+Striking platform
+Tool stone
+Uniface
+Yubetsu technique
+
+
+
+
+
+Other tools
+
+
+
+Adze
+Awl
+
+bone
+
+
+Axe
+Bannerstone
+Blade
+
+prismatic
+
+
+Bone tool
+Bow drill
+Burin
+Canoe
+
+Oar
+Pesse canoe
+
+
+Chopper
+
+tool
+
+
+Cleaver
+Denticulate tool
+Fire plough
+Fire-saw
+Hammerstone
+Knife
+Microlith
+Quern-stone
+Racloir
+Rope
+Scraper
+
+side
+
+
+Stone tool
+Tally stick
+Weapons
+Wheel
+
+illustration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Architecture
+
+
+
+
+
+
+
+Ceremonial
+
+
+
+Göbekli Tepe
+Kiva
+Standing stones
+
+megalith
+row
+Stonehenge
+
+
+Pyramid
+
+
+
+
+
+Dwellings
+
+
+
+Neolithic architecture
+British megalith architecture
+Nordic megalith architecture
+Burdei
+Cave
+Cliff dwelling
+Dugout
+Hut
+
+Quiggly hole
+
+
+Jacal
+Longhouse
+Mud brick
+
+Mehrgarh
+
+
+Neolithic long house
+Pit-house
+Pueblitos
+Pueblo
+Rock shelter
+
+Blombos Cave
+Abri de la Madeleine
+Sibudu Cave
+
+
+Stone roof
+Roundhouse
+Stilt house
+
+Alp pile dwellings
+
+
+Wattle and daub
+
+
+
+
+
+Water management
+
+
+
+Check dam
+Cistern
+Flush toilet
+Reservoir
+Water well
+
+
+
+
+
+Other architecture
+
+
+
+Archaeological features
+Broch
+Burnt mound
+
+fulacht fiadh
+
+
+Causewayed enclosure
+
+Tor enclosure
+
+
+Circular enclosure
+
+Goseck
+
+
+Cursus
+Henge
+
+Thornborough
+
+
+Oldest buildings
+Megalithic architectural elements
+Midden
+Timber circle
+Timber trackway
+
+Sweet Track
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arts and culture
+
+
+
+
+
+
+
+Material goods
+
+
+
+Baskets
+Beadwork
+Beds
+Chalcolithic
+Clothing/textiles
+
+timeline
+
+
+Cosmetics
+Glue
+Hides
+
+shoes
+Ötzi
+
+
+Jewelry
+
+amber use
+
+
+Mirrors
+Pottery
+
+Cardium
+Grooved ware
+Linear
+Jōmon
+Unstan ware
+
+
+Sewing needle
+Weaving
+Wine
+
+Winery
+wine press
+
+
+
+
+
+
+
+PrehistArt
+
+
+
+Art of the Upper Paleolithic
+Art of the Middle Paleolithic
+
+Blombos Cave
+
+
+List of Stone Age art
+Bird stone
+Bradshaw rock paintings
+Cairn
+Carved Stone Balls
+Cave paintings
+
+painting
+pigment
+
+
+Cup and ring mark
+Geoglyph
+Golden hats
+Guardian stones
+Megalithic art
+Petroform
+Petroglyph
+Petrosomatoglyph
+Pictogram
+Rock art
+
+Stone carving
+
+
+Sculpture
+Statue menhir
+Stone circle
+
+list
+British Isles and Brittany
+
+
+Venus figurines
+
+
+
+
+
+Burial
+
+
+
+Burial mounds
+
+Bowl barrow
+Round barrow
+
+
+Mound Builders culture
+
+U.S. sites
+
+
+Chamber tomb
+
+Severn-Cotswold
+
+
+Cist
+
+Dartmoor kistvaens
+
+
+Clava cairn
+Court tomb
+Cremation
+Dolmen
+
+Great dolmen
+
+
+Funeral pyre
+Gallery grave
+
+transepted
+wedge-shaped
+
+
+Grave goods
+Jar burial
+Long barrow
+
+unchambered
+Grønsalen
+
+
+Megalithic tomb
+Mummy
+Passage grave
+Rectangular dolmen
+Ring cairn
+Simple dolmen
+Stone box grave
+Tor cairn
+Tumulus
+Unchambered long cairn
+
+
+
+
+
+Other cultural
+
+
+
+Astronomy
+
+sites
+lunar calendar
+
+
+Behavioral modernity
+Origin of language
+Prehistoric medicine
+
+trepanning
+
+
+Evolutionary musicology
+
+music archaeology
+
+
+Prehistoric music
+
+Alligator drum
+flutes
+Divje Babe flute
+gudi
+
+
+Prehistoric numerals
+Origin of religion
+
+Paleolithic religion
+Prehistoric religion
+Spiritual drug use
+
+
+Prehistoric warfare
+Symbols
+
+symbolism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Domestication of animals
+
+
+
+Vertebrates
+
+
+
+Dog
+Cat
+Sheep
+Pig
+Cattle
+Goat
+Horse
+Rabbit
+Chicken
+Mouse
+Carp
+
+Goldfish
+Koi
+
+
+Rose-ringed parakeet
+
+
+
+
+
+Invertebrates
+
+
+
+Honey bee
+Silkworm
+
+
+
+
+
+History
+
+
+
+Cats in ancient Egypt
+Origin of the domestic dog
+Domestication of the horse
+
+theories
+
+
+Domestication of the Syrian hamster
+
+
+
+
+
+Related topics
+
+
+
+List of domesticated animals
+Selective breeding
+Self-domestication
+The Variation of Animals and Plants under Domestication
+Genomics of domestication
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+LCCN: sh85038949
+GND: 4150403-3
+SUDOC: 027388263
+BNF: cb119441018 (data)
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Domestication&oldid=813002173"					
+Categories: DomesticationHistory of agricultureHidden categories: Wikipedia articles needing page number citations from May 2011CS1 maint: Multiple names: authors listUse mdy dates from October 2014Articles containing Latin-language textWikipedia articles needing page number citations from January 2016All articles with unsourced statementsArticles with unsourced statements from May 2011Wikipedia articles with LCCN identifiersWikipedia articles with GND identifiersWikipedia articles with BNF identifiers 

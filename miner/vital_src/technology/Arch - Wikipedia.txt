@@ -1,0 +1,1957 @@
+Arch - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the architectural construct. For other uses of arch or arches, see Arch (disambiguation).
+
+
+
+
+A masonry arch
+1. Keystone 2. Voussoir 3. Extrados 4. Impost 5. Intrados 6. Rise 7. Clear span 8. Abutment
+
+
+An arch is a curved structure that spans an elevated space and may or may not support the weight above it.[1]
+Arches may be synonymous with vaults, but a vault may be distinguished as a continuous arch[2] forming a roof. Arches appeared as early as the 2nd millennium BC in Mesopotamian brick architecture,[3] and their systematic use started with the ancient Romans who were the first to apply the technique to a wide range of structures.
+
+
+
+Contents
+
+
+1 Basic concepts
+
+1.1 Fixed vs hinged arch
+1.2 Types of arches
+
+
+2 History
+3 Construction
+4 Other types
+5 Gallery
+6 See also
+7 References
+8 Further reading
+9 External links
+
+
+
+Basic concepts[edit]
+An arch is a pure compression form. It can span a large area by resolving forces into compressive stresses and, in turn eliminating tensile stresses. This is sometimes referred to as arch action.[4] As the forces in the arch are carried to the ground, the arch will push outward at the base, called thrust. As the rise, or height of the arch decreases, the outward thrust increases.[5] In order to maintain arch action and prevent the arch from collapsing, the thrust needs to be restrained, either with internal ties or external bracing, such as abutments.[6]
+Fixed vs hinged arch[edit]
+
+
+
+
+Rossgraben bridge (Rüeggisberg) near Bern, Switzerland, showing the hinge at mid-span of this three-hinged arch.
+
+
+The most common true arch configurations are the fixed arch, the two-hinged arch, and the three-hinged arch.[7]
+The fixed arch is most often used in reinforced concrete bridge and tunnel construction, where the spans are short. Because it is subject to additional internal stress caused by thermal expansion and contraction, this type of arch is considered to be statically indeterminate.[6]
+The two-hinged arch is most often used to bridge long spans.[6] This type of arch has pinned connections at the base. Unlike the fixed arch, the pinned base is able to rotate,[8] allowing the structure to move freely and compensate for the thermal expansion and contraction caused by changes in outdoor temperature. However, this can result in additional stresses, so the two-hinged arch is also statically indeterminate, although not to the degree of the fixed arch.[6]
+The three-hinged arch is not only hinged at its base, like the two-hinged arch, but at the mid-span as well. The additional connection at the mid-span allows the three-hinged arch to move in two opposite directions and compensate for any expansion and contraction. This type of arch is thus not subject to additional stress caused by thermal change. The three-hinged arch is therefore said to be statically determinate.[7] It is most often used for medium-span structures, such as large building roofs.
+Another advantage of the three-hinged arch is that the pinned bases are more easily developed than fixed ones, allowing for shallow, bearing-type foundations in medium-span structures. In the three-hinged arch, "thermal expansion and contraction of the arch will cause vertical movements at the peak pin joint but will have no appreciable effect on the bases," further simplifying the foundation design.[6]
+Types of arches[edit]
+Arches have many forms, but all fall into three basic categories: circular, pointed, and parabolic. Arches can also be configured to produce vaults and arcades.[6]
+Arches with a circular form, also referred to as rounded arches, were commonly employed by the builders of ancient, heavy masonry arches.[9] Ancient Roman builders relied heavily on the rounded arch to span large, open areas. Several rounded arches placed in-line, end-to-end, form an arcade, such as the Roman aqueduct.[10]
+
+
+
+
+Semi-circular arches using limestone block construction at the Great Wall, China
+
+
+
+
+
+
+Roman aqueduct near Nîmes, France: an arcade, employing the circular arch
+
+
+
+
+
+
+Horseshoe arches in the 9th-century Mosque of Uqba, in Kairouan, Tunisia
+
+
+Pointed arches were most often used by builders of Gothic-style architecture.[11] The advantage to using a pointed arch, rather than a circular one, is that the arch action produces less thrust at the base. This innovation allowed for taller and more closely spaced openings, typical of Gothic architecture.[12][13]
+
+
+
+
+Cathedral of St. Michael and St. Gudula in Brussels, Belgium, with a central pointed arch window, typical of Gothic architecture
+
+
+Vaults are essentially "adjacent arches [that] are assembled side by side." If vaults intersect, complex forms are produced with the intersections. The forms, along with the "strongly expressed ribs at the vault intersections, were dominant architectural features of Gothic cathedrals."[9]
+
+
+
+
+Interior vaulted ceiling of Notre Dame de Paris, showing the ribs at the intersection of several arches
+
+
+The parabolic arch employs the principle that when weight is uniformly applied to an arch, the internal compression resulting from that weight will follow a parabolic profile. Of all arch types, the parabolic arch produces the most thrust at the base, but can span the largest areas. It is commonly used in bridge design, where long spans are needed.[9]
+
+
+
+
+Tyne Bridge in Newcastle upon Tyne, England: a parabolic arch used in bridge design
+
+
+
+
+
+
+A series of parabolic arches on the Móra d'Ebre bridge, Catalonia
+
+
+The catenary arch has a shape different from the parabolic curve. The shape of the curve traced by a loose span of chain or rope, the catenary is the structurally ideal shape for a freestanding arch of constant thickness.
+Types of arches displayed chronologically, roughly in the order in which they were developed:
+
+
+
+
+
+
+
+Triangular arch
+
+
+
+
+
+
+
+
+
+Round arch, or semi-circular arch
+
+
+
+
+
+
+
+
+
+Segmental arch is less than a semicircle
+
+
+
+
+
+
+
+
+
+Unequal round arch, or rampant round arch
+
+
+
+
+
+
+
+
+
+Lancet arch
+
+
+
+
+
+
+
+
+
+Equilateral pointed arch
+
+
+
+
+
+
+
+
+
+Shouldered flat arch (see also: jack arch)
+
+
+
+
+
+
+
+
+
+Trefoil arch, or three-foiled cusped arch
+
+
+
+
+
+
+
+
+
+Horseshoe arch
+
+
+
+
+
+
+
+
+
+Three-centered arch
+
+
+
+
+
+
+
+
+
+Elliptical arch
+
+
+
+
+
+
+
+
+
+Inflexed arch
+
+
+
+
+
+
+
+
+
+Ogee arch
+
+
+
+
+
+
+
+
+
+Reverse ogee arch
+
+
+
+
+
+
+
+
+
+Tudor arch
+
+
+
+
+
+
+
+
+
+Parabolic arch
+
+
+
+
+History[edit]
+True arches, as opposed to corbel arches, were known by a number of civilizations in the ancient Near East and the Levant, but their use was infrequent and mostly confined to underground structures, such as drains where the problem of lateral thrust is greatly diminished.[14] A rare exception is the Bronze Age arched city gate of Ashkelon (modern-day Israel), dating to c. 1850 B.C.[15] An early example of a voussoir arch appears in the Greek Rhodes Footbridge.[16] Corbel arches were found in other parts of ancient Asia, Africa, Europe and the Americas. In 2010, a robot discovered a long arch-roofed passageway underneath the Pyramid of Quetzalcoatl, which stands in the ancient city of Teotihuacan north of Mexico City, dated to around 200 AD.[17] In ancient Persia, the Achaemenid Empire built small barrel vaults (essentially a series of arches built together to form a hall) known as iwan, which became massive, monumental structures during the later Parthian Empire.[18][19][20] This architectural tradition was continued by the Sasanian Empire, which built the Taq Kasra at Ctesiphon in the 6th century, the largest free-standing vault until modern times.[21]
+The ancient Romans learned the arch from the Etruscans, refined it and were the first builders to tap its full potential for above ground buildings:
+
+The Romans were the first builders in Europe, perhaps the first in the world, fully to appreciate the advantages of the arch, the vault and the dome.[22]
+
+Throughout the Roman empire, their engineers erected arch structures such as bridges, aqueducts, and gates. They also introduced the triumphal arch as a military monument. Vaults began to be used for roofing large interior spaces such as halls and temples, a function that was also assumed by domed structures from the 1st century BC onwards.
+The segmental arch was first built by the Romans who realized that an arch in a bridge did not have to be a semicircle,[23][24] such as in Alconétar Bridge or Ponte San Lorenzo. They were also routinely used in house construction, as in Ostia Antica (see picture).
+In ancient China, most architecture was wooden, including the few known arch bridges from literature and one artistic depiction in stone-carved relief.[25][26][27] Therefore, the only surviving examples of architecture from the Han Dynasty (202 BC - 220 AD) are rammed earth defensive walls and towers, ceramic roof tiles from no longer existent wooden buildings,[28][29][30] stone gate towers,[31][32] and underground brick tombs that, although featuring vaults, domes, and archways, were built with the support of the earth and weren't free-standing.[33][34] China's oldest surviving stone arch bridge is the Anji Bridge, built between 595-605 during the Sui Dynasty, and is the oldest open-spandrel segmental arch bridge in stone.[35][36] However, the ancient Romans had virtually all of these components beforehand, such as Trajan's Bridge that had open-spandrels built in wood on stone pillars.[37]
+The first example of an early Gothic arch in Europe is in Sicily in the Greek fortifications of Gela. The semicircular arch was followed in Europe by the pointed Gothic arch or ogive, whose centreline more closely follows the forces of compression and which is therefore stronger. The semicircular arch can be flattened to make an elliptical arch, as in the Ponte Santa Trinita. Both the parabolic and catenary arches are now known to be the theoretically strongest forms. Parabolic arches were introduced in construction by the Spanish architect Antoni Gaudí, who admired the structural system of the Gothic style, but for the buttresses, which he termed "architectural crutches". The catenary and parabolic arches carry all horizontal thrust to the foundation and so do not need additional elements. The first examples of the pointed arch in the European architecture are in Sicily and date back to the Arab-Norman period.
+The horseshoe arch is based on the semicircular arch, but its lower ends are extended further round the circle until they start to converge. The first known built horseshoe arches are from Aksum (modern-day Ethiopia and Eritrea) from around the 3rd–4th century, around the same time as the earliest contemporary examples in Roman Syria, suggesting either an Aksumite or Syrian origin for the type.[38][page needed]
+Construction[edit]
+Since it is a pure compression form, the arch is useful because many building materials, including stone and unreinforced concrete can resist compression, but are weak when tensile stress is applied to them.[39]
+An arch is held in place by the weight of all of its members, making construction problematic. One answer is to build a frame (historically, of wood) which exactly follows the form of the underside of the arch. This is known as a centre or centring. Voussoirs are laid on it until the arch is complete and self-supporting. For an arch higher than head height, scaffolding would be required, so it could be combined with the arch support. Occasionally, arches would fall down when the frame was removed if construction or planning had been incorrect. (The A85 bridge at Dalmally, Scotland suffered this fate on its first attempt, in the 1940s[citation needed]). The interior and lower line or curve of an arch is known as the intrados.
+Old arches sometimes need reinforcement due to decay of the keystones, forming what is known as bald arch.
+In reinforced concrete construction, the principle of the arch is used so as to benefit from the concrete's strength in resisting compressive stress. Where any other form of stress is raised, such as tensile or torsional stress, it has to be resisted by carefully placed reinforcement rods or fibres.[40]
+Other types[edit]
+
+
+
+
+
+
+
+The Delicate Arch, a natural arch in Arches National Park near Moab, Utah
+
+
+
+
+
+
+
+
+A rock balance sculpture in the form of an arch
+
+
+
+
+
+A blind arch is an arch infilled with solid construction so it cannot function as a window, door, or passageway.
+A special form of the arch is the triumphal arch, usually built to celebrate a victory in war. A famous example is the Arc de Triomphe in Paris, France.
+Rock formations may form natural arches through erosion, rather than being carved or constructed.[41] Structures such as this can be found in Arches National Park.
+Some rock balance sculptures are in the form of an arch.
+The arches of the foot support the weight of the human body.
+
+Gallery[edit]
+
+
+
+
+
+
+
+Reconstructed Ishtar Gate of Babylon in the Pergamon Museum, Berlin (2014)
+
+
+
+
+
+
+
+
+
+Taq Kasra (Archway of Ctesiphon), Salman Pak, Iraq (1864)
+
+
+
+
+
+
+
+
+
+Arch of Augustus, Rimini, Emilia-Romagna, Italy (2015)
+
+
+
+
+
+
+
+
+
+Arch of Gallienus, Rome (2006)
+
+
+
+
+
+
+
+
+
+Arch of Hadrian, Athens, Greece (2013)
+
+
+
+
+
+
+
+
+
+Arch of Constantine, Rome, commemorating a victory by Constantine I in 312 AD (2007)
+
+
+
+
+
+
+
+
+
+The Arc de Triomphe, Paris; a 19th-century triumphal arch modelled on the classical Roman design (1998)
+
+
+
+
+
+
+
+
+
+Washington Square Arch, Greenwich Village, Manhattan, New York City (2010)
+
+
+
+
+
+
+
+
+
+Soldiers' and Sailors' Arch in the Grand Army Plaza, Brooklyn, New York City (2007)
+
+
+
+
+
+
+
+
+
+Gateway Arch in St. Louis, Missouri; a sculpture based on a catenary arch (2011)
+
+
+
+
+
+
+
+
+
+The dry stone bridge, so called Porta Rosa (4th century BC), in Elea, Province of Salerno, Campania, Italy (2005)
+
+
+
+
+
+
+
+
+
+Pont Flavien over the River Touloubre in Saint-Chamas, Bouches-du-Rhône, France (2008)
+
+
+
+
+
+
+
+
+
+Bridge of Seonamsa Temple, Suncheon, South Jeolla Province, South Korea (1979)
+
+
+
+
+
+
+
+
+
+Anji Bridge over the Xiaohe River, Hebei Province, China (2007)
+
+
+
+
+
+
+
+
+
+Pont du Gard, a Roman aqueduct in Vers-Pont-du-Gard, Gard, France (2014)
+
+
+
+
+
+
+
+
+
+Bridge in Český Krumlov, Czech Republic (2004)
+
+
+
+
+
+
+
+
+
+Rialto Bridge over the Grand Canal in Venice, Italy (2011)
+
+
+
+
+
+
+
+
+
+Pont de Bercy over the River Seine, Paris, carrying the Paris Métro on its upper deck and a boulevard extension on its lower deck (2006)
+
+
+
+
+
+
+
+
+
+Bridge of Sighs, Venice, Italy (2001)
+
+
+
+
+
+
+
+
+
+Grosvenor Bridge over the River Dee in Chester, Cheshire, England, UK (2007)
+
+
+
+
+
+
+
+
+
+Union Arch Bridge carrying the Washington Aqueduct and MacArthur Boulevard (formerly named Conduit Road) in Cabin John, Montgomery County, Maryland (2008)
+
+
+
+
+
+
+
+
+
+Arlington Memorial Bridge over the Potomac River in Washington, D.C. (2007)
+
+
+
+
+
+
+
+
+
+Francis Scott Key Bridge over the Potomac River in Washington, D.C. (2006)
+
+
+
+
+
+
+
+
+
+Woodrow Wilson Memorial Bridge carrying Interstate 95 (I-95) and the Capital Beltway over the Potomac River between Alexandria, Virginia and Oxon Hill, Maryland (2007)
+
+
+
+
+
+
+
+
+
+Rainbow Bridge over the Niagara River connecting Niagara Falls, New York and Niagara Falls, Ontario, Canada (2012)
+
+
+
+
+
+
+
+
+
+Tyne Bridge over the River Tyne, Newcastle upon Tyne, England, UK (2004)
+
+
+
+
+
+
+
+
+
+Hell Gate Bridge over the East River, New York City
+
+
+
+
+
+
+
+
+
+Sydney Harbour Bridge, Sydney, New South Wales, Australia (2010)
+
+
+
+
+
+
+
+
+
+Ludendorff Bridge over the Rhine River, Remagen, Germany, showing damage before collapse during the Battle of Remagen in World War II (1945)
+
+
+
+
+
+
+
+
+
+Lianxiang bridge over the Xiang River, Xiangtan, Hunan Province, China (2007)
+
+
+
+
+
+
+
+
+
+Zhivopisny Bridge over the Moskva River, Moscow, Russia (2009)
+
+
+
+
+
+
+
+
+
+Margaret Hunt Hill Bridge over the Trinity River in Dallas, Texas (2012)
+
+
+
+
+
+
+
+
+
+Juscelino Kubitschek Bridge crossing Paranoá Lake, Brasília, Brazil (2007)
+
+
+
+
+
+
+
+
+
+Gateshead Millennium Bridge over the River Tyne, Newcastle upon Tyne, England, UK (2005)
+
+
+
+
+
+
+
+
+
+Eiffel Tower, Paris (2009)
+
+
+
+
+
+
+
+
+
+Arch supporting the Eiffel Tower, Paris (2015)
+
+
+
+
+
+
+
+
+
+The second Wembley Stadium in London, built in 2007 (2007)
+
+
+
+
+
+
+
+
+
+The first San Mamés Stadium, in Bilbao, arch built in 1953, demolished 2013 (2013)
+
+
+
+
+
+
+
+
+
+St Pancras railway station, London (2011)
+
+
+
+
+
+
+
+
+
+Train shed in St Pancras railway station, London (2010)
+
+
+
+
+
+
+
+
+
+Train shed in Victoria Station, London (2006)
+
+
+
+
+
+
+
+
+
+Lucerne railway station, Switzerland (2010)
+
+
+
+
+
+
+
+
+
+Train shed in Lucerne railway station, Switzerland (2016)
+
+
+
+
+
+
+
+
+
+Central railway station, Frankfurt, Germany (2008)
+
+
+
+
+
+
+
+
+
+Train shed in Central railway station, Frankfurt, Germany (2005)
+
+
+
+
+
+
+
+
+
+Grand Central Terminal, Manhattan, New York City (2008)
+
+
+
+
+
+
+
+
+
+Arches in Main Concourse, Grand Central Terminal, Manhattan, New York City (2014)
+
+
+
+
+
+
+
+
+
+Washington Union Station, Washington, D.C (2015)
+
+
+
+
+
+
+
+
+
+Interior arches in Washington Union Station, Washington, D.C (2006)
+
+
+
+
+
+
+
+
+
+Chicago Union Station, Chicago, Illinois (1974)
+
+
+
+
+
+
+
+
+
+Arches in Great Hall, Chicago Union Station, Chicago, Illinois (2010)
+
+
+
+
+
+
+
+
+
+Haus der Kulturen der Welt, Berlin, Germany (2011)
+
+
+
+
+
+
+
+
+
+The Colosseum in Rome (2013)
+
+
+
+
+
+
+
+
+
+Arches inside the Colosseum in Rome (2005)
+
+
+
+
+
+
+
+
+
+Amir Chakhmaq Complex, Yazd, Iran (2014)
+
+
+
+
+
+
+
+
+
+Stonework arches seen in a ruined stonework building – Burg Lippspringe, Germany (2005)
+
+
+
+
+
+
+
+
+
+Several arches at the Casa Simón Bolívar in Havana, Cuba (2006)
+
+
+
+
+
+
+
+
+
+Kings College, University of Cambridge in Cambridge, England (2007)
+
+
+
+
+
+
+
+
+
+Arches in dining hall at Kings College, University of Cambridge, Cambridge, England (2007)
+
+
+
+
+
+
+
+
+
+Memorial Hall, Harvard University, Cambridge, Massachusetts (circa 1897-1924 photochrom post card)
+
+
+
+
+
+
+
+
+
+Arches inside transept, Memorial Hall, Harvard University, Cambridge, Massachusetts (2016)
+
+
+
+
+
+
+
+
+
+Arches inside Annenberg Hall, Memorial Hall, Harvard University, Cambridge, Massachusetts (2016)
+
+
+
+
+
+
+
+
+
+Healy Hall, Georgetown University, Washington, D.C. (2009)
+
+
+
+
+
+
+
+
+
+Arches inside Healy Hall, Georgetown University, Washington, D.C. (2010)
+
+
+
+
+
+
+
+
+
+Central Tower, Erasmus Hall High School, Brooklyn, New York City (2013)
+
+
+
+
+
+
+
+
+
+Neuschwanstein Castle, Bavaria, Germany (2006)
+
+
+
+
+
+
+
+
+
+Arches in throne room of Neuschwanstein Castle, Bavaria, Germany (1886 photochrom print)
+
+
+
+
+
+
+
+
+
+Arches in the nave of the church in monastery of Alcobaça, Portugal (2008)
+
+
+
+
+
+
+
+
+
+North facade of Chartres Cathedral, Chartres, France (2008)
+
+
+
+
+
+
+
+
+
+Arches in choir of Chartres Cathedral, Chartres, France (2013)
+
+
+
+
+
+
+
+
+
+Western facade, Westminster Abbey, City of Westminster, London (2013)
+
+
+
+
+
+
+
+
+
+Arches in nave of Westminster Abbey, City of Westminster, London (2006)
+
+
+
+
+
+
+
+
+
+Washington National Cathedral in Washington, D.C. (Between 1990 and 2006)
+
+
+
+
+
+
+
+
+
+Arches inside the Washington National Cathedral, Washington, D.C. (2005)
+
+
+
+
+
+
+
+
+
+Main facade of St. Peter's Basilica, Vatican City, Rome (2015)
+
+
+
+
+
+
+
+
+
+Interior arches in St. Peter's Basilica, Vatican City (2009)
+
+
+
+
+
+
+
+
+
+Hagia Sophia in Istanbul, Turkey (2013)
+
+
+
+
+
+
+
+
+
+Arches inside the Hagia Sophia in Istanbul, Turkey (1983)
+
+
+
+
+
+
+
+
+
+Arches inside the western upper gallery, Hagia Sophia, Istanbul, Turkey (2007)
+
+
+
+
+
+
+
+
+
+Interior arches in Masjid al-Haram, Mecca, Saudi Arabia (2008)
+
+
+
+
+
+
+
+
+
+Roof of Masjid al-Haram, Mecca, Saudi Arabia (2008)
+
+
+
+
+
+
+
+
+
+Dome of the Rock, Old City of Jerusalem (2010)
+
+
+
+
+
+
+
+
+
+Arches inside Dome of the Rock, Old City of Jerusalem (2014)
+
+
+
+
+
+
+
+
+
+Taj Mahal in Agra, Uttar Pradesh, India (2009)
+
+
+
+
+
+
+
+
+
+Entrance to grounds of Taj Mahal, Agra, Uttar Pradesh, India (2004)
+
+
+
+
+
+
+
+
+
+East side of United States Capitol in Washington, D.C. (2005)
+
+
+
+
+
+
+
+
+
+Arches in corridor of United States Capitol, Washington, D.C. (2006)
+
+
+
+
+
+
+
+
+
+Thomas Jefferson Building, Library of Congress, Washington, D.C. (2008)
+
+
+
+
+
+
+
+
+
+Arches in Main Reading Room, Thomas Jefferson Building, Library of Congress, Washington, D.C. (2009)
+
+
+
+
+
+
+
+
+
+Arches in Great Hall, Thomas Jefferson Building, Library of Congress, Washington, D.C. (2007)
+
+
+
+
+
+
+
+
+
+Art Deco arches on Chrysler Building, Manhattan, New York City (2005)
+
+
+
+
+
+
+
+
+
+New York Public Library Main Branch, Manhattan, New York City (2016)
+
+
+
+
+
+
+
+
+
+Arches inside entrance of New York Public Library Main Branch, Manhattan, New York City (2012)
+
+
+
+
+
+
+
+
+
+Metropolitan Museum of Art, Manhattan, New York City (2012)
+
+
+
+
+
+
+
+
+
+Arches in Great Hall, Metropolitan Museum of Art, Manhattan, New York City (2012)
+
+
+
+
+
+
+
+
+
+Arches in Sculpture Gallery, West Building, National Gallery of Art, Washington, D.C. (2007)
+
+
+
+
+
+
+
+
+
+Winter Palace, Hermitage Museum, St. Petersburg, Russia (2016)
+
+
+
+
+
+
+
+
+
+Arches near the Jordan Staircase, Winter Palace, Hermitage Museum, St. Petersburg, Russia (2015)
+
+
+
+
+
+
+
+
+
+Arches in Pavilion Hall, Small Hermitage, Hermitage Museum, St. Petersburg, Russia (2015)
+
+
+
+
+
+
+
+
+
+Cour Carrée, Louvre Palace, Paris (2010)
+
+
+
+
+
+
+
+
+
+Arches in Salle du Manège, Louvre Palace, Paris (2007)
+
+
+
+
+
+
+
+
+
+Palace of Versailles, Versailles, Yvelines, France (2012)
+
+
+
+
+
+
+
+
+
+Arches in Galerie des Batailles, Palace of Versailles, Versailles, Yvelines, France (2013)
+
+
+
+
+
+
+
+
+
+Arches in Hall of Mirrors, Palace of Versailles, Versailles, Yvelines, France (2011)
+
+
+
+
+
+
+
+
+
+Palace of Westminster, City of Westminster, London (2010)
+
+
+
+
+
+
+
+
+
+Arches in Westminster Hall, Palace of Westminster, City of Westminster, London (2011)
+
+
+
+
+
+
+
+
+
+Arches in St. Stevens Hall, Palace of Westminster, City of Westminster, London (2007)
+
+
+
+
+
+
+
+
+
+Aljafería Palace in Zaragoza, Spain (2005)
+
+
+
+
+
+
+
+
+
+Horseshoe arch inside Aljafería Palace, Zaragoza, Spain (2004)
+
+
+
+
+
+
+
+
+
+Multifoil arches inside Aljafería Palace, Zaragoza, Spain (2004)
+
+
+
+
+
+
+
+
+
+Catenary arches inside Casa Milà in Barcelona, Spain by Antoni Gaudí (2010}
+
+
+
+
+
+
+
+
+
+Rajasthani style arches inside the 16th-century City Palace, Udaipur, India (2013)
+
+
+
+
+
+
+
+
+
+Main façade of the Itamaraty Palace in Brasília, Brazil, decorated with many arches (2005)
+
+
+
+
+
+
+
+
+
+Smithsonian Institution Building ("The Castle"), Washington, D.C. (2007)
+
+
+
+
+
+
+
+
+
+Arches inside the Smithsonian Institution Building ("The Castle"), Washington, D.C. (2012)
+
+
+
+
+
+
+
+
+
+National Building Museum (formerly Pension Building), Washington, D.C. (2005)
+
+
+
+
+
+
+
+
+
+Arches inside the National Building Museum (formerly Pension Building), Washington, D.C. (2007)
+
+
+
+
+
+
+
+
+
+Main facade of the Old Post Office Building (now the Trump International Hotel) in Washington, D.C. (2012)
+
+
+
+
+
+
+
+
+
+Front entrance of the Old Post Office Building in Washington, D.C. (2006)
+
+
+
+
+
+
+
+
+
+Arches inside Old Post Office Building in Washington, D.C. (2009)
+
+
+
+
+
+
+
+
+
+Arches in Merzouga, Morocco (2011)
+
+
+
+
+
+
+
+
+
+Crypt of the Popes in the Catacomb of Callixtus, Rome (2007)
+
+
+
+
+
+
+
+
+
+Chinese Eastern Han Dynasty (25–220 AD) tomb chamber, Luoyang (2008)
+
+
+
+
+
+
+
+
+
+Entrance to Washington family tomb at Mount Vernon, Fairfax County, Virginia (2014)
+
+
+
+
+
+
+
+
+
+Natural Bridge in Rockbridge County, Virginia (2014)
+
+
+
+
+
+
+
+
+
+Landscape Arch, Arches National Park, Utah (2009)
+
+
+
+
+
+
+
+
+
+Double O Arch, Arches National Park, Utah (2007)
+
+
+
+
+
+
+
+
+
+Rainbow Bridge, Rainbow Bridge National Monument, Utah (2012)
+
+
+
+
+
+
+
+
+
+Aloba Arch, Ennedi-Est Region, Chad (2015)
+
+
+
+
+
+
+
+
+
+Medial longitudinal arch of the human foot (Gray's Anatomy)
+
+
+
+
+See also[edit]
+
+Arch bridge
+Catenary arch
+Dome
+Golden Arches
+List of post-Roman triumphal arches
+List of Roman triumphal arches
+Natural arch
+Order moulding
+Skew arch
+Suspension bridge
+
+References[edit]
+
+
+
+^ "arch, n. 2" Oxford English Dictionary 2nd ed. 2009.
+^ "vault, n. 2." The Century Dictionary and Cyclopedia Dwight Whitney, ed.. vol. 10. New York. 1911. 6707. Print.
+^ "Ancient Mesopotamia: Architecture". The Oriental Institute of the University of Chicago. Retrieved 16 May 2012. 
+^ Vaidyanathan, R (2004). Structural Analysis, Volume 2. USA: Laxmi Publications. p. 127. ISBN 81-7008-584-5. 
+^ Ambrose, James (2012). Building Structures. Hoboken, New Jersey: John Wiley & Sons, Inc. p. 30. 
+^ a b c d e f Ambrose, James (2012). Building Structures. Hoboken, New Jersey: John Wiley & Sons, Inc. p. 31. ISBN 978-0-470-54260-6. 
+^ a b Reynolds, Charles E (2008). Reynolds's Reinforced Concrete Designer's Handbook. New York, NY: Psychology Press. p. 41. ISBN 0-419-25820-5. 
+^ Luebkeman, Chris H. "Support and Connection Types". MIT.edu Architectonics: The Science of Architecture. MIT.edu. Retrieved 3 February 2013. 
+^ a b c Ambrose, James (2012). Building Structures. Hoboken, New Jersey: John Wiley & Sons, Inc. p. 32. ISBN 978-0-470-54260-6. 
+^ Oleson, John (2008). The Oxford Handbook of Engineering and Technology in the Classical World. USA: Oxford University Press. p. 299. ISBN 0-19-518731-8. 
+^ Crossley, Paul (2000). Gothic Architecture. New Haven, CT: Yale University Press. p. 58. ISBN 0-300-08799-3. 
+^ Hadrovic, Ahmet (2009). STRUCTURAL SYSTEMS IN ARCHITECTURE. On Demand Publishing. p. 289. ISBN 1-4392-5944-5. 
+^ MHHE. "STRUCTURAL SYSTEMS IN ARCHITECTURE". MHHE.com. Archived from the original on 13 March 2013. Retrieved 3 February 2013. 
+^ Rasch 1985, p. 117
+^ Oldest arched gate in the world restored
+^ Galliazzo 1995, p. 36; Boyd 1978, p. 91
+^ Jorge Barrera (2010-11-12). "Teotihuacan ruins explored by a robot, AP report in the Christian Science Monitor, November 12, 2010". Csmonitor.com. Retrieved 2013-06-08. 
+^ Brosius, Maria (2006), The Persians: An Introduction, London & New York: Routledge, p. 128, ISBN 0-415-32089-5.
+^ Garthwaite, Gene Ralph (2005), The Persians, Oxford & Carlton: Blackwell Publishing, Ltd., p. 84, ISBN 1-55786-860-3.
+^ Schlumberger, Daniel (1983), "Parthian Art", in Yarshater, Ehsan, Cambridge History of Iran, 3.2, London & New York: Cambridge University Press, p. 1049, ISBN 0-521-20092-X.
+^ Wright, G. R. H., Ancient building technology vol. 3. Leiden, Netherlands. Koninklijke Brill NV. 2009. p. 237. Print.
+^ Robertson, D.S.: Greek and Roman Architecture, 2nd edn., Cambridge 1943, p.231
+^ Galliazzo 1995, pp. 429–437
+^ O'Connor 1993, p. 171
+^ Needham, Joseph (1986), Science and Civilization in China: Volume 4, Physics and Physical Technology, Part 3, Civil Engineering and Nautics, Taipei: Caves Books, pp 161-188, ISBN 0-521-07060-0.
+^ Needham, Joseph (1986), Science and Civilisation in China: Volume 4, Physics and Physical Technology; Part 2, Mechanical Engineering, Taipei: Caves Books, pp 171-172 ISBN 0-521-05803-1.
+^ Liu, Xujie (2002), "The Qin and Han dynasties", in Steinhardt, Nancy S., Chinese Architecture, New Haven: Yale University Press, p. 56, ISBN 0-300-09559-7.
+^ Wang, Zhongshu (1982), Han Civilization, translated by K.C. Chang and Collaborators, New Haven and London: Yale University Press, pp 1, 30, 39-40, ISBN 0-300-02723-0.
+^ Chang, Chun-shu (2007), The Rise of the Chinese Empire: Volume II; Frontier, Immigration, & Empire in Han China, 130 B.C. – A.D. 157, Ann Arbor: University of Michigan Press, pp 91-92, ISBN 0-472-11534-0.
+^ Morton, William Scott; Lewis, Charlton M. (2005), China: Its History and Culture (Fourth ed.), New York City: McGraw-Hill, p. 56, ISBN 0-07-141279-4.
+^ Liu, Xujie (2002), "The Qin and Han dynasties", in Steinhardt, Nancy S., Chinese Architecture, New Haven: Yale University Press, p. 55, ISBN 0-300-09559-7.
+'^ Steinhardt, Nancy Shatzman (2005), "Pleasure tower model", in Richard, Naomi Noble, Recarving China's Past: Art, Archaeology, and Architecture of the 'Wu Family Shrines, New Haven and London: Yale University Press and Princeton University Art Museum, pp. 279–280, ISBN 0-300-10797-8.
+^ Wang, Zhongshu (1982), Han Civilization, translated by K.C. Chang and Collaborators, New Haven and London: Yale University Press, pp 175-178, ISBN 0-300-02723-0.
+^ Watson, William (2000), The Arts of China to AD 900, New Haven: Yale University Press, p. 108, ISBN 0-300-08284-3.
+^ Knapp, Ronald G. (2008). Chinese Bridges: Living Architecture From China's Past. Singapore: Tuttle Publishing. pp. 122–127. ISBN 978-0-8048-3884-9.
+^ Needham, Joseph. The Shorter Science and Civilisation in China. Cambridge University Press, 1994. ISBN 0-521-29286-7. Pages 145-147.
+^ This title strictly applies only to the sum of attributes given (O’Connor, Colin: Roman Bridges, Cambridge University Press 1993, ISBN 0-521-39326-4, p.171): Various Roman stone pillar bridges featured wooden open-spandrel segmental arches as early as the 2nd century CE, among them Trajan's bridge, the longest bridge of the world to have been built for over a thousand years. Also, a dozen or more Roman close-spandrel stone segmental arch bridges are known from the 1st century BC onwards, such as the Ponte San Lorenzo (Padua), Alconétar Bridge and the Makestos Bridge (Turkey), the last having half-open spandrels. The 27 segmental arches of the Bridge at Limyra (300 ce) feature span to rise ratios between 5.3 and 6.5 to 1, making it an earlier example of a stone quarter circle segmental arch bridge. This leaves the Anji bridge the title of "the oldest open-spandrel stone quarter circle segmental arch bridge in the world".
+^ Stuart Munro-Hay, Aksum: A Civilization of Late Antiquity. Edinburgh: University Press. 199
+^ Reid, Esmond (1984). Understanding Buildings: A Multidisciplinary Approach. Cambridge, MA: MIT Press. p. 12. ISBN 0-262-68054-8. 
+^ Allen, Edward (2009). Fundamentals of Building Construction. Hoboken, NJ: John Wiley & Sons. p. 529. ISBN 978-0-470-07468-8. 
+^ Davies, David (2014-04-17). Cambridge IGCSE Geography Revision Guide Student's Book. Cambridge University Press. ISBN 9781107674820. 
+
+
+
+Further reading[edit]
+
+Boyd, Thomas D. (1978), "The Arch and the Vault in Greek Architecture", American Journal of Archaeology, 82 (1): 83–100 (91), doi:10.2307/503797 
+Galliazzo, Vittorio (1995), I ponti romani, Vol. 1, Treviso: Edizioni Canova, ISBN 88-85066-66-6 
+O'Connor, Colin (1993), Roman Bridges, Cambridge University Press, ISBN 0-521-39326-4 
+Rasch, Jürgen (1985), "Die Kuppel in der römischen Architektur. Entwicklung, Formgebung, Konstruktion", Architectura, 15, pp. 117–139 
+Roth, Leland M (1993). Understanding Architecture: Its Elements History and Meaning. Oxford, UK: Westview Press. ISBN 0-06-430158-3.  pp. 27–8
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Arch
+
+
+
+
+
+Wikimedia Commons has media related to Arch.
+
+
+
+
+
+Wikimedia Commons has media related to Arches.
+
+
+
+Physics of Stone Arches by Nova: a model to build an arch without it collapsing
+InteractiveTHRUST: interactive applets, tutorials
+DIYinfo.org's Constructing Brick Arches Wiki[permanent dead link] - A wiki on how to construct brick arches around the house
+DIYinfo.org's Constructing Timber Framed Arches Wiki[permanent dead link] - Similar to the brick arches but extra information for timber arches
+Paper about the three-hinged arch of the Galerie des Machines of 1889 Whitten by Javier Estévez Cimadevila & Isaac López César.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Rooms and spaces of a house
+
+
+
+Shared residential rooms
+
+
+
+Billiard room
+Bonus room
+Common room
+Den
+Dining room
+Ell
+Family room
+Garret
+Great room
+Hearth room
+Home cinema
+Home office
+Kitchen
+
+Dirty kitchen
+Kitchenette
+
+
+Living room
+Man cave
+Recreation room
+Shrine
+Study
+Sunroom
+
+
+
+
+
+Spaces
+
+
+
+Atrium
+Balcony
+Breezeway
+Catio
+Conversation pit
+Deck
+Elevator
+Entryway / Genkan
+Foyer
+Hallway
+Lanai
+Loft
+Loggia
+Overhang
+Patio
+Porch
+
+screened
+sleeping
+
+
+Ramp
+Secret passage
+Stairs
+Terrace
+Veranda
+Vestibule
+
+
+
+
+
+Utility and storage
+
+
+
+Attic
+Basement
+Box room
+Carport
+Cloakroom
+Closet
+Electrical room
+Equipment room
+Furnace room / Boiler room
+Garage
+Janitorial closet
+Larder
+Laundry room / Utility room
+Mechanical room / floor
+Pantry
+Root cellar
+Semi-basement
+Spear closet
+Storm cellar / Safe room
+Studio
+Subbasement
+Wardrobe
+Wine cellar
+Wiring closet / Demarcation point
+Workshop
+
+
+
+
+
+Private rooms
+
+
+
+Bathroom
+Bedroom / Guest room
+Boudoir
+Cabinet
+Jack and Jill bathroom
+Nursery
+Suite
+Toilet
+Walk-in closet
+
+
+
+
+
+Great house areas
+
+
+
+Antechamber
+Ballroom
+Butler's pantry
+Buttery
+Conservatory
+Courtyard
+Drawing room
+Fainting room
+Great chamber
+Great hall
+Long gallery
+Lumber room
+Parlour
+Porte-cochère
+Saucery
+Sauna
+Scullery
+Servants' hall
+Servants' quarters
+Smoking room
+Solar
+Spicery
+State room
+Still room
+Swimming pool
+Undercroft
+
+
+
+
+
+Other
+
+
+
+Building
+Furniture
+House plan
+Multi-family residential
+Secondary suite
+Single-family detached home
+
+
+
+
+
+Architectural elements
+
+
+
+Arch
+Baluster
+Ceiling
+Colonnade
+Column
+Floor
+Gate
+Lighting
+Medallion
+Ornament
+Portico
+Roof
+Vault
+
+
+
+
+
+
+
+
+Architecture portal
+Design portal
+Engineering portal
+Bridges portal
+
+
+
+
+
+Authority control
+
+
+
+GND: 4146210-5
+NDL: 00560402
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Arch&oldid=812551824"					
+Categories: Arch bridgesArches and vaultsNatural archesBridge componentsHidden categories: Use British English Oxford spelling from August 2016Wikipedia articles needing page number citations from September 2010All articles with unsourced statementsArticles with unsourced statements from February 2011All articles with dead external linksArticles with dead external links from March 2017Articles with permanently dead external linksWikipedia articles with GND identifiers 

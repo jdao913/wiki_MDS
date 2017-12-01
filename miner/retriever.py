@@ -1,13 +1,14 @@
-import requests
-import pandas as pd
-import parser
-from bs4 import BeautifulSoup
 import os
+import parser
 import threading
 import time
 
-def getTop5000():
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 
+
+def getTop5000():
     articles = pd.read_csv('top5000.tsv', delimiter='\t')
     featured = articles[pd.notnull(articles.ix[:, 3])]
     for idx, art in featured.iterrows():
@@ -42,7 +43,7 @@ def getCat(href, main_cat_name=None, currentDepth=0, maxDepth=1, parent_path='./
     if currentDepth > maxDepth:
         return
 
-    if main_cat_name != None:
+    if main_cat_name is not None:
         directory_path = parent_path + main_cat_name + '/'
         if not os.path.exists(directory_path):  # create a directory if it does not already exist
             os.makedirs(directory_path)
@@ -57,17 +58,17 @@ def getCat(href, main_cat_name=None, currentDepth=0, maxDepth=1, parent_path='./
         r = requests.get(url_head + href)
         soup = BeautifulSoup(r.text, 'html.parser')
         subcat_div = soup.find(id='mw-subcategories')
-        if subcat_div != None:
+        if subcat_div is not None:
             subcats = subcat_div.find_all('a')
             for subcat in subcats:
-                #getPages(href)
+                # create a thread for each subcategory
                 subcatThread = threading.Thread(target=getCat, args=[subcat.get('href')],
-                                              kwargs={'currentDepth': currentDepth + 1,
-                                                      'parent_path': directory_path})
+                                                kwargs={'currentDepth': currentDepth + 1,
+                                                        'parent_path': directory_path})
                 subcatThread.start()
-                #getCat(subcat.get('href'), currentDepth=currentDepth + 1)
             print(href, "completed.")
         getPages(href, directory_path)
+
 
 startTime = time.time()
 getCat("", main_cat_name='Equations')

@@ -1,0 +1,1241 @@
+Asthma - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For other uses, see Asthma (disambiguation).
+
+
+Asthma
+
+
+
+
+
+Peak flow meters are used to measure the peak expiratory flow rate, important in both monitoring and diagnosing asthma.[1]
+
+
+Specialty
+Pulmonology
+
+
+Symptoms
+Recurring episodes of wheezing, coughing, chest tightness, shortness of breath[2]
+
+
+Duration
+Long term[3]
+
+
+Causes
+Genetic and environmental factors[4]
+
+
+Risk factors
+Air pollution, allergens[3]
+
+
+Diagnostic method
+Based on symptoms, response to therapy, spirometry[5]
+
+
+Treatment
+Avoiding triggers, inhaled corticosteroids, salbutamol[6][7]
+
+
+Frequency
+358 million (2015)[8]
+
+
+Deaths
+397,100 (2015)[9]
+
+
+
+[edit on Wikidata]
+
+
+
+Asthma is a common long-term inflammatory disease of the airways of the lungs.[3] It is characterized by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm.[10] Symptoms include episodes of wheezing, coughing, chest tightness, and shortness of breath.[2] These episodes may occur a few times a day or a few times per week.[3] Depending on the person, they may become worse at night or with exercise.[3]
+Asthma is thought to be caused by a combination of genetic and environmental factors.[4] Environmental factors include exposure to air pollution and allergens.[3] Other potential triggers include medications such as aspirin and beta blockers.[3] Diagnosis is usually based on the pattern of symptoms, response to therapy over time, and spirometry.[5] Asthma is classified according to the frequency of symptoms, forced expiratory volume in one second (FEV1), and peak expiratory flow rate.[11] It may also be classified as atopic or non-atopic, where atopy refers to a predisposition toward developing a type 1 hypersensitivity reaction.[12][13]
+There is no cure for asthma.[3] Symptoms can be prevented by avoiding triggers, such as allergens and irritants, and by the use of inhaled corticosteroids.[6][14] Long-acting beta agonists (LABA) or antileukotriene agents may be used in addition to inhaled corticosteroids if asthma symptoms remain uncontrolled.[15][16] Treatment of rapidly worsening symptoms is usually with an inhaled short-acting beta-2 agonist such as salbutamol and corticosteroids taken by mouth.[7] In very severe cases, intravenous corticosteroids, magnesium sulfate, and hospitalization may be required.[17]
+In 2015, 358 million people globally had asthma, up from 183 million in 1990.[8][18] It caused about 397,100 deaths in 2015,[9] most of which occurred in the developing world.[3] It often begins in childhood.[3] The rates of asthma have increased significantly since the 1960s.[19] Asthma was recognized as early as Ancient Egypt.[20] The word "asthma" is from the Greek ἅσθμα, ásthma, which means "panting".[21]
+
+
+Play media
+
+
+Video explanation
+
+
+
+
+
+Contents
+
+
+1 Signs and symptoms
+
+1.1 Associated conditions
+
+
+2 Causes
+
+2.1 Environmental
+
+2.1.1 Hygiene hypothesis
+
+
+2.2 Genetic
+2.3 Medical conditions
+2.4 Exacerbation
+
+
+3 Pathophysiology
+4 Diagnosis
+
+4.1 Spirometry
+4.2 Others
+4.3 Classification
+
+4.3.1 Asthma exacerbation
+4.3.2 Exercise-induced
+4.3.3 Occupational
+4.3.4 Aspirin-induced asthma
+4.3.5 Alcohol-induced asthma
+4.3.6 Nonallergic asthma
+
+
+4.4 Differential diagnosis
+
+
+5 Prevention
+6 Management
+
+6.1 Lifestyle modification
+6.2 Medications
+
+6.2.1 Fast–acting
+6.2.2 Long–term control
+6.2.3 Delivery methods
+6.2.4 Adverse effects
+
+
+6.3 Others
+6.4 Alternative medicine
+
+
+7 Prognosis
+8 Epidemiology
+9 Economics
+10 History
+11 References
+
+11.1 Notes
+
+
+12 External links
+
+
+
+Signs and symptoms
+
+
+
+
+
+
+
+
+
+Wheezing
+
+
+
+
+The sound of wheezing as heard with a stethoscope.
+
+
+
+
+
+
+Problems playing this file? See media help.
+
+
+Asthma is characterized by recurrent episodes of wheezing, shortness of breath, chest tightness, and coughing.[22] Sputum may be produced from the lung by coughing but is often hard to bring up.[23] During recovery from an attack, it may appear pus-like due to high levels of white blood cells called eosinophils.[24] Symptoms are usually worse at night and in the early morning or in response to exercise or cold air.[25] Some people with asthma rarely experience symptoms, usually in response to triggers, whereas others may have marked and persistent symptoms.[26]
+Associated conditions
+A number of other health conditions occur more frequently in those with asthma, including gastro-esophageal reflux disease (GERD), rhinosinusitis, and obstructive sleep apnea.[27] Psychological disorders are also more common,[28] with anxiety disorders occurring in between 16–52% and mood disorders in 14–41%.[29] However, it is not known whether asthma causes psychological problems or psychological problems lead to asthma.[30] Those with asthma, especially if it is poorly controlled, are at high risk for radiocontrast reactions.[31]
+Causes
+Asthma is caused by a combination of complex and incompletely understood environmental and genetic interactions.[4][32] These factors influence both its severity and its responsiveness to treatment.[33] It is believed that the recent increased rates of asthma are due to changing epigenetics (heritable factors other than those related to the DNA sequence) and a changing living environment.[34] Onset before age 12 is more likely due to genetic influence, while onset after 12 is more likely due to environmental influence.[35]
+Environmental
+See also: Asthma-related microbes
+Many environmental factors have been associated with asthma's development and exacerbation including allergens, air pollution, and other environmental chemicals.[36] Smoking during pregnancy and after delivery is associated with a greater risk of asthma-like symptoms.[37] Low air quality from factors such as traffic pollution or high ozone levels[38] has been associated with both asthma development and increased asthma severity.[39] Over half of cases in children in the United States occur in areas with air quality below EPA standards.[40] Low air quality is more common in low-income and minority communities.[41]
+Exposure to indoor volatile organic compounds may be a trigger for asthma; formaldehyde exposure, for example, has a positive association.[42] Also, phthalates in certain types of PVC are associated with asthma in children and adults.[43][44] While exposure to pesticides is linked to the development of asthma it is unclear if this is a cause and effect relationship.[45][46]
+There is an association between acetaminophen (paracetamol) use and asthma.[47] The majority of the evidence does not, however, support a causal role.[48] A 2014 review found that the association disappeared when respiratory infections were taken into account.[49] Use by a mother during pregnancy is also associated with an increased risk as is psychological stress during pregnancy.[50][51]
+Asthma is associated with exposure to indoor allergens.[52] Common indoor allergens include dust mites, cockroaches, animal dander (fragments of fur or feathers), and mold.[53][54] Efforts to decrease dust mites have been found to be ineffective on symptoms in sensitized subjects.[55][56] Certain viral respiratory infections, such as respiratory syncytial virus and rhinovirus,[21] may increase the risk of developing asthma when acquired as young children.[57] Certain other infections, however, may decrease the risk.[21]
+Hygiene hypothesis
+The hygiene hypothesis attempts to explain the increased rates of asthma worldwide as a direct and unintended result of reduced exposure, during childhood, to non-pathogenic bacteria and viruses.[58][59] It has been proposed that the reduced exposure to bacteria and viruses is due, in part, to increased cleanliness and decreased family size in modern societies.[60] Exposure to bacterial endotoxin in early childhood may prevent the development of asthma, but exposure at an older age may provoke bronchoconstriction.[61] Evidence supporting the hygiene hypothesis includes lower rates of asthma on farms and in households with pets.[60]
+Use of antibiotics in early life has been linked to the development of asthma.[62] Also, delivery via caesarean section is associated with an increased risk (estimated at 20–80%) of asthma—this increased risk is attributed to the lack of healthy bacterial colonization that the newborn would have acquired from passage through the birth canal.[63][64] There is a link between asthma and the degree of affluence which may be related to the hygiene hypothesis as less affluent individuals often have more exposure to bacteria and viruses.[65]
+Genetic
+
+CD14-endotoxin interaction based on CD14 SNP C-159T[66]
+
+Endotoxin levels
+CC genotype
+TT genotype
+
+
+High exposure
+Low risk
+High risk
+
+
+Low exposure
+High risk
+Low risk
+
+
+Family history is a risk factor for asthma, with many different genes being implicated.[67] If one identical twin is affected, the probability of the other having the disease is approximately 25%.[67] By the end of 2005, 25 genes had been associated with asthma in six or more separate populations, including GSTM1, IL10, CTLA-4, SPINK5, LTC4S, IL4R and ADAM33, among others.[68] Many of these genes are related to the immune system or modulating inflammation. Even among this list of genes supported by highly replicated studies, results have not been consistent among all populations tested.[68] In 2006 over 100 genes were associated with asthma in one genetic association study alone;[68] more continue to be found.[69]
+Some genetic variants may only cause asthma when they are combined with specific environmental exposures.[4] An example is a specific single nucleotide polymorphism in the CD14 region and exposure to endotoxin (a bacterial product). Endotoxin exposure can come from several environmental sources including tobacco smoke, dogs, and farms. Risk for asthma, then, is determined by both a person's genetics and the level of endotoxin exposure.[66]
+Medical conditions
+A triad of atopic eczema, allergic rhinitis and asthma is called atopy.[70] The strongest risk factor for developing asthma is a history of atopic disease;[57] with asthma occurring at a much greater rate in those who have either eczema or hay fever.[71] Asthma has been associated with eosinophilic granulomatosis with polyangiitis (formerly known as Churg–Strauss syndrome), an autoimmune disease and vasculitis.[72] Individuals with certain types of urticaria may also experience symptoms of asthma.[70]
+There is a correlation between obesity and the risk of asthma with both having increased in recent years.[73][74] Several factors may be at play including decreased respiratory function due to a buildup of fat and the fact that adipose tissue leads to a pro-inflammatory state.[75]
+Beta blocker medications such as propranolol can trigger asthma in those who are susceptible.[76] Cardioselective beta-blockers, however, appear safe in those with mild or moderate disease.[77][78] Other medications that can cause problems in asthmatics are angiotensin-converting enzyme inhibitors, aspirin, and NSAIDs.[79]
+Exacerbation
+Some individuals will have stable asthma for weeks or months and then suddenly develop an episode of acute asthma. Different individuals react to various factors in different ways.[80] Most individuals can develop severe exacerbation from a number of triggering agents.[80]
+Home factors that can lead to exacerbation of asthma include dust, animal dander (especially cat and dog hair), cockroach allergens and mold.[80][81] Perfumes are a common cause of acute attacks in women and children. Both viral and bacterial infections of the upper respiratory tract can worsen the disease.[80] Psychological stress may worsen symptoms—it is thought that stress alters the immune system and thus increases the airway inflammatory response to allergens and irritants.[39][82]
+Pathophysiology
+Main article: Pathophysiology of asthma
+Asthma is the result of chronic inflammation of the conducting zone of the airways (most especially the bronchi and bronchioles), which subsequently results in increased contractability of the surrounding smooth muscles. This among other factors leads to bouts of narrowing of the airway and the classic symptoms of wheezing. The narrowing is typically reversible with or without treatment. Occasionally the airways themselves change.[22] Typical changes in the airways include an increase in eosinophils and thickening of the lamina reticularis. Chronically the airways' smooth muscle may increase in size along with an increase in the numbers of mucous glands. Other cell types involved include: T lymphocytes, macrophages, and neutrophils. There may also be involvement of other components of the immune system including: cytokines, chemokines, histamine, and leukotrienes among others.[21]
+
+
+
+
+
+
+
+Figure A shows the location of the lungs and airways in the body. Figure B shows a cross-section of a normal airway. Figure C shows a cross-section of an airway during asthma symptoms.
+
+
+
+
+
+
+
+
+
+Obstruction of the lumen of a bronchiole by mucoid exudate, goblet cell metaplasia, and epithelial basement membrane thickening in a person with asthma.
+
+
+
+
+
+
+
+
+
+Diagram of asthma
+
+
+
+
+Diagnosis
+While asthma is a well-recognized condition, there is not one universal agreed upon definition.[21] It is defined by the Global Initiative for Asthma as "a chronic inflammatory disorder of the airways in which many cells and cellular elements play a role. The chronic inflammation is associated with airway hyper-responsiveness that leads to recurrent episodes of wheezing, breathlessness, chest tightness and coughing particularly at night or in the early morning. These episodes are usually associated with widespread but variable airflow obstruction within the lung that is often reversible either spontaneously or with treatment".[22]
+There is currently no precise test for the diagnosis, which is typically based on the pattern of symptoms and response to therapy over time.[5][21] A diagnosis of asthma should be suspected if there is a history of recurrent wheezing, coughing or difficulty breathing and these symptoms occur or worsen due to exercise, viral infections, allergens or air pollution.[83] Spirometry is then used to confirm the diagnosis.[83] In children under the age of six the diagnosis is more difficult as they are too young for spirometry.[84]
+Spirometry
+Spirometry is recommended to aid in diagnosis and management.[85][86] It is the single best test for asthma. If the FEV1 measured by this technique improves more than 12% and increases by at least 200 milliliters following administration of a bronchodilator such as salbutamol, this is supportive of the diagnosis. It however may be normal in those with a history of mild asthma, not currently acting up.[21] As caffeine is a bronchodilator in people with asthma, the use of caffeine before a lung function test may interfere with the results.[87] Single-breath diffusing capacity can help differentiate asthma from COPD.[21] It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled.[88]
+Others
+The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed. If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease.[21]
+Other supportive evidence includes: a ≥20% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a ≥20% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a ≥20% decrease in peak flow following exposure to a trigger.[89] Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis. It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications. It may also be helpful in guiding treatment in those with acute exacerbations.[90]
+Classification
+
+Clinical classification (≥ 12 years old)[11]
+
+Severity
+Symptom frequency
+Night-time symptoms
+ %FEV1 of predicted
+FEV1 variability
+SABA use
+
+
+Intermittent
+≤2/week
+≤2/month
+≥80%
+<20%
+≤2 days/week
+
+
+Mild persistent
+>2/week
+3–4/month
+≥80%
+20–30%
+>2 days/week
+
+
+Moderate persistent
+Daily
+>1/week
+60–80%
+>30%
+daily
+
+
+Severe persistent
+Continuously
+Frequent (7/week)
+<60%
+>30%
+≥twice/day
+
+
+Asthma is clinically classified according to the frequency of symptoms, forced expiratory volume in one second (FEV1), and peak expiratory flow rate.[11] Asthma may also be classified as atopic (extrinsic) or non-atopic (intrinsic), based on whether symptoms are precipitated by allergens (atopic) or not (non-atopic).[12] While asthma is classified based on severity, at the moment there is no clear method for classifying different subgroups of asthma beyond this system.[91] Finding ways to identify subgroups that respond well to different types of treatments is a current critical goal of asthma research.[91]
+Although asthma is a chronic obstructive condition, it is not considered as a part of chronic obstructive pulmonary disease, as this term refers specifically to combinations of disease that are irreversible such as bronchiectasis, chronic bronchitis, and emphysema.[92] Unlike these diseases, the airway obstruction in asthma is usually reversible; however, if left untreated, the chronic inflammation from asthma can lead the lungs to become irreversibly obstructed due to airway remodeling.[93] In contrast to emphysema, asthma affects the bronchi, not the alveoli.[94]
+Asthma exacerbation
+
+Severity of an acute exacerbation[95]
+
+Near-fatal
+High PaCO2, or requiring mechanical ventilation, or both
+
+
+Life-threatening
+(any one of)
+
+
+Clinical signs
+Measurements
+
+
+Altered level of consciousness
+Peak flow < 33%
+
+
+Exhaustion
+Oxygen saturation < 92%
+
+
+Arrhythmia
+PaO2 < 8 kPa
+
+
+Low blood pressure
+"Normal" PaCO2
+
+
+Cyanosis
+
+
+
+Silent chest
+
+
+
+Poor respiratory effort
+
+
+
+Acute severe
+(any one of)
+
+
+Peak flow 33–50%
+
+
+Respiratory rate ≥ 25 breaths per minute
+
+
+Heart rate ≥ 110 beats per minute
+
+
+Unable to complete sentences in one breath
+
+
+Moderate
+Worsening symptoms
+
+
+Peak flow 50–80% best or predicted
+
+
+No features of acute severe asthma
+
+
+An acute asthma exacerbation is commonly referred to as an asthma attack. The classic symptoms are shortness of breath, wheezing, and chest tightness.[21] The wheezing is most often when breathing out.[96] While these are the primary symptoms of asthma,[97] some people present primarily with coughing, and in severe cases, air motion may be significantly impaired such that no wheezing is heard.[95] In children, chest pain is often present.[98]
+Signs occurring during an asthma attack include the use of accessory muscles of respiration (sternocleidomastoid and scalene muscles of the neck), there may be a paradoxical pulse (a pulse that is weaker during inhalation and stronger during exhalation), and over-inflation of the chest.[99] A blue color of the skin and nails may occur from lack of oxygen.[100]
+In a mild exacerbation the peak expiratory flow rate (PEFR) is ≥200 L/min, or ≥50% of the predicted best.[101] Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as ≤ 80 L/min, or ≤25% of the predicted best.[101]
+Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.[102] Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use.[102]
+Brittle asthma is a kind of asthma distinguishable by recurrent, severe attacks.[95] Type 1 brittle asthma is a disease with wide peak flow variability, despite intense medication. Type 2 brittle asthma is background well-controlled asthma with sudden severe exacerbations.[95]
+Exercise-induced
+Main article: Exercise-induced bronchoconstriction
+Exercise can trigger bronchoconstriction both in people with or without asthma.[103] It occurs in most people with asthma and up to 20% of people without asthma.[103] Exercise-induced bronchoconstriction is common in professional athletes. The highest rates are among cyclists (up to 45%), swimmers, and cross-country skiers.[104] While it may occur with any weather conditions, it is more common when it is dry and cold.[105] Inhaled beta2-agonists do not appear to improve athletic performance among those without asthma,[106] however, oral doses may improve endurance and strength.[107][108]
+Occupational
+Main article: Occupational asthma
+Asthma as a result of (or worsened by) workplace exposures is a commonly reported occupational disease.[109] Many cases, however, are not reported or recognized as such.[110][111] It is estimated that 5–25% of asthma cases in adults are work-related. A few hundred different agents have been implicated, with the most common being: isocyanates, grain and wood dust, colophony, soldering flux, latex, animals, and aldehydes. The employment associated with the highest risk of problems include: those who spray paint, bakers and those who process food, nurses, chemical workers, those who work with animals, welders, hairdressers and timber workers.[109]
+Aspirin-induced asthma
+Main article: Aspirin-induced asthma
+Aspirin-exacerbated respiratory disease, also known as aspirin-induced asthma, affects up to 9% of asthmatics.[112] Reactions may also occur to other NSAIDs.[113] People affected often also have trouble with nasal polyps.[113] In people who are affected, low doses paracetamol or COX-2 inhibitors are generally safe.[114]
+Alcohol-induced asthma
+Main article: Alcohol-induced respiratory reactions
+Alcohol may worsen asthmatic symptoms in up to a third of people.[115] This may be even more common in some ethnic groups such as the Japanese and those with aspirin-induced asthma.[115] Other studies have found improvement in asthmatic symptoms from alcohol.[115]
+Nonallergic asthma
+Nonallergic asthma, also known as intrinsic or nonatopic asthma, makes up between 10 and 33% of cases. There is negative skin test to common inhalant allergens and normal serum concentrations of IgE. Often it starts later in life, and women are more commonly affected than men. Usual treatments may not work as well.[116]
+Differential diagnosis
+Many other conditions can cause symptoms similar to those of asthma. In children, other upper airway diseases such as allergic rhinitis and sinusitis should be considered as well as other causes of airway obstruction including foreign body aspiration, tracheal stenosis, laryngotracheomalacia, vascular rings, enlarged lymph nodes or neck masses.[117] Bronchiolitis and other viral infections may also produce wheezing.[118] In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors should be considered. In both populations vocal cord dysfunction may present similarly.[117]
+Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma. After the age of 65, most people with obstructive airway disease will have asthma and COPD. In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi. However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.[119] It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy.[120][121]
+Prevention
+The evidence for the effectiveness of measures to prevent the development of asthma is weak.[122] The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, and the number of lower respiratory infections.[123] Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication.[122]
+Early pet exposure may be useful.[124] Results from exposure to pets at other times are inconclusive[125] and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet.[126]
+Dietary restrictions during pregnancy or when breast feeding have not been found to be effective and thus are not recommended.[126] Reducing or eliminating compounds known to sensitive people from the work place may be effective.[109] It is not clear if annual influenza vaccinations affects the risk of exacerbations.[127] Immunization; however, is recommended by the World Health Organization.[128] Smoking bans are effective in decreasing exacerbations of asthma.[129]
+Management
+While there is no cure for asthma, symptoms can typically be improved.[130] A specific, customized plan for proactively monitoring and managing symptoms should be created. This plan should include the reduction of exposure to allergens, testing to assess the severity of symptoms, and the usage of medications. The treatment plan should be written down and advise adjustments to treatment according to changes in symptoms.[131]
+The most effective treatment for asthma is identifying triggers, such as cigarette smoke, pets, or aspirin, and eliminating exposure to them. If trigger avoidance is insufficient, the use of medication is recommended. Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories.[132][133]
+Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present (more than two attacks a week), low-dose inhaled corticosteroids or alternatively, an leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments.[7]
+Lifestyle modification
+Avoidance of triggers is a key component of improving control and preventing attacks. The most common triggers include allergens, smoke (tobacco and other), air pollution, non selective beta-blockers, and sulfite-containing foods.[134][135] Cigarette smoking and second-hand smoke (passive smoke) may reduce the effectiveness of medications such as corticosteroids.[136] Laws that limit smoking decrease the number of people hospitalized for asthma.[137] Dust mite control measures, including air filtration, chemicals to kill mites, vacuuming, mattress covers and others methods had no effect on asthma symptoms.[55] Overall, exercise is beneficial in people with stable asthma.[138] Yoga could provide small improvements in quality of life and symptoms in people with asthma.[139]
+Medications
+Medications used to treat asthma are divided into two general classes: quick-relief medications used to treat acute symptoms; and long-term control medications used to prevent further exacerbation.[132] Antibiotics are generally not needed for sudden worsening of symptoms.[140]
+Fast–acting
+
+
+
+
+Salbutamol metered dose inhaler commonly used to treat asthma attacks.
+
+
+
+Short-acting beta2-adrenoceptor agonists (SABA), such as salbutamol (albuterol USAN) are the first line treatment for asthma symptoms.[7] They are recommended before exercise in those with exercise induced symptoms.[141]
+Anticholinergic medications, such as ipratropium bromide, provide additional benefit when used in combination with SABA in those with moderate or severe symptoms.[7] Anticholinergic bronchodilators can also be used if a person cannot tolerate a SABA.[92] If a child requires admission to hospital additional ipratropium does not appear to help over a SABA.[142]
+Older, less selective adrenergic agonists, such as inhaled epinephrine, have similar efficacy to SABAs.[143] They are however not recommended due to concerns regarding excessive cardiac stimulation.[144]
+
+Long–term control
+
+
+
+
+Fluticasone propionate metered dose inhaler commonly used for long-term control.
+
+
+
+Corticosteroids are generally considered the most effective treatment available for long-term control.[132] Inhaled forms such as beclomethasone are usually used except in the case of severe persistent disease, in which oral corticosteroids may be needed.[132] It is usually recommended that inhaled formulations be used once or twice daily, depending on the severity of symptoms.[145]
+Long-acting beta-adrenoceptor agonists (LABA) such as salmeterol and formoterol can improve asthma control, at least in adults, when given in combination with inhaled corticosteroids.[146] In children this benefit is uncertain.[146][147] When used without steroids they increase the risk of severe side-effects[148] and even with corticosteroids they may slightly increase the risk.[149][150]
+Leukotriene receptor antagonists (such as montelukast and zafirlukast) may be used in addition to inhaled corticosteroids, typically also in conjunction with a LABA.[16][132] Evidence is insufficient to support use in acute exacerbations.[151][152] In children they appear to be of little benefit when added to inhaled steroids,[153] and the same applies in adolescents and adults.[154] They are useful by themselves.[155] In those under five years of age, they were the preferred add-on therapy after inhaled corticosteroids by the British Thoracic Society in 2009.[156] A similar class of drugs, 5-LOX inhibitors, may be used as an alternative in the chronic treatment of mild to moderate asthma among older children and adults.[16][157] As of 2013 there is one medication in this family known as zileuton.[16]
+Mast cell stabilizers (such as cromolyn sodium) are another non-preferred alternative to corticosteroids.[132]
+
+Delivery methods
+Medications are typically provided as metered-dose inhalers (MDIs) in combination with an asthma spacer or as a dry powder inhaler. The spacer is a plastic cylinder that mixes the medication with air, making it easier to receive a full dose of the drug. A nebulizer may also be used. Nebulizers and spacers are equally effective in those with mild to moderate symptoms. However, insufficient evidence is available to determine whether a difference exists in those with severe disease.[158]
+Adverse effects
+Long-term use of inhaled corticosteroids at conventional doses carries a minor risk of adverse effects.[159] Risks include thrush, the development of cataracts, and a slightly slowed rate of growth.[159][160][161] Higher doses of inhaled steroids may result in lower bone mineral density.[162]
+Others
+When asthma is unresponsive to usual medications, other options are available for both emergency management and prevention of flareups. For emergency management other options include:
+
+Oxygen to alleviate hypoxia if saturations fall below 92%.[163]
+Corticosteroid by mouth are recommended with five days of prednisone being the same 2 days of dexamethasone.[164] One review recommended a seven-day course of steroids.[165]
+Magnesium sulfate intravenous treatment increases bronchodilation when used in addition to other treatment in moderate severe acute asthma attacks.[17][166][167] In adults it results in a reduction of hospital admissions.[168]
+Heliox, a mixture of helium and oxygen, may also be considered in severe unresponsive cases.[17]
+Intravenous salbutamol is not supported by available evidence and is thus used only in extreme cases.[163]
+Methylxanthines (such as theophylline) were once widely used, but do not add significantly to the effects of inhaled beta-agonists.[163] Their use in acute exacerbations is controversial.[169]
+The dissociative anesthetic ketamine is theoretically useful if intubation and mechanical ventilation is needed in people who are approaching respiratory arrest; however, there is no evidence from clinical trials to support this.[170]
+For those with severe persistent asthma not controlled by inhaled corticosteroids and LABAs, bronchial thermoplasty may be an option.[171] It involves the delivery of controlled thermal energy to the airway wall during a series of bronchoscopies.[171][172] While it may increase exacerbation frequency in the first few months it appears to decrease the subsequent rate. Effects beyond one year are unknown.[173]
+Evidence suggests that sublingual immunotherapy in those with both allergic rhinitis and asthma improve outcomes.[174]
+Omalizumab may also be useful in those with poorly controlled allergic asthma.[175]
+It is unclear if non-invasive positive pressure ventilation in children is of use as it has not been sufficiently studied.[176]
+
+Alternative medicine
+Many people with asthma, like those with other chronic disorders, use alternative treatments; surveys show that roughly 50% use some form of unconventional therapy.[177][178] There is little data to support the effectiveness of most of these therapies. Evidence is insufficient to support the usage of Vitamin C.[179] There is tentative support for its use in exercise induced bronchospasm.[180] In people with mild to moderate asthma, treatment with vitamin D supplementation is likely to reduce the risk of asthma exacerbations.[181]
+Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use.[182][183] Air ionisers show no evidence that they improve asthma symptoms or benefit lung function; this applied equally to positive and negative ion generators.[184]
+Manual therapies, including osteopathic, chiropractic, physiotherapeutic and respiratory therapeutic maneuvers, have insufficient evidence to support their use in treating asthma.[185] The Buteyko breathing technique for controlling hyperventilation may result in a reduction in medication use; however, the technique does not have any effect on lung function.[133] Thus an expert panel felt that evidence was insufficient to support its use.[182]
+Prognosis
+
+
+
+
+Asthma deaths per million persons in 2012
+
+  0–10
+  11–13
+  14–17
+  18–23
+  24–32
+  33–43
+  44–50
+  51–66
+  67–95
+  96–251
+
+
+
+
+
+
+
+
+Disability-adjusted life year for asthma per 100,000 inhabitants in 2004.[186]
+
+
+
+
+  no data
+  <100
+  100–150
+  150–200
+  200–250
+  250–300
+  300–350
+
+
+  350–400
+  400–450
+  450–500
+  500–550
+  550–600
+  >600
+
+
+
+
+
+
+
+The prognosis for asthma is generally good, especially for children with mild disease.[187] Mortality has decreased over the last few decades due to better recognition and improvement in care.[188] In 2010 the death rate was 170 per million for males and 90 per million for females.[189] Rates vary between countries by 100 fold.[189]
+Globally it causes moderate or severe disability in 19.4 million people as of 2004 (16 million of which are in low and middle income countries).[190] Of asthma diagnosed during childhood, half of cases will no longer carry the diagnosis after a decade.[67] Airway remodeling is observed, but it is unknown whether these represent harmful or beneficial changes.[191] Early treatment with corticosteroids seems to prevent or ameliorates a decline in lung function.[192] Asthma in children also has negative effects on quality of life of their parents.[193]
+Epidemiology
+Main article: Epidemiology of asthma
+
+
+
+
+Rates of asthma in different countries of the world as of 2004.
+
+
+
+
+  no data
+  <1%
+  1–2%
+  2–3%
+  3–4%
+  4–5%
+  5–6%
+
+
+  6–7%
+  7–8%
+  8–10%
+  10–12.5%
+  12.5–15%
+  >15%
+
+
+
+
+
+
+
+As of 2011, 235–330 million people worldwide are affected by asthma,[194][195][196] and approximately 250,000–345,000 people die per year from the disease.[22][197] Rates vary between countries with prevalences between 1 and 18%.[22] It is more common in developed than developing countries.[22] One thus sees lower rates in Asia, Eastern Europe and Africa.[21] Within developed countries it is more common in those who are economically disadvantaged while in contrast in developing countries it is more common in the affluent.[22] The reason for these differences is not well known.[22] Low and middle income countries make up more than 80% of the mortality.[198]
+While asthma is twice as common in boys as girls,[22] severe asthma occurs at equal rates.[199] In contrast adult women have a higher rate of asthma than men[22] and it is more common in the young than the old.[21] In children, asthma was the most common reason for admission to the hospital following an emergency department visit in the US in 2011.[200]
+Global rates of asthma have increased significantly between the 1960s and 2008[19][201] with it being recognized as a major public health problem since the 1970s.[21] Rates of asthma have plateaued in the developed world since the mid-1990s with recent increases primarily in the developing world.[202] Asthma affects approximately 7% of the population of the United States[148] and 5% of people in the United Kingdom.[203] Canada, Australia and New Zealand have rates of about 14–15%.[204]
+Economics
+From 2000 to 2010, the average cost per asthma-related hospital stay in the United States for children remained relatively stable at about $3,600, whereas the average cost per asthma-related hospital stay for adults increased from $5,200 to $6,600.[205] In 2010, Medicaid was the most frequent primary payer among children and adults aged 18–44 years in the United States; private insurance was the second most frequent payer.[205] Among both children and adults in the lowest income communities in the United States there is a higher rate of hospital stays for asthma in 2010 than those in the highest income communities.[205]
+History
+
+
+
+
+Ebers Papyrus detailing treatment of asthma
+
+
+Asthma was recognized in Ancient Egypt and was treated by drinking an incense mixture known as kyphi.[20] It was officially named as a specific respiratory problem by Hippocrates circa 450 BC, with the Greek word for "panting" forming the basis of our modern name.[21] In 200 BC it was believed to be at least partly related to the emotions.[29] In the 12th century the Jewish physician-philosopher Maimonides wrote a treatise on asthma in Arabic, based partly on Arabic sources, in which he discussed the symptoms, proposed various dietary and other means of treatment, and emphasized the importance of climate and clean air.[206]
+
+
+
+
+1907 advertisement for Grimault's Indian Cigarettes, emphasising their alleged efficacy for the relief of asthma
+
+
+In 1873, one of the first papers in modern medicine on the subject tried to explain the pathophysiology of the disease while one in 1872, concluded that asthma can be cured by rubbing the chest with chloroform liniment.[207][208] Medical treatment in 1880, included the use of intravenous doses of a drug called pilocarpin.[209] In 1886, F.H. Bosworth theorized a connection between asthma and hay fever.[210] Epinephrine was first referred to in the treatment of asthma in 1905.[211] Oral corticosteroids began to be used for this condition in the 1950s while inhaled corticosteroids and selective short acting beta agonist came into wide use in the 1960s.[212][213]
+A notable and well-documented case in the 19th century was that of young Theodore Roosevelt (1858–1919). At that time there was no effective treatment. Roosevelt's youth was in large part shaped by his poor health partly related to his asthma. He experienced recurring nighttime asthma attacks that caused the experience of being smothered to death, terrifying the boy and his parents.[214]
+During the 1930s to 1950s, asthma was known as one of the "holy seven" psychosomatic illnesses. Its cause was considered to be psychological, with treatment often based on psychoanalysis and other talking cures.[215] As these psychoanalysts interpreted the asthmatic wheeze as the suppressed cry of the child for its mother, they considered the treatment of depression to be especially important for individuals with asthma.[215]
+
+References
+
+
+
+^ GINA 2011, p. 18
+^ a b British Guideline 2009, p. 4
+^ a b c d e f g h i j "Asthma Fact sheet №307". WHO. November 2013. Archived from the original on June 29, 2011. Retrieved 3 March 2016. 
+^ a b c d Martinez F. D. (2007). "Genes, environments, development and asthma: a reappraisal". European Respiratory Journal. 29 (1): 179–84. doi:10.1183/09031936.00087906. PMID 17197483. 
+^ a b c Lemanske, R. F.; Busse, W. W. (February 2010). "Asthma: clinical expression and molecular mechanisms". J. Allergy Clin. Immunol. 125 (2 Suppl 2): S95–102. doi:10.1016/j.jaci.2009.10.047. PMC 2853245 . PMID 20176271. 
+^ a b NHLBI Guideline 2007, pp. 169–172
+^ a b c d e NHLBI Guideline 2007, p. 214
+^ a b GBD 2015 Disease and Injury Incidence and Prevalence, Collaborators. (8 October 2016). "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990–2015: a systematic analysis for the Global Burden of Disease Study 2015". Lancet. 388 (10053): 1545–1602. doi:10.1016/S0140-6736(16)31678-6. PMC 5055577 . PMID 27733282. 
+^ a b GBD 2015 Mortality and Causes of Death, Collaborators. (8 October 2016). "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980–2015: a systematic analysis for the Global Burden of Disease Study 2015". Lancet. 388 (10053): 1459–1544. doi:10.1016/S0140-6736(16)31012-1. PMID 27733281. 
+^ NHLBI Guideline 2007, pp. 11–12
+^ a b c Yawn B. P. (September 2008). "Factors accounting for asthma variability: achieving optimal symptom control for individual patients" (PDF). Primary Care Respiratory Journal. 17 (3): 138–147. doi:10.3132/pcrj.2008.00004. PMID 18264646. Archived (PDF) from the original on 2010-03-04. 
+^ a b Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson; Aster, Jon, eds. (2010). Robbins and Cotran pathologic basis of disease (8th ed.). Saunders. p. 688. ISBN 978-1-4160-3121-5. OCLC 643462931. 
+^ Stedman's Medical Dictionary (28 ed.). Lippincott Williams and Wilkins. 2005. ISBN 0-7817-3390-1. 
+^ GINA 2011, p. 71
+^ GINA 2011, p. 33
+^ a b c d Scott J. P., Peters-Golden M. (September 2013). "Antileukotriene agents for the treatment of lung disease". Am. J. Respir. Crit. Care Med. 188 (5): 538–544. doi:10.1164/rccm.201301-0023PP. PMID 23822826. CS1 maint: Uses authors parameter (link)
+^ a b c NHLBI Guideline 2007, pp. 373–375
+^ Global Burden of Disease Study 2013, Collaborators (22 August 2015). "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013". Lancet. 386 (9995): 743–800. doi:10.1016/s0140-6736(15)60692-4. PMC 4561509 . PMID 26063472. 
+^ a b Anandan C., Nurmatov U., van Schayck O. C., Sheikh A. (February 2010). "Is the prevalence of asthma declining? Systematic review of epidemiological studies". Allergy. 65 (2): 152–67. doi:10.1111/j.1398-9995.2009.02244.x. PMID 19912154. CS1 maint: Uses authors parameter (link)
+^ a b Manniche L. (1999). Sacred luxuries: fragrance, aromatherapy, and cosmetics in ancient Egypt. Cornell University Press. pp. 49. ISBN 978-0-8014-3720-5. 
+^ a b c d e f g h i j k l m n Murray, John F. (2010). "Ch. 38 Asthma". In Mason, Robert J.; Murray, John F.; Broaddus, V. Courtney; Nadel, Jay A.; Martin, Thomas R.; King, Jr., Talmadge E.; Schraufnagel, Dean E. Murray and Nadel's textbook of respiratory medicine (5th ed.). Elsevier. ISBN 1-4160-4710-7. 
+^ a b c d e f g h i j GINA 2011, pp. 2–5
+^ Jindal, editor-in-chief SK (2011). Textbook of pulmonary and critical care medicine. New Delhi: Jaypee Brothers Medical Publishers. p. 242. ISBN 978-93-5025-073-0. Archived from the original on 2016-04-24. CS1 maint: Extra text: authors list (link)
+^ George, Ronald B. (2005). Chest medicine : essentials of pulmonary and critical care medicine (5th ed.). Philadelphia, PA: Lippincott Williams & Wilkins. p. 62. ISBN 978-0-7817-5273-2. Archived from the original on 2016-05-05. 
+^ British Guideline 2009, p. 14
+^ GINA 2011, pp. 8–9
+^ Boulet L. P. (April 2009). "Influence of comorbid conditions on asthma". European Respiratory Journal. 33 (4): 897–906. doi:10.1183/09031936.00121308. PMID 19336592. 
+^ Boulet, L. P.; Boulay, M. È. (June 2011). "Asthma-related comorbidities". Expert review of respiratory medicine. 5 (3): 377–93. doi:10.1586/ers.11.34. PMID 21702660. 
+^ a b editors, Andrew Harver, Harry Kotses (2010). Asthma, health and society a public health perspective. New York: Springer. p. 315. ISBN 978-0-387-78285-0. Archived from the original on 2016-05-12. 
+^ Thomas, M.; Bruton, A.; Moffat, M.; Cleland, J. (September 2011). "Asthma and psychological dysfunction". Primary care respiratory journal : journal of the General Practice Airways Group. 20 (3): 250–6. doi:10.4104/pcrj.2011.00058. PMID 21674122. 
+^ Webb, edited by Henrik S. Thomsen, Judith A. W. (2014). Contrast media : safety issues and ESUR guidelines (Third ed.). Dordrecht: Springer. p. 54. ISBN 978-3-642-36724-3. Archived from the original on 2017-09-08. CS1 maint: Extra text: authors list (link)
+^ Miller, RL; Ho SM (March 2008). "Environmental epigenetics and asthma: current concepts and call for studies". American Journal of Respiratory and Critical Care Medicine. 177 (6): 567–573. doi:10.1164/rccm.200710-1511PP. PMC 2267336 . PMID 18187692. 
+^ Choudhry S; Seibold MA; Borrell LN; et al. (2007). "Dissecting complex diseases in complex populations: asthma in latino americans". Proc Am Thorac Soc. 4 (3): 226–33. doi:10.1513/pats.200701-029AW. PMC 2647623 . PMID 17607004. 
+^ Dietert, RR (September 2011). "Maternal and childhood asthma: risk factors, interactions, and ramifications". Reproductive toxicology (Elmsford, N.Y.). 32 (2): 198–204. doi:10.1016/j.reprotox.2011.04.007. PMID 21575714. 
+^ Tan, DJ; Walters, EH; Perret, JL; Lodge, CJ; Lowe, AJ; Matheson, MC; Dharmage, SC (February 2015). "Age-of-asthma onset as a determinant of different asthma phenotypes in adults: a systematic review and meta-analysis of the literature". Expert review of respiratory medicine. 9 (1): 109–23. doi:10.1586/17476348.2015.1000311. PMID 25584929. 
+^ Kelly, FJ; Fussell, JC (August 2011). "Air pollution and airway disease". Clinical and Experimental Allergy. 41 (8): 1059–71. doi:10.1111/j.1365-2222.2011.03776.x. PMID 21623970. 
+^ GINA 2011, p. 6
+^ GINA 2011, p. 61
+^ a b Gold, D.R.; Wright, R. (2005). "Population disparities in asthma". Annu Rev Public Health. 26: 89–113. doi:10.1146/annurev.publhealth.26.021304.144528. PMID 15760282. 
+^ American Lung, Association (June 2001). "Urban air pollution and health inequities: a workshop report". Environmental Health Perspectives. 109 Suppl 3: 357–74. doi:10.1289/ehp.01109s3357. PMC 1240553 . PMID 11427385. 
+^ Brooks, Nancy; Sethi, Rajiv (February 1997). "The Distribution of Pollution: Community Characteristics and Exposure to Air Toxics". Journal of Environmental Economics and Management. 32 (2): 233–250. doi:10.1006/jeem.1996.0967 – via Elsevier Science Direct. 
+^ McGwin, G; Lienert, J; Kennedy, JI (March 2010). "Formaldehyde exposure and asthma in children: a systematic review". Environmental Health Perspectives. 118 (3): 313–7. doi:10.1289/ehp.0901143. PMC 2854756 . PMID 20064771. 
+^ Jaakkola, J.J.; Knight, T.L. (July 2008). "The role of exposure to phthalates from polyvinyl chloride products in the development of asthma and allergies: a systematic review and meta-analysis". Environ Health Perspect. 116 (7): 845–53. doi:10.1289/ehp.10846. PMC 2453150 . PMID 18629304. 
+^ Bornehag, CG; Nanberg, E (April 2010). "Phthalate exposure and asthma in children". International journal of andrology. 33 (2): 333–45. doi:10.1111/j.1365-2605.2009.01023.x. PMID 20059582. 
+^ Mamane, A; Baldi, I; Tessier, JF; Raherison, C; Bouvier, G (June 2015). "Occupational exposure to pesticides and respiratory health". European Respiratory Review. 24 (136): 306–19. PMID 26028642. 
+^ Mamane, A; Raherison, C; Tessier, JF; Baldi, I; Bouvier, G (September 2015). "Environmental exposure to pesticides and respiratory health". European Respiratory Review. 24 (137): 462–73. PMID 26324808. 
+^ Henderson, AJ; Shaheen, SO (Mar 2013). "Acetaminophen and asthma". Paediatric Respiratory Reviews. 14 (1): 9–15; quiz 16. doi:10.1016/j.prrv.2012.04.004. PMID 23347656. 
+^ Heintze, K; Petersen, KU (Jun 2013). "The case of drug causation of childhood asthma: antibiotics and paracetamol". European journal of clinical pharmacology. 69 (6): 1197–209. doi:10.1007/s00228-012-1463-7. PMC 3651816 . PMID 23292157. 
+^ Cheelo, M; Lodge, CJ; Dharmage, SC; Simpson, JA; Matheson, M; Heinrich, J; Lowe, AJ (26 November 2014). "Paracetamol exposure in pregnancy and early childhood and development of childhood asthma: a systematic review and meta-analysis". Archives of Disease in Childhood. 100: 81–9. doi:10.1136/archdischild-2012-303043. PMID 25429049. 
+^ Eyers, S; Weatherall, M; Jefferies, S; Beasley, R (Apr 2011). "Paracetamol in pregnancy and the risk of wheezing in offspring: a systematic review and meta-analysis". Clinical and Experimental Allergy. 41 (4): 482–9. doi:10.1111/j.1365-2222.2010.03691.x. PMID 21338428. 
+^ van de Loo, KF; van Gelder, MM; Roukema, J; Roeleveld, N; Merkus, PJ; Verhaak, CM (January 2016). "Prenatal maternal psychological stress and childhood asthma and wheezing: a meta-analysis". The European respiratory journal. 47 (1): 133–46. doi:10.1183/13993003.00299-2015. PMID 26541526. 
+^ Ahluwalia, SK; Matsui, EC (April 2011). "The indoor environment and its effects on childhood asthma". Current Opinion in Allergy and Clinical Immunology. 11 (2): 137–43. doi:10.1097/ACI.0b013e3283445921. PMID 21301330. 
+^ Arshad, SH (January 2010). "Does exposure to indoor allergens contribute to the development of asthma and allergy?". Current allergy and asthma reports. 10 (1): 49–55. doi:10.1007/s11882-009-0082-6. PMID 20425514. 
+^ Custovic, A; Simpson, A (2012). "The role of inhalant allergens in allergic airways disease". Journal of Investigational Allergology and Clinical Immunology. 22 (6): 393–401; qiuz follow 401. PMID 23101182. 
+^ a b PC Gøtzsche; HK Johansen (2008). Gøtzsche, Peter C, ed. "House dust mite control measures for asthma". Cochrane Database of Systematic Reviews (2): CD001187. doi:10.1002/14651858.CD001187.pub3. PMID 18425868. 
+^ Calderon, Moises; et al. (2015). "Respiratory allergy caused by house dust mites: What do we really know?". Journal of Allergy and Clinical Immunology. 136: 38–48. doi:10.1016/j.jaci.2014.10.012. 
+^ a b NHLBI Guideline 2007, p. 11
+^ Ramsey, CD; Celedón JC (January 2005). "The hygiene hypothesis and asthma". Current Opinion in Pulmonary Medicine. 11 (1): 14–20. doi:10.1097/01.mcp.0000145791.13714.ae. PMID 15591883. 
+^ Bufford, JD; Gern JE (May 2005). "The hygiene hypothesis revisited". Immunology and Allergy Clinics of North America. 25 (2): 247–262. doi:10.1016/j.iac.2005.03.005. PMID 15878454. 
+^ a b Brooks, C; Pearce, N; Douwes, J (February 2013). "The hygiene hypothesis in allergy and asthma: an update". Current Opinion in Allergy and Clinical Immunology. 13 (1): 70–7. doi:10.1097/ACI.0b013e32835ad0d2. PMID 23103806. 
+^ Rao, D; Phipatanakul, W (October 2011). "Impact of environmental controls on childhood asthma". Current allergy and asthma reports. 11 (5): 414–20. doi:10.1007/s11882-011-0206-7. PMC 3166452 . PMID 21710109. 
+^ Murk, W; Risnes, KR; Bracken, MB (June 2011). "Prenatal or early-life exposure to antibiotics and risk of childhood asthma: a systematic review". Pediatrics. 127 (6): 1125–38. doi:10.1542/peds.2010-2092. PMID 21606151. 
+^ British Guideline 2009, p. 72
+^ Neu, J; Rushing, J (June 2011). "Cesarean versus vaginal delivery: long-term infant outcomes and the hygiene hypothesis". Clinics in perinatology. 38 (2): 321–31. doi:10.1016/j.clp.2011.03.008. PMC 3110651 . PMID 21645799. 
+^ Von Hertzen, LC; Haahtela, T (February 2004). "Asthma and atopy -the price of affluence?". Allergy. 59 (2): 124–37. doi:10.1046/j.1398-9995.2003.00433.x. PMID 14763924. 
+^ a b Martinez FD (2007). "CD14, endotoxin, and asthma risk: actions and interactions". Proc Am Thorac Soc. 4 (3): 221–5. doi:10.1513/pats.200702-035AW. PMC 2647622 . PMID 17607003. 
+^ a b c Elward, Graham Douglas, Kurtis S. (2010). Asthma. London: Manson Pub. pp. 27–29. ISBN 978-1-84076-513-7. Archived from the original on 2016-05-17. 
+^ a b c Ober C, Hoffjan S (2006). "Asthma genetics 2006: the long and winding road to gene discovery". Genes Immun. 7 (2): 95–100. doi:10.1038/sj.gene.6364284. PMID 16395390. 
+^ Halapi, E; Bjornsdottir, US (January 2009). "Overview on the current status of asthma genetics". The clinical respiratory journal. 3 (1): 2–7. doi:10.1111/j.1752-699X.2008.00119.x. PMID 20298365. 
+^ a b Rapini, Ronald P.; Bolognia, Jean L.; Jorizzo, Joseph L. (2007). Dermatology: 2-Volume Set. St. Louis: Mosby. ISBN 1-4160-2999-0. 
+^ GINA 2011, p. 4
+^ J. C. Jennette; R. J. Falk; P. A. Bacon; et al. (January 2013). "2012 Revised International Chapel Hill Consensus Conference Nomenclature of Vasculitides". Arthritis & Rheumatism. 65 (1): 1–11. doi:10.1002/art.37715. PMID 23045170. Archived from the original on 2016-08-09. 
+^ Beuther DA (January 2010). "Recent insight into obesity and asthma". Current Opinion in Pulmonary Medicine. 16 (1): 64–70. doi:10.1097/MCP.0b013e3283338fa7. PMID 19844182. 
+^ Holguin F, Fitzpatrick A (March 2010). "Obesity, asthma, and oxidative stress". J. Appl. Physiol. 108 (3): 754–9. doi:10.1152/japplphysiol.00702.2009. PMID 19926826. 
+^ Wood LG, Gibson PG (July 2009). "Dietary factors lead to innate immune activation in asthma". Pharmacol. Ther. 123 (1): 37–53. doi:10.1016/j.pharmthera.2009.03.015. PMID 19375453. 
+^ O'Rourke ST (October 2007). "Antianginal actions of beta-adrenoceptor antagonists". Am J Pharm Educ. 71 (5): 95. doi:10.5688/aj710595. PMC 2064893 . PMID 17998992. 
+^ Salpeter, S; Ormiston, T; Salpeter, E (2002). "Cardioselective beta-blockers for reversible airway disease". The Cochrane database of systematic reviews (4): CD002992. doi:10.1002/14651858.CD002992. PMID 12519582. 
+^ Morales, DR; Jackson, C; Lipworth, BJ; Donnan, PT; Guthrie, B (Nov 7, 2013). "Adverse respiratory effect of acute beta-blocker exposure in asthma: a systematic review and meta-analysis of randomized controlled trials". Chest. 145 (4): 779–86. doi:10.1378/chest.13-1235. PMID 24202435. 
+^ Covar, RA; Macomber, BA; Szefler, SJ (February 2005). "Medications as asthma triggers". Immunology and allergy clinics of North America. 25 (1): 169–90. doi:10.1016/j.iac.2004.09.009. PMID 15579370. 
+^ a b c d Baxi SN, Phipatanakul W (April 2010). "The role of allergen exposure and avoidance in asthma". Adolesc Med State Art Rev. 21 (1): 57–71, viii–ix. PMC 2975603 . PMID 20568555. 
+^ Sharpe, RA; Bearman, N; Thornton, CR; Husk, K; Osborne, NJ (January 2015). "Indoor fungal diversity and asthma: a meta-analysis and systematic review of risk factors". The Journal of Allergy and Clinical Immunology. 135 (1): 110–22. doi:10.1016/j.jaci.2014.07.002. PMID 25159468. 
+^ Chen E, Miller GE (2007). "Stress and inflammation in exacerbations of asthma". Brain Behav Immun. 21 (8): 993–9. doi:10.1016/j.bbi.2007.03.009. PMC 2077080 . PMID 17493786. 
+^ a b NHLBI Guideline 2007, p. 42
+^ GINA 2011, p. 20
+^ American Academy of Allergy, Asthma, and Immunology. "Five things physicians and patients should question" (PDF). Choosing wisely: an initiative of the ABIM Foundation. American Academy of Allergy, Asthma, and Immunology. Archived from the original (PDF) on November 3, 2012. Retrieved August 14, 2012. CS1 maint: Uses authors parameter (link)
+^ Third Expert Panel on the Diagnosis and Management of Asthma (2007). Guidelines for the diagnosis and management of asthma. National Heart, Lung, and Blood Institute (US). 07-4051. Archived from the original on 2011-08-27. CS1 maint: Uses authors parameter (link)
+^ Welsh, EJ.; Bara, A.; Barley, E.; Cates, CJ. (2010). Welsh, Emma J, ed. "Caffeine for asthma". Cochrane Database of Systematic Reviews (1): CD001112. doi:10.1002/14651858.CD001112.pub2. PMID 20091514. 
+^ NHLBI Guideline 2007, p. 58
+^ Pinnock H, Shah R (2007). "Asthma". BMJ. 334 (7598): 847–50. doi:10.1136/bmj.39140.634896.BE. PMC 1853223 . PMID 17446617. 
+^ NHLBI Guideline 2007, p. 59
+^ a b Moore W. C., Pascual R. M. (June 2010). "Update in asthma 2009". American Journal of Respiratory and Critical Care Medicine. 181 (11): 1181–7. doi:10.1164/rccm.201003-0321UP. PMC 3269238 . PMID 20516492. CS1 maint: Uses authors parameter (link)
+^ a b Self, Timothy; Chrisman, Cary; Finch, Christopher (2009). "22. Asthma". In Mary Anne Koda-Kimble, Brian K. Alldredge; et al. Applied therapeutics: the clinical use of drugs (9th ed.). Philadelphia: Lippincott Williams & Wilkins. OCLC 230848069. 
+^ Delacourt, C. (June 2004). "Conséquences bronchiques de l'asthme non traité" [Bronchial changes in untreated asthma]. Archives de Pédiatrie. 11 (Suppl. 2): 71s–73s. doi:10.1016/S0929-693X(04)90003-6. PMID 15301800. 
+^ Schiffman, George (18 December 2009). "Chronic obstructive pulmonary disease". MedicineNet. Archived from the original on 28 August 2010. Retrieved 2 September 2010. 
+^ a b c d British Guideline 2009, p. 54
+^ Current Review of Asthma. London: Current Medicine Group. 2003. p. 42. ISBN 978-1-4613-1095-2. Archived from the original on 2017-09-08. 
+^ Barnes, P. J. (2008). "Asthma". In Fauci, Anthony S.; Braunwald, E.; Kasper, D. L. Harrison's Principles of Internal Medicine (17th ed.). New York: McGraw-Hill. pp. 1596–1607. ISBN 978-0-07-146633-2. 
+^ McMahon, Maureen (2011). Pediatrics a competency-based companion. Philadelphia, PA: Saunders/Elsevier. ISBN 978-1-4160-5350-7. 
+^ Maitre B., Similowski T., Derenne J. P. (September 1995). "Physical examination of the adult patient with respiratory diseases: inspection and palpation". European Respiratory Journal. 8 (9): 1584–93. PMID 8575588. Archived from the original on 2015-04-29. CS1 maint: Uses authors parameter (link)
+^ Werner, H. A. (June 2001). "Status asthmaticus in children: a review". Chest. 119 (6): 1596–1607. doi:10.1378/chest.119.6.1913. PMID 11399724. 
+^ a b Shiber J. R., Santana J. (May 2006). "Dyspnea". Med. Clin. North Am. 90 (3): 453–79. doi:10.1016/j.mcna.2005.11.006. PMID 16473100. CS1 maint: Uses authors parameter (link)
+^ a b Shah, R.; Saltoun, C. A. (May–Jun 2012). "Chapter 14: Acute severe asthma (status asthmaticus)". Allergy and Asthma Proceedings. 33 Suppl 1 (3): S47–50. doi:10.2500/aap.2012.33.3547. PMID 22794687. 
+^ a b Khan, D. A. (Jan–Feb 2012). "Exercise-induced bronchoconstriction: burden and prevalence". Allergy and Asthma Proceedings. 33 (1): 1–6. doi:10.2500/aap.2012.33.3507. PMID 22370526. 
+^ Wuestenfeld, J. C.; Wolfarth B. (Jan 2013). "Special considerations for adolescent athletic and asthmatic patients". Open Access Journal of Sports Medicine. 4: 1–7. doi:10.2147/OAJSM.S23438. PMC 3871903 . PMID 24379703. 
+^ GINA 2011, p. 17
+^ Carlsen, K. H.; Anderson, S. D.; Bjermer, L.; Bonini, S.; Brusasco, V.; Canonica, W.; Cummiskey, J.; Delgado, L.; Del Giacco, S. R.; Drobnic, F.; Haahtela, T.; Larsson, K.; Palange, P.; Popov, T.; van Cauwenberge, P. (May 2008). European Respiratory, Society; European Academy of Allergy and Clinical, Immunology; GA(2)LEN. "Treatment of exercise-induced asthma, respiratory and allergic disorders in sports and the relationship to doping: Part II of the report from the Joint Task Force of European Respiratory Society (ERS) and European Academy of Allergy and Clinical Immunology (EAACI) in cooperation with GA(2)LEN". Allergy. 63 (5): 492–505. doi:10.1111/j.1398-9995.2008.01663.x. PMID 18394123. 
+^ Kindermann, W. (2007). "Do inhaled beta(2)-agonists have an ergogenic potential in non-asthmatic competitive athletes?". Sports Medicine. 37 (2): 95–102. doi:10.2165/00007256-200737020-00001. PMID 17241101. 
+^ Pluim, B. M.; de Hon, O.; Staal, J. B.; Limpens, J.; Kuipers, H.; Overbeek, S. E.; Zwinderman, A. H.; Scholten, R. J. (Jan 1, 2011). "β₂-Agonists and physical performance: a systematic review and meta-analysis of randomized controlled trials". Sports Medicine. 41 (1): 39–57. doi:10.2165/11537540-000000000-00000. PMID 21142283. 
+^ a b c Baur, X.; Aasen, T. B.; Burge, P. S.; Heederik, D.; Henneberger, P. K.; Maestrelli, P.; Schlünssen, V.; Vandenplas, O.; Wilken, D. (Jun 1, 2012). ERS Task Force on the Management of Work-related, Asthma. "The management of work-related asthma guidelines: a broader perspective". European Respiratory Review. 21 (124): 125–39. doi:10.1183/09059180.00004711. PMID 22654084. 
+^ Kunnamo, ed.-in-chief: Ilkka (2005). Evidence-based medicine guidelines. Chichester: Wiley. p. 214. ISBN 978-0-470-01184-3. Archived from the original on 2016-05-17. CS1 maint: Extra text: authors list (link)
+^ Kraft, editors, Mario Castro, Monica (2008). Clinical asthma. Philadelphia: Mosby / Elsevier. pp. Chapter 42. ISBN 978-0-323-07081-2. Archived from the original on 2016-05-28. CS1 maint: Extra text: authors list (link)
+^ Chang, J. E.; White, A.; Simon, R. A.; Stevenson, D. D. (2012). "Aspirin-exacerbated respiratory disease: burden of disease". Allergy and Asthma Proceedings. 33 (2): 117–21. doi:10.2500/aap.2012.33.3541. PMID 22525387. 
+^ a b Kowalski, M. L.; Makowska, J. S.; Blanca, M.; Bavbek, S.; Bochenek, G.; Bousquet, J.; Bousquet, P.; Celik, G.; Demoly, P.; Gomes, E. R.; Niżankowska-Mogilnicka, E.; Romano, A.; Sanchez-Borges, M.; Sanz, M.; Torres, M. J.; De Weck, A.; Szczeklik, A.; Brockow, K. (July 2011). "Hypersensitivity to nonsteroidal anti-inflammatory drugs (NSAIDs) – classification, diagnosis and management: review of the EAACI/ENDA and GA2LEN/HANNA". Allergy. 66 (7): 818–29. doi:10.1111/j.1398-9995.2011.02557.x. PMID 21631520. 
+^ Knowles, S. R.; Drucker, A. M.; Weber, E. A.; Shear, N. H. (July 2007). "Management options for patients with aspirin and nonsteroidal antiinflammatory drug sensitivity". The Annals of pharmacotherapy. 41 (7): 1191–200. doi:10.1345/aph.1k023. PMID 17609236. 
+^ a b c Adams, K. E.; Rans, T. S. (December 2013). "Adverse reactions to alcohol and alcoholic beverages". Annals of Allergy, Asthma & Immunology. 111 (6): 439–45. doi:10.1016/j.anai.2013.09.016. PMID 24267355. 
+^ Peters, S. P. (2014). "Asthma phenotypes: nonallergic (intrinsic) asthma". The Journal of Allergy and Clinical Immunology. In practice. 2 (6): 650–2. doi:10.1016/j.jaip.2014.09.006. PMID 25439352. 
+^ a b NHLBI Guideline 2007, p. 46
+^ Lichtenstein, Richard (2013). Pediatric emergencies. Philadelphia, Pa.: Elsevier. p. 1022. ISBN 978-0-323-22733-9. Archived from the original on 2017-09-08. 
+^ Gibson PG, McDonald VM, Marks GB (September 2010). "Asthma in older adults". Lancet. 376 (9743): 803–13. doi:10.1016/S0140-6736(10)61087-2. PMID 20816547. 
+^ Hargreave, FE; Parameswaran, K (August 2006). "Asthma, COPD and bronchitis are just components of airway disease". European Respiratory Journal. 28 (2): 264–7. doi:10.1183/09031936.06.00056106. PMID 16880365. 
+^ Diaz, P. Knoell (2009). "23. Chronic obstructive pulmonary disease". Applied therapeutics: the clinical use of drugs (9th ed.). Philadelphia: Lippincott Williams & Wilkins. 
+^ a b NHLBI Guideline 2007, pp. 184–5
+^ "Asthma". World Health Organization. April 2017. Archived from the original on 29 June 2011. Retrieved 30 May 2017. 
+^ Lodge, CJ; Allen, KJ; Lowe, AJ; Hill, DJ; Hosking, CS; Abramson, MJ; Dharmage, SC (2012). "Perinatal cat and dog exposure and the risk of asthma and allergy in the urban environment: a systematic review of longitudinal studies". Clinical & developmental immunology. 2012: 176484. doi:10.1155/2012/176484. PMC 3251799 . PMID 22235226. 
+^ Chen, CM; Tischer, C; Schnappinger, M; Heinrich, J (January 2010). "The role of cats and dogs in asthma and allergy—a systematic review". International journal of hygiene and environmental health. 213 (1): 1–31. doi:10.1016/j.ijheh.2009.12.003. PMID 20053584. 
+^ a b Prescott, SL; Tang, ML (May 2, 2005). Australasian Society of Clinical Immunology and, Allergy. "The Australasian Society of Clinical Immunology and Allergy position statement: Summary of allergy prevention in children". The Medical Journal of Australia. 182 (9): 464–7. PMID 15865590. 
+^ Cates, CJ; Rowe, BH (Feb 28, 2013). "Vaccines for preventing influenza in people with asthma". The Cochrane database of systematic reviews. 2: CD000364. doi:10.1002/14651858.CD000364.pub4. PMID 23450529. 
+^ "Strategic Advisory Group of Experts on Immunization – report of the extraordinary meeting on the influenza A (H1N1) 2009 pandemic, 7 July 2009". Wkly Epidemiol Rec. 84 (30): 301–4. Jul 24, 2009. PMID 19630186. 
+^ Been, JV; Nurmatov, UB; Cox, B; Nawrot, TS; van Schayck, CP; Sheikh, A (May 3, 2014). "Effect of smoke-free legislation on perinatal and child health: a systematic review and meta-analysis". Lancet. 383 (9928): 1549–60. doi:10.1016/S0140-6736(14)60082-9. PMID 24680633. 
+^ Ripoll, Brian C. Leutholtz, Ignacio (2011). Exercise and disease management (2nd ed.). Boca Raton: CRC Press. p. 100. ISBN 978-1-4398-2759-8. Archived from the original on 2016-05-06. 
+^ GINA 2011, p. 56
+^ a b c d e f NHLBI Guideline 2007, p. 213
+^ a b "British Guideline on the Management of Asthma" (PDF). Scottish Intercollegiate Guidelines Network. 2008. Archived (PDF) from the original on 19 August 2008. Retrieved 2008-08-04. 
+^ NHLBI Guideline 2007, p. 69
+^ Thomson NC, Spears M (2005). "The influence of smoking on the treatment response in patients with asthma". Current Opinion in Allergy and Clinical Immunology. 5 (1): 57–63. doi:10.1097/00130832-200502000-00011. PMID 15643345. 
+^ Stapleton M, Howard-Thompson A, George C, Hoover RM, Self TH (2011). "Smoking and asthma". J Am Board Fam Med. 24 (3): 313–22. doi:10.3122/jabfm.2011.03.100180. PMID 21551404. 
+^ Been, Jasper (Mar 28, 2014). "Effect of smoke-free legislation on perinatal and child health: a systematic review and meta-analysis". Lancet. 383 (9928): 1549–60. doi:10.1016/S0140-6736(14)60082-9. PMID 24680633. 
+^ Carson, KV; Chandratilleke, MG; Picot, J; Brinn, MP; Esterman, AJ; Smith, BJ (30 September 2013). "Physical training for asthma". The Cochrane database of systematic reviews. 9: CD001116. doi:10.1002/14651858.CD001116.pub4. PMID 24085631. 
+^ Yang, Zu-Yao; Zhong, Hui-Bin; Mao, Chen; Yuan, Jin-Qiu; Huang, Ya-Fang; Wu, Xin-Yin; Gao, Yuan-Mei; Tang, Jin-Ling (27 April 2016). "Yoga for asthma". Cochrane Database of Systematic Reviews. John Wiley & Sons, Ltd. doi:10.1002/14651858.cd010346.pub2. Archived from the original on 4 May 2016. Retrieved 29 April 2016. 
+^ "QRG 153 • British guideline on the management of asthma" (PDF). SIGN. September 2016. Archived (PDF) from the original on 9 October 2016. Retrieved 6 October 2016. 
+^ Parsons JP, Hallstrand TS, Mastronarde JG, et al. (May 2013). "An official American Thoracic Society clinical practice guideline: exercise-induced bronchoconstriction". Am. J. Respir. Crit. Care Med. 187 (9): 1016–27. doi:10.1164/rccm.201303-0437ST. PMID 23634861. 
+^ Vézina, K; Chauhan, BF; Ducharme, FM (Jul 31, 2014). "Inhaled anticholinergics and short-acting beta(2)-agonists versus short-acting beta2-agonists alone for children with acute asthma in hospital". The Cochrane database of systematic reviews. 7: CD010283. doi:10.1002/14651858.CD010283.pub2. PMID 25080126. 
+^ Rodrigo GJ, Nannini LJ (2006). "Comparison between nebulized adrenaline and beta2 agonists for the treatment of acute asthma. A meta-analysis of randomized trials". Am J Emerg Med. 24 (2): 217–22. doi:10.1016/j.ajem.2005.10.008. PMID 16490653. 
+^ NHLBI Guideline 2007, p. 351
+^ NHLBI Guideline 2007, p. 218
+^ a b Ducharme, FM; Ni Chroinin, M; Greenstone, I; Lasserson, TJ (May 12, 2010). Ducharme, Francine M, ed. "Addition of long-acting beta2-agonists to inhaled corticosteroids versus same dose inhaled corticosteroids for chronic asthma in adults and children". Cochrane Database of Systematic Reviews (5): CD005535. doi:10.1002/14651858.CD005535.pub2. PMC 4169792 . PMID 20464739. 
+^ Ducharme, FM; Ni Chroinin, M; Greenstone, I; Lasserson, TJ (Apr 14, 2010). Ducharme, Francine M, ed. "Addition of long-acting beta2-agonists to inhaled steroids versus higher dose inhaled corticosteroids in adults and children with persistent asthma". Cochrane Database of Systematic Reviews (4): CD005533. doi:10.1002/14651858.CD005533.pub2. PMID 20393943. 
+^ a b Fanta CH (March 2009). "Asthma". New England Journal of Medicine. 360 (10): 1002–14. doi:10.1056/NEJMra0804579. PMID 19264689. 
+^ Cates, CJ; Cates, MJ (Apr 18, 2012). Cates, Christopher J, ed. "Regular treatment with formoterol for chronic asthma: serious adverse events". Cochrane Database of Systematic Reviews. 4: CD006923. doi:10.1002/14651858.CD006923.pub3. PMC 4017186 . PMID 22513944. 
+^ Cates, CJ; Cates, MJ (Jul 16, 2008). Cates, Christopher J, ed. "Regular treatment with salmeterol for chronic asthma: serious adverse events". Cochrane Database of Systematic Reviews (3): CD006363. doi:10.1002/14651858.CD006363.pub2. PMID 18646149. 
+^ GINA 2011, p. 74
+^ Watts, K; Chavasse, RJ (May 16, 2012). Watts, Kirsty, ed. "Leukotriene receptor antagonists in addition to usual care for acute asthma in adults and children". Cochrane Database of Systematic Reviews. 5: CD006100. doi:10.1002/14651858.CD006100.pub2. PMID 22592708. 
+^ Chauhan, BF; Ben Salah, R; Ducharme, FM (Oct 2, 2013). "Addition of anti-leukotriene agents to inhaled corticosteroids in children with persistent asthma". The Cochrane database of systematic reviews. 10: CD009585. doi:10.1002/14651858.CD009585.pub2. PMID 24089325. 
+^ Miligkos, Michael; Bannuru, Raveendhara R.; Alkofide, Hadeel; Kher, Sucharita R.; Schmid, Christopher H.; Balk, Ethan M. (22 September 2015). "Leukotriene-Receptor Antagonists Versus Placebo in the Treatment of Asthma in Adults and Adolescents". Annals of Internal Medicine. 163 (10): 756–67. doi:10.7326/M15-1059. PMC 4648683 . PMID 26390230. 
+^ Miligkos, M; Bannuru, RR; Alkofide, H; Kher, SR; Schmid, CH; Balk, EM (17 November 2015). "Leukotriene-receptor antagonists versus placebo in the treatment of asthma in adults and adolescents: a systematic review and meta-analysis". Annals of Internal Medicine. 163 (10): 756–67. doi:10.7326/m15-1059. PMC 4648683 . PMID 26390230. 
+^ British Guideline 2009, p. 43
+^ "Zyflo (Zileuton tablets)" (PDF). United States Food and Drug Administration. Cornerstone Therapeutics Inc. June 2012. p. 1. Archived (PDF) from the original on 13 December 2014. Retrieved 12 December 2014. 
+^ NHLBI Guideline 2007, p. 250
+^ a b Rachelefsky, G (January 2009). "Inhaled corticosteroids and asthma control in children: assessing impairment and risk". Pediatrics. 123 (1): 353–66. doi:10.1542/peds.2007-3273. PMID 19117903. 
+^ Dahl R (August 2006). "Systemic side effects of inhaled corticosteroids in patients with asthma". Respir Med. 100 (8): 1307–17. doi:10.1016/j.rmed.2005.11.020. PMID 16412623. 
+^ Thomas, MS; Parolia, A; Kundabala, M; Vikram, M (June 2010). "Asthma and oral health: a review". Australian dental journal. 55 (2): 128–33. PMID 20604752. 
+^ Skoner, DP (December 2016). "Inhaled corticosteroids: Effects on growth and bone health". Annals of Allergy, Asthma & Immunology. 117 (6): 595–600. PMID 27979015. 
+^ a b c Rodrigo GJ, Rodrigo C, Hall JB (2004). "Acute asthma in adults: a review". Chest. 125 (3): 1081–102. doi:10.1378/chest.125.3.1081. PMID 15006973. 
+^ Keeney, GE; Gray, MP; Morrison, AK; Levas, MN; Kessler, EA; Hill, GD; Gorelick, MH; Jackson, JL (Mar 2014). "Dexamethasone for acute asthma exacerbations in children: a meta-analysis". Pediatrics. 133 (3): 493–9. doi:10.1542/peds.2013-2273. PMID 24515516. 
+^ Rowe, BH; Kirkland, SW; Vandermeer, B; Campbell, S; Newton, A; Ducharme, FM; Villa-Roel, C (March 2017). "Prioritizing Systemic Corticosteroid Treatments to Mitigate Relapse in Adults With Acute Asthma: A Systematic Review and Network Meta-analysis". Academic Emergency Medicine. 24 (3): 371–381. doi:10.1111/acem.13107. PMID 27664401. 
+^ Noppen, M. (August 2002). "Magnesium Treatment for Asthma : Where Do We Stand?". Chest. 122 (2): 396–8. doi:10.1378/chest.122.2.396. PMID 12171805. 
+^ Griffiths, B; Kew, KM (29 April 2016). "Intravenous magnesium sulfate for treating children with acute asthma in the emergency department". The Cochrane database of systematic reviews. 4: CD011050. doi:10.1002/14651858.CD011050.pub2. PMID 27126744. 
+^ Kew, KM; Kirtchuk, L; Michell, CI (28 May 2014). "Intravenous magnesium sulfate for treating adults with acute asthma in the emergency department". The Cochrane database of systematic reviews. 5: CD010909. doi:10.1002/14651858.CD010909.pub2. PMID 24865567. 
+^ GINA 2011, p. 37
+^ NHLBI Guideline 2007, p. 399
+^ a b Castro, M; Musani, AI; Mayse, ML; Shargill, NS (April 2010). "Bronchial thermoplasty: a novel technique in the treatment of severe asthma". Therapeutic advances in respiratory disease. 4 (2): 101–16. doi:10.1177/1753465810367505. PMID 20435668. 
+^ Boulet, LP; Laviolette, M (May–Jun 2012). "Is there a role for bronchial thermoplasty in the treatment of asthma?". Canadian Respiratory Journal. 19 (3): 191–2. doi:10.1155/2012/853731. PMC 3418092 . PMID 22679610. 
+^ GINA 2011, p. 70
+^ Lin, SY; Erekosima, N; Kim, JM; Ramanathan, M; Suarez-Cuervo, C; Chelladurai, Y; Ward, D; Segal, JB (27 March 2013). "Sublingual Immunotherapy for the Treatment of Allergic Rhinoconjunctivitis and Asthma A Systematic Review". JAMA. 309 (12): 1278–88. doi:10.1001/jama.2013.2049. PMID 23532243. Archived from the original on 8 September 2017. 
+^ Drazen, Jeffrey M.; Israel, Elliot; Reddel, Helen K. (7 September 2017). "Severe and Difficult-to-Treat Asthma in Adults". New England Journal of Medicine. 377 (10): 965–976. doi:10.1056/NEJMra1608969. PMID 28877019. 
+^ Korang, SK; Feinberg, J; Wetterslev, J; Jakobsen, JC (30 September 2016). "Non-invasive positive pressure ventilation for acute asthma in children". The Cochrane database of systematic reviews. 9: CD012067. doi:10.1002/14651858.CD012067.pub2. PMID 27687114. 
+^ Blanc PD, Trupin L, Earnest G, Katz PP, Yelin EH, Eisner MD (2001). "Alternative therapies among adults with a reported diagnosis of asthma or rhinosinusitis : data from a population-based survey". Chest. 120 (5): 1461–7. doi:10.1378/chest.120.5.1461. PMID 11713120. 
+^ Shenfield G, Lim E, Allen H (2002). "Survey of the use of complementary medicines and therapies in children with asthma". J Paediatr Child Health. 38 (3): 252–7. doi:10.1046/j.1440-1754.2002.00770.x. PMID 12047692. 
+^ Kaur B, Rowe BH, Arnold E (2009). Welsh EJ, ed. "Vitamin C supplementation for asthma". Cochrane Database of Systematic Reviews (1): CD000993. doi:10.1002/14651858.CD000993.pub3. PMID 19160185. 
+^ Hemilä, H (2013). "Vitamin C may alleviate exercise-induced bronchoconstriction: a meta-analysis". BMJ Open. 3 (6): e002416. doi:10.1136/bmjopen-2012-002416. PMC 3686214 . PMID 23794586.  
+^ Martineau, AR; Cates, CJ; Urashima, M; Jensen, M; Griffiths, AP; Nurmatov, U; Sheikh, A; Griffiths, CJ (5 September 2016). "Vitamin D for the management of asthma". The Cochrane database of systematic reviews. 9: CD011511. doi:10.1002/14651858.CD011511.pub2. PMID 27595415. 
+^ a b NHLBI Guideline 2007, p. 240
+^ McCarney RW, Brinkhaus B, Lasserson TJ, Linde K (2004). McCarney RW, ed. "Acupuncture for chronic asthma". Cochrane Database of Systematic Reviews (1): CD000008. doi:10.1002/14651858.CD000008.pub2. PMID 14973944. 
+^ Blackhall, K; Appleton, S; Cates, CJ (Sep 12, 2012). Blackhall, Karen, ed. "Ionisers for chronic asthma". Cochrane Database of Systematic Reviews. 9: CD002986. doi:10.1002/14651858.CD002986.pub2. PMID 22972060. 
+^ Hondras MA, Linde K, Jones AP (2005). Hondras MA, ed. "Manual therapy for asthma". Cochrane Database of Systematic Reviews (2): CD001002. doi:10.1002/14651858.CD001002.pub2. PMID 15846609. 
+^ "WHO Disease and injury country estimates". World Health Organization. 2009. Archived from the original on 11 November 2009. Retrieved November 11, 2009. 
+^ Sergel, Michelle J.; Cydulka, Rita K. (September 2009). "Ch. 75: Asthma". In Wolfson, Allan B.; Harwood-Nuss, Ann. Harwood-Nuss' Clinical Practice of Emergency Medicine (5th ed.). Lippincott Williams & Wilkins. pp. 432–. ISBN 978-0-7817-8943-1. 
+^ NHLBI Guideline 2007, p. 1
+^ a b "The Global Asthma Report 2014". Archived from the original on 27 April 2016. Retrieved 10 May 2016. 
+^ Organization, World Health (2008). The global burden of disease : 2004 update ([Online-Ausg.] ed.). Geneva, Switzerland: World Health Organization. p. 35. ISBN 978-92-4-156371-0. 
+^ Maddox L, Schwartz DA (2002). "The pathophysiology of asthma". Annu. Rev. Med. 53: 477–98. doi:10.1146/annurev.med.53.082901.103921. PMID 11818486. 
+^ Beckett PA, Howarth PH (2003). "Pharmacotherapy and airway remodelling in asthma?". Thorax. 58 (2): 163–74. doi:10.1136/thorax.58.2.163. PMC 1746582 . PMID 12554904. 
+^ Silva, N; Carona, C; Crespo, C; Canavarro, MC (June 2015). "Quality of life in pediatric asthma patients and their parents: a meta-analysis on 20 years of research". Expert review of pharmacoeconomics & outcomes research. 15 (3): 499–519. doi:10.1586/14737167.2015.1008459. PMID 25651982. 
+^ "World Health Organization Fact Sheet Fact sheet No 307: Asthma". 2011. Archived from the original on 2011-06-29. Retrieved Jan 17, 2013. 
+^ GINA 2011, p. 3
+^ Vos, T; et al. (December 2012). "Years lived with disability (YLDs) for 1160 sequelae of 289 diseases and injuries 1990–2010: a systematic analysis for the Global Burden of Disease Study 2010". Lancet. 380 (9859): 2163–96. doi:10.1016/S0140-6736(12)61729-2. PMID 23245607. 
+^ Lozano, R (Dec 15, 2012). "Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010". Lancet. 380 (9859): 2095–128. doi:10.1016/S0140-6736(12)61728-0. hdl:10536/DRO/DU:30050819. PMID 23245604. 
+^ World Health Organization. "WHO: Asthma". Archived from the original on 15 December 2007. Retrieved 2007-12-29. 
+^ Bush A, Menzies-Gow A (December 2009). "Phenotypic differences between pediatric and adult asthma". Proc Am Thorac Soc. 6 (8): 712–9. doi:10.1513/pats.200906-046DP. PMID 20008882. 
+^ Weiss AJ, Wier LM, Stocks C, Blanchard J (June 2014). "Overview of Emergency Department Visits in the United States, 2011". HCUP Statistical Brief #174. Rockville, MD: Agency for Healthcare Research and Quality. Archived from the original on 2014-08-03. 
+^ Grant EN, Wagner R, Weiss KB (August 1999). "Observations on emerging patterns of asthma in our society". J Allergy Clin Immunol. 104 (2 Pt 2): S1–S9. doi:10.1016/S0091-6749(99)70268-X. PMID 10452783. 
+^ Bousquet, J; Bousquet, PJ; Godard, P; Daures, JP (July 2005). "The public health implications of asthma". Bulletin of the World Health Organization. 83 (7): 548–54. PMC 2626301 . PMID 16175830. 
+^ Anderson, HR; Gupta R; Strachan DP; Limb ES (January 2007). "50 years of asthma: UK trends from 1955 to 2004". Thorax. 62 (1): 85–90. doi:10.1136/thx.2006.066407. PMC 2111282 . PMID 17189533. 
+^ Masoli, Matthew (2004). Global Burden of Asthma (PDF). p. 9. Archived from the original (PDF) on 2013-05-02. 
+^ a b c Barrett ML, Wier LM, Washington R (January 2014). "Trends in Pediatric and Adult Hospital Stays for Asthma, 2000–2010". HCUP Statistical Brief #169. Rockville, MD: Agency for Healthcare Research and Quality. Archived from the original on 2014-03-28. 
+^ Rosner, Fred (2002). "The Life of Moses Maimonides, a Prominent Medieval Physician" (PDF). Einstein Quart J Biol Med. 19 (3): 125–128. 
+^ Thorowgood JC (November 1873). "On bronchial asthma". British Medical Journal. 2 (673): 600. doi:10.1136/bmj.2.673.600. PMC 2294647 . PMID 20747287. 
+^ Gaskoin G (March 1872). "On the treatment of asthma". British Medical Journal. 1 (587): 339. doi:10.1136/bmj.1.587.339. PMC 2297349 . PMID 20746575. 
+^ Berkart JB (June 1880). "The treatment of asthma". British Medical Journal. 1 (1016): 917–8. doi:10.1136/bmj.1.1016.917. PMC 2240555 . PMID 20749537. 
+Berkart JB (June 1880). "The treatment of asthma". British Medical Journal. 1 (1017): 960–2. doi:10.1136/bmj.1.1017.960. PMC 2240530 . PMID 20749546. 
+^ Bosworth FH (1886). "Hay fever, asthma, and allied affections". Transactions of the Annual Meeting of the American Climatological Association. 2: 151–70. PMC 2526599 . PMID 21407325. 
+^ Doig RL (February 1905). "Epinephrin; especially in asthma". California State Journal of Medicine. 3 (2): 54–5. PMC 1650334 . PMID 18733372. 
+^ von Mutius, E; Drazen, JM (Mar 1, 2012). "A patient with asthma seeks medical advice in 1828, 1928, and 2012". New England Journal of Medicine. 366 (9): 827–34. doi:10.1056/NEJMra1102783. PMID 22375974. 
+^ Crompton G (December 2006). "A brief history of inhaled asthma therapy over the last fifty years". Primary care respiratory journal : journal of the General Practice Airways Group. 15 (6): 326–31. doi:10.1016/j.pcrj.2006.09.002. PMID 17092772. 
+^ David McCullough (1981). Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became Theodore Roosevelt. Simon and Schuster. pp. 93–108. Archived from the original on 2015-04-07. 
+^ a b Opolski M, Wilson I (September 2005). "Asthma and depression: a pragmatic review of the literature and recommendations for future research". Clin Pract Epidemol Ment Health. 1: 18. doi:10.1186/1745-0179-1-18. PMC 1253523 . PMID 16185365. 
+
+
+
+Notes
+
+
+National Asthma Education and Prevention Program (2007). "Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma" (PDF). National Heart Lung and Blood Institute. 
+"British Guideline on the Management of Asthma" (PDF). British Thoracic Society. 2012 [2008]. 
+"Global Strategy for Asthma Management and Prevention" (PDF). Global Initiative for Asthma. 2011. Archived from the original (PDF) on 2016-07-01. 
+
+
+External links
+
+
+Classification
+
+V · T · D
+
+
+ICD-10: J45
+ICD-9-CM: 493
+OMIM: 600807
+MeSH: D001249
+DiseasesDB: 1006
+
+
+
+
+
+External resources
+
+
+
+MedlinePlus: 000141
+eMedicine: article/806890
+Patient UK: Asthma
+
+
+
+
+
+
+
+Find more aboutAsthmaat Wikipedia's sister projects
+
+Definitions from Wiktionary
+Media from Commons
+Textbooks from Wikibooks
+Data from Wikidata
+
+
+
+Asthma at DMOZ
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Diseases of the respiratory system (J, 460–519)
+
+
+
+Upper RT
+(including URTIs,
+common cold)
+
+
+
+
+Head
+
+
+
+sinuses
+Sinusitis
+
+
+nose
+Rhinitis
+
+Vasomotor rhinitis
+Atrophic rhinitis
+Hay fever
+
+
+Nasal polyp
+Rhinorrhea
+nasal septum
+
+Nasal septum deviation
+Nasal septum perforation
+Nasal septal hematoma
+
+
+
+
+tonsil
+Tonsillitis
+Adenoid hypertrophy
+Peritonsillar abscess
+
+
+
+
+
+Neck
+
+
+
+pharynx
+Pharyngitis
+
+Strep throat
+
+
+Laryngopharyngeal reflux (LPR)
+Retropharyngeal abscess
+
+
+larynx
+Croup
+Laryngomalacia
+Laryngeal cyst
+Laryngitis
+Laryngopharyngeal reflux (LPR)
+Laryngospasm
+
+
+vocal folds
+Laryngopharyngeal reflux (LPR)
+Vocal fold nodule
+Vocal fold paresis
+Vocal cord dysfunction
+
+
+epiglottis
+Epiglottitis
+
+
+trachea
+Tracheitis
+Laryngotracheal stenosis
+
+
+
+
+
+
+
+
+Lower RT/lung disease
+(including LRTIs)
+
+
+
+
+Bronchial/
+obstructive
+
+
+
+acute
+Acute bronchitis
+
+
+chronic
+COPD
+
+Chronic bronchitis
+Acute exacerbations of chronic bronchitis
+Acute exacerbation of COPD
+Emphysema)
+Asthma (Status asthmaticus
+Aspirin-induced
+Exercise-induced
+
+
+Bronchiectasis
+
+
+unspecified
+Bronchitis
+Bronchiolitis
+
+Bronchiolitis obliterans
+
+
+Diffuse panbronchiolitis
+
+
+
+
+
+Interstitial/
+restrictive
+(fibrosis)
+
+
+
+
+External agents/
+occupational
+lung disease
+
+
+
+Pneumoconiosis
+
+Asbestosis
+Baritosis
+Bauxite fibrosis
+Berylliosis
+Caplan's syndrome
+Chalicosis
+Coalworker's pneumoconiosis
+Siderosis
+Silicosis
+Talcosis
+Byssinosis
+
+
+
+
+Hypersensitivity pneumonitis
+
+Bagassosis
+Bird fancier's lung
+Farmer's lung
+Lycoperdonosis
+
+
+
+
+
+
+
+Other
+
+
+
+ARDS
+Pulmonary edema
+Löffler's syndrome/Eosinophilic pneumonia
+Respiratory hypersensitivity
+
+Allergic bronchopulmonary aspergillosis
+
+
+Hamman-Rich syndrome
+Idiopathic pulmonary fibrosis
+Sarcoidosis
+
+
+
+
+
+
+
+
+Obstructive or
+restrictive
+
+
+
+
+Pneumonia/
+pneumonitis
+
+
+
+
+By pathogen
+
+
+
+Viral
+Bacterial
+
+Pneumococcal
+Klebsiella)
+
+
+Atypical bacterial
+
+Mycoplasma
+Legionnaires' disease
+Chlamydiae
+
+
+Fungal
+
+Pneumocystis
+
+
+Parasitic
+noninfectious
+
+Chemical/Mendelson's syndrome
+Aspiration/Lipid
+
+
+
+
+
+
+
+By vector/route
+
+
+
+Community-acquired
+Healthcare-associated
+Hospital-acquired
+
+
+
+
+
+By distribution
+
+
+
+Broncho-
+Lobar
+
+
+
+
+
+IIP
+
+
+
+UIP
+DIP
+BOOP-COP
+NSIP
+RB
+
+
+
+
+
+
+
+
+Other
+
+
+
+Atelectasis
+circulatory
+
+Pulmonary hypertension
+Pulmonary embolism
+
+
+Lung abscess
+
+
+
+
+
+
+
+
+
+
+
+Pleural cavity/
+mediastinum
+
+
+
+
+Pleural disease
+
+
+
+Pleuritis/pleurisy
+
+
+Pneumothorax/Hemopneumothorax
+
+
+Pleural effusion
+Hemothorax
+Hydrothorax
+Chylothorax
+Empyema/pyothorax
+Malignant
+
+
+Fibrothorax
+
+
+
+
+
+Mediastinal disease
+
+
+
+Mediastinitis
+Mediastinal emphysema
+
+
+
+
+
+
+
+
+Other/general
+
+
+
+Respiratory failure
+Influenza
+SARS
+Idiopathic pulmonary haemosiderosis
+Pulmonary alveolar proteinosis
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+LCCN: sh85008860
+GND: 4069674-1
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Asthma&oldid=810534774"					
+Categories: AsthmaChronic lower respiratory diseasesRespiratory therapySteroid-responsive inflammatory conditionsHuman diseases and disordersHidden categories: CS1 maint: Uses authors parameterCS1 maint: Extra text: authors listWikipedia pages semi-protected against vandalismInfobox medical condition (new)Articles containing Ancient Greek-language textArticles with hAudio microformatsArticles prone to spam from March 2015Articles with DMOZ linksGood articlesWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersRTT(full)RTTEM 

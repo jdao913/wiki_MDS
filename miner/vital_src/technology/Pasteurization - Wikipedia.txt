@@ -1,0 +1,654 @@
+Pasteurization - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+"Pasteurized" redirects here. For the racehorse, see Pasteurized (horse).
+
+
+
+
+Cream pasteurizing and cooling coils at Murgon Butter Factory, 1939
+
+
+Pasteurization or pasteurisation[1] is a process that kills microbes (mainly bacteria) in food and drink, such as milk, juice, canned food, and others.
+It was invented by French scientist Louis Pasteur during the nineteenth century. In 1864 Pasteur discovered that heating beer and wine was enough to kill most of the bacteria that caused spoilage, preventing these beverages from turning sour. The process achieves this by eliminating pathogenic microbes and lowering microbial numbers to prolong the quality of the beverage. Today, pasteurization is used widely in the dairy industry and other food processing industries to achieve food preservation and food safety.[2]
+Unlike sterilization, pasteurization is not intended to kill all microorganisms in the food. Instead, it aims to reduce the number of viable pathogens so they are unlikely to cause disease (assuming the pasteurized product is stored as indicated and is consumed before its expiration date). Commercial-scale sterilization of food is not common because it adversely affects the taste and quality of the product. Certain foods, such as dairy products, may be superheated to ensure pathogenic microbes are destroyed.[3]
+
+
+
+Contents
+
+
+1 Alcoholic beverages
+2 Milk
+
+2.1 History
+2.2 Process
+2.3 Microwave volumetric heating
+2.4 Efficacy Against Pathogenic Bacteria
+2.5 Effect on Vitamins
+2.6 Verification
+2.7 Unpasteurized milk
+
+
+3 Low moisture foods
+4 Consumer acceptance
+5 Products that are commonly pasteurized
+6 See also
+7 References
+8 Further reading
+9 External links
+
+
+
+Alcoholic beverages[edit]
+The process of heating wine for preservation purposes has been known in China since 1117,[4] and was documented in Japan in the diary Tamonin-nikki, written by a series of monks between 1478 and 1618.
+Much later, in 1768, an Italian priest and scientist Lazzaro Spallanzani proved experimentally that heat killed bacteria, and that they do not reappear if the product is hermetically sealed.[5] In 1795, a Parisian chef and confectioner named Nicolas Appert began experimenting with ways to preserve foodstuffs, succeeding with soups, vegetables, juices, dairy products, jellies, jams, and syrups. He placed the food in glass jars, sealed them with cork and sealing wax and placed them in boiling water.[6] In that same year, the French military offered a cash prize of 12,000 francs for a new method to preserve food. After some 14 or 15 years of experimenting, Appert submitted his invention and won the prize in January 1810. Later that year,[7] Appert published L'Art de conserver les substances animales et végétales (or The Art of Preserving Animal and Vegetable Substances). This was the first cookbook of its kind on modern food preservation methods.[8][9]
+La Maison Appert (English: The House of Appert), in the town of Massy, near Paris, became the first food-bottling factory in the world,[6] preserving a variety of food in sealed bottles. Appert's method was to fill thick, large-mouthed glass bottles with produce of every description, ranging from beef and fowl to eggs, milk and prepared dishes. His greatest success for publicity was an entire sheep. He left air space at the top of the bottle, and the cork would then be sealed firmly in the jar by using a vise. The bottle was then wrapped in canvas to protect it, while it was dunked into boiling water and then boiled for as much time as Appert deemed appropriate for cooking the contents thoroughly. Appert patented his method, sometimes called appertisation, in his honor.
+Appert's method was so simple and workable that it quickly became widespread. In 1810, British inventor and merchant Peter Durand, also of French origin,[citation needed] patented his own method, but this time in a tin can, so creating the modern-day process of canning foods. In 1812, Englishmen Bryan Donkin and John Hall purchased both patents and began producing preserves. Just a decade later, Appert's method of canning had made its way to America.[10] Tin can production was not common until the beginning of the 20th century, partly because a hammer and chisel were needed to open cans until the invention of a can opener by an inventor named Yates in 1855.[6]
+Appert's preservation by boiling involved heating the food to an unnecessarily high temperature, and for an unnecessarily long time, which could destroy some of the flavor of the preserved food.[citation needed]
+A less aggressive method was developed by the French chemist Louis Pasteur during an 1864[5] summer holiday in Arbois. To remedy the frequent acidity of the local wines, he found out experimentally that it is sufficient to heat a young wine to only about 50–60 °C (122–140 °F) for a brief time to kill the microbes, and that the wine could subsequently be aged without sacrificing the final quality.[5] In honour of Pasteur, the process became known as "pasteurization".[11] Pasteurization was originally used as a way of preventing wine and beer from souring,[12] and it would be many years before milk was pasteurized. In the United States in the 1870s, it was common for milk to contain substances intended to mask spoilage before milk was regulated.[13]
+Milk[edit]
+
+
+
+
+180 kg of milk in cheese vat
+
+
+Milk is an excellent medium for microbial growth,[14] and when stored at ambient temperature bacteria and other pathogens soon proliferate.[15]
+The US Centers for Disease Control (CDC) says improperly handled raw milk is responsible for nearly three times more hospitalizations than any other food-borne disease source, making it one of the world's most dangerous food products.[16][17] Diseases prevented by pasteurization can include tuberculosis, brucellosis, diphtheria, scarlet fever, and Q-fever; it also kills the harmful bacteria Salmonella, Listeria, Yersinia, Campylobacter, Staphylococcus aureus, and Escherichia coli O157:H7,[18][19] among others.
+Pasteurization is the reason for milk's extended shelf life. High-temperature, short-time (HTST) pasteurized milk typically has a refrigerated shelf life of two to three weeks, whereas ultra-pasteurized milk can last much longer, sometimes two to three months. When ultra-heat treatment (UHT) is combined with sterile handling and container technology (such as aseptic packaging), it can even be stored unrefrigerated for up to 9 months.
+History[edit]
+
+
+
+
+Louis Pasteur's pasteurization experiment illustrates the fact that the spoilage of liquid was caused by particles in the air rather than the air itself. These experiments were important pieces of evidence supporting the idea of Germ Theory of Disease.
+
+
+Before the widespread urban growth caused by industrialization, people kept dairy cows even in urban areas and the short time period between production and consumption minimized the disease risk of drinking raw milk.[20] As urban densities increased and supply chains lengthened to the distance from country to city, raw milk (often days old) became recognised as a source of disease. For example, between 1912 and 1937 some 65,000 people died of tuberculosis contracted from consuming milk in England and Wales alone.[21] Because tuberculosis has a long incubation period in humans, it was difficult to link unpasteurized milk consumption as the cause to the effect of disease.[22] In 1892, chemist Earnest Lederle experimentally inoculated milk from tuberculosis-diseased cows into Guinea pigs, which caused them to develop the disease.[23] In 1910, Lederle, then in the role of Commissioner of Health, introduced mandatory pasteurization of milk in New York city.[23]
+Developed countries adopted milk pasteurization to prevent such disease and loss of life, and as a result milk is now widely considered one of the safest foods.[20] A traditional form of pasteurization by scalding and straining of cream to increase the keeping qualities of butter was practiced in Great Britain before 1773 and was introduced to Boston in the British Colonies by 1773,[24] although it was not widely practiced in the United States for the next 20 years. It was still being referred to as a "new" process in American newspapers as late as 1802.[25] Pasteurization of milk was suggested by Franz von Soxhlet in 1886.[26] In the early 20th century, Milton Joseph Rosenau established the standards (i.e. low temperature, slow heating at 60 °C (140 °F) for 20 minutes) for the pasteurization of milk[27][28] while at the United States Marine Hospital Service, notably in his publication of The Milk Question (1912).[29] States in the U.S.A. began enacting mandatory dairy pasteurization laws with the first in 1947, and in 1973 the U.S. Federal Government required pasteurization of milk used in any interstate commerce.[30]
+Process[edit]
+
+
+
+
+General overview of the pasteurization process. The milk starts at the left and enters the piping with functioning enzymes that, when heat treated, become denatured and stop the enzymes from functioning. This helps to stop pathogen growth by stopping the functionality of the cell. The cooling process helps stop the milk from undergoing the Maillard reaction and caramelization. The pasteurization process also has the ability to heat the cells to the point that they burst from pressure build up.
+
+
+Older pasteurization methods used temperatures below boiling, since at very high temperatures, micelles of the milk protein casein irreversibly aggregate, or curdle. Newer methods use higher temperature, but shorten the time. Among the pasteurization methods listed below, the two main types of pasteurization used today are high-temperature, short-time (HTST, also known as "flash") and extended shelf life (ESL):
+
+HTST milk is forced between metal plates or through pipes heated on the outside by hot water, and the milk is heated to 72 °C (161 °F) for 15 seconds.[31]:8 Milk simply labeled "pasteurized" is usually treated with the HTST method.
+UHT, also known as ultra-heat-treating, processing holds the milk at a temperature of 140 °C (284 °F) for four seconds.[32] During UHT processing milk is sterilized and not pasteurized. This process lets consumers store milk or juice for several months without refrigeration. The process is achieved by spraying the milk or juice through a nozzle into a chamber filled with high-temperature steam under pressure. After the temperature reaches 140 °C the fluid is cooled instantly in a vacuum chamber, and packed in a pre-sterilized airtight container.[32] Milk labeled "ultra-pasteurized" or simply "UHT" has been treated with the UHT method.
+ESL milk has a microbial filtration step and lower temperatures than UHT milk.[33] Since 2007, it is no longer a legal requirement in European countries (for example in Germany) to declare ESL milk as ultra-heated; consequently, it is now often labeled as "fresh milk" and just advertised as having an "extended shelf life", making it increasingly difficult to distinguish ESL milk from traditionally pasteurized fresh milk.
+A less conventional, but US FDA–legal, alternative (typically for home pasteurization) is to heat milk at 63 °C (145 °F) for 30 minutes.[34]
+
+Pasteurization methods are usually standardized and controlled by national food safety agencies (such as the USDA in the United States and the Food Standards Agency in the United Kingdom). These agencies require that milk be HTST pasteurized to qualify for the pasteurized label. Dairy product standards differ, depending on fat content and intended usage. For example, pasteurization standards for cream differ from standards for fluid milk, and standards for pasteurizing cheese are designed to preserve the enzyme phosphatase, which aids cutting. In Canada, all milk produced at a processor and intended for consumption must be pasteurized, which legally requires that it be heated to at least 72 °C for at least 1 seconds,[35] then cooling it to 4 °C to ensure any harmful bacteria are destroyed. The UK Dairy Products Hygiene Regulations 1995 requires that milk be heat treated for 15 seconds at 71.7 °C or other effective time/temperature combination.[36]
+Some older references[37] point to one or multiple cycles of heating and cooling (to ambient temperature or below) as either a definition of pasteurization or a general method thereof.[37]
+A process similar to pasteurization is thermization, which uses lower temperatures to kill bacteria in milk. It allows a milk product, such as cheese, to retain more of the original taste, but thermized foods are not considered pasteurized by food regulators.[34]
+Microwave volumetric heating[edit]
+Microwave volumetric heating (MVH) is the newest available pasteurization technology. It uses microwaves to heat liquids, suspensions, or semi-solids in a continuous flow. Because MVH delivers energy evenly and deeply into the whole body of a flowing product, it allows for gentler and shorter heating, so that almost all heat-sensitive substances in the milk are preserved.[38]
+Efficacy Against Pathogenic Bacteria[edit]
+During the early 20th century there was no robust knowledge of what time and temperatures combinations would inactivate pathogenic bacteria in milk, and so a number of different pasteurization standards were in use. By 1943, both HTST pasteurization conditions of 72 °C for 15 seconds, as well as batch pasteurization conditions of 63 °C for 30 minutes, were confirmed by studies of the complete thermal death (as best as could be measured at that time) for a range of pathogenic bacteria in milk.[39] Complete inactivation of Coxiella burnetii (which was thought at the time to cause Q fever by oral ingestion of infected milk)[40][41] as well as of Mycobacterium tuberculosis (which causes tuberculosis)[42] were later demonstrated. For all practical purposes, these conditions were adequate for destroying almost all yeasts, molds, and common spoilage bacteria and also to ensure adequate destruction of common pathogenic, heat-resistant organisms. However, the microbiological techniques used until the 1960s did not allow for the actual reduction of bacteria to be enumerated. Demonstration of the extent of inactivation of pathogenic bacteria by milk pasteurization came from a study of surviving bacteria in milk that was heat treated after being deliberately spiked with high levels of the most heat-resistant strains of the most significant milk-borne pathogens.[43]
+The mean log10 reductions and temperatures of inactivation of the major milk-borne pathogens during a 15-s treatment are:
+
+Staphylococcus aureus >6.7 at 66.5 °C
+Yersinia enterocolitica >6.8 at 62.5 °C,
+pathogenic Escherichia coli >6.8 at 65 °C
+Cronobacter sakazakii >6.7 at 67.5 °C
+Listeria monocytogenes >6.9 at 65.5 °C, and
+Salmonella ser. Typhimurium >6.9 at 61.5 °C.[43]
+
+The Codex Alimentarius Code of Hygienic Practice for Milk notes that milk pasteurization is designed to achieve at least a 5 log10 reduction of Coxiella burnetii.[44] The Code also notes that: “The minimum pasteurization conditions are those having bactericidal effects equivalent to heating every particle of the milk to 72°C for 15 seconds (continuous flow pasteurization) or 63°C for 30 minutes (batch pasteurization)” and that “To ensure that each particle is sufficiently heated, the milk flow in heat exchangers should be turbulent, i.e. the Reynolds number should be sufficiently high.” The point about turbulent flow is important because simplistic laboratory studies of heat inactivation that use test tubes, without flow, will have less bacterial inactivation than larger scale experiments that seek to replicate conditions of commercial pasteurization.[45]
+As a precaution, modern HTST pasteurization processes must be designed with flow-rate restriction as well as divert valves which ensure that the milk is heated evenly, and no part of the milk is subject to a shorter time or a lower temperature. It is common for the temperatures to exceed 72 °C by 1.5 °C or 2 °C.[45]
+Effect on Vitamins[edit]
+According to a systematic review and meta-analysis,[46] it was found that pasteurization appeared to qualitatively reduce concentrations of vitamins B12 and E, but it did increase concentrations of vitamin A. Given the available literature, it was not possible to quantitatively measure the effect of pasteurization on vitamins A, B12, and E.[46]
+Milk is not an important source of vitamins B12 or E in the North American diet, so the effects of pasteurization on the adult daily intake of these vitamins is negligible.[47][48] However, milk is considered an important source of vitamin A,[49] and because pasteurization appears to increase vitamin A concentrations in milk, the effect of milk heat treatment on this vitamin is a not a major public health concern.[46] Results of meta-analyses revealed that pasteurization of milk leads to a significant decrease in vitamin C and folate, but milk also is not an important source of these vitamins.[49][48] However, we did find a significant decrease in vitamin B2 concentrations after pasteurization. Vitamin B2 is typically found in bovine milk at concentrations of 1.83 mg/liter. Because the recommended daily intake for adults is 1.1 mg/day,[47] milk consumption greatly contributes to the recommended daily intake of this vitamin. With the exception of B2, pasteurization does not appear to be a concern in diminishing the nutritive value of milk because milk is often not a primary source of these studied vitamins in the North American diet.
+The natural concentrations of vitamins in bovine milk samples can differ significantly as a result of a number of factors, including cow breed, season, country, vitamin concentrations in feed, and frequency of milkings.[50][51][52][53] However, changes resulting from pasteurization are likely dependent on the time and temperature of pasteurization conditions. Meta-regression was used to assess the roles of time and temperature in between-study heterogeneity. The duration of pasteurization was positively correlated with folate concentrations, and a direct inverse relationship was found between pasteurization temperature and vitamin C concentrations. Multivariate analysis of time and temperature revealed a significant negative correlation between these variables and vitamin B2 concentrations. These results indicate a likely relationship between time, temperature, and vitamin concentrations in milk; however, further research is needed to tease apart these effects because they appear to differ by vitamin.
+Another possible source of heterogeneity among study results is the variation in techniques used to assess vitamin concentrations in milk. HPLC was selected as the ‘‘gold standard’’ method for determination of fat-soluble vitamins by AOAC International.[54] No gold standard has been identified for water-soluble vitamins; fluorescence spectroscopy, chromatography, and microbiological methods are all referenced in the AOAC official methods.[54] Metaregression for vitamin B1 and folate studies revealed a significant association between study and method used to quantify vitamins; however, this variable was not significant for other vitamins. Analytic methods must take into consideration separation of vitamers for each vitamin, the methodology used for calibration of external standards, retention of vitamer conformation, and successful recovery.[55][56][57][58] The solvents, standards, execution of extraction procedures, and equipment used to carry out these analyses may differ among investigators and can introduce variation among studies.[55] Hollman et al.[55] investigated 18 laboratories that were asked to analyze water-soluble vitamin contents in selected foods. These authors reported that in contrast to the fat-soluble vitamins a wider range of methods was used for water-soluble vitamins and that results from different methods did not always agree for vitamins B2 and C.
+Our results also indicate a likely publication bias for studies of vitamins B1 and folate. Possible reasons for this bias include exclusion of those studies not published English and inclusion of only full articles for appraisal and analysis."
+According to studies from the 1933 and 1943, soluble calcium and phosphorus levels decrease by 5%, thiamine (vitamin B1) and vitamin B12 (cobalamin) levels by 10%, and vitamin C levels by 20%.[21][59] These losses are not significant nutritionally.[60]
+Verification[edit]
+Direct microbiological techniques are the ultimate measurement of pathogen contamination, but these are costly and time-consuming (24–48 hours), which means that products are able to spoil by the time pasteurization is verified.
+As a result of the unsuitability of microbiological techniques, milk pasteurization efficacy is typically monitored by checking for the presence of alkaline phosphatase, which is denatured by pasteurization. B. tuberculosis, the bacterium that requires the highest temperature to be killed of all milk pathogens is killed at ranges of temperature and time similar to those that denature alkaline phosphatase. For this reason, presence of alkaline phosphatase is an ideal indicator of pasteurization efficacy.[61][62]
+Phosphatase denaturing was originally monitored using a phenol-phosphate substrate. When hydrolysed by the enzyme these compounds liberate phenols, which were then reacted with dibromoquinonechlorimide to give a colour change, which itself was measured by checking absorption at 610 nm (spectrophotometry). Some of the phenols used were inherently coloured (phenolpthalein, nitrophenol) and were simply assayed unreacted.[36] Spectrophotometric analysis is satisfactory but is of relatively low accuracy because many natural products are coloured. For this reason, modern systems (since 1990) use fluorometry which is able to detect much lower levels of raw milk contamination.[36]
+Unpasteurized milk[edit]
+For more details on this topic, see Raw milk.
+According to the United States Centers for Disease Control between 1998 and 2011, 79% of the dairy-related outbreaks were due to raw milk or cheese products.[63] They report 148 outbreaks and 2,384 illnesses (284 requiring hospitalizations), as well as two deaths due to raw milk or cheese products during the same time period.[63]
+Low moisture foods[edit]
+There is a common misconception that low numbers of Salmonella are not a problem in lowmoisture foods because these products do not support Salmonella growth. However, low numbers of Salmonella in foods can cause illness, and the presence of the organism in lowmoisture ready-to-eat foods must be prevented.[64]>
+Along other preventative measures pasteurization can make consumption low moisture foods safe. Care should be taken when pasteurizing dry food products. The amount of time needed for a proper pasteurization effect is at lower water activities (dry food products have a low water activity) is a lot longer than for moist products. Instead of making the time longer, also the amount of moist in the product can be controlled to increase the pasteurization effect with a shorter treatment time.[64]
+Consumer acceptance[edit]
+Although pasteurization has been practiced for a long time, some consumers contend that they should have the right to buy and sell unpasteurized milk if they want to.
+Some consumers also point out that government-enforced pasteurization law has been used as a tool for large business to shut out competition from smaller producers. See the case of the FDA's shut down of Goodflow Juice in 2008.[65]
+Products that are commonly pasteurized[edit]
+
+
+Beer
+Canned food
+Dairy products
+Eggs
+Milk
+Juices
+Low alcoholic beverages
+Syrups
+Vinegar
+Water
+Wines
+Nuts
+
+
+See also[edit]
+
+
+Food portal
+Technology portal
+
+
+
+
+Food irradiation
+Flash pasteurization
+Pascalization
+Homogenization
+Pasteurized eggs
+Solar water disinfection
+Thermoduric bacteria
+Food preservation
+Food storage
+Food microbiology
+Sterilization
+Thermization
+Louis Pasteur
+
+
+References[edit]
+
+
+^ The Oxford English Dictionary; Oxford University Press 1981
+^ "Heat Treatments and Pasteurization | MilkFacts.info". milkfacts.info. Retrieved 2016-12-12. 
+^ Montville, T. J., and K. R. Matthews: "food microbiology an introduction", page 30. American Society for Microbiology Press, 2005.
+^ Hornsey, Ian Spencer and George Bacon (2003). A History of Beer and Brewing. Royal Society of Chemistry. p. 30. ISBN 0-85404-630-5. […] sake is pasteurized and it is interesting to note that a pasteurization technique was first mentioned in 1568 in the _Tamonin-nikki_, the diary of a Buddhist monk, indicating that it was practiced in Japan some 300 years before Pasteur. In China, the first country in East Asia to develop a form of pasteurization, the earliest record of the process is said to date from 1117. 
+^ a b c Vallery-Radot, René (2003-03-01). Life of Pasteur 1928. pp. 113–114. ISBN 978-0-7661-4352-4. 
+^ a b c Lance Day, Ian McNeil, ed. (1996). Biographical Dictionary of the History of Technology. Routledge. ISBN 0-415-19399-0. 
+^ Gordon L. Robertson (1998). Food Packaging: Principles End Practice. Marcel Dekker. p. 187. ISBN 978-0-8247-0175-8. 
+^ "''The First Book on Modern Food Preservation Methods (1810)''". Historyofscience.com. 2009-09-29. Retrieved 2014-03-19. 
+^ Wiley, R. C (1994). Minimally processed refrigerated fruits and vegetables. p. 66. ISBN 978-0-412-05571-3. Nicolas Appert in 1810 was probably the first person […] 
+^ Alvin Toffler, "Future Shock".
+^ "BBC - History - Louis Pasteur". 
+^ Carlisle, Rodney (2004). Scientific American Inventions and Discoveries, p.357. John Wiley & Songs, Inc., new Jersey. ISBN 0-471-24410-4.
+^ Hwang, Andy; Huang, Lihan (31 January 2009). Ready-to-Eat Foods: Microbial Concerns and Control Measures. CRC Press. p. 88. ISBN 978-1-4200-6862-7. Retrieved 19 April 2011. 
+^ "Harold Eddleman, ''Making Milk Media'', Indiana Biolab". Disknet.com. Retrieved 2014-03-19. 
+^ "Frank O'Mahony, ''Rural dairy technology: Experiences in Ethiopia'', International Livestock Centre for Africa". Ilri.org. Archived from the original on 20 February 2014. Retrieved 19 March 2014. 
+^ "Food safety of raw milk". Foodsmart.govt.nz. Retrieved 2014-03-19. 
+^ Langewtirisotmqywrreooqeoapltgfdjigkgiddr, Adam J.; Ayers, Tracy; Grass, Julian; Lynch, Michael; Angulo, Frederick; Mahon, Barbara. "Nonpasteurized Dairy Products, Disease Outbreaks, and State Laws—United States, 1993–2006" (PDF). https://www.cdc.gov/foodsafety/rawmilk/raw-milk-questions-and-answers.html. Retrieved 11 February 2015.  External link in |website= (help)
+^ "Milk Pasteurization: Guarding against disease", Michigan State University Extension
+^ Smith, P. W., (August 1981), "Milk Pasteurization" Fact Sheet Number 57, U.S. Department of Agriculture Research Service, Washington, D.C.
+^ a b Hotchkiss, Joseph H. (2001), "Lambasting Louis: Lessons from Pasteurization" (PDF), National Agricultural Biotechnology Council Report, 13: 61 
+^ a b Wilson, G. S. (1943), "The Pasteurization of Milk", British Medical Journal, 1 (4286): 261, doi:10.1136/bmj.1.4286.261, PMC 2282302 , PMID 20784713 
+^ Pearce, Lindsay (2002). "Bacterial diseases - The impact of milk processing to reduce risks". Bulletin of the International Dairy Federation. 372: 20–25. ISSN 0250-5118. 
+^ a b "Eighty years of public health in New York City" (PDF). Bulletin of the New York Academy of Medicine. 23: 221–237. 1947 – via NCBI. 
+^ News article, [Boston] Independent Ledger, 16 June 1783
+^ News article, Western Constellation, 19 July 1802
+^ Franz Soxhlet (1886) "Über Kindermilch und Säuglings-Ernährung" (On milk for babies and infant nutrition), Münchener medizinische Wochenschrift (Munich Medical Weekly), vol. 33, pages 253, 276.
+^ "January 1: Pasteurization". Jewish Currents. 1 January 2015. 
+^ "Milton J. Rosenau, M.D". www.cdc.gov. 
+^ "Details - The milk question, by M. J. Rosenau. - Biodiversity Heritage Library". www.biodiversitylibrary.org. 
+^ "http://www.ncleg.net/DocumentSites/Committees/HSCAR/Meetings/2011-2012/4%20-%20March%207/2012-0307%20B.Riley-%20NCGA%20Research%20-%20Fed%20and%20State%20Regs%20of%20Raw%20Milk%20Presentation.pdf" (PDF).  External link in |title= (help)
+^ "Grade A Pasteurized Milk Ordinance 2009 Revision". US Department of Health and Human Services.  Missing or empty |url= (help); |access-date= requires |url= (help)
+^ a b Tortora, Gerard (2010). Microbiology: An Introduction, p.191. Pearson Benjamin Cummings, San Francisco. ISBN 0-321-55007-2.
+^ Koel, Jaan (2001). "Paving the Way for ESL". Dairy Foods. Archived from the original on 2012-07-08. 
+^ a b Rich, Robert (5 September 2003). "Keeping it raw". The Mountain View Voice. Embarcadero Publishing Company. Retrieved 23 October 2010. 
+^ Canadian Food Inspection System – Dairy Production and Processing Regulations (Fourth Edition) – 2005[dead link]
+^ a b c Langridge, E W. The Determination of Phosphatase Activity. Quality Management Ltd. Retrieved 2013-12-20. 
+^ a b Lippincott's General Medicine & Surgery, 1911 Edition, pp 70-
+^ "Gentle pasteurization of milk – with microwaves". ScienceDaily. 
+^ Ball, C. Olin (1943-01-01). "Short-Time Pasteurization of Milk". Industrial & Engineering Chemistry. 35 (1): 71–84. doi:10.1021/ie50397a017. ISSN 0019-7866. 
+^ Enright, J. B.; Sadler, W. W.; Thomas, R. C. (1957). "Thermal inactivation of Coxiella burnetii and its relation to pasteurization of milk". Public Health Monograph. 47: 1–30. ISSN 0079-7596. PMID 13465932. 
+^ Cerf, O.; Condron, R. (2006). "Coxiella burnetii and milk pasteurization: an early application of the precautionary principle?". Epidemiology & Infection. 134 (5): 946–951. doi:10.1017/S0950268806005978. ISSN 1469-4409. PMC 2870484 . PMID 16492321. 
+^ Kells, H. R.; Lear, S. A. (1960-07-01). "Thermal Death Time Curve of Mycobacterium tuberculosis var. bovis in Artificially Infected Milk". Applied Microbiology. 8 (4): 234–236. ISSN 0099-2240. PMC 1057612 . PMID 14405283. 
+^ a b Pearce, L. E.; Smythe, B. W.; Crawford, R. A.; Oakley, E.; Hathaway, S. C.; Shepherd, J. M. (2012). "Pasteurization of milk: The heat inactivation kinetics of milk-borne dairy pathogens under commercial-type conditions of turbulent flow". Journal of Dairy Science. 95 (1): 20–35. doi:10.3168/jds.2011-4556. ISSN 0022-0302. PMID 22192181. 
+^ "Code of Hygienic Practice for Milk and Milk Products" (PDF). Codex Alimentarius. Retrieved 15 June 2017. 
+^ a b Pearce, Lindsay E.; Truong, H. Tuan; Crawford, Robert A.; Yates, Gary F.; Cavaignac, Sonia; Lisle, Geoffrey W. de (2001-09-01). "Effect of Turbulent-Flow Pasteurization on Survival of Mycobacterium avium subsp.paratuberculosis Added to Raw Milk". Applied and Environmental Microbiology. 67 (9): 3964–3969. doi:10.1128/AEM.67.9.3964-3969.2001. ISSN 0099-2240. PMC 93116 . PMID 11525992. 
+^ a b c Macdonald, Lauren E.; Brett, James; Kelton, David; Majowicz, Shannon E.; Snedeker, Kate; Sargeant, Jan M. (2011-11-01). "A systematic review and meta-analysis of the effects of pasteurization on milk vitamins, and evidence for raw milk consumption and other health-related outcomes". Journal of Food Protection. 74 (11): 1814–1832. doi:10.4315/0362-028X.JFP-10-269. ISSN 1944-9097. PMID 22054181. 
+^ a b U.S. Department of Agriculture. 2001. Dietary reference intakes-recommended intakes for individuals. National Academy of Sciences. Institute of Medicine, Food and Nutrition Board. Available at: http://fnic.nal.usda.gov/nal_display/index.phpinfo_center~4&tax_level~3&tax_subject~256&topic_id~1342&level3_id~5140{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }}.
+^ a b U.S. Department of Agriculture. 2009. "What's in the foods you eat" search tool. Available at: "https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/food-surveys-research-group/docs/whats-in-the-foods-you-eat-emsearch-toolem/
+^ a b Haug, Anna; Høstmark, Arne T; Harstad, Odd M (2007-09-25). "Bovine milk in human nutrition – a review". Lipids in Health and Disease. 6: 25. doi:10.1186/1476-511X-6-25. ISSN 1476-511X. PMC 2039733 . PMID 17894873. 
+^ Agabriel, C.; Cornu, A.; Journal, C.; Sibra, C.; Grolier, P.; Martin, B. (2007-10-01). "Tanker milk variability according to farm feeding practices: vitamins A and E, carotenoids, color, and terpenoids". Journal of Dairy Science. 90 (10): 4884–4896. doi:10.3168/jds.2007-0171. ISSN 1525-3198. PMID 17881712. 
+^ Calderón, F.; Chauveau-Duriot, B.; Martin, B.; Graulet, B.; Doreau, M.; Nozière, P. (2007-05-01). "Variations in carotenoids, vitamins A and E, and color in cow's plasma and milk during late pregnancy and the first three months of lactation". Journal of Dairy Science. 90 (5): 2335–2346. doi:10.3168/jds.2006-630. ISSN 1525-3198. PMID 17430936. 
+^ Johansson, B.; Waller, K. Persson; Jensen, S. K.; Lindqvist, H.; Nadeau, E. (2014-03-01). "Status of vitamins E and A and β-carotene and health in organic dairy cows fed a diet without synthetic vitamins". Journal of Dairy Science. 97 (3): 1682–1692. doi:10.3168/jds.2013-7388. ISSN 0022-0302. PMID 24440269. 
+^ Indyk, H. E., and D. C. Woollard. 1995. The endogenous vitamin K1 content of bovine milk: temporal influence of season and lactation. Food Chem. 54:403–407.
+^ a b AOAC International. 1995. Official methods of analysis, 16th ed., vol. II. AOAC International, Arlington, VA.
+^ a b c Hollman, P. C.; Slangen, J. H.; Wagstaffe, P. J.; Faure, U.; Southgate, D. A.; Finglas, P. M. (1993-05-01). "Intercomparison of methods for the determination of vitamins in foods. Part 2. Water-soluble vitamins". The Analyst. 118 (5): 481–488. ISSN 0003-2654. PMID 8323044. 
+^ Perales, S.; Alegría, A.; Barberá, R.; Farré, R. (2005-12-01). "Review: Determination of Vitamin D in Dairy Products by High Performance Liquid Chromatography". Revista de Agaroquimica y Tecnologia de Alimentos. 11 (6): 451–462. doi:10.1177/1082013205060129. ISSN 0034-7698. 
+^ Viñas, Pilar; Balsalobre, Nuria; López-Erroz, Carmen; Hernández-Córdoba, Manuel (2004-04-01). "Liquid Chromatographic Analysis of Riboflavin Vitamers in Foods Using Fluorescence Detection". Journal of Agricultural and Food Chemistry. 52 (7): 1789–1794. doi:10.1021/jf030756s. ISSN 0021-8561. 
+^ Byrdwell, William C. (2009-03-25). "Comparison of analysis of vitamin D3 in foods using ultraviolet and mass spectrometric detection". Journal of Agricultural and Food Chemistry. 57 (6): 2135–2146. doi:10.1021/jf803398u. ISSN 1520-5118. PMID 19249820. 
+^ Krauss, W. E., Erb, J. H. and Washburn, R.G., "Studies on the nutritive value of milk, II. The effect of pasteurization on some of the nutritive properties of milk," Ohio Agricultural Experiment Station Bulletin 518, page 30, January, 1933.
+^ Claeys, Wendy L.; Sabine Cardoen; Georges Daube; Jan De Block; Koen Dewettinck; Katelijne Dierick; Lieven De Zutter; André Huyghebaert; Hein Imberechts; Pierre Thiange; Yvan Vandenplas; Lieve Herman (May 2013). "Raw or heated cow milk consumption: Review of risks and benefits". Food Control. 31 (1): 251–262. doi:10.1016/j.foodcont.2012.09.035. 
+^ Kay, H. (1935). "Some Results of the Application of a Simple Test for Efficiency of Pasteurization". The Lancet. 225 (5835): 1516–1518. doi:10.1016/S0140-6736(01)12532-8. 
+^ Hoy, W. A.; Neave, F. K. (1937). "The Phosphatase Test for Efficient Pasteurization". The Lancet. 230 (5949): 595. doi:10.1016/S0140-6736(00)83378-4. 
+^ a b "CDC - Raw Milk Questions and Answers - Food Safety". Centers for Disease Control. 2014-03-07. Retrieved 2014-03-19. 
+^ a b "SalmonellaControlGuidance" (PDF). 
+^ http://www.austinchronicle.com/news/2008-09-12/671872/
+
+
+Further reading[edit]
+
+Raw milk expert testimony dated: April 25, 2008 Case: ORGANIC PASTURES DAIRY COMPANY, LLC, and CLARAVALE FARM, INC., Plaintiffs, vs. No. CU-07-00204 STATE OF CALIFORNIA and A.G. KAWAMURA, SECRETARY OF CALIFORNIA DEPARTMENT OF FOOD AND AGRICULTURE, Defendants. - Expert Witnesses: Dr. Theodore Beals & Dr. Ronald Hull
+Here's an alternate view on the alleged safety of pasteurized vs. natural milk from: Johns Hopkins University: Realmilk.com, Webmaster (12 August 2015). "The Johns Hopkins Raw Milk Study - A Campaign for Real Milk". A Campaign for Real Milk. 
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Pasteurization.
+
+
+
+Online forum on modern day pasteurization equipment
+Extended Shelf Life
+Unraveling the mysteries of extended shelf life
+Hatch, Sybil E (2006-01-01). Changing our world: true stories of women engineers. Reston, Va.: American Society of Civil Engineers. ISBN 0784408416. 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cooking techniques
+
+
+
+
+List of cooking techniques
+
+
+
+Dry
+
+
+
+
+Conduction
+
+
+
+Dry roasting
+Hot salt frying
+Searing
+
+
+
+
+
+Convection
+
+
+
+Baking
+Roasting (modern)
+Smoking
+
+
+
+
+
+Radiation
+
+
+
+Grilling (charbroiling)
+Roasting (traditional)
+Rotisserie
+Toasting
+
+
+
+
+
+
+
+
+Wet
+
+
+
+
+High heat
+
+
+
+Blanching
+Boiling
+Decoction
+Parboiling
+Shocking
+
+
+
+
+
+Low heat
+
+
+
+Coddling
+Creaming
+Infusion
+Poaching
+Simmering
+Slow cooker
+Smothering
+Steeping
+Stewing
+
+
+
+
+
+Indirect heat
+
+
+
+Bain-marie (Double boiling)
+Sous-vide
+Double steaming
+Steaming
+
+
+
+
+
+
+
+
+Fat-based
+
+
+
+
+High heat
+
+
+
+Blackening
+Browning
+Deep frying
+Pan frying
+Reduction
+Shallow frying
+Stir frying (bao)
+Sautéing
+
+
+
+
+
+Low heat
+
+
+
+Gentle frying
+Sweating
+
+
+
+
+
+
+
+
+Mixed medium
+
+
+
+Barbecuing
+Braising
+Flambé
+Fricassee
+Indirect grilling/Plank cooking
+Stir frying (chao)
+
+
+
+
+
+Device-based
+
+
+
+Air frying
+Microwaving
+Pressure cooking
+Pressure frying
+Thermal cooking
+
+
+
+
+
+Non-heat
+
+
+
+Curing
+Fermenting
+Pickling
+Souring
+
+
+
+
+
+See also
+
+
+
+List of cooking appliances
+List of cooking vessels
+Outdoor cooking
+Food preparation
+Food preservation
+Food safety
+
+
+
+
+
+
+ Food portal  Drink portal  Category  Commons  Cookbook  WikiProject
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Milk
+
+
+
+From animals
+
+
+
+Buffalo
+Camel
+Cow
+Donkey
+Goat
+Horse
+Human
+
+Colostrum
+Newborn
+
+
+Moose
+Pig
+Sheep
+
+
+
+
+
+
+
+
+From plants
+
+
+
+Plant milk
+Almond
+Coconut
+Hemp
+Rice
+Peanut
+Soy-based infant formula
+Soy
+
+
+
+
+
+Types
+
+
+
+A2
+Baked
+Condensed
+Evaporated
+Filled
+Flavored
+
+Anise
+Chocolate
+Coffee
+Vanilla
+
+
+Ice
+Malted
+Organic
+Pasteurized
+Powdered
+Raw
+Scalded
+Skimmed
+Soured
+Toned
+UHT
+Ultrafiltered
+
+
+
+
+
+Products
+
+
+
+Ayran
+Butter
+Buttermilk
+Cheese
+Cream
+Curd
+Ice cream
+Jewelry
+Kefir
+Milkshake
+Whey
+Yogurt
+
+
+
+
+
+Topics
+
+
+
+Allergy
+Containers
+
+Bag
+Bottle
+Crate
+Jug
+Milk churn
+
+
+Dairy
+Lactation
+
+Breastfeeding
+
+
+Milking
+
+Pipeline
+
+
+Professions
+
+Milkmaid
+Milkman
+
+
+
+
+
+
+
+
+
+
+ Category
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4236993-9
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pasteurization&oldid=812551213"					
+Categories: Food scienceUnit operationsFood preservationLouis PasteurIndustrial processesHidden categories: CS1 errors: external linksPages using web citations with no URLPages using citations with accessdate and no URLAll articles with dead external linksArticles with dead external links from March 2014Use dmy dates from July 2012All articles with unsourced statementsArticles with unsourced statements from May 2010Articles with unsourced statements from April 2013Wikipedia articles with GND identifiers 

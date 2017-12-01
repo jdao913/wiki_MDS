@@ -1,0 +1,1446 @@
+Ideology - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+An automated process has detected links on this page on the local or global blacklist. If the links are appropriate you may request whitelisting by following these instructions; otherwise consider removing or replacing them with more appropriate links. (To hide this tag, set the "invisible" field to "true")
+
+List of blacklisted links:
+
+
+http://www.econlib.org/library/Tracy/DestuttdeTracyBio.html
+
+Triggered by \beconlib\.org\b on the local blacklist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The neutrality of this section is disputed. Relevant discussion may be found on the talk page. Please do not remove this message until conditions to do so are met. (May 2017) (Learn how and when to remove this template message)
+
+
+
+
+
+Part of a series on
+
+
+Politics
+
+
+
+
+
+
+
+Primary topics
+
+
+
+Index of politics articles
+Politics by country
+Politics by subdivision
+Political economy
+Political history
+Political history of the world
+Political philosophy
+
+
+
+
+
+
+
+
+
+Political systems
+
+
+
+Anarchy
+
+
+City-state
+Democracy
+
+
+Federacy
+Feudalism
+
+
+Dictatorship
+Directory
+
+
+Meritocracy
+Monarchy
+
+
+Parliamentary
+Presidential
+
+
+Republic
+Semi-parliamentary
+
+
+Semi-presidential
+Theocracy
+
+
+
+
+
+
+
+
+
+Academic disciplines
+
+
+
+
+Political science
+(political scientists)
+
+
+International relations
+(theory)
+
+Comparative politics
+
+
+
+
+
+
+
+
+
+Public administration
+
+
+
+Bureaucracy (street-level)
+Adhocracy
+
+
+
+
+
+
+
+
+
+Policy
+
+
+
+Public policy (doctrine)
+
+
+Domestic and foreign policy
+
+
+Civil society
+
+
+Public interest
+
+
+
+
+
+
+
+
+
+Organs of government
+
+
+
+Separation of powers
+
+
+Legislature
+Executive
+
+
+Judiciary
+Election commission
+
+
+
+
+
+
+
+
+
+Related topics
+
+
+
+Sovereignty
+Theories of political behavior
+Political psychology
+Biology and political orientation
+Political organisations
+Foreign electoral intervention
+
+
+
+
+
+
+
+
+
+Subseries
+
+
+
+Electoral systems
+
+
+Elections (voting)
+
+
+Federalism
+Form of government
+
+
+Ideology
+Political campaigning
+
+
+Political parties
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Ideology is a comprehensive set of normative beliefs, conscious and unconscious ideas, that an individual, group or society has.
+An ideology is narrower in scope than the ideas expressed in concepts such as worldview, imaginary and ontology.[1]
+Political ideologies can be proposed by the dominant class of society such as the elite to all members of society as suggested in some Marxist and critical-theory accounts. In societies that distinguish between public and private life, every political or economic tendency entails ideology, whether or not it is propounded as an explicit system of thought.
+In the Althusserian sense, ideology is "the imaginary relation to the real conditions of existence".
+
+
+
+Contents
+
+
+1 Etymology and history
+2 Analysis
+
+2.1 Marxist view
+2.2 Louis Althusser's Ideological State Apparatuses
+2.3 Ideology and the Commodity in the works of Guy Debord
+2.4 Silvio Vietta: ideology and rationality
+2.5 Eric Hoffer: unifying agents
+2.6 Ronald Inglehart
+
+
+3 Political ideologies
+
+3.1 Government ideology
+3.2 Implementation
+
+
+4 Epistemological ideologies
+5 Psychological research
+6 Ideology and semiotic theory
+7 Quotations
+8 See also
+9 Notes
+10 References
+11 External links
+
+
+
+Etymology and history[edit]
+The term "ideology" was born during the Great Terror of French Revolution, and acquired several other meanings thereafter.
+The word, and the system of ideas associated with it, was coined by Antoine Destutt de Tracy in 1796,[2] while he was in prison pending trial during the Terror. The word was created by assembling the words idea, from Greek ἰδέα (near to the Lockean sense) and -logy, from -λογία.
+The coup that overthrew Maximilien Robespierre allowed Tracy to pursue his work. [3][4]
+Tracy reacted to the terroristic phase of the revolution by trying to work out a rational system of ideas to oppose the irrational mob impulses that had nearly destroyed him. He devised the term to refer to a "science of ideas" which he hoped would form a secure foundation for the moral and political sciences by examining two things: 1) sensations people experienced as they interact with the material world; and 2) the ideas that formed in their minds due to those sensations. He conceived of "Ideology" a liberal philosophy which provided a powerful defense of individual liberty, property, free markets, and constitutional limits on state power. He argues that among these aspects ideology is the most generic term, because the science of ideas also contains the study of their expression and deduction. [5]
+Tracy worked this out during the Napoleonic regime, and Napoleon Bonaparte came to view 'Ideology' a term of abuse which he often hurled against his liberal foes in Tracy's Institut National. According to Karl Mannheim's historical reconstruction of the shifts in the meaning of ideology, the modern meaning of the word was born when Napoleon used it to describe his opponents as "the ideologues". Karl Marx adopted this negative sense of the term and used it in his writings (he described Tracy as a "fischblütige Bourgeoisdoktrinär", a fishblooded bourgeois doctrinaire). [6]
+Tracy's major book, The Elements of Ideology, was soon translated into the major languages of Europe, and in the next generation, when post-Napoleonic governments adopted a reactionary stance, influenced the Italian, Spanish and Russian thinkers who had begun to describe themselves as "liberals" and who attempted to reignite revolutionary activity in the early 1820s (these included the Carlist rebels in Spain, the Carbonari societies in France and Italy, and the Decembrists in Russia).
+In the century after Tracy, the term ideology moved back and forth between positive and negative connotations.
+(Perhaps the most accessible source for the near-original meaning of ideology is Hippolyte Taine's work on the Ancien Régime (the first volume of "Origins of Contemporary France"). He describes ideology as rather like teaching philosophy by the Socratic method, but without extending the vocabulary beyond what the general reader already possessed, and without the examples from observation that practical science would require. Taine identifies it not just with Destutt De Tracy, but also with his milieu, and includes Condillac as one of its precursors. (Destutt de Tracy read the works of Locke and Condillac while he was imprisoned during the Reign of Terror.))
+The term "ideology" has dropped some of its pejorative sting, and has become a neutral term in the analysis of differing political opinions and views of social groups.[7] While Karl Marx situated the term within class struggle and domination,[8][9] others believed it was a necessary part of institutional functioning and social integration.[10]
+Analysis[edit]
+There has been considerable analysis of different ideological patterns. This kind of analysis has been described by some as meta-ideology—the study of the structure, form, and manifestation of ideologies. Recent analysis tends to posit that ideology is a coherent system of ideas, relying upon a few basic assumptions about reality that may or may not have any factual basis. Ideas become ideologies (that is, become coherent, repeated patterns) through the subjective ongoing choices that people make, serving as the seed around which further thought grows. According to most recent analysis, ideologies are neither necessarily right nor wrong. Believers in ideology range from passive acceptance through fervent advocacy to true belief. An excessive need for certitude lurks at fundamentalist levels in politics and religions.
+This accords with definitions such as given by Manfred Steger and Paul James which emphasize both the issue of patterning and contingent claims to truth:
+
+Ideologies are patterned clusters of normatively imbued ideas and concepts, including particular representations of power relations. These conceptual maps help people navigate the complexity of their political universe and carry claims to social truth.[11]
+
+The works of George Walford and Harold Walsby, done under the heading of systematic ideology, are attempts to explore the relationships between ideology and social systems. Charles Blattberg has offered an account which distinguishes political ideologies from political philosophies.[12]
+David W. Minar describes six different ways in which the word "ideology" has been used:
+
+As a collection of certain ideas with certain kinds of content, usually normative;
+As the form or internal logical structure that ideas have within a set;
+By the role in which ideas play in human-social interaction;
+By the role that ideas play in the structure of an organization;
+As meaning, whose purpose is persuasion; and
+As the locus of social interaction.
+
+For Willard A. Mullins an ideology should be contrasted with the related (but different) issues of utopia and historical myth. An ideology is composed of four basic characteristics:
+
+it must have power over cognition
+it must be capable of guiding one's evaluations;
+it must provide guidance towards action; and
+it must be logically coherent.
+
+Terry Eagleton outlines (more or less in no particular order) some definitions of ideology:[13]
+
+the process of production of meanings, signs and values in social life;
+a body of ideas characteristic of a particular social group or class;
+ideas which help to legitimate a dominant political power;
+false ideas which help to legitimate a dominant political power;
+systematically distorted communication;
+that which offers a position for a subject;
+forms of thought motivated by social interests;
+identity thinking;
+socially necessary illusion;
+the conjuncture of discourse and power;
+the medium in which conscious social actors make sense of their world;
+action-oriented sets of beliefs;
+the confusion of linguistic and phenomenal reality;
+semiotic closure;
+the indispensable medium in which individuals live out their relations to a social structure;
+the process whereby social life is converted to a natural reality.
+
+The German philosopher Christian Duncker called for a "critical reflection of the ideology concept" (2006). In his work, he strove to bring the concept of ideology into the foreground, as well as the closely connected concerns of epistemology and history. In this work, the term ideology is defined in terms of a system of presentations that explicitly or implicitly claim to absolute truth.
+Though the word "ideology" is most often found in political discourse, there are many different kinds of ideology: political, social, epistemological, ethical, etc.
+Marxist view[edit]
+
+
+
+
+Karl Marx posits that a society's dominant ideology is integral to its superstructure.
+
+
+In the Marxist economic base and superstructure model of society, base denotes the relations of production and modes of production, and superstructure denotes the dominant ideology (religious, legal, political systems). The economic base of production determines the political superstructure of a society. Ruling class-interests determine the superstructure and the nature of the justifying ideology—actions feasible because the ruling class control the means of production. For example, in a feudal mode of production, religious ideology is the most prominent aspect of the superstructure, while in capitalist formations, ideologies such as liberalism and social democracy dominate. Hence the great importance of the ideology justifying a society; it politically confuses the alienated groups of society via false consciousness.
+Some explanations have been presented. György Lukács proposes ideology as a projection of the class consciousness of the ruling class. Antonio Gramsci uses cultural hegemony to explain why the working-class have a false ideological conception of what are their best interests. Marx argued that "The class which has the means of material production at its disposal has control at the same time over the means of mental production."[14]
+The Marxist formulation of "ideology as an instrument of social reproduction" is conceptually important to the sociology of knowledge,[15] viz. Karl Mannheim, Daniel Bell, and Jürgen Habermas et al. Moreover, Mannheim has developed, and progressed, from the "total" but "special" Marxist conception of ideology to a "general" and "total" ideological conception acknowledging that all ideology (including Marxism) resulted from social life, an idea developed by the sociologist Pierre Bourdieu. Slavoj Žižek and the earlier Frankfurt School added to the "general theory" of ideology a psychoanalytic insight that ideologies do not include only conscious, but also unconscious ideas.
+Louis Althusser's Ideological State Apparatuses[edit]
+Louis Althusser proposed both spiritual and materialistic conception of ideology, which made use of a special type of discourse: the lacunar discourse. A number of propositions, which are never untrue, suggest a number of other propositions, which are. In this way, the essence of the lacunar discourse is what is not told (but is suggested).
+For example, the statement "All are equal before the law", which is a theoretical groundwork of current legal systems, suggests that all people may be of equal worth or have equal "opportunities". This is not true, for the concept of private property and power over the means of production results in some people being able to own more (much more) than others. This power disparity contradicts the claim that all share both practical worth and future opportunity equally; for example, the rich can afford better legal representation, which practically privileges them before the law.
+Althusser also proffered the concept of the Ideological State Apparatus to explain his theory of ideology. His first thesis was "ideology has no history": while individual ideologies have histories, interleaved with the general class struggle of society, the general form of ideology is external to history.
+For Althusser, beliefs and ideas are the products of social practices, not the reverse. His thesis that "ideas are material" is illustrated by the "scandalous advice" of Pascal toward unbelievers: "kneel and pray, and then you will believe". What is ultimately ideological for Althusser are not the subjective beliefs held in the conscious "minds" of human individuals, but rather discourses that produce these beliefs, the material institutions and rituals that individuals take part in without submitting it to conscious examination and so much more critical thinking.
+Ideology and the Commodity in the works of Guy Debord[edit]
+The French Marxist theorist Guy Debord, founding member of the Situationist International, argued that when the commodity becomes the "essential category" of society, i.e. when the process of commodification has been consummated to its fullest extent, the image of society propagated by the commodity (as it describes all of life as constituted by notions and objects deriving their value only as commodities tradeable in terms of exchange value), colonizes all of life and reduces society to a mere representation, The Society of the Spectacle.[16]
+Silvio Vietta: ideology and rationality[edit]
+
+
+
+
+
+
+This section's factual accuracy is disputed. Relevant discussion may be found on Talk:Ideology. Please help to ensure that disputed statements are reliably sourced. (July 2015) (Learn how and when to remove this template message)
+
+
+
+The German cultural historian Silvio Vietta described the development and expansion of Western rationality from ancient times onwards as often accompanied by and shaped by ideologies like that of the "just war", the "true religion", racism, nationalism, or the vision of future history as a kind of heaven on earth in communism. He said that ideas like these became ideologies by giving hegemonic political actions an idealistic veneer and equipping their leaders with a higher and, in the "political religions" (Eric Voegelin), nearly God-like power, so that they became masters over the lives (and the deaths) of millions of people. He considered that ideologies therefore contributed to power politics irrational shields of ideas beneath which they could operate as manifestations of idealism.[17][18]
+Eric Hoffer: unifying agents[edit]
+The American philosopher Eric Hoffer identified several elements which work to unify followers of a particular ideology:[19]
+1) Hatred: "Mass movements can rise and spread without a God, but never without belief in a devil."[20]. The "ideal devil" is a foreigner.[21]
+2) Imitation: "The less satisfaction we derive from being ourselves, the greater is our desire to be like others ... the more we mistrust our judgment and luck, the more are we ready to follow the example of others."[22]
+3) Persuasion: The proselytizing zeal of propagandists derives from "a passionate search for something not yet found more than a desire to bestow something we already have."[23]
+4) Coercion: Hoffer asserts that violence and fanaticism are interdependent.[24] People forcibly converted to Islamic or communist beliefs become as fanatical as those who did the forcing.[25] "It takes fanatical faith to rationalize our cowardice."[26]
+5) Leadership: Without the leader, there is no movement. Often the leader must wait long in the wings until the time is ripe. He calls for sacrifices in the present, to justify his vision of a breathtaking future. The skills required include: audacity, brazenness, iron will, fanatical conviction; passionate hatred, cunning, a delight in symbols; ability to inspire blind faith in the masses and a group of able lieutenants.[27] Charlatanism is indispensable, and the leader often imitates both friend and foe, "a single-minded fashioning after a model". He will not lead followers towards the "promised land", but only "away from their unwanted selves".[28]
+6) Action: Original thoughts are suppressed, and unity encouraged, if the masses are kept occupied through great projects, marches, exploration and industry.[29]
+7) Suspicion: "There is prying and spying, tense watching and a tense awareness of being watched." This pathological mistrust goes unchallenged and encourages conformity, not dissent.[30]
+Ronald Inglehart[edit]
+Ronald Inglehart of the University of Michigan is author of the World Values Survey which since 1980 has mapped social attitudes in 100 countries representing 90% of global population. Results indicate that where people live is likely to be closely correlated with their ideological beliefs. In much of Africa, South Asia and the Middle East, people prefer traditional beliefs and are less tolerant of liberal values. Protestant Europe, at the other extreme, adheres more to secular beliefs and liberal values. Alone among high-income countries, the United States is exceptional in its adherence to traditional beliefs, in this case Christianity.
+Political ideologies[edit]
+See also: List of political ideologies
+In social studies, a political ideology is a certain ethical set of ideals, principles, doctrines, myths, or symbols of a social movement, institution, class, or large group that explains how society should work, and offers some political and cultural blueprint for a certain social order. Political ideologies are concerned with many different aspects of a society, including (for example): the economy, education, health care, labor law, criminal law, the justice system, the provision of social security and social welfare, trade, the environment, minors, immigration, race, use of the military, patriotism, and established religion.
+Political ideologies have two dimensions:
+
+Goals: how society should work
+Methods: the most appropriate ways to achieve the ideal arrangement
+
+There are many proposed methods for the classification of political ideologies, each of these different methods generate a specific political spectrum.[citation needed] Ideologies also identify themselves by their position on the political spectrum (such as the left, the center or the right), though precision in this respect can very often become controversial. Finally, ideologies can be distinguished from political strategies (e.g., populism) and from single issues that a party may be built around (e.g. legalization of marijuana). Philosopher Michael Oakeshott provides a good definition of ideology as "the formalized abridgment of the supposed sub-stratum of the rational truth contained in the tradition".
+A political ideology largely concerns itself with how to allocate power and to what ends power should be used. Some parties follow a certain ideology very closely, while others may take broad inspiration from a group of related ideologies without specifically embracing any one of them. Each political ideology contains certain ideas on what it considers to be the best form of government (e.g. democracy, demagogy, theocracy, caliphate etc.), and the best economic system (e.g. capitalism, socialism, etc.). Sometimes the same word is used to identify both an ideology and one of its main ideas. For instance, "socialism" may refer to an economic system, or it may refer to an ideology which supports that economic system.
+Studies of the concept of ideology itself (rather than specific ideologies) have been carried out under the name of systematic ideology.
+Post 1991, many commentators claim that we are living in a post-ideological age,[31] in which redemptive, all-encompassing ideologies have failed, and this view is often associated[by whom?] with Francis Fukuyama's writings on "the end of history".[32] On the other hand, Nienhueser sees research (in the field of human resource management) as ongoingly "generating ideology".[33]
+Slavoj Zizek has pointed out how the very notion of post-ideology can enable the deepest, blindest form of ideology. A sort of false consciousness or false cynicism, engaged in for the purpose of lending one's point of view the respect of being objective, pretending neutral cynicism, without truly being so. Rather than help avoiding ideology, this lapse only deepens the commitment to an existing one. Zizek calls this "a post-modernist trap".[34] Peter Sloterdijk advanced the same idea already in 1988.[35]
+There are several studies that show that affinity to a specific political ideology is heritable.[36][37][38][39][40][41][42][43][44]
+Government ideology[edit]
+When a political ideology becomes a dominantly pervasive component within a government, one can speak of an ideocracy.[45] Different forms of government utilize ideology in various ways, not always restricted to politics and society. Certain ideas and schools of thought become favored, or rejected, over others, depending on their compatibility with or use for the reigning social order.
+Implementation[edit]
+"Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back", said Lord Keynes.[46] How do ideologies become part of government policy? In The anatomy of revolution, Crane Brinton said that new ideology spreads when there is discontent with the old regime.[47] Extremists such as Lenin and Robespierre will overcome more moderate revolutionaries.[48] This stage is soon followed by Thermidor, a reining back of revolutionary enthusiasm under pragmatists like Stalin and Napoleon Bonaparte who bring "normalcy and equilibrium".[49] A very similar sequence ("men of ideas>fanatics>practical men of action") occurs in Eric Hoffer, The True Believer,[50] and Brinton's sequence is reiterated by J. William Fulbright.[51] The revolution thus becomes established as an Ideocracy but its rise is likely to be checked by a Political midlife crisis.
+Epistemological ideologies[edit]
+Even when the challenging of existing beliefs is encouraged, as in scientific theories, the dominant paradigm or mindset can prevent certain challenges, theories, or experiments from being advanced.
+A special case of science adopted as ideology is that of ecology, which studies the relationships among living things on Earth. Perceptual psychologist James J. Gibson believed that human perception of ecological relationships was the basis of self-awareness and cognition itself. Linguist George Lakoff has proposed a cognitive science of mathematics wherein even the most fundamental ideas of arithmetic would be seen as consequences or products of human perception—which is itself necessarily evolved within an ecology.
+Deep ecology and the modern ecology movement (and, to a lesser degree, Green parties) appear to have adopted ecological sciences as a positive ideology.
+Some accuse ecological economics of likewise turning scientific theory into political economy, although theses in that science can often be tested. The modern practice of green economics fuses both approaches and seems to be part science, part ideology.
+This is far from the only theory of economics to be raised to ideology status—some notable economically based ideologies include neoliberalism, monetarism, mercantilism, mixed economy, social Darwinism, communism, laissez-faire economics, and free trade. There are also current theories of safe trade and fair trade which can be seen as ideologies.
+Psychological research[edit]
+Psychological research[52] increasingly suggests that ideologies reflect (unconscious) motivational processes, as opposed to the view that political convictions always reflect independent and unbiased thinking. Jost, Ledgerwood and Hardin proposed in 2008 that ideologies may function as prepackaged units of interpretation that spread because of basic human motives to understand the world, avoid existential threat, and maintain valued interpersonal relationships.[52] These authors conclude that such motives may lead disproportionately to the adoption of system-justifying worldviews. Psychologists have generally found that personality traits, individual difference variables, needs, and ideological beliefs seem to have a common thread.[citation needed]
+Ideology and semiotic theory[edit]
+According to the semiotician Bob Hodge, ideology "identifies a unitary object that incorporates complex sets of meanings with the social agents and processes that produced them. No other term captures this object as well as 'ideology'. Foucault's 'episteme' is too narrow and abstract, not social enough. His 'discourse', popular because it covers some of ideology's terrain with less baggage, is too confined to verbal systems. 'Worldview' is too metaphysical, 'propaganda' too loaded. Despite or because of its contradictions, 'ideology' still plays a key role in semiotics oriented to social, political life."[53] Authors such as Michael Freeden have also recently incorporated a semantic analysis to the study of ideologies.
+Quotations[edit]
+
+"We do not need ... to believe in an ideology. All that is necessary is for each of us to develop our good human qualities. The need for a sense of universal responsibility affects every aspect of modern life." – the Dalai Lama.[54]
+
+
+"The nice thing about an ism is how quickly it becomes a wasm." – Richard Taruskin.[55]
+
+
+"The function of ideology is to stabilize and perpetuate dominance through masking or illusion." – Sally Haslanger[56]
+
+See also[edit]
+
+
+State ideology of the Soviet Union
+Hegemony
+Capitalism
+Feminism
+Ideocracy
+-ism
+List of ideologies named after people
+Noble lie
+Social criticism
+Socially constructed reality
+State collapse
+The anatomy of revolution
+The True Believer
+World Values Survey
+World view
+
+
+Notes[edit]
+
+
+^ Steger, Manfred B.; James, Paul (2013). "Levels of Subjective Globalization: Ideologies, Imaginaries, Ontologies". Perspectives on Global Development and Technology. 12 (1–2.). 
+^ Hart, David M. (2002) Destutt De Tracy: Annotated Bibliography
+^ Kennedy, Emmet (Jul–Sep 1979). ""Ideology" from Destutt De Tracy to Marx". Journal of the History of Ideas. 40 (3): 353–368. doi:10.2307/2709242. JSTOR 2709242. 
+^ Hart, David M. (2002) Destutt De Tracy: Annotated Bibliography
+^ Kennedy, Emmet (Jul–Sep 1979). ""Ideology" from Destutt De Tracy to Marx". Journal of the History of Ideas. 40 (3): 353–368. doi:10.2307/2709242. JSTOR 2709242. 
+^ De Tracy, Destutt (1801) Les Éléments d'idéologie, 3rd ed. (1817), p. 4, cited by: Mannheim, Karl (1929) Ideologie und Utopie, 2nd footnote in the chapter The problem of "false consciousness"
+^ Eagleton, Terry (1991) Ideology. An introduction, Verso, pg. 2
+^ Tucker, Robert C (1978). The Marx-Engels Reader, W. W. Norton & Company, pg. 3.
+^ Marx, MER, pg. 154
+^ Susan Silbey, "Ideology" at Cambridge Dictionary of Sociology.
+^ James, Paul; Steger, Manfred (2010). Globalization and Culture, Vol. 4: Ideologies of Globalism. London: Sage Publications. 
+^ Blattberg, Charles, "Political Philosophies and Political Ideologies", in Patriotic Elaborations: Essays in Practical Philosophy, Montreal and Kingston: McGill-Queen's University Press, 2009.[1]
+^ Eagleton, Terry (1991) Ideology: An Introduction, Verso, ISBN 0-86091-319-8
+^ Marx, Karl (1978a). "The Civil War in France", The Marx-Engels Reader 2nd ed. New York: W.W. Norton & Company. 
+^ In this discipline, there are lexical disputes over the meaning of the word "ideology" ("false consciousness" as advocated by Marx, or rather "false position" of a statement in itself is correct but irrelevant in the context in which it is produced, as in Max Weber's opinion): Buonomo, Giampiero (2005). "Eleggibilità più ampia senza i paletti del peculato d'uso? Un'occasione (perduta) per affrontare il tema delle leggi ad personam". Diritto&Giustizia edizione online.   – via Questia (subscription required)
+^ Guy Debord (1995). The Society of the Spectacle. Zone Books. 
+^ Silvio Vietta (2013). A Theory of Global Civilization: Rationality and the Irrational as the Driving Forces of History. Kindle Ebooks. 
+^ Silvio Vietta (2012). Rationalität. Eine Weltgeschichte. Europäische Kulturgeschichte und Globalisierung. Fink. 
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, p. 91 et seq.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, p. 91.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, p. 93.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, pp. 101-2.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, p. 110.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, p. 107.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, pp. 107–8.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, pp. 112-14.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, pp. 116-19.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, pp. 120-21.
+^ Eric Hoffer, The True Believer, Harper Perennial, 1951, p. 124.
+^ Bell, D. The End of Ideology: On the Exhaustion of Political Ideas in the Fifties (2000) (2nd ed.). Cambridge, Mass: Harvard University Press, pg. 393
+^ Fukuyama, F. (1992)The End of History and the Last Man. USA: The Free Press, xi
+^ Nienhueser, Werner (2011). "Empirical Research on Human Resource Management as a Production of Ideology" (PDF). Management Revue. Rattner Hampp Verlag. 22 (4): 367–393. doi:10.1688/1861-9908_mrev_2011_04_Nienhueser. ISSN 0935-9915. Retrieved 2015-08-27. [...] current empirical research in HRM is generating ideology. 
+^ Zizek, Slavoj (2008). The Sublime Object of Ideology (2nd ed.). London: Verso. pp. xxxi, 25–27. ISBN 9781844673001. 
+^ Sloterdijk, Peter (1988). Critique of Cynical Reason. US: University of Minnesota Press. ISBN 9780816615865. 
+^ Bouchard, T. J., and McGue, M. (2003). "Genetic and environmental influences on human psychological differences." Journal of Neurobiology, 54 (1), 44–45.” https://isites.harvard.edu/fs/docs/icb.topic1169974.files/Bouchard%20McGue%202003.pdf
+^ Cloninger, et al. (1993).
+^ Eaves, L. J., Eysenck, H. J. (1974). "Genetics and the development of social attitudes." Nature, 249, 288–289.” http://www.nature.com/nature/journal/v249/n5454/abs/249288a0.html
+^ Alford, (2005). "Are Political Orientations Genetically Transmitted?" http://www.uky.edu/AS/PoliSci/Peffley/pdf/Alford,%20et%20al%202005%20APSR%20Genetics.pdf
+^ Hatemi, P. K., Medland, S. E., Morley, K. I., Heath, A. C., Martin, N.G. (2007). "The genetics of voting: An Australian twin study." Behavior Genetics, 37 (3), 435–448. https://genepi.qimr.edu.au/contents/p/staff/Hatemi501Published.pdf
+^ Hatemi, P. K., Hibbing, J., Alford, J., Martin, N., Eaves, L. (2009). "Is there a 'party' in your genes?" Political Research Quarterly, 62 (3), 584–600. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1276482
+^ Settle, J. E., Dawes, C. T., and Fowler, J. H. (2009). "The heritability of partisan attachment." Political Research Quarterly, 62 (3), 601–613. http://jhfowler.ucsd.edu/heritability_of_partisan_attachment.pdf
+^ Anonymous Conservative. "The Evolutionary Psychology Behind Politics."
+^ Trust, Michael. "Modern Political Thought in the Context of Evolutionary Psychology" (PDF). Retrieved 26 March 2017. 
+^ Jaroslaw Piekalkiewicz, Alfred Wayne Penn. Politics of Ideocracy. 
+^ The General Theory, p383-4
+^ Brinton, chapter 2
+^ Brinton, CH 6
+^ Brinton , CH 8
+^ Hoffer, chapters 15, 16,17
+^ Fulbright, The Arrogance of Power, 1967, chapters 3-7
+^ a b Jost, John T., Ledgerwood, Alison, & Hardin, Curtis D. (2008). "Shared reality, system justification, and the relational basis of ideological beliefs." Social and Personality Psychology Compass, 2, 171–186
+^ Bob Hodge, "Ideology", at Semiotics Encyclopedia Online.
+^ The Dalai Lama's Book of Wisdom, edited by Matthew Bunson, Ebury Press, 1997, p. 180.
+^ The dangers of Music and other essays, p86
+^ https://doi.org/10.1093/arisup/akx001
+
+
+References[edit]
+
+Althusser, Louis (1971) 'Ideology and Ideological State Apparatuses' Lenin and Philosophy and Other Essays Monthly Review Press ISBN 1-58367-039-4
+Belloni, Claudio, Per la critica dell’ideologia. Filosofia e storia in Marx, Mimesis, Milano-Udine 2013.
+Duncker, Christian (Hg.) Ideologiekritik Aktuell – Ideologies Today. Bd. 1. London 2008,[2]. ISBN 978-1-84790-015-9
+Christian Duncker: Kritische Reflexionen Des Ideologiebegriffes, 2006, ISBN 1-903343-88-7
+Eagleton, Terry (1991) Ideology. An introduction, Verso, ISBN 0-86091-319-8
+Ellul, Jacques. Propaganda: The Formation of Men's Attitudes. Trans. Konrad Kellen & Jean Lerner. New York: Knopf, 1965. New York: Random House/ Vintage 1973
+Freeden, Michael. 1996. Ideologies and Political Theory: A Conceptual Approach. Oxford: Oxford University Press. ISBN 978-0-19-829414-6
+Feuer, Lewis S. (2010) Ideology and Ideologists. Piscataway, New Jersey: Transaction Publishers.
+Gries, Peter Hays. The Politics of American Foreign Policy: How Ideology Divides Liberals and Conservatives over Foreign Affairs (Stanford University Press, 2014)
+Haas, Mark L. (2005) The Ideological Origins of Great Power Politics, 1789–1989. Cornell University Press, ISBN 0-80147-407-8
+Hawkes, David (2003) Ideology (2nd ed.), Routledge, ISBN 0-415-29012-0
+James, Paul; Steger, Manfred (2010). Globalization and Culture, Vol. 4: Ideologies of Globalism. London: Sage Publications. 
+Lukács, Georg (1919–23) History and Class Consciousness [3]
+Malesevic, Sinisa and Iain Mackenzie (ed). Ideology after Poststructuralism. London: Pluto Press.
+Mannheim, Karl (1936) Ideology and Utopia Routledge
+Marx, Karl ([1845–46] 1932) The German Ideology [4]* Minogue, Kenneth (1985) Alien Powers: The Pure Theory of Ideology, Palgrave Macmillan, ISBN 0-312-01860-6
+Minar, David M. (1961) "Ideology and Political Behavior", Midwest Journal of Political Science. Midwest Political Science Association.
+Mullins, Willard A. (1972) "On the Concept of Ideology in Political Science." The American Political Science Review. American Political Science Association.
+Owen, John (2011) "The Clash of Ideas in World Politics: Transnational Networks, States, and Regime Change, 1510-2010", Princeton University Press, ISBN 0-691-14239-4
+Pinker, Steven. (2002) The Blank Slate: The Modern Denial of Human Nature New York: Penguin Group. ISBN 0-670-03151-8
+Sorce Keller, Marcello. "Why is Music so Ideological, Why Do Totalitarian States Take It So Seriously: A Personal View from History, and the Social Sciences", Journal of Musicological Research, XXVI(2007), no. 2-3, pp. 91–122.
+Steger, Manfred B.; James, Paul (2013). "'Levels of Subjective Globalization: Ideologies, Imaginaries, Ontologies'". Perspectives on Global Development and Technology. 12 (1–2.). 
+Verschueren, Jef. (2012) Ideology in Language Use: Pragmatic Guidelines for Empirical Research Cambridge University Press. ISBN 978-1-107-69590-0
+Zizek, Slavoj (1989) The Sublime Object of Ideology Verso. ISBN 0-86091-971-4
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Ideology
+
+
+
+
+
+Look up ideology in Wiktionary, the free dictionary.
+
+
+
+The Pervert's Guide to Ideology: How Ideology Seduces Us—and How We Can (Try to) Escape It
+Ideology Study Guide
+Louis Althusser's "Ideology and Ideological State Apparatuses"
+Ideology and Symbolic Power: Between Althusser and Bourdieu
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Political ideologies
+
+
+
+
+
+
+Left-wing politics
+Centrism
+Right-wing politics
+
+
+
+
+
+
+
+
+Authoritarianism
+Anarchism
+Capitalism
+Christian democracy
+Collectivism
+Communalism
+Communism
+Communitarianism
+Conservatism
+Constitutionalism
+Distributism
+Environmentalism
+Extremism
+Fanaticism
+Fascism
+Feminism
+Fundamentalism
+Globalism
+Green politics
+Individualism
+Industrialism
+Intellectualism
+Islamism
+Liberalism
+Libertarianism
+Masculism
+Militarism
+Monarchism
+Nationalism
+Progressivism
+Radicalism
+Reformism
+Republicanism
+Social democracy
+Socialism
+Utilitarianism
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Ethics
+
+
+
+Theories
+
+
+
+Casuistry
+Consequentialism
+Deontology
+
+Kantian ethics
+
+
+Ethics of care
+Existentialist ethics
+Meta-ethics
+Particularism
+Pragmatic ethics
+Role ethics
+Virtue ethics
+
+
+
+
+
+Concepts
+
+
+
+Autonomy
+Axiology
+Belief
+Conscience
+Consent
+Equality
+Care
+Free will
+Good and evil
+Happiness
+Ideal
+Justice
+Morality
+Norm
+Freedom
+Principles
+Suffering or Pain
+Stewardship
+Sympathy
+Trust
+Value
+Virtue
+Wrong
+full index...
+
+
+
+
+
+Philosophers
+
+
+
+Laozi
+Plato
+Aristotle
+Diogenes
+Valluvar
+Cicero
+Confucius
+Augustine of Hippo
+Mencius
+Mozi
+Xunzi
+Thomas Aquinas
+Baruch Spinoza
+David Hume
+Immanuel Kant
+Georg W. F. Hegel
+Arthur Schopenhauer
+Jeremy Bentham
+John Stuart Mill
+Søren Kierkegaard
+Henry Sidgwick
+Friedrich Nietzsche
+G. E. Moore
+Karl Barth
+Paul Tillich
+Dietrich Bonhoeffer
+Philippa Foot
+John Rawls
+John Dewey
+Bernard Williams
+J. L. Mackie
+G. E. M. Anscombe
+William Frankena
+Alasdair MacIntyre
+R. M. Hare
+Peter Singer
+Derek Parfit
+Thomas Nagel
+Robert Merrihew Adams
+Charles Taylor
+Joxe Azurmendi
+Christine Korsgaard
+Martha Nussbaum
+more...
+
+
+
+
+
+Applied ethics
+
+
+
+Bioethics
+Business ethics
+Discourse ethics
+Environmental ethics
+Legal ethics
+Media ethics
+Medical ethics
+Nursing ethics
+Professional ethics
+Sexual ethics
+Ethics of eating meat
+Ethics of technology
+
+
+
+
+
+Related articles
+
+
+
+Christian ethics
+Descriptive ethics
+Ethics in religion
+Evolutionary ethics
+Feminist ethics
+History of ethics
+Ideology
+Islamic ethics
+Jewish ethics
+Normative ethics
+Philosophy of law
+Political philosophy
+Social philosophy
+
+
+
+
+
+
+
+
+Portal
+Category
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+World view
+
+
+
+
+
+
+
+
+Related terms
+
+
+
+
+
+
+Basic beliefs/Beliefs
+Collective consciousness/Collective unconscious
+Conceptual system
+Context
+Conventions
+Cultural movement
+Epic poetry/National epics/Pan-national epics
+Facts and factoids
+Framing
+Ideology
+Life stance
+Lifestyle
+Memes/Memeplex
+Mental model
+Metanarrative
+Mindset
+Norms
+Paradigm
+Philosophical theory
+Point of view
+Presuppositions
+Reality tunnel
+Received view
+Schemata
+School of thought
+Set
+Social reality
+Theory of everything
+Umwelt
+Value system
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aspects
+
+
+
+
+
+
+
+Biases
+
+
+
+Academic
+Attentional
+Attitude polarization
+Belief
+Cognitive (list)
+Collective narcissism
+Confirmation
+Congruence
+Cryptomnesia
+Cultural
+Ethnocentrism
+Filter bubble
+Homophily
+In-group favoritism
+Magical thinking
+Media
+Observer-expectancy
+Observational error
+Selective exposure
+Selective perception
+Self-deception
+Self-fulfilling prophecy (Clever Hans effect, placebo effect, wishful thinking)
+Status quo
+Stereotyping
+
+
+
+
+
+Change and maintenance
+
+
+
+Activism
+Argument
+Argumentum ad populum
+Attitude change
+Censorship
+Charisma
+Circular reporting
+Cognitive dissonance
+Critical thinking
+Crowd manipulation
+Cultural dissonance
+Deprogramming
+Echo chamber
+Education (religious, values)
+Euphemism
+Excommunication
+Fearmongering
+Historical revisionism
+Ideological repression
+Indoctrination
+Media manipulation
+Media regulation
+Mind control
+Missionaries
+Moral entrepreneurship
+Persuasion
+Polite fiction
+Political engineering
+Propaganda
+Propaganda model
+Proselytism
+Psychological manipulation
+Psychological warfare
+Religious conversion (forced)
+Religious persecution
+Religious uniformity
+Revolutions
+Rhetoric
+Self-censorship
+Social change
+Social control
+Social engineering
+Social influence
+Social progress
+Suppression of dissent
+Systemic bias
+Woozle effect
+
+
+
+
+
+Culture
+
+
+
+Anthropology (cultural, social)
+Calendars
+Ceremonies
+Coronations
+Cross-cultural psychology
+Cultural psychology
+Doctrine
+Employment/Serfdom/Slavery
+Families
+Funerals/Burial
+Games
+Holidays
+Hygiene (ritual)
+Identity (philosophy) (cultural)
+Institutions
+Liminality
+Liturgy
+Marriage
+Myth and ritual
+Oaths
+Pilgrimages
+Play
+Rites of passage (secular)
+Rituals
+Social class/Social status/Caste
+Symbols
+Symbolic boundaries
+Worship
+
+
+
+
+
+Groupthink
+
+
+
+Abilene paradox
+Bandwagon effect
+Collectives
+Collective behavior (animal)
+Collective effervescence
+Collective intelligence
+Conformity
+Consensus theory
+Crowd psychology
+Cults
+Culture-bound syndromes
+Deindividuation
+Democracy
+Emergence
+Emotional contagion
+Entitativity
+False-consensus effect
+Folie à deux
+Group action
+Group dynamics
+Group emotion
+Group polarization
+Groupshift
+Herd behavior
+Holism
+Hysterical contagion
+Information cascade
+Invisible hand
+Lynching
+Majoritarianism/Ochlocracy
+Mass action
+Mass hysteria
+Mass psychogenic illness
+Milieu control
+Mobbing
+Moral panic
+Organizations
+Peer pressure
+Pluralistic ignorance
+Political correctness
+Pseudoconsensus
+Scapegoating
+Self-organization
+Social action
+Social behavior
+Social emotions
+Social exclusion
+Social facilitation (animal)
+Social group
+Social proof
+Social psychology
+Sociology
+Spontaneous order
+Status quo
+Stigmergy
+Swarm behaviour
+System justification
+Viral phenomena
+
+
+
+
+
+Knowledge
+
+
+
+Axioms (tacit assumptions)
+Conceptual framework
+Epistemology (outline)
+Evidence (anecdotal, scientific)
+Explanations
+Faith (fideism)
+Gnosis
+Intuition
+Meaning-making
+Memory
+Metaknowledge
+Methodology
+Observation
+Observational learning
+Perception
+Reasoning (fallacious, logic)
+Revelation
+Testimony
+Tradition (folklore)
+Truth (consensus theory, criteria)
+
+
+
+
+
+Metaphysics
+
+
+
+Ætiology
+Afterlife
+Anima mundi
+Being
+Causality
+Concepts
+Consciousness (mind–body problem)
+Cosmogony
+Cosmology (religious)
+Creation myth
+Deities (existence)
+Destiny
+Eschatology
+Everything/Nothing
+Evolution
+Existence
+Fiction/Non-fiction
+Free will
+Future
+History
+Ideas
+Idios kosmos
+Illusions
+Incarnation
+Information
+Intelligence
+Magic
+Matter
+Miracles
+Mythology (comparative)
+National mythoi
+Nature (philosophical)
+Ontology
+Origin myths (political myths)
+Otherworlds (axes mundi)
+Problem of evil
+Physics (natural philosophy)
+Reality
+Souls
+Spirit
+Supernature
+Teleology
+Theology
+Time
+Unobservables
+
+
+
+
+
+Value
+
+
+
+Æsthetics
+Almsgiving/Charity
+Altruism
+Autonomy
+Beauty
+Codes of conduct
+Comedy
+Common good
+Conscience
+Consent
+Creativity
+Disgust
+Duty
+Economics
+Ecstasy (emotional, religious)
+Elegance
+Emotions (æsthetic)
+Entertainment
+Eroticism
+Ethics
+Étiquette
+Family values
+Food and drink prohibitions (unclean animals)
+Golden Rule
+Guilt/Culpability
+Happiness
+Harmony
+Honour
+Human rights
+Judgement
+Justice
+Laws (jurisprudence, religious)
+Liberty (political freedom)
+Love
+Magnificence
+Maxims
+Meaning of life
+Morality (public)
+Obligations
+Peace
+Piety
+Praxeology
+Principles
+Punishment
+Qualities
+Repentance
+Reverence
+Rights
+Sexuality (ethics)
+Sin
+Social stigma
+Stewardship
+Styles
+Sublime, The
+Suffering
+Sympathy
+Taboo
+Taste
+Theodicy
+Trust
+Unspoken rules
+Virtues and Vices
+Works of art
+Wrongdoing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Examples
+
+
+
+
+
+
+
+Attitudes
+
+
+
+Nihilism
+Optimism
+Pessimism
+Reclusion
+Weltschmerz
+
+
+
+
+
+Economic and
+political ideologies
+
+
+
+Authoritarianism
+Anarchism
+Capitalism
+Christian democracy
+Collectivism
+Colonialism
+Communalism
+Communism
+Communitarianism
+Conservatism
+Constitutionalism
+Distributism
+Environmentalism
+Extremism
+Fanaticism
+Fascism
+Feminism
+Fundamentalism
+Globalism
+Green politics
+Imperialism
+Individualism
+Industrialism
+Intellectualism
+Islamism
+Liberalism
+Libertarianism
+Masculism
+Militarism
+Monarchism
+Nationalism
+Pacifism
+Progressivism
+Radicalism
+Reformism
+Republicanism
+Social democracy
+Socialism
+Utilitarianism
+Veganism
+
+
+
+
+
+Religions
+
+
+
+African traditional religions
+Bahá'í
+Buddhism
+Cao Dai
+Cheondoism
+Chinese traditional religions
+Christianity
+Ethnic religions
+Hòa Hảo
+Hinduism
+Islam
+Jainism
+Judaism
+Korean shamanism
+Neo-Paganism
+Rastafarianism
+Secular/Nonreligious/Agnostic/Atheist
+Shinto
+Sikhism
+Spiritism
+Taoism
+Tenrikyo
+Tenriism
+Unitarian Universalism
+Zoroastrianism
+
+
+
+
+
+Schools of philosophy
+
+
+
+Agriculturalism
+Aristotelianism
+Atomism
+Averroism
+Cartesianism
+Cārvāka
+Collectivism
+Confucianism/New Confucianism
+Critical theory
+Cynicism
+Cyrenaics
+Determinism
+Dualism
+Eleatics
+Empiricism
+Eretrian school
+Epicureanism
+Existentialism
+Foundationalism
+Hedonism
+Hegelianism
+Hermeneutics
+Historicism/New Historicism
+Holism
+Humanism/Renaissance humanism
+Illuminationism
+ʿIlm al-Kalām
+Idealism
+Individualism
+Ionian
+Kantianism/Neo-Kantianism
+Kokugaku
+Legalism
+Logicians
+Materialism
+Mohism
+Megarian school
+Modernism/Postmodernism
+Monism
+Natural Law
+Naturalism (Chinese)
+Naturalism (western)
+Nihilism
+Peripatetic
+Phenomenology
+Platonism/Neoplatonism
+Pluralism
+Positivism
+Pragmatism
+Presocratic
+Pyrrhonism
+Pythagoreanism/Neopythagoreanism
+Rationalism
+Reductionism
+Scholasticism/Neo-Scholasticism
+Social constructionism
+Sophism
+Spinozism
+Stoicism
+Structuralism/Post-structuralism
+Thomism
+Transcendentalism
+Utilitarianism
+Yangism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4026486-5
+NDL: 00563887
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Ideology&oldid=812925663"					
+Categories: IdeologiesCritical theoryMarxist theoryPolitical terminologyPhilosophical theoriesSchools of thoughtSociological terminologyHidden categories: Subscription required using viaPages containing links to subscription-only contentTagged pages containing blacklisted linksNPOV disputes from May 2017All NPOV disputesArticles containing Ancient Greek-language textAccuracy disputes from July 2015All accuracy disputesAll articles with unsourced statementsArticles with unsourced statements from August 2015Articles with specifically marked weasel-worded phrases from August 2015Articles with unsourced statements from November 2010Wikipedia articles with GND identifiers 

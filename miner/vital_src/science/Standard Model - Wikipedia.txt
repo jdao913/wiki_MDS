@@ -1,0 +1,2488 @@
+Standard Model - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about a non-mathematical general overview of the Standard Model of particle physics. For a mathematical description, see Standard Model (mathematical formulation). For other uses, see Standard model (disambiguation).
+
+
+
+
+The Standard Model of elementary particles (more schematic depiction), with the three generations of matter, gauge bosons in the fourth column, and the Higgs boson in the fifth
+
+
+
+
+Standard Model of particle physics
+
+
+
+Elementary particles of the standard model
+
+
+
+
+
+Background
+Particle physics
+Standard Model
+Quantum field theory
+Gauge theory
+Spontaneous symmetry breaking
+Higgs mechanism
+
+
+
+
+
+
+Constituents
+Electroweak interaction
+Quantum chromodynamics
+CKM matrix
+Standard Model mathematics
+
+
+
+
+
+
+Limitations
+Strong CP problem
+Hierarchy problem
+Neutrino oscillations
+Physics beyond the Standard Model
+
+
+
+
+
+
+Scientists
+Rutherford · Thomson · Chadwick · Bose · Sudarshan · Koshiba · Davis Jr. · Anderson · Fermi · Dirac · Feynman · Rubbia · Gell-Mann · Kendall · Taylor · Friedman · Powell · P. W. Anderson · Glashow · Iliopoulos · Maiani · Meer · Cowan · Nambu · Chamberlain · Cabibbo · Schwartz · Perl · Majorana · Weinberg · Lee · Ward · Salam · Kobayashi · Maskawa · Yang · Yukawa · 't Hooft · Veltman · Gross · Politzer · Wilczek · Cronin · Fitch · Vleck · Higgs · Englert · Brout · Hagen · Guralnik  · Kibble  · Ting · Richter
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The Standard Model of particle physics is the theory describing three of the four known fundamental forces in the universe (the electromagnetic, weak, and strong interactions (not including gravitational force)), as well as classifying all known elementary particles. It was developed in stages throughout the latter half of the 20th century, through the work of many scientists around the world,[1] with the current formulation being finalized in the mid-1970s upon experimental confirmation of the existence of quarks. Since then, confirmation of the top quark (1995), the tau neutrino (2000), and the Higgs boson (2012) have added further credence to the Standard Model. In addition, the Standard Model has predicted various properties of weak neutral currents and the W and Z bosons with great accuracy.
+Although the Standard Model is believed to be theoretically self-consistent[2] and has demonstrated huge successes in providing experimental predictions, it leaves some phenomena unexplained and falls short of being a complete theory of fundamental interactions. It does not fully explain baryon asymmetry, incorporate the full theory of gravitation[3] as described by general relativity, or account for the accelerating expansion of the Universe as possibly described by dark energy. The model does not contain any viable dark matter particle that possesses all of the required properties deduced from observational cosmology. It also does not incorporate neutrino oscillations and their non-zero masses.
+The development of the Standard Model was driven by theoretical and experimental particle physicists alike. For theorists, the Standard Model is a paradigm of a quantum field theory, which exhibits a wide range of physics including spontaneous symmetry breaking, anomalies and non-perturbative behavior. It is used as a basis for building more exotic models that incorporate hypothetical particles, extra dimensions, and elaborate symmetries (such as supersymmetry) in an attempt to explain experimental results at variance with the Standard Model, such as the existence of dark matter and neutrino oscillations.
+
+
+
+Contents
+
+
+1 Historical background
+2 Overview
+3 Particle content
+
+3.1 Fermions
+3.2 Gauge bosons
+3.3 Higgs boson
+
+
+4 Theoretical aspects
+
+4.1 Construction of the Standard Model Lagrangian
+
+4.1.1 Quantum chromodynamics sector
+4.1.2 Electroweak sector
+4.1.3 Higgs sector
+4.1.4 Yukawa sector
+
+
+
+
+5 Fundamental forces
+6 Tests and predictions
+7 Challenges
+8 See also
+9 Notes and references
+10 References
+11 Further reading
+12 External links
+
+
+
+Historical background[edit]
+See also: History of quantum field theory and History of subatomic physics
+The first step towards the Standard Model was Sheldon Glashow's discovery in 1961 of a way to combine the electromagnetic and weak interactions.[4] In 1967 Steven Weinberg[5] and Abdus Salam[6] incorporated the Higgs mechanism[7][8][9] into Glashow's electroweak interaction, giving it its modern form.
+The Higgs mechanism is believed to give rise to the masses of all the elementary particles in the Standard Model. This includes the masses of the W and Z bosons, and the masses of the fermions, i.e. the quarks and leptons.
+After the neutral weak currents caused by Z boson exchange were discovered at CERN in 1973,[10][11][12][13] the electroweak theory became widely accepted and Glashow, Salam, and Weinberg shared the 1979 Nobel Prize in Physics for discovering it. The W± and Z0 bosons were discovered experimentally in 1983; and the ratio of their masses was found to be as the Standard Model predicted.[citation needed]
+The theory of the strong interaction (i.e. quantum chromodynamics, QCD), to which many contributed, acquired its modern form in 1973–74 when asymptotic freedom was proposed[14][15] (a development which made QCD the main focus of theoretical research)[16] and experiments confirmed that the hadrons were composed of fractionally charged quarks.[17][18]
+Overview[edit]
+At present, matter and energy are best understood in terms of the kinematics and interactions of elementary particles. To date, physics has reduced the laws governing the behavior and interaction of all known forms of matter and energy to a small set of fundamental laws and theories. A major goal of physics is to find the "common ground" that would unite all of these theories into one integrated theory of everything, of which all the other known laws would be special cases, and from which the behavior of all matter and energy could be derived (at least in principle).[19]
+Particle content[edit]
+The Standard Model includes members of several classes of elementary particles, which in turn can be distinguished by other characteristics, such as color charge.
+All particles can be summarized as follows:
+
+
+
+
+
+
+
+
+Elementary particles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elementary fermionsHalf-integer spinObey the Fermi–Dirac statistics
+
+
+
+
+
+Elementary bosonsInteger spinObey the Bose–Einstein statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quarks and antiquarksSpin = 1/2Have color chargeParticipate in strong interactions
+
+Leptons and antileptonsSpin = 1/2No color chargeElectroweak interactions
+
+Gauge bosonsSpin ≠ 0Force carriers
+
+Scalar bosonsSpin = 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Generations
+
+Up (u), Down (d)
+Charm (c), Strange (s)
+Top (t), Bottom (b)
+
+
+
+
+
+Generations
+
+Electron (e−)1, Electron neutrino (ν
+e)
+Muon (μ−), Muon neutrino (ν
+μ)
+Tau (τ−), Tau neutrino (ν
+τ)
+
+
+
+
+
+Four kinds (four fundamental interactions)
+
+Photon (γ, electromagnetic interaction)
+W and Z bosons (W+, W−, Z, weak interaction)
+Eight types of gluons (g, strong interaction)
+Graviton (G, gravity, hypothetical)2
+
+
+
+
+Higgs boson (H0)
+
+
+
+
+
+Notes:
+1. The antielectron (e+) is traditionally called positron.
+2. The known force carrier bosons all have spin = 1 and are therefore vector bosons. The hypothetical graviton has spin = 2 and is a tensor boson; whether it is a gauge boson as well, is unknown.
+Fermions[edit]
+
+
+
+
+Summary of interactions between particles described by the Standard Model
+
+
+The Standard Model includes 12 elementary particles of spin  1⁄2, known as fermions. According to the spin–statistics theorem, fermions respect the Pauli exclusion principle. Each fermion has a corresponding antiparticle.
+The fermions of the Standard Model are classified according to how they interact (or equivalently, by what charges they carry). There are six quarks (up, down, charm, strange, top, bottom), and six leptons (electron, electron neutrino, muon, muon neutrino, tau, tau neutrino). Pairs from each classification are grouped together to form a generation, with corresponding particles exhibiting similar physical behavior (see table).
+The defining property of the quarks is that they carry color charge, and hence interact via the strong interaction. A phenomenon called color confinement results in quarks being very strongly bound to one another, forming color-neutral composite particles (hadrons) containing either a quark and an antiquark (mesons) or three quarks (baryons). The familiar proton and neutron are the two baryons having the smallest mass. Quarks also carry electric charge and weak isospin. Hence they interact with other fermions both electromagnetically and via the weak interaction. The remaining six fermions do not carry color charge and are called leptons. The three neutrinos do not carry electric charge either, so their motion is directly influenced only by the weak nuclear force, which makes them notoriously difficult to detect. However, by virtue of carrying an electric charge, the electron, muon, and tau all interact electromagnetically.
+Each member of a generation has greater mass than the corresponding particles of lower generations. The first-generation charged particles do not decay, hence all ordinary (baryonic) matter is made of such particles. Specifically, all atoms consist of electrons orbiting around atomic nuclei, ultimately constituted of up and down quarks. Second- and third-generation charged particles, on the other hand, decay with very short half-lives and are observed only in very high-energy environments. Neutrinos of all generations also do not decay and pervade the universe, but rarely interact with baryonic matter.
+Gauge bosons[edit]
+
+
+
+
+The above interactions form the basis of the standard model. Feynman diagrams in the standard model are built from these vertices. Modifications involving Higgs boson interactions and neutrino oscillations are omitted. The charge of the W bosons is dictated by the fermions they interact with; the conjugate of each listed vertex (i.e. reversing the direction of arrows) is also allowed.
+
+
+In the Standard Model, gauge bosons are defined as force carriers that mediate the strong, weak, and electromagnetic fundamental interactions.
+Interactions in physics are the ways that particles influence other particles. At a macroscopic level, electromagnetism allows particles to interact with one another via electric and magnetic fields, and gravitation allows particles with mass to attract one another in accordance with Einstein's theory of general relativity. The Standard Model explains such forces as resulting from matter particles exchanging other particles, generally referred to as force mediating particles. When a force-mediating particle is exchanged, at a macroscopic level the effect is equivalent to a force influencing both of them, and the particle is therefore said to have mediated (i.e., been the agent of) that force. The Feynman diagram calculations, which are a graphical representation of the perturbation theory approximation, invoke "force mediating particles", and when applied to analyze high-energy scattering experiments are in reasonable agreement with the data. However, perturbation theory (and with it the concept of a "force-mediating particle") fails in other situations. These include low-energy quantum chromodynamics, bound states, and solitons.
+The gauge bosons of the Standard Model all have spin (as do matter particles). The value of the spin is 1, making them bosons. As a result, they do not follow the Pauli exclusion principle that constrains fermions: thus bosons (e.g. photons) do not have a theoretical limit on their spatial density (number per volume). The different types of gauge bosons are described below.
+
+Photons mediate the electromagnetic force between electrically charged particles. The photon is massless and is well-described by the theory of quantum electrodynamics.
+The W+, W−, and Z gauge bosons mediate the weak interactions between particles of different flavors (all quarks and leptons). They are massive, with the Z being more massive than the W±. The weak interactions involving the W± exclusively act on left-handed particles and right-handed antiparticles. Furthermore, the W± carries an electric charge of +1 and −1 and couples to the electromagnetic interaction. The electrically neutral Z boson interacts with both left-handed particles and antiparticles. These three gauge bosons along with the photons are grouped together, as collectively mediating the electroweak interaction.
+The eight gluons mediate the strong interactions between color charged particles (the quarks). Gluons are massless. The eightfold multiplicity of gluons is labeled by a combination of color and anticolor charge (e.g. red–antigreen).[nb 1] Because the gluons have an effective color charge, they can also interact among themselves. The gluons and their interactions are described by the theory of quantum chromodynamics.
+
+The interactions between all the particles described by the Standard Model are summarized by the diagrams on the right of this section.
+Higgs boson[edit]
+Main article: Higgs boson
+The Higgs particle is a massive scalar elementary particle theorized by Peter Higgs in 1964, when he showed that Goldstone's 1962 theorem (generic continuous symmetry, which is spontaneously broken) provides a third polarisation of a massive vector field. Hence, Goldstone's original scalar doublet, the massive spin-zero particle, was proposed as the Higgs boson. (see 1964 PRL symmetry breaking papers) and is a key building block in the Standard Model.[7][8][9][20] It has no intrinsic spin, and for that reason is classified as a boson (like the gauge bosons, which have integer spin).
+The Higgs boson plays a unique role in the Standard Model, by explaining why the other elementary particles, except the photon and gluon, are massive. In particular, the Higgs boson explains why the photon has no mass, while the W and Z bosons are very heavy. Elementary-particle masses, and the differences between electromagnetism (mediated by the photon) and the weak force (mediated by the W and Z bosons), are critical to many aspects of the structure of microscopic (and hence macroscopic) matter. In electroweak theory, the Higgs boson generates the masses of the leptons (electron, muon, and tau) and quarks. As the Higgs boson is massive, it must interact with itself.
+Because the Higgs boson is a very massive particle and also decays almost immediately when created, only a very high-energy particle accelerator can observe and record it. Experiments to confirm and determine the nature of the Higgs boson using the Large Hadron Collider (LHC) at CERN began in early 2010 and were performed at Fermilab's Tevatron until its closure in late 2011. Mathematical consistency of the Standard Model requires that any mechanism capable of generating the masses of elementary particles becomes visible[clarification needed] at energies above 6993224304708179999♠1.4 TeV;[21] therefore, the LHC (designed to collide two 7 TeV proton beams) was built to answer the question of whether the Higgs boson actually exists.[22]
+On 4 July 2012, two of the experiments at the LHC (ATLAS and CMS) both reported independently that they found a new particle with a mass of about 7002125000000000000♠125 GeV/c2 (about 133 proton masses, on the order of 10−25 kg), which is "consistent with the Higgs boson".[23][24][25][26][27][28] It was later confirmed to be the searched-for Higgs boson.[29]
+Theoretical aspects[edit]
+Main article: Standard Model (mathematical formulation)
+Construction of the Standard Model Lagrangian[edit]
+
+
+Parameters of the Standard Model
+
+
+Symbol
+Description
+Renormalization
+scheme (point)
+Value
+
+
+me
+Electron mass
+
+511 keV
+
+
+mμ
+Muon mass
+
+105.7 MeV
+
+
+mτ
+Tau mass
+
+1.78 GeV
+
+
+mu
+Up quark mass
+μMS = 2 GeV
+1.9 MeV
+
+
+md
+Down quark mass
+μMS = 2 GeV
+4.4 MeV
+
+
+ms
+Strange quark mass
+μMS = 2 GeV
+87 MeV
+
+
+mc
+Charm quark mass
+μMS = mc
+1.32 GeV
+
+
+mb
+Bottom quark mass
+μMS = mb
+4.24 GeV
+
+
+mt
+Top quark mass
+On shell scheme
+173.5 GeV
+
+
+θ12
+CKM 12-mixing angle
+
+13.1°
+
+
+θ23
+CKM 23-mixing angle
+
+2.4°
+
+
+θ13
+CKM 13-mixing angle
+
+0.2°
+
+
+δ
+CKM CP violation Phase
+
+0.995
+
+
+g1 or g'
+U(1) gauge coupling
+μMS = mZ
+0.357
+
+
+g2 or g
+SU(2) gauge coupling
+μMS = mZ
+0.652
+
+
+g3 or gs
+SU(3) gauge coupling
+μMS = mZ
+1.221
+
+
+θQCD
+QCD vacuum angle
+
+~0
+
+
+v
+Higgs vacuum expectation value
+
+246 GeV
+
+
+mH
+Higgs mass
+
+6992200416256758830♠125.09±0.24 GeV
+
+
+Technically, quantum field theory provides the mathematical framework for the Standard Model, in which a Lagrangian controls the dynamics and kinematics of the theory. Each kind of particle is described in terms of a dynamical field that pervades space-time. The construction of the Standard Model proceeds following the modern method of constructing most field theories: by first postulating a set of symmetries of the system, and then by writing down the most general renormalizable Lagrangian from its particle (field) content that observes these symmetries.
+The global Poincaré symmetry is postulated for all relativistic quantum field theories. It consists of the familiar translational symmetry, rotational symmetry and the inertial reference frame invariance central to the theory of special relativity. The local SU(3)×SU(2)×U(1) gauge symmetry is an internal symmetry that essentially defines the Standard Model. Roughly, the three factors of the gauge symmetry give rise to the three fundamental interactions. The fields fall into different representations of the various symmetry groups of the Standard Model (see table). Upon writing the most general Lagrangian, one finds that the dynamics depends on 19 parameters, whose numerical values are established by experiment. The parameters are summarized in the table (made visible by clicking "show") above (note: the Higgs mass is at 125 GeV, the Higgs self-coupling strength λ ~  1⁄8).
+Quantum chromodynamics sector[edit]
+Main article: Quantum chromodynamics
+The quantum chromodynamics (QCD) sector defines the interactions between quarks and gluons, with SU(3) symmetry, generated by Ta. Since leptons do not interact with gluons, they are not affected by this sector. The Dirac Lagrangian of the quarks coupled to the gluon fields is given by
+
+
+
+
+
+
+
+
+L
+
+
+
+QCD
+
+
+=
+
+∑
+
+ψ
+
+
+
+
+
+ψ
+¯
+
+
+
+i
+
+
+
+γ
+
+μ
+
+
+
+(
+i
+(
+
+∂
+
+μ
+
+
+
+δ
+
+i
+j
+
+
+−
+i
+
+g
+
+s
+
+
+
+G
+
+μ
+
+
+a
+
+
+
+T
+
+i
+j
+
+
+a
+
+
+)
+−
+
+m
+
+ψ
+
+
+
+δ
+
+i
+j
+
+
+)
+
+
+ψ
+
+j
+
+
+−
+
+
+1
+4
+
+
+
+G
+
+μ
+ν
+
+
+a
+
+
+
+G
+
+a
+
+
+μ
+ν
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}_{\text{QCD}}=\sum _{\psi }{\overline {\psi }}_{i}\gamma ^{\mu }\left(i(\partial _{\mu }\delta _{ij}-ig_{s}G_{\mu }^{a}T_{ij}^{a})-m_{\psi }\delta _{ij}\right)\psi _{j}-{\frac {1}{4}}G_{\mu \nu }^{a}G_{a}^{\mu \nu },}
+
+
+
+where
+
+ψ
+i is the Dirac spinor of the quark field, where i = {r, g, b} represents color,
+γμ are the Dirac matrices,
+Ga
+μ is the 8-component (
+
+
+
+a
+=
+1
+,
+2
+,
+…
+,
+8
+
+
+{\displaystyle a=1,2,\dots ,8}
+
+) SU(3) gauge field,
+Ta
+ij are the 3 × 3 Gell-Mann matrices, generators of the SU(3) color group,
+Ga
+μν are the field strength tensors for the gluons,
+gs is the strong coupling constant.
+
+Electroweak sector[edit]
+Main article: Electroweak interaction
+The electroweak sector is a Yang–Mills gauge theory with the simple symmetry group U(1) × SU(2)L,
+
+
+
+
+
+
+
+
+L
+
+
+
+EW
+
+
+=
+
+∑
+
+ψ
+
+
+
+
+
+ψ
+¯
+
+
+
+
+γ
+
+μ
+
+
+
+(
+i
+
+∂
+
+μ
+
+
+−
+
+g
+′
+
+
+
+
+1
+2
+
+
+
+
+Y
+
+W
+
+
+
+B
+
+μ
+
+
+−
+g
+
+
+
+1
+2
+
+
+
+
+
+
+
+τ
+→
+
+
+
+
+L
+
+
+
+
+
+
+W
+→
+
+
+
+
+μ
+
+
+)
+
+ψ
+−
+
+
+
+1
+4
+
+
+
+
+W
+
+a
+
+
+μ
+ν
+
+
+
+W
+
+μ
+ν
+
+
+a
+
+
+−
+
+
+
+1
+4
+
+
+
+
+B
+
+μ
+ν
+
+
+
+B
+
+μ
+ν
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}_{\text{EW}}=\sum _{\psi }{\bar {\psi }}\gamma ^{\mu }\left(i\partial _{\mu }-g'{\tfrac {1}{2}}Y_{\text{W}}B_{\mu }-g{\tfrac {1}{2}}{\vec {\tau }}_{\text{L}}{\vec {W}}_{\mu }\right)\psi -{\tfrac {1}{4}}W_{a}^{\mu \nu }W_{\mu \nu }^{a}-{\tfrac {1}{4}}B^{\mu \nu }B_{\mu \nu },}
+
+
+
+where
+
+Bμ is the U(1) gauge field,
+YW is the weak hypercharge – the generator of the U(1) group,
+W→μ is the 3-component SU(2) gauge field,
+τL→ are the Pauli matrices – infinitesimal generators of the SU(2) group – with subscript L to indicate that they only act on left-chiral fermions,
+g' and g are the U(1) and SU(2) coupling constants respectively,
+
+
+
+
+
+W
+
+a
+μ
+ν
+
+
+
+
+{\displaystyle W^{a\mu \nu }}
+
+ (
+
+
+
+a
+=
+1
+,
+2
+,
+3
+
+
+{\displaystyle a=1,2,3}
+
+) and 
+
+
+
+
+B
+
+μ
+ν
+
+
+
+
+{\displaystyle B^{\mu \nu }}
+
+ are the field strength tensors for the weak isospin and weak hypercharge fields.
+
+Notice that the addition of fermion mass terms into the electroweak lagrangian is forbidden, since terms of the form 
+
+
+
+m
+
+
+ψ
+¯
+
+
+ψ
+
+
+{\displaystyle m{\overline {\psi }}\psi }
+
+ do not respect U(1) × SU(2)L gauge invariance. Neither is it possible to add explicit mass terms for the U(1) and SU(2) gauge fields. The Higgs mechanism is responsible for the generation of the gauge boson masses, and the fermion masses result from Yukawa-type interactions with the Higgs field.
+Higgs sector[edit]
+Main article: Higgs mechanism
+In the Standard Model, the Higgs field is a complex scalar of the group SU(2)L:
+
+
+
+
+
+φ
+=
+
+
+1
+
+2
+
+
+
+
+(
+
+
+
+
+
+φ
+
++
+
+
+
+
+
+
+
+φ
+
+0
+
+
+
+
+
+
+)
+
+,
+
+
+{\displaystyle \varphi ={\frac {1}{\sqrt {2}}}\left({\begin{array}{c}\varphi ^{+}\\\varphi ^{0}\end{array}}\right),}
+
+
+
+where the superscripts + and 0 indicate the electric charge (Q) of the components. The weak isospin (YW) of both components is 1.
+Before symmetry breaking, the Higgs Lagrangian is
+
+
+
+
+
+
+
+
+L
+
+
+
+H
+
+
+=
+
+φ
+
+†
+
+
+
+(
+
+∂
+
+μ
+
+
+−
+
+
+i
+2
+
+
+
+(
+
+g
+′
+
+
+Y
+
+W
+
+
+
+B
+
+μ
+
+
++
+g
+
+
+
+τ
+→
+
+
+
+
+
+
+
+W
+→
+
+
+
+
+μ
+
+
+)
+
+)
+
+
+(
+
+∂
+
+μ
+
+
++
+
+
+i
+2
+
+
+
+(
+
+g
+′
+
+
+Y
+
+W
+
+
+
+B
+
+μ
+
+
++
+g
+
+
+
+τ
+→
+
+
+
+
+
+
+
+W
+→
+
+
+
+
+μ
+
+
+)
+
+)
+
+φ
+−
+
+
+
+λ
+
+2
+
+
+4
+
+
+
+
+(
+
+φ
+
+†
+
+
+φ
+−
+
+v
+
+2
+
+
+)
+
+
+2
+
+
+,
+
+
+{\displaystyle {\mathcal {L}}_{\text{H}}=\varphi ^{\dagger }\left(\partial ^{\mu }-{\frac {i}{2}}\left(g'Y_{\text{W}}B^{\mu }+g{\vec {\tau }}{\vec {W}}^{\mu }\right)\right)\left(\partial _{\mu }+{\frac {i}{2}}\left(g'Y_{\text{W}}B_{\mu }+g{\vec {\tau }}{\vec {W}}_{\mu }\right)\right)\varphi -{\frac {\lambda ^{2}}{4}}\left(\varphi ^{\dagger }\varphi -v^{2}\right)^{2},}
+
+
+
+which can also be written as
+
+
+
+
+
+
+
+
+L
+
+
+
+H
+
+
+=
+
+
+|
+
+(
+
+∂
+
+μ
+
+
++
+
+
+i
+2
+
+
+
+(
+
+g
+′
+
+
+Y
+
+W
+
+
+
+B
+
+μ
+
+
++
+g
+
+
+
+τ
+→
+
+
+
+
+
+
+
+W
+→
+
+
+
+
+μ
+
+
+)
+
+)
+
+φ
+|
+
+
+2
+
+
+−
+
+
+
+λ
+
+2
+
+
+4
+
+
+
+
+(
+
+φ
+
+†
+
+
+φ
+−
+
+v
+
+2
+
+
+)
+
+
+2
+
+
+.
+
+
+{\displaystyle {\mathcal {L}}_{\text{H}}=\left|\left(\partial _{\mu }+{\frac {i}{2}}\left(g'Y_{\text{W}}B_{\mu }+g{\vec {\tau }}{\vec {W}}_{\mu }\right)\right)\varphi \right|^{2}-{\frac {\lambda ^{2}}{4}}\left(\varphi ^{\dagger }\varphi -v^{2}\right)^{2}.}
+
+
+
+Yukawa sector[edit]
+The Yukawa interaction terms are
+
+
+
+
+
+
+
+
+L
+
+
+
+Yukawa
+
+
+=
+
+
+
+U
+¯
+
+
+
+L
+
+
+
+G
+
+u
+
+
+
+U
+
+R
+
+
+
+ϕ
+
+0
+
+
+−
+
+
+
+D
+¯
+
+
+
+L
+
+
+
+G
+
+u
+
+
+
+U
+
+R
+
+
+
+ϕ
+
+−
+
+
++
+
+
+
+U
+¯
+
+
+
+L
+
+
+
+G
+
+d
+
+
+
+D
+
+R
+
+
+
+ϕ
+
++
+
+
++
+
+
+
+D
+¯
+
+
+
+L
+
+
+
+G
+
+d
+
+
+
+D
+
+R
+
+
+
+ϕ
+
+0
+
+
++
+h
+c
+,
+
+
+{\displaystyle {\mathcal {L}}_{\text{Yukawa}}={\overline {U}}_{L}G_{u}U_{R}\phi ^{0}-{\overline {D}}_{L}G_{u}U_{R}\phi ^{-}+{\overline {U}}_{L}G_{d}D_{R}\phi ^{+}+{\overline {D}}_{L}G_{d}D_{R}\phi ^{0}+hc,}
+
+
+
+where Gu,d are 3 × 3 matrices of Yukawa couplings, with the ij term giving the coupling of the generations i and j.
+Fundamental forces[edit]
+Main article: Fundamental interaction
+
+
+
+
+This section needs expansion. You can help by adding to it. (October 2015)
+
+
+
+The Standard Model describes three of the four fundamental forces in nature; only gravity remains unexplained. In the Standard Model, a force is described as an exchange of bosons between the objects affected, such as a photon for the electromagnetic force and a gluon for the strong interaction. Those particles are called force carriers or messenger particles.[30]
+
+The four fundamental interactions of nature[31]
+
+Property/Interaction
+Gravitation
+Weak
+Electromagnetic
+Strong
+
+
+(Electroweak)
+Fundamental
+Residual
+
+
+Acts on:
+Mass - Energy
+Flavor
+Electric charge
+Color charge
+Atomic nuclei
+
+
+Particles experiencing:
+All
+Quarks, leptons
+Electrically charged
+Quarks, Gluons
+Hadrons
+
+
+Particles mediating:
+Not yet observed
+(Graviton hypothesised)
+W+, W− and Z0
+γ (photon)
+Gluons
+π, ρ and ω mesons
+
+
+Strength at the scale of quarks:
+6959100000000000000♠10−41
+6996100000000000000♠10−4
+1
+60
+Not applicable
+to quarks
+
+
+Strength at the scale of
+protons/neutrons:
+6964100000000000000♠10−36
+6993100000000000000♠10−7
+1
+Not applicable
+to hadrons
+20
+
+
+Tests and predictions[edit]
+The Standard Model (SM) predicted the existence of the W and Z bosons, gluon, and the top and charm quarks before these particles were observed.[citation needed] Their predicted properties were experimentally confirmed with good precision.[citation needed]
+The SM also makes several predictions about the decay of Z0 bosons, which have been experimentally confirmed by the Large Electron-Positron Collider at CERN.[citation needed]
+In May 2012 BaBar Collaboration reported that their recently analyzed data may suggest possible flaws in the Standard Model of particle physics.[32][33] These data show that a particular type of particle decay called "B to D-star-tau-nu" happens more often than the Standard Model says it should. In this type of decay, a particle called the B-bar meson decays into a D meson, an antineutrino and a tau-lepton. While the level of certainty of the excess (3.4 sigma) is not enough to claim a break from the Standard Model, the results are a potential sign of something amiss and are likely to affect existing theories, including those attempting to deduce the properties of Higgs bosons.[34]
+On December 13, 2012, physicists reported the constancy, over space and time, of a basic physical constant of nature that supports the standard model of physics. The scientists, studying methanol molecules in a distant galaxy, found the change (∆μ/μ) in the proton-to-electron mass ratio μ to be equal to "(0.0 ± 1.0) × 10−7 at redshift z = 0.89" and consistent with "a null result".[35][36]
+Challenges[edit]
+See also: Physics beyond the Standard Model
+
+
+
+Unsolved problem in physics:
+
+
+What gives rise to the Standard Model of particle physics?
+Why do particle masses and coupling constants have the values that we measure?
+Why are there three generations of particles?
+Why is there more matter than antimatter in the universe?
+Where does Dark Matter fit into the model? Is it even a new particle?
+
+
+(more unsolved problems in physics)
+
+
+
+Self-consistency of the Standard Model (currently formulated as a non-abelian gauge theory quantized through path-integrals) has not been mathematically proven. While regularized versions useful for approximate computations (for example lattice gauge theory) exist, it is not known whether they converge (in the sense of S-matrix elements) in the limit that the regulator is removed. A key question related to the consistency is the Yang–Mills existence and mass gap problem.
+Experiments indicate that neutrinos have mass, which the classic Standard Model did not allow.[37] To accommodate this finding, the classic Standard Model can be modified to include neutrino mass.
+If one insists on using only Standard Model particles, this can be achieved by adding a non-renormalizable interaction of leptons with the Higgs boson.[38] On a fundamental level, such an interaction emerges in the seesaw mechanism where heavy right-handed neutrinos are added to the theory. This is natural in the left-right symmetric extension of the Standard Model[39][40] and in certain grand unified theories.[41] As long as new physics appears below or around 1014 GeV, the neutrino masses can be of the right order of magnitude.
+Theoretical and experimental research has attempted to extend the Standard Model into a Unified field theory or a Theory of everything, a complete theory explaining all physical phenomena including constants. Inadequacies of the Standard Model that motivate such research include:
+
+The model does not explain gravitation, although physical confirmation of a theoretical particle known as a graviton would account for it to a degree. Though it addresses strong and electroweak interactions, the Standard Model does not consistently explain the canonical theory of gravitation, general relativity, in terms of quantum field theory. The reason for this is, among other things, that quantum field theories of gravity generally break down before reaching the Planck scale. As a consequence, we have no reliable theory for the very early universe.
+Some physicists consider it to be ad hoc and inelegant, requiring 19 numerical constants whose values are unrelated and arbitrary.[42] Although the Standard Model, as it now stands, can explain why neutrinos have masses, the specifics of neutrino mass are still unclear. It is believed that explaining neutrino mass will require an additional 7 or 8 constants, which are also arbitrary parameters.[citation needed]
+The Higgs mechanism gives rise to the hierarchy problem if some new physics (coupled to the Higgs) is present at high energy scales. In these cases, in order for the weak scale to be much smaller than the Planck scale, severe fine tuning of the parameters is required; there are, however, other scenarios that include quantum gravity in which such fine tuning can be avoided.[43] There are also issues of Quantum triviality, which suggests that it may not be possible to create a consistent quantum field theory involving elementary scalar particles.
+The model is inconsistent with the emerging "Standard Model of cosmology". More common contentions include the absence of an explanation in the Standard Model of particle physics for the observed amount of cold dark matter (CDM) and its contributions to dark energy, which are many orders of magnitude too large. It is also difficult to accommodate the observed predominance of matter over antimatter (matter/antimatter asymmetry). The isotropy and homogeneity of the visible universe over large distances seems to require a mechanism like cosmic inflation, which would also constitute an extension of the Standard Model.
+The existence of ultra-high-energy cosmic rays are difficult to explain under the Standard Model.
+
+Currently, no proposed Theory of Everything has been widely accepted or verified.
+See also[edit]
+
+
+
+
+
+Book: Particles of the Standard Model
+
+
+
+
+
+Fundamental interaction:
+
+Quantum electrodynamics
+Strong interaction: Color charge, Quantum chromodynamics, Quark model
+Weak interaction: Electroweak theory, Fermi theory of beta decay, Weak hypercharge, Weak isospin
+
+
+Gauge theory: Nontechnical introduction to gauge theory
+Generation
+Higgs mechanism: Higgs boson, Higgsless model
+J. C. Ward
+J. J. Sakurai Prize for Theoretical Particle Physics
+Lagrangian
+Open questions: BTeV experiment, CP violation, Neutrino masses, Quark matter, Quantum triviality
+Penguin diagram
+Quantum field theory
+Standard Model: Mathematical formulation of, Physics beyond the Standard Model
+
+Notes and references[edit]
+
+
+
+^ Technically, there are nine such color–anticolor combinations. However, there is one color-symmetric combination that can be constructed out of a linear superposition of the nine combinations, reducing the count to eight.
+
+
+
+References[edit]
+
+
+
+^ R. Oerter (2006). The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics (Kindle ed.). Penguin Group. p. 2. ISBN 0-13-236678-9. 
+^ In fact, there are mathematical issues regarding quantum field theories still under debate (see e.g. Landau pole), but the predictions extracted from the Standard Model by current methods applicable to current experiments are all self-consistent. For a further discussion see e.g. Chapter 25 of R. Mann (2010). An Introduction to Particle Physics and the Standard Model. CRC Press. ISBN 978-1-4200-8298-2. 
+^ Sean Carroll, Ph.D., Caltech, 2007, The Teaching Company, Dark Matter, Dark Energy: The Dark Side of the Universe, Guidebook Part 2 page 59, Accessed Oct. 7, 2013, "...Standard Model of Particle Physics: The modern theory of elementary particles and their interactions ... It does not, strictly speaking, include gravity, although it's often convenient to include gravitons among the known particles of nature..."
+^ S.L. Glashow (1961). "Partial-symmetries of weak interactions". Nuclear Physics. 22 (4): 579–588. Bibcode:1961NucPh..22..579G. doi:10.1016/0029-5582(61)90469-2. 
+^ S. Weinberg (1967). "A Model of Leptons". Physical Review Letters. 19 (21): 1264–1266. Bibcode:1967PhRvL..19.1264W. doi:10.1103/PhysRevLett.19.1264. 
+^ A. Salam (1968). N. Svartholm, ed. Elementary Particle Physics: Relativistic Groups and Analyticity. Eighth Nobel Symposium. Stockholm: Almquvist and Wiksell. p. 367. 
+^ a b F. Englert; R. Brout (1964). "Broken Symmetry and the Mass of Gauge Vector Mesons". Physical Review Letters. 13 (9): 321–323. Bibcode:1964PhRvL..13..321E. doi:10.1103/PhysRevLett.13.321. 
+^ a b P.W. Higgs (1964). "Broken Symmetries and the Masses of Gauge Bosons". Physical Review Letters. 13 (16): 508–509. Bibcode:1964PhRvL..13..508H. doi:10.1103/PhysRevLett.13.508. 
+^ a b G.S. Guralnik; C.R. Hagen; T.W.B. Kibble (1964). "Global Conservation Laws and Massless Particles". Physical Review Letters. 13 (20): 585–587. Bibcode:1964PhRvL..13..585G. doi:10.1103/PhysRevLett.13.585. 
+^ F.J. Hasert; et al. (1973). "Search for elastic muon-neutrino electron scattering". Physics Letters B. 46 (1): 121. Bibcode:1973PhLB...46..121H. doi:10.1016/0370-2693(73)90494-2. 
+^ F.J. Hasert; et al. (1973). "Observation of neutrino-like interactions without muon or electron in the Gargamelle neutrino experiment". Physics Letters B. 46 (1): 138. Bibcode:1973PhLB...46..138H. doi:10.1016/0370-2693(73)90499-1. 
+^ F.J. Hasert; et al. (1974). "Observation of neutrino-like interactions without muon or electron in the Gargamelle neutrino experiment". Nuclear Physics B. 73 (1): 1. Bibcode:1974NuPhB..73....1H. doi:10.1016/0550-3213(74)90038-8. 
+^ D. Haidt (4 October 2004). "The discovery of the weak neutral currents". CERN Courier. Retrieved 8 May 2008. 
+^ D.J. Gross; F. Wilczek (1973). "Ultraviolet behavior of non-abelian gauge theories". Physical Review Letters. 30 (26): 1343–1346. Bibcode:1973PhRvL..30.1343G. doi:10.1103/PhysRevLett.30.1343. 
+^ H.D. Politzer (1973). "Reliable perturbative results for strong interactions". Physical Review Letters. 30 (26): 1346–1349. Bibcode:1973PhRvL..30.1346P. doi:10.1103/PhysRevLett.30.1346. 
+^ Dean Rickles (2014). A Brief History of String Theory: From Dual Models to M-Theory. Springer, p. 11 n. 22.
+^ Aubert, J.; et al. (1974). "Experimental Observation of a Heavy Particle J". Physical Review Letters. 33 (23): 1404–1406. Bibcode:1974PhRvL..33.1404A. doi:10.1103/PhysRevLett.33.1404. 
+^ Augustin, J.; et al. (1974). "Discovery of a Narrow Resonance in e+e− Annihilation". Physical Review Letters. 33 (23): 1406–1408. Bibcode:1974PhRvL..33.1406A. doi:10.1103/PhysRevLett.33.1406. 
+^ "Details can be worked out if the situation is simple enough for us to make an approximation, which is almost never, but often we can understand more or less what is happening." from The Feynman Lectures on Physics, Vol 1. pp. 2–7
+^ G.S. Guralnik (2009). "The History of the Guralnik, Hagen and Kibble development of the Theory of Spontaneous Symmetry Breaking and Gauge Particles". International Journal of Modern Physics A. 24 (14): 2601–2627. arXiv:0907.3466 . Bibcode:2009IJMPA..24.2601G. doi:10.1142/S0217751X09045431. 
+^ B.W. Lee; C. Quigg; H.B. Thacker (1977). "Weak interactions at very high energies: The role of the Higgs-boson mass". Physical Review D. 16 (5): 1519–1531. Bibcode:1977PhRvD..16.1519L. doi:10.1103/PhysRevD.16.1519. 
+^ "Huge $10 billion collider resumes hunt for 'God particle'". CNN. 11 November 2009. Retrieved 2010-05-04. 
+^ M. Strassler (10 July 2012). "Higgs Discovery: Is it a Higgs?". Retrieved 2013-08-06. 
+^ "CERN experiments observe particle consistent with long-sought Higgs boson". CERN. 4 July 2012. Retrieved 2016-11-12. 
+^ "Observation of a New Particle with a Mass of 125 GeV". CERN. 4 July 2012. Retrieved 2012-07-05. 
+^ "ATLAS Experiment". ATLAS. 4 July 2012. Retrieved 2017-06-13. 
+^ "Confirmed: CERN discovers new particle likely to be the Higgs boson". YouTube. Russia Today. 4 July 2012. Retrieved 2013-08-06. 
+^ D. Overbye (4 July 2012). "A New Particle Could Be Physics' Holy Grail". New York Times. Retrieved 2012-07-04. 
+^ "LHC experiments delve deeper into precision". CERN. 11 July 2017. Retrieved 2017-07-23. 
+^ http://home.web.cern.ch/about/physics/standard-model Official CERN website
+^ "Standard Model of Particles and Interactions". jhu.edu. Johns Hopkins University. Archived from the original on March 4, 2016. Retrieved August 18, 2016. .gif 
+^ "BABAR Data in Tension with the Standard Model". SLAC. 31 May 2012. Retrieved 2013-08-06. 
+^ BaBar Collaboration (2012). "Evidence for an excess of B → D(*) τ− ντ decays". Physical Review Letters. 109 (10): 101802. arXiv:1205.5442 . Bibcode:2012PhRvL.109j1802L. doi:10.1103/PhysRevLett.109.101802. 
+^ "BaBar data hint at cracks in the Standard Model". e! Science News. 18 June 2012. Retrieved 2013-08-06. 
+^ J. Bagdonaite; et al. (2012). "A Stringent Limit on a Drifting Proton-to-Electron Mass Ratio from Alcohol in the Early Universe". Science. 339 (6115): 46. Bibcode:2013Sci...339...46B. doi:10.1126/science.1224898. PMID 23239626. 
+^ C. Moskowitz (13 December 2012). "Phew! Universe's Constant Has Stayed Constant". Space.com. Retrieved 2012-12-14. 
+^ "Particle chameleon caught in the act of changing". CERN. 31 May 2010. Retrieved 2016-11-12. 
+^ S. Weinberg (1979). "Baryon and Lepton Nonconserving Processes". Physical Review Letters. 43 (21): 1566. Bibcode:1979PhRvL..43.1566W. doi:10.1103/PhysRevLett.43.1566. 
+^ P. Minkowski (1977). "μ → e γ at a Rate of One Out of 109 Muon Decays?". Physics Letters B. 67 (4): 421. Bibcode:1977PhLB...67..421M. doi:10.1016/0370-2693(77)90435-X. 
+^ R. N. Mohapatra; G. Senjanovic (1980). "Neutrino Mass and Spontaneous Parity Nonconservation". Physical Review Letters. 44 (14): 912–915. Bibcode:1980PhRvL..44..912M. doi:10.1103/PhysRevLett.44.912. 
+^ M. Gell-Mann, P. Ramond & R. Slansky (1979). F. van Nieuwenhuizen & D. Z. Freedman, eds. Supergravity. North Holland. pp. 315–321. ISBN 0-444-85438-X. 
+^ A. Blumhofer; M. Hutter (1997). "Family Structure from Periodic Solutions of an Improved Gap Equation". Nuclear Physics. B484: 80–96. Bibcode:1997NuPhB.484...80B. doi:10.1016/S0550-3213(96)00644-X. 
+^ Salvio, Strumia (2014-03-17). "Agravity". JHEP. 6: 080. arXiv:1403.4226 . Bibcode:2014JHEP...06..080S. doi:10.1007/JHEP06(2014)080. 
+
+
+
+Further reading[edit]
+
+R. Oerter (2006). The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Plume. 
+B. A. Schumm (2004). Deep Down Things: The Breathtaking Beauty of Particle Physics. Johns Hopkins University Press. ISBN 0-8018-7971-X. 
+
+
+"The Standard Model of Particle Physics Interactive Graphic". 
+
+
+Introductory textbooks
+
+
+I. Aitchison; A. Hey (2003). Gauge Theories in Particle Physics: A Practical Introduction. Institute of Physics. ISBN 978-0-585-44550-2. 
+W. Greiner; B. Müller (2000). Gauge Theory of Weak Interactions. Springer. ISBN 3-540-67672-4. 
+G. D. Coughlan; J. E. Dodd; B. M. Gripaios (2006). The Ideas of Particle Physics: An Introduction for Scientists. Cambridge University Press. 
+D. J. Griffiths (1987). Introduction to Elementary Particles. John Wiley & Sons. ISBN 0-471-60386-4. 
+G. L. Kane (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 0-201-11749-5. 
+
+
+Advanced textbooks
+
+
+T. P. Cheng; L. F. Li (2006). Gauge theory of elementary particle physics. Oxford University Press. ISBN 0-19-851961-3.  Highlights the gauge theory aspects of the Standard Model.
+J. F. Donoghue; E. Golowich; B. R. Holstein (1994). Dynamics of the Standard Model. Cambridge University Press. ISBN 978-0-521-47652-2.  Highlights dynamical and phenomenological aspects of the Standard Model.
+L. O'Raifeartaigh (1988). Group structure of gauge theories. Cambridge University Press. ISBN 0-521-34785-8. 
+Nagashima Y. Elementary Particle Physics: Foundations of the Standard Model, Volume 2. (Wiley 2013) 920 pages
+Schwartz, M.D. Quantum Field Theory and the Standard Model (Cambridge University Press 2013) 952 pages
+Langacker P. The standard model and beyond. (CRC Press, 2010) 670 pages. Highlights group-theoretical aspects of the Standard Model.
+
+
+Journal articles
+
+
+E. S. Abers; B. W. Lee (1973). "Gauge theories". Physics Reports. 9: 1–141. Bibcode:1973PhR.....9....1A. doi:10.1016/0370-1573(73)90027-6. 
+M. Baak; et al. (2012). "The Electroweak Fit of the Standard Model after the Discovery of a New Boson at the LHC". The European Physical Journal C. 72 (11). arXiv:1209.2716 . Bibcode:2012EPJC...72.2205B. doi:10.1140/epjc/s10052-012-2205-9. 
+Y. Hayato; et al. (1999). "Search for Proton Decay through p → νK+ in a Large Water Cherenkov Detector". Physical Review Letters. 83 (8): 1529. arXiv:hep-ex/9904020 . Bibcode:1999PhRvL..83.1529H. doi:10.1103/PhysRevLett.83.1529. 
+S. F. Novaes (2000). "Standard Model: An Introduction". arXiv:hep-ph/0001283  [hep-ph]. 
+D. P. Roy (1999). "Basic Constituents of Matter and their Interactions — A Progress Report". arXiv:hep-ph/9912523  [hep-ph]. 
+F. Wilczek (2004). "The Universe Is A Strange Place". Nuclear Physics B - Proceedings Supplements. 134: 3. arXiv:astro-ph/0401347 . Bibcode:2004NuPhS.134....3W. doi:10.1016/j.nuclphysbps.2004.08.001. 
+
+External links[edit]
+
+"The Standard Model explained in Detail by CERN's John Ellis" omega tau podcast.
+"The Standard Model" The Standard Model on the CERN web site explains how the basic building blocks of matter interact, governed by four fundamental forces.
+Leonard Susskind: Particle Physics: Standard Model. Lecture Collections, Video Recordings, 2010.
+"Standard Model" on YouTube
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Standard Model
+
+
+
+Background
+
+
+
+Particle physics
+
+Fermions
+Gauge boson
+Higgs boson
+
+
+Quantum field theory
+Gauge theory
+Quantum electrodynamics
+Strong interaction
+
+Color charge
+Quantum chromodynamics
+Quark model
+
+
+Weak interaction
+
+Electroweak theory
+Fermi theory of beta decay
+Weak hypercharge
+Weak isospin
+
+
+
+
+
+
+
+
+
+
+Constituents
+
+
+
+CKM matrix
+Spontaneous symmetry breaking
+Higgs mechanism
+Standard Model (mathematical formulation)
+
+
+
+
+
+Beyond the Standard Model
+
+
+
+
+Evidence
+
+
+
+Hierarchy problem
+Dark matter
+Cosmological constant problem
+Strong CP problem
+Neutrino oscillation
+
+
+
+
+
+Theories
+
+
+
+Technicolor
+Kaluza–Klein theory
+Grand Unified Theory
+Theory of everything
+
+
+
+
+
+Supersymmetry
+
+
+
+MSSM
+Superstring theory
+Supergravity
+
+
+
+
+
+Quantum gravity
+
+
+
+String theory
+Loop quantum gravity
+Causal dynamical triangulation
+Canonical quantum gravity
+Superfluid vacuum theory
+Twistor theory
+
+
+
+
+
+
+
+
+Experiments
+
+
+
+Gran Sasso
+INO
+LHC
+SNO
+Super-K
+Tevatron
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Dual graviton
+Graviton
+Leptoquark
+Majoron
+Majorana fermion
+Magnetic monopole
+Preon
+Sterile neutrino
+Tachyon
+W′ and Z′ bosons
+X and Y bosons
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / hyperons
+
+
+
+Nucleon
+
+Proton
+Antiproton
+Neutron
+Antineutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+
+
+
+
+
+Mesons / quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Kaon
+B meson
+D meson
+
+
+
+
+
+Exotic hadrons
+
+
+
+Tetraquark
+Pentaquark
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+Hypothetical
+
+
+
+
+
+
+
+
+Hypothetical baryons
+
+
+
+Hexaquark
+Skyrmion
+
+
+
+
+
+Hypothetical mesons
+
+
+
+Glueball
+Theta meson
+T meson
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+Diquarks
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+Related
+
+
+
+History of subatomic physics
+
+timeline
+
+
+Standard Model
+
+mathematical formulation
+
+
+Subatomic particles
+Particles
+Antiparticles
+Nuclear physics
+Eightfold Way
+
+Quark model
+
+
+Exotic matter
+Massless particle
+Relativistic particle
+Virtual particle
+Wave–particle duality
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Quantum field theories
+
+
+
+Standard
+
+
+
+Chern–Simons model
+Chiral model
+Kondo model
+Conformal field theory
+Local quantum field theory
+Noncommutative quantum field theory
+Non-linear sigma model
+Quartic interaction
+Quantum chromodynamics
+Quantum electrodynamics
+Quantum hadrodynamics
+Quantum Yang–Mills theory
+Schwinger model
+sine-Gordon
+Standard Model
+String theory
+Toda field theory
+Topological quantum field theory
+Wess–Zumino model
+Wess–Zumino–Witten model
+Yang–Mills theory
+Yang–Mills–Higgs model
+Yukawa model
+Thirring–Wess model
+
+
+
+
+
+Four-fermion interactions
+
+
+
+Thirring model
+Gross–Neveu model
+Nambu–Jona-Lasinio model
+
+
+
+
+
+Related
+
+
+
+History of quantum field theory
+Axiomatic quantum field theory
+Quantum field theory in curved spacetime
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Branches of physics
+
+
+
+Divisions
+
+
+
+Applied
+Experimental
+Theoretical
+
+
+
+
+
+
+
+
+Energy
+Motion
+
+
+
+
+
+
+Thermodynamics
+Mechanics
+
+Classical
+
+Ballistics
+Lagrangian
+Hamiltonian
+
+
+Continuum
+Celestial
+Statistical
+Solid
+Fluid
+Quantum
+
+
+
+
+
+
+
+
+
+
+Waves
+Fields
+
+
+
+
+
+
+Gravitation
+Electromagnetism
+Optics
+
+Geometrical
+Physical
+Nonlinear
+Quantum
+
+
+Quantum field theory
+Relativity
+
+Special
+General
+
+
+
+
+
+
+
+By speciality
+
+
+
+Accelerator
+Acoustics
+Astrophysics
+
+Nuclear
+Stellar
+Heliophysics
+
+Solar
+
+
+Space
+Astroparticle
+
+
+Atomic–molecular–optical (AMO)
+Communication
+Computational
+Condensed matter
+
+Mesoscopic
+Solid-state
+Soft
+
+
+Digital
+Engineering
+Material
+Mathematical
+Molecular
+Nuclear
+Particle
+
+Phenomenology
+
+
+Plasma
+Polymer
+Statistical
+
+
+
+
+
+
+Physics in life science
+
+
+
+
+Biophysics
+
+Virophysics
+Biomechanics
+
+
+Medical physics
+
+Cardiophysics
+Health physics
+Laser medicine
+Medical imaging‎
+Nuclear medicine
+Neurophysics
+Psychophysics
+
+
+
+
+
+
+
+
+Physics with
+other sciences
+
+
+
+
+Agrophysics
+
+Soil
+
+
+Atmospheric
+
+Cloud
+
+
+Chemical
+Econophysics
+Geophysics
+
+
+
+
+
+
+
+
+Mathematics portal
+Physics portal
+
+
+
+
+
+Authority control
+
+
+
+GND: 4297710-1
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Standard_Model&oldid=812565023"					
+Categories: Concepts in physicsParticle physicsStandard ModelHidden categories: All articles with unsourced statementsArticles with unsourced statements from September 2016Wikipedia articles needing clarification from July 2013Articles to be expanded from October 2015All articles to be expandedArticles using small message boxesArticles with unsourced statements from January 2016Use dmy dates from March 2011Wikipedia articles with GND identifiers 

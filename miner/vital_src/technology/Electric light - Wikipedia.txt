@@ -1,0 +1,665 @@
+Electric light - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For other uses, see Electric light (disambiguation).
+"Electric lamp" redirects here. For the item of furniture, see light fixture.
+"Light bulb" redirects here. For the music by Fujiya & Miyagi, see Lightbulbs (album).
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2017) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+Incandescent (left) and fluorescent (right) light bulbs turned on
+
+
+An electric light is a device that produces visible light from electric current. It is the most common form of artificial lighting and is essential to modern society,[1] providing interior lighting for buildings and exterior light for evening and nighttime activities. In technical usage, a replaceable component that produces light from electricity is called a lamp.[2] Lamps are commonly called light bulbs; for example, the incandescent light bulb.[3] Lamps usually have a base made of ceramic, metal, glass or plastic, which secures the lamp in the socket of a light fixture. The electrical connection to the socket may be made with a screw-thread base, two metal pins, two metal caps or a bayonet cap.
+The three main categories of electric lights are incandescent lamps, which produce light by a filament heated white-hot by electric current, gas-discharge lamps, which produce light by means of an electric arc through a gas, and LED lamps, which produce light by a flow of electrons across a band gap in a semiconductor.
+Before electric lighting became common in the early 20th century, people used candles, gas lights, oil lamps, and fires.[4] Humphry Davy developed the first incandescent light in 1802, followed by the first practical electric arc light in 1806. By the 1870s, Davy's arc lamp had been successfully commercialized, and was used to light many public spaces.[5] The development of a steadily glowing filament suitable for interior lighting took longer, but by the early twentieth century inventors had successfully developed options, replacing the arc light with incandescents.[1][4]
+The energy efficiency of electric lighting has increased radically since the first demonstration of arc lamps and the incandescent light bulb of the 19th century. Modern electric light sources come in a profusion of types and sizes adapted to many applications. Most modern electric lighting is powered by centrally generated electric power, but lighting may also be powered by mobile or standby electric generators or battery systems. Battery-powered light is often reserved for when and where stationary lights fail, often in the form of flashlights, electric lanterns, and in vehicles.
+
+
+
+Contents
+
+
+1 Types
+
+1.1 Incandescent light bulb
+
+1.1.1 Halogen lamp
+
+
+1.2 Fluorescent lamp
+1.3 LED lamp
+1.4 Carbon arc lamp
+1.5 Discharge lamp
+
+
+2 Lamp life expectancy
+3 Public lighting
+4 Uses other than illumination
+5 Lamp circuit symbols
+6 See also
+7 References
+
+
+
+Types[edit]
+
+
+
+
+Electric light longevity and brightness testing
+
+
+Types of electric lighting include:
+
+Incandescent light bulb, a heated filament inside a glass envelope
+
+Halogen lamps are incandescent lamps that use a fused quartz envelope filled with halogen gas
+
+
+LED lamp, a solid-state lamp that uses light-emitting diodes (LEDs) as the source of light
+Arc lamp
+
+Xenon arc lamp
+Mercury-xenon arc lamp
+Ultra-high-performance lamp, an ultra-high-pressure mercury-vapor arc lamp for use in projectors
+Metal-halide lamp
+
+
+Gas-discharge lamp, a light source that generates light by sending an electrical discharge through an ionized gas
+
+Fluorescent lamp
+
+Compact fluorescent lamp, a fluorescent lamp designed to replace an incandescent lamp
+
+
+Neon lamp
+Mercury-vapor lamp
+Sodium-vapor lamp
+Sulfur lamp
+Electrodeless lamp, a gas discharge lamp in which the power is transferred from outside the bulb to inside via electromagnetic fields
+
+
+
+Different types of lights have vastly differing efficiencies and color of light.[6]
+
+
+Name
+Optical spectrum
+Nominal efficacy
+(lm/W)
+Lifetime (MTTF)
+(hours)
+Color temperature
+(kelvin)
+Color
+Color
+rendering
+index
+
+
+Incandescent light bulb
+Continuous
+4–17
+2-20,000
+2,400–3,400
+Warm white (yellowish)
+100
+
+
+Halogen lamp
+Continuous
+16–23
+3,000–6,000
+3,200
+Warm white (yellowish)
+100
+
+
+Fluorescent lamp
+Mercury line + Phosphor
+52–100 (white)
+8,000-20,000
+2,700–5,000*
+White (various color temperatures), as well as saturated colors available
+15–85
+
+
+Metal halide lamp
+Quasi-continuous
+50–115
+6,000-20,000
+3,000–4,500
+Cold white
+65–93
+
+
+Sulfur lamp
+Continuous
+80–110
+15,000-20,000
+6,000
+Pale green
+79
+
+
+High pressure sodium
+Broadband
+55–140
+10,000-40,000
+1,800–2,200*
+Pinkish orange
+0–70
+
+
+Low pressure sodium
+Narrow line
+100–200
+18,000-20,000
+1,800*
+Yellow, no color rendering
+0
+
+
+LED lamp
+Line plus phosphor
+10–110 (white)
+50,000–100,000
+Various white from 2,700 to 6,000*
+Various color temperatures, as well as saturated colors
+70–85 (white)
+
+
+Electrodeless lamp
+Mercury line + Phosphor
+70–90 (white)
+80,000–100,000
+Various white from 2,700 to 6,000*
+Various color temperatures, as well as saturated colors
+70–85 (white)
+
+
+*Color temperature is defined as the temperature of a black body emitting a similar spectrum; these spectra are quite different from those of black bodies.
+The most efficient source of electric light is the low-pressure sodium lamp. It produces, for all practical purposes, a monochromatic orange/yellow light, which gives a similarly monochromatic perception of any illuminated scene. For this reason, it is generally reserved for outdoor public lighting usages. Low-pressure sodium lights are favoured for public lighting by astronomers, since the light pollution that they generate can be easily filtered, contrary to broadband or continuous spectra.
+Incandescent light bulb[edit]
+Main article: Incandescent light bulb
+
+
+
+
+Sign with instructions on the use of light bulbs
+
+
+
+
+
+
+St John the Baptist Church, Hagley, tablet commemorating the installation of electric light
+
+
+The modern incandescent light bulb, with a coiled filament of tungsten, and commercialized in the 1920s, developed from the carbon filament lamp introduced about 1880. As well as bulbs for normal illumination, there is a very wide range, including low voltage, low-power types often used as components in equipment, but now largely displaced by LEDs
+There is currently interest in banning some types of filament lamp in some countries, such as Australia, which has banned standard inefficient incandescent bulbs through a three year phase out that started in 2009. Sri Lanka has already banned importing filament bulbs because of high use of electricity and less light. Less than 3% of the input energy is converted into usable light. Nearly all of the input energy ends up as heat that, in warm climates, must then be removed from the building by ventilation or air conditioning, often resulting in more energy consumption. In colder climates where heating and lighting is required during the cold and dark winter months, the heat byproduct has at least some value.
+Halogen lamp[edit]
+Main article: Halogen lamp
+Halogen lamps are usually much smaller than standard incandescents, because for successful operation a bulb temperature over 200 °C is generally necessary. For this reason, most have a bulb of fused silica (quartz), but sometimes aluminosilicate glass. This is often sealed inside an additional layer of glass. The outer glass is a safety precaution, reducing UV emission and because halogen bulbs can occasionally explode during operation. One reason is if the quartz bulb has oily residue from fingerprints. The risk of burns or fire is also greater with bare bulbs, leading to their prohibition in some places unless enclosed by the luminaire.
+Those designed for 12 or 24 volt operation have compact filaments, useful for good optical control, also they have higher efficiencies (lumens per watt) and better lives than non-halogen types. The light output remains almost constant throughout their life.
+Fluorescent lamp[edit]
+Main article: Fluorescent lamp
+
+
+
+
+Top, two compact fluorescent lamps. Bottom, two fluorescent tube lamps. A matchstick, left, is shown for scale.
+
+
+Fluorescent lamps consist of a glass tube that contains mercury vapour or argon under low pressure. Electricity flowing through the tube causes the gases to give off ultraviolet energy. The inside of the tubes are coated with phosphors that give off visible light when struck by ultraviolet energy.[7] They have much higher efficiency than incandescent lamps. For the same amount of light generated, they typically use around one-quarter to one-third the power of an incandescent. The typical luminous efficacy of fluorescent lighting systems is 50–100 lumens per watt, several times the efficacy of incandescent bulbs with comparable light output. Fluorescent lamp fixtures are more costly than incandescent lamps because they require a ballast to regulate the current through the lamp, but the lower energy cost typically offsets the higher initial cost. Compact fluorescent lamps are now available in the same popular sizes as incandescents and are used as an energy-saving alternative in homes. Because they contain mercury, many fluorescent lamps are classified as hazardous waste. The United States Environmental Protection Agency recommends that fluorescent lamps be segregated from general waste for recycling or safe disposal, and some jurisdictions require recycling of them.[8]
+LED lamp[edit]
+Main article: Solid-state lighting
+
+
+
+
+LED lamp with E27 Edison screw base
+
+
+Solid state LEDs have been popular as indicator lights in consumer electronics and professional audio gear since the 1970s. In the 2000s efficacy and output have risen to the point where LEDs are now being used in lighting applications such as car headlights and brakelights, in flashlights and bike lights, as well as in decorative applications such as holiday lighting. Indicator LEDs are known for their extremely long life, up to 100,000 hours, but lighting LEDs are operated much less conservatively, and consequently have shorter lives. LED technology is useful for lighting designers because of its low power consumption, low heat generation, instantaneous on/off control, and in the case of single color LEDs, continuity of color throughout the life of the diode and relatively low cost of manufacture. LED lifetime depends strongly on the temperature of the diode. Operating an LED lamp in conditions that increase the internal temperature can greatly shorten the lamp's life.
+Carbon arc lamp[edit]
+Main article: Arc lamp
+
+
+
+
+The 15 kW xenon short-arc lamp used in the IMAX projection system.
+
+
+
+
+
+
+A mercury arc lamp from a fluorescence microscope.
+
+
+Carbon arc lamps consist of two carbon rod electrodes in open air, supplied by a current-limiting ballast. The electric arc is struck by touching the rods then separating them. The ensuing arc heats the carbon tips to white heat. These lamps have higher efficiency than filament lamps, but the carbon rods are short lived and require constant adjustment in use. The lamps produce significant ultra-violet output, they require ventilation when used indoors, and due to their intensity they need protecting from direct sight.
+Invented by Humphry Davy around 1805, the carbon arc was the first practical electric light. They were used commercially beginning in the 1870s for large building and street lighting until they were superseded in the early 20th century by the incandescent light. Carbon arc lamps operate at high powers and produce high intensity white light. They also are a point source of light. They remained in use in limited applications that required these properties, such as movie projectors, stage lighting, and searchlights, until after World War 2.
+Discharge lamp[edit]
+A discharge lamp has a glass or silica envelope containing two metal electrodes separated by a gas. Gases used include, neon, argon, xenon, sodium, metal halide, and mercury. The core operating principle is much the same as the carbon arc lamp, but the term 'arc lamp' is normally used to refer to carbon arc lamps, with more modern types of gas discharge lamp normally called discharge lamps. With some discharge lamps, very high voltage is used to strike the arc. This requires an electrical circuit called an igniter, which is part of the ballast circuitry. After the arc is struck, the internal resistance of the lamp drops to a low level, and the ballast limits the current to the operating current. Without a ballast, excess current would flow, causing rapid destruction of the lamp.
+Some lamp types contain a little neon, which permits striking at normal running voltage, with no external ignition circuitry. Low pressure sodium lamps operate this way. The simplest ballasts are just an inductor, and are chosen where cost is the deciding factor, such as street lighting. More advanced electronic ballasts may be designed to maintain constant light output over the life of the lamp, may drive the lamp with a square wave to maintain completely flicker-free output, and shut down in the event of certain faults.
+Lamp life expectancy[edit]
+Life expectancy for many types of lamp is defined as the number of hours of operation at which 50% of them fail, that is the median life of the lamps. Production tolerances as low as 1% can create a variance of 25% in lamp life, so in general some lamps will fail well before the rated life expectancy, and some will last much longer. For LEDs, lamp life is defined as the operation time at which 50% of lamps have experienced a 70% decrease in light output.
+Some types of lamp are also sensitive to switching cycles. Rooms with frequent switching such as bathrooms can expect much shorter lamp life than what is printed on the box. Compact fluorescent lamps are particularly sensitive to switching cycles.
+Public lighting[edit]
+The total amount of artificial light (especially from street light) is sufficient for cities to be easily visible at night from the air, and from space. This light is the source of light pollution that burdens astronomers and others.
+
+Human-made lights highlight particularly developed or populated areas of the Earth's surface, including the seaboards of Europe, the eastern United States, India, Japan and South Korea.
+Uses other than illumination[edit]
+
+
+
+
+A clear glass 60 W Neolux light bulb
+
+
+Electric lamps can be used as heat sources, for example in incubators, as heat lamps in fast food restaurants and toys such as the Easy-Bake Oven.
+Tungsten filament lamps have long been used as fast-acting thermistors in electronic circuits. Popular uses have included:
+
+Stabilisation of sine wave oscillators
+Protection of tweeters in speaker enclosures (excess current that is too high for the tweeter illuminates the light rather than blowing the tweeter).
+Automatic volume control in telephones
+
+Lamp circuit symbols[edit]
+In circuit diagrams lamps usually are shown as symbols. There are two main types of symbols, these are:
+
+
+
+
+
+
+
+
+
+
+
+
+
+The cross in a circle, which usually represents a lamp as an indicator. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+The semicircular dent in a circle, which usually represents a lamp as a source of light or illumination. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Another electronic symbol for a lamp 
+
+
+
+
+
+
+See also[edit]
+
+Lightbulb socket
+Light source
+Light tube
+List of light sources
+
+References[edit]
+
+
+^ a b Reisert, Sarah (2015). "Let there be light". Distillations Magazine. 1 (3): 44–45. Retrieved 5 November 2015. 
+^ "Lamp". Dictionary.com. Retrieved November 9, 2014. 
+^ "Light bulb". Merriam-Webster. Retrieved September 18, 2017. 
+^ a b Freebert, Ernest (2014). The age of Edison : electric light and the invention of modern America. Penguin Books. ISBN 978-0143124443. 
+^ Guarnieri, M. (2015). "Switching the Light: From Chemical to Electrical". IEEE Industrial Electronics Magazine. 9 (3): 44–47. doi:10.1109/MIE.2015.2454038. 
+^ http://www.parliament.the-stationery-office.co.uk/pa/cm200203/cmselect/cmsctech/747/747we81.htm
+^ Perkowitz, Sidney; Henry, A. Joseph (23 November 1998). Empire of Light:: A History of Discovery in Science and Art. Joseph Henry Press. ISBN 978-0309065566. Retrieved 4 November 2014. 
+^ Mercury-Containing Light Bulb (Lamp) Recycling | Universal Waste | US EPA
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Lamps
+Lighting
+
+
+
+
+
+
+Concepts
+
+
+
+Accent lighting
+Color temperature
+Efficiency
+Glare
+Lamp
+Light fixture
+Light pollution
+Lightbulb socket
+Task lighting
+
+
+
+
+
+Methods of generation
+
+
+
+
+Incandescent
+
+
+
+Regular
+Halogen
+Nernst
+Parabolic aluminized reflector (PAR)
+
+
+
+
+
+Luminescent
+
+
+
+Fluorescent
+
+Fluorescent lamp (compact)
+Fluorescent induction
+
+
+Photoluminescent
+
+laser lamp
+
+
+Chemiluminescent
+Solid-state
+
+LED bulb
+
+
+Cathodoluminescent
+
+Electron-stimulated
+
+
+Electroluminescent
+
+field-induced polymer
+
+
+
+
+
+
+
+Combustion
+
+
+
+Acetylene/Carbide
+Argand
+Campfire
+Candle
+Carcel
+Diya
+Flare
+Gas
+Kerosene
+Lantern
+Limelight
+Oil
+Rushlight
+Safety
+Tilley
+Torch
+
+
+
+
+
+Electric arc
+
+
+
+Carbon arc
+Klieg light
+Yablochkov candle
+
+
+
+
+
+Gas discharge
+
+
+
+Deuterium arc
+Neon
+Plasma
+Sulfur
+Xenon arc
+Xenon flash
+
+
+
+
+
+High-intensity
+discharge (HID)
+
+
+
+Hydrargyrum medium-arc iodide (HMI)
+Hydrargyrum quartz iodide (HQI)
+Mercury-vapor
+Metal-halide
+
+ceramic
+
+
+Sodium vapor
+
+
+
+
+
+
+
+
+
+
+
+Theatrical
+Cinematic
+
+
+
+
+
+
+Floodlight
+Footlight
+Gobo
+Scoop
+Spotlight
+
+ellipsoidal reflector
+
+
+Stage lighting instrument
+
+
+
+
+
+Stationary
+
+
+
+Aircraft warning
+Balanced-arm lamp
+Chandelier
+Emergency light
+Gas lighting
+Gooseneck lamp
+Intelligent street lighting
+Light tube
+Nightlight
+Neon lighting
+Pendant light
+Recessed light
+Sconce
+Street light
+Torchère
+Track lighting
+Troffer
+
+
+
+
+
+Mobile
+
+
+
+Flashlight
+
+tactical
+
+
+Glow stick
+Headlamp (outdoor)
+Lantern
+Laser pointer
+Navigation light
+Searchlight
+Solar lamp
+
+
+
+
+
+
+
+
+Industrial
+Scientific
+
+
+
+
+
+
+Germicidal
+Grow light
+Infrared lamp
+Stroboscope
+Tanning
+
+
+
+
+
+
+
+
+Display
+Decorative
+
+
+
+
+
+
+Aroma lamp
+Black light
+Bubble light
+Christmas lights
+Crackle tube
+DJ lighting
+Electroluminescent wire
+Lava lamp
+Marquee
+Plasma globe
+Strobe light
+
+
+
+
+
+Related topics
+
+
+
+Bioluminescence
+Chemiluminescence
+Electroluminescence
+Laser
+Photoluminescence
+Radioluminescence
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Electric_light&oldid=805274468"					
+Categories: Electrical componentsLightingHidden categories: Articles needing additional references from July 2017All articles needing additional references 

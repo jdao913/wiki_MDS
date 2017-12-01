@@ -1,0 +1,2310 @@
+Natural satellite - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+"Moons" redirects here. For Earth's natural satellite, see Moon. For other uses, see Moons (disambiguation).
+
+
+
+
+
+
+
+
+
+
+
+Most of the 184 known natural satellites of the planets and dwarf planets are irregular moons, while only 19 are large enough to be round. Ganymede, followed by Titan, Callisto, Io and Earth's Moon are the largest natural satellites in the Solar System (see List of natural satellites § List).
+
+
+A natural satellite or moon is, in the most common usage, an astronomical body that orbits a planet or minor planet (or sometimes another small Solar System body).
+In the Solar System there are six planetary satellite systems containing 175 known natural satellites.[1][2] Four IAU-listed dwarf planets are also known to have natural satellites: Pluto, Haumea, Makemake, and Eris.[3] As of October 2016[update], there are over 300 minor planets known to have moons.[4]
+The Earth–Moon system is unique in that the ratio of the mass of the Moon to the mass of Earth is much greater than that of any other natural-satellite–planet ratio in the Solar System (although there are minor-planet systems with even greater ratios, notably the Pluto–Charon system). At 3,474 km (2,158 miles) across, Earth's Moon is 0.27 times the diameter of Earth. [5]
+
+
+
+Contents
+
+
+1 Terminology
+
+1.1 Definition of a moon
+
+
+2 Origin and orbital characteristics
+3 Tidal locking
+4 Satellites of satellites
+5 Trojan satellites
+6 Asteroid satellites
+7 Shape
+8 Geological activity
+9 Natural satellites of the Solar System
+10 Visual summary
+11 See also
+
+11.1 Moons of planets
+11.2 Moons of dwarf planets and small Solar System bodies
+
+
+12 References
+13 External links
+
+13.1 All moons
+13.2 Jupiter's moons
+13.3 Saturn's moons
+
+
+
+
+
+Terminology[edit]
+The first known natural satellite was the Moon, but it was considered a "planet" until Copernicus' introduction of heliocentrism in 1543. Until the discovery of the Galilean satellites in 1610, however, there was no opportunity for referring to such objects as a class. Galileo chose to refer to his discoveries as Planetæ ("planets"), but later discoverers chose other terms to distinguish them from the objects they orbited.[citation needed]
+The first to use of the term satellite to describe orbiting bodies was the German astronomer Johannes Kepler in his pamphlet Narratio de Observatis a se quatuor Iouis satellitibus erronibus ("Narration About Four Satellites of Jupiter Observed") in 1610. He derived the term from the Latin word satelles, meaning "guard", "attendant", or "companion", because the satellites accompanied their primary planet in their journey through the heavens.[citation needed]
+The term satellite thus became the normal one for referring to an object orbiting a planet, as it avoided the ambiguity of "moon". In 1957, however, the launching of the artificial object Sputnik created a need for new terminology. The terms man-made satellite and artificial moon were very quickly abandoned in favor of the simpler satellite, and as a consequence, the term has become linked primarily with artificial objects flown in space – including, sometimes, even those not in orbit around a planet.[citation needed]
+Because of this shift in meaning, the term moon, which had continued to be used in a generic sense in works of popular science and in fiction, has regained respectability and is now used interchangeably with natural satellite, even in scientific articles. When it is necessary to avoid both the ambiguity of confusion with Earth's natural satellite the Moon and the natural satellites of the other planets on the one hand, and artificial satellites on the other, the term natural satellite (using "natural" in a sense opposed to "artificial") is used. To further avoid ambiguity, the convention is to capitalize the word Moon when referring to Earth's natural satellite, but not when referring to other natural satellites.
+Many authors define "satellite" or "natural satellite" as orbiting some planet or minor planet, synonymous with "moon"—by such a definition all natural satellites are moons, but Earth and other planets are not satellites.[6][7][8] A few recent authors define "moon" as "a satellite of a planet or minor planet", and "planet" as "a satellite of a star"—such authors consider Earth as a "natural satellite of the sun".[9][10][11]
+Definition of a moon[edit]
+
+
+
+
+Size comparison of Earth and the Moon
+
+
+There is no established lower limit on what is considered a "moon". Every natural celestial body with an identified orbit around a planet of the Solar System, some as small as a kilometer across, has been considered a moon, though objects a tenth that size within Saturn's rings, which have not been directly observed, have been called moonlets. Small asteroid moons (natural satellites of asteroids), such as Dactyl, have also been called moonlets.[12]
+The upper limit is also vague. Two orbiting bodies are sometimes described as a double body rather than primary and satellite. Asteroids such as 90 Antiope are considered double asteroids, but they have not forced a clear definition of what constitutes a moon. Some authors consider the Pluto–Charon system to be a double (dwarf) planet. The most common[citation needed] dividing line on what is considered a moon rests upon whether the barycentre is below the surface of the larger body, though this is somewhat arbitrary, because it depends on distance as well as relative mass.
+Origin and orbital characteristics[edit]
+
+
+
+
+Two moons: Saturn's natural satellite Dione occults Enceladus
+
+
+The natural satellites orbiting relatively close to the planet on prograde, uninclined circular orbits (regular satellites) are generally thought to have been formed out of the same collapsing region of the protoplanetary disk that created its primary.[13][14] In contrast, irregular satellites (generally orbiting on distant, inclined, eccentric and/or retrograde orbits) are thought to be captured asteroids possibly further fragmented by collisions. Most of the major natural satellites of the Solar System have regular orbits, while most of the small natural satellites have irregular orbits.[15] The Moon[16] and possibly Charon[17] are exceptions among large bodies in that they are thought to have originated by the collision of two large proto-planetary objects (see the giant impact hypothesis). The material that would have been placed in orbit around the central body is predicted to have reaccreted to form one or more orbiting natural satellites. As opposed to planetary-sized bodies, asteroid moons are thought to commonly form by this process. Triton is another exception; although large and in a close, circular orbit, its motion is retrograde and it is thought to be a captured dwarf planet.
+Tidal locking[edit]
+Main article: Tidal locking
+Most regular moons (natural satellites following relatively close and prograde orbits with small orbital inclination and eccentricity) in the Solar System are tidally locked to their respective primaries, meaning that the same side of the natural satellite always faces its planet. The only known exception is Saturn's natural satellite Hyperion, which rotates chaotically because of the gravitational influence of Titan.
+In contrast, the outer natural satellites of the giant planets (irregular satellites) are too far away to have become locked. For example, Jupiter's Himalia, Saturn's Phoebe, and Neptune's Nereid have rotation periods in the range of ten hours, whereas their orbital periods are hundreds of days.
+Satellites of satellites[edit]
+
+
+
+
+Artist impression of Rhea's proposed rings
+
+
+No "moons of moons" (natural satellites that orbit a natural satellite of a planet) are currently known as of 2017. In most cases, the tidal effects of the planet would make such a system unstable.
+However, calculations performed after the recent detection[18] of a possible ring system around Saturn's moon Rhea indicate that satellites orbiting Rhea could have stable orbits. Furthermore, the suspected rings are thought to be narrow,[19] a phenomenon normally associated with shepherd moons. However, targeted images taken by the Cassini spacecraft failed to detect rings around Rhea.[20]
+It has also been proposed that Saturn's moon Iapetus had a satellite in the past; this is one of several hypotheses that have been put forward to account for its equatorial ridge.[21]
+Trojan satellites[edit]
+Two natural satellites are known to have small companions at both their L4 and L5 Lagrangian points, sixty degrees ahead and behind the body in its orbit. These companions are called trojan moons, as their orbits are analogous to the trojan asteroids of Jupiter. The trojan moons are Telesto and Calypso, which are the leading and following companions, respectively, of the Saturnian moon Tethys; and Helene and Polydeuces, the leading and following companions of the Saturnian moon Dione.
+Asteroid satellites[edit]
+Main article: Asteroid moon
+The discovery of 243 Ida's natural satellite Dactyl in the early 1990s confirmed that some asteroids have natural satellites; indeed, 87 Sylvia has two. Some, such as 90 Antiope, are double asteroids with two comparably sized components.
+Shape[edit]
+
+
+
+
+The relative masses of the natural satellites of the Solar System. Mimas, Enceladus, and Miranda are too small to be visible at this scale. All the irregularly shaped natural satellites, even added together, would also be too small to be visible.
+
+
+Neptune's moon Proteus is the largest irregularly shaped natural satellite. All other known natural satellites that are at least the size of Uranus's Miranda have lapsed into rounded ellipsoids under hydrostatic equilibrium, i.e. are "round/rounded satellites". The larger natural satellites, being tidally locked, tend toward ovoid (egg-like) shapes: squat at their poles and with longer equatorial axes in the direction of their primaries (their planets) than in the direction of their motion. Saturn's moon Mimas, for example, has a major axis 9% greater than its polar axis and 5% greater than its other equatorial axis. Methone, another of Saturn's moons, is only around 3 km in diameter and visibly egg-shaped. The effect is smaller on the largest natural satellites, where their own gravity is greater relative to the effects of tidal distortion, especially those that orbit less massive planets or, as in the case of the Moon, at greater distances.
+
+
+Name
+Satellite of
+Difference in axes
+
+
+km
+
+% of mean
+diameter
+
+
+
+Mimas
+Saturn
+33.4 (20.4 / 13.0)
+8.4 (5.1 / 3.3)
+
+
+Enceladus
+Saturn
+16.6
+3.3
+
+
+Miranda
+Uranus
+14.2
+3.0
+
+
+Tethys
+Saturn
+25.8
+2.4
+
+
+Io
+Jupiter
+29.4
+0.8
+
+
+The Moon
+Earth
+4.3
+0.1
+
+
+Geological activity[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2013) (Learn how and when to remove this template message)
+
+
+
+Of the nineteen known natural satellites in the Solar System that are massive enough to have lapsed into hydrostatic equilibrium, several remain geologically active today. Io is the most volcanically active body in the Solar System, while Europa, Enceladus, Titan and Triton display evidence of ongoing tectonic activity and cryovolcanism. In the first three cases, the geological activity is powered by the tidal heating resulting from having eccentric orbits close to their giant-planet primaries. (This mechanism would have also operated on Triton in the past, before its orbit was circularized.) Many other natural satellites, such as Earth's Moon, Ganymede, Tethys and Miranda, show evidence of past geological activity, resulting from energy sources such as the decay of their primordial radioisotopes, greater past orbital eccentricities (due in some cases to past orbital resonances), or the differentiation or freezing of their interiors. Enceladus and Triton both have active features resembling geysers, although in the case of Triton solar heating appears to provide the energy. Titan and Triton have significant atmospheres; Titan also has hydrocarbon lakes. Four of the largest natural satellites, Europa, Ganymede, Callisto, and Titan, are thought to have subsurface oceans of liquid water, while smaller Enceladus may have localized subsurface liquid water.
+Natural satellites of the Solar System[edit]
+
+
+
+
+Euler diagram showing the types of bodies in the Solar System.
+
+
+Of the objects within our Solar System known to have natural satellites, there are 76 in the asteroid belt (five with two each), four Jupiter trojans, 39 near-Earth objects (two with two satellites each), and 14 Mars-crossers.[22] There are also 84 known natural satellites of trans-Neptunian objects.[22] Some 150 additional small bodies have been observed within the rings of Saturn, but only a few were tracked long enough to establish orbits. Planets around other stars are likely to have satellites as well, and although numerous candidates have been detected to date, none have yet been confirmed.
+Of the inner planets, Mercury and Venus have no natural satellites; Earth has one large natural satellite, known as the Moon; and Mars has two tiny natural satellites, Phobos and Deimos. The giant planets have extensive systems of natural satellites, including half a dozen comparable in size to Earth's Moon: the four Galilean moons, Saturn's Titan, and Neptune's Triton. Saturn has an additional six mid-sized natural satellites massive enough to have achieved hydrostatic equilibrium, and Uranus has five. It has been suggested that some satellites may potentially harbour life.[23]
+Among the identified dwarf planets, Ceres has no known natural satellites. Pluto has the relatively large natural satellite Charon and four smaller natural satellites; Styx, Nix, Kerberos, and Hydra.[24] Haumea has two natural satellites, and Eris and Makemake have one each. The Pluto–Charon system is unusual in that the center of mass lies in open space between the two, a characteristic sometimes associated with a double-planet system.
+The seven largest natural satellites in the Solar System (those bigger than 2,500 km across) are Jupiter's Galilean moons (Ganymede, Callisto, Io, and Europa), Saturn's moon Titan, Earth's moon, and Neptune's captured natural satellite Triton. Triton, the smallest of these, has more mass than all smaller natural satellites together. Similarly in the next size group of nine natural satellites, between 1,000 km and 1,600 km across, Titania, Oberon, Rhea, Iapetus, Charon, Ariel, Umbriel, Dione, and Tethys, the smallest, Tethys, has more mass than all smaller natural satellites together. As well as the natural satellites of the various planets, there are also over 80 known natural satellites of the dwarf planets, minor planets and other small Solar System bodies. Some studies estimate that up to 15% of all trans-Neptunian objects could have satellites.
+The following is a comparative table classifying the natural satellites in the Solar System by diameter. The column on the right includes some notable planets, dwarf planets, asteroids, and trans-Neptunian objects for comparison. The natural satellites of the planets are named after mythological figures. These are predominantly Greek, except for the Uranian natural satellites, which are named after Shakespearean characters. The nineteen bodies massive enough to have achieved hydrostatic equilibrium are in bold in the table below. Minor planets and satellites suspected but not proven to have achieved a hydrostatic equilibrium are italicized in the table below.
+
+
+Mean
+diameter
+(km)
+Satellites of planets
+Satellites of dwarf planets
+Satellites of
+other
+minor planets
+Non-satellites
+for comparison
+
+
+Earth
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+Makemake
+Haumea
+Eris
+
+
+4,000–6,000
+
+
+Ganymede
+Callisto
+Titan
+
+
+
+
+
+
+
+Mercury
+
+
+3,000–4,000
+Moon
+
+Io
+Europa
+
+
+
+
+
+
+
+
+
+
+
+2,000–3,000
+
+
+
+
+
+Triton
+
+
+
+
+
+Eris
+Pluto
+
+
+1,000–2,000
+
+
+
+Rhea
+Iapetus
+Dione
+Tethys
+Titania
+Oberon
+Umbriel
+Ariel
+
+Charon
+
+
+
+
+Makemake
+Haumea
+2007 OR10,
+Quaoar
+
+
+500–1,000
+
+
+
+Enceladus
+
+
+
+
+
+Dysnomia
+
+Sedna, Ceres,
+Salacia, Orcus,
+Pallas, Vesta
+many more TNOs
+
+
+250–500
+
+
+
+Mimas
+Hyperion
+Miranda
+Proteus
+Nereid
+
+
+Hiʻiaka
+
+Orcus I Vanth
+Salacia I Actaea
+10 Hygiea
+704 Interamnia
+87 Sylvia
+and many others
+
+
+100–250
+
+
+Amalthea
+Himalia
+Thebe
+Phoebe
+Janus
+Epimetheus
+Sycorax
+Puck
+Portia
+Larissa
+Galatea
+Despina
+
+S/2015 (136472) 1
+Namaka
+
+S/2005 (82075) 1
+Sila–Nunam I
+Ceto I Phorcys
+Patroclus I Menoetius
+~21 more moons of TNOs
+3 Juno
+1992 QB1
+5 Astraea
+42355 Typhon
+and many others
+
+
+50–100
+
+
+Elara
+Pasiphae
+Prometheus
+Pandora
+Caliban
+Juliet
+Belinda
+Cressida
+Rosalind
+Desdemona
+Bianca
+Thalassa
+Halimede
+Neso
+Naiad
+
+
+
+
+Quaoar I Weywot
+90 Antiope I
+Typhon I Echidna
+Logos I Zoe
+5 more moons of TNOs
+90 Antiope
+58534 Logos
+253 Mathilde
+and many others
+
+
+25–50
+
+
+Carme
+Metis
+Sinope
+Lysithea
+Ananke
+Siarnaq
+Helene
+Albiorix
+Atlas
+Pan
+Ophelia
+Cordelia
+Setebos
+Prospero
+Perdita
+Stephano
+Sao
+Laomedeia
+Psamathe
+Hydra
+Nix[25]
+
+
+
+Kalliope I Linus
+1036 Ganymed
+243 Ida
+and many others
+
+
+10–25
+
+Phobos
+Deimos
+Leda
+Adrastea
+Telesto
+Paaliaq
+Calypso
+Ymir
+Kiviuq
+Tarvos
+Ijiraq
+Erriapus
+Mab
+Cupid
+Francisco
+Ferdinand
+Margaret
+Trinculo
+S/2004 N 1
+Kerberos
+Styx
+
+
+
+762 Pulcova I
+Sylvia I Romulus
+624 Hektor I Skamandrios
+Eugenia I Petit-Prince
+121 Hermione I
+283 Emma I
+1313 Berna I
+107 Camilla I
+433 Eros
+1313 Berna
+and many others
+
+
+< 10
+
+
+53 moons
+36 moons
+
+
+
+
+
+
+Sylvia II Remus
+Ida I Dactyl
+and many others
+many
+
+
+Visual summary[edit]
+
+Solar System moons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ganymede
+(moon of Jupiter)
+Titan
+(moon of Saturn)
+Callisto
+(moon of Jupiter)
+Io
+(moon of Jupiter)
+Moon
+(moon of Earth)
+Europa
+(moon of Jupiter)
+Triton
+(moon of Neptune)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Titania
+(moon of Uranus)
+Rhea
+(moon of Saturn)
+Oberon
+(moon of Uranus)
+Iapetus
+(moon of Saturn)
+Charon
+(moon of Pluto)
+Umbriel
+(moon of Uranus)
+Ariel
+(moon of Uranus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dione
+(moon of Saturn)
+Tethys
+(moon of Saturn)
+Enceladus
+(moon of Saturn)
+Miranda
+(moon of Uranus)
+Proteus
+(moon of Neptune)
+Mimas
+(moon of Saturn)
+Hyperion
+(moon of Saturn)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phoebe
+(moon of Saturn)
+Janus
+(moon of Saturn)
+Amalthea
+(moon of Jupiter)
+Epimetheus
+(moon of Saturn)
+Thebe
+(moon of Jupiter)
+Prometheus
+(moon of Saturn)
+Pandora
+(moon of Saturn)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydra
+(moon of Pluto)
+Helene
+(moon of Saturn)
+Nix
+(moon of Pluto)
+Atlas
+(moon of Saturn)
+Telesto
+(moon of Saturn)
+Calypso
+(moon of Saturn)
+Phobos
+(moon of Mars)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deimos
+(moon of Mars)
+Methone
+(moon of Saturn)
+Dactyl
+(moon of Ida)
+
+
+
+
+
+
+
+This box:
+
+view
+talk
+edit
+
+
+
+
+
+
+
+
+
+Comparison of (a part of) Jupiter
+and its four largest natural satellites
+
+
+See also[edit]
+
+
+Co-orbital moon
+Exomoon
+Inner moon
+Irregular moon
+List of natural satellites
+Naming of moons
+Quasi-satellite
+Subsatellite
+Timeline of discovery of Solar System planets and their moons
+Trojan moon
+Tug of war (astronomy)
+
+
+Moons of planets[edit]
+
+
+The Moon, Earth's natural satellite
+Moons of Mars
+Moons of Jupiter
+Moons of Saturn
+Moons of Uranus
+Moons of Neptune
+
+
+Moons of dwarf planets and small Solar System bodies[edit]
+
+
+Minor-planet moon
+Moons of Pluto
+Dysnomia, Eris's natural satellite
+Moons of Haumea
+S/2015 (136472) 1, Makemake's natural satellite
+
+
+References[edit]
+
+
+
+^ Sheppard, Scott S. "The Giant Planet Satellite and Moon Page". Departament of Terrestrial Magnetism at Carniege Institution for science. Retrieved 2012-09-11. 
+^ "How Many Solar System Bodies". NASA/JPL Solar System Dynamics. Retrieved 2012-01-26. 
+^ "Planet and Satellite Names and Discoverers". International Astronomical Union (IAU) Working Group for Planetary System Nomenclature (WGPSN). Retrieved 2012-01-27. 
+^ "Asteroids with satellites". www.johnstonsarchive.net. Retrieved 2017-09-13. 
+^ Glenday, Craig (2014). Guinness World Records 2014. p. 186. ISBN 9781908843159. 
+^ Kenneth R. Lang. "The Cambridge Guide to the Solar System". 2011. p. 15. quote: "Any object that orbits a planet is now called a satellite, and a natural satellite is also now called a moon."
+^ Therese Encrenaz, et. al. "The Solar System". 2004. p. 30.
+^ Tilman Spohn, Doris Breuer, Torrence Johnson. "Encyclopedia of the Solar System". 2014. p. 18.
+^ David Andrew Weintraub. "Is Pluto a Planet?: A Historical Journey Through the Solar System". p. 65 quote: '... the general concept of a "moon" as a satellite of a planet and "planet" as a satellite of a star."
+^ "Satellite". wwww.meriam-webster.com. Merriam Webster. Retrieved 16 November 2015. 
+^ Stillman, Dan. "What Is a Satellite?". www.nasa.gov. NASA. Retrieved 16 November 2015. 
+^ F. Marchis, et al. (2005). "Discovery of the triple asteroidal system 87 Sylvia". Nature. 436 (7052): 822–4. Bibcode:2005Natur.436..822M. doi:10.1038/nature04018. PMID 16094362. 
+^ Canup, Robin M.; Ward, William R. (2008-12-30). Origin of Europa and the Galilean Satellites. University of Arizona Press. p. 59. arXiv:0812.4995 . Bibcode:2009euro.book...59C. ISBN 978-0-8165-2844-8. 
+^ D'Angelo, G.; Podolak, M. (2015). "Capture and Evolution of Planetesimals in Circumjovian Disks". The Astrophysical Journal. 806 (1): 29pp. arXiv:1504.04364 . Bibcode:2015ApJ...806..203D. doi:10.1088/0004-637X/806/2/203. 
+^ Encyclopedia of the Solar System, page 366, Academic Press, 2007, Lucy-Ann Adams McFadden, Paul Robert Weissman, Torrence V. Johnson
+^ Canup, RM & Asphaug, E (2001). "Origin of the Moon in a giant impact near the end of the Earth's formation". Nature. 412 (6848): 708–712. Bibcode:2001Natur.412..708C. doi:10.1038/35089010. PMID 11507633. 
+^ Stern, SA; Weaver, HA; Steffl, AJ; Mutchler, MJ; et al. (2006). "A giant impact origin for Pluto's small natural satellites and satellite multiplicity in the Kuiper belt". Nature. 439 (7079): 946–949. Bibcode:2006Natur.439..946S. doi:10.1038/nature04548. PMID 16495992. 
+^ "The Dust Halo of Saturn's Largest Icy Moon, Rhea – Jones et al. 319 (5868): 1380 – Science". Retrieved 2008-03-06. 
+^ "Saturn satellite reveals first moon rings – 06 March 2008 – New Scientist". Retrieved 2008-03-06. 
+^ "Cassini imaging search rules out rings around Rhea – Tiscareno – 2010 – Geophysical Research Letters – Wiley Online Library". Agu.org. Retrieved 2013-10-29. 
+^ "How Iapetus, Saturn's outermost moon, got its ridge". Retrieved 2010-12-18. 
+^ a b Wm. Robert Johnston (2012-01-11). "Asteroids with Satellites". Johnston's Archive. Retrieved 2012-01-26. 
+^ Woo, Marcus (27 January 2015). "Why We're Looking for Alien Life on Moons, Not Just Planets". Wired. Retrieved 27 January 2015. 
+^ "Hubble Discovers New Pluto Moon". ESA/Hubble Press Release. Retrieved 13 July 2012. 
+^ "How Big Is Pluto? New Horizons Settles Decades-Long Debate". NASA. 
+
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Natural satellites.
+
+
+All moons[edit]
+
+Natural Satellite Physical Parameters (JPL-NASA, with refs – last updated July 2006)
+Moons of the Solar System (The Planetary Society, as of March 2009)
+JPL's Solar System Dynamics page
+USGS list of named moons
+Upper size limit for moons explained
+Asteroids with Satellites
+Images of planets and major moons (not to scale)
+The Planetary Society – Moon Montage(s)
+
+Jupiter's moons[edit]
+
+Scott Sheppard's page
+Jupiter's new moons (discovered in 2002)
+Jupiter's new moons (discovered in 2003)
+
+Saturn's moons[edit]
+
+Saturn's new moons (discovered in 2000)
+Saturn's new moon (discovered in 2003)
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Natural satellites of the Solar System
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Moons of Earth, Mars and the Asteroids
+
+
+
+
+
+
+
+Earth
+Mars
+Asteroid moons
+
+
+
+
+
+The Moon
+
+
+
+
+
+
+Phobos
+Deimos
+
+
+
+
+
+
+Binaries
+List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Moons of Jupiter
+
+
+
+
+Listed in approximately increasing distance from Jupiter. Provisional designations in italics.
+
+
+
+Inner moons
+
+
+
+Metis
+Adrastea
+Amalthea
+Thebe
+
+
+
+
+
+Galilean moons
+
+
+
+Io
+Europa
+Ganymede
+Callisto
+
+
+
+
+
+Themisto group
+
+
+
+Themisto
+
+
+
+
+
+Himalia group
+
+
+
+Leda
+Himalia
+Lysithea
+Elara
+Dia
+
+
+
+
+
+Carpo group
+
+
+
+Carpo
+
+
+
+
+
+ 
+
+
+
+S/2003 J 12
+
+
+
+
+
+ 
+
+
+
+S/2011 J 1
+
+
+
+
+
+Ananke group
+
+
+
+
+Core
+
+
+
+Euanthe
+Iocaste
+Praxidike
+Harpalyke
+Thyone
+Ananke
+
+
+
+
+
+Peripheral
+
+
+
+Jupiter LX(?)
+Jupiter LII
+Thelxinoe
+S/2003 J 16
+Mneme
+Hermippe
+
+
+
+
+
+
+
+
+Carme group
+
+
+
+Herse
+Kale
+Aitne
+Taygete
+S/2003 J 19(?)
+Chaldene
+Erinome
+Kallichore
+Kalyke
+Carme
+Pasithee
+Jupiter LI
+Eukelade
+Arche
+Isonoe
+S/2003 J 9(?)
+Jupiter LVII
+
+
+
+
+
+Pasiphae group
+
+
+
+Euporie
+Jupiter LV
+Helike
+Orthosie
+Jupiter LIV
+Jupiter LVIII
+S/2003 J 10(?)
+S/2003 J 23(?)
+Aoede
+Callirrhoe
+Eurydome
+Kore
+Cyllene
+Jupiter LVI
+Jupiter LIX
+S/2003 J 4(?)
+Pasiphae
+Hegemone
+Sinope
+Sponde
+Autonoe
+Megaclite
+
+
+
+
+
+ 
+
+
+
+S/2003 J 2
+
+
+
+
+
+
+
+
+Rings of Jupiter
+In fiction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Moons of Saturn
+
+
+
+
+Listed in approximately increasing distance from Saturn. Temporary names in italics.
+
+
+
+Ring shepherds
+
+
+
+S/2009 S 1
+Ring moonlets
+Pan
+Daphnis
+Atlas
+Prometheus
+Pandora
+
+
+
+
+
+Co-orbitals
+
+
+
+Epimetheus
+Janus
+
+
+
+
+
+G Ring
+
+
+
+Aegaeon
+
+
+
+
+
+Mimas and Alkyonides
+
+
+
+Mimas
+Methone
+Anthe
+Pallene
+
+
+
+
+
+Inner large
+(with trojans)
+
+
+
+Enceladus
+Tethys
+
+Telesto
+Calypso
+
+
+Dione
+
+Helene
+Polydeuces
+
+
+
+
+
+
+
+Outer large
+
+
+
+Rhea
+Titan
+Hyperion
+Iapetus
+
+
+
+
+
+Inuit group
+
+
+
+Kiviuq
+Ijiraq
+Paaliaq
+Siarnaq
+Tarqeq
+
+
+
+
+
+Norse group
+
+
+
+Phoebe
+Skathi
+S/2007 S 2(?)
+Skoll
+S/2004 S 13(?)
+Greip
+Hyrrokkin
+Jarnsaxa
+Mundilfari
+S/2006 S 1(?)
+S/2004 S 17(?)
+Bergelmir
+Narvi
+Suttungr
+Hati
+S/2004 S 12(?)
+Farbauti
+Thrymr
+Aegir
+S/2007 S 3(?)
+Bestla
+S/2004 S 7(?)
+S/2006 S 3
+Fenrir
+Surtur
+Kari
+Ymir
+Loge
+Fornjot
+
+
+
+
+
+Gallic group
+
+
+
+Albiorix
+Bebhionn
+Erriapus
+Tarvos
+
+
+
+
+
+
+
+
+Rings of Saturn
+Cassini–Huygens
+Themis
+Chiron
+S/2004 S 6
+S/2004 S 4
+S/2004 S 3
+In fiction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Moons of Uranus
+
+
+
+
+
+
+Generally listed in increasing distance from Uranus
+
+
+
+
+
+Inner
+
+
+
+Rings of Uranus
+Cordelia
+Ophelia
+Bianca
+Cressida
+Desdemona
+Juliet
+Portia
+Rosalind
+Cupid
+Belinda
+Perdita
+Puck
+Mab
+
+
+
+
+
+Major (spheroid)
+
+
+
+Miranda
+Ariel
+Umbriel
+Titania
+Oberon
+
+
+
+
+
+Outer (irregular)
+
+
+
+Francisco
+Caliban
+Stephano
+Trinculo
+Sycorax
+Margaret
+Prospero
+Setebos
+Ferdinand
+
+
+
+
+
+Geological features
+
+
+
+Arielian
+
+Kachina Chasmata
+Yangoor
+
+
+Mirandian
+
+Verona Rupes
+
+
+Oberonian
+
+Hamlet
+Mommur Chasma
+
+
+Puckian
+Titanian
+
+Gertrude
+Messina Chasma
+Ursula
+Rousillon Rupes
+
+
+Umbrielian
+
+Wunda
+Vuver
+Skynd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Moons of Neptune
+
+
+
+
+Generally listed in increasing distance from Neptune
+
+
+
+Regular (inner)
+
+
+
+Naiad
+Thalassa
+Despina
+Galatea
+Larissa
+S/2004 N 1
+Proteus
+
+
+
+
+
+Triton
+
+
+
+Triton (Atmosphere
+Geological features
+Sky)
+
+
+
+
+
+Irregular
+
+
+
+Nereid
+Halimede
+Sao
+Laomedeia
+Psamathe
+Neso
+
+
+
+
+
+See also
+
+
+
+Neptune trojans
+Rings of Neptune
+
+
+
+
+
+
+
+
+ Book
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Moons of dwarf planets
+
+
+
+Identified dwarf
+planets
+
+
+
+
+
+
+
+
+Pluto
+Haumea
+Makemake
+Eris
+
+
+
+
+
+Charon
+Styx
+Nix
+Kerberos
+Hydra
+
+
+
+
+
+
+Namaka
+Hiʻiaka
+
+
+
+
+
+
+S/2015 (136472) 1
+
+
+
+
+
+
+Dysnomia
+
+
+
+
+
+
+
+
+
+
+
+
+Likely dwarf
+planets
+
+
+
+
+
+
+
+
+Orcus
+Quaoar
+(55637) 2002 UX25
+(229762) 2007 UK126
+(208996) 2003 AZ84
+Salacia
+Varda
+Huya
+
+
+
+
+
+Vanth
+
+
+
+
+
+
+Weywot
+
+
+
+
+
+
+S/2007 (55637) 1
+
+
+
+
+
+
+S/2008 (229762) 1
+
+
+
+
+
+
+S/2005 (208996) 1 (unrecovered)
+
+
+
+
+
+
+Actaea
+
+
+
+
+
+
+Ilmarë
+
+
+
+
+
+
+S/2012 (38628) 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Natural satellites of the Solar System
+
+
+
+Planetary
+satellites
+
+
+
+Terrestrial
+Martian
+Jovian
+Saturnian
+Uranian
+Neptunian
+
+
+
+
+
+
+
+
+Other
+satellites
+
+
+
+Minor-planet moons
+Plutonian
+Haumean
+Eridian
+Makemakean
+
+
+
+
+
+Largest
+satellites
+(mean radius
+≥ 100 km)
+
+
+
+
+size
+
+
+
+Ganymede
+
+largest / 2634 km / 0.413 Earths
+
+
+Titan
+Callisto
+Io
+Moon
+Europa
+Triton
+Titania
+Rhea
+Oberon
+Iapetus
+Charon
+Umbriel
+Ariel
+Dione
+Tethys
+[Dysnomia]
+Enceladus
+Miranda
+Proteus
+Mimas
+[Hi'iaka]
+Nereid
+Hyperion
+Phoebe
+
+smallest / 106 km / 0.017 Earths
+
+
+
+
+
+
+
+abc's
+
+
+
+Ariel
+Callisto
+Charon
+Dione
+[Dysnomia]
+Enceladus
+Europa
+Ganymede
+[Hi'iaka]
+Hyperion
+Iapetus
+Io
+Mimas
+Miranda
+Moon
+Nereid
+Oberon
+Phoebe
+Proteus
+Rhea
+Tethys
+Titan
+Titania
+Triton
+Umbriel
+
+
+
+
+
+
+
+
+
+
+
+Discovery timeline
+Inner moons
+Irregular moons
+List
+Naming
+Regular moons
+Trojan moons
+NOTE: Italicized moons are not close to being in hydrostatic equilibrium; [bracketed] moons may or may not be close to being in hydrostatic equilibrium.
+
+
+
+
+
+
+
+
+
+
+
+Regular moons
+Inner moons
+Irregular moons
+Trojan moons
+Discovery timeline
+List
+Naming
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+The Solar System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Sun
+Mercury
+Venus
+Earth
+Mars
+Ceres
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+Haumea
+Makemake
+Eris
+
+
+
+
+
+Planets
+
+
+
+Terrestrial planets
+
+Mercury
+Venus
+Earth
+Mars
+
+
+Giant planets
+
+Jupiter
+Saturn
+Uranus
+Neptune
+
+
+Dwarf planets
+
+Ceres
+Pluto
+Haumea
+Makemake
+Eris
+
+
+
+
+
+
+
+Rings
+
+
+
+Jovian
+Saturnian (Rhean)
+Charikloan
+Chironean
+Uranian
+Neptunian
+Haumean
+
+
+
+
+
+Moons
+
+
+
+1 Terrestrial (Moon)
+Other near-Earth objects
+2 Martian
+
+Phobos
+Deimos
+
+
+69 Jovian
+
+Ganymede
+Callisto
+Io
+Europa
+all
+
+
+62 Saturnian
+
+Titan
+Rhea
+Iapetus
+Dione
+Tethys
+Enceladus
+Mimas
+Hyperion
+Phoebe
+all
+
+
+27 Uranian
+
+Titania
+Oberon
+Umbriel
+Ariel
+Miranda
+all
+
+
+14 Neptunian
+
+Triton
+Proteus
+Nereid
+all
+
+
+5 Plutonian
+
+Charon
+Nix
+Hydra
+Kerberos
+Styx
+
+
+2 Haumean
+
+Hiʻiaka
+Namaka
+
+
+1 Makemakean (S/2015 (136472) 1)
+1 Eridian (Dysnomia)
+
+
+
+
+
+Lists
+
+
+
+Solar System objects
+
+By size
+By discovery date
+
+
+Minor planets
+Gravitationally rounded objects
+Possible dwarf planets
+Natural satellites
+Comets
+
+
+
+
+
+Small Solar
+System bodies
+
+
+
+Meteoroids
+Minor planets
+
+moons
+
+
+Comets
+Damocloids
+Mercury-crossers
+Venus-crossers
+Venus trojans
+Near-Earth objects
+Earth-crossers
+Earth trojans
+Mars-crossers
+Mars trojans
+Asteroid belt
+Asteroids
+
+first discovered: Ceres
+Pallas
+Juno
+Vesta
+
+
+Families
+Notable asteroids
+Kirkwood gap
+Main-belt comets
+Jupiter trojans
+Jupiter-crossers
+Centaurs
+Saturn-crossers
+Uranus trojans
+Uranus-crossers
+Neptune trojans
+Cis-Neptunian objects
+Trans-Neptunian objects
+Neptune-crossers
+Plutoids
+Kuiper belt
+
+Plutinos
+Cubewanos
+
+
+Scattered disc
+Detached objects
+Sednoids
+Hills cloud
+Oort cloud
+
+
+
+
+
+Hypothetical
+objects
+
+
+
+Vulcan
+Vulcanoids
+Phaeton
+Planet V
+Theia
+Fifth giant
+Planets beyond Neptune
+Tyche
+Nemesis
+Planet Nine
+
+
+
+
+
+Exploration
+(outline)
+
+
+
+Discovery
+
+Astronomy
+Timeline
+
+
+Spaceflight
+Robotic spacecraft
+Human spaceflight
+Colonization
+List of probes
+Timeline
+
+
+Mercury
+Venus
+Moon
+Mars
+Ceres
+Asteroids
+
+Mining
+
+
+Comets
+Jupiter
+Saturn
+Uranus
+Neptune
+Pluto
+Deep space
+
+
+
+
+
+
+
+
+Outline of the Solar System
+ Portals
+Solar System
+Astronomy
+Earth sciences
+Mars
+Jupiter
+Uranus
+Cosmology
+
+Solar System → Local Interstellar Cloud → Local Bubble → Gould Belt → Orion Arm → Milky Way → Milky Way subgroup → Local Group → Virgo Supercluster → Laniakea Supercluster → Observable universe → Universe
+Each arrow (→) may be read as "within" or "part of".
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4179141-1
+NDL: 00561855
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Natural_satellite&oldid=812049595"					
+Categories: MoonsHidden categories: Articles containing potentially dated statements from October 2016All articles containing potentially dated statementsAll articles with unsourced statementsArticles with unsourced statements from November 2016Articles with unsourced statements from January 2017Articles with unsourced statements from January 2012Articles needing additional references from December 2013All articles needing additional referencesUse dmy dates from April 2011Wikipedia articles with GND identifiers 

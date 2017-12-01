@@ -1,0 +1,2136 @@
+Moon landing - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the general topic. For the first manned Moon landing, see Apollo 11 and Apollo program. For other uses, see Moon landing (disambiguation).
+"Race to the Moon" redirects here. For the Cold War topic, see Space Race.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Clickable map of the locations of all successful soft landings on the Moon to date (top).
+
+
+
+
+
+
+  Luna programme (USSR)
+  Chang'e 3 (China)
+
+
+  Surveyor program (USA)
+  Apollo program (USA)
+
+
+
+
+
+
+Dates are landing dates in Coordinated Universal Time. Except for the Apollo program, all soft landings were unmanned.
+
+
+Luna 2 was the first man-made object to reach the surface of the Moon (bottom-left).
+Still frame from a video transmission, taken moments before Neil Armstrong became the first human to step onto the surface of the Moon, at 02:56 UTC on 21 July 1969. An estimated 500 million people worldwide watched this event, the largest television audience for a live broadcast at that time.[1][2]
+
+
+
+
+A Moon landing is the arrival of a spacecraft on the surface of the Moon. This includes both manned and unmanned (robotic) missions. The first human-made object to reach the surface of the Moon was the Soviet Union's Luna 2 mission, on 13 September 1959.[3]
+The United States' Apollo 11 was the first manned mission to land on the Moon, on 20 July 1969.[4] There have been six manned U.S. landings (between 1969 and 1972) and numerous unmanned landings, with no soft landings happening from 22 August 1976 until 14 December 2013.
+To date, the United States is the only country to have successfully conducted manned missions to the Moon, with the last departing the lunar surface in December 1972.
+
+
+
+Contents
+
+
+1 Unmanned landings
+2 Manned landings
+3 Scientific background
+4 Political background
+5 Early Soviet unmanned lunar missions (1958–1965)
+6 Early U.S. unmanned lunar missions (1958–1965)
+
+6.1 Pioneer missions
+6.2 Ranger missions
+
+
+7 Soviet unmanned soft landings (1966–1976)
+8 U.S. unmanned soft landings (1966–1968)
+9 Transition from direct ascent landings to lunar orbit operations
+10 Soviet lunar orbit satellites (1966–1974)
+11 U.S. lunar orbit satellites (1966–1967)
+12 Soviet circumlunar loop flights (1967–1970)
+13 Manned Moon landings (1969–1972)
+
+13.1 US strategy
+13.2 Soviet strategy
+13.3 Apollo missions
+13.4 Manned Moon landings
+13.5 Other aspects of the Apollo Moon successful landings
+
+
+14 Late 20th–21st century unmanned crash landings
+
+14.1 Hiten (Japan)
+14.2 Lunar Prospector (USA)
+14.3 SMART-1 (ESA)
+14.4 SELENE (Japan)
+14.5 Chang'e 1 (China)
+14.6 Chandrayaan-1 and Chandrayaan-2 (India)
+14.7 LCROSS (USA)
+14.8 GRAIL (USA)
+14.9 LADEE (USA)
+
+
+15 21st century unmanned soft landings
+
+15.1 Chang'e 3 (China)
+
+
+16 Landings on moons of other Solar System bodies
+17 Proposed future missions
+18 Historical empirical evidence
+19 See also
+20 References and notes
+21 External links
+
+
+
+Unmanned landings[edit]
+After the unsuccessful attempt by the Luna 1 to land on the moon in 1959, the Soviet Union performed the first hard (unpowered) moon landing later that same year with the Luna 2 spacecraft, a feat the U.S. duplicated in 1962 with Ranger 4. Since then, twelve Soviet and U.S. spacecraft have used braking rockets to make soft landings and perform scientific operations on the lunar surface, between 1966 and 1976. In 1966 the USSR accomplished the first soft landings and took the first pictures from the lunar surface during the Luna 9 and Luna 13 missions. The U.S. followed with five unmanned Surveyor soft landings.
+The Soviet Union achieved the first unmanned lunar soil sample return with the Luna 16 probe on 24 September 1970. This was followed by Luna 20 and Luna 24 in 1972 and 1976, respectively. Following the failure at launch in 1969 of the first Lunokhod, Luna E-8 No.201, the Luna 17 and Luna 21 were successful unmanned lunar rover missions in 1970 and 1973.
+Many missions were failures at launch. In addition, several unmanned landing missions achieved the Lunar surface but were unsuccessful, including: Luna 15, Luna 18, and Luna 23 all crashed on landing; and the U.S. Surveyor 4 lost all radio contact only moments before its landing.
+More recently, other nations have crashed spacecraft on the surface of the Moon at speeds of around 8,000 kilometres per hour (5,000 mph), often at precise, planned locations. These have generally been end-of-life lunar orbiters that, because of system degradations, could no longer overcome perturbations from lunar mass concentrations ("masscons") to maintain their orbit. Japan's lunar orbiter Hiten impacted the Moon's surface on 10 April 1993. The European Space Agency performed a controlled crash impact with their orbiter SMART-1 on 3 September 2006.
+Indian Space Research Organisation (ISRO) performed a controlled crash impact with its Moon Impact Probe (MIP) on 14 November 2008. The MIP was an ejected probe from the Indian Chandrayaan-1 lunar orbiter and performed remote sensing experiments during its descent to the lunar surface.
+The Chinese lunar orbiter Chang'e 1 executed a controlled crash onto the surface of the Moon on 1 March 2009. The rover mission Chang'e 3 was launched on 1 December 2013 and soft-landed on 14 December.
+Manned landings[edit]
+
+
+
+
+The lunar surface through a Lunar Module window shortly after landing
+
+
+A total of twelve men have landed on the Moon. This was accomplished with two US pilot-astronauts flying a Lunar Module on each of six NASA missions across a 41-month period starting on 20 July 1969 UTC, with Neil Armstrong and Buzz Aldrin on Apollo 11, and ending on 14 December 1972 UTC with Gene Cernan and Jack Schmitt on Apollo 17. Cernan was the last to step off the lunar surface.
+All Apollo lunar missions had a third crew member who remained on board the Command Module. The last three missions had a rover for increased mobility.
+Scientific background[edit]
+In order to go to the Moon, a spacecraft must first leave the gravity well of the Earth. The only practical way of accomplishing this currently is with a rocket. Unlike other airborne vehicles such as balloons or jets, a rocket is the only known form of propulsion which can continue to increase its speed at high altitudes in the vacuum outside the Earth's atmosphere.
+Upon approach of the target moon, a spacecraft will be drawn ever closer to its surface at increasing speeds due to gravity. In order to land intact it must decelerate to less than about 160 kilometres per hour (99 mph) and be ruggedized to withstand a "hard landing" impact, or it must decelerate to negligible speed at contact for a "soft landing" (which is the only viable option with human occupants). The first three attempts by the U.S. to perform a successful hard moon landing with a ruggedized seismometer package in 1962 all failed.[5] The Soviets first achieved the milestone of a hard lunar landing with a ruggedized camera in 1966, followed only months later by the first unmanned soft lunar landing by the U.S.
+The speed of a crash landing on its surface is typically between 70 and 100% of the escape velocity of the target moon, and thus this is the total velocity which must be shed from the target moon's gravitational attraction for a soft landing to occur. For Earth's Moon, the escape velocity is 2.38 kilometres per second (1.48 mi/s).[6] The change in velocity (referred to as a delta-v) is usually provided by a landing rocket, which must be carried into space by the original launch vehicle as part of the overall spacecraft. An exception is the soft moon landing on Titan carried out by the Huygens probe in 2005. As the moon with the thickest atmosphere, landings on Titan may be accomplished by using atmospheric entry techniques that are generally lighter in weight than a rocket with equivalent capability.
+The Soviets succeeded in making the first crash landing on the Moon in 1959.[7] Crash landings[8] may occur because of malfunctions in a spacecraft, or they can be deliberately arranged for vehicles which do not have an onboard landing rocket. There have been many such moon crashes, often with their flight path controlled to impact at precise locations on the lunar surface. For example, during the Apollo program the S-IVB third stage of the Saturn V moon rocket as well as the spent ascent stage of the lunar module were deliberately crashed on the Moon several times to provide impacts registering as a moonquake on seismometers that had been left on the lunar surface. Such crashes were instrumental in mapping the internal structure of the Moon.
+To return to Earth, the escape velocity of the Moon must be overcome for the spacecraft to escape the gravity well of the Moon. Rockets must be used to leave the Moon and return to space. Upon reaching Earth, atmospheric entry techniques are used to absorb the kinetic energy of a returning spacecraft and reduce its speed for safe landing.[citation needed] These functions greatly complicate a moon landing mission and lead to many additional operational considerations. Any moon departure rocket must first be carried to the Moon's surface by a moon landing rocket, increasing the latter's required size. The Moon departure rocket, larger moon landing rocket and any Earth atmosphere entry equipment such as heat shields and parachutes must in turn be lifted by the original launch vehicle, greatly increasing its size by a significant and almost prohibitive degree.
+Political background[edit]
+Main article: Space Race
+
+
+
+
+
+
+This section's tone or style may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (January 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This section contains information of unclear or questionable importance or relevance to the article's subject matter. Please help improve this section by clarifying or removing superfluous information. If importance cannot be established, the section is likely to be moved to another article, pseudo-redirected, or removed.
+Find sources: "Moon landing" – news · newspapers · books · scholar · JSTOR (January 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2013) (Learn how and when to remove this template message)
+
+
+
+The intense efforts devoted in the 1960s to achieving first an unmanned and then ultimately a manned moon landing become easier to understand in the political context of its historical era. World War II had introduced many new and deadly innovations including blitzkrieg-style surprise attacks used in the invasion of Poland and in the attack on Pearl Harbor; the V-2 rocket, a ballistic missile which killed thousands in attacks on London and Antwerp; and the atom bomb, which killed hundreds of thousands in the atomic bombings of Hiroshima and Nagasaki. In the 1950s, tensions mounted between the two ideologically opposed superpowers of the United States and the Soviet Union that had emerged as victors in the conflict, particularly after the development by both countries of the hydrogen bomb.
+
+
+
+
+The first image of another world from space, returned by Luna 3, showed the far side of the Moon in October 1959.
+
+
+Willy Ley wrote in 1957 that a rocket to the Moon "could be built later this year if somebody can be found to sign some papers".[9] On 4 October 1957, the Soviet Union launched Sputnik 1 as the first artificial satellite to orbit the Earth and so initiated the Space Race. This unexpected event was a source of pride to the Soviets and shock to the U.S., who could now potentially be surprise attacked by nuclear-tipped Soviet rockets in under 30 minutes.[citation needed] Also, the steady beeping of the radio beacon aboard Sputnik 1 as it passed overhead every 96 minutes was widely viewed on both sides[citation needed] as effective propaganda to Third World countries demonstrating the technological superiority of the Soviet political system compared to that of the U.S. This perception was reinforced by a string of subsequent rapid-fire Soviet space achievements. In 1959, the R-7 rocket was used to launch the first escape from Earth's gravity into a solar orbit, the first crash impact onto the surface of the Moon and the first photography of the never-before-seen far side of the Moon. These were the Luna 1, Luna 2 and Luna 3 spacecraft.
+
+
+
+
+A 1963 conceptual model of the Apollo Lunar Excursion Module
+
+
+The U.S. response to these Soviet achievements was to greatly accelerate previously existing military space and missile projects and to create a civilian space agency, NASA. Military efforts were initiated to develop and produce mass quantities of intercontinental ballistic missiles (ICBMs) that would bridge the so-called missile gap and enable a policy of deterrence to nuclear war with the Soviets known as mutual assured destruction or MAD. These newly developed missiles were made available to civilians of NASA for various projects (which would have the added benefit of demonstrating the payload, guidance accuracy and reliabilities of U.S. ICBMs to the Soviets).
+While NASA stressed peaceful and scientific uses for these rockets, their use in various lunar exploration efforts also had secondary goal of realistic, goal-oriented testing of the missiles themselves and development of associated infrastructure,[citation needed] just as the Soviets were doing with their R-7.
+Early Soviet unmanned lunar missions (1958–1965)[edit]
+
+
+
+
+Luna 3 transmitted the first photos of the far side of the Moon
+
+
+After the fall of the Soviet Union in 1991, historical records were released to allow the true accounting of Soviet lunar efforts. Unlike the U.S. tradition of assigning a particular mission name in advance of a launch, the Soviets assigned a public "Luna" mission number only if a launch resulted in a spacecraft going beyond Earth orbit. The policy had the effect of hiding Soviet Moon mission failures from public view. If the attempt failed in Earth orbit before departing for the Moon, it was frequently (but not always) given a "Sputnik" or "Cosmos" Earth-orbit mission number to hide its purpose. Launch explosions were not acknowledged at all.
+
+
+Mission
+Mass (kg)
+Launch vehicle
+Launch date
+Goal
+Result
+
+
+
+
+Semyorka – 8K72
+23 September 1958
+Impact
+Failure – booster malfunction at T+ 93 s
+
+
+
+
+Semyorka – 8K72
+12 October 1958
+Impact
+Failure – booster malfunction at T+ 104 s
+
+
+
+
+Semyorka – 8K72
+4 December 1958
+Impact
+Failure – booster malfunction at T+ 254 s
+
+
+Luna-1
+361
+Semyorka – 8K72
+2 January 1959
+Impact
+Partial success – first spacecraft to reach escape velocity, lunar flyby, solar orbit; missed the Moon
+
+
+
+
+Semyorka – 8K72
+18 June 1959
+Impact
+Failure – booster malfunction at T+ 153 s
+
+
+Luna-2
+390
+Semyorka – 8K72
+12 September 1959
+Impact
+Success – first lunar impact
+
+
+Luna-3
+270
+Semyorka – 8K72
+4 October 1959
+Flyby
+Success – first photos of lunar far side
+
+
+
+
+Semyorka – 8K72
+15 April 1960
+Flyby
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+
+
+Semyorka – 8K72
+16 April 1960
+Flyby
+Failure – booster malfunction at T+ 1 s
+
+
+Sputnik-25
+
+Semyorka – 8K78
+4 January 1963
+Landing
+Failure – stranded in low Earth orbit
+
+
+
+
+Semyorka – 8K78
+3 February 1963
+Landing
+Failure – booster malfunction at T+ 105 s
+
+
+Luna-4
+1422
+Semyorka – 8K78
+2 April 1963
+Landing
+Failure – lunar flyby at 8,000 kilometres (5,000 mi)
+
+
+
+
+Semyorka – 8K78
+21 March 1964
+Landing
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+
+
+Semyorka – 8K78
+20 April 1964
+Landing
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+Cosmos-60
+
+Semyorka – 8K78
+12 March 1965
+Landing
+Failure – stranded in low Earth orbit
+
+
+
+
+Semyorka – 8K78
+10 April 1965
+Landing
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+Luna-5
+1475
+Semyorka – 8K78
+9 May 1965
+Landing
+Failure – lunar impact
+
+
+Luna-6
+1440
+Semyorka – 8K78
+8 June 1965
+Landing
+Failure – lunar flyby at 160,000 kilometres (99,000 mi)
+
+
+Luna-7
+1504
+Semyorka – 8K78
+4 October 1965
+Landing
+Failure – lunar impact
+
+
+Luna-8
+1550
+Semyorka – 8K78
+3 December 1965
+Landing
+Failure – lunar impact during landing attempt
+
+
+Early U.S. unmanned lunar missions (1958–1965)[edit]
+
+
+
+
+Artist's portrayal of a Ranger spacecraft right before impact
+
+
+
+
+
+
+One of the last photos of the Moon transmitted by Ranger 8 right before impact
+
+
+In contrast to Soviet lunar exploration triumphs in 1959, success eluded initial U.S. efforts to reach the Moon with the Pioneer and Ranger programs. Fifteen consecutive U.S. unmanned lunar missions over a six-year period from 1958 to 1964 all failed their primary photographic missions;[10][11] however, Rangers 4 and 6 successfully repeated the Soviet lunar impacts as part of their secondary missions.[12][13]
+Failures included three U.S. attempts[5][12][14] in 1962 to hard land small seismometer packages released by the main Ranger spacecraft. These surface packages were to use retrorockets to survive landing, unlike the parent vehicle, which was designed to deliberately crash onto the surface. The final three Ranger probes performed successful high altitude lunar reconnaissance photography missions during intentional crash impacts between 2.62 and 2.68 kilometres per second (9,400 and 9,600 km/h).[15][16][17]
+
+
+Mission
+Mass (kg)
+Launch vehicle
+Launch date
+Goal
+Result
+
+
+Pioneer 0
+38
+Thor-Able
+17 August 1958
+Lunar orbit
+Failure – first stage explosion; destroyed
+
+
+Pioneer 1
+34
+Thor-Able
+11 October 1958
+Lunar orbit
+Failure – software error; reentry
+
+
+Pioneer 2
+39
+Thor-Able
+8 November 1958
+Lunar orbit
+Failure – third stage misfire; reentry
+
+
+Pioneer 3
+6
+Juno
+6 December 1958
+Flyby
+Failure – first stage misfire, reentry
+
+
+Pioneer 4
+6
+Juno
+3 March 1959
+Flyby
+Partial success – first US craft to reach escape velocity, lunar flyby too far to shoot photos due to targeting error; solar orbit
+
+
+Pioneer P-1
+168
+Atlas-Able
+24 September 1959
+Lunar orbit
+Failure – pad explosion; destroyed
+
+
+Pioneer P-3
+168
+Atlas-Able
+29 November 1959
+Lunar orbit
+Failure – payload shroud; destroyed
+
+
+Pioneer P-30
+175
+Atlas-Able
+25 September 1960
+Lunar orbit
+Failure – second stage anomaly; reentry
+
+
+Pioneer P-31
+175
+Atlas-Able
+15 December 1960
+Lunar orbit
+Failure – first stage explosion; destroyed
+
+
+Ranger 1
+306
+Atlas – Agena
+23 August 1961
+Prototype test
+Failure – upper stage anomaly; reentry
+
+
+Ranger 2
+304
+Atlas – Agena
+18 November 1961
+Prototype test
+Failure – upper stage anomaly; reentry
+
+
+Ranger 3
+330
+Atlas – Agena
+26 January 1962
+Landing
+Failure – booster guidance; solar orbit
+
+
+Ranger 4
+331
+Atlas – Agena
+23 April 1962
+Landing
+Partial success – first U.S. spacecraft to reach another celestial body; crash impact – no photos returned
+
+
+Ranger 5
+342
+Atlas – Agena
+18 October 1962
+Landing
+Failure – spacecraft power; solar orbit
+
+
+Ranger 6
+367
+Atlas – Agena
+30 January 1964
+Impact
+Failure – spacecraft camera; crash impact
+
+
+Ranger 7
+367
+Atlas – Agena
+28 July 1964
+Impact
+Success – returned 4308 photos, crash impact
+
+
+Ranger 8
+367
+Atlas – Agena
+17 February 1965
+Impact
+Success – returned 7137 photos, crash impact
+
+
+Ranger 9
+367
+Atlas – Agena
+21 March 1965
+Impact
+Success – returned 5814 photos, crash impact
+
+
+Pioneer missions[edit]
+Three different designs of Pioneer lunar probes were flown on three different modified ICBMs. Those flown on the Thor booster modified with an Able upper stage carried an infrared image scanning television system with a resolution of 1 milliradian to study the Moon's surface, an ionization chamber to measure radiation in space, a diaphragm/microphone assembly to detect micrometeorites, a magnetometer, and temperature-variable resistors to monitor spacecraft internal thermal conditions. The first, a mission managed by the United States Air Force, exploded during launch; all subsequent Pioneer lunar flights had NASA as the lead management organization. The next two returned to Earth and burned up upon reentry into the atmosphere after achieved maximum altitudes of around 110,000 kilometres (68,000 mi) and 1,450 kilometres (900 mi), far short of the roughly 400,000 kilometres (250,000 mi) required to reach the vicinity of the Moon.
+NASA then collaborated with the United States Army's Ballistic Missile Agency to fly two extremely small cone-shaped probes on the Juno ICBM, carrying only photocells which would be triggered by the light of the Moon and a lunar radiation environment experiment using a Geiger-Müller tube detector. The first of these reached an altitude of only around 100,000 kilometres (62,000 mi), serendipitously gathering data that established the presence of the Van Allen radiation belts before reentering Earth's atmosphere. The second passed by the Moon at a distance of more than 60,000 kilometres (37,000 mi), twice as far as planned and too far away to trigger either of the on-board scientific instruments, yet still becoming the first U.S. spacecraft to reach a solar orbit.
+The final Pioneer lunar probe design consisted of four "paddlewheel" solar panels extending from a one-meter diameter spherical spin-stabilized spacecraft body that was equipped to take images of the lunar surface with a television-like system, estimate the Moon's mass and topography of the poles, record the distribution and velocity of micrometeorites, study radiation, measure magnetic fields, detect low frequency electromagnetic waves in space and use a sophisticated integrated propulsion system for maneuvering and orbit insertion as well. None of the four spacecraft built in this series of probes survived launch on its Atlas ICBM outfitted with an Able upper stage.
+Following the unsuccessful Atlas-Able Pioneer probes, NASA's Jet Propulsion Laboratory embarked upon an unmanned spacecraft development program whose modular design could be used to support both lunar and interplanetary exploration missions. The interplanetary versions were known as Mariners; lunar versions were Rangers. JPL envisioned three versions of the Ranger lunar probes: Block I prototypes, which would carry various radiation detectors in test flights to a very high Earth orbit that came nowhere near the Moon; Block II, which would try to accomplish the first Moon landing by hard landing a seismometer package; and Block III, which would crash onto the lunar surface without any braking rockets while taking very high resolution wide-area photographs of the Moon during their descent.
+Ranger missions[edit]
+See also: Ranger program
+The Ranger 1 and 2 Block I missions were virtually identical.[18][19] Spacecraft experiments included a Lyman-alpha telescope, a rubidium-vapor magnetometer, electrostatic analyzers, medium-energy-range particle detectors, two triple coincidence telescopes, a cosmic-ray integrating ionization chamber, cosmic dust detectors, and scintillation counters. The goal was to place these Block I spacecraft in a very high Earth orbit with an apogee of 110,000 kilometres (68,000 mi) and a perigee of 60,000 kilometres (37,000 mi).[18]
+From that vantage point, scientists could make direct measurements of the magnetosphere over a period of many months while engineers perfected new methods to routinely track and communicate with spacecraft over such large distances. Such practice was deemed vital to be assured of capturing high-bandwidth television transmissions from the Moon during a one-shot fifteen-minute time window in subsequent Block II and Block III lunar descents. Both Block I missions suffered failures of the new Agena upper stage and never left low Earth parking orbit after launch; both burned up upon reentry after only a few days.
+The first attempts to perform a Moon landing took place in 1962 during the Rangers 3, 4 and 5 missions flown by the United States.[5][12][14] All three Block II missions basic vehicles were 3.1 m high and consisted of a lunar capsule covered with a balsa wood impact-limiter, 650 mm in diameter, a mono-propellant mid-course motor, a retrorocket with a thrust of 5,050 pounds-force (22.5 kN),[12] and a gold- and chrome-plated hexagonal base 1.5 m in diameter. This lander (code-named Tonto) was designed to provide impact cushioning using an exterior blanket of crushable balsa wood and an interior filled with incompressible liquid freon. A 42 kg (56 pounds) 30-centimetre-diameter (0.98 ft) metal payload sphere floated and was free to rotate in a liquid freon reservoir contained in the landing sphere[citation needed].
+This payload sphere contained six silver-cadmium batteries to power a fifty-milliwatt radio transmitter, a temperature sensitive voltage controlled oscillator to measure lunar surface temperatures, and a seismometer that was designed with sensitivity high enough to detect the impact of a 5 lb (2.3 kg) meteorite on the opposite side of the Moon. Weight was distributed in the payload sphere so it would rotate in its liquid blanket to place the seismometer into an upright and operational position no matter what the final resting orientation of the external landing sphere. After landing, plugs were to be opened allowing the freon to evaporate and the payload sphere to settle into upright contact with the landing sphere. The batteries were sized to allow up to three months of operation for the payload sphere. Various mission constraints limited the landing site to Oceanus Procellarum on the lunar equator, which the lander ideally would reach 66 hours after launch.
+No cameras were carried by the Ranger landers, and no pictures were to be captured from the lunar surface during the mission. Instead, the 3.1 metres (10 ft) Ranger Block II mother ship carried a 200-scan-line television camera which was to capture images during the free-fall descent to the lunar surface. The camera was designed to transmit a picture every 10 seconds.[12] Seconds before impact, at 5 and 0.6 kilometres (3.11 and 0.37 mi) above the lunar surface, the Ranger mother ships took picture (which may be viewed here).
+Other instruments gathering data before the mother ship crashed onto the Moon were a gamma ray spectrometer to measure overall lunar chemical composition and a radar altimeter. The radar altimeter was to give a signal ejecting the landing capsule and its solid-fueled braking rocket overboard from the Block II mother ship. The braking rocket was to slow and the landing sphere to a dead stop at 330 metres (1,080 ft) above the surface and separate, allowing the landing sphere to free fall once more and hit the surface[citation needed].
+On Ranger 3, failure of the Atlas guidance system and a software error aboard the Agena upper stage combined to put the spacecraft on a course that would miss the Moon. Attempts to salvage lunar photography during a flyby of the Moon were thwarted by in-flight failure of the onboard flight computer. This was probably because of prior heat sterilization of the spacecraft by keeping it above the boiling point of water for 24 hours on the ground, to protect the Moon from being contaminated by Earth organisms. Heat sterilization was also blamed for subsequent in-flight failures of the spacecraft computer on Ranger 4 and the power subsystem on Ranger 5. Only Ranger 4 reached the Moon in an uncontrolled crash impact on the far side of the Moon.[citation needed]
+Heat sterilization was discontinued for the final four Block III Ranger probes.[citation needed] These replaced the Block II landing capsule and its retrorocket with a heavier, more capable television system to support landing site selection for upcoming Apollo manned Moon landing missions. Six cameras were designed to take thousands of high-altitude photographs in the final twenty-minute period before crashing on the lunar surface. Camera resolution was 1,132 scan lines, far higher than the 525 lines found in a typical U.S. 1964 home television. While Ranger 6 suffered a failure of this camera system and returned no photographs despite an otherwise successful flight, the subsequent Ranger 7 mission to Mare Cognitum was a complete success.
+Breaking the six-year string of failures in U.S. attempts to photograph the Moon at close range, the Ranger 7 mission was viewed as a national turning point and instrumental in allowing the key 1965 NASA budget appropriation to pass through the United States Congress intact without a reduction in funds for the Apollo manned Moon landing program. Subsequent successes with Ranger 8 and Ranger 9 further buoyed U.S. hopes.
+Soviet unmanned soft landings (1966–1976)[edit]
+
+
+
+
+Model of Luna 16 Moon soil sample return lander
+
+
+
+
+
+
+Model of Soviet Lunokhod automatic moon rover
+
+
+The Luna 9 spacecraft, launched by the Soviet Union, performed the first successful soft Moon landing on 3 February. Airbags protected its 99 kilograms (218 lb) ejectable capsule which survived an impact speed of over 15 metres per second (54 km/h).[20] Luna 13 duplicated this feat with a similar Moon landing on 24 December 1966. Both returned panoramic photographs that were the first views from the lunar surface.[21]
+Luna 16 was the first robotic probe to land on the Moon and safely return a sample of lunar soil back to Earth.[22] It represented the first lunar sample return mission by the Soviet Union, and was the third lunar sample return mission overall, following the Apollo 11 and Apollo 12 missions. This mission was later successfully repeated by Luna 20 (1972) and Luna 24 (1976).
+In 1970 and 1973 two Lunokhod ("Moonwalker") robotic lunar rovers were delivered to the Moon, where they successfully operated for 10 and 4 months respectively, covering 10.5 km (Lunokhod 1) and 37 km (Lunokhod 2). These rover missions were in operation concurrently with the Zond and Luna series of Moon flyby, orbiter and landing missions.
+
+
+Mission
+Mass (kg)
+Booster
+Launch date
+Goal
+Result
+Landing zone
+Lat/Lon
+
+
+Luna-9
+1580
+Semyorka – 8K78
+31 January 1966
+Landing
+Success – first lunar soft landing, numerous photos
+Oceanus Procellarum
+7.13°N 64.37°W
+
+
+Luna-13
+1580
+Semyorka – 8K78
+21 December 1966
+Landing
+Success – second lunar soft landing, numerous photos
+Oceanus Procellarum
+18°52'N 62°3'W
+
+
+
+
+Proton
+19 February 1969
+Lunar rover
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+
+
+
+
+Proton
+14 June 1969
+Sample return
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+
+
+Luna-15
+5,700
+Proton
+13 July 1969
+Sample return
+Failure – lunar crash impact
+Mare Crisium
+unknown
+
+
+Cosmos-300
+
+Proton
+23 September 1969
+Sample return
+Failure – stranded in low Earth orbit
+
+
+
+
+Cosmos-305
+
+Proton
+22 October 1969
+Sample return
+Failure – stranded in low Earth orbit
+
+
+
+
+
+
+Proton
+6 February 1970
+Sample return
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+
+
+Luna-16
+5,600
+Proton
+12 September 1970
+Sample return
+Success – returned 0.10 kg of Moon soil back to Earth
+Mare Fecunditatis
+000.68S 056.30E
+
+
+Luna-17
+5,700
+Proton
+10 November 1970
+Lunar rover
+Success – Lunokhod-1 rover traveled 10.5 km across lunar surface
+Mare Imbrium
+038.28N 325.00E
+
+
+Luna-18
+5,750
+Proton
+2 September 1971
+Sample return
+Failure – lunar crash impact
+Mare Fecunditatis
+003.57N 056.50E
+
+
+Luna-20
+5,727
+Proton
+14 February 1972
+Sample return
+Success – returned 0.05 kg of Moon soil back to Earth
+Mare Fecunditatis
+003.57N 056.50E
+
+
+Luna-21
+5,950
+Proton
+8 January 1973
+Lunar rover
+Success – Lunokhod-2 rover traveled 37.0 km across lunar surface
+LeMonnier Crater
+025.85N 030.45E
+
+
+Luna-23
+5,800
+Proton
+28 October 1974
+Sample return
+Failure – Moon landing achieved, but malfunction prevented sample return
+Mare Crisium
+012.00N 062.00E
+
+
+
+
+Proton
+16 October 1975
+Sample return
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+
+
+Luna-24
+5,800
+Proton
+9 August 1976
+Sample return
+Success – returned 0.17 kg of Moon soil back to Earth
+Mare Crisium
+012.25N 062.20E
+
+
+U.S. unmanned soft landings (1966–1968)[edit]
+
+
+
+
+Launch of Surveyor 1.
+
+
+
+
+
+
+Pete Conrad, commander of Apollo 12, stands next to Surveyor 3 lander. In the background is the Apollo 12 lander, Intrepid.
+
+
+The U.S. robotic Surveyor program was part of an effort to locate a safe site on the Moon for a human landing and test under lunar conditions the radar and landing systems required to make a true controlled touchdown. Five of Surveyor's seven missions made successful unmanned Moon landings. Surveyor 3 was visited two years after its Moon landing by the crew of Apollo 12. They removed parts of it for examination back on Earth to determine the effects of long-term exposure to the lunar environment.
+
+
+Mission
+Mass (kg)
+Booster
+Launch date
+Goal
+Result
+Landing zone
+Lat/Lon
+
+
+Surveyor 1
+292
+Atlas – Centaur
+30 May 1966
+Landing
+Success – 11,000 pictures returned, first U.S. Moon landing
+Oceanus Procellarum
+002.45S 043.22W
+
+
+Surveyor 2
+292
+Atlas – Centaur
+20 September 1966
+Landing
+Failure – midcourse engine malfunction, placing vehicle in unrecoverable tumble; crashed southeast of Copernicus Crater
+Sinus Medii
+004.00S 011.00W
+
+
+Surveyor 3
+302
+Atlas – Centaur
+20 April 1967
+Landing
+Success – 6,000 pictures returned; trench dug to 17.5 cm depth after 18 hr of robot arm use
+Oceanus Procellarum
+002.94S 336.66E
+
+
+Surveyor 4
+282
+Atlas – Centaur
+14 July 1967
+Landing
+Failure – radio contact lost 2.5 minutes before touchdown; perfect automated Moon landing possible but outcome unknown
+Sinus Medii
+unknown
+
+
+Surveyor 5
+303
+Atlas – Centaur
+8 September 1967
+Landing
+Success – 19,000 photos returned, first use of alpha scatter soil composition monitor
+Mare Tranquillitatis
+001.41N 023.18E
+
+
+Surveyor 6
+300
+Atlas – Centaur
+7 November 1967
+Landing
+Success – 30,000 photos returned, robot arm & alpha scatter science, engine restart, second landing 2.5 m away from first
+Sinus Medii
+000.46N 358.63E
+
+
+Surveyor 7
+306
+Atlas – Centaur
+7 January 1968
+Landing
+Success – 21,000 photos returned; robot arm & alpha scatter science; laser beams from Earth detected
+Tycho Crater
+041.01S 348.59E
+
+
+Transition from direct ascent landings to lunar orbit operations[edit]
+Within four months of each other in early 1966 the Soviet Union and the United States had accomplished successful Moon landings with unmanned spacecraft. To the general public both countries had demonstrated roughly equal technical capabilities by returning photographic images from the surface of the Moon. These pictures provided a key affirmative answer to the crucial question of whether or not lunar soil would support upcoming manned landers with their much greater weight.
+However, the Luna 9 hard landing of a ruggedized sphere using airbags at a 50 kilometres (31 mi)-per-hour ballistic impact speed had much more in common with the failed 1962 Ranger landing attempts and their planned 160 kilometres (99 mi)-per-hour impacts than with the Surveyor 1 soft landing on three footpads using its radar-controlled, adjustable-thrust retrorocket. While Luna 9 and Surveyor 1 were both major national accomplishments, only Surveyor 1 had reached its landing site employing key technologies that would be needed for a manned flight. Thus as of mid-1966, the United States had begun to pull ahead of the Soviet Union in the so-called Space Race to land a man on the Moon.
+
+
+
+
+A timeline of the space race between 1957 and 1975, with missions from the USA and USSR.
+
+
+Advances in other areas were necessary before manned spacecraft could follow unmanned ones to the surface of the Moon. Of particular importance was developing the expertise to perform flight operations in lunar orbit. Ranger, Surveyor and initial Luna Moon landing attempts all utilized flight paths from Earth that traveled directly to the lunar surface without first placing the spacecraft in a lunar orbit. Such direct ascents use a minimum amount of fuel for unmanned spacecraft on a one-way trip.
+In contrast, manned vehicles need additional fuel after a lunar landing to enable a return trip back to Earth for the crew. Leaving this massive amount of required Earth-return fuel in lunar orbit until it is used later in the mission is far more efficient than taking such fuel down to the lunar surface in a Moon landing and then hauling it all back into space yet again, working against lunar gravity both ways. Such considerations lead logically to a lunar orbit rendezvous mission profile for a manned Moon landing.
+Accordingly, beginning in mid-1966 both the U.S. and U.S.S.R. naturally progressed into missions which featured lunar orbit operations as a necessary prerequisite to a manned Moon landing. The primary goals of these initial unmanned orbiters were extensive photographic mapping of the entire lunar surface for the selection of manned landing sites and, for the Soviets, the checkout of radio communications gear that would be used in future soft landings.
+An unexpected major discovery from initial lunar orbiters were vast volumes of dense materials beneath the surface of the Moon's maria. Such mass concentrations ("mascons") can send a manned mission dangerously off course in the final minutes of a Moon landing when aiming for a relatively small landing zone that is smooth and safe. Mascons were also found over a longer period of time to greatly disturb the orbits of low-altitude satellites around the Moon, making their orbits unstable and forcing an inevitable crash on the lunar surface in the relatively short period of months to a few years.
+Controlling the location of impact for spent lunar orbiters can have scientific value. For example, in 1999 the NASA Lunar Prospector orbiter was deliberately targeted to impact a permanently shadowed area of Shoemaker Crater near the lunar south pole. It was hoped that energy from the impact would vaporize suspected shadowed ice deposits in the crater and liberate a water vapor plume that would be detectable from Earth. No such plume was observed. However, a small vial of ashes from the body of pioneer lunar scientist Eugene Shoemaker was delivered by the Lunar Prospector to the crater named in his honor – currently the only human remains on the Moon.
+Soviet lunar orbit satellites (1966–1974)[edit]
+
+
+U.S.S.R. mission
+Mass (kg)
+Booster
+Launched
+Mission goal
+Mission result
+
+
+Cosmos – 111
+
+Molniya-M
+1 March 1966
+Lunar orbiter
+Failure – stranded in low Earth orbit
+
+
+Luna-10
+1,582
+Molniya-M
+31 March 1966
+Lunar orbiter
+Success – 2,738 km x 2,088 km x 72 deg orbit, 178 m period, 60-day science mission
+
+
+Luna-11
+1,640
+Molniya-M
+24 August 1966
+Lunar orbiter
+Success – 2,931 km x 1,898 km x 27 deg orbit, 178 m period, 38-day science mission
+
+
+Luna-12
+1,620
+Molniya-M
+22 October 1966
+Lunar orbiter
+Success – 2,938 km x 1,871 km x 10 deg orbit, 205 m period, 89-day science mission
+
+
+Cosmos-159
+1,700
+Molniya-M
+17 May 1967
+Prototype test
+Success – high Earth orbit manned landing communications gear radio calibration test
+
+
+
+
+Molniya-M
+7 February 1968
+Lunar orbiter
+Failure – booster malfunction, failed to reach Earth orbit – attempted radio calibration test?
+
+
+Luna-14
+1,700
+Molniya-M
+7 April 1968
+Lunar orbiter
+Success – 870 km x 160 km x 42 deg orbit, 160 m period, unstable orbit, radio calibration test?
+
+
+Luna-19
+5,700
+Proton
+28 September 1971
+Lunar orbiter
+Success – 140 km x 140 km x 41 deg orbit, 121 m period, 388-day science mission
+
+
+Luna-22
+5,700
+Proton
+29 May 1974
+Lunar orbiter
+Success – 222 km x 219 km x 19 deg orbit, 130 m period, 521-day science mission
+
+
+Luna 10 became the first spacecraft to orbit the Moon on 3 April 1966.
+U.S. lunar orbit satellites (1966–1967)[edit]
+
+
+U.S. mission
+Mass (kg)
+Booster
+Launched
+Mission goal
+Mission result
+
+
+Lunar Orbiter 1
+386
+Atlas – Agena
+10 August 1966
+Lunar orbiter
+Success – 1,160 km X 189 km x 12 deg orbit, 208 m period, 80-day photography mission
+
+
+Lunar Orbiter 2
+386
+Atlas – Agena
+6 November 1966
+Lunar orbiter
+Success – 1,860 km X 52 km x 12 deg orbit, 208 m period, 339-day photography mission
+
+
+Lunar Orbiter 3
+386
+Atlas – Agena
+5 February 1967
+Lunar orbiter
+Success – 1,860 km X 52 km x 21 deg orbit, 208 m period, 246-day photography mission
+
+
+Lunar Orbiter 4
+386
+Atlas – Agena
+4 May 1967
+Lunar orbiter
+Success – 6,111 km X 2,706 km x 86 deg orbit, 721 m period, 180-day photography mission
+
+
+Lunar Orbiter 5
+386
+Atlas – Agena
+1 August 1967
+Lunar orbiter
+Success – 6,023 km X 195 km x 85 deg orbit, 510 m period, 183-day photography mission
+
+
+Soviet circumlunar loop flights (1967–1970)[edit]
+Main article: Soviet manned lunar programs
+
+
+
+
+Zond mounted on top stage of Proton booster in assembly hangar.
+
+
+It is possible to aim a spacecraft from Earth so that it will loop around the Moon and return to Earth without entering lunar orbit, following the so-called free return trajectory. Such circumlunar loop missions are simpler than lunar orbit missions because rockets for lunar orbit braking and Earth return are not required. However, a manned circumlunar loop trip poses significant challenges above and beyond those found in a manned low-Earth-orbit mission, offering valuable lessons in preparation for a manned Moon landing. Foremost among these are mastering the demands of re-entering the Earth's atmosphere upon returning from the Moon.
+Manned Earth-orbiting vehicles such as the Space Shuttle return to Earth from speeds of around 17,000 miles per hour (27,000 km/h; 7,600 m/s). Due to the effects of gravity, a vehicle returning from the Moon hits Earth's atmosphere at a much higher speed of around 25,000 miles per hour (40,000 km/h; 11,000 m/s). The g-loading on astronauts during the resulting deceleration can be at the limits of human endurance even during a nominal reentry. Slight variations in the vehicle flight path and reentry angle during a return from the Moon can easily result in fatal levels of deceleration force.
+Achieving a manned circumlunar loop flight prior to a manned lunar landing became a primary goal of the Soviets with their Zond spacecraft program. The first three Zonds were unmanned planetary probes; after that, the Zond name was transferred to a completely separate manned program. The initial focus of these later Zonds was extensive testing of required high-speed reentry techniques. This focus was not shared by the U.S., who chose instead to bypass the stepping stone of a manned circumlunar loop mission and never developed a separate spacecraft for this purpose.
+Initial manned spaceflights in the early 1960s placed a single person in low Earth orbit during the Soviet Vostok and U.S. Mercury programs. A two-flight extension of the Vostok program known as Voskhod effectively used Vostok capsules with their ejection seats removed to achieve Soviet space firsts of multiple person crews in 1964 and spacewalks in early 1965. These capabilities were later demonstrated by the U.S. in ten Gemini low Earth orbit missions throughout 1965 and 1966, using a totally new second-generation spacecraft design that had little in common with the earlier Mercury. These Gemini missions went on to prove critical techniques for orbital rendezvous and docking that were crucial to a manned lunar landing mission profile.
+After the end of the Gemini program, the Soviets Union began flying their second-generation Zond manned spacecraft in 1967 with the ultimate goal of looping a cosmonaut around the Moon and returning him immediately to Earth. The Zond spacecraft was launched with the simpler and already operational Proton launch rocket, unlike the parallel Soviet manned Moon landing effort also underway at the time based on third-generation Soyuz spacecraft requiring development of the advanced N-1 booster. The Soviets thus believed they could achieve a manned Zond circumlunar flight years before a U.S. manned lunar landing and so score a propaganda victory. However, significant development problems delayed the Zond program and the success of the U.S. Apollo lunar landing program led to the eventual termination of the Zond effort.
+Like Zond, Apollo Moon flights were generally launched on a free return trajectory that would return them to Earth via a circumlunar loop in the event that a Service Module malfunction failed to place them in lunar orbit as planned. This option was implemented after an explosion aboard the Apollo 13 mission in 1970, which is the only manned circumlunar loop mission flown to date.
+
+
+U.S.S.R mission
+Mass (kg)
+Booster
+Launched
+Mission goal
+Payload
+Mission result
+
+
+Cosmos-146
+5,400
+Proton
+10 March 1967
+High Earth Orbit
+unmanned
+Partial success – Successfully reached high Earth orbit, but became stranded and was unable to initiate controlled high speed atmospheric reentry test
+
+
+Cosmos-154
+5,400
+Proton
+8 April 1967
+High Earth Orbit
+unmanned
+Partial success – Successfully reached high Earth orbit, but became stranded and was unable to initiate controlled high speed atmospheric reentry test
+
+
+
+
+Proton
+28 September 1967
+High Earth Orbit
+unmanned
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+
+
+Proton
+22 November 1967
+High Earth Orbit
+unmanned
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+Zond-4
+5,140
+Proton
+2 March 1968
+High Earth Orbit
+unmanned
+Partial success – launched successfully to 300,000 km high Earth orbit, high speed reentry test guidance malfunction, intentional self-destruct to prevent landfall outside Soviet Union
+
+
+
+
+Proton
+23 April 1968
+Circumlunar Loop
+non-human biological payload
+Failure – booster malfunction, failed to reach Earth orbit; launch preparation tank explosion kills three in pad crew
+
+
+Zond-5
+5,375
+Proton
+15 September 1968
+Circumlunar Loop
+non-human biological payload
+Success – looped around Moon, returned live biological payload safely to Earth despite landing off-target outside the Soviet Union in the Indian Ocean
+
+
+Zond-6
+5,375
+Proton
+10 November 1968
+Circumlunar Loop
+non-human biological payload
+Partial success – looped around Moon, successful reentry, but loss of cabin air pressure caused biological payload death, parachute system malfunction and severe vehicle damage upon landing
+
+
+
+
+Proton
+20 January 1969
+Circumlunar Loop
+non-human biological payload
+Failure – booster malfunction, failed to reach Earth orbit
+
+
+Zond-7
+5,979
+Proton
+8 August 1969
+Circumlunar Loop
+non-human biological payload
+Success – looped around Moon, returned biological payload safely to Earth and landed on-target inside Soviet Union. Only Zond mission whose reentry G-forces would have been survivable by human crew had they been aboard.
+
+
+Zond-8
+5,375
+Proton
+20 October 1970
+Circumlunar Loop
+non-human biological payload
+Success – looped around Moon, returned biological payload safely to Earth despite landing off-target outside Soviet Union in the Indian Ocean
+
+
+Zond 5 was the first spacecraft to carry life from Earth to the vicinity of the Moon and return, initiating the final lap of the Space Race with its payload of turtles, insects, plants and bacteria. Despite the failure suffered in its final moments, the Zond 6 mission was reported by Soviet media as being a success as well. Although hailed worldwide as remarkable achievements, both of these Zond missions flew off-nominal reentry trajectories resulting in deceleration forces that would have been fatal to human crewmembers had they been aboard.
+As a result, the Soviets secretly planned to continue unmanned Zond tests until their reliability to support manned flight had been demonstrated. However, due to NASA's continuing problems with the lunar module, and because of CIA reports of a potential Soviet manned circumlunar flight in late 1968, NASA fatefully changed the flight plan of Apollo 8 from an Earth-orbit lunar module test to a lunar orbit mission scheduled for late December 1968.
+In early December 1968 the launch window to the Moon opened for the Soviet launch site in Baikonur, giving the USSR their final chance to beat the US to the Moon. Cosmonauts went on alert and asked to fly the Zond spacecraft then in final countdown at Baikonur on the first manned trip to the Moon. Ultimately, however, the Soviet Politburo decided the risk of crew death was unacceptable given the combined poor performance to that point of Zond/Proton and so scrubbed the launch of a manned Soviet lunar mission. Their decision proved to be a wise one, since this unnumbered Zond mission was destroyed in another unmanned test when it was finally launched several weeks later.
+By this time flights of the third generation U.S. Apollo spacecraft had begun. Far more capable than the Zond, the Apollo spacecraft had the necessary rocket power to slip into and out of lunar orbit and to make course adjustments required for a safe reentry during the return to Earth. The Apollo 8 mission carried out the first manned trip to the Moon on 24 December 1968, certifying the Saturn V booster for manned use and flying not a circumlunar loop but instead a full ten orbits around the Moon before returning safely to Earth. Apollo 10 then performed a full dress rehearsal of a manned Moon landing in May 1969. This mission orbited within 47,400 feet (14.4 km) altitude above the lunar surface, performing necessary low-altitude mapping of trajectory-altering mascons using a factory prototype lunar module that was too overweight to allow a successful landing. With the failure of the unmanned Soviet sample return Moon landing attempt Luna 15 in July 1969, the stage was set for Apollo 11.
+Manned Moon landings (1969–1972)[edit]
+
+
+
+
+The U.S. Saturn V and the Soviet N1.
+
+
+US strategy[edit]
+Main article: Apollo program § Political pressure builds
+Plans for manned Moon exploration originated during the Eisenhower administration. In a series of mid-1950s articles in Collier's magazine, Wernher von Braun had popularized the idea of a manned expedition to the Moon to establish a lunar base. A manned Moon landing posed several daunting technical challenges to the US and USSR. Besides guidance and weight management, atmospheric re-entry without ablative overheating was a major hurdle. After the Soviet Union's launch of Sputnik, von Braun promoted a plan for the United States Army to establish a military lunar outpost by 1965.
+After the early Soviet successes, especially Yuri Gagarin's flight, US President John F. Kennedy looked for a US project that would capture the public imagination. He asked Vice President Lyndon Johnson to make recommendations on a scientific endeavor that would prove US world leadership. The proposals included non-space options such as massive irrigation projects to benefit the Third World. The Soviets, at the time, had more powerful rockets than the United States, which gave them an advantage in some kinds of space mission.
+Advances in US nuclear weapon technology had led to smaller, lighter warheads, and consequently, rockets with smaller payload capacities. By comparison, Soviet nuclear weapons were much heavier, and the powerful R-7 rocket was developed to carry them. More modest potential missions such as flying around the Moon without landing or establishing a space lab in orbit (both were proposed by Kennedy to von Braun) were determined to offer too much advantage to the Soviets, since the US would have to develop a heavy rocket to match the Soviets. A Moon landing, however, would capture world imagination while functioning as propaganda.
+
+
+
+
+Apollo landing sites
+
+
+Johnson had championed the US manned space program ever since the Sputnik scare, sponsoring the legislation which created NASA when he was in the Senate in 1958. When Kennedy asked him in 1961 to research the best manned space achievement to counter the Soviets' lead, Johnson responded that the US had an even chance of beating the USSR to a manned lunar landing, but not for anything less. Kennedy seized on Apollo as the ideal focus for efforts in space. He ensured continuing funding, shielding space spending from the 1963 tax cut, but diverting money from other NASA scientific projects. This last dismayed NASA's leader, James E. Webb, who perceived the need for NASA's support from the scientific community.
+The Moon landing required development of the large Saturn V launch vehicle, which achieved a perfect record of zero catastrophic failures or launch vehicle-caused mission failures, in thirteen launches.
+For the program to succeed, its proponents would have to defeat criticism from politicians on the left, who wanted more money spent on social programs, and on those on the right, who favored a more military project. By emphasizing the scientific payoff and playing on fears of Soviet space dominance, Kennedy and Johnson managed to swing public opinion: by 1965, 58 percent of Americans favored Apollo, up from 33 percent two years earlier. After Johnson became President in 1963, his continuing defense of the program allowed it to succeed in 1969, as Kennedy planned.
+Soviet strategy[edit]
+Main article: Soviet Moonshot
+Soviet leader Nikita Khrushchev said in October 1963 that the USSR was "not at present planning flight by cosmonauts to the Moon," while insisting that the Soviets had not dropped out of the race. Only after another year would the USSR fully commit itself to a Moon-landing attempt, which ultimately failed.
+At the same time, Kennedy had suggested various joint programs, including a possible Moon landing by Soviet and U.S. astronauts and the development of better weather-monitoring satellites. Khrushchev, sensing an attempt by Kennedy to steal Russian space technology, rejected the idea: if the USSR went to the Moon, it would go alone. Sergey Korolev, the Soviet space program's chief designer, had started promoting his Soyuz craft and the N1 launcher rocket that would have the capability of carrying out a manned Moon landing.
+Khrushchev directed Korolev's design bureau to arrange further space firsts by modifying the existing Vostok technology, while a second team started building a completely new launcher and craft, the Proton booster and the Zond, for a manned cislunar flight in 1966. In 1964 the new Soviet leadership gave Korolev the backing for a Moon landing effort and brought all manned projects under his direction.
+With Korolev's death and the failure of the first Soyuz flight in 1967, the co-ordination of the Soviet Moon landing program quickly unraveled. The Soviets built a landing craft and selected cosmonauts for the mission that would have placed Aleksei Leonov on the Moon's surface, but with the successive launch failures of the N1 booster in 1969, plans for a manned landing suffered first delay and then cancellation.
+Apollo missions[edit]
+In total, twenty-four U.S. astronauts have traveled to the Moon. Three have made the trip twice, and twelve have walked on its surface. Apollo 8 was a lunar-orbit-only mission, Apollo 10 included undocking and Descent Orbit Insertion (DOI), followed by LM staging to CSM redocking, while Apollo 13, originally scheduled as a landing, ended up as a lunar fly-by, by means of free return trajectory; thus, none of these missions made landings. Apollo 7 and Apollo 9 were Earth-orbit-only missions. Apart from the inherent dangers of manned Moon expeditions as seen with Apollo 13, one reason for their cessation according to astronaut Alan Bean is the cost it imposes in government subsidies.[23]
+Manned Moon landings[edit]
+
+
+Mission name
+Lunar lander
+Lunar landing date
+Lunar liftoff date
+Lunar landing site
+Duration on lunar surface
+Crew
+Number of EVAs
+Total EVA Time (HH:MM)
+
+
+Apollo 11
+Eagle
+20 July 1969
+21 July 1969
+Sea of Tranquility
+21:31
+Neil Armstrong, Edwin "Buzz" Aldrin
+1
+2:31
+
+
+Apollo 12
+Intrepid
+19 November 1969
+21 November 1969
+Ocean of Storms
+1-day, 7:31
+Charles "Pete" Conrad, Alan Bean
+2
+7:45
+
+
+Apollo 14
+Antares
+5 February 1971
+6 February 1971
+Fra Mauro
+1-day, 9:30
+Alan B. Shepard, Edgar Mitchell
+2
+9:21
+
+
+Apollo 15
+Falcon
+30 July 1971
+2 August 1971
+Hadley Rille
+2 days, 18:55
+David Scott, James Irwin
+3
+18:33
+
+
+Apollo 16
+Orion
+21 April 1972
+24 April 1972
+Descartes Highlands
+2 days, 23:02
+John Young, Charles Duke
+3
+20:14
+
+
+Apollo 17
+Challenger
+11 December 1972
+14 December 1972
+Taurus–Littrow
+3 days, 2:59
+Eugene Cernan, Harrison "Jack" Schmitt
+3
+22:04
+
+
+Other aspects of the Apollo Moon successful landings[edit]
+Unlike other international rivalries, the Space Race has remained unaffected in a direct way regarding the desire for territorial expansion. After the successful landings on the Moon, the U.S. explicitly disclaimed the right to ownership of any part of the Moon.
+President Richard Nixon had speechwriter William Safire prepare a condolence speech for delivery in the event that Armstrong and Aldrin became marooned on the Moon's surface and could not be rescued.[24]
+In 1951, science fiction writer Arthur C. Clarke forecast that man would reach the Moon by 1978.[25]
+On 16 August 2006, the Associated Press reported that NASA is missing the original Slow-scan television tapes (which were made before the scan conversion for conventional TV) of the Apollo 11 Moon walk. Some news outlets have mistakenly reported that the SSTV tapes were found in Western Australia, but those tapes were only recordings of data from the Apollo 11 Early Apollo Surface Experiments Package.[26]
+Scientists believe the six American flags planted by astronauts have been bleached white because of more than 40 years of exposure to solar radiation.[27] Using LROC images, five of the six American flags are still standing and casting shadows at all of the sites, except Apollo 11.[28] Astronaut Buzz Aldrin reported that the flag was blown over by the exhaust from the ascent engine during liftoff of Apollo 11.[28]
+Late 20th–21st century unmanned crash landings[edit]
+Hiten (Japan)[edit]
+Launched on 24 January 1990, 11:46 UTC. At the end of its mission, the Japanese lunar orbiter Hiten was commanded to crash into the lunar surface and did so on 10 April 1993 at 18:03:25.7 UT (11 April 03:03:25.7 JST).[29]
+Lunar Prospector (USA)[edit]
+Lunar Prospector was launched on 7 January 1998. The mission ended on 31 July 1999, when the orbiter was deliberately crashed into a crater near the lunar south pole after the presence of water ice was successfully detected.[30]
+SMART-1 (ESA)[edit]
+Launched 27 September 2003, 23:14 UTC from the Guiana Space Centre in Kourou, French Guiana. At the end of its mission, the ESA lunar orbiter SMART-1 performed a controlled crash into the Moon, at about 2 km/s. The time of the crash was 3 September 2006, at 5:42 UTC.[31]
+SELENE (Japan)[edit]
+SELENE or Kaguya was launched on 14 September 2007. After successfully orbiting the Moon for a year and eight months, the main orbiter was instructed to impact on the lunar surface near the crater Gill at 18:25 UTC on 10 June 2009.[32]
+Chang'e 1 (China)[edit]
+The Chinese lunar orbiter Chang'e 1, launched 24 October 2007, 10:05 UTC, executed a controlled crash onto the surface of the Moon on 1 March 2009, 20:44 GMT, after a 16-month mission.[33]
+Chandrayaan-1 and Chandrayaan-2 (India)[edit]
+Chandrayaan-1 was launched on 22 October 2008, 00:52 UTC. The impactor, the Moon Impact Probe, impacted near Shackleton Crater at the south pole of the lunar surface at 14 November 2008, 20:31 IST.[34] Chandrayaan-2 is scheduled for launch in 2018.
+LCROSS (USA)[edit]
+The LCROSS data collecting shepherding spacecraft was launched together with the Lunar Reconnaissance Orbiter (LRO) on 18 June 2009 on board an Atlas V rocket with a Centaur upper stage. On 9 October 2009, at 11:31 UTC, the Centaur upper stage impacted the lunar surface, releasing the kinetic energy equivalent of detonating approximately 2 tons of TNT (8.86 GJ).[35] Six minutes later at 11:37 UTC, the LCROSS shepherding spacecraft also impacted the surface.[36]
+GRAIL (USA)[edit]
+The GRAIL mission consisted of two small spacecraft: GRAIL A (Ebb), and GRAIL B (Flow). They were launched on 10 September 2011 on board a Delta II rocket. GRAIL A separated from the rocket about nine minutes after launch, and GRAIL B followed about eight minutes later.[37][38] The first probe entered orbit on 31 December 2011 and the second followed on 1 January 2012.[39] The two spacecraft impacted the Lunar surface on 17 December 2012.[40]
+LADEE (USA)[edit]
+LADEE was launched on 7 September 2013.[41] The mission ended on 18 April 2014, when the spacecraft's controllers intentionally crashed LADEE into the far side of the Moon,[42][43] which, later, was determined to be near the eastern rim of Sundman V crater.[44][45]
+21st century unmanned soft landings[edit]
+Chang'e 3 (China)[edit]
+On 14 December 2013 at 13:12 UTC[46] Chang'e 3 soft-landed a rover on the Moon. This was the first lunar soft landing since Luna 24 on 22 August 1976.[47]
+Landings on moons of other Solar System bodies[edit]
+Progress in space exploration has recently broadened the phrase moon landing to include other moons in the Solar System as well. The Huygens probe of the Cassini–Huygens mission to Saturn performed a successful unmanned moon landing on Titan in 2005. Similarly, the Soviet probe Phobos 2 came within 120 mi (190 km) of performing an unmanned moon landing on Mars' moon Phobos in 1989 before radio contact with that lander was suddenly lost. A similar Russian sample return mission called Fobos-Grunt ("grunt" means "soil" in Russian) launched in November 2011, but stalled in low Earth orbit. There is widespread interest in performing a future moon landing on Jupiter's Europa moon to drill down and explore the possible liquid water ocean beneath its icy surface.
+Proposed future missions[edit]
+
+
+
+
+Astronaut Buzz Aldrin, lunar module pilot of the first lunar landing mission, poses for a photograph beside the deployed United States flag during an Apollo 11 Extravehicular Activity (EVA) on the lunar surface.
+
+
+Main article: List of proposed missions to the Moon
+China is planning to land another rover and collect samples in the Chang'e 4 mission and return lunar soil samples by 2018 in the Chang'e 5 mission.[48]
+ISRO, the Indian National Space agency, is planning a second version of Chandrayaan named Chandrayaan 2. According to former ISRO Chairman G. Madhavan Nair, "The Indian Space Research Organisation (ISRO) hopes to land two rovers – one Indian and another Russian – on the Moon in 2018, as a part of its second Chandrayaan mission. The rover will be designed to move on wheels on the lunar surface, pick up samples of soil or rocks, do on-site chemical analysis and send the data to the mother-spacecraft Chandrayaan II, which will be orbiting above. Chandrayaan II will transmit the data to Earth." The payloads have already been finalized.[49][50] ISRO has mentioned that due to weight restrictions it will not be carrying any overseas payloads on this mission. The lander weight is projected to be 1,250 kg, and the spacecraft will be launched by the Geosynchronous Satellite Launch Vehicle.
+Russia's Luna-Glob 1 is expected to be launched in 2018.[51] In 2007 the head of the Russian Space Agency announced plans to send cosmonauts to the Moon by 2025 and establish a permanent robotically operated base there in 2027–2032.[52] In 2015, Roscosmos stated that Russia plans to place a cosmonaut on the Moon by 2030, leaving Mars to NASA. The purpose is to work jointly with NASA and avoid another Space Race.[53]
+The Lunar Precursor Robotic Program (LPRP) is a program of robotic spacecraft missions which NASA will use to prepare for future Moon landings.[54] Three orbiters have been launched in the program, the Lunar Reconnaissance Orbiter (LRO), the Lunar Crater Observation and Sensing Satellite (LCROSS), and the Lunar Atmosphere and Dust Environment Explorer (LADEE), launched in 2013, but no Moon landings are scheduled yet.
+The Google Lunar X Prize competition offers a $20 million award for the first privately funded team to land a robotic probe on the Moon. Like the Ansari X Prize before it, the competition aims to advance the state of the art in private space exploration.[55] Of the several competing teams, Puli Space Technologies at one time (2012) planned to launch in 2014[56][needs update] and Astrobotic Technology plans to launch in the second half of 2016 with their own rover plus another team's lunar rovers from Hakuto.[57][58]
+Historical empirical evidence[edit]
+Main article: Moon landing conspiracy theories
+Many conspiracy theorists hold that the Apollo Moon landings were a hoax;[59] however, empirical evidence is readily available to show that manned moon landings did indeed occur. Anyone on Earth with an appropriate laser and telescope system can bounce laser beams off three retroreflector arrays left on the Moon by Apollo 11,[60] 14 and 15, verifying deployment of the Lunar Laser Ranging Experiment at historically documented Apollo Moon landing sites and so proving equipment constructed on Earth was successfully transported to the surface of the Moon. In addition, in August 2009 NASA's Lunar Reconnaissance Orbiter began to send back high resolution photos of the Apollo landing sites. These photos show not only the large Descent Stages of the lunar landers left behind but also tracks of the astronauts' walking paths in the lunar dust.[61]
+See also[edit]
+
+
+Spaceflight portal
+
+
+
+Lunar Escape Systems
+Robert Goddard
+Soyuz 7K-L1
+Zond program
+First on the Moon (disambiguation)
+
+References and notes[edit]
+
+
+^ "Manned Space Chronology: Apollo_11". spaceline.org. Retrieved 6 February 2008. 
+^ "Apollo Anniversary: Moon Landing "Inspired World"". National Geographic. Retrieved 6 February 2008. 
+^ "Luna 2". NASA–NSSDC. 
+^ NASA Apollo 11 40th anniversary.
+^ a b c "NASA – NSSDC – Spacecraft – Ranger 3 Details". Retrieved 17 February 2011. 
+^ "Escape from the Moon!". Retrieved 17 February 2011. 
+^ "NASA – NSSDC – Spacecraft – Lun 2 Details". Retrieved 17 February 2011. 
+^ "Homepage of V.V Pustynski for students of YFT0060". Estonia: Tartu Observatory. Archived from the original on 18 December 2012. Retrieved 17 February 2011. 
+^ Ley, Willy (July 1957). "For Your Information". Galaxy Science Fiction (61–71). p. 69. Retrieved 11 June 2014. 
+^ JPL Pioneer Mission Archived 28 September 2009 at the Wayback Machine..
+^ Lunar Impact"Lunar Missions 1958 through 1965" (PDF). Nasa History Series. Retrieved 9 September 2009. 
+^ a b c d e "NASA – NSSDC – Spacecraft – Ranger 4 Details". Retrieved 17 February 2011. 
+^ "NASA – NSSDC – Spacecraft – Ranger 6 Details". Retrieved 17 February 2011. 
+^ a b "NASA – NSSDC – Spacecraft – Ranger 5 Details". Retrieved 17 February 2011. 
+^ "NASA – NSSDC – Spacecraft – Ranger 7 Details". 
+^ "NASA – NSSDC – Spacecraft – Ranger 8 Details". 
+^ "NASA – NSSDC – Spacecraft – Ranger 9 Details". 
+^ a b "NASA – NSSDC – Spacecraft – Ranger 1 Details". Retrieved 17 February 2011. 
+^ "NASA – NSSDC – Spacecraft – Ranger 2 Details". Retrieved 17 February 2011. 
+^ "Astronautix Luna E-6". Retrieved February 18, 2011. 
+^ "Moon Exploration". National Geographic. Retrieved 17 September 2009. 
+^ Burrows, William E. (1999). This New Ocean: The Story of the First Space Age. Modern Library. p. 432. ISBN 0-375-75485-7. 
+^ "In the Shadow of the Moon". comingsoon.net. Retrieved 7 February 2008. 
+^ "White House 'Lost In Space' Scenarios". thesmokinggun.com. Retrieved 7 February 2008. 
+^ "Sir Arthur C. Clarke". 
+^ "Apollo TV Tapes: The Search Continues". space.com. Retrieved 8 February 2008. 
+^ "The American Flags On The Moon Have All Turned White – Business Insider". businessinsider.com. Retrieved 28 July 2014. 
+^ a b "Apollo Moon Landing Flags Still Standing, Photos Reveal". Space.com. Retrieved 10 October 2014
+^ Hiten, NSSDC, NASA. Accessed on line 18 October 2010.
+^ "Eureka! Ice Found At Lunar Poles". NASA. 2012. Archived from the original on 9 December 2006. Retrieved 29 December 2012. 
+^ SMART 1, NSSDC, NASA. Accessed on line 18 October 2010.
+^ "KAGUYA Lunar Impact". JAXA. Retrieved 2009-06-24. 
+^ "Chinese probe crashes into moon", BBC News, 1 March 2009. Retrieved 18 October 2010.
+^ "Chandrayaan-I Impact Probe lands on the Moon". The Times of India. 15 November 2008. Retrieved 14 November 2008. 
+^ "NASA's LCROSS Mission Changes Impact Crater". NASA. 2009-09-29. Archived from the original on 2009-10-28. Retrieved 2009-11-21. 
+^ TheStar.com, "NASA crashes rocket into moon".
+^ "Moon-bound twin GRAIL spacecraft launch success - EarthSky.org". 
+^ Spaceflight101 Archived 11 February 2015 at the Wayback Machine.
+^ "First of NASA's GRAIL Spacecraft Enters Moon Orbit". NASA. Retrieved 1 January 2012. 
+^ GRAIL Twins crash into the Moon to complete highly successful Mission Archived 11 February 2015 at the Wayback Machine.
+^ "Lunar Atmosphere and Dust Environment Explorer (LADEE)". National Space Science Data Center Master Catalog. NASA. 
+^ Chang, Kenneth (18 April 2014). "With Planned Crash, NASA Lunar Mission Comes to End". The New York Times. Retrieved 18 April 2014. 
+^ Dunn, Marcia (18 April 2014). "NASA's Moon-Orbiting Robot Crashes Down as Planned". ABC News. Retrieved 18 April 2014. 
+^ Neal-Jones, Nancy (28 October 2014). "NASA's LRO Spacecraft Captures Images of LADEE's Impact Crater". NASA. Retrieved 28 October 2014. 
+^ Brown, Dwayne; Hoover, Rachel; Washington, Dewayne (18 April 2014). "NASA Completes LADEE Mission with Planned Impact on Moon's Surface". NASA.gov. Release 14–113. Retrieved 18 April 2014. 
+^ "China lands Jade Rabbit robot rover on Moon". BBC. 14 December 2013. 
+^ Simon Denyer (14 December 2013). "China carries out first soft landing on moon in 37 years". Washington Post. 
+^ "China to Launch Lunar Probe Chang'e-2 before 2011". english.cas.ac.cn. Retrieved 29 September 2009. [dead link]
+^ Johnson (31 August 2010). "Three new Indian payloads for Chandrayaan 2, decides ISRO". The Indian Express. Retrieved 31 August 2010. 
+^ "Payloads for Chandrayaan-2 Mission Finalised". Indian Space Research Organisation (ISRO). ISRO. 30 August 2010. Archived from the original on 15 October 2012. Retrieved 2 September 2010. 
+^ "ИКИ: РФ начнет запуск автоматических станций к Луне в 2018 году". 
+^ "Lavochkin begins phase B work for Luna-Glob 1 orbiter". http://www.flightglobal.com. Retrieved 29 September 2009.  External link in |publisher= (help)
+^ K, Jayalakshmi (27 June 2015). "Russia to place man on Moon by 2030 leaving Mars to Nasa". 
+^ "Lunar Precursor Robotic Program". NASA. Archived from the original on 21 April 2008. Retrieved 26 February 2008. 
+^ "About Google Lunar X prize". Retrieved 10 September 2009. 
+^ "Our Mission". Puli Space Technologies. 4 September 2010. Archived from the original on 3 January 2012. Retrieved 29 January 2012. 
+^ "Two Google Lunar XPRIZE Teams Announce Rideshare Partnership For Mission To The Moon In 2016". xprize.org. Xprize Foundation. 23 February 2015. Retrieved 6 March 2015. Hakuto [... and fellow competitor] Astrobotic [will] carry a pair of rovers to the moon. Astrobotic plans to launch its Google Lunar XPRIZE mission on a SpaceX Falcon 9 rocket from Cape Canaveral, Fla., during the second half of 2016. HAKUTO’s twin rovers, Moonraker and Tetris, will piggyback on Astrobotic's Griffin lander to reach the lunar surface. Upon touchdown, the rovers will be released simultaneously ... in pursuit of the $20M Google Lunar XPRIZE Grand Prize. 
+^ Loren Grush (27 October 2011). "Race to Mine the Moon Heats Up". Fox News Channel. Retrieved 29 January 2012. 
+^ "Photos: 8 Moon-Landing Hoax Myths—Busted". National Geographic. 16 July 2009. Retrieved 17 July 2014. 
+^ "Apollo 11 Experiment Still Going Strong after 35 Years", JPL 20 July 2004.
+^ "LRO Sees Apollo Landing Sites". NASA. 17 July 2009. Retrieved 2 July 2011. 
+
+
+External links[edit]
+
+NASA's page on moon landings, missions, etc. (includes information on other space agencies' missions.)
+Moon missions (United States) at DMOZ
+Project Apollo Archive Flickr Gallery: an independently organized collection of high-res photos for the Moon Landing and the Apollo Missions.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Spacecraft missions to the Moon
+
+
+
+Current
+
+
+
+
+Orbiters
+
+
+
+ARTEMIS
+Lunar Reconnaissance Orbiter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Past
+
+
+
+
+Programs
+
+
+
+American
+
+Apollo
+Lunar Orbiter
+Lunar Precursor Robotic Program
+Pioneer
+Ranger
+Surveyor
+
+
+Chinese (CLEP)
+Indian (Chandrayaan)
+Japanese
+Russian
+
+Luna-Glob
+
+
+Soviet
+
+Crewed
+Luna
+Zond
+Lunokhod
+
+
+
+
+
+
+
+Orbiters
+
+
+
+Apollo 8
+10
+Apollo 15 Subsatellite (PFS-1)
+Apollo 16 Subsatellite (PFS-2)
+Chandrayaan-1
+Chang'e 1
+Chang'e 2
+Clementine
+Explorer 35
+Explorer 49
+GRAIL
+Hiten
+LADEE
+Luna 10
+11
+12
+14
+19
+22
+Lunar Orbiter 1
+2
+3
+4
+5
+Lunar Prospector
+SELENE (Kaguya, Okina & Ouna)
+SMART-1
+Chang'e 5-T1 (Service Module)
+
+
+
+
+
+Flybys
+
+
+
+4M
+Apollo 13
+AsiaSat-3
+Cassini–Huygens
+Chang'e 5-T1 (Xiaofei)
+Galileo
+Geotail
+Luna 1
+Luna 3
+Mariner 10
+Nozomi
+Pioneer 4
+Pioneer 10
+Ranger 5
+STEREO
+Zond 3
+5
+6
+7
+8
+
+
+
+
+
+Impactors
+
+
+
+LCROSS
+Luna 2
+MIP
+Ranger 4
+6
+7
+8
+9
+
+
+
+
+
+Landers
+
+
+
+Apollo Lunar Module x6
+ALSEP (x5) and EASEP (x1)
+Chang'e 3
+Luna 9
+13
+17
+21
+Surveyor 1
+3
+5
+6
+7
+
+
+
+
+
+Rovers
+
+
+
+Apollo 15
+16
+17
+Lunokhod 1
+Lunokhod 2
+Yutu
+
+
+
+
+
+Sample return
+
+
+
+Apollo x6
+Luna 16
+20
+24
+
+
+
+
+
+Human landing
+
+
+
+Apollo 11
+12
+14
+15
+16
+17
+
+
+
+
+
+
+
+
+Planned
+
+
+
+
+GLXP
+
+
+
+Moon Express (2018)
+Synergy Moon (2018)
+TeamIndus / Hakuto (2018)
+SpaceIL (2018)
+
+
+
+
+
+EM-1 (2019)
+
+
+
+Orion EM-1
+
+ArgoMoon
+BioSentinel
+Cislunar Explorers
+CuSP
+CU-E3
+EQUULEUS
+LunaH-Map
+Lunar Flashlight
+Lunar IceCube
+NEA Scout
+OMOTENASHI
+SkyFire
+Team Miles
+
+
+
+
+
+
+
+Luna-Glob
+
+
+
+Luna 25 (2019)
+Luna 26 (2020)
+Luna 27 (2022)
+Luna 28
+Luna 29
+
+
+
+
+
+Others
+
+
+
+Chandrayaan-2 (2018)
+Chang'e 4 (2018)
+PTScientists (2018)
+SpaceX Lunar Tourism Mission (2018)
+TESS (2018)
+Astrobotic / Hakuto / AngelicvM (2019)
+Chang'e 5 (2019)
+Chang'e 6 (2020)
+SLIM (2021)
+EM-2 (2023)
+
+
+
+
+
+
+
+
+Proposed
+
+
+
+Baden-Württemberg 1
+Blue Origin Blue Moon
+Deep Space Gateway
+DSE-Alpha
+International Lunar Network
+Lunar Lander
+Lunar Mission One
+Lunar Orbital Station
+MoonLITE
+OpenLuna
+SELENE-R
+
+
+
+
+
+Cancelled
+
+
+
+Altair
+European Lunar Explorer
+LEO
+LK
+Lunar-A
+Lunar Observer
+Lunokhod 3
+MoonRise
+Prospector
+Ukrselena
+
+
+
+
+
+See also
+
+
+
+Colonization of the Moon
+Exploration of the Moon
+Google Lunar X Prize
+List of Apollo astronauts
+List of lunar probes
+List of artificial objects on the Moon
+List of missions to the Moon
+Moon landing
+
+Conspiracy theories
+
+
+
+
+
+
+
+
+Manned missions in italics.
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Manned lunar spacecraft
+
+
+
+Orbiters
+
+
+
+Retired
+
+Apollo Command/Service Module
+
+
+Cancelled
+
+LK-1 / LK-700 (VA)
+Zond (Soyuz 7K-L1)
+LOK (Soyuz 7K-L3)
+
+
+Future
+
+Orion
+Federation
+
+
+
+
+
+
+
+
+
+
+Landers
+
+
+
+Retired
+
+Apollo Lunar Module
+
+
+Cancelled
+
+Lunniy Korabl
+Altair
+
+
+
+
+
+
+
+See also
+
+
+
+Moon landing
+
+conspiracy theories
+
+
+List of lunar probes
+List of artificial objects on the Moon
+List of missions to the Moon
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+People who have walked on the Moon
+
+
+
+
+
+
+Neil Armstrong (CDR, Apollo 11)
+Buzz Aldrin (LMP, Apollo 11)
+Pete Conrad (CDR, Apollo 12)
+Alan Bean (LMP, Apollo 12)
+Alan Shepard (CDR, Apollo 14)
+Edgar Mitchell (LMP, Apollo 14)
+David Scott (CDR, Apollo 15)
+James Irwin (LMP, Apollo 15)
+John Young (CDR, Apollo 16)
+Charles Duke (LMP, Apollo 16)
+Eugene Cernan (CDR, Apollo 17)
+Harrison Schmitt (LMP, Apollo 17)
+
+
+
+
+
+
+
+
+Moon landing
+
+Apollo program
+Apollo Lunar Module
+Lunar Roving Vehicle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+The Moon
+
+
+
+Physical
+features
+
+
+
+Face on the Moon
+Internal structure
+Gravity field
+Topography
+Magnetic field
+Atmosphere
+Ion tail
+Moonlight
+Lunar swirls
+
+
+
+
+
+
+
+
+Orbit
+
+
+
+Orbit of the Moon
+Phases
+Lunation
+Lunar libration
+Full Moon
+Lunar terminator
+Full moon cycle
+Earthshine
+Lunar eclipse
+Solar eclipse
+Solar eclipses on the Moon
+Tide
+
+
+
+
+
+Surface
+
+
+
+Selenography
+Near side
+Far side
+North pole
+South pole
+Lunar mare
+
+List
+
+
+Craters
+
+List
+
+
+Calderas
+Mountains
+Valleys
+Volcanic features
+South Pole–Aitken basin
+Shackleton crater
+Water
+Soil
+Ray systems
+Peak of eternal light
+Crater of eternal darkness
+Space weathering
+Transient lunar phenomenon
+Lunar basalt 70017
+
+
+
+
+
+Science
+
+
+
+Geology
+
+timescale
+
+
+Giant-impact hypothesis
+Hill sphere
+Moon rocks
+Lunar meteorites
+KREEP
+Late Heavy Bombardment
+Lunar laser ranging
+ALSEP
+Observation
+Origin
+Lunar sample displays
+
+Apollo 11 lunar sample display
+Apollo 17 lunar sample display
+
+
+
+
+
+
+
+Exploration
+
+
+
+Apollo program
+Exploration of the Moon
+Colonization of the Moon
+List of lunar probes
+List of missions to the Moon
+Moon landing
+
+conspiracy theories
+
+
+
+
+
+
+
+Related
+topics
+
+
+
+Lunar calendar
+Lunisolar calendar
+Craters named after people
+Double planet
+Lunar effect
+Man in the Moon
+Memorials on the Moon
+Month
+Lunar month
+Moon illusion
+
+Harvest moon
+Hunter's moon
+
+
+Moon in art and literature
+Moon in mythology
+
+Hjúki and Bil (Norse legends)
+
+
+Moon is made of green cheese
+Natural satellite
+Solar System
+Supermoon
+Theia
+Tourism
+
+
+
+
+
+Phases / Occurrence
+
+
+
+Black moon
+Blue moon
+Lunar phase
+New moon
+Dark moon
+Wet moon
+Lilith (hypothetical moon)
+
+
+
+
+
+
+
+
+ Category
+ Moon portal
+ Earth sciences portal
+ Solar System portal
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4170439-3
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Moon_landing&oldid=812607437"					
+Categories: Exploration of the MoonHistory of televisionMissions to the Moon1959 introductionsHidden categories: Webarchive template wayback linksAll articles with dead external linksArticles with dead external links from June 2016CS1 errors: external linksUse dmy dates from January 2014All articles with unsourced statementsArticles with unsourced statements from March 2012Wikipedia articles needing style editing from January 2016All articles needing style editingArticles needing additional references from January 2013All articles needing additional referencesArticles with unsourced statements from February 2011Wikipedia articles in need of updating from March 2015Articles with DMOZ linksWikipedia articles with GND identifiers 

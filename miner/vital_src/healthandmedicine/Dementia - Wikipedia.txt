@@ -1,0 +1,1833 @@
+Dementia - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+This is the latest accepted revision, reviewed on 25 November 2017.
+
+
+
+
+					Jump to:					navigation, 					search
+
+This article is about the cognitive disorder. For other uses, see Dementia (disambiguation).
+
+
+Dementia
+
+
+Synonyms
+Senility[1]
+
+
+
+
+
+Comparison of a normal aged brain (left) and the brain of a person with Alzheimer's (right). Differential characteristics are pointed out.
+
+
+Specialty
+Neurology, psychiatry
+
+
+Symptoms
+Decreased ability to think and remember, emotional problems, problems with language, decreased motivation[2][3]
+
+
+Usual onset
+Gradual[2]
+
+
+Duration
+Long term[2]
+
+
+Causes
+Alzheimer's disease, vascular dementia, Lewy body dementia, frontotemporal dementia[2][3]
+
+
+Diagnostic method
+Cognitive testing (mini mental state examination)[4][3]
+
+
+Similar conditions
+Delirium[5]
+
+
+Prevention
+Early education, prevent high blood pressure, prevent obesity, no smoking, exercise, social engagement[6]
+
+
+Treatment
+Supportive care[2]
+
+
+Medication
+Cholinesterase inhibitors (small benefit)[7][8]
+
+
+Frequency
+46 million (2015)[9]
+
+
+Deaths
+1.9 million (2015)[10]
+
+
+
+[edit on Wikidata]
+
+
+
+Dementia is a broad category of brain diseases that cause a long-term and often gradual decrease in the ability to think and remember that is great enough to affect a person's daily functioning.[2] Other common symptoms include emotional problems, problems with language, and a decrease in motivation.[2][3] A person's consciousness is usually not affected.[2] A dementia diagnosis requires a change from a person's usual mental functioning and a greater decline than one would expect due to aging.[2][11] These diseases also have a significant effect on a person's caregivers.[2]
+The most common type of dementia is Alzheimer's disease, which makes up 50% to 70% of cases.[2][3] Other common types include vascular dementia (25%), Lewy body dementia (15%), and frontotemporal dementia.[2][3] Less common causes include normal pressure hydrocephalus, Parkinson's disease, syphilis, and Creutzfeldt–Jakob disease among others.[12] More than one type of dementia may exist in the same person.[2] A small proportion of cases run in families.[13] In the DSM-5, dementia was reclassified as a neurocognitive disorder, with various degrees of severity.[14] Diagnosis is usually based on history of the illness and cognitive testing with medical imaging and blood work used to rule out other possible causes.[4] The mini mental state examination is one commonly used cognitive test.[3] Efforts to prevent dementia include trying to decrease risk factors such as high blood pressure, smoking, diabetes, and obesity.[2] Screening the general population for the disorder is not recommended.[15]
+There is no known cure for dementia.[2] Cholinesterase inhibitors such as donepezil are often used and may be beneficial in mild to moderate disorder.[16][17][7] Overall benefit, however, may be minor.[7][8] There are many measures that can improve the quality of life of people with dementia and their caregivers.[2] Cognitive and behavioral interventions may be appropriate.[2] Educating and providing emotional support to the caregiver is important.[2] Exercise programs may be beneficial with respect to activities of daily living and potentially improve outcomes.[18] Treatment of behavioral problems with antipsychotics is common but not usually recommended due to the little benefit and side effects, including an increased risk of death.[19][20]
+Globally, dementia affected about 46 million people in 2015.[9] About 10% of people develop the disorder at some point in their lives.[13] It becomes more common with age.[21] About 3% of people between the ages of 65–74 have dementia, 19% between 75 and 84 and nearly half of those over 85 years of age.[22] In 2013 dementia resulted in about 1.7 million deaths up from 0.8 million in 1990.[23] As more people are living longer, dementia is becoming more common in the population as a whole.[21] For people of a specific age, however, it may be becoming less frequent, at least in the developed world, due to a decrease in risk factors.[21] It is one of the most common causes of disability among the old.[3] It is believed to result in economic costs of 604 billion USD a year.[2] People with dementia are often physically or chemically restrained to a greater degree than necessary, raising issues of human rights.[2] Social stigma against those affected is common.[3]
+
+
+
+Contents
+
+
+1 Signs and symptoms
+
+1.1 Mild cognitive impairment
+1.2 Early stages
+1.3 Middle stages
+1.4 Late stages
+
+
+2 Causes
+
+2.1 Reversible causes
+2.2 Alzheimer's disease
+2.3 Vascular dementia
+2.4 Dementia with Lewy bodies
+2.5 Frontotemporal dementia
+2.6 Progressive supranuclear palsy
+2.7 Corticobasal degeneration
+2.8 Rapidly progressive
+2.9 Immunologically mediated
+2.10 Other conditions
+2.11 Mild cognitive impairment
+2.12 Fixed cognitive impairment
+2.13 Slowly progressive
+
+
+3 Diagnosis
+
+3.1 Cognitive testing
+3.2 Laboratory tests
+3.3 Imaging
+
+
+4 Prevention
+5 Management
+
+5.1 Psychological therapies
+5.2 Medications
+5.3 Pain
+5.4 Eating difficulties
+5.5 Alternative medicine
+5.6 Palliative care
+
+
+6 Epidemiology
+7 History
+8 Society and culture
+9 References
+10 External links
+
+
+
+Signs and symptoms[edit]
+
+
+
+
+A drawing of a woman diagnosed as having chronic dementia.
+
+
+
+
+
+
+An old man diagnosed with senile dementia
+
+
+The symptoms of dementia vary across types and stages of the diagnosis.[24] The most common affected areas include memory, visual-spatial, language, attention and problem solving. Most types of dementia are slow and progressive. By the time the person shows signs of the disorder, the process in the brain has been happening for a long time. It is possible for a patient to have two types of dementia at the same time. About 10% of people with dementia have what is known as mixed dementia, which is usually a combination of Alzheimer's disease and another type of dementia such as frontotemporal dementia or vascular dementia.[25][26] Additional psychological and behavioral problems that often affect people who have dementia include:
+
+Balance problems
+Tremor
+Speech and language difficulty
+Trouble eating or swallowing
+Memory distortions (believing that a memory has already happened when it has not, thinking an old memory is a new one, combining two memories, or confusing the people in a memory)
+Wandering or restlessness
+Perception and visual problems[27]
+Behavioral and psychological symptoms of dementia (BPSD) almost always occur in all types of dementia. BPSDs may manifest as:[28][29]
+
+
+
+
+Agitation
+Depression
+Anxiety
+Abnormal motor behavior
+Elated mood
+Irritability
+Apathy
+Disinhibition and impulsivity
+Delusions (often believing people are stealing from them) or hallucinations
+Changes in sleep or appetite.
+
+
+
+When people with dementia are put in circumstances beyond their abilities, there may be a sudden change to crying or anger (a "catastrophic reaction").[30]
+Psychosis (often delusions of persecution) and agitation/aggression also often accompany dementia.[31]
+Mild cognitive impairment[edit]
+In the first stages of dementia, the signs and symptoms of the disorder may be subtle. Often, the early signs of dementia only become apparent when looking back in time. The earliest stage of dementia is called mild cognitive impairment (MCI). 70% of those diagnosed with MCI progress to dementia at some point.[11] In MCI, changes in the person's brain have been happening for a long time, but the symptoms of the disorder are just beginning to show. These problems, however, are not yet severe enough to affect the person’s daily function. If they do, it is considered dementia. A person with MCI scores between 27 and 30 on the Mini-Mental State Examination (MMSE), which is a normal score. They may have some memory trouble and trouble finding words, but they solve everyday problems and handle their own life affairs well.
+Early stages[edit]
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2015) (Learn how and when to remove this template message)
+
+
+
+In the early stage of dementia, the person begins to show symptoms noticeable to the people around them. In addition, the symptoms begin to interfere with daily activities. The person usually scores between a 20 and 25 on the MMSE. The symptoms are dependent on the type of dementia a person has. The person may begin to have difficulty with more complicated chores and tasks around the house or at work. The person can usually still take care of him or herself but may forget things like taking pills or doing laundry and may need prompting or reminders.
+The symptoms of early dementia usually include memory difficulty, but can also include some word-finding problems (anomia) and problems with planning and organizational skills (executive function). One very good way of assessing a person's impairment is by asking if he or she is still able to handle his/her finances independently. This is often one of the first things to become problematic. Other signs might be getting lost in new places, repeating things, personality changes, social withdrawal and difficulties at work.
+When evaluating a person for dementia, it is important to consider how the person was able to function five or ten years earlier. It is also important to consider a person's level of education when assessing for loss of function. For example, an accountant who can no longer balance a checkbook would be more concerning than a person who had not finished high school or had never taken care of his/her own finances.[11]
+In Alzheimer's dementia the most prominent early symptom is memory difficulty. Others include word-finding problems and getting lost. In other types of dementia, like dementia with Lewy bodies and fronto-temporal dementia, personality changes and difficulty with organization and planning may be the first signs.
+Middle stages[edit]
+As dementia progresses, the symptoms first experienced in the early stages of the dementia generally worsen. The rate of decline is different for each person. A person with moderate dementia scores between 6–17 on the MMSE. For example, people with Alzheimer's dementia in the moderate stages lose almost all new information very quickly. People with dementia may be severely impaired in solving problems, and their social judgment is usually also impaired. They cannot usually function outside their own home, and generally should not be left alone. They may be able to do simple chores around the house but not much else, and begin to require assistance for personal care and hygiene other than simple reminders.[11]
+Late stages[edit]
+People with late-stage dementia typically turn increasingly inward and need assistance with most or all of their personal care. Persons with dementia in the late stages usually need 24-hour supervision to ensure personal safety, as well as to ensure that basic needs are being met. If left unsupervised, a person with late-stage dementia may wander or fall, may not recognize common dangers around them such as a hot stove, may not realize that they need to use the bathroom or become unable to control their bladder or bowels (incontinent).
+Changes in eating frequently occur. Caregivers of people with late-stage dementia often provide pureed diets, thickened liquids, and assistance in eating, to prolong their lives, to cause them to gain weight, to reduce the risk of choking, and to make feeding the person easier.[32] The person's appetite may decline to the point that the person does not want to eat at all. He or she may not want to get out of bed, or may need complete assistance doing so. Commonly, the person no longer recognizes familiar people. He or she may have significant changes in sleeping habits or have trouble sleeping at all.[11]
+Causes[edit]
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2015) (Learn how and when to remove this template message)
+
+
+
+Reversible causes[edit]
+There are four main causes of easily reversible dementia: hypothyroidism, vitamin B12 deficiency, Lyme disease, and neurosyphillis. All people with memory difficulty should be checked for hypothyroidism and B12 deficiency. For Lyme disease and neurosyphilis, testing should be done if there are risk factors for those diseases in the person. Because risk factors are often difficult to determine, testing for neurosyphillis and Lyme disease as well as the other mentioned factors may be undertaken as a matter of course in cases where dementia is suspected.[11]:31–32
+Alzheimer's disease[edit]
+
+
+
+
+Brain atrophy in severe Alzheimer's
+
+
+Alzheimer's disease accounts for up to 50% to 70% of cases of dementia.[2][3] The most common symptoms of Alzheimer's disease are short-term memory loss and word-finding difficulties. People with Alzheimer's disease also have trouble with visual-spatial areas (for example, they may begin to get lost often), reasoning, judgment, and insight. Insight refers to whether or not the person realizes he/she has memory problems.
+Common early symptoms of Alzheimer's include repetition, getting lost, difficulties keeping track of bills, problems with cooking especially new or complicated meals, forgetting to take medication, and word-finding problems.
+The part of the brain most affected by Alzheimer's is the hippocampus. Other parts of the brain that show shrinking (atrophy) include the temporal and parietal lobes.[11] Although this pattern suggests Alzheimer's, the brain shrinkage in Alzheimer's disease is very variable, and a scan of the brain cannot actually make the diagnosis. The relationship between undergoing anesthesia and AD is unclear.[33]
+Vascular dementia[edit]
+Vascular dementia is the cause of at least 20% of dementia cases, making it the second most common cause of dementia.[34] It is caused by disease or injury affecting the blood supply to the brain, typically involving a series of minor strokes. The symptoms of this dementia depend on where in the brain the strokes have occurred and whether the vessels are large or small.[11] Multiple injuries can cause progressive dementia over time, while a single injury located in an area critical for cognition (i.e. hippocampus, thalamus) can lead to sudden cognitive decline.[34]
+On scans of the brain, a person with vascular dementia may show evidence of multiple strokes of different sizes in various locations. People with vascular dementia tend to have risk factors for disease of the blood vessels, such as tobacco use, high blood pressure, atrial fibrillation, high cholesterol or diabetes, or other signs of vascular disease such as a previous heart attack or angina.
+Dementia with Lewy bodies[edit]
+Dementia with Lewy bodies (DLB) is a dementia that has the primary symptoms of visual hallucinations and "Parkinsonism". Parkinsonism is the symptoms of Parkinson's disease, which includes tremor, rigid muscles, and a face without emotion. The visual hallucinations in DLB are generally very vivid hallucinations of people and/or animals and they often occur when someone is about to fall asleep or just waking up. Other prominent symptoms include problems with attention, organization, problem solving and planning (executive function), and difficulty with visual-spatial function.[11]
+Again, imaging studies cannot necessarily make the diagnosis of DLB, but some signs are particularly common. A person with DLB often shows occipital hypoperfusion on SPECT scan or occipital hypometabolism on a PET scan. Generally, a diagnosis of DLB is straightforward and unless it is complicated, a brain scan is not always necessary.[11]
+Frontotemporal dementia[edit]
+Frontotemporal dementia (FTD) is characterized by drastic personality changes and language difficulties. In all FTD, the person has a relatively early social withdrawal and early lack of insight into the disorder. Memory problems are not a main feature of this disorder.[11]
+There are three main types of FTD. The first has major symptoms in the area of personality and behavior. This is called behavioral variant FTD (bv-FTD) and is the most common. In bv-FTD, the person shows a change in personal hygiene, becomes rigid in their thinking, and rarely recognize that there is a problem, they are socially withdrawn, and often have a drastic increase in appetite. They may also be socially inappropriate. For example, they may make inappropriate sexual comments, or may begin using pornography openly when they had not before. One of the most common signs is apathy, or not caring about anything. Apathy, however, is a common symptom in many different dementias.[11]
+The other two types of FTD feature language problems as the main symptom. The second type is called semantic dementia or temporal variant dementia (TV-FTD). The main feature of this is the loss of the meaning of words. It may begin with difficulty naming things. The person eventually may also lose the meaning of objects as well. For example, a drawing of a bird, dog, and an airplane in someone with FTD may all appear just about the same.[11] In a classic test for this, a patient is shown a picture of a pyramid and below there is a picture of both a palm tree and a pine tree. The person is asked to say which one goes best with the pyramid. In TV-FTD the person would not be able to answer that question.
+The last type of FTD is called progressive non-fluent aphasia (PNFA). This is mainly a problem with producing speech. They have trouble finding the right words, but mostly they have a difficulty coordinating the muscles they need to speak. Eventually, someone with PNFA only uses one-syllable words or may become totally mute.
+Progressive supranuclear palsy[edit]
+Progressive supranuclear palsy (PSP) is a form of dementia that is characterized by problems with eye movements. Generally the problems begin with difficulty moving the eyes up and/or down (vertical gaze palsy). Since difficulty moving the eyes upward can sometimes happen in normal aging, problems with downward eye movements are the key in PSP. Other key symptoms of PSP include falls backwards, balance problems, slow movements, rigid muscles, irritability, apathy, social withdrawal, and depression. The person may also have certain "frontal lobe signs" such as perseveration, a grasp reflex and utilization behavior (the need to use an object once you see it). People with PSP often have progressive difficulty eating and swallowing, and eventually with talking as well. Because of the rigidity and slow movements, PSP is sometimes misdiagnosed as Parkinson's disease.
+On scans of the brain, the midbrain of people with PSP is generally shrunken (atrophied), but there are no other common brain abnormalities visible on images of the person's brain.
+Corticobasal degeneration[edit]
+Corticobasal degeneration is a rare form of dementia that is characterized by many different types of neurological problems that get progressively worse over time. This is because the disorder affects the brain in many different places, but at different rates. One common sign is difficulty with using only one limb. One symptom that is extremely rare in any condition other than corticobasal degeneration is the "alien limb." The alien limb is a limb of the person that seems to have a mind of its own, it moves without control of the person's brain. Other common symptoms include jerky movements of one or more limbs (myoclonus), symptoms that are different in different limbs (asymmetric), difficulty with speech that is due to not being able to move the mouth muscles in a coordinated way, numbness and tingling of the limbs and neglecting one side of the person's vision or senses. In neglect, a person ignores the opposite side of the body from the one that has the problem. For example, a person may not feel pain on one side, or may only draw half of a picture when asked. In addition, the person's affected limbs may be rigid or have muscle contractions causing strange repetitive movements (dystonia).[11]
+The area of the brain most often affected in corticobasal degeneration is the posterior frontal lobe and parietal lobe. Still, many other part of the brain can be affected.[11]
+Rapidly progressive[edit]
+Creutzfeldt–Jakob disease typically causes a dementia that worsens over weeks to months, and is caused by prions. The common causes of slowly progressive dementia also sometimes present with rapid progression: Alzheimer's disease, dementia with Lewy bodies, frontotemporal lobar degeneration (including corticobasal degeneration and progressive supranuclear palsy).
+On the other hand, encephalopathy or delirium may develop relatively slowly and resemble dementia. Possible causes include brain infection (viral encephalitis, subacute sclerosing panencephalitis, Whipple's disease) or inflammation (limbic encephalitis, Hashimoto's encephalopathy, cerebral vasculitis); tumors such as lymphoma or glioma; drug toxicity (e.g., anticonvulsant drugs[specify]); metabolic causes such as liver failure or kidney failure; and chronic subdural hematoma.
+Immunologically mediated[edit]
+Chronic inflammatory conditions that may affect the brain and cognition include Behçet's disease, multiple sclerosis, sarcoidosis, Sjögren's syndrome, systemic lupus erythematosus, celiac disease, and non-celiac gluten sensitivity.[35][36] This type of dementias can rapidly progress, but usually have a good response to early treatment. This consists of immunomodulators or steroid administration, or in certain cases, the elimination of the causative agent.[36]
+Other conditions[edit]
+There are many other medical and neurological conditions in which dementia only occurs late in the illness. For example, a proportion of patients with Parkinson's disease develop dementia, though widely varying figures are quoted for this proportion.[37] When dementia occurs in Parkinson's disease, the underlying cause may be dementia with Lewy bodies or Alzheimer's disease, or both.[38] Cognitive impairment also occurs in the Parkinson-plus syndromes of progressive supranuclear palsy and corticobasal degeneration (and the same underlying pathology may cause the clinical syndromes of frontotemporal lobar degeneration). Although the acute porphyrias may cause episodes of confusion and psychiatric disturbance, dementia is a rare feature of these rare diseases.
+Aside from those mentioned above, inherited conditions that can cause dementia (alongside other symptoms) include:[39]
+
+
+Alexander disease
+Canavan disease
+Cerebrotendinous xanthomatosis
+Dentatorubral-pallidoluysian atrophy
+Epilepsy
+Fatal familial insomnia
+Fragile X-associated tremor/ataxia syndrome
+Glutaric aciduria type 1
+Krabbe's disease
+Maple syrup urine disease
+Niemann–Pick disease type C
+Neuronal ceroid lipofuscinosis
+Neuroacanthocytosis
+Organic acidemias
+Pelizaeus–Merzbacher disease
+Sanfilippo syndrome type B
+Spinocerebellar ataxia type 2
+Urea cycle disorders
+
+
+Mild cognitive impairment[edit]
+Mild cognitive impairment means that the person exhibits memory or thinking difficulties, but those difficulties are not severe enough to meet criteria for a diagnosis of dementia.[40] He or she should score between 25–30 on the MMSE.[11] Around 70% of people with MCI go on to develop some form of dementia.[11] MCI is generally divided into two categories. The first is one that is primarily memory loss (amnestic MCI). The second category is anything that is not primarily memory difficulties (non-amnestic MCI). People with primarily memory problems generally go on to develop Alzheimer's disease. People with the other type of MCI may go on to develop other types of dementia.
+Diagnosis of MCI is often difficult, as cognitive testing may be normal. Often, more in-depth neuropsychological testing is necessary to make the diagnosis. the most commonly used criteria are called the Peterson criteria and include:
+
+Memory or other cognitive (thought-processing) complaint by the person or a person who knows the patient well.
+The person must have a memory or other cognitive problem as compared to a person of the same age and level of education.
+The problem must not be severe enough to affect the person's daily function.
+The person must not have dementia.
+
+Fixed cognitive impairment[edit]
+Various types of brain injury may cause irreversible cognitive impairment that remains stable over time. Traumatic brain injury may cause generalized damage to the white matter of the brain (diffuse axonal injury), or more localized damage (as also may neurosurgery). A temporary reduction in the brain's supply of blood or oxygen may lead to hypoxic-ischemic injury. Strokes (ischemic stroke, or intracerebral, subarachnoid, subdural or extradural hemorrhage) or infections (meningitis and/or encephalitis) affecting the brain, prolonged epileptic seizures, and acute hydrocephalus may also have long-term effects on cognition. Excessive alcohol use may cause alcohol dementia, Wernicke's encephalopathy, and/or Korsakoff's psychosis.
+Slowly progressive[edit]
+Dementia that begins gradually and worsens progressively over several years is usually caused by neurodegenerative disease—that is, by conditions that affect only or primarily the neurons of the brain and cause gradual but irreversible loss of function of these cells. Less commonly, a non-degenerative condition may have secondary effects on brain cells, which may or may not be reversible if the condition is treated.
+Causes of dementia depend on the age when symptoms begin. In the elderly population (usually defined in this context as over 65 years of age), a large majority of dementia cases are caused by Alzheimer's disease, vascular dementia, or both. Dementia with Lewy bodies is another commonly exhibited form, which again may occur alongside either or both of the other causes.[41][42][43] Hypothyroidism sometimes causes slowly progressive cognitive impairment as the main symptom, and this may be fully reversible with treatment. Normal pressure hydrocephalus, though relatively rare, is important to recognize since treatment may prevent progression and improve other symptoms of the condition. However, significant cognitive improvement is unusual.
+Dementia is much less common under 65 years of age. Alzheimer's disease is still the most frequent cause, but inherited forms of the disorder account for a higher proportion of cases in this age group. Frontotemporal lobar degeneration and Huntington's disease account for most of the remaining cases.[44] Vascular dementia also occurs, but this in turn may be due to underlying conditions (including antiphospholipid syndrome, CADASIL, MELAS, homocystinuria, moyamoya, and Binswanger's disease). People who receive frequent head trauma, such as boxers or football players, are at risk of chronic traumatic encephalopathy[45] (also called dementia pugilistica in boxers).
+In young adults (up to 40 years of age) who were previously of normal intelligence, it is very rare to develop dementia without other features of neurological disease, or without features of disease elsewhere in the body. Most cases of progressive cognitive disturbance in this age group are caused by psychiatric illness, alcohol or other drugs, or metabolic disturbance. However, certain genetic disorders can cause true neurodegenerative dementia at this age. These include familial Alzheimer's disease, SCA17 (dominant inheritance); adrenoleukodystrophy (X-linked); Gaucher's disease type 3, metachromatic leukodystrophy, Niemann-Pick disease type C, pantothenate kinase-associated neurodegeneration, Tay-Sachs disease, and Wilson's disease (all recessive). Wilson's disease is particularly important since cognition can improve with treatment.
+At all ages, a substantial proportion of patients who complain of memory difficulty or other cognitive symptoms have depression rather than a neurodegenerative disease. Vitamin deficiencies and chronic infections may also occur at any age; they usually cause other symptoms before dementia occurs, but occasionally mimic degenerative dementia. These include deficiencies of vitamin B12, folate, or niacin, and infective causes including cryptococcal meningitis, AIDS, Lyme disease, progressive multifocal leukoencephalopathy, subacute sclerosing panencephalitis, syphilis, and Whipple's disease.
+Diagnosis[edit]
+As seen above, there are many specific types and causes of dementia, often showing slightly different symptoms. However, the symptoms are very similar and it is usually difficult to diagnose the type of dementia by symptoms alone. Diagnosis may be aided by brain scanning techniques. In many cases, the diagnosis cannot be absolutely sure except with a brain biopsy, but this is very rarely recommended (though it can be performed at autopsy). In those who are getting older, general screening for cognitive impairment using cognitive testing or early diagnosis of dementia has not been shown to improve outcomes.[46] However, it has been shown that screening exams are useful in those people over the age of 65 with memory complaints.[11]
+Normally, symptoms must be present for at least six months to support a diagnosis.[47] Cognitive dysfunction of shorter duration is called delirium. Delirium can be easily confused with dementia due to similar symptoms. Delirium is characterized by a sudden onset, fluctuating course, a short duration (often lasting from hours to weeks), and is primarily related to a somatic (or medical) disturbance. In comparison, dementia has typically a long, slow onset (except in the cases of a stroke or trauma), slow decline of mental functioning, as well as a longer duration (from months to years).[48]
+Some mental illnesses, including depression and psychosis, may produce symptoms that must be differentiated from both delirium and dementia.[49] Therefore, any dementia evaluation should include a depression screening such as the Neuropsychiatric Inventory or the Geriatric Depression Scale.[11] Physicians used to think that anyone who came in with memory complaints had depression and not dementia (because they thought that those with dementia are generally unaware of their memory problems). This is called pseudodementia. However, in recent years researchers have realized that many older people with memory complaints in fact have MCI, the earliest stage of dementia. Depression should always remain high on the list of possibilities, however, for an elderly person with memory trouble.
+Changes in thinking, hearing, and vision are associated with normal ageing and can cause problems when diagnosing dementia due to the similarities.[50]
+Cognitive testing[edit]
+
+Sensitivity and specificity of common tests for dementia
+
+Test
+Sensitivity
+Specificity
+Reference
+
+
+MMSE
+71%–92%
+56%–96%
+[51]
+
+
+3MS
+83%–93.5%
+85%–90%
+[52]
+
+
+AMTS
+73%–100%
+71%–100%
+[52]
+
+
+There are some brief tests (5–15 minutes) that have reasonable reliability to screen for dementia. While many tests have been studied,[53][54][55] presently the mini mental state examination (MMSE) is the best studied and most commonly used. The MMSE is a useful tool for helping to diagnose dementia if the results are interpreted along with an assessment of a person's personality, their ability to perform activities of daily living, and their behaviour.[56] Other cognitive tests include the abbreviated mental test score (AMTS), the, Modified Mini-Mental State Examination (3MS),[57] the Cognitive Abilities Screening Instrument (CASI),[58] the Trail-making test,[59] and the clock drawing test.[60] The MOCA (Montreal Cognitive Assessment) is a very reliable screening test and is available online for free in 35 different languages.[11] The MOCA has also been shown somewhat better at detecting mild cognitive impairment than the MMSE.[61]
+Another approach to screening for dementia is to ask an informant (relative or other supporter) to fill out a questionnaire about the person's everyday cognitive functioning. Informant questionnaires provide complementary information to brief cognitive tests. Probably the best known questionnaire of this sort is the Informant Questionnaire on Cognitive Decline in the Elderly (IQCODE).[62] There is not sufficient evidence to determine how accurate the IQCODE is for diagnosing or predicting dementia.[63] The Alzheimer's Disease Caregiver Questionnaire is another tool. It is about 90% accurate for Alzheimer's and can be completed online or in the office by a caregiver.[11] On the other hand, the General Practitioner Assessment Of Cognition combines both, a patient assessment and an informant interview. It was specifically designed for the use in the primary care setting.
+Clinical neuropsychologists provide diagnostic consultation following administration of a full battery of cognitive testing, often lasting several hours, to determine functional patterns of decline associated with varying types of dementia. Tests of memory, executive function, processing speed, attention, and language skills are relevant, as well as tests of emotional and psychological adjustment. These tests assist with ruling out other etiologies and determining relative cognitive decline over time or from estimates of prior cognitive abilities.
+Laboratory tests[edit]
+Routine blood tests are also usually performed to rule out treatable causes. These tests include vitamin B12, folic acid, thyroid-stimulating hormone (TSH), C-reactive protein, full blood count, electrolytes, calcium, renal function, and liver enzymes. Abnormalities may suggest vitamin deficiency, infection, or other problems that commonly cause confusion or disorientation in the elderly.
+Imaging[edit]
+A CT scan or magnetic resonance imaging (MRI scan) is commonly performed, although these tests do not pick up diffuse metabolic changes associated with dementia in a person that shows no gross neurological problems (such as paralysis or weakness) on neurological exam.[citation needed] CT or MRI may suggest normal pressure hydrocephalus, a potentially reversible cause of dementia, and can yield information relevant to other types of dementia, such as infarction (stroke) that would point at a vascular type of dementia.
+The functional neuroimaging modalities of SPECT and PET are more useful in assessing long-standing cognitive dysfunction, since they have shown similar ability to diagnose dementia as a clinical exam and cognitive testing.[64] The ability of SPECT to differentiate the vascular cause (i.e., multi-infarct dementia) from Alzheimer's disease dementias, appears superior to differentiation by clinical exam.[65]
+Recent research has established the value of PET imaging using carbon-11 Pittsburgh Compound B as a radiotracer (PIB-PET) in predictive diagnosis of various kinds of dementia, in particular Alzheimer's disease. Studies from Australia have found PIB-PET 86% accurate in predicting which patients with mild cognitive impairment will develop Alzheimer's disease within two years. In another study, carried out using 66 patients seen at the University of Michigan, PET studies using either PIB or another radiotracer, carbon-11 dihydrotetrabenazine (DTBZ), led to more accurate diagnosis for more than one-fourth of patients with mild cognitive impairment or mild dementia.[66]
+Prevention[edit]
+Main article: Prevention of dementia
+A number of factors can decrease the risk of dementia.[6] A group of efforts is believed to be able to prevent a third of cases and include early education, treating high blood pressure, preventing obesity, preventing hearing loss, treating depression, being active, preventing diabetes, not smoking, and preventing social isolation.[6]
+Among otherwise healthy older people, computerized cognitive training may improve memory. However it is not known if it prevents dementia.[67]
+Management[edit]
+Except for the treatable types listed above, there is no cure. Cholinesterase inhibitors are often used early in the disorder course; however, benefit is generally small.[8][68] Cognitive and behavioral interventions may be appropriate. There is some evidence that educating and providing support for the person with dementia, as well as caregivers and family members, improves outcomes.[69] Exercise programs are beneficial with respect to activities of daily living and potentially improve dementia.[18]
+Psychological therapies[edit]
+Main article: Cognitive therapies for dementia
+Psychological therapies for dementia include tentative evidence for reminiscence therapy,[70] some benefit for cognitive reframing for caretakers,[71] unclear evidence for validation therapy,[72] and tentative evidence for mental exercises, such as cognitive stimulation programs for people with mild to moderate dementia.[73]
+Adult daycare centers as well as special care units in nursing homes often provide specialized care for dementia patients. Adult daycare centers offer supervision, recreation, meals, and limited health care to participants, as well as providing respite for caregivers. In addition, home care can provide one-on-one support and care in the home allowing for more individualized attention that is needed as the disorder progresses. Psychiatric nurses can make a distinctive contribution to people's mental health.[74]
+Since dementia impairs normal communication due to changes in receptive and expressive language, as well as the ability to plan and problem solve, agitated behaviour is often a form of communication for the person with dementia. Actively searching for a potential cause, such as pain, physical illness, or overstimulation can be helpful in reducing agitation.[75] Additionally, using an "ABC analysis of behaviour" can be a useful tool for understanding behavior in people with dementia. It involves looking at the antecedents (A), behavior (B), and consequences (C) associated with an event to help define the problem and prevent further incidents that may arise if the person's needs are misunderstood.[76] Little is understood as to whether regular music therapy is helpful due to lack of high quality data.[77]
+Medications[edit]
+
+
+
+
+Donepezil
+
+
+No medications have been shown to prevent or cure dementia.[78] Medications may be used to treat the behavioural and cognitive symptoms but have no effect on the underlying disease process.[11][79]
+Acetylcholinesterase inhibitors, such as donepezil, may be useful for Alzheimer disease[80] and dementia in Parkinson's, DLB, or vascular dementia.[79] The quality of the evidence however is poor[81] and the benefit is small.[8] No difference has been shown between the agents in this family.[82] In a minority of people side effects include bradycardia and syncope.[83]
+As assessment for an underlying cause of the behavior is a needed before prescribing antipsychotic medication for symptoms of dementia.[84] Antipsychotic drugs should be used to treat dementia only if non-drug therapies have not worked, and the person's actions threaten themselves or others.[85][86] Aggressive behavior changes are sometimes the result of other solvable problems, that could make treatment with antipsychotics unnecessary.[85] Because people with dementia can be aggressive, resistant to their treatment, and otherwise disruptive, sometimes antipsychotic drugs are considered as a therapy in response.[85] These drugs have risky adverse effects, including increasing the patient's chance of stroke and death.[85] Generally, stopping antipsychotics for people with dementia does not cause problems, even in those who have been on them a long time.[87]
+N-methyl-D-aspartate (NMDA) receptor blockers such as memantine may be of benefit but the evidence is less conclusive than for AChEIs.[88] Due to their differing mechanisms of action memantine and acetylcholinesterase inhibitors can be used in combination however the benefit is slight.[89][90]
+While depression is frequently associated with dementia, selective serotonin reuptake inhibitors (SSRIs) do not appear to affect outcomes.[91][92]
+The use of drugs to alleviate sleep disturbances that people with dementia often experience has not been well researched, even for medications that are commonly prescribed.[93] In 2012 the American Geriatrics Society recommended that benzodiazepines such as diazepam, and non-benzodiazepine hypnotics, be avoided for people with dementia due to the risks of increased cognitive impairment and falls.[94] Additionally, there is little evidence for the effectiveness of benzodiazepines in this population.[93][95] There is no clear evidence that melatonin or ramelteon improves sleep for people with dementia due to alzheimers disease.[93] There is limited evidence that a low dose of trazodone may improve sleep, however more research is needed.[93]
+There is no solid evidence that folate or vitamin B12 improves outcomes in those with cognitive problems.[96] Statins also have no benefit in dementia.[97] Medications for other health conditions may need to be managed differently for a person who also has a diagnosis of dementia. The MATCH-D criteria can help identify ways that a diagnosis of dementia changes medication management for other health conditions.[98] It is unclear if there is a link between blood pressure medication and dementia. There is a possibility that people may experience an increase in cardiovascular-related events if these medications are withdrawn.[99]
+Pain[edit]
+See also: Assessment in nonverbal patients
+As people age, they experience more health problems, and most health problems associated with aging carry a substantial burden of pain; therefore, between 25% and 50% of older adults experience persistent pain. Seniors with dementia experience the same prevalence of conditions likely to cause pain as seniors without dementia.[100] Pain is often overlooked in older adults and, when screened for, often poorly assessed, especially among those with dementia since they become incapable of informing others that they're in pain.[100][101] Beyond the issue of humane care, unrelieved pain has functional implications. Persistent pain can lead to decreased ambulation, depressed mood, sleep disturbances, impaired appetite, and exacerbation of cognitive impairment,[101] and pain-related interference with activity is a factor contributing to falls in the elderly.[100][102]
+Although persistent pain in the person with dementia is difficult to communicate, diagnose, and treat, failure to address persistent pain has profound functional, psychosocial, and quality of life implications for this vulnerable population. Health professionals often lack the skills and usually lack the time needed to recognize, accurately assess, and adequately monitor pain in people with dementia.[100][103] Family members and friends can make a valuable contribution to the care of a person with dementia by learning to recognize and assess their pain. Educational resources (such as the Understand Pain and Dementia tutorial) and observational assessment tools are available.[100][104][105]
+Eating difficulties[edit]
+Persons with dementia may have difficulty eating. Whenever it is available as an option, the recommended response to eating problems is having a caretaker do assisted feeding for the person.[106] A secondary option for people who cannot swallow effectively is to consider gastrostomy feeding tube placement as a way to give nutrition. However, in bringing person comfort and keeping functional status while lowering risk of aspiration pneumonia and death, assistance with oral feeding is at least as good as tube feeding.[106][107] Tube-feeding is associated with agitation, increased use of physical and chemical restraints, and worsening pressure ulcers. Tube feedings may also cause fluid overload, diarrhea, abdominal pain, local complications, less human interaction, and may increase the risk of aspiration.[108][109]
+Benefits of this procedure in those with advanced dementia has not been shown.[110] The risks of using tube feeding include agitation, the person pulling out the tube or otherwise being physically or chemically immobilized to prevent them from doing this, or getting pressure ulcers.[106] There is about a 1% fatality rate directly related to the procedure[111] with a 3% major complication rate.[112] The percentage of people at the end of their life with dementia using feeding tubes in the USA has dropped from 12% in 2000 to 6% as of 2014.[113][114]
+Alternative medicine[edit]
+Aromatherapy and massage have unclear evidence.[115][116] There have been studies on the efficacy and safety of cannabinoids in relieving behavioral and psychological symptoms of dementia.[117]
+Omega-3 fatty acid supplements from plants or fish sources do not appear to benefit or harm people with mild to moderate Alzheimer's disease. It is unclear if taking omega-3 fatty acid supplements can improve other types of dementia.[118]
+Palliative care[edit]
+Given the progressive and terminal nature of dementia, palliative care can be helpful to patients and their caregivers by helping both people with the disorder and their caregivers understand what to expect, deal with loss of physical and mental abilities, plan out a patient’s wishes and goals including surrogate decision making, and discuss wishes for or against CPR and life support.[119][120] Because the decline can be rapid, and because most people prefer to allow the person with dementia to make his or her own decisions, palliative care involvement before the late stages of dementia is recommended.[121][122] Further research is required to determine the appropriate palliative care interventions and how well they help people with advanced dementia.[123]
+Person-centered care helps maintain the dignity of people with dementia.[124]
+Epidemiology[edit]
+
+
+
+
+Deaths per million persons in 2012 due to dementia
+
+  0–4
+  5–8
+  9–10
+  11–13
+  14–17
+  18–24
+  25–45
+  46–114
+  115–375
+  376–1266
+
+
+
+
+
+
+
+
+Disability-adjusted life year for Alzheimer and other dementias per 100,000 inhabitants in 2004.
+
+
+
+
+  <100
+  100–120
+  120–140
+  140–160
+  160–180
+  180–200
+
+
+  200–220
+  220–240
+  240–260
+  260–280
+  280–300
+  >300
+
+
+
+
+
+
+
+The number of cases of dementia worldwide in 2010 was estimated at 35.6 million.[125] Rates increase significantly with age, with dementia affecting 5% of the population older than 65 and 20–40% of those older than 85.[126] Around two thirds of individuals with dementia live in low- and middle-income countries, where the sharpest increases in numbers are predicted.[127] Rates are slightly higher in women than men at ages 65 and greater.[126]
+In 2013 dementia resulted in about 1.7 million deaths, up from 0.8 million in 1990.[23]
+History[edit]
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2015) (Learn how and when to remove this template message)
+
+
+
+See also: Dementia praecox
+Until the end of the 19th century, dementia was a much broader clinical concept. It included mental illness and any type of psychosocial incapacity, including conditions that could be reversed.[128] Dementia at this time simply referred to anyone who had lost the ability to reason, and was applied equally to psychosis of mental illness, "organic" diseases like syphilis that destroy the brain, and to the dementia associated with old age, which was attributed to "hardening of the arteries".
+Dementia has been referred to in medical texts since antiquity. One of the earliest known accounts was written by the 7th-century BC Greek physician and mathematician Pythagoras, who divided the human lifespan into six distinct phases, which were 0–6 (infancy), 7–21 (adolescence), 22–49 (young adulthood), 50–62 (middle age), 63–79 (old age), and 80–death (advanced age). The last two he described as the "senium", a period of mental and physical decay, and of the final phase being where "the scene of mortal existence closes after a great length of time that very fortunately, few of the human species arrive at, where the mind is reduced to the imbecility of the first epoch of infancy".[129] In 550 BC, the Greek Athenian statesman and poet Solon argued that the terms of a man's will might be invalidated if he exhibited loss of judgement due to advanced age. Chinese medical texts made allusions to the condition as well, and the characters for "dementia" translate literally to "foolish old person".[citation needed]
+Aristotle and Plato from Ancient Greece spoke of the mental decay of advanced age, but apparently simply viewed it as an inevitable process that affected all old men, and which nothing could prevent. The latter stated that the elderly were unsuited for any position of responsibility because, "There is not much acumen of the mind that once carried them in their youth, those characteristics one would call judgement, imagination, power of reasoning, and memory. They see them gradually blunted by deterioration and can hardly fulfill their function."[citation needed]
+For comparison, the Roman statesman Cicero held a view much more in line with modern-day medical wisdom that loss of mental function was not inevitable in the elderly and "affected only those old men who were weak-willed". He spoke of how those who remained mentally active and eager to learn new things could stave off dementia. However, Cicero's views on aging, although progressive, were largely ignored in a world that would be dominated by Aristotle's medical writings for centuries. Subsequent physicians during the time of Roman Empire such as Galen and Celsus simply repeated the beliefs of Aristotle while adding few new contributions to medical knowledge.
+Byzantine physicians sometimes wrote of dementia, and it is recorded that at least seven emperors whose lifespans exceeded the age of 70 displayed signs of cognitive decline. In Constantinople, there existed special hospitals to house those diagnosed with dementia or insanity, but these naturally did not apply to the emperors who were above the law and whose health conditions could not be publicly acknowledged.
+Otherwise, little is recorded about senile dementia in Western medical texts for nearly 1700 years. One of the few references to it was the 13th-century friar Roger Bacon, who viewed old age as divine punishment for original sin. Although he repeated existing Aristotelian beliefs that dementia was inevitable after a long enough lifespan, he did make the extremely progressive assertion that the brain was the center of memory and thought rather than the heart.
+Poets, playwrights, and other writers however made frequent allusions to the loss of mental function in old age. Shakespeare notably mentions it in some of his plays including Hamlet and King Lear.
+Dementia in the elderly was called senile dementia or senility, and viewed as a normal and somewhat inevitable aspect of growing old, rather than as being caused by any specific diseases. At the same time, in 1907, a specific organic dementing process of early onset, called Alzheimer's disease, had been described. This was associated with particular microscopic changes in the brain, but was seen as a rare disease of middle age because the first patient diagnosed with it was a 50-year-old woman.
+During the 19th century, doctors generally came to believe that dementia in the elderly was the result of cerebral atherosclerosis, although opinions fluctuated between the idea that it was due to blockage of the major arteries supplying the brain or small strokes within the vessels of the cerebral cortex. This viewpoint remained conventional medical wisdom through the first half of the 20th century, but by the 1960s was increasingly challenged as the link between neurodegenerative diseases and age-related cognitive decline was established. By the 1970s, the medical community maintained that vascular dementia was rarer than previously thought and Alzheimer's disease caused the vast majority of mental impairments in old age. More recently however, it is believed that dementia is often a mixture of both conditions.
+Much like other diseases associated with aging, dementia was comparatively rare before the 20th century, due to the fact that it is most common in people over 80, and such lifespans were uncommon in preindustrial times. Conversely, syphilitic dementia was widespread in the developed world until largely being eradicated by the use of penicillin after WWII. With significant increases in life expectancy following WWII, the number of people in developed countries over 65 started rapidly climbing. While elderly persons constituted an average of 3–5% of the population prior to 1945, by 2010 it was common in many countries to have 10–14% of people over 65 and in Germany and Japan, this figure exceeded 20%. Public awareness of Alzheimer's Disease was greatly increased in 1994 when former US president Ronald Reagan announced that he had been diagnosed with the condition.
+By the period of 1913–20, schizophrenia had been well-defined in a way similar to today, and also the term dementia praecox had been used to suggest the development of senile-type dementia at a younger age. Eventually the two terms fused, so that until 1952 physicians used the terms dementia praecox (precocious dementia) and schizophrenia interchangeably. The term precocious dementia for a mental illness suggested that a type of mental illness like schizophrenia (including paranoia and decreased cognitive capacity) could be expected to arrive normally in all persons with greater age (see paraphrenia). After about 1920, the beginning use of dementia for what is now understood as schizophrenia and senile dementia helped limit the word's meaning to "permanent, irreversible mental deterioration". This began the change to the more recognizable use of the term today.
+In 1976, neurologist Robert Katzmann suggested a link between senile dementia and Alzheimer's disease.[130] Katzmann suggested that much of the senile dementia occurring (by definition) after the age of 65, was pathologically identical with Alzheimer's disease occurring before age 65 and therefore should not be treated differently. He noted that "senile dementia" not being considered a disease, but rather part of aging, was keeping millions of aged patients experiencing what otherwise was identical with Alzheimer's disease from being diagnosed as having a disease process, rather than simply considered as aging normally.[131] Katzmann thus suggested that Alzheimer's disease, if taken to occur over age 65, is actually common, not rare, and was the fourth- or 5th-leading cause of death, even though rarely reported on death certificates in 1976.
+This suggestion opened the view that dementia is never normal, and must always be the result of a particular disease process, and is not part of the normal healthy aging process, per se. The ensuing debate led for a time to the proposed disease diagnosis of "senile dementia of the Alzheimer's type" (SDAT) in persons over the age of 65, with "Alzheimer's disease" diagnosed in persons younger than 65 who had the same pathology. Eventually, however, it was agreed that the age limit was artificial, and that Alzheimer's disease was the appropriate term for persons with the particular brain pathology seen in this disorder, regardless of the age of the person with the diagnosis. A helpful finding was that although the incidence of Alzheimer's disease increased with age (from 5–10% of 75-year-olds to as many as 40–50% of 90-year-olds), there was no age at which all persons developed it, so it was not an inevitable consequence of aging, no matter how great an age a person attained. Evidence of this is shown by numerous documented supercentenarians (people living to 110 or more) that experienced no serious cognitive impairment. There is some evidence that dementia is most likely to develop between the ages of 80 and 84 and individuals who pass that point without being affected have a lower chance of developing it. Women account for a larger percentage of dementia cases than men, although this can be attributed to their longer overall lifespan and greater odds of attaining an age where the condition is likely to occur.[citation needed]
+Also, after 1952, mental illnesses like schizophrenia were removed from the category of organic brain syndromes, and thus (by definition) removed from possible causes of "dementing illnesses" (dementias). At the same, however, the traditional cause of senile dementia – "hardening of the arteries" – now returned as a set of dementias of vascular cause (small strokes). These were now termed multi-infarct dementias or vascular dementias.
+In the 21st century, a number of other types of dementia have been differentiated from Alzheimer's disease and vascular dementias (these two being the most common types). This differentiation is on the basis of pathological examination of brain tissues, by symptomatology, and by different patterns of brain metabolic activity in nuclear medical imaging tests such as SPECT and PETscans of the brain. The various forms of dementia have differing prognoses (expected outcome of illness), and also differing sets of epidemiologic risk factors. The causal etiology of many of them, including Alzheimer's disease, remains unclear, although many theories exist such as accumulation of protein plaques as part of normal aging, inflammation (either from bacterial pathogens or exposure to toxic chemicals), inadequate blood sugar, and traumatic brain injury.[citation needed]
+Society and culture[edit]
+
+
+
+
+Old woman from Ethiopia
+
+
+The societal cost of dementia is high, especially for family caregivers.[132]
+Many countries consider the care of people living with dementia a national priority and invest in resources and education to better inform health and social service workers, unpaid caregivers, relatives, and members of the wider community. Several countries have national plans or strategies.[133] In these national plans, there is recognition that people can live well with dementia for a number of years, as long as there is the right support and timely access to a diagnosis. The former British Prime Minister David Cameron has described dementia as being a "national crisis", affecting 800,000 people in the United Kingdom.[134]
+In the United Kingdom, as with all mental disorders, where a person with dementia could potentially be a danger to themselves or others, they can be detained under the Mental Health Act 1983 for the purposes of assessment, care and treatment. This is a last resort, and usually avoided if the patient has family or friends who can ensure care.
+Driving with dementia could lead to severe injury or even death to self and others. Doctors should advise appropriate testing on when to quit driving.[135] The United Kingdom DVLA (Driver & Vehicle Licensing Agency) states that people with dementia who specifically have poor short term memory, disorientation, or lack of insight or judgment are not fit to drive, and in these instances the DVLA must be informed so that the driving licence can be revoked. They do, however, acknowledge low-severity cases and those with an early diagnosis, and those drivers may be permitted to drive pending medical reports.
+Many support networks are available to people with dementia and their families and caregivers. Several charitable organisations aim to raise awareness and campaign for the rights of people living with dementia. There is also support and guidance on assessing testamentary capacity in people who have dementia.[136]
+In 2015, Atlantic Philanthropies announced a $177 million gift aimed at understanding and reducing dementia. The recipient was Global Brain Health Institute, a program co-led by the University of California, San Francisco and Trinity College Dublin. This donation is the largest non-capital grant Atlantic has ever made, and the biggest philanthropic donation in Irish history.[137]
+References[edit]
+
+
+
+^ "Dementia". MedlinePlus. U.S. National Library of Medicine. 14 May 2015. Archived from the original on 12 May 2015. Retrieved 27 May 2015. Dementia Also called: Senility 
+^ a b c d e f g h i j k l m n o p q r s t u "Dementia Fact sheet N°362". who.int. April 2012. Archived from the original on 18 March 2015. Retrieved 28 November 2014. 
+^ a b c d e f g h i j Burns, A; Iliffe, S (5 February 2009). "Dementia". BMJ (Clinical research ed.). 338: b75. doi:10.1136/bmj.b75. PMID 19196746. 
+^ a b "Dementia diagnosis and assessment" (PDF). pathways.nice.org.uk. Archived (PDF) from the original on 5 December 2014. Retrieved 30 November 2014. 
+^ Hales, Robert E. (2008). The American Psychiatric Publishing Textbook of Psychiatry. American Psychiatric Pub. p. 311. ISBN 9781585622573. Archived from the original on 2017-09-08. 
+^ a b c Livingston, G; Sommerlad, A; Orgeta, V; Costafreda, SG; Huntley, J; Ames, D; Ballard, C; Banerjee, S; Burns, A; Cohen-Mansfield, J; Cooper, C; Fox, N; Gitlin, LN; Howard, R; Kales, HC; Larson, EB; Ritchie, K; Rockwood, K; Sampson, EL; Samus, Q; Schneider, LS; Selbæk, G; Teri, L; Mukadam, N (19 July 2017). "Dementia prevention, intervention, and care". Lancet. doi:10.1016/S0140-6736(17)31363-6. PMID 28735855. 
+^ a b c Kavirajan, H; Schneider, LS (September 2007). "Efficacy and adverse effects of cholinesterase inhibitors and memantine in vascular dementia: a meta-analysis of randomised controlled trials". The Lancet. Neurology. 6 (9): 782–92. doi:10.1016/s1474-4422(07)70195-3. PMID 17689146. 
+^ a b c d Commission de la transparence (June 2012). "Médicaments de la maladie d'Alzheimer : à éviter" [Drugs for Alzheimer's disease: best avoided. No therapeutic advantage]. Prescrire Int. 21 (128): 150. PMID 22822592. 
+^ a b GBD 2015 Disease and Injury Incidence and Prevalence, Collaborators. (8 October 2016). "Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015". Lancet. 388 (10053): 1545–1602. doi:10.1016/S0140-6736(16)31678-6. PMC 5055577 . PMID 27733282. 
+^ GBD 2015 Mortality and Causes of Death, Collaborators. (8 October 2016). "Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015". Lancet. 388 (10053): 1459–1544. doi:10.1016/s0140-6736(16)31012-1. PMC 5388903 . PMID 27733281. 
+^ a b c d e f g h i j k l m n o p q r s t u v Solomon, Andrew E. Budson, Paul R. (2011). Memory loss : a practical guide for clinicians. [Edinburgh?]: Elsevier Saunders. ISBN 9781416035978. 
+^ Gauthier, Serge (2006). Clinical diagnosis and management of Alzheimer's disease (3rd ed.). Abingdon, Oxon: Informa Healthcare. pp. 53–54. ISBN 9780203931714. Archived from the original on 2016-05-03. 
+^ a b Loy, CT; Schofield, PR; Turner, AM; Kwok, JB (1 March 2014). "Genetics of dementia". Lancet. 383 (9919): 828–40. doi:10.1016/s0140-6736(13)60630-3. PMID 23927914. 
+^ Association, American Psychiatric (2013). Diagnostic and statistical manual of mental disorders : DSM-5 (5th ed.). Washington, D.C.: American Psychiatric Association. pp. 591–603. ISBN 9780890425541. 
+^ "Dementia overview" (PDF). pathways.nice.org.uk. Archived (PDF) from the original on 5 December 2014. Retrieved 30 November 2014. 
+^ Birks, J (25 January 2006). "Cholinesterase inhibitors for Alzheimer's disease". The Cochrane database of systematic reviews (1): CD005593. doi:10.1002/14651858.CD005593. PMID 16437532. 
+^ Rolinski, M; Fox, C; Maidment, I; McShane, R (14 March 2012). "Cholinesterase inhibitors for dementia with Lewy bodies, Parkinson's disease dementia and cognitive impairment in Parkinson's disease". The Cochrane database of systematic reviews. 3: CD006504. doi:10.1002/14651858.CD006504.pub2. PMID 22419314. 
+^ a b Forbes, Dorothy; Forbes, Scott C.; Blake, Catherine M.; Thiessen, Emily J.; Forbes, Sean (2015-04-15). "Exercise programs for people with dementia". The Cochrane Database of Systematic Reviews (4): CD006489. doi:10.1002/14651858.CD006489.pub4. ISSN 1469-493X. PMID 25874613. 
+^ National Institute for Health and Clinical Excellence. "Low-dose antipsychotics in people with dementia". nice.org.uk. Archived from the original on 5 December 2014. Retrieved 29 November 2014. 
+^ "Information for Healthcare Professionals: Conventional Antipsychotics". fda.gov. 2008-06-16. Archived from the original on 29 November 2014. Retrieved 29 November 2014. 
+^ a b c Larson, EB; Yaffe, K; Langa, KM (12 December 2013). "New insights into the dementia epidemic". The New England Journal of Medicine. 369 (24): 2275–7. doi:10.1056/nejmp1311405. PMC 4130738 . PMID 24283198. 
+^ Umphred, Darcy (2012). Neurological rehabilitation (6th ed.). St. Louis, Mo.: Elsevier Mosby. p. 838. ISBN 9780323075862. Archived from the original on 2016-04-22. 
+^ a b GBD 2013 Mortality and Causes of Death, Collaborators (17 December 2014). "Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013". Lancet. 385 (9963): 117–71. doi:10.1016/S0140-6736(14)61682-2. PMC 4340604 . PMID 25530442. 
+^ "Dementia – Signs and Symptoms". American Speech Language Hearing Association. 
+^ What is vascular dementia? Archived 2013-10-19 at the Wayback Machine. Alzheimer's Society.
+^ Lee AY (2011). "Vascular dementia". Chonnam Med J. 47 (2): 66–71. doi:10.4068/cmj.2011.47.2.66. PMC 3214877 . PMID 22111063. 
+^ "Sight, perception and hallucinations in dementia" (PDF). Alzheimer’s Society. October 2015. Archived (PDF) from the original on 13 August 2017. Retrieved 4 November 2015. 
+^ Cerejeira J, Lagarto L, Mukaetova-Ladinska EB (2012). "Behavioral and psychological symptoms of dementia". Front Neurol. 3: 73. doi:10.3389/fneur.2012.00073. PMC 3345875 . PMID 22586419. 
+^ Calleo J, Stanley M (2008). "Anxiety Disorders in Later Life Differentiated Diagnosis and Treatment Strategies". Psychiatric Times. 25 (8). Archived from the original on 2009-09-04. 
+^ Geddes, John; Gelder, Michael G.; Mayou, Richard (2005). Psychiatry. Oxford [Oxfordshire]: Oxford University Press. p. 141. ISBN 0-19-852863-9. OCLC 56348037. 
+^ Shub, Denis; Kunik, Mark E (April 16, 2009). "Psychiatric Comorbidity in Persons With Dementia: Assessment and Treatment Strategies". Psychiatric Times. 26 (4). Archived from the original on April 27, 2009. 
+^ Erickson, Karla (2013-09-27). How We Die Now: Intimacy and the Work of Dying. Temple University Press. pp. 109–111. ISBN 9781439908235. Archived from the original on 2016-12-23. 
+^ Hussain, M; Berger, M; Eckenhoff, RG; Seitz, DP (2014). "General anesthetic and the risk of dementia in elderly patients: current insights". Clinical interventions in aging. 9: 1619–28. doi:10.2147/CIA.S49680. PMC 4181446 . PMID 25284995. 
+^ a b Iadecola, C (Nov 20, 2013). "The pathobiology of vascular dementia". Neuron. 80 (4): 844–66. doi:10.1016/j.neuron.2013.10.008. PMC 3842016 . PMID 24267647. 
+^ Schofield P (2005). "Dementia associated with toxic causes and autoimmune disease". Int Psychogeriatr (Review). 17 Suppl 1: S129–47. doi:10.1017/s1041610205001997. PMID 16240488. 
+^ a b Rosenbloom MH, Smith S, Akdal G, Geschwind MD (2009). "Immunologically mediated dementias". Curr Neurol Neurosci Rep (Review). 9 (5): 359–67. doi:10.1007/s11910-009-0053-2. PMC 2832614 . PMID 19664365. 
+^ Aarsland D, Kurz MW (2010). "The epidemiology of dementia associated with Parkinson disease". J Neurol Sci (Review). 289 (1–2): 18–22. doi:10.1016/j.jns.2009.08.034. PMID 19733364. 
+^ Galvin JE; et al. (2006). "Clinical phenotype of Parkinson disease dementia". Neurology. 67 (9): 1605–11. doi:10.1212/01.wnl.0000242630.52203.8f. PMID 17101891. 
+^ Lamont P (2004). "Cognitive Decline in a Young Adult with Pre-Existent Developmental Delay – What the Adult Neurologist Needs to Know". Practical Neurology. 4 (2): 70–87. doi:10.1111/j.1474-7766.2004.02-206.x. Archived from the original on 2008-10-07. 
+^ Langa KM, Levine DA (2014). "The diagnosis and management of mild cognitive impairment: a clinical review". JAMA. 312 (23): 2551–61. doi:10.1001/jama.2014.13806. PMC 4269302 . PMID 25514304. 
+^ Neuropathology Group. Medical Research Council Cognitive Function and Aging Study (2001). "Pathological correlates of late-onset dementia in a multicentre, community-based population in England and Wales. Neuropathology Group of the Medical Research Council Cognitive Function and Ageing Study (MRC CFAS)". Lancet. 357 (9251): 169–75. doi:10.1016/S0140-6736(00)03589-3. PMID 11213093. 
+^ Wakisaka Y; et al. (2003). "Age-associated prevalence and risk factors of Lewy body pathology in a general population: the Hisayama study". Acta Neuropathol. 106 (4): 374–82. doi:10.1007/s00401-003-0750-x. PMID 12904992. 
+^ White L; et al. (2002). "Cerebrovascular pathology and dementia in autopsied Honolulu-Asia Aging Study participants". Ann N Y Acad Sci. 977 (9): 9–23. Bibcode:2002NYASA.977....9W. doi:10.1111/j.1749-6632.2002.tb04794.x. PMID 12480729. CS1 maint: Explicit use of et al. (link)
+^ Ratnavalli E; et al. (2002). "The prevalence of frontotemporal dementia". Neurology. 58 (11): 1615–21. doi:10.1212/WNL.58.11.1615. PMID 12058088. 
+^ McKee A; et al. (2009). "Chronic Traumatic Encephalopathy in Athletes: Progressive Tauopathy following Repetitive Head Injury". J Neuropathol Exp Neurol. 68 (7): 709–735. doi:10.1097/NEN.0b013e3181a9d503. PMC 2945234 . PMID 19535999. 
+^ Lin, J.S.; O'Connor, E.; Rossom, R.C.; Perdue, L.A.; Eckstrom, E. (22 October 2013). "Screening for Cognitive Impairment in Older Adults: A Systematic Review for the U.S. Preventive Services Task Force". Annals of Internal Medicine. 159 (9): 601–12. doi:10.7326/0003-4819-159-9-201311050-00730. PMID 24145578. 
+^ "Dementia definition". MDGuidelines. Reed Group. Archived from the original on 2009-06-29. Retrieved 2009-06-04. 
+^ Caplan, J.P.; & Rabinowitz, T. (2010). "An approach to the patient with cognitive impairment: Delirium and dementia". The Medical clinics of North America. 94 (6): 1103–16, ix. doi:10.1016/j.mcna.2010.08.004. PMID 20951272. 
+^ Gleason OC (2003). "Delirium". American Family Physician. 67 (5): 1027–34. PMID 12643363. Archived from the original on 2007-09-29. 
+^ Worrall, L. and Hickson, L. M. (2003). "Implications for theory, practice, and policy", pp. 297–298 in Linda E. Worrall & Louise M. Hickson (Eds.). Communication disability in aging: from prevention to intervention. Clifton Park, NY: Delmar Learning
+^ Boustani, M; Peterson, B; Hanson, L; Harris, R; & Lohr, K; U.S. Preventive Services Task Force (3 June 2003). "Screening for dementia in primary care: a summary of the evidence for the U.S. Preventive Services Task Force". Ann Intern Med. 138 (11): 927–37. doi:10.7326/0003-4819-138-11-200306030-00015. PMID 12779304. Archived from the original on 1 May 2007. 
+^ a b Cullen B, O'Neill B, Evans JJ, Coen RF, Lawlor BA (2007). "A review of screening tests for cognitive impairment". Journal of Neurology, Neurosurgery, and Psychiatry. 78 (8): 790–9. doi:10.1136/jnnp.2006.095414. PMC 2117747 . PMID 17178826. 
+^ Sager MA, Hermann BP, La Rue A, Woodard JL (2006). "Screening for dementia in community-based memory clinics" (PDF). Wisconsin Medical Journal. 105 (7): 25–9. PMID 17163083. Archived from the original (PDF) on 2010-06-26. 
+^ Fleisher, A; Sowell, B; Taylor, C; Gamst, A; Petersen, R; Thal, L; Alzheimer's Disease Cooperative Study (2007). "Clinical predictors of progression to Alzheimer disease in amnestic mild cognitive impairment". Neurology. 68 (19): 1588–95. doi:10.1212/01.wnl.0000258542.58725.4c. PMID 17287448. 
+^ Karlawish, J; Clark, C (2003). "Diagnostic evaluation of elderly patients with mild memory problems". Ann Intern Med. 138 (5): 411–9. doi:10.7326/0003-4819-138-5-200303040-00011. PMID 12614094. Archived from the original on 2007-05-18. 
+^ Creavin, Sam T.; Wisniewski, Susanna; Noel-Storr, Anna H.; Trevelyan, Clare M.; Hampton, Thomas; Rayment, Dane; Thom, Victoria M.; Nash, Kirsty J. E.; Elhamoui, Hosam (2016-01-13). "Mini-Mental State Examination (MMSE) for the detection of dementia in clinically unevaluated people aged 65 and over in community and primary care populations". The Cochrane Database of Systematic Reviews (1): CD011145. doi:10.1002/14651858.CD011145.pub2. ISSN 1469-493X. PMID 26760674. 
+^ Teng EL, Chui HC (1987). "The Modified Mini-Mental State (3MS) examination". The Journal of Clinical Psychiatry. 48 (8): 314–8. PMID 3611032. 
+^ Teng EL; Hasegawa K; Homma A; et al. (1994). "The Cognitive Abilities Screening Instrument (CASI): a practical test for cross-cultural epidemiological studies of dementia". International Psychogeriatrics / IPA. 6 (1): 45–58; discussion 62. doi:10.1017/S1041610294001602. PMID 8054493. 
+^ Tombaugh, T.N.T.N (2004). "Trail Making test A and B: Normative Data Stratified by Age and Education". Archives of Clinical Neuropsychology. 19 (2): 203–214. doi:10.1016/S0887-6177(03)00039-8. PMID 15010086. 
+^ Royall, D; Cordes, J.; Polk, M. (1998). "CLOX: an executive clock drawing task". J Neurol Neurosurg Psychiatry. 64 (5): 588–94. doi:10.1136/jnnp.64.5.588. PMC 2170069 . PMID 9598672. 
+^ Nasreddine, ZS; Phillips, NA; Bédirian, V; Charbonneau, S; Whitehead, V; Collin, I; Cummings, JL; Chertkow, H (Apr 2005). "The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment". Journal of the American Geriatrics Society. 53 (4): 695–9. doi:10.1111/j.1532-5415.2005.53221.x. PMID 15817019. 
+^ Jorm AF (2004). "The Informant Questionnaire on cognitive decline in the elderly (IQCODE): a review". International Psychogeriatrics / IPA. 16 (3): 275–93. doi:10.1017/S1041610204000390. PMID 15559753. 
+^ Harrison, Jennifer K; Stott, David J; McShane, Rupert; Noel-Storr, Anna H; Swann-Price, Rhiannon S; Quinn, Terry J (2016-11-21). "Using a structured questionnaire (the IQCODE) to detect individuals who may go on to develop dementia". The Cochrane Database of Systematic Reviews. doi:10.1002/14651858.cd011333.pub2. Archived from the original on 2016-11-26. url=http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD011333.pub2/abstract%7C
+^ Bonte, F.J.; Harris, T.S.; Hynan, L.S.; Bigio, E.H.; White, III, C.L. (2006). "Tc-99m HMPAO SPECT in the differential diagnosis of the dementias with histopathologic confirmation". Clinical Nuclear Medicine. 31 (7): 376–8. doi:10.1097/01.rlu.0000222736.81365.63. PMID 16785801. 
+^ Dougall, N.J.; Bruggink, S.; Ebmeier, K.P. (2004). "Systematic review of the diagnostic accuracy of 99mTc-HMPAO-SPECT in dementia". The American Journal of Geriatric Psychiatry. 12 (6): 554–70. doi:10.1176/appi.ajgp.12.6.554. PMID 15545324. 
+^ Abella HA (June 16, 2009). "Report from SNM: PET imaging of brain chemistry bolsters characterization of dementias". Diagnostic Imaging. 
+^ Lampit, A; Hallock, H; Valenzuela, M (November 2014). "Computerized cognitive training in cognitively healthy older adults: a systematic review and meta-analysis of effect modifiers". PLOS Medicine. 11 (11): e1001756. doi:10.1371/journal.pmed.1001756. PMC 4236015 . PMID 25405755. 
+^ Schneider, LS; Mangialasche, F; Andreasen, N; Feldman, H; Giacobini, E; Jones, R; Mantua, V; Mecocci, P; Pani, L; Winblad, B; Kivipelto, M (March 2014). "Clinical trials and late-stage drug development for Alzheimer's disease: an appraisal from 1984 to 2014". Journal of internal medicine. 275 (3): 251–83. doi:10.1111/joim.12191. PMC 3956752 . PMID 24605808. 
+^ Vandepitte, S; Van Den Noortgate, N; Putman, K; Verhaeghe, S; Verdonck, C; Annemans, L (December 2016). "Effectiveness of respite care in supporting informal caregivers of persons with dementia: a systematic review". International journal of geriatric psychiatry. 31 (12): 1277–1288. doi:10.1002/gps.4504. PMID 27245986. 
+^ Woods, B; Spector, A; Jones, C; Orrell, M; Davies, S (Apr 18, 2005). "Reminiscence therapy for dementia". The Cochrane database of systematic reviews (2): CD001120. doi:10.1002/14651858.CD001120.pub2. PMID 15846613. 
+^ Vernooij-Dassen, M; Draskovic, I; McCleery, J; Downs, M (Nov 9, 2011). "Cognitive reframing for carers of people with dementia". The Cochrane database of systematic reviews (11): CD005318. doi:10.1002/14651858.CD005318.pub2. PMID 22071821. 
+^ Neal, M; Briggs, M (2003). "Validation therapy for dementia". The Cochrane database of systematic reviews (3): CD001394. doi:10.1002/14651858.CD001394. PMID 12917907. 
+^ Woods, B; Aguirre, E; Spector, AE; Orrell, M (Feb 15, 2012). "Cognitive stimulation to improve cognitive functioning in people with dementia". The Cochrane database of systematic reviews. 2: CD005562. doi:10.1002/14651858.CD005562.pub2. PMID 22336813. 
+^ Barker, Philip (2003). Psychiatric and mental health nursing: the craft of caring. London: Arnold. ISBN 0-340-81026-2. OCLC 53373798. 
+^ Weitzel T; Robinson S; Barnes MR; et al. (2011). "The special needs of the hospitalized patient with dementia". Medsurg Nurs. 20 (1): 13–8; quiz 19. PMID 21446290. 
+^ Cunningham, C (2006). "Understanding challenging behaviour in patients with dementia". Nursing standard. 20 (47): 42–5. doi:10.7748/ns2006.08.20.47.42.c4477. PMID 16913375. 
+^ van der Steen, Jenny T.; van Soest-Poortvliet, Mirjam C.; van der Wouden, Johannes C.; Bruinsma, Manon S.; Scholten, Rob Jpm; Vink, Annemiek C. (2017). "Music-based therapeutic interventions for people with dementia". The Cochrane Database of Systematic Reviews. 5: CD003477. doi:10.1002/14651858.CD003477.pub3. ISSN 1469-493X. PMID 28462986. 
+^ Rafii, M. S.; Aisen, P. S. (2009). "Recent developments in Alzheimer's disease therapeutics". BMC medicine. 7: 1–4. doi:10.1186/1741-7015-7-7. PMC 2649159 . 
+^ a b Lleó A, Greenberg SM, Growdon JH (2006). "Current pharmacotherapy for Alzheimer's disease". Annu. Rev. Med. 57 (1): 513–33. doi:10.1146/annurev.med.57.121304.131442. PMID 16409164. 
+^ Bond, M; Rogers, G; Peters, J; Anderson, R; Hoyle, M; Miners, A; Moxham, T; Davis, S; Thokala, P; Wailoo, A; Jeffreys, M; Hyde, C (2012). "The effectiveness and cost-effectiveness of donepezil, galantamine, rivastigmine and memantine for the treatment of Alzheimer's disease (review of Technology Appraisal No. 111): a systematic review and economic model". Health technology assessment (Winchester, England). 16 (21): 1–470. doi:10.3310/hta16210. PMID 22541366. 
+^ Rodda, J.; Morgan, S.; Walker, Z. (October 2009). "Are cholinesterase inhibitors effective in the management of the behavioral and psychological symptoms of dementia in Alzheimer's disease? A systematic review of randomized, placebo-controlled trials of donepezil, rivastigmine and galantamine". International psychogeriatrics / IPA. 21 (5): 813–24. doi:10.1017/S1041610209990354. PMID 19538824. 
+^ Birks, J (25 January 2006). "Cholinesterase inhibitors for Alzheimer's disease". Cochrane Database of Systematic Reviews (1): CD005593. doi:10.1002/14651858.CD005593. PMID 16437532. 
+^ Gill S. S., Anderson, G. M., Fischer, H.D., Li, P., Normand, S. T. & Rochon, P. A. (2009). "Syncope and its consequences in patients with dementia receiving cholinesterase inhibitors: A population-based cohort study". Archives of Internal Medicine. 169 (9): 867–873. doi:10.1001/archinternmed.2009.43. PMID 19433698. CS1 maint: Uses authors parameter (link)
+^ AMDA – The Society for Post-Acute and Long-Term Care Medicine (February 2014), "Ten Things Physicians and Patients Should Question", Choosing Wisely: an initiative of the ABIM Foundation, AMDA – The Society for Post-Acute and Long-Term Care Medicine, archived from the original on 12 April 2015, retrieved 20 April 2015 
+^ a b c d American Geriatrics Society. "Five Things Physicians and Patients Should Question". Choosing Wisely: an initiative of the ABIM Foundation. American Geriatrics Society. Archived from the original on September 1, 2013. Retrieved August 1, 2013. 
+^ American Psychiatric Association (September 2013), "Five Things Physicians and Patients Should Question", Choosing Wisely: an initiative of the ABIM Foundation, American Psychiatric Association, archived from the original on 3 December 2013, retrieved 30 December 2013 
+^ Declercq, T.; Petrovic, M.; Azermai, M.; Vander Stichele, R.; De Sutter, A.I.; van Driel, M.L.; Christiaens, T. (28 March 2013). "Withdrawal versus continuation of chronic antipsychotic drugs for behavioural and psychological symptoms in older people with dementia". The Cochrane database of systematic reviews. 3: CD007726. doi:10.1002/14651858.CD007726.pub2. PMID 23543555. 
+^ Bond, M.; Rogers, G.; Peters, J.; Anderson, R.; Hoyle, M.; Miners, A.; Moxham, T.; Davis, S.; Thokala, P.; Wailoo, A.; Jeffreys, M.; Hyde, C. (2012). "The effectiveness and cost-effectiveness of donepezil, galantamine, rivastigmine and memantine for the treatment of Alzheimer's disease (review of Technology Appraisal No. 111): a systematic review and economic model". Health technology assessment (Winchester, England). 16 (21): 1–470. doi:10.3310/hta16210. PMID 22541366. 
+^ Raina P; Santaguida P; Ismaila A; et al. (2008). "Effectiveness of cholinesterase inhibitors and memantine for treating dementia: evidence review for a clinical practice guideline". Annals of Internal Medicine. 148 (5): 379–97. doi:10.7326/0003-4819-148-5-200803040-00009. PMID 18316756. Archived from the original on 2009-02-27. 
+^ Atri A, Shaughnessy LW, Locascio JJ, Growdon JH (2008). "Long-term Course and Effectiveness of Combination Therapy in Alzheimer's Disease". Alzheimer Disease and Associated Disorders. 22 (3): 209–21. doi:10.1097/WAD.0b013e31816653bc. PMC 2718545 . PMID 18580597. 
+^ Jones, HE; Joshi, A; Shenkin, S; Mead, GE (July 2016). "The effect of treatment with selective serotonin reuptake inhibitors in comparison to placebo in the progression of dementia: a systematic review and meta-analysis". Age and ageing. 45 (4): 448–56. doi:10.1093/ageing/afw053. PMID 27055878. 
+^ Bains J, Birks JS, Dening TR (2002). Dening, Tom, ed. "The efficacy of antidepressants in the treatment of depression in dementia". Cochrane Database of Systematic Reviews (4): CD003944. doi:10.1002/14651858.CD003944. PMID 12519625. CS1 maint: Multiple names: authors list (link)
+^ a b c d McCleery, Jenny; Cohen, Daniel A.; Sharpley, Ann L (2016-11-16). "Pharmacotherapies for sleep disturbances in dementia". Cochrane Database of Systematic Reviews (11). doi:10.1002/14651858.CD009178.pub3. 
+^ American Geriatrics Society 2012 Beers Criteria Update Expert, Panel (April 2012). "American Geriatrics Society updated Beers Criteria for potentially inappropriate medication use in older adults". Journal of the American Geriatrics Society. 60 (4): 616–31. doi:10.1111/j.1532-5415.2012.03923.x. PMC 3571677 . PMID 22376048. 
+^ Lolk A, Gulmann NC (2006). "[Psychopharmacological treatment of behavioral and psychological symptoms in dementia]". Ugeskrift for Læger (in Danish). 168 (40): 3429–32. PMID 17032610. 
+^ Malouf, Reem; Evans, John Grimley (8 October 2008). "Folic acid with or without vitamin B12 for the prevention and treatment of healthy elderly and demented people". Cochrane Database of Systematic Reviews (4): CD004514. doi:10.1002/14651858.CD004514.pub2. PMID 18843658. 
+^ McGuinness, B; Craig, D; Bullock, R; Malouf, R; Passmore, P (8 July 2014). "Statins for the treatment of dementia". The Cochrane database of systematic reviews. 7: CD007514. doi:10.1002/14651858.CD007514.pub3. PMID 25004278. 
+^ Page, Amy; Potter, Kathleen; Clifford, Rhonda; McLachlan, Andrew J; Etherton-Beer, Christopher (2016-08-01). "Medication Appropriateness Tool for Comorbid Health conditions in Dementia (MATCH-D): Consensus recommendations from a multidisciplinary expert panel". Internal Medicine Journal. 46: 1189–1197. doi:10.1111/imj.13215. ISSN 1445-5994. Archived from the original on 2016-08-22. 
+^ Jongstra, Susan; Harrison, Jennifer K.; Quinn, Terry J.; Richard, Edo (1 November 2016). "Antihypertensive withdrawal for the prevention of cognitive decline". The Cochrane Database of Systematic Reviews. 11: CD011971. doi:10.1002/14651858.CD011971.pub2. ISSN 1469-493X. PMID 27802359. 
+^ a b c d e Hadjistavropoulos, T; Herr, K; Turk, DC; Fine, PG; Dworkin, RH; Helme, R; Jackson, K; et al. (2007). "An interdisciplinary expert consensus statement on assessment of pain in older persons". Clinical Journal of Pain. 23 (1 suppl): S1–43. doi:10.1097/AJP.0b013e31802be869. PMID 17179836. 
+^ a b Shega, J; Emanuel, L; Vargish, L; Levine, S.K.; Bursch, H; Herr, K; Karp, J.F.; Weiner, D.K. (2007). "Pain in persons with dementia: complex, common, and challenging". Journal of Pain. 8 (5): 373–8. doi:10.1016/j.jpain.2007.03.003. PMID 17485039. 
+^ Blyth, F; Cumming, M.R.; Mitchell, P; Wang, J.J. (2007). "Pain and falls in older people". European Journal of Pain. 11 (5): 564–71. doi:10.1016/j.ejpain.2006.08.001. PMID 17015026. 
+^ Brown, C. (2009). "Pain, aging and dementia: The crisis is looming, but are we ready?". British Journal of Occupational Therapy. 72 (8): 371–75. Archived from the original on 2013-10-19. 
+^ Herr, K; Bjoro, K; Decker, S; Wang (2006). "Tools for assessment of pain in nonverbal older adults with dementia: a state-of-the-science review". Journal of Pain and Symptom Management. 31 (2): 170–92. doi:10.1016/j.jpainsymman.2005.07.001. PMID 16488350. 
+^ Stolee, P; Hillier, LM; Esbaugh; Bol, N; McKellar, L; Gauthier, N; et al. (2005). "Instruments for the assessment of pain in older persons with cognitive impairment". Journal of the American geriatrics society. 53 (2): 319–26. doi:10.1111/j.1532-5415.2005.53121.x. PMID 15673359. 
+^ a b c American Geriatrics Society. "Five Things Physicians and Patients Should Question". Choosing Wisely: an initiative of the ABIM Foundation. American Geriatrics Society. Archived from the original on September 1, 2013. Retrieved August 1, 2013. 
+^ AMDA – The Society for Post-Acute and Long-Term Care Medicine (February 2014), "Five Things Physicians and Patients Should Question", Choosing Wisely: an initiative of the ABIM Foundation, AMDA – The Society for Post-Acute and Long-Term Care Medicine, archived from the original on 13 September 2014, retrieved 10 February 2013 
+^ AMDA – The Society for Post-Acute and Long-Term Care Medicine (February 2014), "Five Things Physicians and Patients Should Question", Choosing Wisely: an initiative of the ABIM Foundation, AMDA – The Society for Post-Acute and Long-Term Care Medicine, archived from the original on 13 September 2014, retrieved 10 February 2013 , which cites:
+
+Teno, Joan M.; Gozalo, Pedro L.; Mitchell, Susan L.; Kuo, Sylvia; Rhodes, Ramona L.; Bynum, Julie P. W.; Mor, Vincent (2012). "Does Feeding Tube Insertion and Its Timing Improve Survival?". Journal of the American Geriatrics Society. 60 (10): 1918–1921. doi:10.1111/j.1532-5415.2012.04148.x. ISSN 0002-8614. PMC 3470758 . 
+Palecek, Eric J.; Teno, Joan M.; Casarett, David J.; Hanson, Laura C.; Rhodes, Ramona L.; Mitchell, Susan L. (2010). "Comfort Feeding Only: A Proposal to Bring Clarity to Decision-Making Regarding Difficulty with Eating for Persons with Advanced Dementia". Journal of the American Geriatrics Society. 58 (3): 580–584. doi:10.1111/j.1532-5415.2010.02740.x. ISSN 0002-8614. PMC 2872797 . PMID 20398123. 
+Gillick, Muriel R.; Volandes, Angelo E. (2008). "The Standard of Caring: Why Do We Still Use Feeding Tubes in Patients With Advanced Dementia?". Journal of the American Medical Directors Association. 9 (5): 364–367. doi:10.1016/j.jamda.2008.03.011. ISSN 1525-8610. 
+
+
+^ Mitchell, SL; Kiely, DK; Lipsitz, LA (Feb 10, 1997). "The risk factors and impact on survival of feeding tube placement in nursing home residents with severe cognitive impairment". Archives of Internal Medicine. 157 (3): 327–32. doi:10.1001/archinte.1997.00440240091014. PMID 9040301. 
+^ Sampson, E.L.; Candy, B.; Jones, L. (15 April 2009). "Enteral tube feeding for older people with advanced dementia". Cochrane Database of Systematic Reviews (2): CD007209. doi:10.1002/14651858.CD007209.pub2. PMID 19370678. 
+^ Lockett MA, Templeton ML, Byrne TK, Norcross ED; Templeton; Byrne; Norcross (2002). "Percutaneous endoscopic gastrostomy complications in a tertiary-care center". Am Surg. 68 (2): 117–20. PMID 11842953. CS1 maint: Multiple names: authors list (link)
+^ Finocchiaro C; Galletti R; Rovera G; et al. (1997). "Percutaneous endoscopic gastrostomy: a long-term follow-up". Nutrition. 13 (6): 520–3. doi:10.1016/S0899-9007(97)00030-0. PMID 9263232. 
+^ Mitchell, SL; Mor, V; Gozalo, PL; Servadio, JL; Teno, JM (16 August 2016). "Tube Feeding in US Nursing Home Residents With Advanced Dementia, 2000–2014". JAMA. 316 (7): 769–70. doi:10.1001/jama.2016.9374. PMID 27533163. 
+^ Span, Paula (29 August 2016). "The Decline of Tube Feeding for Dementia Patients". NYT. Archived from the original on 3 September 2016. Retrieved 31 August 2016. 
+^ Viggo Hansen, N; Jørgensen, T; Ørtenblad, L (Oct 18, 2006). "Massage and touch for dementia". The Cochrane database of systematic reviews (4): CD004989. doi:10.1002/14651858.CD004989.pub2. PMID 17054228. 
+^ Forrester, LT; Maayan, N; Orrell, M; Spector, AE; Buchan, LD; Soares-Weiser, K (25 February 2014). "Aromatherapy for dementia". The Cochrane database of systematic reviews. 2 (2): CD003150. doi:10.1002/14651858.CD003150.pub2. PMID 24569873. 
+^ van den Elsen, GA; Ahmed, AI; Lammers, M; Kramers, C; Verkes, RJ; van der Marck, MA; Rikkert, MG (2014). "Efficacy and safety of medical cannabinoids in older subjects: a systematic review". Ageing Research Reviews. 14: 56–64. doi:10.1016/j.arr.2014.01.007. PMID 24509411. 
+^ Burckhardt, Marion; Herke, Max; Wustmann, Tobias; Watzke, Stefan; Langer, Gero; Fink, Astrid (2016-04-11). "Omega-3 fatty acids for the treatment of dementia". The Cochrane Database of Systematic Reviews. 4: CD009002. doi:10.1002/14651858.CD009002.pub3. ISSN 1469-493X. PMID 27063583. 
+^ Sampson EL, Ritchie CW, Lai R, Raven PW, Blanchard MR; Ritchie; Lai; Raven; Blanchard (2005). "A systematic review of the scientific evidence for the efficacy of a palliative care approach in advanced dementia". Int Psychogeriatr. 17 (1): 31–40. PMID 15945590. CS1 maint: Multiple names: authors list (link)
+^ Van den Block L (2014). "The need for integrating palliative care in ageing and dementia policies". Eur J Public Health. 24 (5): 705–6. doi:10.1093/eurpub/cku084. PMID 24997202. 
+^ "White paper defining optimal palliative care in older people with dementia: A Delphi study and recommendations from the European Association for Palliative Care". 
+^ Birch D, Draper J; Draper (2008). "A critical literature review exploring the challenges of delivering effective palliative care to older people with dementia". J Clin Nurs. 17 (9): 1144–63. doi:10.1111/j.1365-2702.2007.02220.x. PMID 18416791. 
+^ Murphy, Edel; Froggatt, Katherine; Connolly, Sheelah; O'Shea, Eamon; Sampson, Elizabeth L.; Casey, Dympna; Devane, Declan (2016-12-02). "Palliative care interventions in advanced dementia". The Cochrane Database of Systematic Reviews. 12: CD011513. doi:10.1002/14651858.CD011513.pub2. ISSN 1469-493X. PMID 27911489. 
+^ Mitchell, Gary; Agnelli, Joanne (2015). "Person-centred care for people with dementia: Kitwood reconsidered". Nursing Standard. 30 (7): 46–50. doi:10.7748/ns.30.7.46.s47. PMID 26463810. 
+^ Prince, M; Jackson, J (2009). "World Alzheimer Report 2009". Alzheimer's Disease International: 38. Archived from the original on 11 March 2012. Retrieved 11 March 2012. 
+^ a b Sadock, Benjamin James Sadock, Virginia Alcott (2008). Kaplan & Sadock's concise textbook of clinical psychiatry (3rd ed.). Philadelphia: Wolters Kluwer/Lippincott Williams & Wilkins. p. 52. ISBN 978-0-7817-8746-8. Archived from the original on 2016-05-03. 
+^ Prince, M.; Jackson, J. (2009). "World Alzheimer Report 2009". Alzheimer's Disease International: 36. Archived from the original on 11 March 2012. Retrieved 11 March 2012. 
+^ Berrios GE (1987). "Dementia during the seventeenth and eighteenth centuries: a conceptual history". Psychological Medicine. 17 (4): 829–37. doi:10.1017/S0033291700000623. PMID 3324141. 
+^ Berchtold, N.C. and Cotman, C.W. (1998) Evolution in the conceptu-alization of dementia and Alzheimer’s disease: Greco-Roman period to the 1960s. Neurobiol Aging 19, 173–189
+^ Kolata, Gina (June 17, 2010). "Drug Trials Test Bold Plan to Slow Alzheimer's". The New York Times. Archived from the original on April 9, 2012. Retrieved June 17, 2010. 
+^ Katzman, R. (1976). "The Prevalence and Malignancy of Alzheimer Disease: A Major Killer". Archives of Neurology. 33 (4): 217–218. doi:10.1001/archneur.1976.00500040001001. PMID 1259639. 
+^ Brodaty, Henry; Donkin, Marika (29 April 2017). "Family caregivers of people with dementia". Dialogues Clin Neurosci. 11 (2): 217–228. PMC 3181916 . PMID 19585957. 
+^ "National Alzheimer and Dementia Plans Planned Policies and Activities (PDF)" (PDF). London: Alzheimer's Disease International. April 2012. Archived (PDF) from the original on 2012-05-18. 
+^ Boseley, Sarah (26 March 2012). "Dementia research funding to more than double to £66m by 2015". The Guardian. London. ISSN 0261-3077. OCLC 60623878. Archived from the original on 20 October 2013. Retrieved 27 April 2012. 
+^ "Drivers with dementia a growing problem, MDs warn". CBC News, Canada. September 19, 2007. Archived from the original on October 2, 2007. 
+^ Thompson S.B.N. (2009). "Testamentary capacity and cognitive rehabilitation: implications for head-injured and neurologically impaired individuals". Journal of Cognitive Rehabilitation. 27: 11–13. 
+^ "Tackling dementia". Philanthropy magazine. Winter 2016. Archived from the original on 2016-02-11. 
+
+
+
+External links[edit]
+
+
+Classification
+
+V · T · D
+
+
+ICD-10: F00-F07
+ICD-9-CM: 290-294
+MeSH: D003704
+DiseasesDB: 29283
+
+
+
+
+
+External resources
+
+
+
+MedlinePlus: 000739
+eMedicine: article/793247
+Patient UK: Dementia
+
+
+
+
+
+
+ Media related to Dementia at Wikimedia Commons
+
+Dementia at DMOZ
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Diseases of the nervous system, primarily CNS (G04–G47, 323–349)
+
+
+
+Inflammation
+
+
+
+
+Brain
+
+
+
+Encephalitis
+
+Viral encephalitis
+Herpesviral encephalitis
+Limbic encephalitis
+Encephalitis lethargica
+
+
+Cavernous sinus thrombosis
+Brain abscess
+
+Amoebic
+
+
+
+
+
+
+
+Spinal cord
+
+
+
+Myelitis: Poliomyelitis
+Demyelinating disease
+
+Transverse myelitis
+
+
+Tropical spastic paraparesis
+Epidural abscess
+
+
+
+
+
+Both/either
+
+
+
+Encephalomyelitis
+
+Acute disseminated
+Myalgic
+
+
+Meningoencephalitis
+
+
+
+
+
+
+
+
+Brain/
+encephalopathy
+
+
+
+
+Degenerative
+
+
+
+
+Extrapyramidal and
+movement disorders
+
+
+
+Basal ganglia disease
+
+Parkinsonism
+
+PD
+Postencephalitic
+NMS
+
+
+PKAN
+Tauopathy
+
+PSP
+
+
+Striatonigral degeneration
+Hemiballismus
+HD
+OA
+
+
+
+
+Dyskinesia
+
+Dystonia
+
+Status dystonicus
+Spasmodic torticollis
+Meige's
+Blepharospasm
+
+
+Athetosis
+Chorea
+
+Choreoathetosis
+
+
+Myoclonus
+
+Myoclonic epilepsy
+
+
+Akathisia
+
+
+
+
+Tremor
+
+Essential tremor
+Intention tremor
+
+
+Restless legs
+Stiff person
+
+
+
+
+
+Dementia
+
+
+
+Tauopathy
+
+Alzheimer's
+
+Early-onset
+
+
+Primary progressive aphasia
+
+
+Frontotemporal dementia/Frontotemporal lobar degeneration
+
+Pick's
+Dementia with Lewy bodies
+
+
+Posterior cortical atrophy
+
+
+Vascular dementia
+
+
+
+
+
+Mitochondrial disease
+
+
+
+Leigh disease
+
+
+
+
+
+
+
+
+Demyelinating
+
+
+
+autoimmune
+
+Multiple sclerosis
+Neuromyelitis optica
+Schilder's disease
+
+
+hereditary
+
+Adrenoleukodystrophy
+Alexander
+Canavan
+Krabbe
+ML
+PMD
+VWM
+MFC
+CAMFAK syndrome
+
+
+Central pontine myelinolysis
+Marchiafava–Bignami disease
+Alpers' disease
+
+
+
+
+
+Episodic/
+paroxysmal
+
+
+
+
+Seizure/epilepsy
+
+
+
+Focal
+Generalised
+Status epilepticus
+Myoclonic epilepsy
+
+
+
+
+
+Headache
+
+
+
+Migraine
+
+Familial hemiplegic
+
+
+Cluster
+Tension
+
+
+
+
+
+Cerebrovascular
+
+
+
+TIA
+
+Amaurosis fugax
+Transient global amnesia
+Acute aphasia
+
+
+
+
+Stroke
+
+MCA
+ACA
+PCA
+Foville's
+Millard–Gubler
+Lateral medullary
+Weber's
+Lacunar stroke
+
+
+
+
+
+
+
+Sleep disorders
+
+
+
+Insomnia
+Hypersomnia
+Sleep apnea
+
+Obstructive
+Congenital central hypoventilation syndrome
+
+
+Narcolepsy
+Cataplexy
+Kleine–Levin
+Circadian rhythm sleep disorder
+
+Advanced sleep phase disorder
+Delayed sleep phase disorder
+Non-24-hour sleep–wake disorder
+Jet lag
+
+
+
+
+
+
+
+
+
+
+CSF
+
+
+
+Intracranial hypertension
+
+Hydrocephalus/NPH
+Choroid plexus papilloma
+Idiopathic intracranial hypertension
+
+
+Cerebral edema
+Intracranial hypotension
+
+
+
+
+
+Other
+
+
+
+Brain herniation
+Reye's
+Hepatic encephalopathy
+Toxic encephalopathy
+Hashimoto's encephalopathy
+
+
+
+
+
+
+
+
+Spinal cord/
+myelopathy
+
+
+
+Syringomyelia
+Syringobulbia
+Morvan's syndrome
+Vascular myelopathy
+
+Foix–Alajouanine syndrome
+
+
+Spinal cord compression
+
+
+
+
+
+Both/either
+
+
+
+
+Degenerative
+
+
+
+
+SA
+
+
+
+Friedreich's ataxia
+Ataxia-telangiectasia
+
+
+
+
+
+MND
+
+
+
+UMN only:
+
+Primary lateral sclerosis
+Pseudobulbar palsy
+Hereditary spastic paraplegia
+
+
+
+
+LMN only:
+
+Distal hereditary motor neuronopathies
+Spinal muscular atrophies
+
+SMA
+SMAX1
+SMAX2
+DSMA1
+Congenital DSMA
+SMA-PCH
+SMA-LED
+SMA-PME
+
+
+Progressive muscular atrophy
+Progressive bulbar palsy
+
+Fazio–Londe
+Infantile progressive bulbar palsy
+
+
+
+
+
+
+both:
+
+Amyotrophic lateral sclerosis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Mental and behavioral disorders (F 290–319)
+
+
+
+
+
+
+
+
+Neurological/symptomatic
+
+
+
+
+
+
+
+Dementia
+
+
+
+Mild cognitive impairment
+Alzheimer's disease
+Vascular dementia
+Pick's disease
+Creutzfeldt–Jakob disease
+Huntington's disease
+Parkinson's disease
+AIDS dementia complex
+Frontotemporal dementia
+Sundowning
+Wandering
+
+
+
+
+
+Autism spectrum
+
+
+
+Autism
+Asperger syndrome
+Savant syndrome
+PDD-NOS
+High-functioning autism
+
+
+
+
+
+Other
+
+
+
+Delirium
+Post-concussion syndrome
+Organic brain syndrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Psychoactive substances, substance abuse, drug abuse and substance-related disorders
+
+
+
+
+
+
+Intoxication/Drug overdose
+Physical dependence
+Substance dependence
+Rebound effect
+Double rebound
+Withdrawal
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schizophrenia, schizotypal and delusional
+
+
+
+
+
+
+
+Psychosis
+
+
+
+Schizoaffective disorder
+Schizophreniform disorder
+Brief reactive psychosis
+
+
+
+
+
+Schizophrenia
+
+
+
+Disorganized schizophrenia
+Paranoid schizophrenia
+Simple-type schizophrenia
+
+
+
+
+
+Delusional disorders
+
+
+
+Delusional disorder
+Folie à deux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mood (affective)
+
+
+
+
+
+
+Mania
+Bipolar disorder
+(Bipolar I
+Bipolar II
+Cyclothymia
+Bipolar NOS)
+Depression
+(Major depressive disorder
+Dysthymia
+Seasonal affective disorder
+Atypical depression
+Melancholic depression)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neurotic, stress-related and somatoform
+
+
+
+
+
+
+
+Anxiety disorder
+
+
+
+
+Phobia
+
+
+
+Agoraphobia
+Social anxiety
+Social phobia
+(Anthropophobia)
+Specific phobia
+(Claustrophobia)
+Specific social phobia
+
+
+
+
+
+Other
+
+
+
+Panic disorder
+Panic attack
+Generalized anxiety disorder
+OCD
+stress
+(Acute stress reaction
+PTSD)
+
+
+
+
+
+
+
+
+Adjustment disorder
+
+
+
+Adjustment disorder with depressed mood
+
+
+
+
+
+Somatic symptom
+disorder
+
+
+
+Somatization disorder
+Body dysmorphic disorder
+Hypochondriasis
+Nosophobia
+Da Costa's syndrome
+Psychalgia
+Conversion disorder
+(Ganser syndrome
+Globus pharyngis)
+Neurasthenia
+Mass psychogenic illness
+
+
+
+
+
+Dissociative disorder
+
+
+
+Dissociative identity disorder
+Psychogenic amnesia
+Fugue state
+Depersonalization disorder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physiological/physical behavioral
+
+
+
+
+
+
+
+Eating disorder
+
+
+
+Anorexia nervosa
+Bulimia nervosa
+Rumination syndrome
+NOS
+
+
+
+
+
+Nonorganic
+sleep disorders
+
+
+
+(Nonorganic hypersomnia
+Nonorganic insomnia)
+Parasomnia
+(REM sleep behavior disorder
+Night terror
+Nightmare)
+
+
+
+
+
+Sexual
+dysfunction
+
+
+
+sexual desire
+(Hypoactive sexual desire disorder
+Hypersexuality)
+
+
+sexual arousal
+(Female sexual arousal disorder)
+Erectile dysfunction
+
+
+orgasm
+(Anorgasmia
+Delayed ejaculation
+Premature ejaculation
+Sexual anhedonia)
+
+
+pain
+(Vaginismus
+Dyspareunia)
+
+
+
+
+
+Postnatal
+
+
+
+Postpartum depression
+Postpartum psychosis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adult personality and behavior
+
+
+
+
+
+
+
+Gender dysphoria
+
+
+
+Sexual maturation disorder
+Ego-dystonic sexual orientation
+Sexual relationship disorder
+Paraphilia
+(Voyeurism
+Fetishism)
+
+
+
+
+
+Other
+
+
+
+Personality disorder
+Impulse control disorder
+(Kleptomania
+Trichotillomania
+Pyromania
+Dermatillomania)
+Factitious disorder
+(Munchausen syndrome)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disorders typically diagnosed in childhood
+
+
+
+
+
+
+
+Intellectual disability
+
+
+
+X-linked intellectual disability
+(Lujan–Fryns syndrome)
+
+
+
+
+
+Psychological development
+(developmental disabilities)
+
+
+
+Specific
+Pervasive
+
+
+
+
+
+Emotional and behavioral
+
+
+
+ADHD
+Conduct disorder
+(ODD)
+Emotional/behavioral disorder
+(Separation anxiety disorder)
+social functioning
+(Selective mutism
+RAD
+DAD)
+Tic disorder
+(Tourette syndrome)
+Speech
+(Stuttering
+Cluttering)
+Movement disorders
+(Stereotypic)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Symptoms and uncategorized
+
+
+
+
+
+
+Catatonia
+False pregnancy
+Intermittent explosive disorder
+Psychomotor agitation
+Stereotypy
+Psychogenic non-epileptic seizures
+Klüver–Bucy syndrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Symptoms and signs: Speech and voice / Symptoms involving head and neck (R47–R49, 784)
+
+
+
+Aphasias
+
+
+
+Acute Aphasias
+
+Expressive aphasia
+Receptive aphasia
+Conduction aphasia
+Anomic aphasia
+Global aphasia
+Transcortical sensory aphasia
+Transcortical motor aphasia
+Mixed transcortical aphasia
+
+
+Progressive Aphasias
+
+Progressive nonfluent aphasia
+Semantic dementia
+Logopenic progressive aphasia
+
+
+Speech disturbances
+
+Speech disorder
+Developmental verbal dyspraxia/‎Apraxia of speech
+Auditory verbal agnosia
+Dysarthria
+Schizophasia
+Aprosodia/Dysprosody
+Specific language impairment
+Thought disorder
+Pressure of speech
+Derailment
+Clanging
+Circumstantiality
+
+
+
+
+
+
+
+Communication disorders
+
+
+
+Developmental dyslexia/Alexia
+Agnosia
+
+Astereognosis
+Prosopagnosia
+Visual agnosia
+
+
+Gerstmann syndrome
+Developmental coordination disorder/Apraxia
+
+Ideomotor apraxia
+
+
+Dyscalculia/Acalculia
+Agraphia
+
+
+
+
+
+Voice disturbances
+
+
+
+Dysphonia/Aphonia
+Bogart–Bacall syndrome
+
+
+
+
+
+Nose
+
+
+
+Post-nasal drip
+Epistaxis
+
+
+
+
+
+Mouth
+
+
+
+Orofacial pain
+
+Toothache
+Galvanic pain
+Barodontalgia
+
+
+Fremitus
+Tooth mobility
+Bruxism
+Trismus
+Ageusia
+Hypogeusia
+Dysgeusia
+Parageusia
+Hypergeusia
+Xerostomia
+Halitosis
+Drooling
+Hypersalivation
+
+
+
+
+
+Neck
+
+
+
+Neck mass
+
+Cervical lymphadenopathy
+
+
+
+
+
+
+
+Other
+
+
+
+Headache
+Auditory processing disorder
+Otalgia
+Velopharyngeal inadequacy
+Velopharyngeal insufficiency
+Hypersensitive gag reflex
+Jaw claudication
+Hypomimia
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+LCCN: sh85036638
+GND: 4011404-1
+NDL: 00954862
+NKC: ph119366
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dementia&oldid=811971150"					
+Categories: Cognitive disordersOrganic, including symptomatic, mental disordersDementiaPsychiatric diagnosisLearning disabilitiesAging-associated diseasesHidden categories: Webarchive template wayback linksCS1 maint: Explicit use of et al.CS1 maint: Uses authors parameterCS1 maint: Multiple names: authors listCS1 Danish-language sources (da)Articles needing additional references from November 2015All articles needing additional referencesArticles needing more detailed referencesAll articles with unsourced statementsArticles with unsourced statements from July 2017Articles with unsourced statements from February 2017Articles with DMOZ linksWikipedia articles with LCCN identifiersWikipedia articles with GND identifiersRTTRTTNEURO 

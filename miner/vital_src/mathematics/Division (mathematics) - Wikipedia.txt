@@ -1,0 +1,1621 @@
+Division (mathematics) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the arithmetical operation. For other uses, see Division (disambiguation).
+"Divided" redirects here. For other uses, see Divided (disambiguation).
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2014) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+20 ÷ 5 = 4, because 20 apples contain five apples four times. That is an example of division as quotition rather than as partition. One can also say that 20 ÷ 5 = 4 because when 20 apples are divided into 5 equal sets of apples, then there are 4 in each such set. That is division as partition rather than as quotition.
+
+
+Division is one of the four basic operations of arithmetic, the others being addition, subtraction, and multiplication. The division of two natural numbers is the process of calculating the number of times one number is contained within one another.[1]:7 For example, in the picture on the right, the 20 apples are divided into groups of five apples, and there exist four groups, meaning that five can be contained within 20 four times, or 20 ÷ 5 = 4. Division can also be thought of as the process of evaluating a fraction, and fractional notation (a/b and  a⁄b) is commonly used to represent division.[2]
+Division can be viewed either as quotition or as partition. In quotition, 20 ÷ 5 means the number of 5s that must be added to get 20. In partition, 20 ÷ 5 means the size of each of 5 parts into which a set of size 20 is divided.
+Division is the inverse of multiplication; if a × b = c, then a = c ÷ b, as long as b is not zero. Division by zero is undefined for the real numbers and most other contexts,[3]:246 because if b = 0, then a cannot be deduced from b and c, as then c will always equal zero regardless of a. In some contexts, division by zero can be defined although to a limited extent, and limits involving division of a real number as it approaches zero are defined.[a][2][4]
+In division, the dividend is divided by the divisor to get a quotient. In the above example, 20 is the dividend, five is the divisor, and four is the quotient. In some cases, the divisor may not be contained fully by the dividend; for example, 10 ÷ 3 leaves a remainder of one, as 10 is not a multiple of three. Sometimes this remainder is added to the quotient as a fractional part, so 10 ÷ 3 is equal to 31/3 or 3.33 . . ., but in the context of integer division, where numbers have no fractional part, the remainder is kept separately or discarded.[5]
+Besides dividing apples, division can be applied to other physical and abstract objects. Division has been defined in several contexts, such as for the real and complex numbers and for more abstract contexts such as for vector spaces and fields.
+Division is the most mentally difficult of the four basic operations of arithmetic[citation needed], but the discipline and mastery of it provides an educational bridge from arithmetic to number theory and algebra. Teaching the objective concept of dividing integers introduces students to the arithmetic of fractions. Unlike addition, subtraction, and multiplication, the set of all integers is not closed under division. Dividing two integers may result in a remainder. To complete the division of the remainder, the number system is extended to include fractions or rational numbers as they are more generally called. When students advance to algebra, the abstract theory of division intuited from arithmetic naturally extends to algebraic division of variables, polynomials, and matrices.
+
+
+
+Contents
+
+
+1 Notation
+2 Computing
+
+2.1 Manual methods
+2.2 By computer or with computer assistance
+
+
+3 Properties
+4 Euclidean division
+5 Of integers
+6 Of rational numbers
+7 Of real numbers
+8 By zero
+9 Of complex numbers
+10 Of polynomials
+11 Of matrices
+
+11.1 Left and right division
+11.2 Pseudoinverse
+
+
+12 Abstract algebra
+13 Calculus
+14 See also
+15 Notes
+16 References
+17 External links
+
+
+
+Notation[edit]
+
+
+Calculation results
+
+
+v
+t
+e
+
+
+
+
+
+Addition (+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+summand
+
+
++
+
+
+summand
+
+
+
+
+
+
+
+
+addend (broad sense)
+
+
++
+
+
+addend (broad sense)
+
+
+
+
+
+
+
+
+augend
+
+
++
+
+
+addend (strict sense)
+
+
+
+
+
+
+}
+
+
+=
+
+
+
+
+{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle {\text{addend (broad sense)}}\,+\,{\text{addend (broad sense)}}\\\scriptstyle {\text{augend}}\,+\,{\text{addend (strict sense)}}\end{matrix}}\right\}\,=\,}
+
+
+
+
+
+
+
+
+sum
+
+
+
+
+{\displaystyle \scriptstyle {\text{sum}}}
+
+
+
+
+Subtraction (−)
+
+
+
+
+
+
+
+
+minuend
+
+
+−
+
+
+subtrahend
+
+
+=
+
+
+
+
+{\displaystyle \scriptstyle {\text{minuend}}\,-\,{\text{subtrahend}}\,=\,}
+
+
+
+
+
+
+
+
+difference
+
+
+
+
+{\displaystyle \scriptstyle {\text{difference}}}
+
+
+
+
+Multiplication (×)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+factor
+
+
+×
+
+
+factor
+
+
+
+
+
+
+
+
+multiplicand
+
+
+×
+
+
+multiplier
+
+
+
+
+
+
+}
+
+
+=
+
+
+
+
+{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle {\text{multiplicand}}\,\times \,{\text{multiplier}}\end{matrix}}\right\}\,=\,}
+
+
+
+
+
+
+
+
+product
+
+
+
+
+{\displaystyle \scriptstyle {\text{product}}}
+
+
+
+
+Division (÷)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dividend
+
+
+
+
+divisor
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+numerator
+
+
+
+
+denominator
+
+
+
+
+
+
+
+
+
+}
+
+
+=
+
+
+
+
+{\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\\scriptstyle {\text{ }}\\\scriptstyle {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle {\text{denominator}}}}\end{matrix}}\right\}\,=\,}
+
+
+
+
+
+
+
+
+
+
+
+
+fraction
+
+
+
+
+
+
+
+
+quotient
+
+
+
+
+
+
+
+
+ratio
+
+
+
+
+
+
+
+
+{\displaystyle {\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle {\text{ratio}}\end{matrix}}}
+
+
+
+
+Modulo (mod)
+
+
+
+
+
+
+
+
+dividend
+
+
+mod
+
+divisor
+
+
+
+=
+
+
+
+
+{\displaystyle \scriptstyle {\text{dividend}}{\bmod {\text{divisor}}}\,=\,}
+
+
+
+
+
+
+
+
+remainder
+
+
+
+
+{\displaystyle \scriptstyle {\text{remainder}}}
+
+
+
+
+Exponentiation
+
+
+
+
+
+
+
+
+
+base
+
+
+exponent
+
+
+
+=
+
+
+
+
+{\displaystyle \scriptstyle {\text{base}}^{\text{exponent}}\,=\,}
+
+
+
+
+
+
+
+
+power
+
+
+
+
+{\displaystyle \scriptstyle {\text{power}}}
+
+
+
+
+nth root (√)
+
+
+
+
+
+
+
+
+
+
+
+radicand
+
+
+
+degree
+
+
+
+
+=
+
+
+
+
+{\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle {\text{radicand}}}}\,=\,}
+
+
+
+
+
+
+
+
+root
+
+
+
+
+{\displaystyle \scriptstyle {\text{root}}}
+
+
+
+
+Logarithm (log)
+
+
+
+
+
+
+
+
+log
+
+base
+
+
+⁡
+(
+
+antilogarithm
+
+)
+
+=
+
+
+
+
+{\displaystyle \scriptstyle \log _{\text{base}}({\text{antilogarithm}})\,=\,}
+
+
+
+
+
+
+
+
+logarithm
+
+
+
+
+{\displaystyle \scriptstyle {\text{logarithm}}}
+
+
+
+
+Division is often shown in algebra and science by placing the dividend over the divisor with a horizontal line, also called a fraction bar, between them. For example, a divided by b is written
+
+
+
+
+
+
+
+a
+b
+
+
+
+
+{\displaystyle {\frac {a}{b}}}
+
+
+
+This can be read out loud as "a divided by b", "a by b" or "a over b". A way to express division all on one line is to write the dividend (or numerator), then a slash, then the divisor (or denominator), like this:
+
+
+
+
+
+a
+
+/
+
+b
+
+
+
+{\displaystyle a/b\,}
+
+
+
+This is the usual way to specify division in most computer programming languages since it can easily be typed as a simple sequence of ASCII characters. Some mathematical software, such as MATLAB and GNU Octave, allows the operands to be written in the reverse order by using the backslash as the division operator:
+
+
+
+
+
+b
+∖
+a
+
+
+{\displaystyle b\backslash a}
+
+
+
+A typographical variation halfway between these two forms uses a solidus (fraction slash) but elevates the dividend, and lowers the divisor:
+
+
+
+
+
+
+
+
+
+a
+
+
+
+/
+
+
+
+
+
+b
+
+
+
+
+{\displaystyle {}^{a}/{}_{b}}
+
+
+
+Any of these forms can be used to display a fraction. A fraction is a division expression where both dividend and divisor are integers (typically called the numerator and denominator), and there is no implication that the division must be evaluated further. A second way to show division is to use the obelus (or division sign), common in arithmetic, in this manner:
+
+
+
+
+
+a
+÷
+b
+
+
+{\displaystyle a\div b}
+
+
+
+This form is infrequent except in elementary arithmetic. ISO 80000-2-9.6 states it should not be used. The obelus is also used alone to represent the division operation itself, as for instance as a label on a key of a calculator. The obelus was introduced by Swiss mathematician Johann Rahn in 1659 in Teutsche Algebra.[6]:211
+In some non-English-speaking countries, "a divided by b" is written a : b.[7] This notation was introduced by Gottfried Wilhelm Leibniz in his 1684 Acta eruditorum.[6]:295 Leibniz disliked having separate symbols for ratio and division. However, in English usage the colon is restricted to expressing the related concept of ratios (then "a is to b").
+Since the 19th century US textbooks have used 
+
+
+
+b
+)
+ 
+a
+
+
+{\displaystyle b)~a}
+
+ or 
+
+
+
+b
+
+
+
+)
+a
+
+¯
+
+
+
+
+{\displaystyle b{\overline {)a}}}
+
+ to denote a divided by b, especially when discussing long division. The history of this notation is not entirely clear because it evolved over time.[8]
+Computing[edit]
+Main articles: Long division and Division algorithm
+Manual methods[edit]
+Division is often introduced through the notion of "sharing out" a set of objects, for example a pile of sweets, into a number of equal portions. Distributing the objects several at a time in each round of sharing to each portion leads to the idea of "chunking", i.e., division by repeated subtraction.
+More systematic and more efficient (but also more formalised and more rule-based, and more removed from an overall holistic picture of what division is achieving), a person who knows the multiplication tables can divide two integers using pencil and paper using the method of short division, if the divisor is simple. Long division is used for larger integer divisors. If the dividend has a fractional part (expressed as a decimal fraction), one can continue the algorithm past the ones place as far as desired. If the divisor has a fractional part, we can restate the problem by moving the decimal to the right in both numbers until the divisor has no fraction.
+A person can calculate division with an abacus by repeatedly placing the dividend on the abacus, and then subtracting the divisor the offset of each digit in the result, counting the number of divisions possible at each offset.
+A person can use logarithm tables to divide two numbers, by subtracting the two numbers' logarithms, then looking up the antilogarithm of the result.
+A person can calculate division with a slide rule by aligning the divisor on the C scale with the dividend on the D scale. The quotient can be found on the D scale where it is aligned with the left index on the C scale. The user is responsible, however, for mentally keeping track of the decimal point.
+By computer or with computer assistance[edit]
+Modern computers compute division by methods that are faster than long division: see Division algorithm.
+In modular arithmetic, some numbers have a multiplicative inverse with respect to the modulus. We can calculate division by multiplication in such a case. This approach is useful in computers that do not have a fast division instruction.
+Properties[edit]
+Division is right-distributive over addition and subtraction. That means:
+
+
+
+
+
+
+
+
+a
++
+b
+
+c
+
+
+=
+(
+a
++
+b
+)
+÷
+c
+=
+
+
+a
+c
+
+
++
+
+
+b
+c
+
+
+
+
+{\displaystyle {\frac {a+b}{c}}=(a+b)\div c={\frac {a}{c}}+{\frac {b}{c}}}
+
+
+
+in the same way as in multiplication 
+
+
+
+(
+a
++
+b
+)
+×
+c
+=
+a
+×
+c
++
+b
+×
+c
+
+
+{\displaystyle (a+b)\times c=a\times c+b\times c}
+
+. But division is not left-distributive, i.e. we have
+
+
+
+
+
+
+
+a
+
+b
++
+c
+
+
+
+=
+a
+÷
+(
+b
++
+c
+)
+=
+
+
+(
+
+
+b
+a
+
+
++
+
+
+c
+a
+
+
+)
+
+
+−
+1
+
+
+≠
+
+
+a
+b
+
+
++
+
+
+a
+c
+
+
+
+
+{\displaystyle {\frac {a}{b+c}}=a\div (b+c)=\left({\frac {b}{a}}+{\frac {c}{a}}\right)^{-1}\neq {\frac {a}{b}}+{\frac {a}{c}}}
+
+
+
+unlike multiplication.
+If there are multiple divisions in a row the order of operation goes from left to right[9][10], which is called left-associative:
+
+
+
+
+
+a
+÷
+b
+÷
+c
+=
+(
+a
+÷
+b
+)
+÷
+c
+=
+a
+÷
+(
+b
+×
+c
+)
+=
+a
+×
+
+b
+
+−
+1
+
+
+×
+
+c
+
+−
+1
+
+
+
+
+{\displaystyle a\div b\div c=(a\div b)\div c=a\div (b\times c)=a\times b^{-1}\times c^{-1}}
+
+.
+
+Euclidean division[edit]
+Main article: Euclidean division
+The Euclidean division is the mathematical formulation of the outcome of the usual process of division of integers. It asserts that, given two integers, a, the dividend, and b, the divisor, such that b ≠ 0, there are unique integers q, the quotient, and r, the remainder, such that a = bq + r and 0 ≤ r < |b|, where |b| denotes the absolute value of b.
+Of integers[edit]
+Division of integers is not closed. Apart from division by zero being undefined, the quotient is not an integer unless the dividend is an integer multiple of the divisor. For example, 26 cannot be divided by 11 to give an integer. Such a case uses one of five approaches:
+
+Say that 26 cannot be divided by 11; division becomes a partial function.
+Give an approximate answer as a decimal fraction or a mixed number, so 
+
+
+
+
+
+
+26
+11
+
+
+
+≃
+2.36
+
+
+{\displaystyle {\tfrac {26}{11}}\simeq 2.36}
+
+ or 
+
+
+
+
+
+
+26
+11
+
+
+
+≃
+2
+
+
+
+36
+100
+
+
+
+.
+
+
+{\displaystyle {\tfrac {26}{11}}\simeq 2{\tfrac {36}{100}}.}
+
+ This is the approach usually taken in numerical computation.
+Give the answer as a fraction representing a rational number, so the result of the division of 26 by 11 is 
+
+
+
+
+
+
+26
+11
+
+
+
+.
+
+
+{\displaystyle {\tfrac {26}{11}}.}
+
+ But, usually, the resulting fraction should be simplified: the result of the division of 52 by 22 is also 
+
+
+
+
+
+
+26
+11
+
+
+
+
+
+{\displaystyle {\tfrac {26}{11}}}
+
+. This simplification may be done by factoring out the greatest common divisor.
+Give the answer as an integer quotient and a remainder, so 
+
+
+
+
+
+
+26
+11
+
+
+
+=
+2
+
+ remainder 
+
+4.
+
+
+{\displaystyle {\tfrac {26}{11}}=2{\mbox{ remainder }}4.}
+
+ To make the distinction with the previous case, this division, with two integers as result, is sometimes called Euclidean division, because it is the basis of the Euclidean algorithm.
+Give the integer quotient as the answer, so 
+
+
+
+
+
+
+26
+11
+
+
+
+=
+2.
+
+
+{\displaystyle {\tfrac {26}{11}}=2.}
+
+ This is sometimes called integer division.
+
+Dividing integers in a computer program requires special care. Some programming languages, such as C, treat integer division as in case 5 above, so the answer is an integer. Other languages, such as MATLAB and every computer algebra system return a rational number as the answer, as in case 3 above. These languages also provide functions to get the results of the other cases, either directly or from the result of case 3.
+Names and symbols used for integer division include div, /, \, and %. Definitions vary regarding integer division when the dividend or the divisor is negative: rounding may be toward zero (so called T-division) or toward −∞ (F-division); rarer styles can occur – see Modulo operation for the details.
+Divisibility rules can sometimes be used to quickly determine whether one integer divides exactly into another.
+Of rational numbers[edit]
+The result of dividing two rational numbers is another rational number when the divisor is not 0. The division of two rational numbers p/q and r/s can be computed as
+
+
+
+
+
+
+
+
+p
+
+/
+
+q
+
+
+r
+
+/
+
+s
+
+
+
+=
+
+
+p
+q
+
+
+×
+
+
+s
+r
+
+
+=
+
+
+
+p
+s
+
+
+q
+r
+
+
+
+.
+
+
+{\displaystyle {p/q \over r/s}={p \over q}\times {s \over r}={ps \over qr}.}
+
+
+
+All four quantities are integers, and only p may be 0. This definition ensures that division is the inverse operation of multiplication.
+Of real numbers[edit]
+Division of two real numbers results in another real number when the divisor is not 0. It is defined such a/b = c if and only if a = cb and b ≠ 0.
+By zero[edit]
+Main article: Division by zero
+Division of any number by zero (where the divisor is zero) is undefined. This is because zero multiplied by any finite number always results in a product of zero. Entry of such an expression into most calculators produces an error message.
+Of complex numbers[edit]
+Dividing two complex numbers results in another complex number when the divisor is not 0, which is found using the conjugate of the denominator:
+
+
+
+
+
+
+
+
+p
++
+i
+q
+
+
+r
++
+i
+s
+
+
+
+=
+
+
+
+(
+p
++
+i
+q
+)
+(
+r
+−
+i
+s
+)
+
+
+(
+r
++
+i
+s
+)
+(
+r
+−
+i
+s
+)
+
+
+
+=
+
+
+
+p
+r
++
+q
+s
++
+i
+(
+q
+r
+−
+p
+s
+)
+
+
+
+r
+
+2
+
+
++
+
+s
+
+2
+
+
+
+
+
+=
+
+
+
+p
+r
++
+q
+s
+
+
+
+r
+
+2
+
+
++
+
+s
+
+2
+
+
+
+
+
++
+i
+
+
+
+q
+r
+−
+p
+s
+
+
+
+r
+
+2
+
+
++
+
+s
+
+2
+
+
+
+
+
+.
+
+
+{\displaystyle {p+iq \over r+is}={(p+iq)(r-is) \over (r+is)(r-is)}={pr+qs+i(qr-ps) \over r^{2}+s^{2}}={pr+qs \over r^{2}+s^{2}}+i{qr-ps \over r^{2}+s^{2}}.}
+
+
+
+This process of multiplying and dividing by 
+
+
+
+r
+−
+i
+s
+
+
+{\displaystyle r-is}
+
+ is called 'realisation' or (by analogy) rationalisation. All four quantities p, q, r, s are real numbers, and r and s may not both be 0.
+Division for complex numbers expressed in polar form is simpler than the definition above:
+
+
+
+
+
+
+
+
+p
+
+e
+
+i
+q
+
+
+
+
+r
+
+e
+
+i
+s
+
+
+
+
+
+=
+
+
+
+p
+
+e
+
+i
+q
+
+
+
+e
+
+−
+i
+s
+
+
+
+
+r
+
+e
+
+i
+s
+
+
+
+e
+
+−
+i
+s
+
+
+
+
+
+=
+
+
+p
+r
+
+
+
+e
+
+i
+(
+q
+−
+s
+)
+
+
+.
+
+
+{\displaystyle {pe^{iq} \over re^{is}}={pe^{iq}e^{-is} \over re^{is}e^{-is}}={p \over r}e^{i(q-s)}.}
+
+
+
+Again all four quantities p, q, r, s are real numbers, and r may not be 0.
+Of polynomials[edit]
+One can define the division operation for polynomials in one variable over a field. Then, as in the case of integers, one has a remainder. See Euclidean division of polynomials, and, for hand-written computation, polynomial long division or synthetic division.
+Of matrices[edit]
+One can define a division operation for matrices. The usual way to do this is to define A / B = AB−1, where B−1 denotes the inverse of B, but it is far more common to write out AB−1 explicitly to avoid confusion. An elementwise division can also be defined in terms of the Hadamard product.
+Left and right division[edit]
+Because matrix multiplication is not commutative, one can also define a left division or so-called backslash-division as A \ B = A−1B. For this to be well defined, B−1 need not exist, however A−1 does need to exist. To avoid confusion, division as defined by A / B = AB−1 is sometimes called right division or slash-division in this context.
+Note that with left and right division defined this way, A / (BC) is in general not the same as (A / B) / C and nor is (AB) \ C the same as A \ (B \ C), but A / (BC) = (A / C) / B and (AB) \ C = B \ (A \ C).
+Pseudoinverse[edit]
+To avoid problems when A−1 and/or B−1 do not exist, division can also be defined as multiplication with the pseudoinverse, i.e., A / B = AB+ and A \ B = A+B, where A+ and B+ denote the pseudoinverse of A and B.
+Abstract algebra[edit]
+In abstract algebra, given a magma with binary operation ∗ (which could nominally be termed multiplication), left division of b by a (written a \ b) is typically defined as the solution x to the equation a ∗ x = b, if this exists and is unique. Similarly, right division of b by a (written b / a) is the solution y to the equation y ∗ a = b. Division in this sense does not require ∗ to have any particular properties (such as commutativity, associativity, or an identity element).
+"Division" in the sense of "cancellation" can be done in any magma by an element with the cancellation property. Examples include matrix algebras and quaternion algebras. A quasigroup is a structure in which division is always possible, even without an identity element and hence inverses. In an integral domain, where not every element need have an inverse, division by a cancellative element a can still be performed on elements of the form ab or ca by left or right cancellation, respectively. If a ring is finite and every nonzero element is cancellative, then by an application of the pigeonhole principle, every nonzero element of the ring is invertible, and division by any nonzero element is possible. To learn about when algebras (in the technical sense) have a division operation, refer to the page on division algebras. In particular Bott periodicity can be used to show that any real normed division algebra must be isomorphic to either the real numbers R, the complex numbers C, the quaternions H, or the octonions O.
+Calculus[edit]
+The derivative of the quotient of two functions is given by the quotient rule:
+
+
+
+
+
+
+
+
+(
+
+
+f
+g
+
+
+)
+
+
+′
+
+=
+
+
+
+
+f
+′
+
+g
+−
+f
+
+g
+′
+
+
+
+g
+
+2
+
+
+
+
+.
+
+
+{\displaystyle {\left({\frac {f}{g}}\right)}'={\frac {f'g-fg'}{g^{2}}}.}
+
+
+
+See also[edit]
+
+400AD Sunzi division algorithm
+Division by two
+Field
+Fraction (mathematics)
+Galley division
+Group
+Inverse element
+Order of operations
+Quasigroup
+Repeating decimal
+
+Notes[edit]
+
+
+
+^ For example: limx→0 sin x/x = 1.[4]
+
+
+
+References[edit]
+
+
+
+^ Blake, A. G. (1887). Arithmetic. Dublin, Ireland: Alexander Thom & Company. 
+^ a b Weisstein, Eric W. "Division". MathWorld. 
+^ Derbyshire, John (2004). Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics. New York City: Penguin Books. ISBN 978-0452285255. 
+^ a b Weisstein, Eric W. "Division by Zero". MathWorld. 
+^ Weisstein, Eric W. "Integer Division". MathWorld. 
+^ a b Cajori, Florian (1929). A History of Mathematical Notations. Open Court Pub. Co. 
+^ Thomas Sonnabend (2010). Mathematics for Teachers: An Interactive Approach for Grades K-8. Brooks/Cole, Cengage Learning (Charles Van Wagner). p. 126. ISBN 9780495561668. 
+^ Smith, David Eugene (1925). History Of Mathematics Vol II. Ginn And Company. 
+^ George Mark Bergman: Order of arithmetic operations
+^ Education Place: The Order of Operations
+
+
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Division (mathematics).
+
+
+
+"Division". PlanetMath. 
+Division on a Japanese abacus selected from Abacus: Mystery of the Bead
+Chinese Short Division Techniques on a Suan Pan
+Rules of divisibility
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Elementary arithmetic
+
+
+
+
+
+
+
+   
+
+
+
+Addition (+)
+
+
+
+
+
+Subtraction (−)
+
+
+
+
+
+Multiplication (× or ·)
+
+
+
+
+
+Division (÷ or /)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Fractions and ratios
+
+
+
+
+
+
+Division
+and ratio
+
+
+
+Dividend : Divisor = Quotient
+
+
+
+
+
+
+
+
+Fraction
+
+
+
+Numerator / Denominator = Quotient
+
+
+
+
+
+
+
+
+Algebraic
+Aspect
+Binary
+Continued
+Decimal
+Dyadic
+Egyptian
+Golden
+
+Silver
+
+
+Integer
+Irreducible
+
+Reduction
+
+
+LCD
+Musical interval
+Percentage
+Unit
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+GND: 4150319-3
+NDL: 00575006
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Division_(mathematics)&oldid=811103498"					
+Categories: Elementary arithmeticBinary operationsDivision (mathematics)Hidden categories: Articles needing additional references from October 2014All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from July 2017Wikipedia articles with GND identifiers 

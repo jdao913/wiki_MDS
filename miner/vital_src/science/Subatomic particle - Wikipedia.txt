@@ -1,0 +1,785 @@
+Subatomic particle - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Standard Model of particle physics
+
+
+
+Elementary particles of the standard model
+
+
+
+
+
+Background
+Particle physics
+Standard Model
+Quantum field theory
+Gauge theory
+Spontaneous symmetry breaking
+Higgs mechanism
+
+
+
+
+
+
+Constituents
+Electroweak interaction
+Quantum chromodynamics
+CKM matrix
+Standard Model mathematics
+
+
+
+
+
+
+Limitations
+Strong CP problem
+Hierarchy problem
+Neutrino oscillations
+Physics beyond the Standard Model
+
+
+
+
+
+
+Scientists
+Rutherford · Thomson · Chadwick · Bose · Sudarshan · Koshiba · Davis Jr. · Anderson · Fermi · Dirac · Feynman · Rubbia · Gell-Mann · Kendall · Taylor · Friedman · Powell · P. W. Anderson · Glashow · Iliopoulos · Maiani · Meer · Cowan · Nambu · Chamberlain · Cabibbo · Schwartz · Perl · Majorana · Weinberg · Lee · Ward · Salam · Kobayashi · Maskawa · Yang · Yukawa · 't Hooft · Veltman · Gross · Politzer · Wilczek · Cronin · Fitch · Vleck · Higgs · Englert · Brout · Hagen · Guralnik  · Kibble  · Ting · Richter
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In the physical sciences, subatomic particles are particles much smaller than atoms.[1] There are two types of subatomic particles: elementary particles, which according to current theories are not made of other particles; and composite particles.[2] Particle physics and nuclear physics study these particles and how they interact.[3]
+In particle physics, the concept of a particle is one of several concepts inherited from classical physics. But it also reflects the modern understanding that at the quantum scale matter and energy behave very differently from what much of everyday experience would lead us to expect.
+The idea of a particle underwent serious rethinking when experiments showed that light could behave like a stream of particles (called photons) as well as exhibiting wave-like properties. This led to the new concept of wave–particle duality to reflect that quantum-scale "particles" behave like both particles and waves (they are sometimes described as wavicles to reflect this). Another new concept, the uncertainty principle, states that some of their properties taken together, such as their simultaneous position and momentum, cannot be measured exactly.[4] In more recent times, wave–particle duality has been shown to apply not only to photons but to increasingly massive particles as well.[5]
+Interactions of particles in the framework of quantum field theory are understood as creation and annihilation of quanta of corresponding fundamental interactions. This blends particle physics with field theory.
+
+
+
+Contents
+
+
+1 Classification
+
+1.1 By statistics
+1.2 By composition
+1.3 By mass
+
+
+2 Other properties
+3 Dividing an atom
+4 History
+5 See also
+6 References
+7 Further reading
+8 External links
+
+
+
+Classification[edit]
+By statistics[edit]
+Main article: Spin–statistics theorem
+
+
+
+
+The Standard Model classification of particles
+
+
+Any subatomic particle, like any particle in the three-dimensional space that obeys the laws of quantum mechanics, can be either a boson (with integer spin) or a fermion (with odd half-integer spin).
+By composition[edit]
+The elementary particles of the Standard Model include:[6]
+
+Six "flavors" of quarks: up, down, bottom, top, strange, and charm;
+Six types of leptons: electron, electron neutrino, muon, muon neutrino, tau, tau neutrino;
+Twelve gauge bosons (force carriers): the photon of electromagnetism, the three W and Z bosons of the weak force, and the eight gluons of the strong force;
+The Higgs boson.
+
+Various extensions of the Standard Model predict the existence of an elementary graviton particle and many other elementary particles.
+Composite subatomic particles (such as protons or atomic nuclei) are bound states of two or more elementary particles. For example, a proton is made of two up quarks and one down quark, while the atomic nucleus of helium-4 is composed of two protons and two neutrons. The neutron is made of two down quarks and one up quark. Composite particles include all hadrons: these include baryons (such as protons and neutrons) and mesons (such as pions and kaons).
+By mass[edit]
+In special relativity, the energy of a particle at rest equals its mass times the speed of light squared, E = mc2. That is, mass can be expressed in terms of energy and vice versa. If a particle has a frame of reference in which it lies at rest, then it has a positive rest mass and is referred to as massive.
+All composite particles are massive. Baryons (meaning "heavy") tend to have greater mass than mesons (meaning "intermediate"), which in turn tend to be heavier than leptons (meaning "lightweight"), but the heaviest lepton (the tau particle) is heavier than the two lightest flavours of baryons (nucleons). It is also certain that any particle with an electric charge is massive.
+All massless particles (particles whose invariant mass is zero) are elementary. These include the photon and gluon, although the latter cannot be isolated.
+Other properties[edit]
+Through the work of Albert Einstein, Satyendra Nath Bose, Louis de Broglie, and many others, current scientific theory holds that all particles also have a wave nature.[7] This has been verified not only for elementary particles but also for compound particles like atoms and even molecules. In fact, according to traditional formulations of non-relativistic quantum mechanics, wave–particle duality applies to all objects, even macroscopic ones; although the wave properties of macroscopic objects cannot be detected due to their small wavelengths.[8]
+Interactions between particles have been scrutinized for many centuries, and a few simple laws underpin how particles behave in collisions and interactions. The most fundamental of these are the laws of conservation of energy and conservation of momentum, which let us make calculations of particle interactions on scales of magnitude that range from stars to quarks.[9] These are the prerequisite basics of Newtonian mechanics, a series of statements and equations in Philosophiae Naturalis Principia Mathematica, originally published in 1687.
+Dividing an atom[edit]
+The negatively charged electron has a mass equal to  1⁄1837 or 1836 of that of a hydrogen atom. The remainder of the hydrogen atom's mass comes from the positively charged proton. The atomic number of an element is the number of protons in its nucleus. Neutrons are neutral particles having a mass slightly greater than that of the proton. Different isotopes of the same element contain the same number of protons but differing numbers of neutrons. The mass number of an isotope is the total number of nucleons (neutrons and protons collectively).
+Chemistry concerns itself with how electron sharing binds atoms into structures such as crystals and molecules. Nuclear physics deals with how protons and neutrons arrange themselves in nuclei. The study of subatomic particles, atoms and molecules, and their structure and interactions, requires quantum mechanics. Analyzing processes that change the numbers and types of particles requires quantum field theory. The study of subatomic particles per se is called particle physics. The term high-energy physics is nearly synonymous to "particle physics" since creation of particles requires high energies: it occurs only as a result of cosmic rays, or in particle accelerators. Particle phenomenology systematizes the knowledge about subatomic particles obtained from these experiments.[10] Total known Isotopes of Hydrogen - Deuterium and tritium - 2
+History[edit]
+Main articles: History of subatomic physics and Timeline of particle discoveries
+The term "subatomic particle" is largely a retronym of the 1960s, used to distinguish a large number of baryons and mesons (which comprise hadrons) from particles that are now thought to be truly elementary. Before that hadrons were usually classified as "elementary" because their composition was unknown.
+A list of important discoveries follows:
+
+
+Particle
+Composition
+Theorized
+Discovered
+Comments
+
+
+Electron e−
+elementary (lepton)
+G. Johnstone Stoney (1874)
+J. J. Thomson (1897)
+Minimum unit of electrical charge, for which Stoney suggested the name in 1891.[11]
+
+
+alpha particle α
+composite (atomic nucleus)
+never
+Ernest Rutherford (1899)
+Proven by Rutherford and Thomas Royds in 1907 to be helium nuclei.
+
+
+Photon γ
+elementary (quantum)
+Max Planck (1900)
+Albert Einstein (1905)
+or Ernest Rutherford (1899) as γ rays
+Necessary to solve the problem of black body radiation in thermodynamics.
+
+
+Proton p
+composite (baryon)
+Long ago
+Ernest Rutherford (1919, named 1920)
+The nucleus of 1H.
+
+
+Neutron n
+composite (baryon)
+Ernest Rutherford (c.1918)
+James Chadwick (1932)
+The second nucleon.
+
+
+Antiparticles
+ 
+Paul Dirac (1928)
+Carl D. Anderson (e+, 1932)
+Now explained with CPT symmetry.
+
+
+Pions π
+composite (mesons)
+Hideki Yukawa (1935)
+César Lattes, Giuseppe Occhialini (1947) and Cecil Powell
+Explains the nuclear force between nucleons. The first meson (by modern definition) to be discovered.
+
+
+Muon μ−
+elementary (lepton)
+never
+Carl D. Anderson (1936)
+The first named meson; today considered a lepton.
+
+
+Kaons K
+composite (mesons)
+never
+1947
+Discovered in cosmic rays. The first strange particle.
+
+
+Lambda baryons Λ
+composite (baryons)
+never
+University of Melbourne (Λ0, 1950)[12]
+The first hyperon discovered.
+
+
+Neutrino ν
+elementary (lepton)
+Wolfgang Pauli (1930), named by Enrico Fermi
+Clyde Cowan, Frederick Reines (ν
+e, 1956)
+Solved the problem of energy spectrum of beta decay.
+
+
+Quarks
+(u, d, s)
+elementary
+Murray Gell-Mann, George Zweig (1964)
+No particular confirmation event for the quark model.
+
+
+charm quark c
+elementary (quark)
+1970
+1974
+
+
+
+bottom quark b
+elementary (quark)
+1973
+1977
+
+
+
+Weak gauge bosons
+elementary (quantum)
+Glashow, Weinberg, Salam (1968)
+CERN (1983)
+Properties verified through the 1990s.
+
+
+top quark t
+elementary (quark)
+1973
+1995
+Does not hadronize, but is necessary to complete the Standard Model.
+
+
+Higgs boson
+elementary (quantum)
+Peter Higgs et al. (1964)
+CERN (2012)
+Thought to be confirmed in 2013. More evidence found in 2014.[13]
+
+
+Tetraquark
+composite
+?
+Zc(3900), 2013, to be confirmed as a tetraquark
+A new class of hadrons.
+
+
+Graviton
+elementary (quantum)
+Albert Einstein (1916)
+Not discovered
+Interpretation of a gravitational wave as a particle is controversial.
+
+
+Magnetic monopole
+elementary (unclassified)
+Paul Dirac (1931)
+Not discovered
+
+
+
+See also[edit]
+
+
+Physics portal
+
+
+
+
+Atom: Journey Across the Subatomic Cosmos (book)
+Atom: An Odyssey from the Big Bang to Life on Earth...and Beyond (book)
+CPT invariance
+Dark Matter
+Hot spot effect in subatomic physics
+List of fictional elements, materials, isotopes and atomic particles
+List of particles
+Poincaré symmetry
+Ylem
+
+
+References[edit]
+
+
+^ "Subatomic particles". NTD. Retrieved 5 June 2012. 
+^ Bolonkin, Alexander (2011). Universe, Human Immortality and Future Human Evaluation. Elsevier. p. 25. ISBN 9780124158016. 
+^ Fritzsch, Harald (2005). Elementary Particles. World Scientific. pp. 11–20. ISBN 978-981-256-141-1. 
+^ Heisenberg, W. (1927), "Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik", Zeitschrift für Physik (in German), 43 (3–4): 172–198, Bibcode:1927ZPhy...43..172H, doi:10.1007/BF01397280. 
+^ Arndt, Markus; Nairz, Olaf; Vos-Andreae, Julian; Keller, Claudia; Van Der Zouw, Gerbrand; Zeilinger, Anton (2000). "Wave-particle duality of C60 molecules". Nature. 401 (6754): 680–682. Bibcode:1999Natur.401..680A. doi:10.1038/44348. PMID 18494170. 
+^ Cottingham, W. N.; Greenwood, D. A. (2007). An introduction to the standard model of particle physics. Cambridge University Press. p. 1. ISBN 978-0-521-85249-4. 
+^ Walter Greiner (2001). Quantum Mechanics: An Introduction. Springer. p. 29. ISBN 3-540-67458-6. 
+^ R. Eisberg & R. Resnick (1985). Quantum Physics of Atoms, Molecules, Solids, Nuclei, and Particles (2nd ed.). John Wiley & Sons. pp. 59–60. ISBN 0-471-87373-X. For both large and small wavelengths, both matter and radiation have both particle and wave aspects. [...] But the wave aspects of their motion become more difficult to observe as their wavelengths become shorter. [...] For ordinary macroscopic particles the mass is so large that the momentum is always sufficiently large to make the de Broglie wavelength small enough to be beyond the range of experimental detection, and classical mechanics reigns supreme. 
+^ Isaac Newton (1687). Newton's Laws of Motion (Philosophiae Naturalis Principia Mathematica)
+^ Taiebyzadeh, Payam (2017). String Theory; A unified theory and inner dimension of elementary particles (BazDahm). Riverside, Iran: Shamloo Publications Center. ISBN 978-600-116-684-6.
+^ Klemperer, Otto (1959). Electron Physics: The Physics of the Free Electron. Academic Press. 
+^ Some sources such as The Strange Quark indicate 1947.
+^ CERN experiments report new Higgs boson measurements. cern.ch (23 June 2014)
+
+
+Further reading[edit]
+
+General readers
+
+
+Feynman, R.P. & Weinberg, S. (1987). Elementary Particles and the Laws of Physics: The 1986 Dirac Memorial Lectures. Cambridge Univ. Press.
+Brian Greene (1999). The Elegant Universe. W.W. Norton & Company. ISBN 0-393-05858-1. 
+Oerter, Robert (2006). The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Plume.
+Schumm, Bruce A. (2004). Deep Down Things: The Breathtaking Beauty of Particle Physics. Johns Hopkins University Press. ISBN 0-8018-7971-X.
+Martinus Veltman (2003). Facts and Mysteries in Elementary Particle Physics. World Scientific. ISBN 981-238-149-X. 
+
+
+Textbooks
+
+
+Coughlan, G. D., J. E. Dodd, and B. M. Gripaios (2006). The Ideas of Particle Physics: An Introduction for Scientists, 3rd ed. Cambridge Univ. Press. An undergraduate text for those not majoring in physics.
+Griffiths, David J. (1987). Introduction to Elementary Particles. Wiley, John & Sons, Inc. ISBN 0-471-60386-4. 
+Kane, Gordon L. (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 0-201-11749-5. 
+
+External links[edit]
+
+particleadventure.org: The Standard Model.
+cpepweb.org: Particle chart.
+University of California: Particle Data Group.
+Annotated Physics Encyclopædia: Quantum Field Theory.
+Jose Galvez: Chapter 1 Electrodynamics (pdf).
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Particles in physics
+
+
+
+Elementary
+
+
+
+
+Fermions
+
+
+
+
+Quarks
+
+
+
+Up (quark
+antiquark)
+Down (quark
+antiquark)
+Charm (quark
+antiquark)
+Strange (quark
+antiquark)
+Top (quark
+antiquark)
+Bottom (quark
+antiquark)
+
+
+
+
+
+Leptons
+
+
+
+Electron
+Positron
+Muon
+Antimuon
+Tau
+Antitau
+Electron neutrino
+Electron antineutrino
+Muon neutrino
+Muon antineutrino
+Tau neutrino
+Tau antineutrino
+
+
+
+
+
+
+
+
+Bosons
+
+
+
+
+Gauge
+
+
+
+Photon
+Gluon
+W and Z bosons
+
+
+
+
+
+Scalar
+
+
+
+Higgs boson
+
+
+
+
+
+
+
+
+Others
+
+
+
+Ghosts
+
+
+
+
+
+Hypothetical
+
+
+
+
+Superpartners
+
+
+
+
+Gauginos
+
+
+
+Gluino
+Gravitino
+Photino
+
+
+
+
+
+Others
+
+
+
+Higgsino
+Neutralino
+Chargino
+Axino
+Sfermion (Stop squark)
+
+
+
+
+
+
+
+
+Others
+
+
+
+Planck particle
+Axion
+Dilaton
+Dual graviton
+Graviton
+Leptoquark
+Majoron
+Majorana fermion
+Magnetic monopole
+Preon
+Sterile neutrino
+Tachyon
+W′ and Z′ bosons
+X and Y bosons
+
+
+
+
+
+
+
+
+
+
+
+Composite
+
+
+
+
+Hadrons
+
+
+
+
+Baryons / hyperons
+
+
+
+Nucleon
+
+Proton
+Antiproton
+Neutron
+Antineutron
+
+
+Delta baryon
+Lambda baryon
+Sigma baryon
+Xi baryon
+Omega baryon
+
+
+
+
+
+Mesons / quarkonia
+
+
+
+Pion
+Rho meson
+Eta and eta prime mesons
+Phi meson
+J/psi meson
+Omega meson
+Upsilon meson
+Kaon
+B meson
+D meson
+
+
+
+
+
+Exotic hadrons
+
+
+
+Tetraquark
+Pentaquark
+
+
+
+
+
+
+
+
+Others
+
+
+
+Atomic nuclei
+Atoms
+Exotic atoms
+
+Positronium
+Muonium
+Tauonium
+Onia
+
+
+Superatoms
+Molecules
+
+
+
+
+
+Hypothetical
+
+
+
+
+
+
+
+
+Hypothetical baryons
+
+
+
+Hexaquark
+Skyrmion
+
+
+
+
+
+Hypothetical mesons
+
+
+
+Glueball
+Theta meson
+T meson
+
+
+
+
+
+
+
+
+Others
+
+
+
+Mesonic molecule
+Pomeron
+Diquarks
+
+
+
+
+
+
+
+
+
+
+
+Quasiparticles
+
+
+
+Davydov soliton
+Dropleton
+Exciton
+Hole
+Magnon
+Phonon
+Plasmaron
+Plasmon
+Polariton
+Polaron
+Roton
+Trion
+
+
+
+
+
+Lists
+
+
+
+Baryons
+Mesons
+Particles
+Quasiparticles
+Timeline of particle discoveries
+
+
+
+
+
+Related
+
+
+
+History of subatomic physics
+
+timeline
+
+
+Standard Model
+
+mathematical formulation
+
+
+Subatomic particles
+Particles
+Antiparticles
+Nuclear physics
+Eightfold Way
+
+Quark model
+
+
+Exotic matter
+Massless particle
+Relativistic particle
+Virtual particle
+Wave–particle duality
+
+
+
+
+
+Wikipedia books
+
+
+
+Hadronic Matter
+Particles of the Standard Model
+Leptons
+Quarks
+
+
+
+
+
+
+ Physics portal
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Into matter
+
+
+
+
+
+
+Macroscopic object > Molecule > Atom > Subatomic particle (Composite particle
+Elementary particle)
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Subatomic_particle&oldid=812987102"					
+Categories: Subatomic particlesQuantum mechanicsHidden categories: CS1 German-language sources (de)Wikipedia indefinitely move-protected pages 

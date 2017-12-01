@@ -1,0 +1,690 @@
+Structure of the Earth - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Structure of the Earth
+
+
+The interior structure of the Earth is layered in spherical shells. These layers can be defined by their chemical and their rheological properties. Earth has an outer silicate solid crust, a highly viscous mantle, a liquid outer core that is much less viscous than the mantle, and a solid inner core. Scientific understanding of the internal structure of the Earth is based on observations of topography and bathymetry, observations of rock in outcrop, samples brought to the surface from greater depths by volcanoes or volcanic activity, analysis of the seismic waves that pass through the Earth, measurements of the gravitational and magnetic fields of the Earth, and experiments with crystalline solids at pressures and temperatures characteristic of the Earth's deep interior.
+
+
+
+Contents
+
+
+1 Mass
+2 Structure
+
+2.1 Crust
+2.2 Mantle
+2.3 Core
+
+
+3 See also
+4 References
+5 Further reading
+6 External links
+
+
+
+Mass[edit]
+The force exerted by Earth's gravity can be used to calculate its mass. Astronomers can also calculate Earth's mass by observing the motion of orbiting satellites. Earth’s average density can be determined through gravitometric experiments, which have historically involved pendulums.
+The mass of Earth is about 7024600000000000000♠6×1024 kg.[1]
+Structure[edit]
+
+
+
+
+Earth's radial density distribution according to the preliminary reference earth model (PREM).[2]
+
+
+
+Earth's gravity according to the preliminary reference earth model (PREM).[2] Comparison to approximations using constant and linear density for Earth's interior.
+
+
+
+Mapping the interior of Earth with earthquake waves.
+
+
+
+Schematic view of the interior of Earth. 1. continental crust – 2. oceanic crust – 3. upper mantle – 4. lower mantle – 5. outer core – 6. inner core – A: Mohorovičić discontinuity – B: Gutenberg Discontinuity – C: Lehmann–Bullen discontinuity.
+
+
+
+The structure of Earth can be defined in two ways: by mechanical properties such as rheology, or chemically. Mechanically, it can be divided into lithosphere, asthenosphere, mesospheric mantle, outer core, and the inner core. Chemically, Earth can be divided into the crust, upper mantle, lower mantle, outer core, and inner core. The geologic component layers of Earth[3][not in citation given] are at the following depths below the surface:
+
+
+Depth
+Layer
+
+
+Kilometres
+Miles
+
+
+0–60
+0–37
+Lithosphere (locally varies between 5 and 200 km)
+
+
+0–35
+0–22
+… Crust (locally varies between 5 and 70 km)
+
+
+35–60
+22–37
+… Uppermost part of mantle
+
+
+35–2,890
+22–1,790
+Mantle
+
+
+210-270
+130-168
+… Upper mesosphere (upper mantle)
+
+
+660–2,890
+410–1,790
+… Lower mesosphere (lower mantle)
+
+
+2,890–5,150
+1,790–3,160
+Outer core
+
+
+5,150–6,360
+3,160–3,954
+Inner core
+
+
+The layering of Earth has been inferred indirectly using the time of travel of refracted and reflected seismic waves created by earthquakes. The core does not allow shear waves to pass through it, while the speed of travel (seismic velocity) is different in other layers. The changes in seismic velocity between different layers causes refraction owing to Snell's law, like light bending as it passes through a prism. Likewise, reflections are caused by a large increase in seismic velocity and are similar to light reflecting from a mirror.
+Crust[edit]
+Main article: Crust (geology)
+The crust ranges from 5–70 kilometres (3.1–43.5 mi) in depth and is the outermost layer. The thin parts are the oceanic crust, which underlie the ocean basins (5–10 km) and are composed of dense (mafic) iron magnesium silicate igneous rocks, like basalt. The thicker crust is continental crust, which is less dense and composed of (felsic) sodium potassium aluminium silicate rocks, like granite. The rocks of the crust fall into two major categories – sial and sima (Suess,1831–1914). It is estimated that sima starts about 11 km below the Conrad discontinuity (a second order discontinuity). The uppermost mantle together with the crust constitutes the lithosphere. The crust-mantle boundary occurs as two physically different events. First, there is a discontinuity in the seismic velocity, which is most commonly known as the Mohorovičić discontinuity or Moho. The cause of the Moho is thought to be a change in rock composition from rocks containing plagioclase feldspar (above) to rocks that contain no feldspars (below). Second, in oceanic crust, there is a chemical discontinuity between ultramafic cumulates and tectonized harzburgites, which has been observed from deep parts of the oceanic crust that have been obducted onto the continental crust and preserved as ophiolite sequences.
+Many rocks now making up Earth's crust formed less than 100 million (1×108) years ago; however, the oldest known mineral grains are about 4.4 billion (4.4×109) years old, indicating that Earth has had a solid crust for at least 4.4 billion years.[4]
+Mantle[edit]
+
+
+
+
+World map showing the position of the Moho.
+
+
+Main article: Mantle (geology)
+Earth's mantle extends to a depth of 2,890 km, making it the thickest layer of Earth. The mantle is divided into upper and lower mantle. The upper and lower mantle are separated by the transition zone. The lowest part of the mantle next to the core-mantle boundary is known as the D″ (pronounced dee-double-prime[5]) layer. The pressure at the bottom of the mantle is ≈140 GPa (1.4 Matm). The mantle is composed of silicate rocks that are rich in iron and magnesium relative to the overlying crust. Although solid, the high temperatures within the mantle cause the silicate material to be sufficiently ductile that it can flow on very long timescales. Convection of the mantle is expressed at the surface through the motions of tectonic plates. As there is intense and increasing pressure as one travels deeper into the mantle, the lower part of the mantle flows less easily than does the upper mantle (chemical changes within the mantle may also be important). The viscosity of the mantle ranges between 1021 and 1024 Pa·s, depending on depth.[6] In comparison, the viscosity of water is approximately 10−3 Pa·s and that of pitch is 107 Pa·s. The source of heat that drives plate tectonics is the primordial heat left over from the planet’s formation as well as the radioactive decay of uranium, thorium, and potassium in Earth’s crust and mantle.[7]
+Core[edit]
+Main articles: inner core and outer core
+The average density of Earth is 5,515 kg/m3. Because the average density of surface material is only around 3,000 kg/m3, we must conclude that denser materials exist within Earth's core. Seismic measurements show that the core is divided into two parts, a "solid" inner core with a radius of ≈1,220 km[8] and a liquid outer core extending beyond it to a radius of ≈3,400 km. The densities are between 9,900 and 12,200 kg/m3 in the outer core and 12,600–13,000 kg/m3 in the inner core.[9]
+The inner core was discovered in 1936 by Inge Lehmann and is generally believed to be composed primarily of iron and some nickel. It is not necessarily a solid, but, because it is able to deflect seismic waves, it must behave as a solid in some fashion. Experimental evidence has at times been critical of crystal models of the core.[10] Other experimental studies show a discrepancy under high pressure: diamond anvil (static) studies at core pressures yield melting temperatures that are approximately 2000 K below those from shock laser (dynamic) studies.[11][12] The laser studies create plasma,[13] and the results are suggestive that constraining inner core conditions will depend on whether the inner core is a solid or is a plasma with the density of a solid. This is an area of active research.
+In early stages of Earth's formation about four and a half billion (4.5×109) years ago, melting would have caused denser substances to sink toward the center in a process called planetary differentiation (see also the iron catastrophe), while less-dense materials would have migrated to the crust. The core is thus believed to largely be composed of iron (80%), along with nickel and one or more light elements, whereas other dense elements, such as lead and uranium, either are too rare to be significant or tend to bind to lighter elements and thus remain in the crust (see felsic materials). Some have argued that the inner core may be in the form of a single iron crystal.[14][15]
+Under laboratory conditions a sample of iron–nickel alloy was subjected to the corelike pressures by gripping it in a vise between 2 diamond tips (diamond anvil cell), and then heating to approximately 4000 K. The sample was observed with x-rays, and strongly supported the theory that Earth's inner core was made of giant crystals running north to south.[16][17]
+The liquid outer core surrounds the inner core and is believed to be composed of iron mixed with nickel and trace amounts of lighter elements.
+Recent speculation suggests that the innermost part of the core is enriched in gold, platinum and other siderophile elements.[18]
+The matter that comprises Earth is connected in fundamental ways to matter of certain chondrite meteorites, and to matter of outer portion of the Sun.[19][20] There is good reason to believe that Earth is, in the main, like a chondrite meteorite. Beginning as early as 1940, scientists, including Francis Birch, built geophysics upon the premise that Earth is like ordinary chondrites, the most common type of meteorite observed impacting Earth, while totally ignoring another, albeit less abundant type, called enstatite chondrites. The principal difference between the two meteorite types is that enstatite chondrites formed under circumstances of extremely limited available oxygen, leading to certain normally oxyphile elements existing either partially or wholly in the alloy portion that corresponds to the core of Earth.
+Dynamo theory suggests that convection in the outer core, combined with the Coriolis effect, gives rise to Earth's magnetic field. The solid inner core is too hot to hold a permanent magnetic field (see Curie temperature) but probably acts to stabilize the magnetic field generated by the liquid outer core. The average magnetic field strength in Earth's outer core is estimated to be 25 Gauss (2.5 mT), 50 times stronger than the magnetic field at the surface.[21][22]
+Recent evidence has suggested that the inner core of Earth may rotate slightly faster than the rest of the planet;[23] however, more recent studies in 2011[which?] found this hypothesis to be inconclusive. Options remain for the core which may be oscillatory in nature or a chaotic system.[citation needed] In August 2005 a team of geophysicists announced in the journal Science that, according to their estimates, Earth's inner core rotates approximately 0.3 to 0.5 degrees per year faster relative to the rotation of the surface.[24][25]
+The current scientific explanation for Earth's temperature gradient is a combination of heat left over from the planet's initial formation, decay of radioactive elements, and freezing of the inner core.
+See also[edit]
+
+
+Earth sciences portal
+
+
+
+Geological history of Earth
+Lehmann discontinuity
+Rain-out model
+Travel to the Earth's center
+
+References[edit]
+
+
+^ "2016 Selected Astronomical Constants" in The Astronomical Almanac Online, USNO–UKHO 
+^ a b A. M. Dziewonski, D. L. Anderson (1981). "Preliminary reference Earth model" (PDF). Physics of the Earth and Planetary Interiors. 25 (4): 297–356. doi:10.1016/0031-9201(81)90046-7. ISSN 0031-9201. 
+^ T. H. Jordan (1979). "Structural Geology of the Earth's Interior" (PDF). Proceedings of the National Academy of Sciences. 76 (9): 4192–4200. Bibcode:1979PNAS...76.4192J. doi:10.1073/pnas.76.9.4192. PMC 411539 . PMID 16592703. 
+^ Breaking News | Oldest rock shows Earth was a hospitable young planet. Spaceflight Now (2001-01-14). Retrieved on 2012-01-27.
+^ Krieger, Kim (24 March 2004). "D Layer Demystified". Science News. American Association for the Advancement of Science. Retrieved 5 November 2016. 
+^ Uwe Walzer, Roland Hendel, John Baumgardner Mantle Viscosity and the Thickness of the Convective Downwellings.
+^ Lawrence Berkeley National Laboratory (Berkeley Lab) is a Department of Energy (DOE) Office of Science lab managed by University of California., What Keeps the Earth Cooking? News Release by Paul Preuss, July 17, 2011
+^ Monnereau, Marc; Calvet, Marie; Margerin, Ludovic; Souriau, Annie (May 21, 2010). "Lopsided Growth of Earth's Inner Core". Science. 328 (5981): 1014–1017. Bibcode:2010Sci...328.1014M. doi:10.1126/science.1186212. PMID 20395477. 
+^ Hazlett, James S.; Monroe, Reed; Wicander, Richard (2006). Physical geology : exploring the earth (6. ed.). Belmont: Thomson. p. 346. ISBN 9780495011484. 
+^ Stixrude, Lars; Cohen, R.E. (January 15, 1995). "Constraints on the crystalline structure of the inner core: Mechanical instability of BCC iron at high pressure". Geophysical Research Letters. 22 (2): 125–128. Bibcode:1995GeoRL..22..125S. doi:10.1029/94GL02742. 
+^ Benuzzi-Mounaix, A.; Koenig, M.; Ravasio, A.; Vinci, T. (2006). "Laser-driven shock waves for the study of extreme matter states". Plasma Physics and Controlled Fusion. 48 (12B). Bibcode:2006PPCF...48B.347B. doi:10.1088/0741-3335/48/12B/S32. 
+^ Remington, Bruce A.; Drake, R. Paul; Ryutov, Dmitri D. (2006). "Experimental astrophysics with high power lasers and Z pinches". Reviews of Modern Physics. 78. Bibcode:2006RvMP...78..755R. doi:10.1103/RevModPhys.78.755. 
+^ Benuzzi-Mounaix, A.; Koenig, M.; Husar, G.; Faral, B. (June 2002). "Absolute equation of state measurements of iron using laser driven shocks". Physics of Plasmas. 9 (6). Bibcode:2002PhPl....9.2466B. doi:10.1063/1.1478557. 
+^ Cohen, Ronald; Stixrude, Lars. "Crystal at the Center of the Earth". Archived from the original on 2007-02-05. Retrieved 2007-02-05. 
+^ Stixrude, L.; Cohen, R. E. (1995). "High-Pressure Elasticity of Iron and Anisotropy of Earth's Inner Core". Science. 267 (5206): 1972–5. Bibcode:1995Sci...267.1972S. doi:10.1126/science.267.5206.1972. PMID 17770110. 
+^ BBC News, "What is at the centre of the Earth?. Bbc.co.uk (2011-08-31). Retrieved on 2012-01-27.
+^ Ozawa, H.; al., et (2011). "Phase Transition of FeO and Stratification in Earth's Outer Core". Science. 334 (6057): 792–794. Bibcode:2011Sci...334..792O. doi:10.1126/science.1208265. 
+^ Wootton, Anne (2006). "Earth's Inner Fort Knox". Discover. 27 (9): 18. 
+^ Herndon, J. M. (1980). "The chemical composition of the interior shells of the Earth". Proc. R. Soc. Lond. A372 (1748): 149–154. JSTOR 2398362. 
+^ Herndon, J. M. (2005). "Scientific basis of knowledge on Earth's composition" (PDF). Current Science. 88 (7): 1034–1037. 
+^ First Measurement Of Magnetic Field Inside Earth's Core. Science20.com. Retrieved on 2012-01-27.
+^ Buffett, Bruce A. (2010). "Tidal dissipation and the strength of the Earth's internal magnetic field". Nature. 468 (7326): 952–4. Bibcode:2010Natur.468..952B. doi:10.1038/nature09643. PMID 21164483. 
+^ Chang, Kenneth (2005-08-25). "Earth's Core Spins Faster Than the Rest of the Planet". The New York Times. Retrieved 2010-05-24. 
+^ Kerr, R. A. (2005). "Earth's Inner Core Is Running a Tad Faster Than the Rest of the Planet". Science. 309 (5739): 1313a. doi:10.1126/science.309.5739.1313a. PMID 16123276. 
+^ Chang, Kenneth (26 August 2005) "Scientists Say Earth's Center Rotates Faster Than Surface" The New York Times Sec. A, Col. 1, p. 13.
+
+
+Further reading[edit]
+
+
+Drollette, Daniel (October 1996). "A Spinning Crystal Ball". Scientific American. 275 (4): 28–33. 
+Kruglinski, Susan (June 2007). "Journey to the Center of the Earth". Discover. Retrieved 9 July 2016. 
+Lehmann, I (1936). "Inner Earth". Bur. Cent. Seismol. Int. 14: 3–31. 
+Wegener, Alfred (1966). The origin of continents and oceans. New York: Dover Publications. ISBN 9780486617084. 
+
+
+External links[edit]
+
+
+
+The Wikibook Historical Geology has a page on the topic of: Structure of the Earth
+
+
+ Media related to Structure of the Earth at Wikimedia Commons
+
+Down To The Earth's Core (HD) on YouTube
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Earth
+
+
+
+Continents
+
+
+
+Africa
+Antarctica
+Asia
+Australia
+Europe
+North America
+South America
+
+
+
+
+
+
+
+
+Oceans
+
+
+
+Arctic Ocean
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Southern Ocean
+
+
+
+
+
+Earth
+
+
+
+Geography
+Geology
+Future of Earth
+Geological history of Earth
+History of Earth
+Plate tectonics
+Structure of the Earth
+
+
+
+
+
+Environment
+
+
+
+Biome
+Ecology
+Ecosystem
+Nature
+Wilderness
+
+
+
+
+
+Related
+
+
+
+Earth Day
+Earth science
+Geologic record
+Geology of solar terrestrial planets
+Location in Universe
+Solar System
+World
+
+
+
+
+
+
+
+
+Category
+Portal
+Earth sciences
+
+
+
+
+
+
+
+
+
+
+Links to related articles
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Structure of the Earth
+
+
+
+Shells
+
+
+
+Crust
+Lithosphere
+Mesosphere
+Mantle
+
+Asthenosphere
+Lithospheric mantle
+
+Subcontinental lithospheric mantle
+Oceanic lithospheric mantle
+
+
+
+
+
+
+Outer core
+Inner core
+
+
+
+
+
+Discontinuities
+
+
+
+Conrad (continental crust)
+Mohorovičić (crust–mantle)
+Lehmann (upper mantle)
+Gutenberg (mantle–core)
+Lehmann (core)
+
+
+
+
+
+Arguments
+
+
+
+Plate tectonics
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Earth-related topics
+
+
+
+History
+
+
+
+Age of the Earth
+Evolutionary history of life
+Faint young Sun paradox
+Formation and evolution of the Solar System
+Future of Earth
+Geologic time scale
+Geological history of Earth
+History of Earth
+Timeline of evolution
+
+
+
+
+
+
+
+
+Geography
+Geology
+
+
+
+
+
+
+Clairaut's theorem
+Continents
+Earthquake
+Equatorial bulge
+Extremes on Earth
+Geology of solar terrestrial planets
+Geophysics
+Plate tectonics
+Structure of the Earth
+Time zones
+
+
+
+
+
+Ecology
+
+
+
+Earth Day
+Global warming
+Human impact on the environment
+
+
+
+
+
+Imaging
+
+
+
+Apple Maps
+Baidu Maps
+Bhuvan
+Bing Maps
+Global Map
+Google Earth
+Google Maps
+MapmyIndia
+NASA World Wind
+Here
+OpenStreetMap
+Wikimapia
+Remote sensing
+Yahoo! Maps
+Yandex Maps
+
+
+
+
+
+
+
+
+Arts
+Culture
+Society
+
+
+
+
+
+
+Earth in culture
+Earth in science fiction
+Etymology of the word "Earth"
+History of the world
+International law
+Landscape painting
+List of countries
+World economy
+
+
+
+
+
+Other topics
+
+
+
+Biosphere
+Earth's orbit
+Earth trojan
+The ecliptic
+Flag of Earth
+Gravity
+Magnetic field
+The Moon
+Claimed moons of Earth
+2006 RH120
+Kordylewski cloud
+Solar System
+Earth's location in the Universe
+Theia
+
+
+
+
+
+
+
+
+ Earth sciences portal
+ Solar System portal
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Elements of nature
+
+
+
+Universe
+
+
+
+Space
+Time
+Energy
+Matter
+Change
+
+
+
+
+
+Earth
+
+
+
+Earth science
+History (geological)
+Structure
+Geology
+Plate tectonics
+Oceans
+Gaia hypothesis
+Future
+
+
+
+
+
+Weather
+
+
+
+Meteorology
+Atmosphere (Earth)
+Climate
+Clouds
+Sunlight
+Tides
+Wind
+
+
+
+
+
+Natural environment
+
+
+
+Ecology
+Ecosystem
+Field
+Radiation
+Wilderness
+Wildfires
+
+
+
+
+
+Life
+
+
+
+
+
+
+
+Origin (abiogenesis)
+Evolutionary history
+Biosphere
+Hierarchy
+Biology (astrobiology)
+
+
+
+
+
+
+
+
+Organism
+Eukaryota
+
+flora
+
+plants
+
+
+fauna
+
+animals
+
+
+fungi
+protista
+
+
+Prokaryotes
+
+archaea
+bacteria
+
+
+Viruses
+
+
+
+
+
+
+
+
+
+
+
+ Category:Nature
+ Portal:Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Structure_of_the_Earth&oldid=812957955"					
+Categories: Structure of the EarthHidden categories: All articles with failed verificationArticles with failed verification from January 2017All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from April 2013All articles with unsourced statementsArticles with unsourced statements from April 2013 
