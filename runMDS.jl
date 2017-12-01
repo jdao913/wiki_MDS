@@ -20,7 +20,7 @@ function getDist(data::Array{Int64, 2})::Array{Float64, 2}
     dists = Array{Float64}(numData, numData)
     for i = 1:numData
         for j = i:numData
-            dist = wordSim(data[i, :], data[j, :])
+            dist = occurDiff(data[i, :], data[j, :])
             dists[i, j] = dist
             dists[j, i] = dist
         end
@@ -81,6 +81,19 @@ function main()
         artNames = d["names"]
         data = d["data"]
         numArt = size(artNames)[1]
+        if common != nothing
+            artWords = d["words"]
+            commonfile = open(common)
+            words = readlines(commonfile)
+            commonWords = split(words[1], ",")
+            takeOut = intersect(artWords, commonWords)
+            println("size", size(commonWords))
+            for i = 1:size(commonWords)[1]
+                if any(x->x==words[i], takeOut)
+                    data[:,i] = 0           #Set all common word occurances to 0
+                end
+            end
+        end
     else
         file = CSV.read(filename, nullable=false);
         artNames = file[1]          #Article names
@@ -95,12 +108,12 @@ function main()
             words = readlines(commonfile)
             commonWords = split(words[1], ",")
             takeOut = intersect(artWords, commonWords)
-            for i = 1:size(words)
+            for i = 1:size(commonWords)[1]
                 if any(x->x==words[i], takeOut)
                     data[:,i] = 0           #Set all common word occurances to 0
                 end
             end
-            save("./miner/parsedArticles/"*basename(filename)[1:end-4]*"noCommon.jld", "names", artNames, "data", data, "words", words)
+            save("./miner/parsedArticles/"*basename(filename)[1:end-4]*"noCommon.jld", "names", artNames, "data", data, "words", artWords)
         else
             save("./miner/parsedArticles/"*basename(filename)[1:end-4]*".jld", "names", artNames, "data", data, "words", artWords)
         end
