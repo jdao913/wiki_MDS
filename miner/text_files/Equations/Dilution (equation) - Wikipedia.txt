@@ -1,0 +1,623 @@
+Dilution (equation) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Dilution is the process of decreasing the concentration of a solute in solution, usually simply by mixing with more solvent. To dilute a solution means to add more solvent without the addition of more solute. The resulting solution is thoroughly mixed so as to ensure that all parts of the solution are identical.
+The same direct relationship applies to gases and vapors diluted in air for example. Although, thorough mixing of gases and vapors may not be as easily accomplished.
+For example, if there are 10 grams of salt (the solute) dissolved in 1 litre of water (the solvent), this solution has a certain salt concentration (molarity). If one adds 1 litre of water to this solution the salt concentration is reduced. The diluted solution still contains 10 grams of salt (0.171 moles of NaCl).
+Mathematically this relationship can be shown in the equation:
+
+
+
+
+
+
+C
+
+1
+
+
+×
+
+V
+
+1
+
+
+=
+
+C
+
+2
+
+
+×
+
+V
+
+2
+
+
+
+
+{\displaystyle C_{1}\times V_{1}=C_{2}\times V_{2}}
+
+
+
+where
+
+C1 = initial concentration or molarity
+V1 = initial volume
+C2 = final concentration or molarity
+v2 = final volume
+
+
+
+
+Contents
+
+
+1 Basic room purge equation
+2 Dilution ventilation equation
+3 Welding
+4 See also
+5 References
+6 External links
+
+
+
+Basic room purge equation[edit]
+The basic room purge equation is used in industrial hygiene. It determines the time required to reduce a known vapor concentration existing in a closed space to a lower vapor concentration. The equation can only be applied when the purged volume of vapor or gas is replaced with "clean" air or gas. For example, the equation can be used to calculate the time required at a certain ventilation rate to reduce a high carbon monoxide concentration in a room.
+
+
+
+
+
+
+D
+
+t
+
+
+=
+
+[
+
+
+V
+Q
+
+
+]
+
+⋅
+ln
+⁡
+
+[
+
+
+
+C
+
+initial
+
+
+
+C
+
+ending
+
+
+
+
+]
+
+
+
+
+{\displaystyle D_{t}=\left[{\frac {V}{Q}}\right]\cdot \ln \left[{\frac {C_{\text{initial}}}{C_{\text{ending}}}}\right]\quad }
+
+
+
+Sometimes the equation is also written as:
+
+
+
+
+
+ln
+⁡
+
+[
+
+
+
+C
+
+ending
+
+
+
+C
+
+initial
+
+
+
+
+]
+
+
+=
+
+−
+
+
+
+Q
+V
+
+
+⋅
+(
+
+t
+
+ending
+
+
+−
+
+t
+
+initial
+
+
+)
+
+
+
+{\displaystyle \ln \left[{\frac {C_{\text{ending}}}{C_{\text{initial}}}}\right]\quad ={-}{\frac {Q}{V}}\cdot (t_{\text{ending}}-t_{\text{initial}})\quad }
+
+ where 
+
+
+
+
+t
+
+i
+n
+i
+t
+i
+a
+l
+
+
+=
+0
+
+
+{\displaystyle t_{initial}=0}
+
+
+
+
+Dt = time required; the unit of time used is the same as is used for Q
+V = air or gas volume of the closed space or room in cubic feet, cubic metres or litres
+Q = ventilation rate into or out of the room in cubic feet per minute, cubic metres per hour or litres per second
+Cinitial = initial concentration of a vapor inside the room measured in ppm
+Cfinal = final reduced concentration of the vapor inside the room in ppm
+
+Dilution ventilation equation[edit]
+The basic room purge equation can be used only for purge scenarios. In a scenario where a liquid continuously evaporates from a container in a ventilated room, a differential equation has to be used:
+
+
+
+
+
+
+
+
+d
+C
+
+
+d
+t
+
+
+
+=
+
+
+
+G
+−
+
+Q
+′
+
+C
+
+V
+
+
+
+
+{\displaystyle {dC \over dt}={\frac {G-Q'C}{V}}}
+
+
+
+where the ventilation rate has been adjusted by a mixing factor K:
+
+
+
+
+
+
+Q
+′
+
+=
+
+
+Q
+K
+
+
+
+
+{\displaystyle Q'={\frac {Q}{K}}}
+
+
+
+
+C = concentration of a gas
+G = generation rate
+V = room volume
+Q′ = adjusted ventilation rate of the volume
+
+Welding[edit]
+The dilution in welding terms is defined as the weight of the base metal melted divided by the total weight of the weld metal. For example, if we have a dilution of 0.40, the fraction of the weld metal that came from the consumable electrode is 0.60.
+See also[edit]
+
+Displacement ventilation
+Reaction rate
+Partial molar quantities
+Apparent molar property
+Excess molar quantity
+
+References[edit]
+
+External links[edit]
+
+[1]
+Easy dilution calculator [2]
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Heating, ventilation and air conditioning
+
+
+
+Fundamental concepts
+
+
+
+Air changes per hour
+Bake-out
+Building envelope
+Convection
+Dilution
+Domestic energy consumption
+Enthalpy
+Fluid dynamics
+Gas compressor
+Heat pump and refrigeration cycle
+Heat transfer
+Humidity
+Infiltration
+Latent heat
+Noise control
+Outgassing
+Particulates
+Psychrometrics
+Sensible heat
+Stack effect
+Thermal comfort
+Thermal destratification
+Thermal mass
+Thermodynamics
+Vapour pressure of water
+
+
+
+
+
+Technology
+
+
+
+Absorption refrigerator
+Air barrier
+Air conditioning
+Antifreeze
+Automobile air conditioning
+Autonomous building
+Building insulation materials
+Central heating
+Central solar heating
+Chilled beam
+Chilled water
+Constant air volume (CAV)
+Coolant
+Dedicated outdoor air system (DOAS)
+Deep water source cooling
+Demand-controlled ventilation (DCV)
+Displacement ventilation
+District cooling
+District heating
+Electric heating
+Energy recovery ventilation (ERV)
+Firestop
+Forced-air
+Forced-air gas
+Free cooling
+Heat recovery ventilation (HRV)
+Hybrid heat
+Hydronics
+HVAC
+Ice storage air conditioning
+Kitchen ventilation
+Mixed-mode ventilation
+Microgeneration
+Natural ventilation
+Passive cooling
+Passive house
+Radiant heating and cooling system
+Radiant cooling
+Radiant heating
+Radon mitigation
+Refrigeration
+Renewable heat
+Room air distribution
+Solar air heat
+Solar combisystem
+Solar cooling
+Solar heating
+Thermal insulation
+Underfloor air distribution
+Underfloor heating
+Vapor barrier
+Vapor-compression refrigeration (VCRS)
+Variable air volume (VAV)
+Variable refrigerant flow (VRF)
+Ventilation
+
+
+
+
+
+Components
+
+
+
+Air conditioner inverter
+Air door
+Air filter
+Air handler
+Air ionizer
+Air-mixing plenum
+Air purifier
+Air source heat pumps
+Automatic balancing valve
+Back boiler
+Barrier pipe
+Blast damper
+Boiler
+Centrifugal fan
+Chiller
+Condensate pump
+Condenser
+Condensing boiler
+Convection heater
+Cooling tower
+Damper
+Dehumidifier
+Duct
+Economizer
+Electrostatic precipitator
+Evaporative cooler
+Evaporator
+Exhaust hood
+Expansion tank
+Fan coil unit
+Fan heater
+Fire damper
+Fireplace
+Fireplace insert
+Freeze stat
+Flue
+Freon
+Fume hood
+Furnace
+Furnace room
+Gas compressor
+Gas heater
+Gasoline heater
+Geothermal heat pump
+Grease duct
+Grille
+Ground-coupled heat exchanger
+Heat exchanger
+Heat pipe
+Heat pump
+Heating film
+Heating system
+High efficiency glandless circulating pump
+High-efficiency particulate air (HEPA)
+High pressure cut off switch
+Humidifier
+Infrared heater
+Inverter compressor
+Kerosene heater
+Louver
+Mechanical fan
+Mechanical room
+Oil heater
+Packaged terminal air conditioner
+Plenum space
+Pressurisation ductwork
+Process duct work
+Radiator
+Radiator reflector
+Recuperator
+Refrigerant
+Register
+Reversing valve
+Run-around coil
+Scroll compressor
+Solar chimney
+Solar-assisted heat pump
+Space heater
+Smoke exhaust ductwork
+Thermal expansion valve
+Thermal wheel
+Thermosiphon
+Thermostatic radiator valve
+Trickle vent
+Trombe wall
+Turning vanes
+Ultra-low particulate air (ULPA)
+Whole-house fan
+Windcatcher
+Wood-burning stove
+
+
+
+
+
+Measurement and control
+
+
+
+Air flow meter
+Aquastat
+BACnet
+Blower door
+Building automation
+Carbon dioxide sensor
+Clean Air Delivery Rate (CADR)
+Gas sensor
+Home energy monitor
+Humidistat
+HVAC control system
+Intelligent buildings
+LonWorks
+Minimum efficiency reporting value (MERV)
+OpenTherm
+Programmable communicating thermostat
+Programmable thermostat
+Psychrometrics
+Room temperature
+Smart thermostat
+Thermostat
+Thermostatic radiator valve
+
+
+
+
+
+Professions, trades, and services
+
+
+
+Architectural acoustics
+Architectural engineering
+Architectural technologist
+Building services engineering
+Building information modeling (BIM)
+Deep energy retrofit
+Duct leakage testing
+Environmental engineering
+Hydronic balancing
+Kitchen exhaust cleaning
+Mechanical engineering
+Mechanical, electrical, and plumbing
+Mold growth, assessment, and remediation
+Refrigerant reclamation
+Testing, adjusting, balancing
+
+
+
+
+
+Industry organizations
+
+
+
+ACCA
+AMCA
+ASHRAE
+ASTM International
+BRE
+BSRIA
+CIBSE
+LEED
+SMACNA
+
+
+
+
+
+Health and safety
+
+
+
+Indoor air quality (IAQ)
+Passive smoking
+Sick building syndrome (SBS)
+Volatile organic compound (VOC)
+
+
+
+
+
+See also
+
+
+
+ASHRAE Handbook
+Building science
+Fireproofing
+Glossary of HVAC terms
+Template:Home automation
+Template:Solar energy
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Dilution_(equation)&oldid=801908482"					
+Categories: EquationsSeparation processes 

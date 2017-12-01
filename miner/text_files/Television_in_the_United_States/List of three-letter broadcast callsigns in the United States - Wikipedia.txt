@@ -1,0 +1,187 @@
+List of three-letter broadcast callsigns in the United States - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This is a list of radio and television broadcasting stations in the United States that are currently assigned three-letter call signs.
+
+
+
+Contents
+
+
+1 Overview
+2 Assignments
+
+2.1 AM radio (54 stations)
+2.2 FM radio (28 stations)
+2.3 Television (21 stations)
+
+
+3 Other stations of note
+4 References
+5 External links
+6 See also
+
+
+
+Overview[edit]
+In the United States, all radio and television broadcasting stations that are licensed by the Federal Communications Commission (FCC) are assigned official, and unique, call signs. Organized broadcasting began in the U.S. in the early 1920s on the AM band — FM and television did not exist yet. Initially most broadcasting stations were assigned three-letter calls; however, a switch was made in April 1922 to primarily four-letter calls, after the number of stations had increased into the hundreds. For a few years thereafter a small number of new three-letter calls continued to be issued. Although most of the original three-letter calls were randomly assigned, these later calls were often specially requested to match station slogans. The last new three-letter call was assigned to station WIS (now WVOC) in Columbia, South Carolina on January 23, 1930. Since then, three-letter calls have only been assigned to stations, including FM and TV, which are historically related to an AM station that was originally issued that call sign.
+This review only includes FCC-licensed stations. Not included are unlicensed operations, such as carrier current, cable TV, and Internet stations — for example, San Diego State University's "KCR" — which have adopted call-letter-like identifiers that are not officially issued by the FCC. Also not included are stations which use, as slogans, three-letter truncations of their official four-letter call signs; for example, the full call sign for radio station "KOH" in Reno, Nevada is actually KKOH. In addition, stations which formerly had three letters but have since changed (such as Albuquerque, New Mexico's KKOB, formerly KOB) are not listed.
+As of March 1, 2017, there are a total of 103 AM, FM and TV stations in the United States that are assigned three-letter call signs. This is divided between only 68 different three-letter calls, because in many cases the same call sign is used by more than one station, although a given call sign is never assigned to more than one AM, FM or TV station. These 68 different three-letter call signs are currently grouped as follows:
+
+27 assigned only to an AM station
+8 assigned only to an FM station
+6 assigned only to a TV station
+12 assigned to both an AM and an FM station
+7 assigned to both an AM and a TV station
+8 assigned to an AM, FM, and TV station
+
+Assignments[edit]
+Listed below are all the assignments as of March 1, 2017:
+AM radio (54 stations)[edit]
+
+
+KEX - Portland, Oregon
+KFH - Wichita, Kansas
+KFI - Los Angeles, California
+KGA - Spokane, Washington
+KGO - San Francisco, California (AM/TV)
+KGU - Honolulu, Hawaii (AM/FM)
+KHJ - Los Angeles, California
+KID - Idaho Falls, Idaho (AM/FM)
+KIT - Yakima, Washington
+KJR - Seattle, Washington (AM/FM)
+KLO - Ogden, Utah
+KLZ - Denver, Colorado
+KMA - Shenandoah, Iowa (AM/FM)
+KMJ - Fresno, California (AM/FM)
+KNX - Los Angeles, California
+KOA - Denver, Colorado
+KOY - Phoenix, Arizona
+KPQ - Wenatchee, Washington (AM/FM)
+KQV - Pittsburgh, Pennsylvania
+KSL - Salt Lake City, Utah (AM/FM/TV)
+KUJ - Walla Walla, Washington (AM/FM)
+KVI - Seattle, Washington
+KWG - Stockton, California
+KXO - El Centro, California (AM/FM)
+KYW - Philadelphia, Pennsylvania (AM/TV)
+WBT - Charlotte, North Carolina (AM/FM)
+WBZ - Boston, Massachusetts (AM/FM/TV)
+WDZ - Decatur, Illinois
+WEW - St. Louis, Missouri
+WGH - Newport News, Virginia (AM/FM)
+WGL - Fort Wayne, Indiana
+WGN - Chicago, Illinois (AM/TV)
+WGR - Buffalo, New York
+WGY - Schenectady, New York (AM/FM)
+WHA - Madison, Wisconsin (AM/TV)
+WHB - Kansas City, Missouri
+WHK - Cleveland, Ohio
+WHO - Des Moines, Iowa (AM/TV)
+WHP - Harrisburg, Pennsylvania (AM/TV)
+WJR - Detroit, Michigan
+WJZ - Baltimore, Maryland (AM/FM/TV)
+WKY - Oklahoma City, Oklahoma
+WLS - Chicago, Illinois (AM/FM/TV)
+WLW - Cincinnati, Ohio
+WMC - Memphis, Tennessee (AM/FM/TV)
+WMT - Cedar Rapids, Iowa
+WOC - Davenport, Iowa
+WOI - Ames, Iowa (AM/FM/TV)
+WOL - Washington, D.C.
+WOR - New York, New York
+WSB - Atlanta, Georgia (AM/FM/TV)
+WSM - Nashville, Tennessee (AM/FM)
+WWJ - Detroit, Michigan (AM/TV)
+WWL - New Orleans, Louisiana (AM/FM/TV)
+
+
+FM radio (28 stations)[edit]
+In cases where an AM station exists with the same "base" call letters as an FM station, the FM station is required to include an "-FM" suffix as part of its call sign. If no AM station is currently using the same base call sign, then the "-FM" suffix is optional.
+
+
+KDB - Santa Barbara, California
+KGB-FM - San Diego, California
+KGU-FM - Honolulu, Hawaii (AM/FM)
+KID-FM - Idaho Falls, Idaho (AM/FM)
+KJR-FM - Seattle, Washington (AM/FM)
+KMA-FM - Clarinda, Iowa (AM/FM)
+KMJ-FM - Fresno, California (AM/FM)
+KPQ-FM - Wenatchee, Washington (AM/FM)
+KSD - St. Louis, Missouri
+KSL-FM - Salt Lake City, Utah (AM/FM/TV)
+KUJ-FM - Walla Walla, Washington (AM/FM)
+KUT - Austin, Texas
+KXL-FM - Portland, Oregon
+KXO-FM - El Centro, California (AM/FM)
+WBT-FM - Chester, South Carolina (AM/FM)
+WBZ-FM - Boston, Massachusetts (AM/FM/TV)
+WGH-FM - Newport News, Virginia (AM/FM)
+WGY-FM - Albany, New York (AM/FM)
+WIL-FM - St. Louis, Missouri
+WIP-FM - Philadelphia, Pennsylvania
+WJZ-FM - Baltimore, Maryland (AM/FM/TV)
+WLS-FM - Chicago, Illinois (AM/FM/TV)
+WMC-FM - Memphis, Tennessee (AM/FM/TV)
+WOI-FM - Ames, Iowa (AM/FM/TV)
+WRR - Dallas, Texas
+WSB-FM - Atlanta, Georgia (AM/FM/TV)
+WSM-FM - Nashville, Tennessee (AM/FM)
+WWL-FM - Kenner, Louisiana (AM/FM/TV)
+
+
+Television (21 stations)[edit]
+As with FM stations, if an AM station currently exists with the same "base" call, a TV station must include a suffix to differentiate itself, but this suffix is optional if no AM station currently exists. TV stations may select either "-TV" or "-DT" as their suffix.
+
+
+KGO-TV (7 RF/7 display, ABC) - San Francisco, California (AM/TV)
+KGW (8/8, NBC) - Portland, Oregon
+KHQ-TV (15/6, NBC) - Spokane, Washington
+KOB (26/4, NBC) - Albuquerque, New Mexico
+KSL-TV (38/5, NBC) - Salt Lake City, Utah (AM/FM/TV)
+KYW-TV (26/3, CBS) - Philadelphia, Pennsylvania (AM/TV)
+WBZ-TV (30/4, CBS) - Boston, Massachusetts (AM/FM/TV)
+WGN-TV (19/9, Independent) - Chicago, Illinois (AM/TV)
+WHA-TV (20/21, PBS) - Madison, Wisconsin (AM/TV)
+WHO-DT (13/13, NBC) - Des Moines, Iowa (AM/TV)
+WHP-TV (21/21, CBS) - Harrisburg, Pennsylvania (AM/TV)
+WIS (10/10, NBC) - Columbia, South Carolina
+WJW (8/8, Fox) - Cleveland, Ohio
+WJZ-TV (13/13, CBS) - Baltimore, Maryland (AM/FM/TV)
+WLS-TV (44/7, ABC) - Chicago, Illinois (AM/FM/TV)
+WMC-TV (5/5, NBC) - Memphis, Tennessee (AM/FM/TV)
+WOI-DT (5/5, ABC) - Ames, Iowa (AM/FM/TV)
+WRC-TV (48/4, NBC) - Washington, D.C.
+WSB-TV (39/2, ABC) - Atlanta, Georgia (AM/FM/TV)
+WWJ-TV (44/62, CBS) - Detroit, Michigan (AM/TV)
+WWL-TV (36/4, CBS) - New Orleans, Louisiana (AM/FM/TV)
+
+
+Other stations of note[edit]
+
+WWV - Fort Collins, Colorado — shortwave time signal data radio clock service operated by the National Institute of Standards and Technology
+KPH - Bolinas, California — shortwave morse code data service operated by the National Park Service
+
+References[edit]
+
+External links[edit]
+
+Media Bureau Call Sign Actions (Monthly U.S. Federal Communications Commission Public Notices)
+Call Sign Query (FCC Media Bureau Call Sign Desk)
+
+See also[edit]
+
+List of local television stations in North and Central America
+Lists of radio stations in North and Central America
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_three-letter_broadcast_callsigns_in_the_United_States&oldid=794527635"					
+Categories: Call signsAmerican television-related listsLists of American mediaAmerican radio stations with a three-letter call signAmerican television stations with a three-letter call sign 

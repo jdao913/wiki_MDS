@@ -1,0 +1,407 @@
+Grunwald–Winstein equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In physical organic chemistry, the Grunwald–Winstein equation is a linear free energy relationship between relative rate constants and the ionizing power of various solvent systems, describing the effect of solvent as nucleophile on different substrates. The equation, which was developed by Ernest Grunwald and Saul Winstein in 1948, could be written[1][2]
+
+
+
+
+
+log
+⁡
+
+
+
+k
+
+x
+,
+s
+o
+l
+
+
+
+k
+
+x
+,
+ 
+80
+%
+ 
+
+EtOH
+
+
+
+
+
+=
+m
+Y
+
+
+{\displaystyle \log {\frac {k_{x,sol}}{k_{x,\ 80\%\ {\ce {EtOH}}}}}=mY}
+
+
+
+where the kx, sol and kx, 80% EtOH are the solvolysis rate constants for a certain compound in different solvent systems and in the reference solvent, 80% aqueous ethanol, respectively. The parameter m is a parameter measuring the sensitivity of the solvolysis rate with respect to Y, the measure of ionizing power of the solvent.[3]
+
+
+
+Contents
+
+
+1 Background
+2 Definition
+
+2.1 Reference compound
+2.2 Y values
+2.3 m values
+
+
+3 Disadvantages
+4 See also
+5 References
+
+
+
+Background[edit]
+
+
+
+
+Dissociation of substituted benzoic acids.
+
+
+The Hammett equation (Equation 1) provides the relationship between the substituent on the benzene ring and the ionizing rate constant of the reaction. Hammett used the ionization of benzoic acid as the standard reaction to define a set of substituent parameters σX, and then to generate the ρ values, which represent ionizing abilities of different substrates. This relationship can be visualized through a Hammett Plot.
+
+
+
+
+
+
+
+
+
+log
+⁡
+
+
+
+k
+
+X
+
+
+
+k
+
+H
+
+
+
+
+=
+ρ
+
+σ
+
+X
+
+
+
+
+{\displaystyle \log {\frac {k_{\ce {X}}}{k_{\ce {H}}}}=\rho \sigma _{\ce {X}}}
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+(1)
+
+
+
+
+
+However, if the solvent of the reaction is changed, but not the structure of the substrate, the rate constant may change too. Following this idea, Grunwald and Winstein plotted the relative rate constant vs. the change of solvent system, and formulated this behavior in the Grunwald-Winstein equation. Since the equation has the same pattern as the Hammett equation but captures the change of the solvent system, it is considered as an extension of the Hammett equation.
+Definition[edit]
+Reference compound[edit]
+
+
+SN1 mechanism of substitution reaction
+
+
+The substitution reaction of tert-Butyl chloride was chosen as reference reaction. The first step, ionizing step, is the rate determining step, SO stands for the nucleophilic solvent. The reference solvent is 80% Ethanol and 20% water by volume. Both of them can carry out the nucleophilic attack on the carbocation.[4][5]
+The SN1 reaction is performed through a stable carbocation intermediate, the more nucleophilic solvent can stabilize the carbocation better, thus the rate constant of the reaction could be larger. Since there’s no sharp line between the SN1 and SN2 reaction, a reaction that goes through SN1 mechanism more is preferred to achieve a better linear relationship, hence t-BuCl was chosen.
+Y values[edit]
+
+
+solvent, %by vol.
+Y
+solvent, %by vol.
+Y
+solvent, %by vol.
+Y
+
+
+EtOH-H2O
+
+25
+2.908
+30
+2.753
+
+
+100
+-2.033
+20
+3.051
+20
+3.025
+
+
+98
+-1.681
+15
+3.189
+10
+3.279
+
+
+95
+-1.287
+10
+3.312
+AcOH-HCOOH
+
+
+
+90
+-0.747
+5
+3.397
+100
+-1.639
+
+
+80
+0
+H2O
+3.493
+90
+-0.929
+
+
+70
+0.595
+MeOH-H2O
+
+75
+-0.175
+
+
+60
+1.124
+100
+-1.09
+50
+0.757
+
+
+50
+1.655
+90
+-0.301
+25
+1.466
+
+
+45
+1.924
+80
+0.381
+10
+1.862
+
+
+40
+2.196
+70
+0.961
+
+
+
+
+37.5
+2.338
+60
+1.492
+
+
+
+
+35
+2.473
+50
+1.972
+
+
+
+
+30
+2.721
+40
+2.391
+
+
+
+
+
+
+
+
+
+
+
+
+
+log
+⁡
+
+
+
+k
+
+t
+−
+
+BuCl
+
+,
+s
+o
+l
+
+
+
+k
+
+
+
+t
+
+
+
+−
+
+BuCl
+,
+ 
+80
+
+%
+ 
+EtOH
+
+
+
+
+=
+Y
+
+
+{\displaystyle \log {\frac {k_{t-{\ce {BuCl}},sol}}{k_{\ce {{\mathit {t}}-BuCl,\ 80\%\ EtOH}}}}=Y}
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+(2)
+
+
+
+
+
+In equation 2, kt-BuCl, 80% EtOH stands for the rate constant of t-BuCl reaction in 80% aqueous Ethanol, which is chosen as the reference. The variable kt-BuCl, sol stands for the rate constant of the same reaction in a different solvent system, such as ethanol-water, methanol-water, and acetic acid-formic acid. Thus, Y reflects the ionizing power of different nucleophile solvents.
+m values[edit]
+The equation parameter m, called the sensitivity factor of solvolysis, describes the compound’s ability to form the carbocation intermediate in given solvent system. It is the slope of the plot of log(ksol/k80%EtOH) vs Y values. Since the reference reaction has little solvent nucleophilic assistance, the reactions with m equal to 1 or larger than 1 have almost full ionized intermediates. If the compounds are not so sensitive to the ionizing ability of solvent, then the m values are smaller than 1. That is:
+
+m ≥ 1, the reactions proceed through SN1 mechanism.
+m < 1, the reactions proceed through a mechanism between SN1 and SN2.
+
+Disadvantages[edit]
+
+The Grunwald-Winstein equation cannot fit all data for different kinds of solvent mixtures. The combinations are limited to certain systems and only to nucleophilic solvents.
+For many reactions and nucleophilic solvent systems, the relationships are not fully linear. This derives from the growing SN2 reaction character within the mechanism.
+
+See also[edit]
+
+Free-energy relationship
+Hammett equation
+Quantitative structure-activity relationship
+
+References[edit]
+
+
+
+^ Eric Anslyn, E.; Dougherty, D. A. Modern Physical Organic Chemistry; University Science Books, 2006, p 456.
+^ Catalán, Javier; Díaz, Cristina; García-Blanco, Francisco (1999). "Correlation of Solvolysis Rates 50 Years Later". The Journal of Organic Chemistry. 64 (17): 6512–6514. doi:10.1021/jo990588w. 
+^ Fainberg, A.H.; Winstein,S. (1956). "Correlation of Solvolysis Rate III. t-Butyl Chloride In a Wide Range of Solvent Mixtures". J. Am. Chem. Soc. 78 (12): 2770. doi:10.1021/ja01593a033. 
+^ Grunwald, E.; Winstein, S. (1948). "The Correlation of Solvolysis Rates". J. Am. Chem. Soc. 70 (2): 846. doi:10.1021/ja01182a117. 
+^ Winstein, S.; Grunwald, E.; Jones, H.W. (1951). "The Correlation of Solvolysis Rates and the Classification of Solvolysis Reactions into Mechanistic Categories". J. Am. Chem. Soc. 73 (6): 2700. doi:10.1021/ja01150a078. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Grunwald–Winstein_equation&oldid=725505409"					
+Categories: Physical organic chemistryEquations 

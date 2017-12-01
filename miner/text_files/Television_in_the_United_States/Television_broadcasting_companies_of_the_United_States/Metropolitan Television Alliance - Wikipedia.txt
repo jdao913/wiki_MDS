@@ -1,0 +1,461 @@
+Metropolitan Television Alliance - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Metropolitan Television Alliance, LLC (MTVA) is group organized in the wake of the loss of the transmission facilities atop the World Trade Center in 2001. Its mission is to identify, design and build a facility suitable for the long-term requirements of its member stations to meet their over-the-air digital broadcast requirements.[1] This could include designing facilities for the Freedom Tower in Lower Manhattan, assessing alternative sites and technologies and dealing with local, state and federal authorities on relevant issues.[2]
+The group, which includes stations WABC-TV 7, WCBS-TV 2, WFUT–TV 68, WNBC–TV 4, WNET–TV 13, WNJU–TV 47, WNYE-TV 25, WNYW–TV 5, WPIX–TV 11, WPXN-TV 31, WWOR-TV 9 and WXTV–TV 41, signed a memorandum of understanding in 2003 with the developer, Larry A. Silverstein, to install antennas atop the Freedom Tower. Broadcasters have used the Empire State Building (and, to a lesser degree, 4 Times Square) since the September 11 attacks.[3] In 2006, control of the project was transferred to the Port Authority of New York and New Jersey, with which further discussions have been ongoing.
+The group received a grant from the NTIA to study distributed transmission system (DTS) in New York City.[4] Multiple tests were run from various sites in the New York and Newark region in 2006 and 2007 by MTVA and individual member stations, with the use of distributed transmission on a permanent, non-experimental basis ultimately approved for US stations by the Federal Communications Commission on November 7, 2008.
+In 2008, Saul Shapiro was appointed President.[5]
+References[edit]
+
+
+^ BIG STICK, BIG JOB: Finding NY's new TV home, TVNewsday, May 29 2008
+^ "Rivalry on the Waterfront as 2 Cities Vie to Welcome a TV Tower", Jayson Blair, New York Times, September 9, 2002
+^ Will the Freedom Tower's Spire Survive?, David W. Dunlap, New York Times, January 27, 2005
+^ NTIA on post-9/11 NYC DTV
+^ TV coalition head leads digital push, Crain's NY Business, April 24, 2008
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Telecommunications
+
+
+
+History
+
+
+
+
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Drums
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Internet
+Mass media
+Mobile phone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Smartphone
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+Timeline of communication technology
+Undersea telegraph line
+Videoconferencing
+Videophone
+Videotelephony
+Whistled language
+
+
+
+
+
+Pioneers
+
+
+
+Edwin Howard Armstrong
+John Logie Baird
+Paul Baran
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Vint Cerf
+Claude Chappe
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Erna Schneider Hoover
+Charles K. Kao
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Antonio Meucci
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+
+
+
+
+
+Transmission
+media
+
+
+
+Coaxial cable
+Free-space optical communication
+Molecular communication
+Optical fiber
+Radio waves
+Transmission line
+
+
+
+
+
+Network topology
+and switching
+
+
+
+Links
+Nodes
+Terminal node
+Network switching (circuit
+packet)
+Telephone exchange
+
+
+
+
+
+Multiplexing
+
+
+
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+
+
+
+
+
+Networks
+
+
+
+ARPANET
+BITNET
+Cellular network
+Computer
+CYCLADES
+Ethernet
+FidoNet
+Internet
+ISDN
+LAN
+Mobile
+NGN
+NPL network
+Public Switched Telephone
+Radio
+Telecommunications equipment
+Television
+Telex
+WAN
+Wireless
+World Wide Web
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Metropolitan_Television_Alliance&oldid=764832959"					
+Categories: Television broadcasting companies of the United StatesTelevision organizations in the United States 

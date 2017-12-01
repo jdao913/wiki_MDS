@@ -1,0 +1,368 @@
+Nash–Moser theorem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Nash–Moser theorem, attributed to mathematicians John Forbes Nash and Jürgen Moser, is a generalization of the inverse function theorem on Banach spaces to a class of "tame" Fréchet spaces.
+
+
+
+Contents
+
+
+1 Introduction
+2 History
+3 Formal statement
+4 References
+
+
+
+Introduction[edit]
+In contrast to the Banach space case, in which the invertibility of the derivative at a point is sufficient for a map to be locally invertible, the Nash–Moser theorem requires the derivative to be invertible in a neighborhood. The theorem is widely used to prove local existence for non-linear partial differential equations in spaces of smooth functions. It is particularly useful when the inverse to the derivative "loses" derivatives, and therefore the Banach space implicit function theorem cannot be used.
+History[edit]
+While Nash (1956) originated the theorem as a step in his proof of the Nash embedding theorem, Moser (1966a, 1966b) showed that Nash's methods could be successfully applied to solve problems on periodic orbits in celestial mechanics.
+Formal statement[edit]
+The formal statement of the theorem is as follows:[1]
+
+Let 
+
+
+
+F
+
+
+{\displaystyle F}
+
+ and 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ be tame Frechet spaces and let 
+
+
+
+P
+:
+U
+⊆
+F
+→
+G
+
+
+{\displaystyle P:U\subseteq F\rightarrow G}
+
+ be a smooth tame map. Suppose that the equation for the derivative 
+
+
+
+D
+P
+(
+f
+)
+h
+=
+k
+
+
+{\displaystyle DP(f)h=k}
+
+ has a unique solution 
+
+
+
+h
+=
+V
+P
+(
+f
+)
+k
+
+
+{\displaystyle h=VP(f)k}
+
+ for all 
+
+
+
+f
+∈
+U
+
+
+{\displaystyle f\in U}
+
+ and all 
+
+
+
+k
+
+
+{\displaystyle k}
+
+, and that the family of inverses 
+
+
+
+V
+P
+:
+U
+×
+G
+→
+F
+
+
+{\displaystyle VP:U\times G\rightarrow F}
+
+ is a smooth tame map. Then P is locally invertible, and each local inverse 
+
+
+
+
+P
+
+−
+1
+
+
+
+
+{\displaystyle P^{-1}}
+
+ is a smooth tame map.
+
+References[edit]
+
+
+
+^ Hamilton, Richard S. (1982). "The inverse function theorem of Nash and Moser" (PDF-12MB). Bulletin of the American Mathematical Society. 7 (1): 65–222. doi:10.1090/S0273-0979-1982-15004-2. MR 0656198. . (A detailed exposition of the Nash–Moser theorem and its mathematical background.)
+
+
+
+
+Moser, Jürgen (1966a), "A rapidly convergent iteration method and non-linear partial differential equations. I", Ann. Scuola Norm. Sup. Pisa (3), 20: 265–315, MR 0199523 
+Moser, Jürgen (1966b), "A rapidly convergent iteration method and non-linear partial differential equations. II", Ann. Scuola Norm. Sup. Pisa (3), 20: 499–535, MR 0206461 
+Nash, John (1956), "The imbedding problem for Riemannian manifolds", Annals of Mathematics, 63 (1): 20–63, doi:10.2307/1969989, JSTOR 1969989, MR 0075639 .
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Functional analysis (topics)
+
+
+
+TVS types
+
+
+
+Banach
+Banach Lattice
+Barrelled
+Bornological
+Brauner
+F-space
+Finite-dimensional
+Fréchet (tame)
+Hilbert (pre-Hilbert)
+LF-space
+Locally convex
+Mackey
+Montel
+Nuclear
+Normed (norm)
+Quasinormed
+Reflexive
+Riesz
+Smith
+Stereotype
+Strictly convex
+Webbed
+Topological tensor product (of Hilbert spaces)
+
+
+
+
+
+Mapping topologies
+
+
+
+Dual
+Dual space
+Operator
+Ultraweak
+Weak (operator)
+Mackey
+Strong (polar
+operator)
+Ultrastrong
+Uniform convergence
+
+
+
+
+
+Linear operators
+
+
+
+Adjoint
+Bilinear (form)
+Bounded / Unbounded
+Closed
+Continuous / Discontinuous
+Compact
+Fredholm
+Hilbert–Schmidt
+Functionals (positive)
+Normal
+Nuclear
+Self-adjoint
+Strictly singular
+Trace class
+Transpose
+Unitary
+
+
+
+
+
+Operator theory
+
+
+
+Banach algebras
+C*-algebras
+Spectrum (C*-algebra
+radius)
+Spectral theory (of ODEs
+Spectral theorem)
+Polar decomposition
+Singular value decomposition
+
+
+
+
+
+Theorems
+
+
+
+Banach–Alaoglu
+Banach–Mazur
+Banach–Saks
+Bessel's inequality
+Cauchy–Schwarz inequality
+Closed graph
+Closed range
+Eberlein–Šmulian
+Freudenthal spectral
+Gelfand–Mazur
+Gelfand–Naimark
+Goldstine
+Hahn–Banach (hyperplane separation)
+Kakutani fixed-point
+Krein–Milman
+Lomonosov's invariant subspace
+Mackey–Arens
+Mazur's lemma
+M. Riesz extension
+Open mapping
+Parseval's identity
+Schauder fixed-point
+
+
+
+
+
+Analysis
+
+
+
+Bochner space
+Differentiation in Fréchet spaces
+Derivatives (Fréchet
+Gâteaux
+functional
+holomorphic)
+Integrals (Bochner
+Dunford
+Gelfand–Pettis
+regulated
+weak)
+Functional calculus (Borel
+continuous
+holomorphic)
+Inverse function theorem (Nash–Moser theorem)
+Vector measure
+Weakly measurable function
+
+
+
+
+
+Types of sets
+
+
+
+Absolutely convex
+Absorbing
+Balanced
+Bounded
+Convex
+Convex cone (subset)
+Linear cone (subset)
+Radial
+Star-shaped
+Symmetric
+Zonotope
+
+
+
+
+
+Subsets / set operations
+
+
+
+Algebraic interior (core)
+Bounding points
+Convex hull
+Extreme point
+Interior
+Minkowski addition
+Polar
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nash–Moser_theorem&oldid=748029978"					
+Categories: Differential equationsTopological vector spacesInverse functionsTheorems in functional analysis 

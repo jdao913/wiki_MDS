@@ -1,0 +1,314 @@
+Faraday's laws of electrolysis - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+Michael Faraday.
+
+
+Faraday's laws of electrolysis are quantitative relationships based on the electrochemical researches published by Michael Faraday in 1834.[1]
+
+
+
+Contents
+
+
+1 Mathematical form
+2 See also
+3 References
+4 Further reading
+
+
+
+Mathematical form[edit]
+Faraday's laws can be summarized by
+
+
+
+
+
+m
+ 
+=
+ 
+
+(
+
+
+Q
+F
+
+
+)
+
+
+(
+
+
+M
+z
+
+
+)
+
+
+
+{\displaystyle m\ =\ \left({Q \over F}\right)\left({M \over z}\right)}
+
+
+
+where:
+
+m is the mass of the substance liberated at an electrode in gms
+Q is the total electric charge passed through the substance in coulombs
+F = 96485 C mol−1 is the Faraday constant
+M is the molar mass of the substance in grams per mol
+z is the valency number of ions of the substance (electrons transferred per ion).
+
+Note that M/z is the same as the equivalent weight of the substance altered.
+For Faraday's first law, M, F, and z are constants, so that the larger the value of Q the larger m will be.
+For Faraday's second law, Q, F, and z are constants, so that the larger the value of M/z (equivalent weight) the larger m will be.
+In the simple case of constant-current electrolysis, 
+
+
+
+Q
+=
+I
+t
+
+
+{\displaystyle Q=It}
+
+ leading to
+
+
+
+
+
+m
+ 
+=
+ 
+
+(
+
+
+
+I
+t
+
+F
+
+
+)
+
+
+(
+
+
+M
+z
+
+
+)
+
+
+
+{\displaystyle m\ =\ \left({It \over F}\right)\left({M \over z}\right)}
+
+
+
+and then to
+
+
+
+
+
+n
+ 
+=
+ 
+
+(
+
+
+
+I
+t
+
+F
+
+
+)
+
+
+(
+
+
+1
+z
+
+
+)
+
+
+
+{\displaystyle n\ =\ \left({It \over F}\right)\left({1 \over z}\right)}
+
+
+
+where:
+
+n is the amount of substance ("number of moles") liberated: n = m/M
+t is the total time the constant current was applied.
+
+In the more complicated case of a variable electric current, the total charge Q is the electric current I(
+
+
+
+τ
+
+
+{\displaystyle \tau }
+
+) integrated over time 
+
+
+
+τ
+
+
+{\displaystyle \tau }
+
+:
+
+
+
+
+
+Q
+=
+
+∫
+
+0
+
+
+t
+
+
+I
+(
+τ
+)
+ 
+d
+τ
+
+
+{\displaystyle Q=\int _{0}^{t}I(\tau )\ d\tau }
+
+
+
+Here t is the total electrolysis time.[2]
+See also[edit]
+
+Electrolysis
+Faraday's law of induction
+
+References[edit]
+
+
+^ Ehl, Rosemary Gene; Ihde, Aaron (1954). "Faraday's Electrochemical Laws and the Determination of Equivalent Weights". Journal of Chemical Education. 31 (May): 226–232. Bibcode:1954JChEd..31..226E. doi:10.1021/ed031p226. 
+^ For a similar treatment, see Strong, F. C. (1961). "Faraday's Laws in One Equation". Journal of Chemical Education. 38 (2): 98. Bibcode:1961JChEd..38...98S. doi:10.1021/ed038p98. 
+
+
+Further reading[edit]
+
+Serway, Moses, and Moyer, Modern Physics, third edition (2005),principles of physics.
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Articles related to electrolysis / Standard electrode potential
+
+
+
+Electrolytic processes
+
+
+
+Betts electrolytic process
+Castner process
+Castner–Kellner process
+Chloralkali process
+Downs cell
+Electrolysis of water
+Electrowinning
+Hall–Héroult process
+Hofmann voltameter
+Kolbe electrolysis
+
+
+
+
+
+Materials produced by electrolysis
+
+
+
+Aluminium (extraction)
+Calcium metal
+Chlorine
+Copper
+Electrolysed water
+Fluorine
+Hydrogen
+Lithium metal
+Magnesium metal
+Potassium metal
+Sodium metal
+Sodium hydroxide
+Zinc
+
+
+
+
+
+See also
+
+
+
+Electrochemistry
+Gas cracker
+Standard electrode potential (data page)
+Electrology
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Faraday%27s_laws_of_electrolysis&oldid=810796591"					
+Categories: ElectrolysisElectrochemical equationsScientific laws 

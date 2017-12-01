@@ -1,0 +1,41 @@
+Degree of a differential equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, the degree of a differential equation is the power of its highest derivative, after the equation has been made rational and integral in all of its derivatives.[1][2][3][4]
+References[edit]
+
+
+
+^ Order and Degree General Terms of Ordinary Differential Equations. Fundamentals website; accessed 26 Dec 2015.
+^ Differential Equations:Degree and Order (www3.ul.ie/cemtl/pdf files/bm2/DegreeOrder.pdf), Mathematics Learning Centre Limerick.
+^ Differential equations. Definitions. Order, degree. General, particular and singular solutions. Solitaryroad.com, accessed Dec 2015.
+^ Morris, Max; Brown, Orley (1952). Differential Equations (3 ed.). Englewood Cliffs N.J.: Prentice-Hall, Inc. p. 1. 
+
+
+
+
+
+
+
+This mathematical analysis–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Degree_of_a_differential_equation&oldid=758363330"					
+Categories: Differential equationsMathematical analysis stubsHidden categories: All stub articles 

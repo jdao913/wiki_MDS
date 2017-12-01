@@ -1,0 +1,63 @@
+Community Broadcasters Association - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Community Broadcasters Association (CBA) was a trade organization representing low-power broadcasting interests, including LPTV and Class A television stations, in the United States of America. It ceased operations in 2009.[1]
+
+
+
+Contents
+
+
+1 History
+2 See also
+3 References
+4 External links
+
+
+
+History[edit]
+Key issues addressed by the CBA included the provision of interference protection for small broadcasters (for which it successfully petitioned the FCC for creation of the "Class A" designation in 1998[2]) and the need for analog passthrough in coupon-eligible converter boxes (it had unsuccessfully pursued legal action claiming that the absence of this feature, needed to avoid blocking signals from low-power and foreign stations not converting to digital in 2009, violates the All-Channel Receiver Act of 1961).
+CBA's lawsuit seeking an injunction to halt the sale and distribution of DTV converter boxes lacking analog tuners and analog passthrough[3] was filed in March 2008[4] but denied without comment in the U.S. Court of Appeals for the District of Columbia in May 2008.[5] The FCC and NTIA urged manufacturers to include analogue pass-through voluntarily in all converter boxes, and some of the newest generation of models now offer the feature.[6]
+Due to the large number of public service announcements on full-service stations, which often confusingly claimed that "all TV is going digital" on February 17, 2009, the CBA established websites such as KeepUsOn.com to notify consumers of the continued post-transition operation of analogue LPTV, with information on how to find and install converters which offered analogue pass-through capability.[7]
+The CBA also advocated that existing Class A stations be permitted to upgrade to full service status, obtaining the same must-carry access to cable television that was available to full-power broadcasters,[8] and (like full-power broadcasters[9]) opposed expansion of the FM radio band into the frequency range currently occupied by TV channels 5 and 6.[10]
+Amy Brown was the executive director of the Community Broadcasters Association when it closed.[11] The corresponding advocacy role for US full-service television stations is filled by the National Association of Broadcasters.
+See also[edit]
+
+Class A television service
+Broadcast relay station
+Low-power broadcasting
+DTV transition in the United States
+
+References[edit]
+
+
+
+^ Community Broadcasters Association to Shutter
+^ April 21, 1998 FCC petition for rule-making for "CLASS A" TV service
+^ What Will Digital Do to Low-Power TV?, Joel Rose, NPR Weekend Edition, May 3, 2008
+^ Community Broadcasters Association petitions court to order DTV converter halt Archived 2008-12-04 at the Wayback Machine.
+^ Court Denies CBA Petition on Analog Pass-Through Archived 2008-07-24 at the Wayback Machine.
+^ Small television stations struggling with digital conversion, Ana Radelat, USA Today/Gannett News, June 7, 2008
+^ Keep Us On, CBA's site listing analogue pass-through converters and answering viewers' DTV questions Archived December 25, 2008, at the Wayback Machine.
+^ CBA's filing re: FCC MB Docket No. 07-294, September 16, 2008
+^ FCC Docket No. 07-294 Reply comments of the National Association of Broadcasters
+^ FCC Docket No. 07-294 Supplement to reply comments of the Community Broadcasters Association Archived 2012-02-19 at the Wayback Machine.
+^ Community Broadcasters Association closes doors; some LPTV stations look to cellular alternative Archived 2010-01-15 at the Wayback Machine.
+
+
+
+External links[edit]
+
+Community Broadcasters Association (no longer active)
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Community_Broadcasters_Association&oldid=807359394"					
+Categories: Television organizations in the United StatesBroadcast lawDefunct organizations based in the United StatesOrganizations disestablished in 2009Hidden categories: Webarchive template wayback links 

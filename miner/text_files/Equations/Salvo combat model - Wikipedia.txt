@@ -1,0 +1,114 @@
+Salvo combat model - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+A Russian Navy Kirov-class battlecruiser can carry hundreds of missiles.
+
+
+The salvo combat model provides a mathematical representation of anti-ship missile battles between modern warships. It was developed by Wayne Hughes at the U.S. Naval Postgraduate School in Monterey.[1] The salvo model describes the basic elements of modern missile combat in a very simple manner. This is similar to how Lanchester's Square Law provides a simple model of modern gun combat.[2]
+
+
+
+Contents
+
+
+1 The model's structure
+
+1.1 Basic form
+1.2 Relation to Lanchester's laws
+
+
+2 Applications of the model
+
+2.1 Types of warfare
+2.2 Development of tactics
+
+
+3 References
+4 Further reading
+
+
+
+The model's structure[edit]
+Basic form[edit]
+Suppose that two naval forces, Red and Blue, are engaging each other in combat. The battle begins with Red firing a salvo of missiles at Blue. The Blue ships try to shoot down those incoming missiles. Simultaneously, Blue launches a salvo that Red tries to intercept.
+This exchange of missile fire can be modeled as follows. Let symbol A represent the number of combat units (warships or other weapon platforms) in the Red force at the beginning of the battle. Each one has offensive firepower α, which is the number of offensive missiles accurately fired per salvo at the enemy. Each one also has defensive firepower y, which is the number of incoming enemy missiles intercepted per salvo by its active defenses. Each ship has staying power w, which is the number of enemy missile hits required to put it out of action. Equivalently, one could say that each attacking missile can cause damage equal to a fraction u=1/w of a Red ship.
+The Blue force is represented in a similar manner. Blue has B units, each with offensive firepower β, defensive firepower z, and staying power x. Each missile that hits will cause damage v=1/x.
+The salvo combat model calculates the number of ships lost on each side using the following pair of equations. Here, ΔA represents the change in the number of Red's ships from one salvo, while ΔB represents the change in the number of Blue ships.
+
+ΔA = -(βB - yA)u, subject to 0 ≤ -ΔA ≤ A
+
+
+ΔB = -(αA - zB)v, subject to 0 ≤ -ΔB ≤ B
+
+Each equation starts by calculating the total number of offensive missiles being launched by the attacker. It then subtracts the total number of interceptions by the defender. The number of remaining (non-intercepted) offensive missiles is multiplied by the amount of damage caused per missile to get the total amount of damage. If there are more defensive interceptions than offensive missiles, then the total damage is zero; it cannot be negative.
+These equations assume that each side is using aimed fire; that is, a force knows the location of its target and can aim its missiles at it. If however a force knows only the approximate location of its target (e.g., somewhere within a fog bank), then it may spread its fire across a wide area, with the hope that at least some of its missiles will find the target. A different version of the salvo equations is required for such area fire.[3]
+Mathematically, the salvo equations can be thought of as difference equations or recurrence relations. They are also an example of operations research.
+A stochastic (or probabilistic) version of the model also exists.[4] In this version, the ship parameters listed above are random variables instead of constants. This means that the result of each salvo also varies randomly. The stochastic model can be incorporated into a computer spreadsheet and used instead of the Monte Carlo method of computer simulation.[5] An alternative version of this model exists for situations where one side attacks first, and then the survivors (if any) on the other side counter-attack,[6] such as at the Battle of Midway.
+Relation to Lanchester's laws[edit]
+
+
+
+
+The U.S. Navy's Arleigh Burke class of guided missile destroyers is designed for missile combat.
+
+
+The salvo equations are related to Lanchester's Square Law equations, with two main differences.
+First, the basic salvo equations form a discrete time model, whereas Lanchester's original equations form a continuous time model. Cruise missiles typically are fired in relatively small quantities. Each one has a high probability of hitting its target, if not intercepted, and carries a relatively powerful warhead. Therefore, it makes sense to model them as a discrete pulse (or salvo) of firepower.
+By comparison, bullets or shells in a gun battle are typically fired in large quantities. Each round has a relatively low chance of hitting its target, and does a relatively small amount of damage. Therefore, it makes sense to model them as a small but continuous stream of firepower.
+Second, the salvo equations include defensive firepower, whereas Lanchester's original equations include only offensive firepower. Cruise missiles can be intercepted (shot down) by active defenses, such as surface-to-air missiles and anti-aircraft guns. By comparison, it is generally not practical to intercept bullets and shells during a gun battle.
+Applications of the model[edit]
+Types of warfare[edit]
+The salvo model primarily represents naval missile battles, such as those that occurred during the Falklands War. Offensive firepower represents anti-ship cruise missiles such as the Harpoon, the Exocet and the Styx. Defensive firepower represents air defense missiles such as the Standard, as well as anti-aircraft guns such as the Phalanx. However, one can adapt the model to other kinds of battles having similar characteristics.
+For example, some authors have used it study World War II battles between aircraft carriers,[7] such as the Battle of the Coral Sea.[8] In this case, the offensive firepower consists of dive bombers and torpedo bombers. The defensive firepower consists of fighter aircraft that try to intercept those bombers.
+The model could instead describe battles where torpedoes are the main form of offensive firepower, such as in the Battle of Savo Island. In this case, the defensive firepower would be zero, since so far there is no effective way to actively intercept torpedoes.
+A simplified version of the model was used to study alternative outcomes of the Charge of the Light Brigade by British cavalry against Russian cannon in 1854.[9] The model has also been modified to represent tactical ballistic missile defense. This variant was used to analyze the performance of the Iron Dome missile defense system during 2012's Operation Pillar of Defense.[10]
+Development of tactics[edit]
+
+
+
+
+The Chinese Navy's Type 022 Houbei-class missile boats are small and fast.
+
+
+The salvo combat model can help with research on a variety of issues in naval warfare.[11] For example, one study examined the value of having accurate information about an enemy fleet.[12] Another study examined how many missiles would be required to achieve a desired probability of success when attacking several targets at once.[13] Researchers have also analyzed the mathematical properties of the model itself.[14]
+The initial goal of such research is to get a better understanding of how the model works. A more important objective is to see what the model might suggest about the behavior of real missile battles. This could help with the development of better modern naval tactics for attacking with and defending against such missiles.
+References[edit]
+
+
+
+^ Hughes WP. 1995. A salvo model of warships in missile combat used to evaluate their staying power. Naval Research Logistics 42 (2) 267-289.
+^ Taylor JG. 1983. Lanchester Models of Warfare, volumes I & II. Operations Research Society of America.
+^ Armstrong MJ, 2014. “The salvo combat model with area fire”. Naval Research Logistics.
+^ Armstrong MJ, 2005, A stochastic salvo model for naval surface combat, Operations Research 53, #5, 830-841.
+^ Armstrong MJ, 2011, A verification study of the stochastic salvo combat model, Annals of Operations Research 186, #1, 23-38.
+^ Armstrong MJ, 2014. The salvo combat model with a sequential exchange of fire. Journal of the Operational Research Society.
+^ Hughes WP, 2000, Fleet tactics and coastal combat, Naval Institute Press, Annapolis.
+^ Armstrong MJ, Powell MB, 2005, A salvo combat analysis of the Battle of the Coral Sea, Military Operations Research 10 #4, 27-38.
+^ Connors D, Armstrong MJ, Bonnett J, 2015, A counterfactual study of the Charge of the Light Brigade, Historical Methods: A Journal of Quantitative and Interdisciplinary History 48 #2, 80-89.
+^ Armstrong MJ, 2014, Modeling short-range ballistic missile defense and Israel's Iron Dome system, Operations Research 62 #5, 1028-1039.
+^ Xu Xiaoming, Ren Yaofeng, Feng Wei, 2010, Analysis of Warfare Loss of the Surface Missile Combat Based on Salvo Model, Ship Electronic Engineering 30 (9).
+^ Lucas TW, McGunnigle JE, 2003, When is model complexity too much? Illustrating the benefits of simple models with Hughes' salvo equations, Naval Research Logistics 50 #3, 197-217.
+^ Armstrong MJ, 2007, Effective attacks in the salvo combat model: salvo sizes and quantities of targets, Naval Research Logistics 54 #1, 66-77.
+^ Armstrong MJ. 2004. Effects of lethality on naval combat models. Naval Research Logistics 51 #1, 28-43.
+
+
+
+Further reading[edit]
+
+Weapons Analysis LLC (2012). Anti-Surface Warfare Salvo Model.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Salvo_combat_model&oldid=791813249"					
+Categories: EquationsMilitary theoryNaval warfareHidden categories: Articles created via the Article Wizard 

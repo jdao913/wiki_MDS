@@ -1,0 +1,148 @@
+WPIX, Inc. v. ivi, Inc. - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+WPIX, Inc. v. ivi, Inc.
+
+
+
+
+
+Court
+United States Court of Appeals for the Second Circuit
+
+
+Full case name
+WPIX, Inc. et al. v. ivi, Inc.
+
+
+Argued
+May 30 2012
+
+
+Decided
+August 27 2012
+
+
+Case history
+
+
+Procedural history
+Affirmed holding from 765 F. Supp. 2d 594 (S.D.N.Y. 2011)
+
+
+Holding
+
+
+Internet-based retransmission of broadcast television is not entitled to a compulsory license under §111 of the Copyright Act
+
+
+Court membership
+
+
+Judge(s) sitting
+Ralph K. Winter, Jr., Denny Chin, Christopher F. Droney
+
+
+Case opinions
+
+
+Majority
+Chin, joined by Winter, Droney
+
+
+Laws applied
+
+
+Copyright Act of 1976
+
+
+WPIX, Inc. v. ivi, Inc., was a copyright infringement case heard before the United States Court of Appeals for the Second Circuit. The appeals court affirmed the decision of the district court to grant an injunction for the plaintiffs, barring ivi, Inc. from broadcasting television programming over the Internet. This decision set a precedent that broadcast television material can be protected by copyright and cannot be re-transmitted on the Internet without permission.
+
+
+
+Contents
+
+
+1 Background
+2 Legal proceedings
+3 Opinion of the Appeals Court
+
+3.1 Chevron Step One
+3.2 Chevron Step Two
+3.3 Irreparable Injury
+3.4 Public Interest
+
+
+4 Service termination
+5 See also
+6 References
+
+
+
+Background[edit]
+ivi, Inc. is a Seattle-based company that began retransmitting broadcast television content via the Internet to paid subscribers on September 13, 2010.[1] Designed to be an improvement over more expensive traditional cable services, viewers could watch local broadcast TV from New York City and Seattle, and later Chicago and Los Angeles, from anywhere in the world for a monthly subscription of $4.99 without any special equipment. A recording service could be added for $0.99 per month. Shortly after beginning operations, ivi and CEO Todd Weaver received cease-and-desist notices from a group of affected copyright holders and television stations, who calculated that ivi's services severely decreased the value of their programming and decrease advertisement revenue.
+Legal proceedings[edit]
+On September 20, 2010, ivi filed a declaratory judgment action in the District Court for the Western District of Washington, seeking a declaration of non-infringement on the grounds that §111 of the Copyright Act of 1976 authorizes retransmission of broadcast television content for cable companies.[2] The same day, ivi issued a press release calling their legal action "a preemptive move to discourage needless litigation from big media," and expressing their desire to "work with content owners [to help] them to realize new revenue streams and reach more viewers from around the globe."[3]
+On September 28, a group of copyright holders and broadcasters, including Disney, NBC, ABC, CBS, Fox, The CW, Telemundo, and others, filed a copyright infringement action against ivi in the District Court for the Southern District of New York.[4] ivi's earlier declaratory action was subsequently dismissed by the Washington district court on the grounds that it was improperly anticipatory.[5]
+On January 31, 2011, Public Knowledge, the Electronic Frontier Foundation, the Media Access Project, and the Open Technology Institute filed an amici brief with the court in support of ivi.[6][7] Noting that "amicus briefs are unusual at the district court level," the brief argued that ivi should be considered a cable system under §111, and that granting a preliminary injunction against ivi would not serve the public interest.[6]
+On February 20, 2011, the New York district court granted the plaintiff's motion for a preliminary injunction against ivi, finding that ivi was not a "cable system" and hence not entitled to a compulsory license under §111 of the Copyright Act.[8] ivi appealed the district's court decision[9].
+Opinion of the Appeals Court[edit]
+ivi admitted that they had broadcast the plaintiff's copyrighted content, but offered an affirmative defense by arguing that §111 of the Copyright Act grants cable systems a compulsory license to retransmit broadcast television content. Hence, the principal issue to be decided by the court was whether ivi qualified as a "cable system" according to the Copyright Act.[10]
+In deciding whether ivi qualified as a cable system under the Copyright Act, the court applied the two-step test from Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.. Chevron dictates that courts should first consider the text of the relevant legislation and the intent of Congress. If the relevant legislation does not directly address the issue at hand, Chevron then instructs that courts should defer to the interpretation of the government agency that administers the statute, provided that the agency's interpretation is deemed to be "reasonable."
+Chevron Step One[edit]
+§111 of the Copyright Act defines a "cable system" as:
+
+a facility, located in any State, territory, trust territory, or possession of the United States, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service.
+
+The court found that "it is simply not clear" whether the text of the Copyright Act would include ivi as a cable system.[10]
+Next, the court considered whether it was the legislative intent of Congress to include Internet-based retransmission as a type of cable system. The court observed that Congress' original intent in enacting §111 was to encourage cable systems to provide better television reception for remote communities that were poorly served by over-the-air broadcast television. Drawing upon Turner Broadcasting v. Federal Communications Commission, the court found that "Congress intended to support localized—rather than nationwide—systems that use cable or optical fibers to transmit signals."[10] Because Internet-based retransmission is not intended to deliver content to remote regions and is not a localized transmission service, the court found that "Congress did not intend for §111's compulsory license to extent to Internet retransmissions."[10]
+The court noted that it intentionally interpreted §111 of the Copyright Act "as narrowly as possible" according to New York Times Co. v. Tasini, in order to minimize government interference on the market; exceptions to the exclusive property rights of copyright holders should be granted sparingly.[10]
+Chevron Step Two[edit]
+Although the court found that step one of the Chevron test was sufficient to conclude that ivi is not entitled to a compulsory license, the court also provided a step two analysis to see if the United States Copyright Office has interpreted the Copyright Act in a way that would treat ivi as a cable system. The court found that this was not the case; the Copyright Office has repeatedly stated their view that Internet-based transmission not eligible for a compulsory license because it is "so vastly different from other retransmission industries now eligible for compulsory licensing."[11] The court found the Copyright Office's position to be a reasonable interpretation of the statute.
+Irreparable Injury[edit]
+The appeals court also ruled that if the injunction against ivi were not upheld, then the plaintiff broadcast companies would lose significant amounts of revenue. For instance, ivi's live broadcasting feature would allow viewers to watch programs earlier than would otherwise be available in their timezone. This is different from other services such as Hulu, which delays Internet re-transmission of broadcast television. Additionally, advertisers pay large sums to place commercials for specific demographics for broadcast television; ivi's services make this targeting far less effective.[10]
+Public Interest[edit]
+The appeals court reasoned that protection of copyright of broadcast television is in the public interest, by giving incentive to parties willing to create new works. The court opinion also states that ivi's services provide convenience and do not necessarily improve access to broadcast television.[10]
+Therefore, on August 27, 2012, the appeals court affirmed the district court's opinion, ruling that ivi's retransmitting of broadcast television without obtaining licenses constituted copyright infringement.[10]
+Service termination[edit]
+ivi was forced to suspend their operations when the district court granted a preliminary injunction, and has not resumed operations since then.[9] After the appeals court decision supporting the injunction, an ivi spokesperson commented that "This is not the final chapter to this story", leading some to speculate that the company continued to work on litigation after the appeals ruling.[12] The decision has been called a "major victory for broadcasters."[13]
+In light of this ruling, some have become frustrated that courts' and the FCC's interpretation of what constitutes a cable company has not kept up with modern technology, and that a clear Internet TV policy has not been established. However, as shown in the court case ABC v. Aereo, which provides VCR-like services rather than re-transmitting services as ivi attempted, it is possible to legally make TV available on the Internet for a profit.[14]
+See also[edit]
+
+Internet television
+Must carry rules
+
+References[edit]
+
+
+
+^ "ivi, Inc. Launches Highly Disruptive Software Delivering Live TV to the Internet". PR Web. September 13, 2010. 
+^ "Complaint for declaratory judgement of copyright noninfringement" (PDF). September 20, 2010. 
+^ "ivi TV Challenges 'Big Media' to Innovate Rather than Litigate". PR Web. September 20, 2010. 
+^ Don Jeffrey (September 28, 2010). "Disney, CBS, Fox Sue Ivi for Streaming Shows on Web". Bloomberg. 
+^ ivi, Inc. v. Fisher Communications, Inc., C10-1512JLR (W.D. Wash. January 19, 2011).
+^ a b Jennifer A. Klear, Esq. (January 31, 2011). "Amicus Memorandum Of Law In Opposition To Motion For Temporary Restraining Order And/Or Preliminary Injunction" (PDF). 
+^ "Prominent Public Interest Groups Rally Around ivi TV" (Press release). ivi, Inc. February 1, 2011. 
+^ WPIX, Inc. v. ivi, Inc., 594 F.Supp.2d (S.D.N.Y. February 22, 2011).
+^ a b Don Jeffrey (May 30, 2012). "Ivi Asks Appeals Court to Reverse Web TV Service Shutdown". Bloomberg. 
+^ a b c d e f g h WPIX, Inc. v. ivi, Inc., 11-788-cv (2nd Cir. August 27, 2012).
+^ U. S. Copyright Office (August 1, 1997). A Review of the Copyright Licensing Regimes Covering Retransmission of Broadcast Signals (PDF) (Report). 
+^ Don Jeffrey (August 27, 2012). "Ivi TV Loses Bid to Overturn Court-Ordered Shutdown". Bloomberg. 
+^ Sheldon Mak & Anderson (September 25, 2012). "TV Streaming Service Hits Roadblock Under U.S. Copyright Law". 
+^ Cole, Harry. "ivi TV Loses Round Two". CommLaw Blog. Fletcher, Heald & Hildreth. Retrieved November 12, 2012. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=WPIX,_Inc._v._ivi,_Inc.&oldid=810306866"					
+Categories: 2012 in United States case lawUnited States copyright case lawUnited States Court of Appeals for the Second Circuit casesUnited States Internet case lawBroadcast lawInternet television in the United StatesWPIX 

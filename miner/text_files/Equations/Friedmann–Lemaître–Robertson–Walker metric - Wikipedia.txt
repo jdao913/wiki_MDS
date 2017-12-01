@@ -1,0 +1,2856 @@
+Friedmann–Lemaître–Robertson–Walker metric - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Part of a series on
+
+
+Physical cosmology
+
+
+
+
+
+
+
+Big Bang · Universe
+Age of the universe
+Chronology of the universe
+
+
+
+
+
+
+Early universe
+
+
+
+
+
+Inflation · Nucleosynthesis
+
+
+
+
+Backgrounds
+
+
+
+
+Gravitational wave (GWB)
+Microwave (CMB) · Neutrino (CNB)
+
+
+
+
+
+
+
+
+
+
+
+Expansion · Future
+
+
+Hubble's law · Redshift
+Metric expansion of space
+FLRW metric · Friedmann equations
+Inhomogeneous cosmology
+Future of an expanding universe
+Ultimate fate of the universe
+
+
+
+
+
+
+
+
+Components · Structure
+
+
+
+Components
+
+
+
+
+Lambda-CDM model
+Dark energy · Dark fluid · Dark matter
+
+
+
+
+Structure
+
+
+
+
+Shape of the universe
+Galaxy filament · Galaxy formation
+Large quasar group
+Large-scale structure
+Reionization · Structure formation
+
+
+
+
+
+
+
+
+
+
+
+Experiments
+
+
+Black Hole Initiative (BHI)
+BOOMERanG
+Cosmic Background Explorer (COBE)
+Illustris project
+Planck space observatory
+Sloan Digital Sky Survey (SDSS)
+2dF Galaxy Redshift Survey ("2dF")
+
+Wilkinson Microwave Anisotropy
+Probe (WMAP)
+
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Aaronson
+Alfvén
+Alpher
+Bharadwaj
+Copernicus
+de Sitter
+Dicke
+Ehlers
+Einstein
+Ellis
+Friedman
+Galileo
+Gamow
+Guth
+Hawking
+Hubble
+Lemaître
+Mather
+Newton
+Penrose
+Penzias
+Rubin
+Schmidt
+Smoot
+Suntzeff
+Sunyaev
+Tolman
+Wilson
+Zel'dovich
+
+
+
+List of cosmologists
+
+
+
+
+
+
+
+
+Subject history
+
+
+
+Discovery of cosmic microwave
+background radiation
+
+History of the Big Bang theory
+
+Religious interpretations of
+the Big Bang theory
+
+Timeline of cosmological theories
+
+
+
+
+
+
+
+
+ Category
+ Cosmology portal
+ Astronomy portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The Friedmann–Lemaître–Robertson–Walker (FLRW) metric is an exact solution of Einstein's field equations of general relativity; it describes a homogeneous, isotropic expanding or contracting universe that is path connected, but not necessarily simply connected.[1][2][3] The general form of the metric follows from the geometric properties of homogeneity and isotropy; Einstein's field equations are only needed to derive the scale factor of the universe as a function of time. Depending on geographical or historical preferences, the set of the four scientists — Alexander Friedmann, Georges Lemaître, Howard P. Robertson and Arthur Geoffrey Walker are customarily grouped as Friedmann–Robertson–Walker (FRW) or Robertson–Walker (RW) or Friedmann–Lemaître (FL). This model is sometimes called the Standard Model of modern cosmology,[4] although such a description is also associated with the further developed Lambda-CDM model. The FLRW model was developed independently by the named authors in the 1920s and 1930s.
+
+
+
+Contents
+
+
+1 General metric
+
+1.1 Reduced-circumference polar coordinates
+1.2 Hyperspherical coordinates
+1.3 Cartesian coordinates
+1.4 Curvature
+
+1.4.1 Cartesian coordinates
+1.4.2 Spherical coordinates
+
+
+
+
+2 Solutions
+
+2.1 Interpretation
+2.2 Cosmological constant
+2.3 Newtonian interpretation
+
+
+3 Name and history
+4 Einstein's radius of the universe
+5 Evidence
+6 Notes
+7 References
+
+
+
+General metric[edit]
+The FLRW metric starts with the assumption of homogeneity and isotropy of space. It also assumes that the spatial component of the metric can be time-dependent. The generic metric which meets these conditions is
+
+
+
+
+
+−
+
+c
+
+2
+
+
+
+d
+
+
+τ
+
+2
+
+
+=
+−
+
+c
+
+2
+
+
+
+d
+
+
+t
+
+2
+
+
++
+
+
+a
+(
+t
+)
+
+
+2
+
+
+
+d
+
+
+
+Σ
+
+
+2
+
+
+
+
+{\displaystyle -c^{2}\mathrm {d} \tau ^{2}=-c^{2}\mathrm {d} t^{2}+{a(t)}^{2}\mathrm {d} \mathbf {\Sigma } ^{2}}
+
+
+
+where 
+
+
+
+
+Σ
+
+
+
+{\displaystyle \mathbf {\Sigma } }
+
+ ranges over a 3-dimensional space of uniform curvature, that is, elliptical space, Euclidean space, or hyperbolic space. It is normally written as a function of three spatial coordinates, but there are several conventions for doing so, detailed below. 
+
+
+
+
+d
+
+
+Σ
+
+
+
+{\displaystyle \mathrm {d} \mathbf {\Sigma } }
+
+ does not depend on t — all of the time dependence is in the function a(t), known as the "scale factor".
+Reduced-circumference polar coordinates[edit]
+In reduced-circumference polar coordinates the spatial metric has the form
+
+
+
+
+
+
+d
+
+
+
+Σ
+
+
+2
+
+
+=
+
+
+
+
+d
+
+
+r
+
+2
+
+
+
+
+1
+−
+k
+
+r
+
+2
+
+
+
+
+
++
+
+r
+
+2
+
+
+
+d
+
+
+
+Ω
+
+
+2
+
+
+,
+
+
+where 
+
+
+d
+
+
+
+Ω
+
+
+2
+
+
+=
+
+d
+
+
+θ
+
+2
+
+
++
+
+sin
+
+2
+
+
+⁡
+θ
+
+
+d
+
+
+ϕ
+
+2
+
+
+.
+
+
+{\displaystyle \mathrm {d} \mathbf {\Sigma } ^{2}={\frac {\mathrm {d} r^{2}}{1-kr^{2}}}+r^{2}\mathrm {d} \mathbf {\Omega } ^{2},\quad {\text{where }}\mathrm {d} \mathbf {\Omega } ^{2}=\mathrm {d} \theta ^{2}+\sin ^{2}\theta \,\mathrm {d} \phi ^{2}.}
+
+
+
+k is a constant representing the curvature of the space. There are two common unit conventions:
+
+k may be taken to have units of length−2, in which case r has units of length and a(t) is unitless. k is then the Gaussian curvature of the space at the time when a(t) = 1. r is sometimes called the reduced circumference because it is equal to the measured circumference of a circle (at that value of r), centered at the origin, divided by 2π (like the r of Schwarzschild coordinates). Where appropriate, a(t) is often chosen to equal 1 in the present cosmological era, so that 
+
+
+
+
+d
+
+
+Σ
+
+
+
+{\displaystyle \mathrm {d} \mathbf {\Sigma } }
+
+ measures comoving distance.
+Alternatively, k may be taken to belong to the set {−1,0,+1} (for negative, zero, and positive curvature respectively). Then r is unitless and a(t) has units of length. When k = ±1, a(t) is the radius of curvature of the space, and may also be written R(t).
+
+A disadvantage of reduced circumference coordinates is that they cover only half of the 3-sphere in the case of positive curvature—circumferences beyond that point begin to decrease, leading to degeneracy. (This is not a problem if space is elliptical, i.e. a 3-sphere with opposite points identified.)
+Hyperspherical coordinates[edit]
+In hyperspherical or curvature-normalized coordinates the coordinate r is proportional to radial distance; this gives
+
+
+
+
+
+
+d
+
+
+
+Σ
+
+
+2
+
+
+=
+
+d
+
+
+r
+
+2
+
+
++
+
+S
+
+k
+
+
+(
+r
+
+)
+
+2
+
+
+
+
+d
+
+
+
+Ω
+
+
+2
+
+
+
+
+{\displaystyle \mathrm {d} \mathbf {\Sigma } ^{2}=\mathrm {d} r^{2}+S_{k}(r)^{2}\,\mathrm {d} \mathbf {\Omega } ^{2}}
+
+
+
+where 
+
+
+
+
+d
+
+
+Ω
+
+
+
+{\displaystyle \mathrm {d} \mathbf {\Omega } }
+
+ is as before and
+
+
+
+
+
+
+S
+
+k
+
+
+(
+r
+)
+=
+
+
+{
+
+
+
+
+
+
+k
+
+
+
+
+−
+1
+
+
+sin
+⁡
+(
+r
+
+
+k
+
+
+)
+,
+
+
+k
+>
+0
+
+
+
+
+r
+,
+
+
+k
+=
+0
+
+
+
+
+
+
+
+
+|
+
+k
+
+|
+
+
+
+
+
+−
+1
+
+
+sinh
+⁡
+(
+r
+
+
+
+|
+
+k
+
+|
+
+
+
+)
+,
+
+
+k
+<
+0.
+
+
+
+
+
+
+
+
+{\displaystyle S_{k}(r)={\begin{cases}{\sqrt {k}}^{\,-1}\sin(r{\sqrt {k}}),&k>0\\r,&k=0\\{\sqrt {|k|}}^{\,-1}\sinh(r{\sqrt {|k|}}),&k<0.\end{cases}}}
+
+
+
+As before, there are two common unit conventions:
+
+k may be taken to have units of length−2, in which case r has units of length and a(t ) is unitless. k is then the Gaussian curvature of the space at the time when a(t ) = 1. Where appropriate, a(t ) is often chosen to equal 1 in the present cosmological era, so that 
+
+
+
+
+d
+
+
+Σ
+
+
+
+{\displaystyle \mathrm {d} \mathbf {\Sigma } }
+
+ measures comoving distance.
+Alternatively, as before, k may be taken to belong to the set {−1,0,+1} (for negative, zero, and positive curvature respectively). Then r is unitless and a(t ) has units of length. When k = ±1, a(t ) is the radius of curvature of the space, and may also be written R(t ). Note that, when k = +1, r is essentially a third angle along with θ and φ. The letter χ may be used instead of r.
+
+Though it is usually defined piecewise as above, S is an analytic function of both k and r. It can also be written as a power series
+
+
+
+
+
+
+S
+
+k
+
+
+(
+r
+)
+=
+
+∑
+
+n
+=
+0
+
+
+∞
+
+
+
+
+
+(
+−
+1
+
+)
+
+n
+
+
+
+k
+
+n
+
+
+
+r
+
+2
+n
++
+1
+
+
+
+
+(
+2
+n
++
+1
+)
+!
+
+
+
+=
+r
+−
+
+
+
+k
+
+r
+
+3
+
+
+
+6
+
+
++
+
+
+
+
+k
+
+2
+
+
+
+r
+
+5
+
+
+
+120
+
+
+−
+⋯
+
+
+{\displaystyle S_{k}(r)=\sum _{n=0}^{\infty }{\frac {(-1)^{n}k^{n}r^{2n+1}}{(2n+1)!}}=r-{\frac {kr^{3}}{6}}+{\frac {k^{2}r^{5}}{120}}-\cdots }
+
+
+
+or as
+
+
+
+
+
+
+S
+
+k
+
+
+(
+r
+)
+=
+r
+
+
+s
+i
+n
+c
+
+
+(
+r
+
+
+k
+
+
+)
+
+
+{\displaystyle S_{k}(r)=r\;\mathrm {sinc} \,(r{\sqrt {k}})}
+
+
+
+where sinc is the unnormalized sinc function and 
+
+
+
+
+
+k
+
+
+
+
+{\displaystyle {\sqrt {k}}}
+
+ is one of the imaginary, zero or real square roots of k. These definitions are valid for all k.
+Cartesian coordinates[edit]
+When k = 0 one may write simply
+
+
+
+
+
+
+d
+
+
+
+Σ
+
+
+2
+
+
+=
+
+d
+
+
+x
+
+2
+
+
++
+
+d
+
+
+y
+
+2
+
+
++
+
+d
+
+
+z
+
+2
+
+
+.
+
+
+{\displaystyle \mathrm {d} \mathbf {\Sigma } ^{2}=\mathrm {d} x^{2}+\mathrm {d} y^{2}+\mathrm {d} z^{2}.}
+
+
+
+This can be extended to k ≠ 0 by defining
+
+
+
+
+
+x
+=
+r
+cos
+⁡
+θ
+
+
+
+{\displaystyle x=r\cos \theta \,}
+
+,
+
+
+
+
+y
+=
+r
+sin
+⁡
+θ
+cos
+⁡
+ϕ
+
+
+
+{\displaystyle y=r\sin \theta \cos \phi \,}
+
+, and
+
+
+
+
+z
+=
+r
+sin
+⁡
+θ
+sin
+⁡
+ϕ
+
+
+
+{\displaystyle z=r\sin \theta \sin \phi \,}
+
+,
+
+where r is one of the radial coordinates defined above, but this is rare.
+Curvature[edit]
+Cartesian coordinates[edit]
+In flat (k=0) FLRW space using Cartesian coordinates, the surviving components of the Ricci tensor are[5]
+
+
+
+
+
+
+R
+
+t
+t
+
+
+=
+−
+3
+
+
+
+
+a
+¨
+
+
+a
+
+
+,
+
+
+R
+
+x
+x
+
+
+=
+
+R
+
+y
+y
+
+
+=
+
+R
+
+z
+z
+
+
+=
+
+c
+
+−
+2
+
+
+(
+a
+
+
+
+a
+¨
+
+
+
++
+2
+
+
+
+
+a
+˙
+
+
+
+
+2
+
+
+)
+
+
+{\displaystyle R_{tt}=-3{\frac {\ddot {a}}{a}},\quad R_{xx}=R_{yy}=R_{zz}=c^{-2}(a{\ddot {a}}+2{\dot {a}}^{2})}
+
+
+
+and the Ricci scalar is
+
+
+
+
+
+R
+=
+6
+
+c
+
+−
+2
+
+
+
+(
+
+
+
+
+
+
+a
+¨
+
+
+
+(
+t
+)
+
+
+a
+(
+t
+)
+
+
+
++
+
+
+
+
+
+
+
+a
+˙
+
+
+
+
+2
+
+
+(
+t
+)
+
+
+
+a
+
+2
+
+
+(
+t
+)
+
+
+
+)
+
+.
+
+
+{\displaystyle R=6c^{-2}\left({\frac {{\ddot {a}}(t)}{a(t)}}+{\frac {{\dot {a}}^{2}(t)}{a^{2}(t)}}\right).}
+
+
+
+Spherical coordinates[edit]
+In more general FLRW space using spherical coordinates (called "reduced-circumference polar coordinates" above), the surviving components of the Ricci tensor are[6]
+
+
+
+
+
+
+R
+
+t
+t
+
+
+=
+−
+3
+
+
+
+
+a
+¨
+
+
+a
+
+
+,
+
+
+{\displaystyle R_{tt}=-3{\frac {\ddot {a}}{a}},}
+
+
+
+
+
+
+
+R
+
+r
+r
+
+
+=
+
+
+
+
+c
+
+−
+2
+
+
+(
+a
+(
+t
+)
+
+
+
+a
+¨
+
+
+
+(
+t
+)
++
+2
+
+
+
+
+a
+˙
+
+
+
+
+2
+
+
+(
+t
+)
+)
++
+2
+k
+
+
+1
+−
+k
+
+r
+
+2
+
+
+
+
+
+
+
+{\displaystyle R_{rr}={\frac {c^{-2}(a(t){\ddot {a}}(t)+2{\dot {a}}^{2}(t))+2k}{1-kr^{2}}}}
+
+
+
+
+
+
+
+R
+
+θ
+θ
+
+
+=
+
+r
+
+2
+
+
+(
+
+c
+
+−
+2
+
+
+(
+a
+(
+t
+)
+
+
+
+a
+¨
+
+
+
+(
+t
+)
++
+2
+
+
+
+
+a
+˙
+
+
+
+
+2
+
+
+(
+t
+)
+)
++
+2
+k
+)
+
+
+{\displaystyle R_{\theta \theta }=r^{2}(c^{-2}(a(t){\ddot {a}}(t)+2{\dot {a}}^{2}(t))+2k)}
+
+
+
+
+
+
+
+R
+
+ϕ
+ϕ
+
+
+=
+
+r
+
+2
+
+
+(
+
+c
+
+−
+2
+
+
+(
+a
+(
+t
+)
+
+
+
+a
+¨
+
+
+
+(
+t
+)
++
+2
+
+
+
+
+a
+˙
+
+
+
+
+2
+
+
+(
+t
+)
+)
++
+2
+k
+)
+
+sin
+
+2
+
+
+⁡
+(
+θ
+)
+
+
+{\displaystyle R_{\phi \phi }=r^{2}(c^{-2}(a(t){\ddot {a}}(t)+2{\dot {a}}^{2}(t))+2k)\sin ^{2}(\theta )}
+
+
+
+and the Ricci scalar is
+
+
+
+
+
+R
+=
+6
+
+(
+
+
+
+
+
+
+a
+¨
+
+
+
+(
+t
+)
+
+
+
+c
+
+2
+
+
+a
+(
+t
+)
+
+
+
++
+
+
+
+
+
+
+
+a
+˙
+
+
+
+
+2
+
+
+(
+t
+)
+
+
+
+c
+
+2
+
+
+
+a
+
+2
+
+
+(
+t
+)
+
+
+
++
+
+
+k
+
+
+a
+
+2
+
+
+(
+t
+)
+
+
+
+)
+
+.
+
+
+{\displaystyle R=6\left({\frac {{\ddot {a}}(t)}{c^{2}a(t)}}+{\frac {{\dot {a}}^{2}(t)}{c^{2}a^{2}(t)}}+{\frac {k}{a^{2}(t)}}\right).}
+
+
+
+Solutions[edit]
+
+
+General relativity
+
+
+
+
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+
+
+
+
+
+
+
+
+
+
+Introduction
+History
+
+
+
+Mathematical formulation
+
+
+
+Tests
+
+
+
+
+
+
+
+
+
+Fundamental concepts
+
+
+Equivalence principle
+Special relativity
+World line
+Riemannian geometry
+
+
+
+
+
+
+
+
+Phenomena
+
+
+
+
+
+Kepler problem
+Time dilation
+Gravitational field
+Gravitational collapse
+Gravitational lensing
+Gravitational waves
+Gravitational redshift
+Gravitational time delay
+Gravitational time dilation
+Gravitational potential
+Gravitational compression
+Frame-dragging
+Geodetic effect
+Gravity well
+Event horizon
+Singularity
+Naked singularity
+Black hole
+White hole
+
+
+
+
+Spacetime
+
+
+
+
+Space
+Time
+Spacetime diagrams
+Minkowski spacetime
+Closed timelike curve (CTC)
+Wormhole
+
+Ellis wormhole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+Formalisms
+
+
+
+
+
+
+Equations
+
+
+
+
+Linearized gravity
+Einstein field equations
+Friedmann
+Geodesics
+Mathisson–Papapetrou–Dixon
+Hamilton–Jacobi–Einstein
+
+
+
+
+Formalisms
+
+
+
+
+ADM
+BSSN
+Post-Newtonian
+
+
+
+
+Advanced theory
+
+
+
+
+Kaluza–Klein theory
+Quantum gravity
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Lemaître–Tolman
+Taub-NUT
+Milne
+Robertson–Walker
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedman
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Raychaudhuri
+Taylor
+Hulse
+van Stockum
+Taub
+Newman
+Yau
+Thorne
+others
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+Main article: Friedmann equations
+Einstein's field equations are not used in deriving the general form for the metric: it follows from the geometric properties of homogeneity and isotropy. However, determining the time evolution of 
+
+
+
+a
+(
+t
+)
+
+
+{\displaystyle a(t)}
+
+ does require Einstein's field equations together with a way of calculating the density, 
+
+
+
+ρ
+(
+t
+)
+,
+
+
+{\displaystyle \rho (t),}
+
+ such as a cosmological equation of state.
+This metric has an analytic solution to Einstein's field equations 
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }}
+
+ giving the Friedmann equations when the energy-momentum tensor is similarly assumed to be isotropic and homogeneous. The resulting equations are:[7]
+
+
+
+
+
+
+
+(
+
+
+
+
+a
+˙
+
+
+a
+
+
+)
+
+
+2
+
+
++
+
+
+
+k
+
+c
+
+2
+
+
+
+
+a
+
+2
+
+
+
+
+−
+
+
+
+Λ
+
+c
+
+2
+
+
+
+3
+
+
+=
+
+
+
+8
+π
+G
+
+3
+
+
+ρ
+
+
+{\displaystyle \left({\frac {\dot {a}}{a}}\right)^{2}+{\frac {kc^{2}}{a^{2}}}-{\frac {\Lambda c^{2}}{3}}={\frac {8\pi G}{3}}\rho }
+
+
+
+
+
+
+2
+
+
+
+
+a
+¨
+
+
+a
+
+
++
+
+
+(
+
+
+
+
+a
+˙
+
+
+a
+
+
+)
+
+
+2
+
+
++
+
+
+
+k
+
+c
+
+2
+
+
+
+
+a
+
+2
+
+
+
+
+−
+Λ
+
+c
+
+2
+
+
+=
+−
+
+
+
+8
+π
+G
+
+
+c
+
+2
+
+
+
+
+p
+.
+
+
+{\displaystyle 2{\frac {\ddot {a}}{a}}+\left({\frac {\dot {a}}{a}}\right)^{2}+{\frac {kc^{2}}{a^{2}}}-\Lambda c^{2}=-{\frac {8\pi G}{c^{2}}}p.}
+
+
+
+These equations are the basis of the standard big bang cosmological model including the current ΛCDM model. Because the FLRW model assumes homogeneity, some popular accounts mistakenly assert that the big bang model cannot account for the observed lumpiness of the universe. In a strictly FLRW model, there are no clusters of galaxies, stars or people, since these are objects much denser than a typical part of the universe. Nonetheless, the FLRW model is used as a first approximation for the evolution of the real, lumpy universe because it is simple to calculate, and models which calculate the lumpiness in the universe are added onto the FLRW models as extensions. Most cosmologists agree that the observable universe is well approximated by an almost FLRW model, i.e., a model which follows the FLRW metric apart from primordial density fluctuations. As of 2003[update], the theoretical implications of the various extensions to the FLRW model appear to be well understood, and the goal is to make these consistent with observations from COBE and WMAP.
+If the spacetime is multiply connected, then each event will be represented by more than one tuple of coordinates.[citation needed]
+Interpretation[edit]
+The pair of equations given above is equivalent to the following pair of equations
+
+
+
+
+
+
+
+
+ρ
+˙
+
+
+
+=
+−
+3
+
+
+
+
+a
+˙
+
+
+a
+
+
+
+(
+ρ
++
+
+
+p
+
+c
+
+2
+
+
+
+
+)
+
+
+
+{\displaystyle {\dot {\rho }}=-3{\frac {\dot {a}}{a}}\left(\rho +{\frac {p}{c^{2}}}\right)}
+
+
+
+
+
+
+
+
+
+
+a
+¨
+
+
+a
+
+
+=
+−
+
+
+
+4
+π
+G
+
+3
+
+
+
+(
+ρ
++
+
+
+
+3
+p
+
+
+c
+
+2
+
+
+
+
+)
+
++
+
+
+
+Λ
+
+c
+
+2
+
+
+
+3
+
+
+
+
+{\displaystyle {\frac {\ddot {a}}{a}}=-{\frac {4\pi G}{3}}\left(\rho +{\frac {3p}{c^{2}}}\right)+{\frac {\Lambda c^{2}}{3}}}
+
+
+
+with 
+
+
+
+k
+
+
+{\displaystyle k}
+
+, the spatial curvature index, serving as a constant of integration for the first equation.
+The first equation can be derived also from thermodynamical considerations and is equivalent to the first law of thermodynamics, assuming the expansion of the universe is an adiabatic process (which is implicitly assumed in the derivation of the Friedmann–Lemaître–Robertson–Walker metric).
+The second equation states that both the energy density and the pressure cause the expansion rate of the universe 
+
+
+
+
+
+
+a
+˙
+
+
+
+
+
+{\displaystyle {\dot {a}}}
+
+ to decrease, i.e., both cause a deceleration in the expansion of the universe. This is a consequence of gravitation, with pressure playing a similar role to that of energy (or mass) density, according to the principles of general relativity. The cosmological constant, on the other hand, causes an acceleration in the expansion of the universe.
+Cosmological constant[edit]
+The cosmological constant term can be omitted if we make the following replacements
+
+
+
+
+
+ρ
+→
+ρ
++
+
+
+
+Λ
+
+c
+
+2
+
+
+
+
+8
+π
+G
+
+
+
+
+
+{\displaystyle \rho \rightarrow \rho +{\frac {\Lambda c^{2}}{8\pi G}}}
+
+
+
+
+
+
+p
+→
+p
+−
+
+
+
+Λ
+
+c
+
+4
+
+
+
+
+8
+π
+G
+
+
+
+.
+
+
+{\displaystyle p\rightarrow p-{\frac {\Lambda c^{4}}{8\pi G}}.}
+
+
+
+Therefore, the cosmological constant can be interpreted as arising from a form of energy which has negative pressure, equal in magnitude to its (positive) energy density:
+
+
+
+
+
+p
+=
+−
+ρ
+
+c
+
+2
+
+
+.
+
+
+
+{\displaystyle p=-\rho c^{2}.\,}
+
+
+
+Such form of energy—a generalization of the notion of a cosmological constant—is known as dark energy.
+In fact, in order to get a term which causes an acceleration of the universe expansion, it is enough to have a scalar field which satisfies
+
+
+
+
+
+p
+<
+−
+
+
+
+ρ
+
+c
+
+2
+
+
+
+3
+
+
+.
+
+
+
+{\displaystyle p<-{\frac {\rho c^{2}}{3}}.\,}
+
+
+
+Such a field is sometimes called quintessence.
+Newtonian interpretation[edit]
+This is due to McCrea and Milne [8] although sometimes incorrectly ascribed to Friedmann. The Friedmann equations are equivalent to this pair of equations:
+
+
+
+
+
+−
+
+a
+
+3
+
+
+
+
+
+ρ
+˙
+
+
+
+=
+3
+
+a
+
+2
+
+
+
+
+
+a
+˙
+
+
+
+ρ
++
+
+
+
+3
+
+a
+
+2
+
+
+p
+
+
+
+a
+˙
+
+
+
+
+
+c
+
+2
+
+
+
+
+
+
+
+{\displaystyle -a^{3}{\dot {\rho }}=3a^{2}{\dot {a}}\rho +{\frac {3a^{2}p{\dot {a}}}{c^{2}}}\,}
+
+
+
+
+
+
+
+
+
+
+
+
+a
+˙
+
+
+
+
+2
+
+
+2
+
+
+−
+
+
+
+G
+
+
+
+4
+π
+
+a
+
+3
+
+
+
+3
+
+
+ρ
+
+a
+
+
+=
+−
+
+
+
+k
+
+c
+
+2
+
+
+
+2
+
+
+
+.
+
+
+{\displaystyle {\frac {{\dot {a}}^{2}}{2}}-{\frac {G{\frac {4\pi a^{3}}{3}}\rho }{a}}=-{\frac {kc^{2}}{2}}\,.}
+
+
+
+The first equation says that the decrease in the mass contained in a fixed cube (whose side is momentarily a) is the amount which leaves through the sides due to the expansion of the universe plus the mass equivalent of the work done by pressure against the material being expelled. This is the conservation of mass-energy (first law of thermodynamics) contained within a part of the universe.
+The second equation says that the kinetic energy (seen from the origin) of a particle of unit mass moving with the expansion plus its (negative) gravitational potential energy (relative to the mass contained in the sphere of matter closer to the origin) is equal to a constant related to the curvature of the universe. In other words, the energy (relative to the origin) of a co-moving particle in free-fall is conserved. General relativity merely adds a connection between the spatial curvature of the universe and the energy of such a particle: positive total energy implies negative curvature and negative total energy implies positive curvature.
+The cosmological constant term is assumed to be treated as dark energy and thus merged into the density and pressure terms.
+During the Planck epoch, one cannot neglect quantum effects. So they may cause a deviation from the Friedmann equations.
+Name and history[edit]
+The main results of the FLRW model were first derived by the Soviet mathematician Alexander Friedmann in 1922 and 1924. Although his work was published in the prestigious physics journal Zeitschrift für Physik, it remained relatively unnoticed by his contemporaries. Friedmann was in direct communication with Albert Einstein, who, on behalf of Zeitschrift für Physik, acted as the scientific referee of Friedmann's work. Eventually Einstein acknowledged the correctness of Friedmann's calculations, but failed to appreciate the physical significance of Friedmann's predictions.
+Friedmann died in 1925. In 1927, Georges Lemaître, a Belgian priest, astronomer and periodic professor of physics at the Catholic University of Leuven, arrived independently at similar results as Friedmann had and published them in Annals of the Scientific Society of Brussels. In the face of the observational evidence for the expansion of the universe obtained by Edwin Hubble in the late 1920s, Lemaître's results were noticed in particular by Arthur Eddington, and in 1930–31 his paper was translated into English and published in the Monthly Notices of the Royal Astronomical Society.
+Howard P. Robertson from the US and Arthur Geoffrey Walker from the UK explored the problem further during the 1930s. In 1935 Robertson and Walker rigorously proved that the FLRW metric is the only one on a spacetime that is spatially homogeneous and isotropic (as noted above, this is a geometric result and is not tied specifically to the equations of general relativity, which were always assumed by Friedmann and Lemaître).
+Because the dynamics of the FLRW model were derived by Friedmann and Lemaître, the latter two names are often omitted by scientists outside the US. Conversely, US physicists often refer to it as simply "Robertson–Walker". The full four-name title is the most democratic and it is frequently used.[citation needed] Often the "Robertson–Walker" metric, so-called since they proved its generic properties, is distinguished from the dynamical "Friedmann-Lemaître" models, specific solutions for a(t) which assume that the only contributions to stress-energy are cold matter ("dust"), radiation, and a cosmological constant.
+Einstein's radius of the universe[edit]
+Einstein's radius of the universe is the radius of curvature of space of Einstein's universe, a long-abandoned static model that was supposed to represent our universe in idealized form. Putting
+
+
+
+
+
+
+
+a
+˙
+
+
+
+=
+
+
+
+a
+¨
+
+
+
+=
+0
+
+
+{\displaystyle {\dot {a}}={\ddot {a}}=0}
+
+
+in the Friedmann equation, the radius of curvature of space of this universe (Einstein's radius) is[citation needed]
+
+
+
+
+
+R
+
+E
+
+
+=
+c
+
+/
+
+
+
+4
+π
+G
+ρ
+
+
+
+
+{\displaystyle R_{E}=c/{\sqrt {4\pi G\rho }}}
+
+,
+where 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ is the speed of light, 
+
+
+
+G
+
+
+{\displaystyle G}
+
+ is the Newtonian gravitational constant, and 
+
+
+
+ρ
+
+
+{\displaystyle \rho }
+
+ is the density of space of this universe. The numerical value of Einstein's radius is of the order of 1010 light years.
+Evidence[edit]
+By combining the observation data from some experiments such as WMAP and Planck with theoretical results of Ehlers–Geren–Sachs theorem and its generalization,[9] astrophysicists now agree that the universe is almost homogeneous and isotropic (when averaged over a very large scale) and thus nearly a FLRW spacetime.
+Notes[edit]
+
+
+
+^ For an early reference, see Robertson (1935); Robertson assumes multiple connectedness in the positive curvature case and says that "we are still free to restore" simple connectedness.
+^ M. Lachieze-Rey; J.-P. Luminet (1995), "Cosmic Topology", Physics Reports, 254 (3): 135–214, arXiv:gr-qc/9605010 , Bibcode:1995PhR...254..135L, doi:10.1016/0370-1573(94)00085-H 
+^ G. F. R. Ellis; H. van Elst (1999). "Cosmological models (Cargèse lectures 1998)". In Marc Lachièze-Rey. Theoretical and Observational Cosmology. NATO Science Series C. 541. pp. 1–116. arXiv:gr-qc/9812046 . Bibcode:1999toc..conf....1E. ISBN 978-0792359463. 
+^ L. Bergström, A. Goobar (2006), Cosmology and Particle Astrophysics (2nd ed.), Sprint, p. 61, ISBN 3-540-32924-2 
+^ Wald, Robert. General Relativity. p. 97. 
+^ "Cosmology" (PDF). p. 23. 
+^ P. Ojeda and H. Rosu (2006), "Supersymmetry of FRW barotropic cosmologies", International Journal of Theoretical Physics, 45 (6): 1191–1196, arXiv:gr-qc/0510004 , Bibcode:2006IJTP...45.1152R, doi:10.1007/s10773-006-9123-2 
+^ McCrea, W. H.; Milne, E. A. (1934). "Newtonian universes and the curvature of space". Quarterly Journal of Mathematics. 5: 73–80.
+^ See pp. 351ff. in Hawking, Stephen W.; Ellis, George F. R. (1973), The large scale structure of space-time, Cambridge University Press, ISBN 0-521-09906-4 . The original work is Ehlers, J., Geren, P., Sachs, R.K.: Isotropic solutions of Einstein-Liouville equations. J. Math. Phys. 9, 1344 (1968). For the generalization, see Stoeger, W. R.; Maartens, R; Ellis, George (2007), "Proving Almost-Homogeneity of the Universe: An Almost Ehlers-Geren-Sachs Theorem", Astrophys. J., 39: 1–5, Bibcode:1995ApJ...443....1S, doi:10.1086/175496 .
+
+
+
+References[edit]
+
+Friedmann, Alexander (1922), "Über die Krümmung des Raumes", Zeitschrift für Physik A, 10 (1): 377–386, Bibcode:1922ZPhy...10..377F, doi:10.1007/BF01332580 
+Friedmann, Alexander (1924), "Über die Möglichkeit einer Welt mit konstanter negativer Krümmung des Raumes", Zeitschrift für Physik A, 21 (1): 326–332, Bibcode:1924ZPhy...21..326F, doi:10.1007/BF01328280  English trans. in 'General Relativity and Gravitation' 1999 vol.31, 31–
+Lemaître, Georges (1931), "Expansion of the universe, A homogeneous universe of constant mass and increasing radius accounting for the radial velocity of extra-galactic nebulæ", Monthly Notices of the Royal Astronomical Society, 91: 483–490, Bibcode:1931MNRAS..91..483L, doi:10.1093/mnras/91.5.483  translated from Lemaître, Georges (1927), "Un univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extra-galactiques", Annales de la Société Scientifique de Bruxelles, A47: 49–56, Bibcode:1927ASSB...47...49L 
+Lemaître, Georges (1933), "l'Univers en expansion", Annales de la Société Scientifique de Bruxelles, A53: 51–85, Bibcode:1933ASSB...53...51L 
+Robertson, H. P. (1935), "Kinematics and world structure", Astrophysical Journal, 82: 284–301, Bibcode:1935ApJ....82..284R, doi:10.1086/143681 
+Robertson, H. P. (1936), "Kinematics and world structure II", Astrophysical Journal, 83: 187–201, Bibcode:1936ApJ....83..187R, doi:10.1086/143716 
+Robertson, H. P. (1936), "Kinematics and world structure III", Astrophysical Journal, 83: 257–271, Bibcode:1936ApJ....83..257R, doi:10.1086/143726 
+Walker, A. G. (1937), "On Milne's theory of world-structure", Proceedings of the London Mathematical Society, Series 2, 42 (1): 90–127, doi:10.1112/plms/s2-42.1.90 
+North J D:(1965)The Measure of the Universe - a history of modern cosmology, Oxford Univ. Press, Dover reprint 1990, ISBN 0-486-66517-8
+Harrison, E. R. (1967), "Classification of uniform cosmological models", Monthly Notices of the Royal Astronomical Society, 137: 69–79, Bibcode:1967MNRAS.137...69H, doi:10.1093/mnras/137.1.69 
+d'Inverno, Ray (1992), Introducing Einstein's Relativity, Oxford: Oxford University Press, ISBN 0-19-859686-3 . (See Chapter 23 for a particularly clear and concise introduction to the FLRW models.)
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Relativity
+
+
+
+Special
+relativity
+
+
+
+
+Background
+
+
+
+Principle of relativity
+Special relativity
+
+
+
+
+
+Foundations
+
+
+
+Frame of reference
+Speed of light
+Hyperbolic orthogonality
+Rapidity
+Maxwell's equations
+
+
+
+
+
+Formulation
+
+
+
+Galilean relativity
+Galilean transformation
+Lorentz transformation
+
+
+
+
+
+Consequences
+
+
+
+Time dilation
+Relativistic mass
+Mass–energy equivalence
+Length contraction
+Relativity of simultaneity
+Relativistic Doppler effect
+Thomas precession
+Relativistic disks
+
+
+
+
+
+Spacetime
+
+
+
+Light cone
+World line
+Spacetime diagram
+Biquaternions
+Minkowski space
+
+
+
+
+
+
+
+
+
+
+
+General
+relativity
+
+
+
+
+Background
+
+
+
+Introduction
+Mathematical formulation
+
+
+
+
+
+Fundamental
+concepts
+
+
+
+Special relativity
+Equivalence principle
+World line
+Riemannian geometry
+Minkowski diagram
+Penrose diagram
+
+
+
+
+
+Phenomena
+
+
+
+Black hole
+Event horizon
+Frame-dragging
+Geodetic effect
+Lenses
+Singularity
+Waves
+Ladder paradox
+Twin paradox
+Two-body problem
+BKL singularity
+
+
+
+
+
+Equations
+
+
+
+ADM formalism
+BSSN formalism
+Einstein field equations
+Geodesic equation
+Friedmann equations
+Linearized gravity
+Post-Newtonian formalism
+Raychaudhuri equation
+Hamilton–Jacobi–Einstein equation
+Ernst equation
+Tolman-Oppenheimer-Volkoff equation
+
+
+
+
+
+Advanced
+theories
+
+
+
+Brans–Dicke theory
+Kaluza–Klein
+Mach's principle
+Quantum gravity
+
+
+
+
+
+Solutions
+
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Friedmann–Lemaître–Robertson–Walker
+Taub–NUT
+Milne
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedmann
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Taylor
+Hulse
+Stockum
+Taub
+Newman
+Yau
+Thorne
+Weiss
+Bondi
+Misner
+others
+
+
+
+
+
+
+
+
+Physics portal
+Cosmology portal
+Space portal
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Friedmann–Lemaître–Robertson–Walker_metric&oldid=805548692"					
+Categories: Coordinate charts in general relativityExact solutions in general relativityPhysical cosmologyMetric tensorsHidden categories: Articles containing potentially dated statements from 2003All articles containing potentially dated statementsAll articles with unsourced statementsArticles with unsourced statements from January 2016Articles with unsourced statements from September 2011Articles with unsourced statements from June 2011 

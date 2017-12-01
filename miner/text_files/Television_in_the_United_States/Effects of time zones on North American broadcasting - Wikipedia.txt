@@ -1,0 +1,137 @@
+Effects of time zones on North American broadcasting - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (March 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+The scheduling of television programming in North America (namely the United States, Canada, and Mexico) must cope with different time zones. The United States (excluding territories) has six time zones (Hawaii-Aleutian, Alaska, Pacific,[1] Mountain, Central and Eastern), with further variation in the observance of daylight saving time. Canada also has six time zones (Pacific, Mountain, Central, Eastern, Atlantic and Newfoundland). Mexico has four time zones (Pacific, Mountain, Central, and Eastern). This requires broadcast and pay television networks in each country to shift programs in time to show them in different regions.
+
+
+
+Contents
+
+
+1 In Canada
+
+1.1 Broadcast networks
+1.2 Cable and satellite channels
+1.3 Watershed and safe harbour
+
+
+2 In the United States
+
+2.1 Time zone feeds
+2.2 Broadcast television
+2.3 Cable and satellite television
+2.4 Live events
+2.5 Effects on local programming
+
+
+3 See also
+4 References
+
+
+
+In Canada[edit]
+Broadcast networks[edit]
+Canadian broadcasting networks, with six time zones and a much larger percentage of its audience residing in the Mountain Time Zone than in the Central Time Zone, are sometimes able to avoid the issues that affect American programming by airing pre-recorded programs on local time. CBC Television and CTV created delay centres in Calgary in the early 1960s in order to allow programming to air in each time zone based on the region.[2] Saskatchewan does not observe daylight saving time, remaining on Central Standard Time year-round.[3]
+Unlike in the United States, virtually all live events, including live entertainment shows and sports television, are simultaneously broadcast nationwide in Canada. For instance, live shows in Canada are aired to entirety at the same time in all time zones based on Eastern time. Several live U.S. shows are also aired simultaneously in all of Canada, including for viewers in the Pacific Coast (unlike in the United States where some viewers on the same side of the continent depend on tape-delayed broadcasts for some otherwise live events). Conversely, live shows aired in Canada are frequently televised simultaneously for some viewers in the U.S. with access to Canadian broadcast networks. [4]
+Cable and satellite channels[edit]
+The vast majority of specialty cable and satellite television channels in Canada each operate a single feed which is distributed in all time zones. This includes all French language channels, as they predominantly serve Francophone areas of the country, mostly in Quebec (almost all of which observes Eastern Time). Even many long-standing specialty channels with a general entertainment format use a single national feed, though in many cases they will repeat core primetime programming three hours after first broadcast, such that programs can be promoted as airing at the same time in both the Eastern and Pacific time zones.[citation needed]
+Some specialty channels do operate two separate broadcast feeds for Eastern and Western Canada. The Eastern feed airs programs on an Eastern Time schedule, while the Western feed airs the same programming on a three-hour delay. The separation between feeds is typically implemented at the border between Manitoba and Ontario, which may result in a program that airs at 10:00 p.m. Eastern Time in Ontario not airing in Manitoba until 12:00 a.m. CT (whereas an equivalent program in the U.S. would typically be available at 9:00 p.m. for Central Time viewers). However, one channel, the Aboriginal Peoples Television Network, implements the separation at the border between Manitoba and Saskatchewan.[citation needed]
+Watershed and safe harbour[edit]
+The Canadian Broadcast Standards Council (CBSC) applies more restrictive censorship regulations to broadcast programming shown in prime time, compared to content transmitted after a watershed hour beyond which few children would be likely to be watching. This can be problematic if the same content is broadcast simultaneously nationwide, as the 9:00 p.m. watershed in Vancouver falls at 12:00 a.m. in Toronto and 1:30 a.m. in St. John's. LGBT specialty broadcaster PrideVision was particularly affected as, from its launch in 2001 until 2005, its format included more innocuous entertainment programming aimed at the gay community during the day and in prime time and hardcore pornographic content in the overnight (with the latter expanding into the mid-evening by 2004). The network's adult programming was spun out into a second channel so that the parent network, now OutTV, could broadcast its non-explicit entertainment and lifestyle programming across its entire broadcast day.[5]
+In the United States[edit]
+Time zone feeds[edit]
+With four time zones in the contiguous United States, American broadcast television networks generally broadcast at least two separate feeds to their owned-and-operated stations and affiliates, as do cable/satellite channels: the "eastern feed" that is aired simultaneously in the Eastern and Central Time Zones, and the "western feed" that is tape-delayed three hours for those in the Pacific Time Zone. This ensures that a program, for example, that airs at 8:00 p.m. EST on the East Coast is also shown locally at 8:00 p.m. on the West Coast. Networks may also broadcast a third feed specifically for the Mountain Time Zone, on which programs are usually broadcast on a one-hour delay from the Eastern Time Zone. Otherwise, some stations in the Mountain Time Zone use the western feed, while others get a mix of both the Eastern and Pacific feeds.
+The Eastern Time Zone is commonly used as a de facto official time for the United States – since it includes the nation's capital city, Washington, D.C.; the country's largest city, New York City; and about one-half of the country's population.[6]
+Broadcast television[edit]
+Effectively, the East, Mountain and West network feeds allow prime time on broadcast television networks to end at 10:00 p.m. Central and Mountain and 11:00 p.m. Eastern and Pacific. When it first expanded its programming into prime time in April 1987, Fox became the first major broadcast network in the U.S. to offer a "common prime" schedule; this type of scheduling subtracts an hour from the prime time schedule, reducing it to two hours on Monday through Saturdays and three hours on Sundays – ending evening network programming earlier than NBC, CBS and ABC did – and continue to do (Fox did expand its Sunday primetime schedule into the 10:00 p.m. timeslot in September 1987, before giving back that hour to its stations in September 1993). The WB and UPN followed the "common prime" scheduling model when they both launched in January 1995; the replacements for those networks, The CW and the MyNetworkTV program service, similarly utilized that model upon their launches in September 2006.
+In 2009, PBS began using Internet servers instead of separate feeds for time delaying of its programming to the network's member stations, the servers imitate a delayed program feed, broadcasting the program at the correct airtime as if it were being broadcast via satellite. This was done as PBS had upgraded its main program feed to high definition (or to widescreen digital at the very least) in December 2008, but satellite capacity allowed for only Eastern and Pacific time zone feeds, prompting the removal of the Central and Mountain time zone feeds and a shared feed for Alaska and Pacific time zones in February 2009, which created complaints from PBS stations.[7]
+Cable and satellite television[edit]
+Subscribers to cable or satellite television services may still only receive East Coast feeds for certain channels even if they reside on the West Coast. Some cable channels only offer one broadcast feed, where viewers see the same program in all time zones. For example, until it dropped the program in 2014, superstation-turned-basic cable channel WGN America telecast the noon (Central Time) newscast from WGN-TV in Chicago at 1:00 p.m. Eastern in Washington, D.C. and 10:00 a.m. Pacific in Los Angeles.
+Broadcasters offer East and West Coast feeds of some basic cable channels for viewing in all time zones, allowing viewers who missed a particular program to watch it three hours earlier or later. Nickelodeon is the only American basic cable channel that transmits dual broadcast feeds to digital cable viewers (and not merely satellite viewers). An alternate feed known as Nick 2 is essentially the opposite coast's feed of Nickelodeon (the Pacific time zone feed for East Coast viewers and vice versa). The channel's main feed for the respective time zone is carried on the local cable provider's expanded basic package.
+The usage of dual feeds of the same channel is a commonplace method for premium channels such as HBO, Showtime and Starz, in which the Pacific time zone feed of the primary channel is packaged with the East Coast feed of the main channel and the pay service's multiplex channels (if the premium channel has any). Most commonly, the Eastern and Pacific Time Zone feeds of only the main channel are packaged together, although some providers may also provide both coastal feeds of a premium service's multiplex channels. In some cases, cable networks (such as cable news and sports channels) "fake" the dual feed approach by recycling their same-day prime time programming during the overnight hours on a three (or four) hour cycle; in this case, the programs are automatically rebroadcast at the advertised time (or one hour later) in the Pacific Time Zone.
+In the United States, distant over-the-air broadcast stations affiliated with the six broadcast networks are offered by direct-broadcast satellite providers as well as C-band services that do not offer locally based affiliates for most individual markets, allowing viewers to choose between the east and west feeds of a given network. These designated stations are usually owned-and-operated stations and/or affiliates of ABC, NBC, CBS, Fox and The CW located in the Eastern and Pacific Time Zones (usually those based in New York City and Los Angeles such as ABC's respective O&Os (network owned and operated) in those markets, WABC-TV and KABC-TV). Dish Network and C-band providers also provide CW and MyNetworkTV affiliates designated as superstations (such as WPIX in New York and KTLA in Los Angeles), with Dish mainly making them available in markets where it does not carry a low-power, digital subchannel-only or non-broadcast affiliate of either network (especially in markets served by The CW's quasi-national feed for areas ranked below #98 in Nielsen Media Research market rankings, The CW Plus).[citation needed]
+The country's two major satellite providers – DirecTV and Dish Network – only offer these de facto coastal feeds in order to provide programming from at least one network to subscribers living in smaller media markets or rural areas where a network does not have a local affiliate available on the provider, if even presently serving the given location at all. Since the services began offering local network affiliates from additional markets in the early 2000s, many local stations have successfully sued DBS providers to deny access to distant stations carrying programming from the same network as them within their markets. This differs from the subscription television model in Canada, most cable and satellite providers carry distant over-the-air broadcast stations from the U.S. (consisting of both affiliates of the Big Four broadcast networks and minor network affiliates classified as superstations), in addition to O&Os and affiliates of domestically-based networks.[citation needed]
+Live events[edit]
+For decades, Super Bowl and most sports television programs, including other major national events, have been broadcast to totality live in all time zones across U.S. territories, but also present special problems for local stations. For such events, the networks may either advertise Eastern time only, or list the times in both Eastern and Pacific (e.g. "8 p.m. Eastern/5 p.m. Pacific"). As such, a live Sunday sporting event that is played from 4:00 to 7:00 p.m. Pacific Time preempts local 6:00 p.m. newscasts on the East Coast. Likewise, a State of the Union address that is televised at 9:00 p.m. Eastern Time preempts local 6:00 p.m. newscasts on the West Coast.
+Until recently, several entertainment shows that are broadcast live in the Eastern and Central time zones, including some that originate from Los Angeles (particularly live reality competition shows as Dancing with the Stars, The Voice and American Idol), are tape-delayed in the Mountain and Pacific time zones, thus making it impossible for viewers in those time zones to vote after performance episodes of live reality competition shows finish airing live on the East Coast. The mechanics of the 2014 ABC series Rising Star — which allowed for live, real-time voting by viewers — would allow the insertion of live reaction segments in the event that a contestant eliminated by low vote totals in the original Eastern/Central time zone broadcast would be saved by results watching the Pacific/Mountain broadcast, but the show was broadcast live across the mainland U.S. except the Pacific time zone. Moreover, ABC noted that the chances of West Coast votes differing substantially from other viewers was statistically small.[8][9]
+The Academy Awards, up until the early 21st century, was the only major U.S. entertainment television event to have been aired to all of the country's time zones except for viewers in Hawaii. Beginning the late 2000s, however, several award shows, such as the Primetime Emmy Awards, Golden Globes Awards and Billboard Music Awards, joined the Oscars in conducting the same format of live broadcasts in response to longstanding general criticisms from the multimedia industry and viewers alike on some live shows televised real-time to the East Coast but are being tape-delayed for West Coast viewers, albeit the fact that some of them originate from Los Angeles area. This is to cater for viewers in the Alaskan, Pacific and Mountain time zones who have frequently complained about spoilers made by live viewers east of the Rockies during the broadcasts.
+Meanwhile, the Olympic competitions beginning the late 2010s, aired currently by NBC, joined the Super Bowl and other major domestic and international sports telecasts in airing live in all time zones across the U.S. territories. Nowadays, most live shows are now being discussed openly at the same time online, as social media and television's interaction reached critical mass in the current century in relation to live television, which had gained renewed importance as being "DVR-proof" for ratings and social purposes amidst the decline of traditional television due to rise of online streaming of the majority of the recent scripted series.
+Until 2015, the Grammy Awards continued to air on delay for the West Coast broadcast. However, beginning the 2016 Grammys telecast, the award show's rightsholder, CBS, began to allow its stations in the Western U.S. to carry the ceremony live as long as they also carry a prime time rebroadcast.[10] The increase in its year-to-year viewership prompted CBS to air the Grammys live all across the U.S. (including for Alaska and Hawaii) starting 2017, with a required primetime encore for viewers outside the Eastern and Central time zones. By 2017, the Tony Awards (which are usually broadcast live from New York) became the only major award show to have never conducted live coast-to-coast telecasts. [11]
+Some lower-tiered special music telecasts that originate from Los Angeles, such as the American Music Awards, People's Choice Awards and Teen Choice Awards, remain airing live in the East Coast and tape-delayed for the West Coast as their airtime is often purchased as a brokered programming arrangement, which also allows standards and practices to watch the ceremony in advance and determine cuts for profanity or content to insert a bleep censor or cut-away, and the producers cuts for time and superfluous items such as longer walks than expected by an award winner to the stage or a rare botched performance with the replacement of dress rehearsal footage. Some technically complicated ceremonies, such as the MTV Video Music Awards, are usually edited before being recorded for broadcast on separate local primetime slots for both coasts.
+Similarly, media coverage of New Year's Eve celebrations in New York City often leave the Central Time Zone out. Late Night with Conan O'Brien, though produced in New York City, when broadcast on New Year's Eve took advantage of its later time slot (11:37 p.m. Central time) to lampoon this inconsistency by presenting a New Year's celebration for the Central Time Zone. In some locations, New Year's Eve celebrations held in New York might be repeated or delayed one hour to correspond to the Central Time Zone.[12]
+News channels such as CNN and sports channels such as ESPN that frequently broadcast live events offer a single feed that airs in all time zones. About 80 percent of the U.S. population reside in the Central and Eastern time zones, where the nation's largest city (and the main anchor of television programming) New York is located.[13]
+Effects on local programming[edit]
+Local stations and affiliates must schedule their local and syndicated programming around their respective network's feed. Because primetime programs on the East Coast feed are simulcast in two time zones, stations in the Central Time Zone are affected differently from those in the Eastern Time Zone. An hour of syndicated programming time (between 7:00 and 8:00 p.m. in the Eastern and Pacific time zones) is lost in the Central and Mountain time zones since network primetime in those areas starts at 7:00 p.m., forcing stations in Mountain or Central time (or in parts of both zones) to choose between airing their 6:00 p.m. newscast and another syndicated or locally produced program or airing shows in "blocks" preferred by syndicators (for example, Wheel of Fortune and Jeopardy! together or Entertainment Tonight and The Insider together).
+The most common set of programming chosen by stations aligned with the Big Three television networks (ABC, CBS and NBC) is to air a local newscast at 5:00 p.m., national news at 5:30 p.m., another local newscast at 6:00 p.m. and syndicated programming at 6:30 p.m., though some Fox stations that maintain a newscast schedule comparable to stations tied to the Big Three (commonly stations that were former ABC, NBC and CBS affiliates themselves) carry a 60- or 90-minute block of news from 5:00 to 6:00 (or 6:30) p.m. with an additional half-hour of local news in the 5:30 p.m. timeslot as Fox does not air a national evening newscast; a few stations not affiliated with the Big Four networks, such as WGN-TV, KTLA in Los Angeles and WJXT in Jacksonville, Florida, follow a similar scheduling format with their early evening newscasts. Most Big Three affiliates in the Eastern and Pacific time zones follow this early evening newscast model as well, running a 90-minute block of news from 5:00 to 6:30 p.m., particularly if they run a network's national evening newscast at 6:30 p.m. Eastern and Pacific Time. Some stations, regardless of time zone, even show a newscast from 6:00 to 7:00 p.m., which if run on a network station in the Central or Mountain time zones would lead into primetime network programming. Some television stations (such as WKYC and WJW in Cleveland, Ohio, or WJAR in Providence, Rhode Island) have recently begun using the fact that primetime in the Eastern Time Zone begins at 8:00 p.m. to their advantage by carrying a newscast during the 7:00 p.m. hour, generally in order to attract viewers who work longer days and cannot return home to watch a 5:00 or 6:00 p.m. newscast.
+Many stations that do not carry a newscast in the 6:00 p.m. timeslot in the Central Time Zone (commonly independent stations and most affiliates of non-historical networks like Fox – which has some stations that air a 6:00 p.m. newscast, though this is not entirely commonplace – The CW and MyNetworkTV) air situation comedies or other types of syndicated programming, such as reality series or game shows, during that hour. Many stations in the Central Time Zone tend to air one or both parts of the syndicated block at 5:00 p.m. or even earlier. Another more recent dilemma of the 7:00 p.m. primetime start is that a combination of longer commutes and work hours than in the past have caused many people to not come home from work until after 7:00 p.m., cutting into the potential ratings of shows that start at this time. Of course, the reverse is also true since simultaneous broadcasts offer viewers the chance to watch "prime time television" without having to stay awake until 11:00 p.m.
+Local programming such as locally produced newscasts are not typically affected as many stations air their morning newscast at 4:00, 4:30, 5:00 or 5:30 a.m., and their early evening newscasts at 5:00 and/or 6:00 p.m.; however, the late evening newscast is affected due to the differences in time between time zones, meaning that if the late local news starts at 10:00 p.m. Central time on one network station, an affiliate of the same network in the Eastern Time Zone airs its newscast at 11:00 p.m.; network evening newscasts on CBS, ABC, and NBC are affected since they are usually scheduled to air at 6:30 p.m. Eastern Time (barring preemption due to network sports coverage or at the discretion of the local station, breaking news or severe weather coverage) in order to sync up with its simultaneous broadcast in the Central Time Zone. Midday newscasts are not necessarily affected, depending on whether the station's affiliated network schedules their daytime lineup simultaneously in the Eastern and Central Time Zones (as with ABC and CBS) or just to the Eastern Time Zone first (as with NBC). The late night program lineups on ABC, CBS, NBC and Fox are also similarly timeshifted, airing a half-hour later (after a newscast or syndicated programming if the station does not run news programming) but are shifted due to the time zone differences (a bigger issue with first-run late night programs that air after 12:30 a.m. Eastern Time since the later start time may subject these programs to a potentially decreased audience). Many Fox, CW and MyNetworkTV affiliates, and some independent stations carry a prime time newscast that is similarly affected by the timeshifting of the prime time schedule, meaning that if said late evening newscast starts at 9:00 p.m. Mountain Time on one network station, an affiliate of the same network in the Pacific time zone would air its news at 10:00 p.m.
+See also[edit]
+
+East Coast bias
+Timeshifting
+
+References[edit]
+
+
+^ . April 7, 2017.  Missing or empty |title= (help)
+^ "Half an hour later in Newfoundland....?" Yes, but why?" Archived 2014-09-14 at the Wayback Machine.
+^ Saskatchewan Current Local Time, TimeTemperature.com. Accessed February 20, 2017
+^ "Half an hour later in Newfoundland....?" Yes, but why?"
+^ "PrideVision changing its format in preparation of new adult-only channel". Channel Canada (Press release). Archived from the original on October 28, 2006. Retrieved August 20, 2014. 
+^ Based on the 2011 population estimate, 46 percent of the American population live in the Eastern time zone, 30 percent in the Central zone; 7.0 percent in the Mountain zone, and 17 percent in the Pacific zone.
+^ "New servers, not separate feeds, will handle PBS time-zone delays (Idaho Public Television in the News)". Idaho Public Television. Retrieved October 25, 2012. 
+^ Michael O'Connell (May 29, 2014). "'Rising Star' Producers Consulted Mathematicians Over Time Zone Dilemma". The Hollywood Reporter. Guggenheim Digital Media. 
+^ Nellie Andreeva (May 29, 2014). "'Rising Star' Producers On How Interactive Talent Show Will Tackle U.S.' 4 Time Zones". Deadline.com. Penske Media Corporation. 
+^ Adalian, Josef (19 January 2016). "For the First Time Ever, the West Coast Can Watch the Grammys Live, Too". Vulture. Retrieved 6 February 2016. 
+^ http://www.bustle.com/articles/88596-when-will-the-tonys-air-on-the-west-coast-heres-exactly-when-you-can-watch
+^ Frazier Moore (December 31, 1997). "Why Party Like It's 1999?". The Standard-Times. The Standard-Times Company. Associated Press. Retrieved October 25, 2012. 
+^ Lynette Rice (February 22, 2012). "Oscars exec producer: 'We need to go for comedy'". Entertainment Weekly. Time Inc. Retrieved February 22, 2012 – via CNN. 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Effects_of_time_zones_on_North_American_broadcasting&oldid=811121786"					
+Categories: Television terminologyTelevision schedulesCanadian television schedulesUnited States television schedulesTelevision in the United StatesTelevision in CanadaTelevision in MexicoTime in the United StatesRadio in the United StatesRadio in CanadaTime in CanadaHidden categories: Pages with citations lacking titlesWebarchive template wayback linksArticles that may contain original research from March 2011All articles that may contain original researchArticles needing additional references from March 2011All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from September 2017Articles with unsourced statements from May 2017 

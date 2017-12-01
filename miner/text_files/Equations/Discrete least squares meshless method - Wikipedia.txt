@@ -1,0 +1,98 @@
+Discrete least squares meshless method - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article needs more links to other articles to help integrate it into the encyclopedia. Please help improve this article by adding links that are relevant to the context within the existing text. (December 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article relies too much on references to primary sources. Please improve this by adding secondary or tertiary sources. (May 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article includes a list of references, but its sources remain unclear because it has insufficient inline citations. Please help to improve this article by introducing more precise citations. (May 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article with a good introductory style. (June 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+The discrete least squares meshless (DLSM) method is a newly introduced meshless method based on the least squares concept. The method is based on the minimization of a least squares functional defined as the weighted summation of the squared residual of the governing differential equation and its boundary conditions at nodal points used to discretize the domain and its boundaries. While most of the existing meshless methods need background cells for numerical integration, DLSM did not require numerical integration procedure due to the use of discrete least squares method to discretize the governing differential equation. A Moving least squares (MLS) approximation method is used to construct the shape function making the approach a fully least squares based approach.
+Arzani and Afshar[1] developed DLSM method in 2006 for the solution of Poisson's equation. Firoozjaee and Afshar[2] proposed collocated discrete least squares meshless (CDLSM) method to solve elliptic partial differential equations and studied the effect of the collocation points on the convergence and accuracy of the method. The method can be considered as an extension the earlier method of DLSM by introducing a set of collocation points for the calculation of least squares functional. CDLSM was later used by Naisipour et al.[3] to solve elasticity problems on irregular distribution of nodal points. Afshar and Lashckarbolok used the CDLSM method for the adaptive simulation of hyperbolic problems. A simple posteriori error indicator based on the value of the least squares functional and a node moving strategy was used and tested on 1-D hyperbolic problems. Shobeyri and Afshar simulated free surface problems using DLSM method.The method was then extended for adaptive simulation of two-dimensional shocked hyperbolic problems by Afshar and Firoozjaee. Also, Adaptive node moving adaptive refinement[4] and multi-stage node enrichment adaptive refinement[5] are formulated in DLSM for the solution of elasticity problems.
+Amani et al.[6] proposed mixed discrete least squares meshless (MDLSM) formulation for solution of planar elasticity problems. In this approach, the differential equations governing the planar elasticity problems are written in terms of the stresses and displacements which are approximated independently using the same shape functions. Since the resulting governing equations are of the first order, both the displacement and stress boundary conditions are of the Dirichlet-type which is easily incorporated via a penalty method. Because least squares based algorithm of MDLSM method, the proposed method does not need to be satisfied the Ladyzhenskaya–Babuška–Brezzi (LBB) condition.
+Notes[edit]
+
+
+
+^ H. Arzani, M.H. Afshar, Solving Poisson’s equation by the discrete least square meshless method, WIT Transactions on Modelling and Simulation 42 (2006) 23–31.
+^ A.R. Firoozjaee, M.H. Afshar, Discrete least squares meshless method with sampling points for the solution of elliptic partial differential equations. Engineering Analysis with Boundary Elements 33 (2009) 83–92.
+^ M. Naisipour, M. H. Afshar, B. Hassani, A.R. Firoozjaee, Collocation Discrete Least Square (CDLS) Method for Elasticity Problems. International Journal of Civil Engineering 7 (2009) 9–18.
+^ M.H.Afshar, M. Naisipour, J. Amani, Node moving adaptive refinement strategy for planar elasticity problems using discrete least squares meshless method, Finite Elements in Analysis and Design, 47, (2011) 1315–1325.
+^ M.H.Afshar, J. Amani, M. Naisipour, A node enrichment adaptive refinement by Discrete Least Squares Meshless method for solution of elasticity problems, Engineering Analysis with Boundary Elements, 36, (2012) 385–393.
+^ J. Amani, M.H.Afshar, M. Naisipour, Mixed Discrete Least Squares Meshless method for planar elasticity problems using regular and irregular nodal distributions, Engineering Analysis with Boundary Elements, 36, (2012) 894–902.
+
+
+
+References[edit]
+
+H. Arzani, M.H. Afshar, Solving Poisson’s equations by the discrete least square meshless method, WIT Transactions on Modelling and Simulation 42 (2006) 23–31.
+M. H. Afshar, M. Lashckarbolok, Collocated discrete least square (CDLS) meshless method: error estimate and adaptive refinement, International Journal for Numerical Methods in Fluids 56 (2008) 1909–1928.
+M. Naisipour, M. H. Afshar, B. Hassani, A.R. Firoozjaee, Collocation Discrete Least Square (CDLS) Method for Elasticity Problems. International Journal of Civil Engineering 7 (2009) 9–18.
+A.R. Firoozjaee, M.H. Afshar, Discrete least squares meshless method with sampling points for the solution of elliptic partial differential equations. Engineering Analysis with Boundary Elements 33 (2009) 83–92.
+G. Shobeyri, M.H. Afshar, Simulating free surface problems using Discrete Least Squares Meshless method. Computers & Fluids 39 (2010) 461–470.
+M.H.Afshar, and A.R. Firoozjaee, Adaptive Simulation of Two Dimensional Hyperbolic Problems by Collocated Discrete Least Squares Meshless Method, Computer and Fluids, 39, (2010) 2030–2039.
+M.H.Afshar, M. Naisipour, J. Amani, Node moving adaptive refinement strategy for planar elasticity problems using discrete least squares meshless method, Finite Elements in Analysis and Design, 47, (2011) 1315–1325.
+M.H.Afshar, J. Amani, M. Naisipour, A node enrichment adaptive refinement by Discrete Least Squares Meshless method for solution of elasticity problems, Engineering Analysis with Boundary Elements, 36, (2012) 385–393.
+J. Amani, M.H.Afshar, M. Naisipour, Mixed Discrete Least Squares Meshless method for planar elasticity problems using regular and irregular nodal distributions, Engineering Analysis with Boundary Elements, 36, (2012) 894–902.
+Faraji, S., M. Afshar, et al. (2014). "Mixed discrete least square meshless method for solution of quadratic partial differential equations." Scientia Iranica. Transaction A, Civil Engineering 21(3): 492.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Discrete_least_squares_meshless_method&oldid=762014681"					
+Categories: Differential equationsLeast squaresHidden categories: Articles with too few wikilinks from December 2012All articles with too few wikilinksArticles covered by WikiProject Wikify from December 2012All articles covered by WikiProject WikifyArticles lacking reliable references from May 2012All articles lacking reliable referencesArticles lacking in-text citations from May 2012All articles lacking in-text citationsWikipedia articles needing context from June 2012All Wikipedia articles needing contextWikipedia introduction cleanup from June 2012All pages needing cleanup 

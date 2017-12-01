@@ -1,0 +1,148 @@
+Rodrigues equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Rodrigues equation is an equation used in chromatography to describe the efficiency of a bed of permeable (large-pore) particles. It is thus an extension of Van Deemter's equation. It was developed by Alirio E. Rodrigues et al..[1]
+Equation[edit]
+The equation is:
+
+
+
+
+H
+E
+T
+P
+=
+A
++
+
+
+B
+u
+
+
++
+C
+⋅
+f
+(
+λ
+)
+⋅
+u
+
+
+{\displaystyle HETP=A+{\frac {B}{u}}+C\cdot f(\lambda )\cdot u}
+
+
+Where
+
+HETP is the height equivalent to a theoretical plate
+A = Eddy diffusion
+B = Longitudinal diffusion
+C = Resistance to mass transfer
+u = Flow rate
+
+
+
+
+f
+(
+λ
+)
+=
+
+
+3
+λ
+
+
+
+[
+
+
+1
+
+t
+a
+n
+h
+(
+λ
+)
+
+
+
+−
+
+
+1
+λ
+
+
+]
+
+
+
+{\displaystyle f(\lambda )={\frac {3}{\lambda }}\left[{\frac {1}{tanh(\lambda )}}-{\frac {1}{\lambda }}\right]}
+
+
+
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ = Intraparticular Péclet number
+
+References[edit]
+
+
+
+^ Alirio E. Rodrigues (10 October 1997). "Permeable packings and perfusion chromatography in protein separation". Journal of Chromatography B. 699 (1–2): 47–61. doi:10.1016/S0378-4347(97)00197-7. 
+
+
+
+
+
+
+
+This article about analytical chemistry is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+This article related to chromatography is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Rodrigues_equation&oldid=798607230"					
+Categories: ChromatographyEquationsAnalytical chemistry stubsChemistry stubsHidden categories: All stub articles 

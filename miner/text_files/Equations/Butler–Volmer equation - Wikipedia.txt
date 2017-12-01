@@ -1,0 +1,532 @@
+Butler–Volmer equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Butler–Volmer equation (also known as Erdey-Grúz-Volmer equation) is one of the most fundamental relationships in electrochemical kinetics. It describes how the electrical current on an electrode depends on the electrode potential, considering that both a cathodic and an anodic reaction occur on the same electrode:
+
+
+
+
+
+j
+=
+
+j
+
+0
+
+
+⋅
+
+{
+exp
+⁡
+
+[
+
+
+
+
+α
+
+a
+
+
+z
+F
+
+
+R
+T
+
+
+
+(
+E
+−
+
+E
+
+e
+q
+
+
+)
+]
+
+−
+exp
+⁡
+
+[
+−
+
+
+
+
+α
+
+c
+
+
+z
+F
+
+
+R
+T
+
+
+
+(
+E
+−
+
+E
+
+e
+q
+
+
+)
+]
+
+}
+
+
+
+{\displaystyle j=j_{0}\cdot \left\{\exp \left[{\frac {\alpha _{a}zF}{RT}}(E-E_{eq})\right]-\exp \left[-{\frac {\alpha _{c}zF}{RT}}(E-E_{eq})\right]\right\}}
+
+
+
+or in a more compact form:
+
+
+
+
+
+j
+=
+
+j
+
+0
+
+
+⋅
+
+{
+exp
+⁡
+
+[
+
+
+
+
+α
+
+a
+
+
+z
+F
+η
+
+
+R
+T
+
+
+
+]
+
+−
+exp
+⁡
+
+[
+−
+
+
+
+
+α
+
+c
+
+
+z
+F
+η
+
+
+R
+T
+
+
+
+]
+
+}
+
+
+
+{\displaystyle j=j_{0}\cdot \left\{\exp \left[{\frac {\alpha _{a}zF\eta }{RT}}\right]-\exp \left[-{\frac {\alpha _{c}zF\eta }{RT}}\right]\right\}}
+
+
+
+
+
+
+
+The upper graph shows the current density as function of the overpotential η . The anodic and cathodic current densities are shown as ja and jc, respectively for α=αa=αc=0.5 and j0 =1mAcm−2 (close to values for platinum and palladium). The lower graph shows the logarithmic plot for different values of α
+
+
+where:
+
+
+
+
+
+j
+
+
+{\displaystyle j}
+
+: electrode current density, A/m2 (defined as i = I/A)
+
+
+
+
+
+j
+
+o
+
+
+
+
+{\displaystyle j_{o}}
+
+: exchange current density, A/m2
+
+
+
+
+E
+
+
+{\displaystyle E}
+
+: electrode potential, V
+
+
+
+
+
+E
+
+e
+q
+
+
+
+
+{\displaystyle E_{eq}}
+
+: equilibrium potential, V
+
+
+
+
+T
+
+
+{\displaystyle T}
+
+: absolute temperature, K
+
+
+
+
+z
+
+
+{\displaystyle z}
+
+: number of electrons involved in the electrode reaction
+
+
+
+
+F
+
+
+{\displaystyle F}
+
+: Faraday constant
+
+
+
+
+R
+
+
+{\displaystyle R}
+
+: universal gas constant
+
+
+
+
+
+α
+
+c
+
+
+
+
+{\displaystyle \alpha _{c}}
+
+: so-called cathodic charge transfer coefficient, dimensionless
+
+
+
+
+
+α
+
+a
+
+
+
+
+{\displaystyle \alpha _{a}}
+
+: so-called anodic charge transfer coefficient, dimensionless
+
+
+
+
+η
+
+
+{\displaystyle \eta }
+
+: activation overpotential (defined as 
+
+
+
+η
+=
+(
+E
+−
+
+E
+
+e
+q
+
+
+)
+
+
+{\displaystyle \eta =(E-E_{eq})}
+
+).
+
+The right hand figure shows plots valid for αa=1-αc.
+The equation is named after chemists John Alfred Valentine Butler[1] and Max Volmer.
+
+
+
+Contents
+
+
+1 Mass-transfer control
+2 The limiting cases
+3 See also
+4 References
+
+
+
+Mass-transfer control[edit]
+The previous form of Butler–Volmer equation is valid when the electrode reaction is controlled by electrical charge transfer at the electrode (and not by the mass transfer to or from the electrode surface from or to the bulk electrolyte). Nevertheless, the utility of the Butler–Volmer equation in electrochemistry is wide, and it is often considered to be "central in the phenomenological electrode kinetics".[2]
+In the region of the limiting current, when the electrode process is mass-transfer controlled, the value of the current density is:
+
+
+
+
+
+
+i
+
+limiting
+
+
+=
+
+
+
+z
+F
+D
+
+δ
+
+
+
+C
+
+∗
+
+
+
+
+{\displaystyle i_{\text{limiting}}={\frac {zFD}{\delta }}C^{*}}
+
+
+
+where:
+
+D is the diffusion coefficient;
+δ is the diffusion layer thickness;
+C* is the concentration of the electroactive (limiting) species in the bulk of the electrolyte.
+C(0,t) is the time-dependent concentration at the distance zero from the surface.
+
+The above form simplifies to the conventional one (shown at the top of the article) when the concentration of the electroactive species at the surface is equal to that in the bulk.
+The limiting cases[edit]
+There are two limiting cases of the Butler–Volmer equation:
+
+the low overpotential region (called "polarization resistance", i.e., when E ≈ Eeq), where the Butler–Volmer equation simplifies to:
+
+
+
+
+
+
+i
+=
+
+i
+
+0
+
+
+
+
+
+z
+F
+
+
+R
+T
+
+
+
+(
+E
+−
+
+E
+
+e
+q
+
+
+)
+
+
+{\displaystyle i=i_{0}{\frac {zF}{RT}}(E-E_{eq})}
+
+;
+
+
+the high overpotential region, where the Butler–Volmer equation simplifies to the Tafel equation:
+
+
+
+
+
+
+E
+−
+
+E
+
+e
+q
+
+
+=
+a
+−
+b
+log
+⁡
+(
+i
+)
+
+
+{\displaystyle E-E_{eq}=a-b\log(i)}
+
+ for a cathodic reaction, when E << Eeq, or
+
+
+
+
+E
+−
+
+E
+
+e
+q
+
+
+=
+a
++
+b
+log
+⁡
+(
+i
+)
+
+
+{\displaystyle E-E_{eq}=a+b\log(i)}
+
+ for an anodic reaction, when E >> Eeq
+
+where a and b are constants (for a given reaction and temperature) and are called the Tafel equation constants. The theoretical values of a and b are different for the cathodic and anodic processes.
+See also[edit]
+
+Advanced Simulation Library
+Nernst equation
+Goldman equation
+
+References[edit]
+
+
+
+^ Mayneord, W. V. (1979). "John Alfred Valentine Butler. 14 February 1899-16 July 1977". Biographical Memoirs of Fellows of the Royal Society. 25: 144–178. doi:10.1098/rsbm.1979.0004. 
+^ J. O'M. Bockris, A.K.N.Reddy, and M. Gamboa-Aldeco, "Modern Electrochemistry 2A. Fundamentals of Electrodics.", Second Edition, Kluwer Academic/Plenum Publishers, p.1083, 2000.
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Butler–Volmer_equation&oldid=793249268"					
+Categories: Physical chemistryElectrochemical equations 

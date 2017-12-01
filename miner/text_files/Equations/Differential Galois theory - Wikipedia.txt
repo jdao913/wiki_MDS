@@ -1,0 +1,31 @@
+Differential Galois theory - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, differential Galois theory studies the Galois groups of differential equations.
+Overview[edit]
+Whereas algebraic Galois theory studies extensions of algebraic fields, differential Galois theory studies extensions of differential fields, i.e. fields that are equipped with a derivation, D. Much of the theory of differential Galois theory is parallel to algebraic Galois theory. One difference between the two constructions is that the Galois groups in differential Galois theory tend to be matrix Lie groups, as compared with the finite groups often encountered in algebraic Galois theory.
+The problem of finding which integrals of elementary functions can be expressed with other elementary functions is analogous to the problem of solutions of polynomial equations by radicals in algebraic Galois theory, and is not addressed by differential Galois theory, but is solved by Liouville's theorem and the Risch algorithm.
+See also[edit]
+
+Picard-Vessiot theory
+
+References[edit]
+
+Hubbard, John H.; Lundell, Benjamin E. (2011). "A First Look at Differential Algebra". The American Mathematical Monthly. 118 (3): 245–261. doi:10.4169/amer.math.monthly.118.03.245. 
+Bertrand, D. (1996), "Review of "Lectures on differential Galois theory"" (PDF), Bulletin of the American Mathematical Society, 33 (2), doi:10.1090/s0273-0979-96-00652-0, ISSN 0002-9904 
+Beukers, Frits (1992), "8. Differential Galois theory", in Waldschmidt, Michel; Moussa, Pierre; Luck, Jean-Marc; Itzykson, Claude, From number theory to physics. Lectures of a meeting on number theory and physics held at the Centre de Physique, Les Houches (France), March 7–16, 1989, Berlin: Springer-Verlag, pp. 413–439, ISBN 3-540-53342-7, Zbl 0813.12001 
+Magid, Andy R. (1994), Lectures on differential Galois theory, University Lecture Series, 7, Providence, R.I.: American Mathematical Society, ISBN 978-0-8218-7004-4, MR 1301076 
+Magid, Andy R. (1999), "Differential Galois theory" (PDF), Notices of the American Mathematical Society, 46 (9): 1041–1049, ISSN 0002-9920, MR 1710665 
+van der Put, Marius; Singer, Michael F. (2003), Galois theory of linear differential equations, Grundlehren der Mathematischen Wissenschaften [Fundamental Principles of Mathematical Sciences], 328, Berlin, New York: Springer-Verlag, ISBN 978-3-540-44228-8, MR 1960772 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Differential_Galois_theory&oldid=798084767"					
+Categories: Field theoryDifferential algebraDifferential equationsAlgebraic groups 

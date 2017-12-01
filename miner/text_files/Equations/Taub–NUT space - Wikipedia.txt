@@ -1,0 +1,771 @@
+Taub–NUT space - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+General relativity
+
+
+
+
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+
+
+
+
+
+
+
+
+
+
+Introduction
+History
+
+
+
+Mathematical formulation
+
+
+
+Tests
+
+
+
+
+
+
+
+
+
+Fundamental concepts
+
+
+Equivalence principle
+Special relativity
+World line
+Riemannian geometry
+
+
+
+
+
+
+
+
+Phenomena
+
+
+
+
+
+Kepler problem
+Time dilation
+Gravitational field
+Gravitational collapse
+Gravitational lensing
+Gravitational waves
+Gravitational redshift
+Gravitational time delay
+Gravitational time dilation
+Gravitational potential
+Gravitational compression
+Frame-dragging
+Geodetic effect
+Gravity well
+Event horizon
+Singularity
+Naked singularity
+Black hole
+White hole
+
+
+
+
+Spacetime
+
+
+
+
+Space
+Time
+Spacetime diagrams
+Minkowski spacetime
+Closed timelike curve (CTC)
+Wormhole
+
+Ellis wormhole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+Formalisms
+
+
+
+
+
+
+Equations
+
+
+
+
+Linearized gravity
+Einstein field equations
+Friedmann
+Geodesics
+Mathisson–Papapetrou–Dixon
+Hamilton–Jacobi–Einstein
+
+
+
+
+Formalisms
+
+
+
+
+ADM
+BSSN
+Post-Newtonian
+
+
+
+
+Advanced theory
+
+
+
+
+Kaluza–Klein theory
+Quantum gravity
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Lemaître–Tolman
+Taub-NUT
+Milne
+Robertson–Walker
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedman
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Raychaudhuri
+Taylor
+Hulse
+van Stockum
+Taub
+Newman
+Yau
+Thorne
+others
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+The Taub–NUT metric (/tɔːb nʌt/[1] or /tɔːb ɛnjuːˈtiː/) is an exact solution to Einstein's equations, a cosmological model formulated in the framework of general relativity.
+The Taub–NUT space was found by Abraham Haskel Taub (1951), and extended to a larger manifold by Ezra T. Newman, Louis A. Tamburino, and Theodore W. J. Unti (1963), whose initials form the "NUT" of "Taub–NUT".
+Taub's solution is an empty space solution of Einstein's equations with topology R×S3 and metric
+
+
+
+
+
+d
+
+s
+
+2
+
+
+=
+−
+d
+
+t
+
+2
+
+
+
+/
+
+U
+(
+t
+)
++
+4
+
+l
+
+2
+
+
+U
+(
+t
+)
+(
+d
+ψ
++
+cos
+⁡
+θ
+d
+ϕ
+
+)
+
+2
+
+
++
+(
+
+t
+
+2
+
+
++
+
+l
+
+2
+
+
+)
+(
+d
+
+θ
+
+2
+
+
++
+(
+sin
+⁡
+θ
+
+)
+
+2
+
+
+d
+
+ϕ
+
+2
+
+
+)
+
+
+{\displaystyle ds^{2}=-dt^{2}/U(t)+4l^{2}U(t)(d\psi +\cos \theta d\phi )^{2}+(t^{2}+l^{2})(d\theta ^{2}+(\sin \theta )^{2}d\phi ^{2})}
+
+
+
+where
+
+
+
+
+
+U
+(
+t
+)
+=
+
+
+
+2
+m
+t
++
+
+l
+
+2
+
+
+−
+
+t
+
+2
+
+
+
+
+
+t
+
+2
+
+
++
+
+l
+
+2
+
+
+
+
+
+
+
+{\displaystyle U(t)={\frac {2mt+l^{2}-t^{2}}{t^{2}+l^{2}}}}
+
+
+
+and m and l are positive constants.
+Taub's metric has coordinate singularities at 
+
+
+
+U
+=
+0
+,
+t
+=
+m
++
+(
+
+m
+
+2
+
+
++
+
+l
+
+2
+
+
+
+)
+
+1
+
+/
+
+2
+
+
+
+
+{\displaystyle U=0,t=m+(m^{2}+l^{2})^{1/2}}
+
+, and Newman, Tamburino and Unti showed how to extend the metric across these surfaces.
+When Roy Kerr developed the Kerr metric for spinning black holes in 1963, he ended up with a 4 parameter solution, one of which was the mass and another the angular momentum of the central body. One of the two other parameters was the NUT-parameter, which he threw out of his solution because he found it to be nonphysical since it caused the metric to be not asymptotically flat,[2][3] while other sources interpret it either as a gravomagnetic monopole parameter of the central mass,[4] or a twisting property of the surrounding spacetime.[5]
+References[edit]
+
+
+
+^ McGraw-Hill Science & Technology Dictionary: "Taub NUT space"
+^ Roy Kerr: Spinning Black Holes (Lecture at the University of Canterbury, 25. May 2016). Timecode: 21m36s
+^ Roy Kerr: Kerr Conference (Lecture at the New Zealand Residence in Berlin, 4. July 2013). Timecode: 19m56s
+^ Mohammad Nouri-Zonoz, Donald Lynden-Bell: Gravomagnetic Lensing by NUT Space arXiv:gr-qc/9812094
+^ A. Al-Badawi, Mustafa Halilsoy: On the physical meaning of the NUT parameter, from ResearchGate
+
+
+
+Notes[edit]
+
+Newman, E.; Tamburino, L.; Unti, T. (1963), "Empty-space generalization of the Schwarzschild metric", Journal of Mathematical Physics, 4: 915–923, Bibcode:1963JMP.....4..915N, doi:10.1063/1.1704018, ISSN 0022-2488, MR 0152345 
+Taub, A. H. (1951), "Empty space-times admitting a three parameter group of motions", Annals of Mathematics. Second Series, 53: 472–490, doi:10.2307/1969567, ISSN 0003-486X, JSTOR 1969567, MR 0041565 
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Relativity
+
+
+
+Special
+relativity
+
+
+
+
+Background
+
+
+
+Principle of relativity
+Special relativity
+
+
+
+
+
+Foundations
+
+
+
+Frame of reference
+Speed of light
+Hyperbolic orthogonality
+Rapidity
+Maxwell's equations
+
+
+
+
+
+Formulation
+
+
+
+Galilean relativity
+Galilean transformation
+Lorentz transformation
+
+
+
+
+
+Consequences
+
+
+
+Time dilation
+Relativistic mass
+Mass–energy equivalence
+Length contraction
+Relativity of simultaneity
+Relativistic Doppler effect
+Thomas precession
+Relativistic disks
+
+
+
+
+
+Spacetime
+
+
+
+Light cone
+World line
+Spacetime diagram
+Biquaternions
+Minkowski space
+
+
+
+
+
+
+
+
+
+
+
+General
+relativity
+
+
+
+
+Background
+
+
+
+Introduction
+Mathematical formulation
+
+
+
+
+
+Fundamental
+concepts
+
+
+
+Special relativity
+Equivalence principle
+World line
+Riemannian geometry
+Minkowski diagram
+Penrose diagram
+
+
+
+
+
+Phenomena
+
+
+
+Black hole
+Event horizon
+Frame-dragging
+Geodetic effect
+Lenses
+Singularity
+Waves
+Ladder paradox
+Twin paradox
+Two-body problem
+BKL singularity
+
+
+
+
+
+Equations
+
+
+
+ADM formalism
+BSSN formalism
+Einstein field equations
+Geodesic equation
+Friedmann equations
+Linearized gravity
+Post-Newtonian formalism
+Raychaudhuri equation
+Hamilton–Jacobi–Einstein equation
+Ernst equation
+Tolman-Oppenheimer-Volkoff equation
+
+
+
+
+
+Advanced
+theories
+
+
+
+Brans–Dicke theory
+Kaluza–Klein
+Mach's principle
+Quantum gravity
+
+
+
+
+
+Solutions
+
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Friedmann–Lemaître–Robertson–Walker
+Taub–NUT
+Milne
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedmann
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Taylor
+Hulse
+Stockum
+Taub
+Newman
+Yau
+Thorne
+Weiss
+Bondi
+Misner
+others
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Taub–NUT_space&oldid=808666969"					
+Categories: Exact solutions in general relativity 

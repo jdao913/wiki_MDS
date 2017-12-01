@@ -1,0 +1,266 @@
+Pay television content descriptors - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article possibly contains original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (April 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article may contain an excessive amount of intricate detail that may only interest a specific audience. Please help by spinning off or relocating any relevant information, and removing excessive detail that may be against Wikipedia's inclusion policy. (July 2015) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+The pay television content descriptors are a content advisory system that was developed by the American pay television industry. It is designed to give viewers an idea of the type(s) of content included in films, specials and television programs that are broadcast by premium television and pay-per-view services, particularly to allow parents or guardians to gauge whether a particular program is inappropriate for viewing by minors under the age of 18 (based on the degree of the content and the age of the viewer).[1]
+Content descriptors are primarily applied to feature films with a minimum rating of "PG" as per the Motion Picture Association of America's ratings system or programs with a TV Parental Guideline rating of "TV-PG".
+
+
+
+Contents
+
+
+1 Development and implementation
+2 Content ratings
+
+2.1 Examples
+
+
+3 Use of content descriptors based on rating
+4 See also
+5 References
+
+
+
+Development and implementation[edit]
+Like the TV Parental Guidelines, which this system predates and is used alongside, the content ratings were established as a voluntary participation system, with the assigned ratings for each program determined by the individually participating subscription television networks.[1] The system's creation was spurred by concerns from parents over the amount of violent content in television programs, particularly those seen on premium cable channels. Prior to the system's implementation, premium services only provided information on potentially objectionable content via the listings magazines that were supplied to their subscribers. In January 1994, representatives from the cable television industry decided to develop a voluntary rating system for television programs,[2][3] with premium channels ultimately opting to develop a system to rate all types of program content that may be considered inappropriate for children.[4][5]
+Prior to the creation of the content descriptions, premium television services did not reference the content within a film, television series or special on-air (though program guides provided by the pay cable channels did reference the type of content in each program); instead pay channels usually only used vague explanations of adult content using the program rating (for example, "The following movie has been rated "PG-13" by the Motion Picture Association of America, some material may be inappropriate for young children, parents may wish to consider whether it should be viewed by those under 13"). After the announcement of the content system's development, Time Warner-owned premium channels HBO and Cinemax, and Viacom-owned Showtime and The Movie Channel (both now owned by CBS Corporation) began incorporating text descriptions during ratings bumpers aired prior to the start of a film, television series or special, immediately after information on the rating and features (i.e., the inclusion of closed captioning, a second audio program language feed and/or stereophonic sound) of a program (in either a single-page or dual-page format, depending on the service).
+The current iteration of the content system, which introduced a uniform set of coded icons and text descriptors, was first introduced on June 10, 1994 by HBO and Cinemax; it was then implemented on Showtime and The Movie Channel the following month.[6] Liberty Media's then-new Starz network, which was established earlier that year, and its sister network Encore began implementing the system by the fall of 1994, and select pay-per-view services (such as Viewer's Choice and Request TV) began using the system in early 1997 (since then, Flix, Sundance Channel – which no longer uses the system after its purchase by Rainbow Media in 2008 and conversion into a basic cable channel, MoviePlex and Epix have also utilized the system). The descriptors are similar to the content sub-ratings that were applied to the TV Parental Guidelines in July 1997, though they provide a more precise account of the content within a program. By this point, most services using the descriptors showed them in a secondary bumper page separate from the program's rating.[7]
+Each premium channel labels its own programs separately; because of this, it is conceivable that a film that obtains a "GV" rating for graphic violence on HBO and Cinemax would only get a "V" rating for moderate degrees of violence if the same film aired on Showtime and The Movie Channel;[6] McAdory Lipscomb, former executive vice president of Showtime, described about how the advisories are applied, "It is possible that [Showtime] would rank something different than HBO, but we both recognize our dual responsibility to provide information to our subscribers about what is graphic or perhaps unsuitable for children, and we think the common language we've developed will provide an acceptable parameter."[8] A 1996 survey of parents showed that 80% of those polled preferred the content advisory system because of its clearer detail of potentially objectionable content included within an individual program.[9]
+Though the use of announcers to read aloud the program ratings was commonplace at the time the descriptors were introduced (its use having decreased since that point), only Showtime and The Movie Channel utilized verbal references to a program's content during ratings bumpers between 1994 and 1997 (which were read by longtime staff announcer Bill St. James on Showtime and by 1996, The Movie Channel).[10]
+Content descriptions are also used on certain video-on-demand services operated by pay television services; currently, HBO, Cinemax and Starz are the only premium channels using descriptors on video-on-demand content, due to the services utilizing ratings bumpers seen on each of the services' linear cable channels prior to the start of a program selection. More recently, Comedy Central, despite being only a basic cable channel in the United States, has started to use the "Graphic Language" advisory on its series South Park and Workaholics, however, not all television guides choose to carry this.
+Content ratings[edit]
+The content system consists of ten indicator codes, which identify the specific content included in a program:[4][11][12]
+
+
+Rating
+Descriptor's meaning
+Entailing program content
+
+
+AC
+Adult content
+This indicates that the film or program may contain suggestive dialogue, crude humor or in extreme cases, drug references or depiction of drug and/or alcohol use that may not be suitable for children. Films rated "PG" or TV series rated "TV-PG" or higher often use this descriptor.
+
+
+AL
+Adult language
+This suggests that the film, special or program may contain profanity, ranging from either mild profanity (such as "damn", "prick" or "ass") to expletives, with or without a sexual meaning; more than four uses of two or more expletives like "shit" or "fuck" in a film/program, may result in the program being assigned a "GL" descriptor. Films rated "PG" or TV series rated "TV-PG" or higher often use this descriptor.
+
+
+GL
+Graphic language
+This descriptor suggests that a movie, special event (for example, a stand-up comedy special) or series will contain a heavy amount of profanity, with relatively to very frequent usage of expletives with or without a sexual meaning. Criteria for the "GL" description is usually for films or television programs that contain the use of two or more expletive profanities (such as "shit", "cunt" or "motherfucker") more than four times during the run of the program. The use of this content descriptor is usually exclusive to films that are rated "R" or television series rated "TV-MA".
+
+
+MV
+Mild violence
+This suggests that a movie or series contains a mild amount of violent content, either comedic or non-comedic in nature, that may or may not include some bloodshed. Films rated "PG" or TV series rated "TV-PG" or higher often use this content rating, however this descriptor is seldom used in "R" or "TV-MA" rated programs.
+
+
+V
+Violence
+This is indicative of the program containing a moderate to significant amount of violent content (such as a physical altercation or shooting), which may include mild to moderate amounts of bloodshed. This does not necessarily account for incidents in which scenes may contain gory material or the depiction of dismemberment.
+
+
+GV
+Graphic violence
+This means that the program or film may contain a heavy amount of violence, blood or gore,[6] that is unsuitable for younger audiences or those who are squeamish to such content. The usage of this descriptor depends on how long the blood or gore is actually shown and how much of it is included. The use of this content descriptor is typically exclusive to films that are rated "R" or television series rated "TV-MA", though there is rare use of this descriptor for films with a "PG-13" rating. Most American premium channels typically limit the usage of this particular content descriptor for "R"-rated films or "TV-MA" rated television series, based on the above description.
+
+
+BN
+Brief nudity
+This is indicative that the film or program contains a minimal amount of moderate nudity, that may either be depicted in a sexual or non-sexual nature (such as a brief glimpse of a man's buttocks); nudity seen in the program or film may not necessarily be full-frontal in nature. The use of this content descriptor is commonly for films that are rated "PG-13" or "R", and television series or certain films rated "TV-14" or "TV-MA", but is sometimes used in films rated "PG" or television series or made-for-TV movies rated "TV-PG".
+
+
+N
+Nudity
+This means that a live-action or animated film/program contains a moderate to significant amount of partial or full-frontal nudity, that may either be depicted in a sexual or non-sexual nature. This may either be for anything such as the display of topless women or exposed male buttocks, to in some cases, exposed genitalia. The use of this content descriptor is generally exclusive to films that are rated "R", and television series or certain films rated "TV-MA", and only occasionally used in films rated "PG-13" or television series or made-for-TV movies rated "TV-14". On softcore adult programs airing on channels such as Cinemax and The Movie Channel, this descriptor is generally referenced alongside the descriptor "SSC", for strong sexual content, as films that contain simulated or graphic depictions of sexual intercourse will often contain some degree of nudity, whether partial or full-frontal.
+
+
+SSC
+Strong sexual content
+This signifies that the program may contain graphic sexual situations,[6] particularly scenes of simulated (or in rare cases, actual) sexual intercourse that is often of a pornographic nature (though in some instances, the sexual intercourse depicted may be depicted in a realistic and artistic style), with the incorporation of moderate or full-frontal nudity. Scenes of men (or sometimes women, although this is not often shown) receiving oral sex may also fall within the criteria for an "SSC" rating. An "SSC" rating means the sexual content in the program may be unsuitable for those under the age of 18. The use of this content descriptor is strictly exclusive to films that are rated "R", and television series or certain films rated "TV-MA". On softcore adult programs airing on channels such as Cinemax and The Movie Channel, this descriptor is generally referenced alongside the descriptor "N", for nudity, as films that contain simulated or graphic depictions of sexual intercourse will often contain some degree of nudity, whether partial (for example, a female wearing clothes covering only the top half of her body for a portion of or throughout the scene, but whose breasts are exposed) or full-frontal.
+
+
+RP
+Rape
+This denotes the film or program may contain graphic scenes of rape and/or other forms of sexual assault, depicted in a realistic and often violent, but fictional nature. Any program that contains such content is not likely suitable for anyone under the age of 18, or anyone who objects to and/or is uncomfortable with visual depictions of sexual abuse. The use of this content descriptor is fairly rare, and is strictly exclusive to films that are rated "R" or television series rated "TV-MA". The "RP" descriptor is often used with the "SSC" descriptor.
+
+
+Examples[edit]
+Anywhere between one and five content ratings can be assigned to a program, in order to give viewers an outline of the mature content that may be included, providing specificity for parents to determine if the program is appropriate for viewing by children depending on age group.[13][14] A key example is with the 2010 comedy Get Him to the Greek, which made its premium cable debut on HBO and Cinemax in 2011; the film (originally rated "R" for its theatrical release, but assigned a "TV-MA-L,S,V" rating by HBO and Cinemax, due to its broadcast of the unrated version of the film was tagged for adult content (due to its pervasive sexual dialogue, drug references, moderate alcohol and drug use, and crude humor, including two scenes involving vomiting), strong sexual content (due to two scenes in which Jonah Hill's character Aaron Green is seen having intercourse with two different women on two separate occasions, neither of which included any nudity, although one featured Green getting a dildo inserted in his mouth and rubbed on his face), graphic language (due to the inclusion of over 100 expletives in the film) and nudity (because of two scenes involving topless women, and one scene including partially exposed male buttocks).
+Virtually all softcore pornographic adult films broadcast on pay television networks are given content ratings for strong sexual content, nudity, adult content and adult language; although occasionally, an adult movie may be tagged for a scene that contains some degree of violent content, if included. G-rated films, however, are typically not given content ratings as most movies assigned with that rating do not feature any objectionable content.
+Use of content descriptors based on rating[edit]
+
+
+Movie/TV rating
+AC
+(Adult content)
+AL
+(Adult language)
+GL
+(Graphic language)
+MV
+(Mild violence)
+V
+(Violence)
+GV
+(Graphic violence)
+BN
+(Brief nudity)
+N
+(Nudity)
+SSC
+(Strong sexual content)
+RP
+(Rape)
+
+
+G/TV-G
+N
+N
+N
+Y
+(sometimes used)
+Y
+(in very rare cases used)
+N
+N
+N
+N
+N
+
+
+PG/TV-PG
+Y
+(used)
+Y
+(used)
+N
+Y
+(used)
+Y
+(used)
+N
+Y
+(rarely used)
+Y
+(very rarely used)
+N
+N
+
+
+PG-13/R/TV-14
+Y
+(used)
+Y
+(used)
+N
+Y
+(used)
+Y
+(used)
+Y
+(rarely used)
+Y
+(sometimes used)
+Y
+(occasionally used)
+N
+Y
+(Occasionally used)
+
+
+R/NC-17/TV-MA
+Y
+(sometimes used)
+Y
+(used)
+Y
+(sometimes used)
+Y
+(rarely used)
+Y
+(used)
+Y
+(used)
+Y
+(used)
+Y
+(used)
+Y
+(exclusive use)
+Y
+(exclusive use)
+
+
+See also[edit]
+
+Motion Picture Association of America film rating system
+TV Parental Guidelines
+
+References[edit]
+
+
+^ a b "Ratings for Program Content: The Role of Research Findings" (PDF). The Annals of the American Academy of Political and Social Science. May 1998. Retrieved August 2, 2017 – via Annenberg School for Communication at the University of Pennsylvania. 
+^ Richard Katz (January 17, 1994). "Cable agrees to monitor violence". Multichannel News. Retrieved March 11, 2013 – via HighBeam Research. (Subscription required (help)). 
+^ Ellen Edwards (January 11, 1994). "Cable Leaders to Develop Violence Ratings". The Washington Post. Retrieved March 11, 2013 – via HighBeam Research. (Subscription required (help)). 
+^ a b Brad J. Bushman; Joanne Cantor (February 2003). "Media Ratings for Violence and Sex: Implications for Policymakers and Parents". American Psychologist. Retrieved August 2, 2017. 
+^ Michael J. Fucci (1998). "Facing the Future: An Analysis of the Television Ratings System" (PDF). UCLA Entertainment Law Review. Retrieved August 2, 2017. 
+^ a b c d Steve Weinstein (June 8, 1994). "Premium Cable Channels Adopt Content Labels". Los Angeles Times. 
+^ Showtime promos, 5/18/1994 (partial). Showtime. May 18, 1994. Retrieved August 2, 2017 – via YouTube. [non-primary source needed]
+^ "Rating Sex and Violence in the Media: Media Ratings and Proposals for Reform" (PDF). Kaiser Family Foundation. November 2002. 
+^ "Survey Says Parents Want Specific Ratings For Tv Shows". Fort Lauderdale Sun-Sentinel. Hearst Newspapers. November 22, 1996. Retrieved August 2, 2017. 
+^ September 11-12, 1994 Showtime promos. Showtime. September 11–12, 1994. Retrieved February 26, 2011 – via YouTube. [non-primary source needed]
+^ John Carman (January 9, 1997). "JOHN CARMAN on TELEVISION -- Ratings Get a `C' for Confusing / New system makes almost no sense". San Francisco Chronicle. Retrieved August 2, 2017. 
+^ Joanne Cantor; Suzanne Stutman (November 1996). "What Parents Want in a Television Rating System: Results of a National Survey" (PDF). YourMindonMedia.com. 
+^ "Chipping Away at the Boob Tube". New York Daily News. December 15, 1996. Retrieved August 2, 2017. 
+^ Daniel D'Addario (June 6, 2013). "The most spoilery parental guidelines on "Game of Thrones"". Salon. Retrieved August 2, 2017. 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pay_television_content_descriptors&oldid=812620671"					
+Categories: Media content ratings systemsCable television in the United States1994 establishments in the United StatesHidden categories: Pages containing links to subscription-only contentAll pages needing factual verificationWikipedia articles needing factual verification from November 2017Articles that may contain original research from April 2012All articles that may contain original researchWikipedia articles needing style editing from July 2015All articles needing style editing 

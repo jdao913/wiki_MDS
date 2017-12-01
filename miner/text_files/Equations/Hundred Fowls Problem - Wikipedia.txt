@@ -1,0 +1,103 @@
+Hundred Fowls Problem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Hundred Fowls Problem is a problem first discussed in the fifth century CE Chinese mathematics text Zhang Qiujian suanjing (The Mathematical Classic of Zhang Qiujian), a book of mathematical problems written by Zhang Qiujian. It is one of the best known examples of indeterminate problems in the early history of mathematics.[1] The problem appears as the final problem in Zhang Qiujian suanjing (Problem 38 in Chapter 3). However, the problem and its variants have appeared in the medieval mathematical literature of India, Europe and the Arab world.[2]
+The name "Hundred Fowls Problem" is due to the Belgian historian Louis van Hee.[3]
+
+
+
+Contents
+
+
+1 Problem statement
+2 Mathematical formulation
+3 Variations
+
+3.1 Indian mathematics
+3.2 Medieval Europe
+3.3 Arabian mathematics
+
+
+4 References
+
+
+
+Problem statement[edit]
+The Hundred Fowls Problem as presented in Zhang Qiujian suanjing can be translated as follows:[4]
+
+"Now one cock is worth 5 qian, one hen 3 qian and 3 chicks 1 qian. It is required to buy 100 fowls with 100 qian. In each case, find the number of cocks, hens and chicks bought."
+
+Mathematical formulation[edit]
+Let x be the number of cocks, y be the number of hens, and z be the number of chicks, then the problem is to find x, y and z satisfying the following equations:
+
+x + y +z = 100
+5x + 3y + z/3 = 100
+
+Obviously, only non-negative integer values are acceptable. Expressing y and z in terms of x we get
+
+y = 25 − (7/4)x
+z = 75 + (3/4)x
+
+Since x, y and z all must be integers, the expression for y suggests that x must be a multiple of 4. Hence the general solution of the system of equations can be expressed using an integer parameter t as follows:[5]
+
+x = 4t
+y = 25 − 7t
+z = 75 + 3t
+
+Since y should be a non-negative integer, the only possible values of t are 0, 1, 2 and 3. So the complete set of solutions is given by
+
+(x,y,z) = (0,25,75), (4,18,78), (8,11,81), (12,4,84).
+
+of which the last three have been given in Zhang Qiujian suanjing.[3] However, no general method for solving such problems has been indicated leading to a suspicion whether the solutions have been obtained by trial and error.[1]
+The Hundred Fowls Problem found in Zhang Qiujian suanjing is a special case of the general problem of finding integer solutions of the following system of equations:
+
+x + y + z = d
+ax + by + cz = d
+
+Any problem of this type is sometime referred to as "Hundred Fowls problem".[3]
+Variations[edit]
+Some variants of the Hundred Fowls Problem have appeared in the mathematical literature of several cultures.[1][2] In the following we present a few sample problems discussed in these cultures.
+Indian mathematics[edit]
+Mahavira's Ganita-sara-sangraha contains the following problem:
+
+Pigeons are sold at the rate of 5 for 3, sarasa-birds at the rate of 7 for 5, swans at the rate of 9 for 7, and peacocks at the rate of 3 for 9 (panas). A certain man was told to bring 100 birds for 100 panas. What does he give for each of the various kinds of birds he buys?
+
+The Bakshali manuscript gives the problem of solving the following equations:
+
+x + y + z = 20
+3x + (3/2)y + (1/2)z = 20
+
+Medieval Europe[edit]
+The English mathematician Alcuin of York (6th century) has stated seven problems similar to the Hundred Fowls Problem in his Propositiones ad acuendos iuvenes. Here is a typical problem:
+
+If 100 bushels of corn be distributed among 100 people such that each man gets 3 bushels, each woman 2 bushels and each child half a bushel, then how many men, women and children were there?
+
+Arabian mathematics[edit]
+Abu Kamil (850 - 930 CE) considered non-negative integer solutions of the following equations:
+
+x + y + z = 100
+3x + (/20)y+ (1/3)z = 100.
+
+References[edit]
+
+
+
+^ a b c Victor J. Katz, Annette Imhausen (Editors) (2007). The Mathematics of Egypt, Mesopotamia, China, India, and Islam: A Sourcebook. Princeton University Press. p. 307. ISBN 9780691114859. CS1 maint: Extra text: authors list (link)
+^ a b Kangshen Shen; John N. Crossley; Anthony Wah-Cheung Lun; Hui Liu (1999). The Nine Chapters on the Mathematical Art: Companion and Commentary. Oxford University Press. pp. 415 – 420. ISBN 9780198539360. 
+^ a b c Jean-Claude Martzloff (1997). A History of Chinese Mathematics. Berlin: Springer-verlag. pp. 307 – 309. 
+^ Lam Lay Yong (September 1997). "Zhang Qiujian Suanjing (The Mathematical Classic of Zhang Qiujian). An Overview". Archive for History of Exact Sciences. 50 (34): 201 – 240. Retrieved 30 November 2016. 
+^ Oystein Ore (2012). Number Theory and its History. Courier Corporation. pp. 116 – 141. ISBN 9780486136431. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Hundred_Fowls_Problem&oldid=756924824"					
+Categories: Chinese mathematicsAlgebraNumber theoryDiophantine equationsHidden categories: CS1 maint: Extra text: authors list 

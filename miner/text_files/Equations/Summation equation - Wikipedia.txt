@@ -1,0 +1,84 @@
+Summation equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, a summation equation or discrete integral equation is an equation in which an unknown function appears under a summation sign. The theories of summation equations and integral equations can be unified as integral equations on time scales[1] using time scale calculus. A summation equation compares to a difference equation as an integral equation compares to a differential equation.
+The Volterra summation equation is:
+
+
+
+
+
+x
+(
+t
+)
+=
+f
+(
+t
+)
++
+
+∑
+
+i
+=
+m
+
+
+n
+
+
+k
+(
+t
+,
+s
+,
+x
+(
+s
+)
+)
+
+
+{\displaystyle x(t)=f(t)+\sum _{i=m}^{n}k(t,s,x(s))}
+
+
+
+where x is the unknown function, and s, a, t are integers, and f, k are known functions.
+References[edit]
+
+
+^ Volterra integral equations on time scales: Basic qualitative and quantitative results with applications to initial value problems on unbounded domains, Tomasia Kulik, Christopher C. Tisdell, September 3, 2007
+
+
+
+Summation equations or discrete integral equations
+
+
+
+
+
+This mathematical analysis–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Summation_equation&oldid=807710116"					
+Categories: Integral equationsMathematical analysis stubsHidden categories: All stub articles 

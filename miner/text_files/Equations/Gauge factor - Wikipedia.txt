@@ -1,0 +1,236 @@
+Gauge factor - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2009) (Learn how and when to remove this template message)
+
+
+
+Gauge factor (GF) or strain factor of a strain gauge is the ratio of relative change in electrical resistance R, to the mechanical strain ε. The gauge factor is defined as:
+
+
+
+
+
+
+
+G
+F
+=
+
+
+
+
+Δ
+R
+
+R
+
+ε
+
+
+=
+
+
+
+
+Δ
+ρ
+
+ρ
+
+ε
+
+
++
+1
++
+2
+ν
+
+
+{\displaystyle GF={\frac {\frac {\Delta R}{R}}{\varepsilon }}={\frac {\frac {\Delta \rho }{\rho }}{\varepsilon }}+1+2\nu }
+
+
+Or
+Gf=change in resistance/(resistance *strain)
+
+
+
+Where
+
+ε = strain = 
+
+
+
+Δ
+L
+
+/
+
+
+L
+
+0
+
+
+
+
+{\displaystyle \Delta L/L_{0}}
+
+
+
+
+
+
+
+Δ
+L
+
+
+{\displaystyle \Delta L}
+
+ = absolute change in length
+
+
+
+
+
+L
+
+0
+
+
+
+
+{\displaystyle L_{0}}
+
+ = original length
+
+
+ν = Poisson's ratio
+ρ = Resistivity
+ΔR = change in strain gauge resistance
+R = unstrained resistance of strain gauge
+
+Piezoresistive Effect[edit]
+It is a common misconception that the change in resistance of a strain gauge is based solely, or most heavily, on the geometric terms. This is true for some materials (
+
+
+
+Δ
+ρ
+=
+0
+
+
+{\displaystyle \Delta \rho =0}
+
+), and the gauge factor is simply:
+
+
+
+
+
+
+
+G
+F
+=
+1
++
+2
+ν
+
+
+{\displaystyle GF=1+2\nu }
+
+
+
+
+
+However, most commercial strain gauges utilise resistors made from materials that demonstrate a strong piezoresistive effect. The resistivity of these materials changes with strain, accounting for the first term of the defining equation above. In constantan strain gauges (the most commercially popular), the effect accounts for 20% of the gauge factor, but in silicon gauges, the contribution of the piezoresistive term is much larger than the geometric terms. This can be seen in the general examples of strain gauges below:
+
+
+Material
+Gauge Factor
+
+
+Metal foil strain gauge
+2-5
+
+
+Thin-film metal (e.g. constantan)
+2
+
+
+Single crystal silicon
+-125 to + 200
+
+
+Polysilicon
+±30
+
+
+Thick-film resistors
+100
+
+
+p-type Ge
+102
+
+
+Effect of Temperature[edit]
+The definition of the gauge factor does not rely on temperature, however the gauge factor only relates resistance to strain if there are no temperature effects. In practice, where changes in temperature or temperature gradients exist, the equation to derive resistance will have a temperature term. The total effect is:
+
+
+
+
+
+
+
+
+
+
+Δ
+R
+
+R
+
+
+=
+G
+F
+ε
++
+α
+θ
+
+
+{\displaystyle {\frac {\Delta R}{R}}=GF\varepsilon +\alpha \theta }
+
+
+
+
+
+Where
+
+α = temperature coefficient
+θ = temperature change
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Gauge_factor&oldid=791624981"					
+Categories: EquationsHidden categories: Articles lacking sources from December 2009All articles lacking sources 

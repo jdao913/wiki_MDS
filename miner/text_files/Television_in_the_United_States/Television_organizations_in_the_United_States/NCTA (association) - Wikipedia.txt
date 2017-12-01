@@ -1,0 +1,439 @@
+NCTA (association) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Not to be confused with The Rural Broadband Association.
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+
+
+
+
+
+
+
+This article contains content that is written like an advertisement. Please help improve it by removing promotional content and inappropriate external links, and by adding encyclopedic content written from a neutral point of view. (September 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This article reads like a press release or a news article or is entirely based on routine coverage. Please expand this article with properly sourced content to meet Wikipedia's quality standards, event notability guideline, or encyclopedic content policy. (September 2016)
+
+
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2016) (Learn how and when to remove this template message)
+
+
+
+
+
+(Learn how and when to remove this template message)
+
+
+
+
+NCTA – The Internet & Television Association
+
+Founded
+1952
+
+
+Type
+Trade association
+
+
+Location
+
+
+
+25 Massachusetts Ave NW Washington, DC 20001
+
+
+
+
+
+
+President and CEO[1]
+
+Michael Powell
+
+
+Website
+ncta.com
+
+
+NCTA – The Internet & Television Association (formerly the National Cable & Telecommunications Association, and commonly known as the NCTA) is the principal trade association for the U.S. broadband and pay television industries, representing more than 90% of the U.S. cable market,[2] more than 200 cable networks, and equipment suppliers and providers of other services to the cable industry.
+The NCTA is one of the largest political lobbying organizations in the United States, and has been a vocal opponent of net neutrality and municipal broadband.
+
+
+
+Contents
+
+
+1 History
+2 Leadership
+3 Lobbying and advocacy
+
+3.1 Internet issues
+
+
+4 Events and subsidiaries
+
+4.1 INTX
+4.2 CableACE Awards
+4.3 Cable in the Classroom
+4.4 Walter Kaitz Foundation
+
+
+5 See also
+6 References
+7 External links
+
+
+
+History[edit]
+
+
+
+
+
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2015) (Learn how and when to remove this template message)
+
+
+
+NCTA first was organized as the National Community Television Council in September 1951, when a small group of community antenna (CATV) operators met at a hotel in Pottsville, Pennsylvania. They gathered in response to concern over the Internal Revenue Service's attempts to impose an 8% excise tax on their operations. These business people quickly became aware of other common interests, leading to a series of organizational meetings during September and October 1951 and January 1952. In January 1952, the organization's name officially was changed to National Community Television Association.
+NCTA's growth kept pace with the rapidly expanding CATV industry. Within its first year, nearly 40 CATV systems joined the organization. Membership then grew into hundreds by the end of the 1950s and thousands by the end of the 1960s. In the 1960s, the term "Community Antenna Television (CATV)" gave way to the term "cable", reflecting the industry's expanded categories of service – including local news, weather information, and channels of pay television. Accordingly, in 1968, NCTA – while retaining its acronym – changed its official name for the first time, to National Cable Television Association.
+Following the introduction of global telecommunication satellites, the late 1970s and 1980s saw initial explosive growth in cable content, as entrepreneurs gave birth to such networks as CNN, ESPN, MTV, BET, TBS, USA, Discovery, Lifetime, C-SPAN, and eventually hundreds of other channels. During this period, virtually all of the nation’s major programming services also joined NCTA, providing a new dimension to the organization’s representation of cable interests in Washington.[citation needed]
+To reflect the increased role of cable internet and other forms of two-way communication in the industry, the organization changed its name to the National Cable and Telecommunications Association in April 2001.[3][4] On September 19, 2016, NCTA changed its name once more, to NCTA – The Internet & Television Association. The new name maintains the NCTA acronym, but intentionally removes the reference to cable in order to reflect the organization's increased scope, stating that the change was "a continuation of the association’s effort to reflect how the marketplace is no longer defined by silos of the past". The organization had already begun moving towards downplaying cable with the re-branding of its annual convention, The Cable Show, as INTX in 2015.[5]
+Leadership[edit]
+NCTA is governed by a Board of Directors. As of March 2012, the Chairman of the Board of Directors was Patrick Esser, President of Cox Communications.[6]
+The current President and CEO of NCTA is Michael Powell, former head of the FCC, who replaced Kyle McSlarrow on April 25, 2011.[7] McSlarrow left for Comcast.[8]
+
+Past Presidents of NCTA
+
+Term
+Name
+
+
+-1975:377[9]
+David Foster
+
+
+1975-1979:377[9]
+Robert Schmidt
+
+
+1979-1984[10]
+Tom Wheeler
+
+
+1984-1993[11]
+James Mooney
+
+
+1994-1999[12]
+Decker Anstrom
+
+
+1999-2005[13]
+Robert Sachs
+
+
+2005-2011[14][15]
+Kyle E. McSlarrow
+
+
+2011–present[7]
+Michael Powell
+
+
+Lobbying and advocacy[edit]
+The NCTA is one of the largest lobbying organizations in the United States, spending about $12.0 million on political lobbying in the year 2014.[16]
+NCTA opposed FCC's move to broaden the definition of multichannel video programming distributors to allow over the top internet based services to qualify, but added that if the definition of MVPDs was broadened, it should hold internet delivery to the same obligations as traditional cable services.[17] NCTA president Michael Powell opposes reforming the Telecommunications Act of 1996 to allow for a la carte pay television.[18]
+In March 2014, NCTA supported the FCC's decision to open up the 100 MHz of spectrum for unlicensed Wi-Fi services.[19]
+Internet issues[edit]
+The NCTA has been vocal on issues regarding net neutrality; in particular, they have objected to the classification of internet service as a common carrier under title II of the 1996 Telecommunications Act. In 2010, the NCTA urged the FCC not to codify its Net Neutrality rules.[20] In 2014, after the 2010 rules were thrown out in court, the NCTA ran ads in news media opposing reclassifying as a common carrier.[21] In 2014, ProPublica reported that NCTA were privately behind the "Onward Internet" campaign, which advocates an internet as free from rules.[22] In 2016, the NCTA and the American Cable Association submitted en banc petitions seeking a review of a ruling that upheld the net neutrality rules, arguing that cable internet systems should not be regulated in the same manner as "archaic telephone systems".[23]
+The NCTA was a supporter of the Stop Online Piracy Act of 2011, saying it gave copyright owners reasonable tools to protect their property.[24] The NCTA opposed the FCC's decision to raise the minimum internet speed for Connect America Fund broadband subsidies from 4Mbit/s to 10Mbit/s, claiming 4mbits was satisfactory.[25]
+Following a model bill devised by the American Legislative Exchange Council (ALEC), the NCTA has advocated for legislation prohibiting or restricting municipal broadband in many states.[26] When Barack Obama asked the FCC to preempt these laws in January 2015, NCTA defended the legislation, saying municipal projects are often costly failures.[27]
+NCTA president Michael Powell has advocated for internet service providers to increase their use of data caps on internet use,[28] aiming not to reduce congestion, but to promote fairness.[29]
+Events and subsidiaries[edit]
+INTX[edit]
+NCTA held an annual conference known as INTX: The Internet and Television Expo (formerly The Cable Show until 2015),[1] which was the largest annual trade show for the cable and broadband industry in the United States. INTX featured discussions with current and former FCC commissioners,[30][31] including remarks from the sitting chair of the FCC in 2010,[32] 2011,[33] 2012,[34] 2013,[35] and 2014.[36]
+INTX also features the presentation of the organization's Vanguard Awards, which are nominated by the NCTA membership and selected by a committee composed of members from the NCTA Board of Directors as well as former award winners.[37]
+In September 2016, the NCTA announced that INTX 2017 had been cancelled, and that the conference had been discontinued. President and CEO Michael Powell stated that the trade shows were an "anachronism", and that "contemporary venues emphasize conversation, dialog, and more intimate opportunities to explore and interact with technology." Variety noted that its attendance had been declining, as the ongoing consolidation in the cable industry negated the need for a such a trade show.[38]
+CableACE Awards[edit]
+Main article: CableACE Award
+From 1978 through 1997, NCTA sponsored the CableACE Award to honor excellence in American cable television programming. It was a counterpart to the Emmy which previously did not recognize cable programming. The awards were discontinued after 1997, as the Emmys included cable television programming.
+Cable in the Classroom[edit]
+Main article: Cable in the Classroom
+The association also provides management oversight of Cable in the Classroom, the cable industry’s education foundation.
+Walter Kaitz Foundation[edit]
+Main article: Walter Kaitz Foundation
+NCTA provides management and oversight to the Walter Kaitz Foundation, which promotes diversity in cable’s workforce, supplier chain, content, and marketing.
+See also[edit]
+
+CTIA – The Wireless Association
+National Cable & Telecommunications Ass'n v. Brand X Internet Services
+
+References[edit]
+
+
+^ a b Kent Gibbons (19 Sep 2014). "NCTA: 'Cable Show' Convention Becoming INTX". MultiChannelNews. Retrieved 30 Dec 2014. 
+^ Jim Puzzanghera (15 Mar 2011). "Former FCC Chairman Michael Powell named to lead cable TV's top lobbying group". Los Angeles Times. Retrieved 11 Jan 2015. 
+^ Staff (30 Apr 2001). "NCTA name change is official". Broadcasting & Cable. Retrieved 30 Dec 2014. 
+^ "NCTA Changes Name". MediaPost. 3 May 2001. Retrieved 30 Dec 2014. 
+^ "NCTA Rebrand Drops 'Cable,' Adds 'Internet'". Multichannel News. Retrieved 19 September 2016. 
+^ "Current Board of Directors for the National Cable & Telecommunications Association". National Cable & Telecommunications Association. March 27, 2012. 
+^ a b Katy Bachman (15 Mar 2011). "Michael Powell to Head NCTA (Updated)". AdWeek. Retrieved 30 Dec 2014. 
+^ NCTA Names Powell President, Multichannel News, March 15, 2011.
+^ a b Patrick Parsons (5 Apr 2008). Blue Skies: A History of Cable Television. Temple University Press. 
+^ K.C. Neel (26 Oct 2009). "Always Ahead of the Curve.(Core Capital Partners managing director Tom Wheeler)". High Beam Research. Retrieved 21 Jan 2015. 
+^ Todd Spangler (24 Dec 2012). "James Mooney, Former NCTA Chief, Dead at 69". MultiChannelNews. Retrieved 21 Jan 2015. 
+^ Mike Farrell (21 Jan 2015). "Anstrom Named 2015 Bresnan Ethics Award Recipient". MultiChannelNews. Retrieved 21 Jan 2015. 
+^ John M. Higgins (21 Jun 2004). "Sachs Exits NCTA". Broadcasting and Cable. Retrieved 21 Jan 2015. 
+^ Bill McConnell (25 Jan 2005). "McSlarrow Named to Head NCTA". Broadcasting and Cable. Retrieved 21 Jan 2015. 
+^ Ted Hearn (20 Jan 2005). "NCTA's Mr. Right". MultiChannel News. Retrieved 26 Jan 2015. 
+^ "National Cable & Telecommunications Assn: Summary". Open Secrets. Retrieved 30 Dec 2014. 
+^ John Eggerton (19 Mar 2014). "NCTA To Senate: STELA Can Be Used For Retrans, Video Market Changes". MultiChannelNews. Retrieved 30 Dec 2014. 
+^ Brad Reed (14 May 2013). "Top cable lobbyist: No 'a la carte' needed, cable companies already provide 'unparalleled choice'". BGR. Retrieved 30 Dec 2014. 
+^ Steve Donohue (31 Mar 2014). "Comcast, NCTA cheer FCC 5 GHz Wi-Fi order". Fierce Telecom. Retrieved 30 Dec 2014. 
+^ John Eggerton (12 Oct 2010). "NCTA Opposes Net Neutrality Rules". MultiChannelNews. Retrieved 30 Dec 2014. 
+^ Tony Romm (29 Dec 2014). "Net neutrality to dominate D.C.'s tech agenda". Politico. Retrieved 30 Dec 2014. 
+^ Robert Faturechi (9 Oct 2014). "Mysterious Campaign Appears to be the Latest Salvo in Battle Over Net Neutrality". Pro Publica. Retrieved 1 Jan 2015. 
+^ "Broadband industry tries again to kill net neutrality and Title II". Ars Technica. Retrieved 19 January 2017. 
+^ Chloe Albanesius (1 Nov 2011). "Will Online Piracy Bill Combat 'Rogue' Web Sites or Cripple the Internet?". PC Magazine. Retrieved 30 Dec 2014. 
+^ Jon Brodkin (11 Dec 2014). "Ignoring AT&T and Verizon protests, FCC says "broadband" has to be 10Mbps". Ars Technica. Retrieved 30 Dec 2014. 
+^ Jon Brodkin (12 Feb 2014). "ISP lobby has already won limits on public broadband in 20 states". Ars Technica. Retrieved 16 Jan 2015. 
+^ Todd Shields and Margaret Talev (14 Jan 2015). "Obama Touts Well-Wired Iowa Town as Model for City-Run Web". Washington Post. Retrieved 16 Jan 2015. 
+^ Brad Reed (23 Oct 2013). "Top cable lobbyist urges more ISPs to slap users with data caps". BGR. Retrieved 30 Dec 2014. 
+^ John Eggerton (17 Jan 2013). "NCTA's Powell: Usage-Based Pricing About Fairness, Not Capacity". Broadcasting and Cable. Retrieved 30 Dec 2014. 
+^ NCTA (2 May 2008). "Key Public Policy Issues Featured at The 2008 Cable Show". Business Wire. Retrieved 11 Jan 2015. 
+^ John Eggerton (4 Apr 2009). "2009 Cable Show: Praise for Cable from the Post-Martin FCC". Broadcasting and Cable. Retrieved 11 Jan 2015. 
+^ NCTA (24 Mar 2010). "FCC Chairman Julius Genachowski to Appear at The Cable Show 2010". PR Newswire. Retrieved 11 Jan 2015. 
+^ John Eggerton (15 Jun 2011). "The Cable Show 2011: Genachowski: Broadband Adoption 'Just Not Good Enough'". Broadcasting and Cable. Retrieved 11 Jan 2015. 
+^ Alex Ben Block (22 May 2012). "Cable Show 2012: NCTA President Praises FCC's Broadband Campaign". Holywood Reporter. Retrieved 15 Jan 2015. 
+^ Mariko Hewer (11 Jun 2013). "FCC's Clyburn emphasizes importance of increasing broadband, digital literacy". Fierce Cable. Retrieved 11 Jan 2015. 
+^ Alex Ben Block (30 Apr 2014). "NCTA 2014: FCC Chairman Tells Cable to Expand Broadband but Ensure Fair and Reasonable Access". Holywood Reporter. Retrieved 11 Jan 2015. 
+^ CABLE SHOW: The 2008 Vanguard Awards
+^ "NCTA Ends Annual Cable Trade Show, Cancels 2017 INTX Event". Variety. Retrieved 19 January 2017. 
+
+
+External links[edit]
+
+Official website
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Telecommunications
+
+
+
+History
+
+
+
+
+Beacon
+Broadcasting
+Cable protection system
+Cable TV
+Communications satellite
+Computer network
+Drums
+Electrical telegraph
+Fax
+Heliographs
+Hydraulic telegraph
+Internet
+Mass media
+Mobile phone
+Optical telecommunication
+Optical telegraphy
+Pager
+Photophone
+Prepaid mobile phone
+Radio
+Radiotelephone
+Satellite communications
+Semaphore
+Smartphone
+Smoke signals
+Telecommunications history
+Telautograph
+Telegraphy
+Teleprinter (teletype)
+Telephone
+The Telephone Cases
+Television
+Timeline of communication technology
+Undersea telegraph line
+Videoconferencing
+Videophone
+Videotelephony
+Whistled language
+
+
+
+
+
+Pioneers
+
+
+
+Edwin Howard Armstrong
+John Logie Baird
+Paul Baran
+Alexander Graham Bell
+Tim Berners-Lee
+Jagadish Chandra Bose
+Vint Cerf
+Claude Chappe
+Donald Davies
+Lee de Forest
+Philo Farnsworth
+Reginald Fessenden
+Elisha Gray
+Erna Schneider Hoover
+Charles K. Kao
+Hedy Lamarr
+Innocenzo Manzetti
+Guglielmo Marconi
+Antonio Meucci
+Radia Perlman
+Alexander Stepanovich Popov
+Johann Philipp Reis
+Nikola Tesla
+Camille Tissot
+Alfred Vail
+Charles Wheatstone
+Vladimir K. Zworykin
+
+
+
+
+
+Transmission
+media
+
+
+
+Coaxial cable
+Free-space optical communication
+Molecular communication
+Optical fiber
+Radio waves
+Transmission line
+
+
+
+
+
+Network topology
+and switching
+
+
+
+Links
+Nodes
+Terminal node
+Network switching (circuit
+packet)
+Telephone exchange
+
+
+
+
+
+Multiplexing
+
+
+
+Space-division
+Frequency-division
+Time-division
+Polarization-division
+Orbital angular-momentum
+Code-division
+
+
+
+
+
+Networks
+
+
+
+ARPANET
+BITNET
+Cellular network
+Computer
+CYCLADES
+Ethernet
+FidoNet
+Internet
+ISDN
+LAN
+Mobile
+NGN
+NPL network
+Public Switched Telephone
+Radio
+Telecommunications equipment
+Television
+Telex
+WAN
+Wireless
+World Wide Web
+
+
+
+
+
+
+
+
+ Category
+ Portal
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=NCTA_(association)&oldid=799067358"					
+Categories: 1952 establishments in the United StatesTelevision organizations in the United StatesIndustry trade groups based in the United StatesLobbying organizations based in Washington, D.C.Hidden categories: Articles with a promotional tone from September 2016All articles with a promotional toneArticles needing additional references from September 2016All articles needing additional referencesArticles needing additional references from January 2015All articles with unsourced statementsArticles with unsourced statements from September 2016 

@@ -1,0 +1,459 @@
+Geodesic deviation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In general relativity, geodesic deviation describes the tendency of objects to approach or recede from one another while moving under the influence of a spatially varying gravitational field. Put another way, if two objects are set in motion along two initially parallel trajectories, the presence of a tidal gravitational force will cause the trajectories to bend towards or away from each other, producing a relative acceleration between the objects.[1]
+Mathematically, the tidal force in general relativity is described by the Riemann curvature tensor,[1] and the trajectory of an object solely under the influence of gravity is called a geodesic. The geodesic deviation equation relates the Riemann curvature tensor to the relative acceleration of two neighboring geodesics. In differential geometry, the geodesic deviation equation is more commonly known as the Jacobi equation.
+
+
+
+Contents
+
+
+1 Equation
+2 Weak field limit
+3 See also
+4 References
+5 External links
+
+
+
+Equation[edit]
+To quantify geodesic deviation, one begins by setting up a family of closely spaced geodesics indexed by a continuous variable s and parametrized by an affine parameter τ. That is, for each fixed s, the curve swept out by γs(τ) as τ varies is a geodesic. When considering the geodesic of a massive object, it is often convenient to choose τ to be the object's proper time. If xμ(s, τ) are the coordinates of the geodesic γs(τ), then the tangent vector of this geodesic is
+
+
+
+
+
+
+T
+
+μ
+
+
+=
+
+
+
+∂
+
+x
+
+μ
+
+
+(
+s
+,
+τ
+)
+
+
+∂
+τ
+
+
+
+.
+
+
+{\displaystyle T^{\mu }={\frac {\partial x^{\mu }(s,\tau )}{\partial \tau }}.}
+
+
+
+If τ is the proper time, then Tμ is the four velocity of the object traveling along the geodesic.
+One can also define a deviation vector, which is the displacement of two objects travelling along two infinitesimally separated geodesics:
+
+
+
+
+
+
+X
+
+μ
+
+
+=
+
+
+
+∂
+
+x
+
+μ
+
+
+(
+s
+,
+τ
+)
+
+
+∂
+s
+
+
+
+.
+
+
+{\displaystyle X^{\mu }={\frac {\partial x^{\mu }(s,\tau )}{\partial s}}.}
+
+
+
+The relative acceleration Aμ of the two objects is defined, roughly, as the second derivative of the separation vector Xμ as the objects advance along their respective geodesics. Specifically, Aμ is found by taking the directional covariant derivative of X along T twice:
+
+
+
+
+
+
+A
+
+μ
+
+
+=
+
+T
+
+α
+
+
+
+∇
+
+α
+
+
+(
+
+T
+
+β
+
+
+
+∇
+
+β
+
+
+
+X
+
+μ
+
+
+)
+.
+
+
+{\displaystyle A^{\mu }=T^{\alpha }\nabla _{\alpha }(T^{\beta }\nabla _{\beta }X^{\mu }).}
+
+
+
+The geodesic deviation equation relates Aμ, Tμ, Xμ, and the Riemann tensor Rμνρσ:[2]
+
+
+
+
+
+
+A
+
+μ
+
+
+=
+
+
+
+R
+
+μ
+
+
+
+
+ν
+ρ
+σ
+
+
+
+T
+
+ν
+
+
+
+T
+
+ρ
+
+
+
+X
+
+σ
+
+
+.
+
+
+{\displaystyle A^{\mu }={R^{\mu }}_{\nu \rho \sigma }T^{\nu }T^{\rho }X^{\sigma }.}
+
+
+
+An alternate notation for the directional covariant derivative 
+
+
+
+
+T
+
+α
+
+
+
+∇
+
+α
+
+
+
+
+{\displaystyle T^{\alpha }\nabla _{\alpha }}
+
+ is 
+
+
+
+D
+
+/
+
+d
+τ
+
+
+{\displaystyle D/d\tau }
+
+, so the geodesic deviation equation may also be written as
+
+
+
+
+
+
+
+
+
+D
+
+2
+
+
+
+X
+
+μ
+
+
+
+
+d
+
+τ
+
+2
+
+
+
+
+
+=
+
+
+
+R
+
+μ
+
+
+
+
+ν
+ρ
+σ
+
+
+
+T
+
+ν
+
+
+
+T
+
+ρ
+
+
+
+X
+
+σ
+
+
+.
+
+
+{\displaystyle {\frac {D^{2}X^{\mu }}{d\tau ^{2}}}={R^{\mu }}_{\nu \rho \sigma }T^{\nu }T^{\rho }X^{\sigma }.}
+
+
+
+The geodesic deviation equation can be derived from the second variation of the point particle Lagrangian along geodesics, or from the first variation of a combined Lagrangian.[clarification needed] The Lagrangian approach has two advantages. First it allows various formal approaches of quantization to be applied to the geodesic deviation system. Second it allows deviation to be formulated for much more general objects than geodesics (any dynamical system which has a one spacetime indexed momentum appears to have a corresponding generalization of geodesic deviation).[citation needed]
+Weak field limit[edit]
+The connection between geodesic deviation and tidal acceleration can be seen more explicitly by examining geodesic deviation in the weak-field limit, where the metric is approximately Minkowski, and the velocities of test particles are assumed to be much less than c. Then the tangent vector Tμ is approximately (1, 0, 0, 0); i.e., only the timelike component is nonzero.
+The spatial components of the relative acceleration are then given by
+
+
+
+
+
+
+A
+
+i
+
+
+=
+−
+
+
+
+R
+
+i
+
+
+
+
+0
+j
+0
+
+
+
+X
+
+j
+
+
+,
+
+
+{\displaystyle A^{i}=-{R^{i}}_{0j0}X^{j},}
+
+
+
+where i and j run only over the spatial indices 1, 2, and 3.
+In the particular case of a metric corresponding to the Newtonian potential Φ(x, y, z) of a massive object at x = y = z = 0, we have
+
+
+
+
+
+
+
+
+R
+
+i
+
+
+
+
+0
+j
+0
+
+
+=
+−
+
+
+
+
+∂
+
+2
+
+
+Φ
+
+
+∂
+
+x
+
+i
+
+
+∂
+
+x
+
+j
+
+
+
+
+
+,
+
+
+{\displaystyle {R^{i}}_{0j0}=-{\frac {\partial ^{2}\Phi }{\partial x^{i}\partial x^{j}}},}
+
+
+
+which is the tidal tensor of the Newtonian potential.
+See also[edit]
+
+Bernhard Riemann
+Curvature
+Glossary of Riemannian and metric geometry
+
+References[edit]
+
+
+
+^ a b Ohanian, Hans (1976). Gravitation and Spacetime (1st ed.). pp. 271–6. 
+^ Carroll, Sean (2004). Spacetime and Geometry. pp. 144–6. 
+
+
+
+
+Stephani, Hans (1982), General relativity - an introduction to the theory of the gravitation field, Cambridge University Press, ISBN 0-521-37066-3 .
+Wald, Robert M. (1984), General Relativity, ISBN 978-0-226-87033-5 .
+
+External links[edit]
+
+General Relativity and Quantum Cosmology
+Tensors and Relativity: Geodesic deviation
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Geodesic_deviation&oldid=745875753"					
+Categories: Geodesic (mathematics)Riemannian geometryEquationsHidden categories: Wikipedia articles needing clarification from September 2009All articles with unsourced statementsArticles with unsourced statements from September 2009 

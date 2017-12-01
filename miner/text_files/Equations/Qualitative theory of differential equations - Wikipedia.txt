@@ -1,0 +1,32 @@
+Qualitative theory of differential equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, the qualitative theory of differential equations studies the behavior of differential equations by means other than finding their solutions. It originated from the works of Poincaré and Lyapunov. There are relatively few differential equations that can be solved explicitly, but using tools from analysis and topology, one can "solve" them in the qualitative sense, obtaining many informations about their properties.[1]
+References[edit]
+
+
+
+^ Hazewinkel, Michiel, ed. (2001) [1994], "Qualitative theory of differential equations", Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+
+
+
+Further reading[edit]
+
+V. V. Nemytskii, V. V. Stepanov, Qualitative theory of differential equations, Princeton University Press, Princeton, 1960.
+
+Original references[edit]
+
+H. Poincaré, "Mémoire sur les courbes définies par une équation différentielle", Journal de Mathématiques Pures et Appliquées (1881, in French)
+Lyapunov, A. M. (1992). "The general problem of the stability of motion". International Journal of Control. 55 (3): 531–534. ISSN 0020-7179.  (it was translated from the original Russian into French and then into this English version, the original is from the year 1892)
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Qualitative_theory_of_differential_equations&oldid=719113140"					
+Categories: Differential equations 

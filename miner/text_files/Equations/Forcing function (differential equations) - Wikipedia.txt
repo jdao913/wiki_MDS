@@ -1,0 +1,42 @@
+Forcing function (differential equations) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about a mathematical concept. For other uses, see Forcing function.
+In a system of differential equations used to describe a time-dependent process, a forcing function is a function that appears in the equations and is only a function of time, and not of any of the other variables.[1][2] In effect, it is a constant for each value of t.
+In the more general case, any nonhomogeneous source function in any variable can be described as a forcing function, and the resulting solution can often be determined using a superposition of linear combinations of the homogeneous solutions and the forcing term.[3]
+References[edit]
+
+
+
+^ "How do Forcing Functions Work?". University of Washington Departments. Archived from the original on September 20, 2003. 
+^ Packard A. (Spring 2005). "ME 132" (PDF). University of California, Berkeley. p. 55. 
+^ Haberman, Richard (1983). Elementary Applied Partial Differential Equations. Prentice-Hall. p. 272. ISBN 0-13-252833-9. 
+
+
+
+
+
+
+
+This mathematical analysis–related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Forcing_function_(differential_equations)&oldid=808781443"					
+Categories: Differential equationsMathematical analysis stubsHidden categories: All stub articles 

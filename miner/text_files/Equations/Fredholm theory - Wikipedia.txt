@@ -1,0 +1,824 @@
+Fredholm theory - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, Fredholm theory is a theory of integral equations. In the narrowest sense, Fredholm theory concerns itself with the solution of the Fredholm integral equation. In a broader sense, the abstract structure of Fredholm's theory is given in terms of the spectral theory of Fredholm operators and Fredholm kernels on Hilbert space. The theory is named in honour of Erik Ivar Fredholm.
+
+
+
+Contents
+
+
+1 Overview
+2 Homogeneous equations
+3 Inhomogeneous equations
+4 Fredholm determinant
+5 Main results
+6 History
+7 See also
+8 References
+
+
+
+Overview[edit]
+The following sections provide a casual sketch of the place of Fredholm theory in the broader context of operator theory and functional analysis. The outline presented here is broad, whereas the difficulty of formalizing this sketch is, of course, in the details.
+Homogeneous equations[edit]
+Much of Fredholm theory concerns itself with finding solutions for the integral equation
+
+
+
+
+
+g
+(
+x
+)
+=
+
+∫
+
+a
+
+
+b
+
+
+K
+(
+x
+,
+y
+)
+f
+(
+y
+)
+
+d
+y
+.
+
+
+{\displaystyle g(x)=\int _{a}^{b}K(x,y)f(y)\,dy.}
+
+
+
+This equation arises naturally in many problems in physics and mathematics, as the inverse of a differential equation. That is, one is asked to solve the differential equation
+
+
+
+
+
+L
+g
+(
+x
+)
+=
+f
+(
+x
+)
+
+
+{\displaystyle Lg(x)=f(x)}
+
+
+
+where the function f is given and g is unknown. Here, L stands for a linear differential operator.
+For example, one might take L to be an elliptic operator, such as
+
+
+
+
+
+L
+=
+
+
+
+d
+
+2
+
+
+
+d
+
+x
+
+2
+
+
+
+
+
+
+
+
+{\displaystyle L={\frac {d^{2}}{dx^{2}}}\,}
+
+
+
+in which case the equation to be solved becomes the Poisson equation.
+A general method of solving such equations is by means of Green's functions, namely, rather than a direct attack, one instead attempts to solve the equation
+
+
+
+
+
+L
+K
+(
+x
+,
+y
+)
+=
+δ
+(
+x
+−
+y
+)
+
+
+{\displaystyle LK(x,y)=\delta (x-y)}
+
+
+
+where δ(x) is the Dirac delta function.
+The desired solution to the differential equation is then written as an integral in the form of a Fredholm integral equation,
+
+
+
+
+
+g
+(
+x
+)
+=
+∫
+K
+(
+x
+,
+y
+)
+f
+(
+y
+)
+
+d
+y
+.
+
+
+{\displaystyle g(x)=\int K(x,y)f(y)\,dy.}
+
+
+
+The function K(x,y) is variously known as a Green's function, or the kernel of an integral. It is sometimes called the nucleus of the integral, whence the term nuclear operator arises.
+In the general theory, x and y may be points on any manifold; the real number line or m-dimensional Euclidean space in the simplest cases. The general theory also often requires that the functions belong to some given function space: often, the space of square-integrable functions is studied, and Sobolev spaces appear often.
+The actual function space used is often determined by the solutions of the eigenvalue problem of the differential operator; that is, by the solutions to
+
+
+
+
+
+L
+
+ψ
+
+n
+
+
+(
+x
+)
+=
+
+ω
+
+n
+
+
+
+ψ
+
+n
+
+
+(
+x
+)
+
+
+{\displaystyle L\psi _{n}(x)=\omega _{n}\psi _{n}(x)}
+
+
+
+where the ωn are the eigenvalues, and the ψn(x) are the eigenvectors. The set of eigenvectors span a Banach space, and, when there is a natural inner product, then the eigenvectors span a Hilbert space, at which point the Riesz representation theorem is applied. Examples of such spaces are the orthogonal polynomials that occur as the solutions to a class of second-order ordinary differential equations.
+Given a Hilbert space as above, the kernel may be written in the form
+
+
+
+
+
+K
+(
+x
+,
+y
+)
+=
+
+∑
+
+n
+
+
+
+
+
+
+ψ
+
+n
+
+
+∗
+
+
+(
+x
+)
+
+ψ
+
+n
+
+
+(
+y
+)
+
+
+ω
+
+n
+
+
+
+
+
+
+{\displaystyle K(x,y)=\sum _{n}{\frac {\psi _{n}^{*}(x)\psi _{n}(y)}{\omega _{n}}}}
+
+
+
+where ψn*(x) is the dual to ψn(x).
+In this form, the object K(x,y) is often called the Fredholm operator or the Fredholm kernel. That this is the same kernel as before follows from the completeness of the basis of the Hilbert space, namely, that one has
+
+
+
+
+
+δ
+(
+x
+−
+y
+)
+=
+
+∑
+
+n
+
+
+
+ψ
+
+n
+
+
+∗
+
+
+(
+x
+)
+
+ψ
+
+n
+
+
+(
+y
+)
+.
+
+
+{\displaystyle \delta (x-y)=\sum _{n}\psi _{n}^{*}(x)\psi _{n}(y).}
+
+
+
+Since the ωn are generally increasing, the resulting eigenvalues of the operator K(x,y) are thus seen to be decreasing towards zero.
+Inhomogeneous equations[edit]
+The inhomogeneous Fredholm integral equation
+
+
+
+
+
+f
+(
+x
+)
+=
+−
+ω
+ϕ
+(
+x
+)
++
+∫
+K
+(
+x
+,
+y
+)
+ϕ
+(
+y
+)
+
+d
+y
+
+
+{\displaystyle f(x)=-\omega \phi (x)+\int K(x,y)\phi (y)\,dy}
+
+
+
+may be written formally as
+
+
+
+
+
+f
+=
+(
+K
+−
+ω
+)
+ϕ
+
+
+{\displaystyle f=(K-\omega )\phi }
+
+
+
+which has the formal solution
+
+
+
+
+
+ϕ
+=
+
+
+1
+
+K
+−
+ω
+
+
+
+f
+.
+
+
+{\displaystyle \phi ={\frac {1}{K-\omega }}f.}
+
+
+
+A solution of this form is referred to as the resolvent formalism, where the resolvent is defined as the operator
+
+
+
+
+
+R
+(
+ω
+)
+=
+
+
+1
+
+K
+−
+ω
+I
+
+
+
+.
+
+
+{\displaystyle R(\omega )={\frac {1}{K-\omega I}}.}
+
+
+
+Given the collection of eigenvectors and eigenvalues of K, the resolvent may be given a concrete form as
+
+
+
+
+
+R
+(
+ω
+;
+x
+,
+y
+)
+=
+
+∑
+
+n
+
+
+
+
+
+
+ψ
+
+n
+
+
+∗
+
+
+(
+y
+)
+
+ψ
+
+n
+
+
+(
+x
+)
+
+
+
+ω
+
+n
+
+
+−
+ω
+
+
+
+
+
+{\displaystyle R(\omega ;x,y)=\sum _{n}{\frac {\psi _{n}^{*}(y)\psi _{n}(x)}{\omega _{n}-\omega }}}
+
+
+
+with the solution being
+
+
+
+
+
+ϕ
+(
+x
+)
+=
+∫
+R
+(
+ω
+;
+x
+,
+y
+)
+f
+(
+y
+)
+
+d
+y
+.
+
+
+{\displaystyle \phi (x)=\int R(\omega ;x,y)f(y)\,dy.}
+
+
+
+A necessary and sufficient condition for such a solution to exist is one of Fredholm's theorems. The resolvent is commonly expanded in powers of 
+
+
+
+λ
+=
+1
+
+/
+
+ω
+
+
+{\displaystyle \lambda =1/\omega }
+
+, in which case it is known as the Liouville-Neumann series. In this case, the integral equation is written as
+
+
+
+
+
+g
+(
+x
+)
+=
+ϕ
+(
+x
+)
+−
+λ
+∫
+K
+(
+x
+,
+y
+)
+ϕ
+(
+y
+)
+
+d
+y
+
+
+{\displaystyle g(x)=\phi (x)-\lambda \int K(x,y)\phi (y)\,dy}
+
+
+
+and the resolvent is written in the alternate form as
+
+
+
+
+
+R
+(
+λ
+)
+=
+
+
+1
+
+I
+−
+λ
+K
+
+
+
+.
+
+
+{\displaystyle R(\lambda )={\frac {1}{I-\lambda K}}.}
+
+
+
+Fredholm determinant[edit]
+The Fredholm determinant is commonly defined as
+
+
+
+
+
+det
+(
+I
+−
+λ
+K
+)
+=
+exp
+⁡
+
+[
+−
+
+∑
+
+n
+
+
+
+
+
+λ
+
+n
+
+
+
+n
+!
+
+
+
+Tr
+
+
+K
+
+n
+
+
+]
+
+
+
+{\displaystyle \det(I-\lambda K)=\exp \left[-\sum _{n}{\frac {\lambda ^{n}}{n!}}\operatorname {Tr} \,K^{n}\right]}
+
+
+
+where
+
+
+
+
+
+Tr
+
+K
+=
+∫
+K
+(
+x
+,
+x
+)
+
+d
+x
+
+
+{\displaystyle \operatorname {Tr} \,K=\int K(x,x)\,dx}
+
+
+
+and
+
+
+
+
+
+Tr
+
+
+K
+
+2
+
+
+=
+∬
+K
+(
+x
+,
+y
+)
+K
+(
+y
+,
+x
+)
+
+d
+x
+
+d
+y
+
+
+{\displaystyle \operatorname {Tr} \,K^{2}=\iint K(x,y)K(y,x)\,dx\,dy}
+
+
+
+and so on. The corresponding zeta function is
+
+
+
+
+
+ζ
+(
+s
+)
+=
+
+
+1
+
+det
+(
+I
+−
+s
+K
+)
+
+
+
+.
+
+
+{\displaystyle \zeta (s)={\frac {1}{\det(I-sK)}}.}
+
+
+
+The zeta function can be thought of as the determinant of the resolvent.
+The zeta function plays an important role in studying dynamical systems. Note that this is the same general type of zeta function as the Riemann zeta function; however, in this case, the corresponding kernel is not known. The existence of such a kernel is known as the Hilbert–Pólya conjecture.
+Main results[edit]
+The classical results of the theory are Fredholm's theorems, one of which is the Fredholm alternative.
+One of the important results from the general theory are that the kernel is a compact operator when the space of functions are equicontinuous.
+A related celebrated result is the Atiyah–Singer index theorem, pertaining to index (dim ker – dim coker) of elliptic operators on compact manifolds.
+History[edit]
+Fredholm's 1903 paper in Acta Mathematica is considered to be one of the major landmarks in the establishment of operator theory. David Hilbert developed the abstraction of Hilbert space in association with research on integral equations prompted by Fredholm's (amongst other things).
+See also[edit]
+
+Green's functions
+Spectral theory
+Fredholm alternative
+
+References[edit]
+
+Fredholm, E. I. (1903). "Sur une classe d'equations fonctionnelles". Acta Mathematica. 27: 365–390. 
+Edmunds, D. E.; Evans, W. D. (1987). Spectral Theory and Differential Operators. Oxford University Press. ISBN 0-19-853542-2. 
+B. V. Khvedelidze, G. L. Litvinov (2001) [1994], "Fredholm kernel", in Hazewinkel, Michiel, Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+Driver, Bruce K. "Compact and Fredholm Operators and the Spectral Theorem" (PDF). Analysis Tools with Applications. pp. 579–600. 
+Mathews, Jon; Walker, Robert L. (1970). Mathematical Methods of Physics (2nd ed.). New York: W. A. Benjamin. ISBN 0-8053-7002-1. 
+McOwen, Robert C. (1980). "Fredholm theory of partial differential equations on complete Riemannian manifolds". Pacific J. Math. 87 (1): 169–185. doi:10.2140/pjm.1980.87.169. Zbl 0457.35084. 
+
+
+
+
+Authority control
+
+
+
+GND: 4155263-5
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Fredholm_theory&oldid=811777822"					
+Categories: Integral equationsMathematical physicsHidden categories: Wikipedia articles with GND identifiers 

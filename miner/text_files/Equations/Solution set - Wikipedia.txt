@@ -1,0 +1,420 @@
+Solution set - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2011) (Learn how and when to remove this template message)
+
+
+
+In mathematics, a solution set is the set of values that satisfy a given set of equations or inequalities.
+For example, for a set 
+
+
+
+{
+
+f
+
+i
+
+
+}
+
+
+{\displaystyle \{f_{i}\}}
+
+ of polynomials over a ring 
+
+
+
+R
+
+
+{\displaystyle R}
+
+, the solution set is the subset of 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ on which the polynomials all vanish (evaluate to 0), formally
+
+
+
+
+
+{
+x
+∈
+R
+:
+∀
+i
+∈
+I
+,
+
+f
+
+i
+
+
+(
+x
+)
+=
+0
+}
+.
+ 
+
+
+{\displaystyle \{x\in R:\forall i\in I,f_{i}(x)=0\}.\ }
+
+
+
+The feasible region of a constrained optimization problem is the solution set of the constraints.
+
+
+
+Contents
+
+
+1 Examples
+2 Remarks
+3 Other meanings
+
+3.1 Examples
+
+
+4 See also
+
+
+
+Examples[edit]
+1. The solution set of the single equation 
+
+
+
+x
+=
+0
+
+
+{\displaystyle x=0}
+
+ is the set  {0}.
+2. For any non-zero polynomial 
+
+
+
+f
+
+
+{\displaystyle f}
+
+ over the complex numbers in one variable, the solution set is made up of finitely many points.
+3. However, for a complex polynomial in more than one variable the solution set has no isolated points.
+Remarks[edit]
+In algebraic geometry, solution sets are called algebraic sets if there are no inequalities. Over the reals, and with inequalities, there are called semialgebraic sets.
+Other meanings[edit]
+More generally, the solution set to an arbitrary collection E of relations (Ei) (i varying in some index set I) for a collection of unknowns 
+
+
+
+
+
+(
+
+x
+
+j
+
+
+)
+
+
+j
+∈
+J
+
+
+
+
+{\displaystyle {(x_{j})}_{j\in J}}
+
+, supposed to take values in respective spaces 
+
+
+
+
+
+(
+
+X
+
+j
+
+
+)
+
+
+j
+∈
+J
+
+
+
+
+{\displaystyle {(X_{j})}_{j\in J}}
+
+, is the set S of all solutions to the relations E, where a solution 
+
+
+
+
+x
+
+(
+k
+)
+
+
+
+
+{\displaystyle x^{(k)}}
+
+ is a family of values 
+
+
+
+
+
+(
+
+x
+
+j
+
+
+(
+k
+)
+
+
+)
+
+
+j
+∈
+J
+
+
+∈
+
+∏
+
+j
+∈
+J
+
+
+
+X
+
+j
+
+
+
+
+{\displaystyle {(x_{j}^{(k)})}_{j\in J}\in \prod _{j\in J}X_{j}}
+
+ such that substituting 
+
+
+
+
+
+(
+
+x
+
+j
+
+
+)
+
+
+j
+∈
+J
+
+
+
+
+{\displaystyle {(x_{j})}_{j\in J}}
+
+ by 
+
+
+
+
+x
+
+(
+k
+)
+
+
+
+
+{\displaystyle x^{(k)}}
+
+ in the collection E makes all relations "true".
+(Instead of relations depending on unknowns, one should speak more correctly of predicates, the collection E is their logical conjunction, and the solution set is the inverse image of the boolean value true by the associated boolean-valued function.)
+The above meaning is a special case of this one, if the set of polynomials fi if interpreted as the set of equations fi(x)=0.
+Examples[edit]
+
+The solution set for E = { x+y = 0 } with respect to 
+
+
+
+(
+x
+,
+y
+)
+∈
+
+
+R
+
+
+2
+
+
+
+
+{\displaystyle (x,y)\in \mathbb {R} ^{2}}
+
+ is S = { (a,-a) ; a ∈ R } .
+The solution set for E = { x+y = 0 } with respect to 
+
+
+
+x
+∈
+
+R
+
+
+
+{\displaystyle x\in \mathbb {R} }
+
+ is S = { -y } . (Here, y is not "declared" as an unknown, and thus to be seen as a parameter on which the equation, and therefore the solution set, depends.)
+The solution set for 
+
+
+
+E
+=
+{
+
+
+x
+
+
+≤
+4
+}
+
+
+{\displaystyle E=\{{\sqrt {x}}\leq 4\}}
+
+ with respect to 
+
+
+
+x
+∈
+
+R
+
+
+
+{\displaystyle x\in \mathbb {R} }
+
+ is the interval S = [0,2] (since 
+
+
+
+
+
+x
+
+
+
+
+{\displaystyle {\sqrt {x}}}
+
+ is undefined for negative values of x).
+The solution set for 
+
+
+
+E
+=
+{
+exp
+⁡
+(
+i
+x
+)
+=
+1
+}
+
+
+{\displaystyle E=\{\exp(ix)=1\}}
+
+ with respect to 
+
+
+
+x
+∈
+
+C
+
+
+
+{\displaystyle x\in \mathbb {C} }
+
+ is S = 2 π Z (see Euler's identity).
+
+See also[edit]
+
+Equation solving
+Extraneous and missing solutions
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Solution_set&oldid=776550192"					
+Categories: EquationsHidden categories: Articles lacking sources from January 2011All articles lacking sources 

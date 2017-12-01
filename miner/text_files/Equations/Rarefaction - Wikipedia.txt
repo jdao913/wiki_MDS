@@ -1,0 +1,64 @@
+Rarefaction - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This article is about the physical process. For the ecological technique, see Rarefaction (ecology).
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (October 2012) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+An example of rarefaction is as a phase in a sound wave or phonon. Half of a sound wave is made up of the compression of the medium, and the other half is the decompression or rarefaction of the medium.
+
+
+Rarefaction is the reduction of an item's density, the opposite of compression.[1] Like compression, which can travel in waves (sound waves, for instance), rarefaction waves also exist in nature. A common rarefaction wave is the area of low relative pressure following a shock wave (see picture).
+Rarefaction waves expand with time (much like sea waves spread out as they reach a beach); in most cases rarefaction waves keep the same overall profile ('shape') at all times throughout the wave's movement: it is a self-similar expansion. Each part of the wave travels at the local speed of sound, in the local medium. This expansion behaviour is in contrast to the behaviour of pressure increases, which get narrower with time, until they steepen into shock waves.
+
+
+
+Contents
+
+
+1 Physical examples
+2 Rarefaction in manufacturing
+3 See also
+4 Citations
+
+
+
+Physical examples[edit]
+A natural example of rarefaction occurs in the layers of Earth's atmosphere. Because the atmosphere has mass, most atmospheric matter is nearer to the Earth due to the Earth's gravitation. Therefore, air at higher layers of the atmosphere is less dense, or rarefied, relative to air at lower layers. Thus rarefaction can refer either to a reduction in density over space at a single point of time, or a reduction of density over time for one particular area.
+Rarefaction can be easily observed by compressing a spring and releasing it. Instead of seeing compressed loops seeming to move through the spring, spaced-out loops move through it: rarefaction waves.
+Rarefaction in manufacturing[edit]
+Modern construction of guitars is an example of using rarefaction in manufacturing. By forcing the reduction of density (loss of oils and other impurities) in the cellular structure of the soundboard, a rarefied guitar top produces a tonal decompression affecting the sound of the instrument, mimicking aged wood.
+See also[edit]
+
+Longitudinal wave
+P-wave
+Prandtl-Meyer expansion fan
+
+Citations[edit]
+
+
+^ "rarefaction". 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Rarefaction&oldid=803678347"					
+Categories: SoundAcousticsWavesConservation equationsHidden categories: Articles needing additional references from October 2012All articles needing additional references 

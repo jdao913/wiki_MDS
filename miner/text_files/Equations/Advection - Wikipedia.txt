@@ -1,0 +1,1004 @@
+Advection - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In the field of physics, engineering, and earth sciences, advection is the transport of a substance by bulk motion. The properties of that substance are carried with it. Generally the majority of the advected substance is a fluid. The properties that are carried with the advected substance are conserved properties such as energy. An example of advection is the transport of pollutants or silt in a river by bulk water flow downstream. Another commonly advected quantity is energy or enthalpy. Here the fluid may be any material that contains thermal energy, such as water or air. In general, any substance or conserved, extensive quantity can be advected by a fluid that can hold or contain the quantity or substance.
+During advection, a fluid transports some conserved quantity or material via bulk motion. The fluid's motion is described mathematically as a vector field, and the transported material is described by a scalar field showing its distribution over space. Advection requires currents in the fluid, and so cannot happen in rigid solids. It does not include transport of substances by molecular diffusion.
+Advection is sometimes confused with the more encompassing process of convection which is the combination of advective transport and diffusive transport.
+In meteorology and physical oceanography, advection often refers to the transport of some property of the atmosphere or ocean, such as heat, humidity (see moisture) or salinity. Advection is important for the formation of orographic clouds and the precipitation of water from clouds, as part of the hydrological cycle.
+
+
+
+Contents
+
+
+1 Distinction between advection and convection
+2 Meteorology
+3 Other quantities
+4 Mathematics of advection
+
+4.1 The advection equation
+4.2 Solving the equation
+4.3 Treatment of the advection operator in the incompressible Navier Stokes equations
+
+
+5 See also
+6 References
+
+
+
+Distinction between advection and convection[edit]
+The term advection sometimes serves as a synonym for convection, but technically, convection covers the sum of transport both by diffusion and by advection. Advective transport describes the movement of some quantity via the bulk flow of a fluid (as in a river or pipeline).[1][2]
+Meteorology[edit]
+In meteorology and physical oceanography, advection often refers to the horizontal transport of some property of the atmosphere or ocean, such as heat, humidity or salinity, and convection generally refers to vertical transport (vertical advection). Advection is important for the formation of orographic clouds (terrain-forced convection) and the precipitation of water from clouds, as part of the hydrological cycle.
+Other quantities[edit]
+The advection equation also applies if the quantity being advected is represented by a probability density function at each point, although accounting for diffusion is more difficult.[citation needed]
+Mathematics of advection[edit]
+The advection equation is the partial differential equation that governs the motion of a conserved scalar field as it is advected by a known velocity vector field. It is derived using the scalar field's conservation law, together with Gauss's theorem, and taking the infinitesimal limit.
+One easily visualized example of advection is the transport of ink dumped into a river. As the river flows, ink will move downstream in a "pulse" via advection, as the water's movement itself transports the ink. If added to a lake without significant bulk water flow, the ink would simply disperse outwards from its source in a diffusive manner, which is not advection. Note that as it moves downstream, the "pulse" of ink will also spread via diffusion. The sum of these processes is called convection.
+The advection equation[edit]
+In Cartesian coordinates the advection operator is
+
+
+
+
+
+
+u
+
+⋅
+∇
+=
+
+u
+
+x
+
+
+
+
+∂
+
+∂
+x
+
+
+
++
+
+u
+
+y
+
+
+
+
+∂
+
+∂
+y
+
+
+
++
+
+u
+
+z
+
+
+
+
+∂
+
+∂
+z
+
+
+
+
+
+{\displaystyle \mathbf {u} \cdot \nabla =u_{x}{\frac {\partial }{\partial x}}+u_{y}{\frac {\partial }{\partial y}}+u_{z}{\frac {\partial }{\partial z}}}
+
+.
+
+where 
+
+
+
+
+u
+
+=
+(
+
+u
+
+x
+
+
+,
+
+u
+
+y
+
+
+,
+
+u
+
+z
+
+
+)
+
+
+{\displaystyle \mathbf {u} =(u_{x},u_{y},u_{z})}
+
+ is the velocity field, and 
+
+
+
+∇
+
+
+{\displaystyle \nabla }
+
+ is the del operator (note that Cartesian coordinates are used here).
+The advection equation for a conserved quantity described by a scalar field 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+ is expressed mathematically by a continuity equation:
+
+
+
+
+
+
+
+
+
+
+
+
+∂
+ψ
+
+
+∂
+t
+
+
+
++
+∇
+⋅
+
+(
+ψ
+
+
+u
+
+
+)
+
+=
+0
+
+
+{\displaystyle {\frac {\partial \psi }{\partial t}}+\nabla \cdot \left(\psi {\mathbf {u}}\right)=0}
+
+
+
+
+
+
+
+where 
+
+
+
+∇
+⋅
+
+
+{\displaystyle \nabla \cdot }
+
+ is the divergence operator and again 
+
+
+
+
+u
+
+
+
+{\displaystyle \mathbf {u} }
+
+ is the velocity vector field. Frequently, it is assumed that the flow is incompressible, that is, the velocity field satisfies
+
+
+
+
+
+∇
+⋅
+
+
+u
+
+
+=
+0
+
+
+{\displaystyle \nabla \cdot {\mathbf {u}}=0}
+
+
+
+and 
+
+
+
+
+u
+
+
+
+{\displaystyle \mathbf {u} }
+
+ is said to be solenoidal. If this is so, the above equation can be rewritten as
+
+
+
+
+
+
+
+
+
+
+
+
+∂
+ψ
+
+
+∂
+t
+
+
+
++
+
+
+u
+
+
+⋅
+∇
+ψ
+=
+0.
+
+
+{\displaystyle {\frac {\partial \psi }{\partial t}}+{\mathbf {u}}\cdot \nabla \psi =0.}
+
+
+
+
+
+
+
+In particular, if the flow is steady, then
+
+
+
+
+
+
+
+u
+
+
+⋅
+∇
+ψ
+=
+0
+
+
+{\displaystyle {\mathbf {u}}\cdot \nabla \psi =0}
+
+
+
+which shows that 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+ is constant along a streamline. Hence, 
+
+
+
+∂
+ψ
+
+/
+
+∂
+t
+=
+0
+,
+
+
+{\displaystyle \partial \psi /\partial t=0,}
+
+ so 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+ doesn't vary in time.
+If a vector quantity 
+
+
+
+
+a
+
+
+
+{\displaystyle \mathbf {a} }
+
+ (such as a magnetic field) is being advected by the solenoidal velocity field 
+
+
+
+
+u
+
+
+
+{\displaystyle \mathbf {u} }
+
+, the advection equation above becomes:
+
+
+
+
+
+
+
+
+∂
+
+
+a
+
+
+
+
+∂
+t
+
+
+
++
+
+(
+
+
+u
+
+
+⋅
+∇
+)
+
+
+
+a
+
+
+=
+0.
+
+
+{\displaystyle {\frac {\partial {\mathbf {a}}}{\partial t}}+\left({\mathbf {u}}\cdot \nabla \right){\mathbf {a}}=0.}
+
+
+
+Here, 
+
+
+
+
+a
+
+
+
+{\displaystyle \mathbf {a} }
+
+ is a vector field instead of the scalar field 
+
+
+
+ψ
+
+
+{\displaystyle \psi }
+
+.
+Solving the equation[edit]
+
+
+
+
+A simulation of the advection equation where u = (sin t, cos t) is solenoidal.
+
+
+The advection equation is not simple to solve numerically: the system is a hyperbolic partial differential equation, and interest typically centers on discontinuous "shock" solutions (which are notoriously difficult for numerical schemes to handle).
+Even with one space dimension and a constant velocity field, the system remains difficult to simulate. The equation becomes
+
+
+
+
+
+
+
+
+∂
+ψ
+
+
+∂
+t
+
+
+
++
+
+u
+
+x
+
+
+
+
+
+∂
+ψ
+
+
+∂
+x
+
+
+
+=
+0
+
+
+{\displaystyle {\frac {\partial \psi }{\partial t}}+u_{x}{\frac {\partial \psi }{\partial x}}=0}
+
+
+
+where 
+
+
+
+ψ
+=
+ψ
+(
+x
+,
+t
+)
+
+
+{\displaystyle \psi =\psi (x,t)}
+
+ is the scalar field being advected and 
+
+
+
+
+u
+
+x
+
+
+
+
+{\displaystyle u_{x}}
+
+ is the 
+
+
+
+x
+
+
+{\displaystyle x}
+
+ component of the vector 
+
+
+
+
+u
+
+=
+(
+
+u
+
+x
+
+
+,
+0
+,
+0
+)
+
+
+{\displaystyle \mathbf {u} =(u_{x},0,0)}
+
+.
+Treatment of the advection operator in the incompressible Navier Stokes equations[edit]
+According to Zang,[3] numerical simulation can be aided by considering the skew symmetric form for the advection operator.
+
+
+
+
+
+
+
+1
+2
+
+
+
+
+u
+
+
+⋅
+∇
+
+
+u
+
+
++
+
+
+1
+2
+
+
+∇
+(
+
+
+u
+
+
+
+
+u
+
+
+)
+
+
+{\displaystyle {\frac {1}{2}}{\mathbf {u}}\cdot \nabla {\mathbf {u}}+{\frac {1}{2}}\nabla ({\mathbf {u}}{\mathbf {u}})}
+
+
+
+where
+
+
+
+
+
+∇
+(
+
+
+u
+
+
+
+
+u
+
+
+)
+=
+[
+∇
+(
+
+
+u
+
+
+
+u
+
+x
+
+
+)
+,
+∇
+(
+
+
+u
+
+
+
+u
+
+y
+
+
+)
+,
+∇
+(
+
+
+u
+
+
+
+u
+
+z
+
+
+)
+]
+
+
+{\displaystyle \nabla ({\mathbf {u}}{\mathbf {u}})=[\nabla ({\mathbf {u}}u_{x}),\nabla ({\mathbf {u}}u_{y}),\nabla ({\mathbf {u}}u_{z})]}
+
+
+
+and 
+
+
+
+
+u
+
+
+
+{\displaystyle \mathbf {u} }
+
+ is the same as above.
+Since skew symmetry implies only imaginary eigenvalues, this form reduces the "blow up" and "spectral blocking" often experienced in numerical solutions with sharp discontinuities (see Boyd[4]).
+Using vector calculus identities, these operators can also be expressed in other ways, available in more software packages for more coordinate systems.
+
+
+
+
+
+
+u
+
+⋅
+∇
+
+u
+
+=
+∇
+
+(
+
+
+
+∥
+
+u
+
+
+∥
+
+2
+
+
+
+2
+
+
+)
+
++
+
+(
+∇
+×
+
+u
+
+)
+
+×
+
+u
+
+
+
+{\displaystyle \mathbf {u} \cdot \nabla \mathbf {u} =\nabla \left({\frac {\|\mathbf {u} \|^{2}}{2}}\right)+\left(\nabla \times \mathbf {u} \right)\times \mathbf {u} }
+
+
+
+
+
+
+
+
+
+
+1
+2
+
+
+
+u
+
+⋅
+∇
+
+u
+
++
+
+
+1
+2
+
+
+∇
+(
+
+u
+
+
+u
+
+)
+=
+∇
+
+(
+
+
+
+∥
+
+u
+
+
+∥
+
+2
+
+
+
+2
+
+
+)
+
++
+
+(
+∇
+×
+
+u
+
+)
+
+×
+
+u
+
++
+
+
+1
+2
+
+
+
+u
+
+(
+∇
+⋅
+
+u
+
+)
+
+
+{\displaystyle {\frac {1}{2}}\mathbf {u} \cdot \nabla \mathbf {u} +{\frac {1}{2}}\nabla (\mathbf {u} \mathbf {u} )=\nabla \left({\frac {\|\mathbf {u} \|^{2}}{2}}\right)+\left(\nabla \times \mathbf {u} \right)\times \mathbf {u} +{\frac {1}{2}}\mathbf {u} (\nabla \cdot \mathbf {u} )}
+
+
+
+This form also makes visible that the skew symmetric operator introduces error when the velocity field diverges. Solving the advection equation by numerical methods is very challenging and there is a large scientific literature about this.
+See also[edit]
+
+Atmosphere of Earth
+Conservation equation
+Convection
+Courant–Friedrichs–Lewy condition
+Del
+Diffusion
+Overshoot (signal)
+Péclet number
+Radiation
+
+References[edit]
+
+
+^ Suthan S. Suthersan; Jeff McDonough (1996). Remediation Engineering: Design Concepts. CRC Press. p. 13. ISBN 978-1-4200-5058-5. 
+^ Jacques W. Delleur (2006). The Handbook of Groundwater Engineering, Second Edition. CRC Press. p. 485. ISBN 978-1-4200-0600-1. 
+^ Zang, Thomas (1991). "On the rotation and skew-symmetric forms for incompressible flow simulations". Applied Numerical Mathematics. 7: 27–40. doi:10.1016/0168-9274(91)90102-6. 
+^ Boyd, John P. (2000). Chebyshev and Fourier Spectral Methods 2nd edition. Dover. p. 213. 
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Meteorological data and variables
+
+
+
+General
+
+
+
+Adiabatic processes
+Advection
+Buoyancy
+Lapse rate
+Lightning
+Surface solar radiation
+Surface weather analysis
+Visibility
+Vorticity
+Wind
+Wind shear
+
+
+
+
+
+Condensation
+
+
+
+Cloud
+Cloud condensation nuclei (CCN)
+Fog
+Convective condensation level (CCL)
+Lifted condensation level (LCL)
+Precipitation
+Water vapor
+
+
+
+
+
+Convection
+
+
+
+Convective available potential energy (CAPE)
+Convective inhibition (CIN)
+Convective instability
+Convective momentum transport
+Convective temperature (Tc)
+Equilibrium level (EL)
+Free convective layer (FCL)
+Helicity
+K Index
+Level of free convection (LFC)
+Lifted index (LI)
+Maximum parcel level (MPL)
+Bulk Richardson number (BRN)
+
+
+
+
+
+Temperature
+
+
+
+Dew point (Td)
+Dew point depression
+Dry-bulb temperature
+Equivalent temperature (Te)
+Forest fire weather index
+Haines Index
+Heat index
+Humidex
+Humidity
+Relative humidity (RH)
+Mixing ratio
+Potential temperature (θ)
+Equivalent potential temperature (θe)
+Sea surface temperature (SST)
+Thermodynamic temperature
+Vapor pressure
+Virtual temperature
+Wet-bulb temperature
+Wet-bulb potential temperature
+Wind chill
+
+
+
+
+
+Pressure
+
+
+
+Atmospheric pressure
+Baroclinity
+Barotropicity
+Pressure gradient
+Pressure-gradient force (PGF)
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Advection&oldid=812412523"					
+Categories: Vector calculusAtmospheric dynamicsConservation equationsEquations of fluid dynamicsOceanographyConvectionHeat transferTransport phenomenaHidden categories: All articles with unsourced statementsArticles with unsourced statements from April 2013 

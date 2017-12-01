@@ -1,0 +1,36 @@
+Algebraic differential equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+Note: Differential algebraic equation is something different.
+
+In mathematics, an algebraic differential equation is a differential equation that can be expressed by means of differential algebra. There are several such notions, according to the concept of differential algebra used.
+The intention is to include equations formed by means of differential operators, in which the coefficients are rational functions of the variables (e.g. the hypergeometric equation). Algebraic differential equations are widely used in computer algebra and number theory.
+A simple concept is that of a polynomial vector field, in other words a vector field expressed with respect to a standard co-ordinate basis as the first partial derivatives with polynomial coefficients. This is a type of first-order algebraic differential operator.
+Formulations[edit]
+
+Derivations D can be used as algebraic analogues of the formal part of differential calculus, so that algebraic differential equations make sense in commutative rings.
+The theory of differential fields was set up to express differential Galois theory in algebraic terms.
+The Weyl algebra W of differential operators with polynomial coefficients can be considered; certain modules M can be used to express differential equations, according to the presentation of M.
+The concept of Koszul connection is something that transcribes easily into algebraic geometry, giving an algebraic analogue of the way systems of differential equations are geometrically represented by vector bundles with connections.
+The concept of jet can be described in purely algebraic terms, as was done in part of Grothendieck's EGA project.
+The theory of D-modules is a global theory of linear differential equations, and has been developed to include substantive results in the algebraic theory (including a Riemann-Hilbert correspondence for higher dimensions).
+
+Algebraic solutions[edit]
+It is usually not the case that the general solution of an algebraic differential equation is an algebraic function: solving equations typically produces novel transcendental functions. The case of algebraic solutions is however of considerable interest; the classical Schwarz list deals with the case of the hypergeometric equation. In differential Galois theory the case of algebraic solutions is that in which the differential Galois group G is finite (equivalently, of dimension 0, or of a finite monodromy group for the case of Riemann surfaces and linear equations). This case stands in relation with the whole theory roughly as invariant theory does to group representation theory. The group G is in general difficult to compute, the understanding of algebraic solutions is an indication of upper bounds for G.
+External links[edit]
+
+Mikhalev, A.V.; Pankrat'ev, E.V. (2001) [1994], "Differential algebra", in Hazewinkel, Michiel, Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+Mikhalev, A.V.; Pankrat'ev, E.V. (2001) [1994], "Extension of a differential field", in Hazewinkel, Michiel, Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Algebraic_differential_equation&oldid=479214804"					
+Categories: Differential equationsDifferential algebra 

@@ -1,0 +1,1291 @@
+List of scientific equations named after people - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+This is a list of scientific equations named after people (eponymous equations).[1]
+
+
+Equation
+Field
+Person(s) named after
+
+
+Adams–Williamson equation
+Seismology
+L. H. Adams and E. D. Williamson
+
+
+Allen–Cahn equation[2][3]
+Phase separation
+S. Allen and John W. Cahn
+
+
+Archard equation
+Materials science
+John F. Archard
+
+
+Arrhenius equation
+Chemical kinetics
+Svante Arrhenius
+
+
+Aryabhata equation
+Number theory
+Aryabhata
+
+
+Ashkin–Teller model
+Statistical mechanics
+Edward Teller Julius Ashkin
+
+
+Avrami equation
+Phase transformation
+Melvin Avrami
+
+
+Bellman equation
+Control theory
+Richard Bellman
+
+
+Beltrami equation
+Differential geometry
+Eugenio Beltrami
+
+
+Benedict–Webb–Rubin equation
+Fluid dynamics
+M. Benedict, G. B. Webb, and L. C. Rubin
+
+
+Benjamin–Bona–Mahony equation
+Benjamin–Ono equation
+Fluid dynamics, Wave mechanics
+Waves in fluids
+T. B. Benjamin, J. L. Bona, and J. J. Mahony
+T. B. Benjamin and H. Ono
+
+
+Bernoulli's equation
+Fluid dynamics
+Daniel Bernoulli
+
+
+Bernoulli differential equation
+Calculus
+Jacob Bernoulli
+
+
+Bessel differential equation
+Special functions
+Friedrich Bessel
+
+
+Birch–Murnaghan equation of state
+Continuum mechanics
+Francis Birch and Francis D. Murnaghan
+
+
+Birkhoff–Rott equation[4][5]
+Fluid dynamics
+Garrett Birkhoff
+
+
+Black's equation
+Electronics
+James R. Black
+
+
+Black–Scholes equation
+Mathematical finance
+Fischer Black and Myron Scholes
+
+
+Blaney–Criddle equation
+Agronomy
+Blaney and Criddle
+
+
+Boltzmann equation
+Thermodynamics
+Ludwig Boltzmann
+
+
+Bôcher's equation
+Calculus
+Maxime Bôcher
+
+
+Borda–Carnot equation
+Fluid dynamics
+Jean-Charles de Borda and Lazare Carnot
+
+
+Boussinesq equations
+Wave mechanics
+Joseph Boussinesq
+
+
+Breit equation
+Quantum mechanics
+Gregory Breit
+
+
+Bridgman's equation[6]
+Bridgman's thermodynamic equations
+Dimensional analysis
+Thermodynamics
+Percy Williams Bridgman
+Percy Williams Bridgman
+
+
+Broer–Kaup–Kupershmidt equation[7]
+Wave mechanics
+Lambertus Broer, D. J. Kaup, and B. A. Kupershmidt
+
+
+Buckley–Leverett equation
+Two-phase flow in porous media
+S. E. Buckley and M. C. Leverett
+
+
+Burgers' equation
+Fluid dynamics
+Johannes Martinus Burgers
+
+
+Cahn–Hilliard equation
+Phase separation
+John W. Cahn and John E. Hilliard
+
+
+Callan–Symanzik equation
+Quantum field theory
+Curtis Callan and Kurt Symanzik
+
+
+Callendar–Van Dusen equation
+Thermodynamics
+Hugh Longbourne Callendar and M. S. Van Dusen
+
+
+Camassa–Holm equation
+Fluid dynamics
+Roberto Camassa and Darryl Holm
+
+
+Carothers equation
+Polymer chemistry
+Wallace Carothers
+
+
+Cauchy's equation
+Cauchy momentum equation
+Cauchy's functional equation
+Cauchy's integral formula
+Cauchy–Euler equation
+Cauchy–Riemann equations
+Optics
+Fluid Dynamics
+Functional theory
+Complex Analysis
+Calculus
+Complex Analysis
+Augustin Louis Cauchy
+Augustin Louis Cauchy
+Augustin Louis Cauchy
+Augustin Louis Cauchy
+Augustin Louis Cauchy and Leonhard Euler
+Augustin Louis Cauchy and Bernhard Riemann
+
+
+Cesàro equation
+Differential geometry
+Ernesto Cesàro
+
+
+Chaplygin's equation
+Transonic flow
+Sergey Chaplygin
+
+
+Chapman–Kolmogorov equation
+Chapman–Enskog equation[8]
+Probability theory
+Kinetic theory
+Sydney Chapman and Andrey Kolmogorov
+Sydney Chapman and David Enskog
+
+
+Chebyshev equation
+Calculus
+Pafnuty Chebyshev
+
+
+Churchill–Bernstein equation
+Heat Transfer
+S. W. Churchill and M. Bernstein
+
+
+Clairaut's equation
+Calculus
+Alexis Clairaut
+
+
+Clausius–Clapeyron equation
+Calculus
+Rudolf Clausius and Émile Clapeyron
+
+
+Clausius–Mossotti equation
+Physics
+Rudolf Clausius and Ottaviano-Fabrizio Mossotti
+
+
+Colebrook equation
+Colebrook–White equation
+Fluid dynamics
+Fluid dynamics
+C. F. Colebrook
+C. F. Colebrook and F. M. White
+
+
+Competitive Lotka–Volterra equations
+Population dynamics
+Alfred J. Lotka and Vito Volterra
+
+
+Conformal Killing equation
+Topology, Differential geometry
+Wilhelm Killing
+
+
+Darcy–Weisbach equation
+Fluid dynamics
+Henry Darcy and Julius Weisbach
+
+
+Davey–Stewartson equation
+Fluid dynamics
+A. Davey and K. Stewartson
+
+
+Debye–Hückel equation
+Electrochemistry
+Peter Debye and Erich Hückel
+
+
+Degasperis–Procesi equation
+Mathematical physics
+Antonio Degasperis and M. Procesi
+
+
+Dehn–Sommerville equations
+Geometry
+Max Dehn and Duncan Sommerville
+
+
+Diophantine equation
+Mathematics
+Diophantus of Alexandria
+
+
+Dirac equation
+Dirac equation in APS
+Quantum mechanics
+Quantum field theory
+Paul Dirac
+Paul Dirac
+
+
+Doppler equations
+Wave mechanics
+Christian Doppler
+
+
+Drake equation
+Cosmology
+Frank Drake
+
+
+Duffing equation
+Differential equations
+Duffing
+
+
+Dym equation
+Wave mechanics
+Harry Dym
+
+
+Einstein field equations
+General relativity
+Albert Einstein
+
+
+Ernst equation
+PDE
+Frederick J. Ernst
+
+
+Euler equations (fluid dynamics)
+Euler's equations (rigid body dynamics)
+Euler–Bernoulli beam equation
+Euler–Lagrange equation
+Euler–Darboux equation[9]
+Euler–Poisson–Darboux equation
+Euler–Tricomi equation
+Fluid dynamics
+Rigid body dynamics
+Solid mechanics
+Calculus of variations
+Calculus
+Calculus
+Calculus
+Leonhard Euler
+Leonhard Euler
+Leonhard Euler and Daniel Bernoulli
+Leonhard Euler and Joseph Louis Lagrange
+Leonhard Euler and Jean Darboux
+Euler, Poisson, and Jean Darboux
+Leonhard Euler and Francesco Tricomi
+
+
+Exner equation
+Geology, Sedimentology
+Felix Maria Exner
+
+
+Eyring–Polanyi equation
+Chemical kinetics
+Henry Eyring and Michael Polanyi
+
+
+Faddeev equations
+Quantum mechanics
+Ludvig Faddeev
+
+
+Falkner–Skan equation
+Boundary layer flow
+V. M. Falkner and S. W. Skan
+
+
+Falkowich–Kármán equation
+Transonic flow
+Falkowich and Theodore von Kármán
+
+
+Fenske equation
+Distillation
+Merrell Fenske
+
+
+Fisher equation
+Financial mathematics
+Irving Fisher
+
+
+Fisher's equation
+Mathematics
+Ronald Fisher
+
+
+Fokker–Planck equation
+Probability theory
+Adriaan Fokker and Max Planck
+
+
+Föppl–von Kármán equations
+Elasticity
+August Föppl and Theodore von Kármán
+
+
+Fowler–Nordheim equation
+Condensed matter physics
+Ralph H. Fowler and Lothar Wolfgang Nordheim
+
+
+Fredholm integral equation
+Integral equations
+Erik Fredholm
+
+
+Fresnel equations
+Wave optics
+Augustin-Jean Fresnel
+
+
+Friedmann equations
+Cosmology
+Alexander Friedman
+
+
+Gauss–Codazzi equations
+Gauss–Codazzi equations (relativity)
+Riemannian geometry
+General relativity
+Carl Friedrich Gauss and Delfino Codazzi
+Carl Friedrich Gauss and Delfino Codazzi
+
+
+Gibbs–Duhem equation
+Gibbs–Helmholtz equation
+Thermodynamics
+Thermodynamics
+Josiah Willard Gibbs and Pierre Duhem
+Josiah Willard Gibbs and Hermann von Helmholtz
+
+
+Ginzburg–Landau equation
+Superconductivity
+Lev Landau and Vitaly Ginzburg
+
+
+Goldman–Hodgkin–Katz flux equation
+Goldman–Hodgkin–Katz voltage equation
+Electrochemistry
+Electrochemistry
+David E. Goldman, Alan Hodgkin, and Bernard Katz
+David E. Goldman, Alan Hodgkin, and Bernard Katz
+
+
+Grad–Shafranov equation
+Magnetohydrodynamics, Plasma physics
+H. Grad and Vitaly D. Shafranov
+
+
+Green–Kubo relations
+Statistical mechanics
+M. S. Green and Ryogo Kubo
+
+
+Gross–Pitaevskii equation
+Condensed matter physics
+E. P. Gross and Lev P. Pitaevskii
+
+
+Haaland equation
+Fluid dynamics
+S. E. Haaland
+
+
+Hadamard–Rybczynski equation
+Bubble dynamics
+Jacques Hadamard and Witold Rybczyński
+
+
+Hamilton–Jacobi equation
+Hamilton–Jacobi–Bellman equation
+Hamiltonian mechanics
+Optimal control
+William Hamilton and Carl Gustav Jacobi
+William Hamilton, Carl Gustav Jacobi, and Richard Bellman
+
+
+Hammett equation
+Organic Chemistry
+Louis Plack Hammett
+
+
+Hankinson's equation
+Wood science
+Hankinson
+
+
+Hartree equation
+Atomic physics
+Douglas Hartree
+
+
+Hartree–Fock equation
+Quantum Chemistry
+Douglas Hartree and Vladimir Fock
+
+
+Hasegawa–Mima equation
+Plasma physics
+Akira Hasegawa and Kunioki Mima
+
+
+Hazen–Williams equation
+Hydraulics, Irrigation
+Hazen and Williams
+
+
+Helmholtz equation
+Electromagnetic radiation, Seismology, Acoustics
+Hermann von Helmholtz
+
+
+Henderson–Hasselbalch equation
+Chemistry
+Lawrence Joseph Henderson and Karl Albert Hasselbalch
+
+
+Heun's equation
+Calculus
+Karl L. W. M. Heun
+
+
+Hill equation (biochemistry)
+Biochemistry
+Archibald Vivian Hill
+
+
+Hill differential equation
+Orbital Mechanics
+George William Hill
+
+
+Hugoniot equation
+Compressible flows
+Pierre Henri Hugoniot
+
+
+Hunter–Saxton equation
+Hunter–Zheng equation
+Liquid crystals
+PDE
+John K. Hunter and Ralph Saxton
+John K. Hunter and Yuxi Zheng
+
+
+Ishimori equation
+PDE
+Y. Ishimori
+
+
+John's equation
+Calculus
+Fritz John
+
+
+Johnson–Holmquist equation of state
+Ceramic science
+Johnson Holmquist
+
+
+Kadomtsev–Petviashvili equation
+Kadomtsev–Petviashvili–Burgers equation
+Wave mechanics
+Wave mechanics
+B. B. Kadomtsev and V. I. Petviashvili
+B. B. Kadomtsev, V. I. Petviashvili, and J. M. Burgers
+
+
+Kapustinskii equation
+Crystallography
+Anatoli Kapustinskii
+
+
+Kármán–Howarth equation
+Turbulent flow
+Theodore von Kármán and L. Howarth
+
+
+Karplus equation
+Nuclear magnetic resonance
+Martin Karplus
+
+
+Kaup–Kupershmidt equation
+Wave mechanics
+D. J. Kaup and B. A. Kupershmidt
+
+
+Kepler's equation
+Astronomy
+Johannes Kepler
+
+
+Klein–Gordon equation
+Quantum field theory
+Oskar Klein and Walter Gordon
+
+
+Kohn–Sham equations
+Mathematics
+Walter Kohn and Lu Jeu Sham
+
+
+Kolmogorov backward equation
+Probability distribution
+Andrey Kolmogorov
+
+
+Kolmogorov–Feller equation[10]
+Probabilistic models
+Andrey Kolmogorov and William Feller
+
+
+Korteweg–de Vries equation
+Wave mechanics, Solitons
+Diederik Korteweg and Gustav de Vries
+
+
+Kozeny–Carman equation
+Fluid dynamics, Unit operations
+Josef Kozeny and Philip C. Carman
+
+
+Krichever–Novikov equation
+Lie algebra
+I. M. Krichever and Sergei Novikov
+
+
+Laguerre's equation
+Differential equation
+Edmond Laguerre
+
+
+Lamm equation
+Sedimentation theory
+O. Lamm
+
+
+Landau–Lifshitz equation
+Aeroacoustics
+Lev Landau and Evgeny Lifshitz
+
+
+Landau–Lifshitz–Gilbert equation
+Magnetization
+Lev Landau, Evgeny Lifshitz, and T. L. Gilbert
+
+
+Lane–Emden equation
+Astrophysics
+Jonathan Homer Lane and Robert Emden
+
+
+Langevin equation
+Statistical physics
+Paul Langevin
+
+
+Laplace's equation
+Laplace's tidal equations
+Electromagnetism, Fluid dynamics
+Fluid dynamics
+Pierre-Simon Laplace
+Pierre-Simon Laplace
+
+
+Legendre's equation
+Spherical harmonics
+Adrien-Marie Legendre
+
+
+Leonard–Merritt formula
+Astrophysics
+Peter Leonard and David Merritt
+
+
+Levy–Mises equations
+Solid mechanics
+Paul Lévy and Richard von Mises
+
+
+Liénard equation
+Dynamical systems
+Alfred-Marie Liénard
+
+
+Lighthill equation
+Aeroacoustics
+James Lighthill
+
+
+Lindblad equation
+Quantum mechanics
+G. Lindblad
+
+
+Lin–Tsien equation
+PDE
+Lin and Tsien
+
+
+Lindley equation
+Queueing theory
+Dennis Lindley
+
+
+Liouville equations
+Differential geometry
+Joseph Liouville
+
+
+Lommel differential equation
+Calculus
+Eugen von Lommel
+
+
+Lorentz equation
+Electromagnetism
+Hendrik Lorentz
+
+
+Lorentz–Lorenz equation
+Optics
+Hendrik Lorentz and Ludvig Lorenz
+
+
+Lotka–Volterra equation
+Biological systems
+Alfred J. Lotka and Vito Volterra
+
+
+Lyapunov equation
+Control theory
+Aleksandr Lyapunov
+
+
+Madelung equations
+Quantum mechanics
+Erwin Madelung
+
+
+Majorana equation
+Quantum field theory
+Ettore Majorana
+
+
+Manakov equation
+Wave mechanics, Fiber optics
+S. V. Manakov
+
+
+Marchenko equation
+Scattering theory
+Vladimir Marchenko
+
+
+Mark–Houwink equation
+Polymer chemistry
+Herman Francis Mark and Houwink
+
+
+Mason equation
+Atmospheric thermodynamics
+Basil John Mason
+
+
+Mason–Weaver equation
+Sedimentation theory
+Max Mason and Warren Weaver
+
+
+Mathieu equation
+Periodic phenemena, Parametric resonance
+Émile Léonard Mathieu
+
+
+Mathisson–Papapetrou–Dixon equations
+General relativity, Gravitational waves
+Mathisson, A. Papapetrou, and G. W. Dixon
+
+
+Maurer–Cartan equation
+Lie groups, Differential geometry
+Ludwig Maurer and Élie Joseph Cartan
+
+
+Maxwell's equations
+Maxwell Relations
+Electrodynamics
+Thermodynamics
+James Clerk Maxwell
+James Clerk Maxwell
+
+
+Mayo–Lewis equation
+Polymer chemistry
+Frank R. Mayo and Frederick M. Lewis
+
+
+Michaelis–Menten equation
+Chemical kinetics
+Leonor Michaelis and Maud Menten
+
+
+Monge–Ampère equation
+Calculus
+Gaspard Monge and André-Marie Ampère
+
+
+Morison equation
+Fluid dynamics
+J. R. Morison
+
+
+Nahm equations
+Differential equations
+Werner Nahm
+
+
+Navier–Stokes equations
+Fluid dynamics
+Claude-Louis Navier and George Gabriel Stokes
+
+
+Nernst equation
+Electrochemistry
+Walther Nernst
+
+
+Neugebauer equations
+Printing systems
+Hans E. J. Neugebauer
+
+
+Newton–Euler equations
+Classical mechanics
+Isaac Newton and Leonhard Euler
+
+
+Nonlinear Schrödinger equation
+Theoretical physics
+Erwin Schrödinger
+
+
+Ornstein–Zernike equation
+Statistical mechanics
+Leonard Ornstein and Frits Zernike
+
+
+Painlevé equations
+Differential equations
+Paul Painlevé
+
+
+Orr–Sommerfeld equation
+Fluid dynamics, Stability analysis
+William McFadden Orr and Arnold Sommerfeld
+
+
+Osipkov–Merritt model
+Astrophysics
+Leonid Osipkov and David Merritt
+
+
+Papapetrou–Dixon equations
+General relativity, Gravitational waves
+A. Papapetrou and G. W. Dixon
+
+
+Pauli equation
+Quantum mechanics
+Wolfgang Pauli
+
+
+Pell's equation
+Number theory
+John Pell
+
+
+Penman equation
+Penman–Monteith equation
+Agronomy
+Agronomy
+Howard Penman
+Howard Penman and J. L. Monteith
+
+
+Picard–Fuchs equation
+Calculus
+Charles Émile Picard and Lazarus Fuchs
+
+
+Poisson's equation
+Poisson–de Rham equation
+Calculus
+Astrophysics
+Siméon Denis Poisson
+Siméon Denis Poisson and Georges de Rham
+
+
+Pople—Nesbet equations
+Quantum Chemistry
+John Pople and R. K. Nesbet
+
+
+Prandtl–Glauert equation
+Compressible flows
+Ludwig Prandtl and Hermann Glauert
+
+
+Price equation
+Evolutionary dynamics, Evolutionary biology
+George R. Price
+
+
+Prony equation
+Hydraulics
+Gaspard de Prony
+
+
+Rabinovich–Fabrikant equations
+Chaotic systems
+M. I. Rabinovich and A. L. Fabrikant
+
+
+Ramanujan–Nagell equation
+Number theory
+Srinivasa Ramanujan and Trygve Nagell
+
+
+Rankine–Hugoniot equation
+Compressible flows
+William Rankine and Pierre Henri Hugoniot
+
+
+Rarita–Schwinger equation
+Quantum electrodynamics
+William Rarita and Julian Schwinger
+
+
+Raychaudhuri equation
+General relativity
+Amal Kumar Raychaudhuri
+
+
+Rayleigh's equation
+Rayleigh–Pitot equation
+Rayleigh–Plesset equation
+Stability of inviscid flows
+Gasdynamics
+Bubble oscillation
+Lord Rayleigh
+Lord Rayleigh and Henri Pitot
+Lord Rayleigh and Milton S. Plesset
+
+
+Reynolds-averaged Navier–Stokes equations
+Turbulent flows
+Osborne Reynolds, Claude-Louis Navier, and George Stokes
+
+
+Relativistic Euler equations
+Astrophysics, Fluid dynamics
+Leonhard Euler
+
+
+Riccati equation
+Calculus
+Jacopo Riccati
+
+
+Richards equation
+Hydrology
+Lorenzo Richards
+
+
+Riemann theta function
+Riemann zeta function
+Riemann's differential equation
+Special functions
+Number theory
+Differential equation
+Bernhard Riemann
+Bernhard Riemann
+Bernhard Riemann
+
+
+Rodrigues equation
+Chromatography
+Alirio E. Rodrigues
+
+
+Roothaan equations or Roothaan–Hall equations
+Quantum chemistry
+Clemens Roothaan and George Hall
+
+
+Sackur–Tetrode equation
+Statistical thermodynamics
+Hugo Martin Tetrode and Otto Sackur
+
+
+Sagan equation
+Cosmology
+Carl Sagan
+
+
+Saha–Langmuir equation
+Quantum mechanics, Statistical mechanics
+Megh Nad Saha and Irving Langmuir
+
+
+Saint-Venant equations
+Fluid dynamics
+Adhémar Jean Claude Barré de Saint-Venant
+
+
+Sakuma–Hattori equation[11]
+Thermal radiation
+Fumihiro Sakuma and Susumu Hattori
+
+
+Sawada–Kotera equation[12]
+Wave mechanics
+K. Sawada and T. Kotera
+
+
+Scheil–Gulliver equation
+Metallurgy
+G. H. Gulliver and E. Scheil
+
+
+Schrödinger equation
+Schrödinger–Newton equations
+Quantum mechanics
+Quantum mechanics
+Erwin Schrödinger
+Erwin Schrödinger and Isaac Newton
+
+
+Schwinger–Dyson equation
+Quantum field theory
+Julian Schwinger and Freeman Dyson
+
+
+Screened Poisson equation
+Plasma physics
+Siméon Denis Poisson
+
+
+Seiberg–Witten equation
+PDE
+Nathan Seiberg and Edward Witten
+
+
+Sellmeier equation
+Optics
+W. Sellmeier
+
+
+sine–Gordon equation
+Solitons
+Walter Gordon
+
+
+Slutsky equation
+Consumer theory
+Eugen Slutsky
+
+
+Souders–Brown equation
+Separation processes
+M. Souders and G. G. Brown
+
+
+Starling equation
+Fluid dynamics
+Ernest Starling
+
+
+Stokes–Einstein equation
+Diffusion of particles
+George Gabriel Stokes and Albert Einstein
+
+
+Strominger's equations
+Heterotic string theory
+Andrew Strominger
+
+
+Sturm–Liouville equation
+Differential equation
+Jacques Charles François Sturm and Joseph Liouville
+
+
+Swamee–Jain equation
+Fluid dynamics
+P. K. Swamee and A. K. Jain
+
+
+Swift–Hohenberg equation
+Pattern formation
+J. B. Swift and P. C. Hohenberg
+
+
+Sylvester equation
+Sylvester's formula
+Control theory
+Matrix theory
+James Sylvester
+James Sylvester
+
+
+Taft equation
+Physical organic Chemistry
+Robert W. Taft
+
+
+Tanaka equation
+Stochastic theory
+Hiroshi Tanaka
+
+
+Torricelli's equation
+Mechanics
+Evangelista Torricelli
+
+
+Tricomi equation
+Partial differential equations
+Francesco Tricomi
+
+
+Tsiolkovsky rocket equation
+Astrodynamics
+Konstantin Tsiolkovsky
+
+
+Van Deemter's equation
+Chromatography
+J. J. Van Deemter
+
+
+Van der Pol equation
+Dynamical systems
+Balthasar van der Pol
+
+
+Van der Waals equation
+Thermodynamics
+Johannes Diderik van der Waals
+
+
+Van 't Hoff equation
+Chemical thermodynamics
+Jacobus Henricus van 't Hoff
+
+
+Verhulst equation
+Population dynamics
+Pierre François Verhulst
+
+
+Vlasov equation
+Vlasov–Poisson equation
+Plasma physics
+Plasma physics
+Anatoly Vlasov
+Anatoly Vlasov and Siméon Denis Poisson
+
+
+Volterra integral equation
+Integral equations
+Vito Volterra
+
+
+Wald's equation
+Probability theory
+Abraham Wald
+
+
+Washburn's equation
+Flow in porous media
+Edward W. Washburn
+
+
+Weber's equation
+Differential equation
+Heinrich Friedrich Weber
+
+
+Welch–Satterthwaite equation
+Statistics, Uncertainty analysis
+B. L. Welch and F. E. Satterthwaite
+
+
+Wheeler–deWitt equation
+Quantum gravity
+John Archibald Wheeler and Bryce DeWitt
+
+
+Whewell equation
+Geometry
+William Whewell
+
+
+Whitham equation
+Wave mechanics, Solitons
+Gerald Whitham
+
+
+Wiener equation
+Brownian motion
+Norbert Wiener
+
+
+Yang–Baxter equation
+Yang–Mills–Higgs equations
+Statistical mechanics
+Gauge theory, Quantum field theory
+Chen Ning Yang and Rodney J. Baxter
+Chen Ning Yang, Robert Mills, and Peter Higgs
+
+
+Young–Dupré equation
+Young–Laplace equation
+Interfacial dynamics
+Fluid dynamics
+Thomas Young and Lewis Dupré
+Thomas Young and Pierre-Simon Laplace
+
+
+Zakai equation
+Stochastic differential equations
+M. Zakai
+
+
+Zakharov–Schulman system of equation
+Acoustic waves
+Vladimir E. Zakharov and E. I. Schulman
+
+
+See also[edit]
+
+Eponym
+List of eponymous laws
+List of laws in science
+List of equations
+Scientific constants named after people
+Scientific phenomena named after people
+Scientific laws named after people
+
+References[edit]
+
+
+
+^ "Reflections on the Natural History of Eponymy and Scientific Law", Donald deB. Beaver, Social Studies of Science, volume 6, number 1 (February, 1976), pages 89–98
+^ "Convergence of the Allen–Cahn equation to Brakke's motion by mean curvature". Cornell University Library. Retrieved 2009-06-27. 
+^ "Thermal capacity estimates on the Allen-Cahn equation". American Mathematical Society. Retrieved 2009-06-27. 
+^ "Spiral vortex solution of Birkhoff–Rott equation". Association for Computing Machinery. Retrieved 2009-06-27. 
+^ Majda, A. J.; Bertozzi, A. L. (2008). Vorticity and incompressible flow. Cambridge University Press. ISBN 0521639484. 
+^ Tropea, C.; Yarin, A. L.; Foss, J. F. (2007). Springer handbook of experimental fluid mechanics. Springer. ISBN 3540251413. 
+^ Zhou, Xin-Wei (2007). "Variational approach to the Broer–Kaup–Kupershmidt equation". Physics Letters A. 363 (1-2): 108–109. doi:10.1016/j.physleta.2006.10.083. 
+^ Barichello, L. B.; Rodrigues, P.; Siewert, C. E. (2004). "On computing the Chapman–Enskog and Burnett functions". J. Quantitative Spectroscopy and Radiative Transfer. 86 (1): 109–114. doi:10.1016/j.jqsrt.2003.10.001. 
+^ "Euler-Darboux Equation". MathWorld. Retrieved 2009-11-14. 
+^ Maslov, V. P. (1983). "The Kolmogorov-Feller equation and the probabilistic model of quantum mechanics". J. Math. Sci. Springer. 23 (5): 2534–2553. doi:10.1007/BF01084703. ISSN 1573-8795. Retrieved 2009-10-25. 
+^ F Sakuma, S Hattori, "Establishing a practical temperature standard by using a narrow-band radiation thermometer with a silicon detector", in Temperature: Its Measurement and Control in Science and Industry, vol. 5, edited by J F Schooley, New York, AIP, 421–427 (1982).
+^ Sawada, K.; T. Kotera (1974). "A method for finding N-soliton solutions of the KdV equation and KdV-like equation". Prog. Theor. Phys. 51 (5): 1355–1362. doi:10.1143/PTP.51.1355. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_scientific_equations_named_after_people&oldid=765340220"					
+Categories: Science-related listsLists of eponymsEquations 

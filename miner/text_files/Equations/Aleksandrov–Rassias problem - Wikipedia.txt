@@ -1,0 +1,38 @@
+Aleksandrov–Rassias problem - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The theory of isometries in the framework of Banach spaces has its beginning in a paper by Stanisław Mazur and Stanisław M. Ulam in 1932.[1] They proved that each isometry of a normed real linear space onto a normed real linear space is a linear mapping up to translation. In 1970, Aleksandr Danilovich Aleksandrov asked whether the existence of a single conservative distance for some mapping implies that it is an isometry. Themistocles M. Rassias posed the following problem:
+
+Aleksandrov–Rassias Problem. If X and Y are normed linear spaces and if T : X → Y is a continuous and/or surjective mapping which satisfies the so-called distance one preserving property (DOPP), is then T necessarily an isometry?
+
+There have been several attempts in the mathematical literature by a number of researchers for the solution to this problem.
+References[edit]
+
+
+
+^ S. Mazur and S. Ulam, Sur les transformationes isométriques d’espaces vectoriels normés, C. R. Acad. Sci. Paris 194(1932), 946–948.
+
+
+
+
+P. M. Pardalos, P. G. Georgiev and H. M. Srivastava (eds.), Nonlinear Analysis. Stability, Approximation, and Inequalities. In honor of Themistocles M. Rassias on the occasion of his 60th birthday, Springer, New York, 2012.
+A. D. Aleksandrov, Mapping of families of sets, Soviet Math. Dokl. 11(1970), 116–120.
+On the Aleksandrov-Rassias problem and the Hyers-Ulam-Rassias stability problem
+On the Aleksandrov-Rassias problem for isometric mappings
+On the Aleksandrov-Rassias problem and the geometric invariance in Hilbert spaces
+S.-M. Jung and K.-S. Lee, An inequality for distances between 2n points and the Aleksandrov–Rassias problem, J. Math. Anal. Appl. 324(2)(2006), 1363–1369.
+S. Xiang, Mappings of conservative distances and the Mazur–Ulam theorem, J. Math. Anal. Appl. 254(1)(2001), 262–274.
+S. Xiang, On the Aleksandrov problem and Rassias problem for isometric mappings, Nonlinear Functional Analysis and Appls. 6(2001), 69-77.
+S. Xiang, On approximate isometries, in : Mathematics in the 21st Century (eds. K. K. Dewan and M. Mustafa), Deep Publs. Ltd., New Delhi, 2004, pp. 198–210.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Aleksandrov–Rassias_problem&oldid=797623183"					
+Categories: Mathematical analysisMetric geometryFunctional equations 

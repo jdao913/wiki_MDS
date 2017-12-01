@@ -1,0 +1,421 @@
+Octic equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Not to be confused with Optic equation.
+
+
+
+
+Graph of a polynomial of degree 8, with 8 real roots (crossings of the x axis) and with 7 critical points. In general, depending on the number and vertical location of the local maxima and minima, the number of real roots could be 8, 6, 4, 2, or 0. The number of complex roots equals 8 minus the number of real roots.
+
+
+In algebra, an octic equation[1] is an equation of the form
+
+
+
+
+
+a
+
+x
+
+8
+
+
++
+b
+
+x
+
+7
+
+
++
+c
+
+x
+
+6
+
+
++
+d
+
+x
+
+5
+
+
++
+e
+
+x
+
+4
+
+
++
+f
+
+x
+
+3
+
+
++
+g
+
+x
+
+2
+
+
++
+h
+x
++
+k
+=
+0
+,
+
+
+
+{\displaystyle ax^{8}+bx^{7}+cx^{6}+dx^{5}+ex^{4}+fx^{3}+gx^{2}+hx+k=0,\,}
+
+
+
+where a ≠ 0.
+An octic function is a function of the form
+
+
+
+
+
+f
+(
+x
+)
+=
+a
+
+x
+
+8
+
+
++
+b
+
+x
+
+7
+
+
++
+c
+
+x
+
+6
+
+
++
+d
+
+x
+
+5
+
+
++
+e
+
+x
+
+4
+
+
++
+f
+
+x
+
+3
+
+
++
+g
+
+x
+
+2
+
+
++
+h
+x
++
+k
+,
+
+
+{\displaystyle f(x)=ax^{8}+bx^{7}+cx^{6}+dx^{5}+ex^{4}+fx^{3}+gx^{2}+hx+k,}
+
+
+
+where a ≠ 0. In other words, it is a polynomial of degree eight. If a = 0, then f is a septic function (b ≠ 0), sextic function (b = 0, c ≠ 0), etc.
+The equation may be obtained from the function by setting f(x) = 0.
+The coefficients a, b, c, d, e, f, g, h, k may be either integers, rational numbers, real numbers, complex numbers or, more generally, members of any field.
+Since an octic function is defined by a polynomial with an even degree, it has the same infinite limit when the argument goes to positive or negative infinity. If the leading coefficient a is positive, then the function increases to positive infinity at both sides; and thus the function has a global minimum. Likewise, if a is negative, the octic function decreases to negative infinity and has a global maximum. The derivative of an octic function is a septic function.
+Solvable octics[edit]
+By the Abel–Ruffini theorem, there is no general algebraic formula for a solution of an octic equation in terms of its parameters. However, some sub-classes of octics do have such formulas.
+Trivially, octics of the form
+
+
+
+
+
+
+x
+
+8
+
+
+=
+k
+
+
+{\displaystyle x^{8}=k}
+
+
+
+with positive k have the solutions
+
+
+
+
+
+
+x
+
+i
+
+
+=
+
+k
+
+1
+
+/
+
+8
+
+
+
+ω
+
+i
+
+
+
+,
+
+i
+=
+1
+,
+…
+,
+8
+,
+
+
+{\displaystyle x_{i}=k^{1/8}\omega _{i}\,,\quad i=1,\dots ,8,}
+
+
+
+where 
+
+
+
+
+ω
+
+i
+
+
+
+
+{\displaystyle \omega _{i}}
+
+ is the i-th eighth root of 1 in the complex plane.
+Octics of the form
+
+
+
+
+
+a
+
+x
+
+8
+
+
++
+e
+
+x
+
+4
+
+
++
+k
+=
+0
+
+
+{\displaystyle ax^{8}+ex^{4}+k=0}
+
+
+
+can be solved through factorisation or application of the quadratic formula in the variable x4.
+Octics of the form
+
+
+
+
+
+a
+
+x
+
+8
+
+
++
+c
+
+x
+
+6
+
+
++
+e
+
+x
+
+4
+
+
++
+g
+
+x
+
+2
+
+
++
+k
+=
+0
+
+
+{\displaystyle ax^{8}+cx^{6}+ex^{4}+gx^{2}+k=0}
+
+
+
+can be solved using the quartic formula in the variable x2.
+See also[edit]
+
+Cubic function
+Quartic function
+Quintic function
+
+References[edit]
+
+
+^ James Cockle proposed the names "sexic", "septic", "octic", "nonic", and "decic" in 1851. (Mechanics Magazine, Vol. LV, p. 171)
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Polynomials and polynomial functions
+
+
+
+By degree
+
+
+
+Zero polynomial (degree undefined or −1 or −∞)
+Constant function (0)
+Linear function (1)
+Quadratic function (2)
+Cubic function (3)
+Quartic function (4)
+Quintic function (5)
+Sextic equation (6)
+Septic equation (7)
+Octic equation (8)
+
+
+
+
+
+By number of terms and other properties
+
+
+
+Monomial
+Binomial
+Trinomial
+Homogeneous
+Quasi-homogeneous
+
+
+
+
+
+Tools and algorithms
+
+
+
+Factorization
+Greatest common divisor
+Division
+Horner's method of evaluation
+Resultant
+Discriminant
+Gröbner basis
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Octic_equation&oldid=801791147"					
+Categories: PolynomialsEquationsGalois theory 

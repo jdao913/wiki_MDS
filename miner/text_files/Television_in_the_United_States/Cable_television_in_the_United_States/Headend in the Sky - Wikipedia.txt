@@ -1,0 +1,514 @@
+Headend in the Sky - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2008) (Learn how and when to remove this template message)
+
+
+
+Headend in the Sky (HITS) is Comcast's satellite multiplex service that provides cable channels to cable television operations.
+At a traditional cable television headend, multitudes of satellite dishes and antennas are used to grab cable stations from dozens of communication satellites. In contrast, HITS combines cable stations into multiplex signals on just a few satellites; cable television companies can then pull in hundreds of channels at the local headend with relatively little equipment; the HITS feed effectively replaces the more complex traditional headend operations.
+HITS was founded in 1994 and its namesake product is commonly recognized as the pioneer of digital television in the United States. HITS was launched by TCI before their later 1999 purchase by the old AT&T, then merged with the smaller Comcast in 2002 as part their purchase of AT&T Broadband (formerly TCI). The HITS headquarters in Centennial, Colorado, formerly known as the National Digital Television Center, is now called the Comcast Media Center.
+As of 2010, HITS offers 6 standard-definition multiplexes on SES Americom's SES-1, 12 standard-definition multiplexes and 8 HD multiplexes on AMC-18, 1 standard-definition multiplex on AMC-10, and 1 standard definition multiplex on Intelsat's Galaxy 17. As of 2010, HITS delivers more than 280 digitally compressed video and audio television programming signals to more than 2000 cable operation sites across the US.[1]
+
+
+
+Contents
+
+
+1 Services
+2 See also
+3 References
+4 External links
+
+
+
+Services[edit]
+HITS offers the following services:
+
+HITS Quantum, which expands the legacy HITS channel lineup for digital systems, packaging in additional HDTV channels and introducing several advanced services such as video on demand and other interactive applications.
+HITS Quick Take+, which provides an even lower-cost but still digital service for small cable systems.
+VOD In a Box, which provides a low-cost, remote, access to a video on demand library operated by Comcast.
+HITS AxIS, which provides a solution to launching EBIF and/or tru2way based applications on set-top boxes.
+HITS Broadband, which provides hardware solutions for starting broadband operations.
+
+On January 30, 2007, HITS introduced HITS Quantum, which was launched later in the year.[when?] HITS also announced the shutdown of its older HITS2Home service which allowed small cable companies to provide customers with digital service through satellite dishes at each home because they needed to move their signals off of the Ku satellite band to the C satellite band because too many cable operators were complaining about rain fade and providing the HITS2Home customers with the larger dishes for C band was impractical. [2]
+As of January 1, 2011 HITS2Home service became available to home users via two third party vendors. The home user is responsible for obtaining and maintaining their own C Band satellite dish and Motorola DSR-410 satellite receiver.
+See also[edit]
+
+Cable television in the United States
+
+References[edit]
+
+
+
+^ [1] About Comcast Media Center
+^ Moss, Linda (2008-02-11 [sic]). "Comcast Bulks Up: Media Center Adds Bandwidth On SES Americom". Multichannel News. Retrieved 2008-02-10.  Check date values in: |date= (help)[dead link]
+
+
+
+External links[edit]
+
+Comcast Technology Solutions — official website
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Comcast
+
+
+
+Comcast Cable
+
+
+
+Xfinity (Areas with XFINITY)
+
+Xfinity Streampix
+
+
+Comcast Entertainment TV
+Comcast TV
+Comcast Business
+Comcast Technology Solutions
+
+HITS
+thePlatform
+
+
+Xfinity 3D
+
+
+
+
+
+Spectacor
+
+
+
+Philadelphia Flyers
+Maine Mariners
+Wells Fargo Center
+Spectra
+
+ComcastTIX
+
+
+
+
+
+
+
+NBCUniversal
+
+
+
+Universal Pictures
+NBC
+Universal Parks
+NBCU Cable
+Telemundo
+NBCU TV Group
+NBC Sports Group
+NBCU News Group
+Related articles
+
+
+
+
+
+Other Holdings
+
+
+
+
+Current
+
+
+
+Leisure Arts
+Plaxo
+Midco (part owner)
+In Demand (part owner)
+
+
+
+
+
+Former
+
+
+
+GuideWorks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Cable, satellite, and other specialty television providers in the United States
+
+
+
+Cable MVPD
+
+
+
+Adams Cable
+Altice USA
+
+Optimum
+Suddenlink Communications
+
+
+Armstrong
+Atlantic Broadband
+Blue Ridge Communications
+Blue Stream
+Broadstripe
+Buckeye Broadband
+Cable One
+Charter Spectrum
+Comcast Xfinity
+Consolidated Communications
+
+FairPoint Communications
+
+
+Cox Communications
+Docomo Pacific
+Emery Telcom
+Full Channel
+GCI
+Hargray
+Mediacom
+Midco
+Northland Communications
+Liberty Puerto Rico
+Satview Broadband
+Service Electric
+SRT Communications
+TDS Telecom
+TPG
+
+Grande Communications
+RCN Corporation
+Wave Broadband
+
+
+TruVista Communications
+WOW!
+
+
+
+
+
+Satellite MVPD
+
+
+
+Claro
+Dish Network
+DirecTV
+Glorystar
+Headend in the Sky
+Home2US
+
+
+
+
+
+Fiber MVPD / IPTV
+
+
+
+AT&T U-verse
+CenturyLink Prism TV
+Cincinnati Bell FiOptics
+Claro
+Consolidated Communications
+
+FairPoint Communications
+
+
+EPB
+Frontier FiOS
+Google Fiber
+GTA Teleguam
+Hawaiian Telcom
+Midco
+NEP Datastream TV
+TDS Telecom
+Verizon FiOS
+Windstream Kinetic
+
+
+
+
+
+Virtual MVPD
+
+
+
+DirecTV Now
+FuboTV
+Hulu with Live TV
+Philo
+PlayStation Vue
+Sling TV
+Spectrum TV Stream
+Xfinity Instant TV
+YouTube TV
+
+
+
+
+
+Over-the-top
+
+
+
+Amazon Video
+Anime Network
+Apple TV (iTunes Store)
+CBS All Access
+Crackle
+Crunchyroll
+CW Seed
+CuriosityStream
+DramaFever
+Fandor
+Feeln
+FunimationNow
+go90
+HBO Now
+History Vault
+Hulu
+iON (IPTV)
+Lifetime Movie Club
+Netflix
+Noggin
+Pluto TV
+Roku
+Seeso
+Showtime
+StarzPlay
+Tribeca Shortlist
+Tubi TV
+Univision NOW
+Yupptv
+WWE Network
+
+
+
+
+
+Defunct cable
+
+
+
+Adelphia Communications Corporation
+Alameda Power and Telecom1
+Astound Broadband
+AT&T Broadband
+
+MediaOne / Continental Cablevision
+Tele-Communications Inc.
+
+
+Baja Broadband
+
+US Cable
+
+
+Bresnan Communications
+Bright House Networks
+Cablevision
+Champion Broadband
+Cobridge Communications
+Community Home Entertainment
+Graceba Total Communications
+Insight Communications
+Jones Intercable
+King Videocable
+Knology
+Marcus Cable
+NPG Cable
+Paragon Cable
+Rapid Communications
+TelePrompTer / Group W Cable
+Time Warner Cable
+UA-Columbia Cablevision
+Windjammer Communications
+
+1 – Still in operation, but no longer offers cable or Internet as part of its services
+
+
+
+
+Defunct satellite
+
+
+
+AlphaStar
+GlobeCast World TV
+PrimeStar
+United States Satellite Broadcasting
+Voom HD Networks
+
+
+
+
+
+Defunct IPTV
+
+
+
+Sky Angel
+Virtual Digital Cable
+
+
+
+
+
+Defunct terrestrial
+
+
+
+Aereo
+USDTV
+MovieBeam
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Additional resources on North American television
+
+
+
+North America
+
+
+
+List of local television stations in North America
+DTV transition
+North American TV mini-template
+
+
+
+
+
+Canada
+
+
+
+Canadian networks
+List of Canadian television networks
+List of Canadian television channels
+List of Canadian specialty channels
+Local Canadian TV stations
+List of United States stations available in Canada
+2001 Vancouver TV realignment
+2007 Canada broadcast TV realignment
+
+
+
+
+
+Mexico
+
+
+
+Mexican networks
+Local Mexican TV stations
+
+
+
+
+
+United States
+
+
+
+American networks
+List of American cable and satellite networks
+List of American over-the-air networks
+Local American TV stations (W)
+Local American TV stations (K)
+Spanish-language TV networks
+1994 United States broadcast TV realignment
+2006 United States broadcast TV realignment
+List of Canadian television stations available in the United States
+Insular Areas TV
+
+
+
+
+
+
+
+
+
+
+
+Africa, Asia, and Oceania
+Americas
+Europe
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Headend_in_the_Sky&oldid=768248463"					
+Categories: Comcast subsidiariesLittleton, ColoradoSatellite televisionCable television in the United StatesHidden categories: CS1 errors: datesAll articles with dead external linksArticles with dead external links from December 2014Articles needing additional references from February 2008All articles needing additional referencesAll articles with vague or ambiguous timeVague or ambiguous time from February 2008 

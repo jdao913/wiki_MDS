@@ -1,0 +1,241 @@
+Mayer's relation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Julius von Mayer derived a relation between specific heat at constant pressure and the specific heat at constant volume for an ideal gas. The relation is:
+
+
+
+
+
+C
+
+P
+,
+m
+
+
+−
+
+C
+
+V
+,
+m
+
+
+=
+R
+
+
+{\displaystyle C_{P,m}-C_{V,m}=R}
+
+,
+where CP,m is the molar specific heat at constant pressure, CV,m is the specific heat at constant volume and R is the gas constant.
+For more general homogeneous substances, not just ideal gases, the difference takes the form,
+
+
+
+
+
+
+C
+
+P
+
+
+−
+
+C
+
+V
+
+
+=
+V
+T
+
+
+
+α
+
+2
+
+
+
+β
+
+T
+
+
+
+
+
+
+
+{\displaystyle C_{P}-C_{V}=VT{\frac {\alpha ^{2}}{\beta _{T}}}\,}
+
+
+
+(see relations between heat capacities), where 
+
+
+
+
+C
+
+P
+
+
+
+
+{\displaystyle C_{P}}
+
+ is the heat capacity of a body at constant pressure, 
+
+
+
+
+C
+
+V
+
+
+
+
+{\displaystyle C_{V}}
+
+ is the heat capacity at constant volume, 
+
+
+
+V
+
+
+{\displaystyle V}
+
+ is the volume, 
+
+
+
+T
+
+
+{\displaystyle T}
+
+ is the temperature, 
+
+
+
+
+α
+
+T
+
+
+
+
+{\displaystyle \alpha _{T}}
+
+ is the thermal expansion coefficient and 
+
+
+
+β
+
+
+{\displaystyle \beta }
+
+ is the isothermal compressibility.
+From this relation, several inferences can be made:[1]
+
+Since isothermal compressibility 
+
+
+
+
+β
+
+T
+
+
+
+
+{\displaystyle \beta _{T}}
+
+ is positive for all phases and the square of thermal expansion coefficient 
+
+
+
+
+α
+
+
+
+{\displaystyle {\alpha }}
+
+ is a positive quantity or zero, the specific heat at constant-pressure is always greater than or equal to specific heat at constant-volume.
+
+
+
+
+
+
+
+C
+
+P
+,
+m
+
+
+
+
+{\displaystyle C_{P,m}}
+
+ ≥ 
+
+
+
+
+C
+
+V
+,
+m
+
+
+
+
+{\displaystyle C_{V,m}}
+
+
+
+
+As the absolute temperature of the system approaches zero, the difference between CP,m and CV,m also approaches zero.
+For incompressible substances, CP,m and CV,m are identical. Also for substances that are nearly incompressible, such as solids and liquids, the difference between the two specific heats is negligible.
+
+References[edit]
+
+
+
+^ Boles, Yunus A. Çengel, Michael A. Thermodynamics : an engineering approach (7th ed.). New York: McGraw-Hill. ISBN 0-07-736674-3. 
+
+
+
+
+
+
+Wikimedia Commons has media related to Julius Robert von Mayer.
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Mayer%27s_relation&oldid=811233500"					
+Categories: Thermodynamic equationsHidden categories: Commons category without a link on Wikidata 

@@ -1,0 +1,138 @@
+Randles–Sevcik equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In cyclic voltammetry, the Randles–Sevcik equation describes the effect of scan rate on the peak current ip. For simple redox events such as the ferrocene/ferrocenium couple, ip depends not only on the concentration and diffusional properties of the electroactive species but also on scan rate.[1]
+
+
+
+
+
+i
+
+p
+
+
+=
+0.4463
+ 
+n
+F
+A
+C
+
+
+(
+
+
+
+n
+F
+v
+D
+
+
+R
+T
+
+
+
+)
+
+
+
+1
+2
+
+
+
+
+
+{\displaystyle i_{p}=0.4463\ nFAC\left({\frac {nFvD}{RT}}\right)^{\frac {1}{2}}}
+
+
+Or if the solution is at 25 °C:[2]
+
+
+
+
+
+i
+
+p
+
+
+=
+268
+,
+600
+ 
+
+n
+
+
+3
+2
+
+
+
+A
+
+D
+
+
+1
+2
+
+
+
+C
+
+v
+
+
+1
+2
+
+
+
+
+
+{\displaystyle i_{p}=268,600\ n^{\frac {3}{2}}AD^{\frac {1}{2}}Cv^{\frac {1}{2}}}
+
+
+
+ip = current maximum in amps
+n = number of electrons transferred in the redox event (usually 1)
+A = electrode area in cm2
+F = Faraday Constant in C mol−1
+D = diffusion coefficient in cm2/s
+C = concentration in mol/cm3
+ν = scan rate in V/s
+R = Gas constant in J K−1 mol−1
+T = temperature in K
+
+For novices in electrochemistry, the predictions of this equation appear counter-intuitive, i.e. that ip increases at faster voltage scan rates. It is important to remember that current, i, is charge (or electrons passed) per unit time. In cyclic voltammetry, the current passing through the electrode is limited by the diffusion of species to the electrode surface. This diffusion flux is influenced by the concentration gradient near the electrode. The concentration gradient, in turn, is affected by the concentration of species at the electrode, and how fast the species can diffuse through solution. By changing the cell voltage, the concentration of the species at the electrode surface is also changed, as set by the Nernst equation. Therefore, a faster voltage sweep causes a larger concentration gradient near the electrode, resulting in a higher current.
+Uses[edit]
+Using the relationships defined by this equation, the diffusion coefficient of the electroactive species can be determined. Linear plots of ip vs. ν1/2 provide evidence for a chemically reversible redox process vs the cases where redox causes major structural change in the analyte. For species where the diffusion coefficient is known (or can be estimated), the slope of the plot of ip vs. ν1/2 provides information into the stoichiometry of the redox process.
+References[edit]
+
+
+^ P. Zanello, "Inorganic Electrochemistry: Theory, Practice and Application" The Royal Society of Chemistry 2003. ISBN 0-85404-661-5
+^ Crouch, Stanley R and Skoog, Douglas A: "Principles of instrumental analysis" Cengage Learning 2006, ISBN 0-49501-201-7
+
+
+See also[edit]
+
+On-line calculator for use of Randles–Sevcik equation:http://www.calctool.org/CALC/chem/electrochem/cv1
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Randles–Sevcik_equation&oldid=787686272"					
+Categories: Electrochemical equations 

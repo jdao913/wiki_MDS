@@ -1,0 +1,867 @@
+Chemical equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article relies largely or entirely on a single source. Relevant discussion may be found on the talk page. Please help improve this article by introducing citations to additional sources. (September 2011)
+
+
+
+A chemical equation is the symbolic representation of a chemical reaction in the form of symbols and formulae, wherein the reactant entities are given on the left-hand side and the product entities on the right-hand side.[1] The coefficients next to the symbols and formulae of entities are the absolute values of the stoichiometric numbers. The first chemical equation was diagrammed by Jean Beguin in 1615.[2]
+
+
+
+Contents
+
+
+1 Formation of chemical reaction
+2 Common symbols
+3 Balancing chemical equations
+
+3.1 Matrix Method
+
+
+4 Ionic equations
+5 References
+
+
+
+Formation of chemical reaction
+A chemical equation consists of the chemical formulas of the reactants (the starting substances) and the chemical formula of the products (substances formed in the chemical reaction). The two are separated by an arrow symbol (
+
+
+
+→
+
+
+{\displaystyle \rightarrow }
+
+, usually read as "yields") and each individual substance's chemical formula is separated from others by a plus sign.
+As an example, the equation for the reaction of hydrochloric acid with sodium can be denoted:
+
+2 HCl + 2 Na → 2 NaCl + H
+2
+
+This equation would be read as "two HCl plus two Na yields two NaCl and H two." But, for equations involving complex chemicals, rather than reading the letter and its subscript, the chemical formulas are read using IUPAC nomenclature. Using IUPAC nomenclature, this equation would be read as "hydrochloric acid plus sodium yields sodium chloride and hydrogen gas."
+This equation indicates that sodium and HCl react to form NaCl and H2. It also indicates that two sodium molecules are required for every two hydrochloric acid molecules and the reaction will form two sodium chloride molecules and one diatomic molecule of hydrogen gas molecule for every two hydrochloric acid and two sodium molecules that react. The stoichiometric coefficients (the numbers in front of the chemical formulas) result from the law of conservation of mass and the law of conservation of charge (see "Balancing Chemical Equation" section below for more information).
+Common symbols
+Symbols are used to differentiate between different types of reactions. To denote the type of reaction:[1]
+
+"
+
+
+
+=
+
+
+{\displaystyle =}
+
+" symbol is used to denote a stoichiometric relation.
+"
+
+
+
+→
+
+
+{\displaystyle \rightarrow }
+
+" symbol is used to denote a net forward reaction.
+"
+
+
+
+⇄
+
+
+{\displaystyle \rightleftarrows }
+
+" symbol is used to denote a reaction in both directions.
+"
+
+
+
+⇌
+
+
+{\displaystyle \rightleftharpoons }
+
+" symbol is used to denote an equilibrium.
+
+The physical state of chemicals is also very commonly stated in parentheses after the chemical symbol, especially for ionic reactions. When stating physical state, (s) denotes a solid, (l) denotes a liquid, (g) denotes a gas and (aq) denotes an aqueous solution.
+If the reaction requires energy, it is indicated above the arrow. A capital Greek letter delta (
+
+
+
+Δ
+
+
+{\displaystyle \Delta }
+
+) is put on the reaction arrow to show that energy in the form of heat is added to the reaction. 
+
+
+
+h
+ν
+
+
+{\displaystyle h\nu }
+
+ is used if the energy is added in the form of light. Other symbols are used for other specific types of energy or radiation.
+Balancing chemical equations
+
+
+
+
+As seen from the equation CH
+4 + 2 O
+2 → CO
+2 + 2 H
+2O, a coefficient of 2 must be placed before the oxygen gas on the reactants side and before the water on the products side in order for, as per the law of conservation of mass, the quantity of each element does not change during the reaction
+
+
+
+
+
+
+P4O10 + 6 H2O → 4 H3PO4
+This chemical equation is being balanced by first multiplying H3PO4 by four to match the number of P atoms, and then multiplying H2O by six to match the numbers of H and O atoms.
+
+
+The law of conservation of mass dictates that the quantity of each element does not change in a chemical reaction. Thus, each side of the chemical equation must represent the same quantity of any particular element. Likewise, the charge is conserved in a chemical reaction. Therefore, the same charge must be present on both sides of the balanced equation.
+One balances a chemical equation by changing the scalar number for each chemical formula. Simple chemical equations can be balanced by inspection, that is, by trial and error. Another technique involves solving a system of linear equations.
+Balanced equations are written with smallest whole-number coefficients. If there is no coefficient before a chemical formula, the coefficient 1 is understood.
+The method of inspection can be outlined as putting a coefficient of 1 in front of the most complex chemical formula and putting the other coefficients before everything else such that both sides of the arrows have the same number of each atom. If any fractional coefficient exists, multiply every coefficient with the smallest number required to make them whole, typically the denominator of the fractional coefficient for a reaction with a single fractional coefficient.
+As an example, seen in the above image, the burning of methane would be balanced by putting a coefficient of 1 before the CH4:
+
+1 CH4 + O2 → CO2 + H2O
+
+Since there is one carbon on each side of the arrow, the first atom (carbon) is balanced.
+Looking at the next atom (hydrogen), the right-hand side has two atoms, while the left-hand side has four. To balance the hydrogens, 2 goes in front of the H2O, which yields:
+
+1 CH4 + O2 → CO2 + 2 H2O
+
+Inspection of the last atom to be balanced (oxygen) shows that the right-hand side has four atoms, while the left-hand side has two. It can be balanced by putting a 2 before O2, giving the balanced equation:
+
+CH4 + 2 O2 → CO2 + 2 H2O
+
+This equation does not have any coefficients in front of CH4 and CO2, since a coefficient of 1 is dropped.
+Matrix Method
+Generally, any chemical equation involving J different molecules can be written as:
+
+
+
+
+
+
+∑
+
+j
+=
+1
+
+
+J
+
+
+
+ν
+
+j
+
+
+
+R
+
+j
+
+
+=
+0
+
+
+{\displaystyle \sum _{j=1}^{J}\nu _{j}R_{j}=0}
+
+
+
+where Rj is the symbol for the j-th molecule, and νj is the stoichiometric coefficient for the j-th molecule, positive for products, negative for reactants (or vice-versa). A properly balanced chemical equation will then obey:
+
+
+
+
+
+
+∑
+
+j
+=
+1
+
+
+J
+
+
+
+a
+
+i
+j
+
+
+
+ν
+
+j
+
+
+=
+0
+
+
+{\displaystyle \sum _{j=1}^{J}a_{ij}\nu _{j}=0}
+
+
+
+where the composition matrix aij is the number of atoms of element i in molecule j. Any vector which, when operated upon by the composition matrix yields a zero vector, is said to be a member of the kernel or null space of the operator. Any member νj of the null space of aij will serve to balance a chemical equation involving the set of J molecules comprising the system. A "preferred" stoichiometric vector is one for which all of its elements can converted to integers with no common divisors by multiplication by a suitable constant.
+Generally, the composition matrix is degenerate: That is to say, not all of its rows will be linearly independent. In other words, the rank (JR) of the composition matrix is generally less than its number of columns (J). By the rank-nullity theorem, the null space of aij will have J-JR dimensions and this number is called the nullity (JN) of aij. The problem of balancing a chemical equation then becomes the problem of determining the JN-dimensional null space of the composition matrix. It is important to note that only for JN=1, will there be a unique solution. For JN>1 there will be an infinite number of solutions to the balancing problem, but only JN of them will be independent: If JN independent solutions to the balancing problem can be found, then any other solution will be a linear combination of these solutions. If JN=0, there will be no solution to the balancing problem.
+Techniques have been developed [3][4] to quickly calculate a set of JN independent solutions to the balancing problem and are superior to the inspection and algebraic method in that they are determinative and yield all solutions to the balancing problem.
+Ionic equations
+An ionic equation is a chemical equation in which electrolytes are written as dissociated ions. Ionic equations are used for single and double displacement reactions that occur in aqueous solutions.
+For example, in the following precipitation reaction:
+
+
+
+
+
+
+
+
+CaCl
+
+2
+
+
+
+
+
+
++
+2
+
+
+AgNO
+
+3
+
+
+
+
+
+⟶
+
+Ca
+
+
+(
+
+NO
+
+3
+
+
+
+
+
+)
+
+
+2
+
+
+
+
+
+
++
+2
+
+AgCl
+
+↓
+
+
+
+
+{\displaystyle {\ce {{CaCl2}+2AgNO3->{Ca(NO3)2}+2AgCl(v)}}}
+
+
+
+the full ionic equation is:
+
+
+
+
+
+
+
+
+Ca
+
+
+
+2
+
++
+
+
+
++
+
+2
+
+
+Cl
+
+
+
+−
+
+
+
++
+
+2
+
+
+Ag
+
+
+
++
+
+
+
++
+2
+
+
+NO
+
+3
+
+
+−
+
+
+⟶
+
+
+Ca
+
+
+
+2
+
++
+
+
+
++
+
+2
+
+
+NO
+
+3
+
+
+−
+
+
+
++
+2
+
+AgCl
+
+↓
+
+
+
+
+{\displaystyle {\ce {{Ca^{2+}}+{2Cl^{-}}+{2Ag+}+2NO3^{-}->{Ca^{2+}}+{2NO3^{-}}+2AgCl(v)}}}
+
+
+
+In this reaction, the Ca2+ and the NO3− ions remain in solution and are not part of the reaction. That is, these ions are identical on both the reactant and product side of the chemical equation. Because such ions do not participate in the reaction, they are called spectator ions. A net ionic equation is the full ionic equation from which the spectator ions have been removed. The net ionic equation of the proceeding reactions is:
+
+
+
+
+
+
+
+2
+
+
+Cl
+
+
+
+−
+
+
+
++
+2
+
+
+Ag
+
+
+
++
+
+
+⟶
+2
+
+AgCl
+
+↓
+
+
+
+
+{\displaystyle {\ce {{2Cl^{-}}+2Ag+->2AgCl(v)}}}
+
+
+
+or, in reduced balanced form,
+
+
+
+
+
+
+
+
+Ag
+
+
+
++
+
+
+
++
+
+Cl
+
+
+
+−
+
+
+⟶
+AgCl
+
+↓
+
+
+
+
+{\displaystyle {\ce {{Ag+}+Cl^{-}->AgCl(v)}}}
+
+
+
+In a neutralization or acid/base reaction, the net ionic equation will usually be:
+
+H+(aq) + OH−(aq) → H2O(l)
+
+There are a few acid/base reactions that produce a precipitate in addition to the water molecule shown above. An example is the reaction of barium hydroxide with phosphoric acid, which produces not only water but also the insoluble salt barium phosphate. In this reaction, there are no spectator ions, so the net ionic equation is the same as the full ionic equation.
+
+
+
+
+
+
+
+3
+
+Ba
+
+
+(
+OH
+)
+
+
+2
+
+
+
+
+
+
++
+2
+
+
+H
+
+3
+
+
+
+
+
+
+PO
+
+4
+
+
+
+
+
+⟶
+
+6
+
+
+H
+
+2
+
+
+
+
+
+O
+
++
+
+Ba
+
+3
+
+
+
+
+
+
+
+(
+
+PO
+
+4
+
+
+
+
+
+)
+
+
+2
+
+
+
+
+
+
+↓
+
+
+
+
+{\displaystyle {\ce {{3Ba(OH)2}+2H3PO4->{6H2O}+Ba3(PO4)2(v)}}}
+
+
+
+
+
+
+
+
+3
+
+
+Ba
+
+2
+
+
++
+
+
+
++
+
+6
+
+
+OH
+
+
+
+−
+
+
+
++
+
+6
+
+
+H
+
+
+
++
+
+
+
++
+2
+
+
+PO
+
+4
+
+
+3
+
+
+−
+
+
+
+⟶
+
+6
+
+
+H
+
+2
+
+
+
+
+
+O
+
++
+
+Ba
+
+3
+
+
+
+
+
+
+
+(
+
+PO
+
+4
+
+
+
+
+
+)
+
+
+2
+
+
+
+
+
+
+↓
+
+
+
+
+{\displaystyle {\ce {{3Ba2+}+{6OH^{-}}+{6H+}+2PO4^{3-}->{6H2O}+Ba3(PO4)2(v)}}}
+
+
+
+Double displacement reactions that feature a carbonate reacting with an acid have the net ionic equation:
+
+
+
+
+
+
+
+2
+
+
+H
+
+
+
++
+
+
+
++
+
+CO
+
+3
+
+
+2
+
+
+−
+
+
+
+⟶
+
+
+H
+
+2
+
+
+
+
+
+O
+
++
+
+CO
+
+2
+
+
+
+
+
+↑
+
+
+
+{\displaystyle {\ce {{2H+}+CO3^{2-}->{H2O}+CO2\uparrow }}}
+
+
+
+If every ion is a "spectator ion" then there was no reaction, and the net ionic equation is null.
+Generally, if zj is the multiple of elementary charge on the j-th molecule, charge neutrality may be written as:
+
+
+
+
+
+
+∑
+
+j
+=
+1
+
+
+J
+
+
+
+z
+
+j
+
+
+
+ν
+
+j
+
+
+=
+0
+
+
+{\displaystyle \sum _{j=1}^{J}z_{j}\nu _{j}=0}
+
+
+
+where the νj are the stoichiometric coefficients described above. The zj may be incorporated[3][5] as an additional row in the aij matrix described above, and a properly balanced ionic equation will then also obey:
+
+
+
+
+
+
+∑
+
+j
+=
+1
+
+
+J
+
+
+
+a
+
+i
+j
+
+
+
+ν
+
+j
+
+
+=
+0
+
+
+{\displaystyle \sum _{j=1}^{J}a_{ij}\nu _{j}=0}
+
+
+
+References
+
+
+
+^ a b IUPAC. Compendium of Chemical Terminology, 2nd ed. ISBN 0-9678550-9-8.
+^ Crosland, M.P. (1959). "The use of diagrams as chemical 'equations' in the lectures of William Cullen and Joseph Black". Annals of Science. 15 (2): 75–90. doi:10.1080/00033795900200088. 
+^ a b Thorne, Lawrence R. (2010). "An Innovative Approach to Balancing Chemical-Reaction Equations: A Simplified Matrix-Inversion Technique for Determining the Matrix Null Space". Chem. Educator. 15: 304–308. Retrieved Oct 10, 2017. 
+^ Holmes, Dylan (2015). "The null space's insight into chemical balance". Dylan Holmes. Retrieved Oct 10, 2017. 
+^ Cite error: The named reference Dylan2015 was invoked but never defined (see the help page).
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Chemical_equation&oldid=811659502"					
+Categories: StoichiometryEquationsChemistryHidden categories: Pages with reference errorsPages with broken reference namesWikipedia semi-protected pagesArticles needing additional references from September 2011All articles needing additional references 

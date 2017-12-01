@@ -1,0 +1,420 @@
+Lander, Parkin, and Selfridge conjecture - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Lander, Parkin, and Selfridge conjecture concerns the integer solutions of equations which contain sums of like powers. The equations are generalisations of those considered in Fermat's Last Theorem. The conjecture is that if the sum of some k-th powers equals the sum of some other k-th powers, then the total number of terms in both sums combined must be at least k.
+
+
+
+Contents
+
+
+1 Background
+2 Conjecture
+
+2.1 k = 3
+2.2 k = 4
+2.3 k = 5
+2.4 k = 6
+2.5 k = 7
+2.6 k = 8
+2.7 k ≥ 9
+
+
+3 Current Status
+4 See also
+5 References
+6 External links
+
+
+
+Background[edit]
+Diophantine equations, such as the integer version of the equation a2 + b2 = c2 that appears in the Pythagorean theorem, have been studied for their integer solution properties for centuries. Fermat's Last Theorem states that for powers greater than 2, the equation ak + bk = ck has no solutions with three positive integers a, b, c. Extending the number of terms on either or both sides, and allowing for higher powers than 2, led to Leonhard Euler to propose in 1769 that for all integers n and k greater than 1, if the sum of n kth powers of positive integers is itself a kth power, then n is greater than or equal to k.
+In symbols, if 
+
+
+
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+a
+
+i
+
+
+k
+
+
+=
+
+b
+
+k
+
+
+
+
+{\displaystyle \sum _{i=1}^{n}a_{i}^{k}=b^{k}}
+
+ where n > 1 and 
+
+
+
+
+a
+
+1
+
+
+,
+
+a
+
+2
+
+
+,
+…
+,
+
+a
+
+n
+
+
+,
+b
+
+
+{\displaystyle a_{1},a_{2},\dots ,a_{n},b}
+
+ are positive integers, then his conjecture was that n ≥ k.
+In 1966, a counterexample to Euler's sum of powers conjecture was found by Leon J. Lander and Thomas R. Parkin for k = 5:[1]
+
+
+
+275 + 845 + 1105 + 1335 = 1445.
+
+
+
+In subsequent years further counterexamples were found, including for k = 4. The latter disproved the more specific Euler quartic conjecture, namely that a4 + b4 + c4 = d4 has no positive integer solutions. In fact, the smallest solution, found in 1988, is
+
+
+
+4145604 + 2175194 + 958004 = 4224814.
+
+
+
+Conjecture[edit]
+In 1967, L. J. Lander, T. R. Parkin, and John Selfridge conjectured[2] that if 
+
+
+
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+a
+
+i
+
+
+k
+
+
+=
+
+∑
+
+j
+=
+1
+
+
+m
+
+
+
+b
+
+j
+
+
+k
+
+
+
+
+{\displaystyle \sum _{i=1}^{n}a_{i}^{k}=\sum _{j=1}^{m}b_{j}^{k}}
+
+, where ai ≠ bj are positive integers for all 1 ≤ i ≤ n and 1 ≤ j ≤ m, then m+n ≥ k. The equal sum of like powers formula is often abbreviated as (k, m, n).
+Small examples with m = n = k/2 (related to generalized taxicab number) include 
+
+
+
+
+59
+
+4
+
+
++
+
+158
+
+4
+
+
+=
+
+133
+
+4
+
+
++
+
+134
+
+4
+
+
+
+
+{\displaystyle 59^{4}+158^{4}=133^{4}+134^{4}}
+
+ (known to Euler) and 
+
+
+
+
+3
+
+6
+
+
++
+
+19
+
+6
+
+
++
+
+22
+
+6
+
+
+=
+
+10
+
+6
+
+
++
+
+15
+
+6
+
+
++
+
+23
+
+6
+
+
+
+
+{\displaystyle 3^{6}+19^{6}+22^{6}=10^{6}+15^{6}+23^{6}}
+
+ (found by K. Subba Rao in 1934).
+The conjecture implies in the special case of m = 1 that if
+
+
+
+
+
+
+
+
+∑
+
+i
+=
+1
+
+
+n
+
+
+
+a
+
+i
+
+
+k
+
+
+=
+
+b
+
+k
+
+
+
+
+{\displaystyle \sum _{i=1}^{n}a_{i}^{k}=b^{k}}
+
+
+
+
+
+(under the conditions given above) then n ≥ k−1.
+For this special case of m = 1, some of the known solutions satisfying the proposed constraint with n ≤ k, where terms are positive integers, hence giving a partition of a power into like powers, are:[3]
+k = 3[edit]
+
+
+
+33 + 43 + 53 = 63.
+
+
+
+k = 4[edit]
+
+
+
+958004 + 2175194 + 4145604 = 4224814, (Roger Frye, 1988)
+
+
+
+
+
+
+304 + 1204 + 2724 + 3154 = 3534, (R. Norrie, 1911)
+
+
+
+Fermat's Last Theorem states that in this case the conjecture is true.
+k = 5[edit]
+
+
+
+275 + 845 + 1105 + 1335 = 1445, (Lander, Parkin, 1966)
+
+
+
+
+
+
+75 + 435 + 575 + 805 + 1005 = 1075, (Sastry, 1934, third smallest)
+
+
+
+k = 6[edit]
+
+
+
+(None known; there are no solutions whose final term is ≤ 272580.)[citation needed]
+
+
+
+k = 7[edit]
+
+
+
+1277 + 2587 + 2667 + 4137 + 4307 + 4397 + 5257 = 5687, (M. Dodrill, 1999)
+
+
+
+k = 8[edit]
+
+
+
+908 + 2238 + 4788 + 5248 + 7488 + 10888 + 11908 + 13248 = 14098, (Scott Chase, 2000)
+
+
+
+k ≥ 9[edit]
+
+
+
+(None known.)
+
+
+
+Current Status[edit]
+It is not known if the conjecture is true, or if solutions exist that would be counterexamples, such as ak + bk = ck + dk for k ≥ 5.
+See also[edit]
+
+Experimental mathematics (counterexamples to Euler's sum of powers conjecture, especially smallest solution for k = 4)
+Jacobi–Madden equation
+Prouhet–Tarry–Escott problem
+Beal's conjecture
+Pythagorean quadruple
+List of unsolved problems in mathematics
+Sums of powers, a list of related conjectures and theorems
+
+References[edit]
+
+
+
+^ L. J. Lander; T. R. Parkin (1966). "Counterexample to Euler's conjecture on sums of like powers". Bull. Amer. Math. Soc. 72: 1079. doi:10.1090/S0002-9904-1966-11654-3. 
+^ L. J. Lander; T. R. Parkin; J. L. Selfridge (1967). "A Survey of Equal Sums of Like Powers". Mathematics of Computation. 21 (99): 446–459. doi:10.1090/S0025-5718-1967-0222008-0. JSTOR 2003249. 
+^ Quoted in Meyrignac, Jean-Charles (14 February 2001). "Computing Minimal Equal Sums Of Like Powers: Best Known Solutions". Retrieved 17 July 2017. 
+
+
+
+
+Guy, Richard K. (2004). Unsolved Problems in Number Theory. Problem Books in Mathematics (3rd ed.). New York, NY: Springer-Verlag. D1. ISBN 0-387-20860-7. Zbl 1058.11001. 
+
+External links[edit]
+
+EulerNet: Computing Minimal Equal Sums Of Like Powers
+Jaroslaw Wroblewski Equal Sums of Like Powers
+Tito Piezas III: A Collection of Algebraic Identities
+Weisstein, Eric W. "Diophantine Equation--5th Powers". MathWorld. 
+Weisstein, Eric W. "Diophantine Equation--6th Powers". MathWorld. 
+Weisstein, Eric W. "Diophantine Equation--7th Powers". MathWorld. 
+Weisstein, Eric W. "Diophantine Equation--8th Powers". MathWorld. 
+Weisstein, Eric W. "Euler's Sum of Powers Conjecture". MathWorld. 
+Weisstein, Eric W. "Euler Quartic Conjecture". MathWorld. 
+Weisstein, Eric W. "Diophantine Equation--4th Powers". MathWorld. 
+Euler's Conjecture at library.thinkquest.org
+A simple explanation of Euler's Conjecture at Maths Is Good For You!
+Mathematicians Find New Solutions To An Ancient Puzzle
+Ed Pegg Jr. Power Sums, Math Games
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Lander,_Parkin,_and_Selfridge_conjecture&oldid=812348412"					
+Categories: Diophantine equationsConjecturesHidden categories: All articles with unsourced statementsArticles with unsourced statements from November 2017 

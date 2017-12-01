@@ -1,0 +1,106 @@
+Heegner's lemma - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, Heegner's lemma is a lemma used by Kurt Heegner in his paper on the class number problem. His lemma states that if
+
+
+
+
+
+
+y
+
+2
+
+
+=
+
+a
+
+4
+
+
+
+x
+
+4
+
+
++
+
+a
+
+3
+
+
+
+x
+
+3
+
+
++
+
+a
+
+2
+
+
+
+x
+
+2
+
+
++
+
+a
+
+1
+
+
+x
++
+
+a
+
+0
+
+
+
+
+{\displaystyle y^{2}=a_{4}x^{4}+a_{3}x^{3}+a_{2}x^{2}+a_{1}x+a_{0}}
+
+
+
+is a curve over a field with a4 not a square, then it has a solution if it has a solution in an extension of odd degree.
+References[edit]
+
+Birch, Bryan (2004), "Heegner points: the beginnings", in Darmon, Henri; Zhang, Shou-Wu, Heegner points and Rankin L-series, Math. Sci. Res. Inst. Publ., 49, Cambridge University Press, pp. 1–10, doi:10.1017/CBO9780511756375.002, ISBN 978-0-521-83659-3, MR 2083207 
+
+
+
+
+
+This number theory-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Heegner%27s_lemma&oldid=797827484"					
+Categories: Diophantine equationsTheorems in number theoryNumber theory stubsHidden categories: All stub articles 

@@ -1,0 +1,32 @@
+Noether identities - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, Noether identities characterize the degeneracy of a Lagrangian system. Given a Lagrangian system and its Lagrangian L, Noether identities can be defined as a differential operator whose kernel contains a range of the Euler–Lagrange operator of L. Any Euler–Lagrange operator obeys Noether identities which therefore are separated into the trivial and non-trivial ones. A Lagrangian L is called degenerate if the Euler–Lagrange operator of L satisfies non-trivial Noether identities. In this case Euler–Lagrange equations are not independent.
+Noether identities need not be independent, but satisfy first-stage Noether identities, which are subject to the second-stage Noether identities and so on. Higher-stage Noether identities also are separated into the trivial and non-trivial once. A degenerate Lagrangian is called reducible if there exist non-trivial higher-stage Noether identities. Yang–Mills gauge theory and gauge gravitation theory exemplify irreducible Lagrangian field theories.
+Different variants of second Noether’s theorem state the one-to-one correspondence between the non-trivial reducible Noether identities and the non-trivial reducible gauge symmetries. Formulated in a very general setting, second Noether’s theorem associates to the Koszul–Tate complex of reducible Noether identities, parameterized by antifields, the BRST complex of reducible gauge symmetries parameterized by ghosts. This is the case of covariant classical field theory and Lagrangian BRST theory.
+See also[edit]
+
+Noether's second theorem
+Emmy Noether
+Lagrangian system
+Variational bicomplex
+Gauge symmetry (mathematics)
+
+References[edit]
+
+Gomis, J., Paris, J., Samuel, S., Antibracket, antifields and gauge theory quantization, Phys. Rep. 259 (1995) 1.
+Fulp, R., Lada, T., Stasheff, J.. Noether variational theorem II and the BV formalism, arXiv: math/0204079
+Bashkirov, D., Giachetta, G., Mangiarotti, L., Sardanashvily, G., The KT-BRST complex of a degenerate Lagrangian system, Lett. Math. Phys. 83 (2008) 237; arXiv: math-ph/0702097.
+Sardanashvily, G., Noether theorems in a general setting, arXiv 1411.2910.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Noether_identities&oldid=793715109"					
+Categories: Calculus of variationsDifferential equationsTheoretical physicsMathematical identities 

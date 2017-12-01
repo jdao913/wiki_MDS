@@ -1,0 +1,485 @@
+XETV-TDT - Wikipedia
+
+
+From Wikipedia, the free encyclopedia   (Redirected from Bay City Television)
+
+					Jump to:					navigation, 					search
+
+
+XETV-TDT
+
+
+
+
+Tijuana, Baja California
+Mexico
+
+
+Branding
+Canal 5
+
+
+Slogan
+Porque Sí
+(Just Because)
+
+
+Channels
+Digital: 23 (UHF)
+Virtual: 6 (PSIP)
+
+
+Subchannels
+See Below
+
+
+Affiliations
+Canal 5
+
+
+Owner
+Televisa
+(Radio Televisión, S.A. de C.V.)
+
+
+First air date
+April 29, 1953; 64 years ago (1953-04-29)
+
+
+Call letters' meaning
+XE (Mexican ITU prefix)
+TeleVision
+
+
+Sister station(s)
+XEWT-TDT, XHUAA-TDT
+
+
+Former channel number(s)
+
+
+
+Analog:
+6 (VHF, 1953–2013)
+
+
+
+
+
+Former affiliations
+
+
+
+Independent (1953–1956, 1973–1986)
+ABC (1956–1973)
+Fox (1986–2008)
+The CW (2008–2017)
+
+
+
+
+
+Transmitter power
+200 kW[1]
+
+
+Height
+215.0 meters (705.4 ft)
+
+
+Transmitter coordinates
+32°30′7.9″N 117°2′26.8″W﻿ / ﻿32.502194°N 117.040778°W﻿ / 32.502194; -117.040778Coordinates: 32°30′7.9″N 117°2′26.8″W﻿ / ﻿32.502194°N 117.040778°W﻿ / 32.502194; -117.040778
+
+
+Licensing authority
+IFT
+
+
+Website
+www.televisa.com/canal5/
+
+
+XETV-TDT, channel 6, is a television station located in Tijuana, Baja California, Mexico, carrying the Canal 5 network. XETV's over-the-air signal also covers the San Diego, California area across the international border in the United States. The station is owned by Mexican media company Grupo Televisa, and its technical operations and transmitter facilities are located on Mount San Antonio in Tijuana.
+From its initial sign-on in 1953 until 2017, XETV broadcast English language programming and operated business offices, and later a studio and newsroom, in San Diego. The station's American operations were managed by Bay City Television, a California-based corporation owned by Televisa.[2][3] In January 2017, the CW announced it would move its San Diego affiliation from XETV's main channel to a subchannel of KFMB-TV (channel 8.2), effective May 31. XETV ceased its San Diego operations on that same date.
+
+
+
+Contents
+
+
+1 History
+
+1.1 Early years
+1.2 Joining ABC
+1.3 Transition
+1.4 As a Fox affiliate
+1.5 As a CW affiliate
+1.6 Operation closure
+
+
+2 Special broadcast authority
+3 Digital television
+
+3.1 Digital channels
+3.2 Conversion history
+3.3 Repeaters
+
+
+4 Programming
+5 News operation
+
+5.1 On-air staff
+
+5.1.1 Notable former on-air staff
+
+
+
+
+6 Radio
+7 References
+8 External links
+
+
+
+History[edit]
+Early years[edit]
+XETV came into existence because of a technical quirk affecting stations in San Diego and Los Angeles. Even after the Federal Communications Commission's Sixth Report and Order lifted a four-year-long freeze on awarding television construction permits in 1952, signing on a third television station in the San Diego market proved difficult. While San Diego and Los Angeles are not close enough that one city's stations can be seen clearly over the air in the other, the unique geography of Southern California results in tropospheric propagation. This phenomenon makes co-channel interference a significant enough problem that the two cities must share the VHF band.[citation needed]
+By 1952, San Diego (assigned channels 8 and 10) and Los Angeles (assigned channels 2, 4, 5, 7, 9, 11 and 13) already had all but three channels on the VHF band covered. Channel 3 initially had been deemed unusable as a signal because KEYT-TV in Santa Barbara would travel in a straight line across the Pacific Ocean (it would ultimately be allocated to Tijuana Canal Once outlet XHTJB-TV). San Diego's first two television stations, KFMB-TV (channel 8) and KFSD-TV (channel 10, now KGTV), which were respectively affiliated with CBS and NBC, were among the last construction permits issued before the FCC's freeze on new television station licenses went into effect. The UHF band, introduced by the FCC after the freeze, was not seen as a viable option; television set makers were not required to include UHF tuners until 1964 as a result of the passage of the All-Channel Receiver Act. Additionally, several portions of San Diego County are very mountainous, and UHF signals do not carry very well across rugged terrain.[citation needed]
+Complicating matters, the Mexican authorities had allocated two VHF channels to neighboring Tijuana – channels 6 and 12. Since these were the last two VHF channels left in the area, the FCC did not accept any new construction permits from San Diego as a courtesy to Mexican authorities. One of the frequencies, channel 6, had originally been assigned to San Diego before the freeze; it was reassigned to Mexico as a result of the Sixth Report and Order.[4]
+Although San Diego was large enough to support three television stations, it soon became obvious that the only way to get a third VHF station on the air would be to use one of Tijuana's allocations. The Azcárraga family, owners of Telesistema Mexicano (the forerunner of Televisa), quickly snapped up the concession for channel 6, and signed XETV on the air on April 29, 1953.[5] It is the San Diego area's second-oldest television station after KFMB-TV, which began operations on May 16, 1949.
+At its launch, XETV was an independent station, broadcasting programs in both English and Spanish from its studio facilities in Tijuana.[6][7] Channel 6 also established a business office on Park Boulevard in the University Heights section of San Diego, which handled sales accounts from north of the border. The Azcárragas chose to focus XETV toward San Diego and its English-speaking audience because there were more households in that side of the market that had television sets at the time than there were in Tijuana,[8] which did not get its own all-Spanish station until 1960 when the Azcárragas signed on sister station XEWT-TV (channel 12).[7] Owing to its initial bilingual, bi-national audience, XETV billed itself as "The International Station" during its early years.[9]
+Joining ABC[edit]
+In January 1953, former ABC programming executive Alvin George Flanagan filed an application with the FCC to supply programming to XETV via microwave relay from San Diego.[10] Flanagan's request was neither approved or denied and he took a position with Los Angeles station KLAC-TV (now KCOP) in early 1954.
+A subsequent petition by ABC to allow it to transmit network programming across the Mexican border to XETV via microwave relay was approved in November 1955.[11] Pending the outcome of an appeal by KFMB-TV and KFSD-TV, ABC signed an affiliation deal with XETV which allowed channel 6 to carry network programming via film and kinescope; that became effective April 5, 1956[12] and replaced the part-time carriage of ABC programming by the two San Diego-licensed stations.
+The original decision was stayed by the United States Court of Appeals due to the decision having been made in the absence of hearings by the FCC; after hearings were held, the FCC upheld the grant in October 1956. KFMB-TV again appealed the grant and the Appeals Court remanded the decision to the FCC.[13] The Commission again upheld the grant on April 22, 1958; in November of that year, KFMB-TV again asked for revocation, based on an ad in Broadcasting which XETV identified itself as a San Diego station.[14]
+Throughout XETV's tenure with ABC, network programs were received via microwave and AT&T cable at the station's San Diego offices, where they were reproduced (on film or kinescope, and later videotape) and then physically transported to channel 6's transmission facilities in Tijuana, a practice known in the television industry as "bicycling". While this arrangement legally circumvented the station's inability to receive and broadcast a direct network feed from across the international border, it left XETV unable to carry live network programming, such as breaking news events and some sports coverage. The FCC held the option of renewing the authorization on an annual basis, as well as reviewing it if – and when – a third commercial television station signed on in the American side of the market.[15]
+XETV cleared most ABC programs, with one exception: an episode of Marcus Welby, M.D. was self-censored, as it depicted an abortion in a Mexican border town at a time when abortion in Mexico was still illegal.[16]
+Transition[edit]
+In 1968, as it had every year since 1956, the FCC renewed its permit allowing ABC to provide programming to XETV. Only this time, Western Telecasters, which owned independent UHF station KCST (channel 39, now KNSD) at the time, contested it and began a lengthy battle to take San Diego's ABC affiliation from XETV. KCST claimed that it was no longer appropriate for a Mexican-licensed station to be affiliated with an American television network when there now was a viable American station available, and also asserted that XETV had lacked local programming that effectively served the San Diego audience.[17][18][19] In May 1972 the FCC, siding with KCST, revoked channel 6's permission to carry ABC programming, with the wording of the Commission's decision forcing ABC to move its affiliation to KCST.[20] XETV and ABC then went to the U.S. Court of Appeals, who upheld the FCC ruling;[21] the station later sought relief at the U.S. Supreme Court, and was also denied.[22]
+XETV surrendered the ABC affiliation to KCST in two stages: daytime programming moved to KCST in June 1973, followed by primetime programs and all other shows (including children's programming and sports) by July 1, 1973.[23] In spite of seeing ratings gains both nationally and locally,[24] ABC was dissatisfied with having been forced onto a UHF station and stayed with KCST for only four years before moving to KGTV in 1977.[25][26]
+XETV once again became an independent station, with a standard program schedule composed of syndicated offerings, off-network programs, movies and children's shows. In addition, because Mexican broadcast regulations did not limit commercial time[citation needed] (as FCC regulations did at the time) – every Sunday, the station – in a forerunner to future changes in the U.S. – in effect, became the first station in North America to carry an infomercial,[27] which consisted of a one-hour advertisement of listings of local houses for sale. As FCC regulations at that time limited television stations to 18 minutes of commercials in an hour, such a program could not have been run on U.S. television at that time.[28]
+In 1976, XETV moved its business operations to an office facility on Ronson Road in the Kearny Mesa neighborhood of San Diego; the station's broadcast operations, meanwhile, remained in Tijuana. Channel 6's Tijuana-based production and technical operations eventually moved from Mexico into an expanded wing of this facility.[29] In the early 1980s, XETV produced a popular comedy program, Disasterpiece Theatre, which parodied campy low-budget horror and science fiction films by making fun of them as they aired, similar to the format of Mystery Science Theater 3000 a decade later.
+As a Fox affiliate[edit]
+
+
+
+
+XETV's fourth and final Fox-era logo, used from 2000 to July 2008.
+
+
+In 1986, XETV became one of the very first stations outside of the original group of six television stations formerly owned by Metromedia (which had been purchased by Fox's parent company affiliate, News Corporation, earlier that year) to sign deals to join the newly launched Fox Broadcasting Company, becoming a charter affiliate of the network when it launched on October 6. Similar to its earlier arrangement with ABC, channel 6 received (via satellite) and recorded Fox programs in San Diego and then "bicycled" the recordings across the U.S.–Mexico border to Tijuana. When Fox acquired the broadcast rights to the NFL's National Football Conference in 1994, the FCC soon granted a waiver of the rules and allowed Fox to transmit a direct-to-air network feed to XETV.
+From 1993 to 1997, XETV also aired programming from the Prime Time Entertainment Network (most notably Babylon 5) on weekend afternoons, instead of the weeknight primetime slots that were recommended by the programming service due to the Fox programs that aired during the evening hours on the station.
+In November 1995, McKinnon Broadcasting, owners of UPN affiliate KUSI-TV (channel 51), filed an appeal in an unsuccessful attempt to wrestle the Fox affiliation away from XETV. As cited in the U.S. Court of Appeals case Channel 51 of San Diego, Inc. vs. FCC and Fox Television Stations, Inc. 79 F.3d 1187, the appeal challenged the FCC's decision to grant the waiver based on the Commission's regulations that disallowed television stations licensed outside of the United States from airing live sporting events from a U.S. broadcast network without licensing approval. The permit was granted to Fox on behalf of XETV, and the case was settled on March 26, 1996.[30] That same year, the station became a Grupo Televisa-owned property[31] outright after the Azcárragas transferred the ownership of XETV to their family-run, Mexico City-based multimedia company.
+In 1999, the station's constructed a new 25,000 square feet (0.57 acres), three-story facility at the Ronson Road studio grounds to house a newsroom and production studios for a planned news operation that launched in December of that year. The one-story building that was located adjacent to the new facility, where the station's offices were based (which continued to house sales and management offices after the new facility was completed) was not large enough to house a fully staffed news department; the offices for XETV's production, promotions and engineering departments were also relocated to the new building.[2]
+In October 2001, Grupo Televisa entered into a joint sales and programming agreement with Entravision Communications. Under this agreement, Entravision, which already operated UPN affiliate XHUPN-TV (channel 49, now MyNetworkTV affiliate XHDTV-TDT) under a local marketing agreement, took over the management of XETV and consolidated XHUPN's operations into XETV's facilities.[32] The agreement expired in 2006;[33] by 2007, Televisa, through Bay City Television, had retaken full control of XETV's operations.[34]
+As a CW affiliate[edit]
+
+
+
+
+XETV's former logo, used from August 1, 2008 to December 31, 2015.
+
+
+
+XETV's former logo as "CW6" from January 1, 2016 to May 30, 2017.
+
+
+
+During a seminar by Sam Zell on March 25, 2008, it was announced that Tribune Broadcasting (which Zell had acquired the previous year as part of his takeover of corporate parent Tribune Company) had signed an affiliation agreement with Fox for its San Diego CW affiliate KSWB-TV (channel 69).[35] Fox cited concerns with having its programming airing on a Mexican-licensed station, even though XETV had been with the network since Fox's inception and had broadcast its programming almost entirely in English for over half a century.[36] This caught XETV station management off guard as officials were unaware about the pending affiliation switch until the announcement was made public.[37]
+The fate of both XETV and the CW affiliation for the San Diego market remained unclear, with Bay City Television/Grupo Televisa even reportedly considering filing a lawsuit to prevent the switch on the grounds that it would violate XETV's affiliation contract with Fox, which was not set to expire until 2010. This uncertainty was resolved on July 2, 2008, when channel 6 announced that it had signed an affiliation agreement with The CW.[38][39] The station began dropping on-air references to Fox just over two weeks later on July 19, 2008, rebranding itself as San Diego 6. The affiliation swap officially took place two weeks afterward on August 1, ending XETV's 22-year association with Fox – with channel 6 joining The CW, while the Fox affiliation moved over to KSWB.[40] XETV, upon switching networks, replaced KSWB-TV on DirecTV as a default affiliate in the few areas of the western United States where a CW-affiliated station is not receivable over-the-air or through cable television. The CW branding was minimized to a small CW logo in the San Diego 6 logo for news programs and displayed full size otherwise; additionally, it was rendered a bright blue (matching the station logo's color scheme) instead of its customary green.
+On April 29, 2013, XETV celebrated its 60th anniversary of broadcasting.[41] The station's morning newscast provided special coverage of the festivities, including separate proclamations of "XETV Channel 6 Day" by the San Diego City Council and San Diego County Board of Supervisors (the latter made on April 30 to general manager Chuck Dunning and chief financial officer Rodrigo Salazar).[42] A special segment of the newscast that was dedicated to the anniversary was broadcast in black-and-white (the standard for broadcast television in 1953) with news anchors dressed in clothing and hairstyles from that period reporting on the major news and entertainment stories of 1953 and giving a contemporary weather forecast with paper graphics pasted on a hand-drawn weather map.[43] On January 1, 2016, XETV changed its branding to fit The CW's station branding standardizations, identifying itself as "CW 6".[8]
+Operation closure[edit]
+On January 18, 2017, KFMB-TV announced that it would begin to carry CW programming on one of its digital subchannels.[44] XETV general manager Chuck Dunning would later admit to the San Diego Union-Tribune that the reason for the CW's departure from his station was a failure of the two sides to reach a new affiliation agreement to replace the deal that was to expire that September; that lack of resolution prompted The CW to explore other options in the San Diego market.[45][46]
+The announcement of The CW's move to KFMB left XETV's future in question, with a station spokesperson stating on the day of the announcement that the station was evaluating its options.[47] The station would reveal its plans on January 26; on that date, it announced that news programming on XETV would be discontinued following the conclusion of the March 31, 2017 edition of the 10:00 p.m. newscast. Then, at midnight on May 31 and at the network's request, the CW affiliation moved to KFMB-TV's 8.2 subchannel. KFMB-TV also purchased substantially all of XETV's syndicated program inventory to run on the new subchannel, which it branded as The CW San Diego. XETV then moved Canal 5 programming from its 6.2 subchannel to its main 6.1 subchannel, making the station a full-time Spanish language outlet for the first time in its history.[48] XETV had initially indicated it would transmit the Gala TV network, already seen in the Tijuana/San Diego area on XHBJ-TDT (channel 45), but later retracted that statement.
+Bay City Television, the Televisa subsidiary which operated XETV from San Diego, concurrently ceased operations on May 31; unusually, the same repeat episode of The King of Queens that ended XETV's run as an English-language station near midnight local time, launched KFMB-DT2's run as a CW affiliate three minutes later. By Dunning's estimate, about 150 full-time, part-time, and freelance staffers were laid-off between the closure of the news department on March 31 and the corporate shutdown.[49][46] In addition to ending channel 6's affiliation with The CW three months earlier than scheduled, the closure of Bay City Television concluded XETV's 64-year history of serving San Diego with English-language programming leaving MyNetworkTV affiliate XHDTV-TDT as the sole Mexican station that serves the San Diego market with English-language programming.
+Special broadcast authority[edit]
+Because XETV-TDT is licensed to Tijuana by the Mexican government, it is not covered under the FCC's must carry rules. This means that local cable providers are not required to carry XETV-TDT, even if the television station requests to be carried under this provision. As an English-language station XETV had been carried by Cox Communications, Time Warner Cable and AT&T U-verse in San Diego, all on channel 6.[50] KFMB-TV's The CW San Diego has replaced XETV on the American cable systems, as well as satellite television providers DirecTV and Dish Network. XETV is carried by all Mexican cable systems in its coverage area, as carriage of local broadcast stations is mandated by the Federal Telecommunications Institute.
+While XETV's primary programming feed had been almost entirely in English from the 1950s until 2017, XETV also complied with Mexican broadcasting laws, which include clauses that are different to those in the United States. It identified every 30 minutes; started its legal broadcast day with the Mexican national anthem El Himno Nacional Mexicano at 5:00 a.m. six days a week and 6:00 a.m. on Sundays; and it aired public service announcements and political advertising required of all Mexican stations. At sign-on, it featured a technical disclaimer which had been read in Spanish and English dating back to channel 6's days as a Fox affiliate, and it also played the national anthem of the United States, "The Star-Spangled Banner", prior to the disclaimer[51] until around March 2015.[52]
+XETV's production operations were based in the United States from the mid-1990s until Bay City Television's closure. The station's production, news and sales operations were owned by Bay City; Televisa controls the master control and transmitter facility on Mount San Antonio in Tijuana. Local programming between San Diego and Mount San Antonio was fed by way of microwave link, and network and syndicated shows were disseminated via satellite. By Bay City's closure, XETV had no local programs which originated from Tijuana.[2][7][53]
+Digital television[edit]
+Digital channels[edit]
+
+
+Channel
+Video
+Aspect
+PSIP Short Name
+Programming[54]
+
+
+6.1
+1080i
+16:9
+XETV-HD
+Main XETV-TDT programming / Canal 5
+
+
+Conversion history[edit]
+In 2000, XETV began transmitting a digital signal on UHF channel 23, becoming the first San Diego area station to begin digital television transmissions. It was also the first television station in Mexico to operate a digital signal; no other Mexican television station had begun digital operations at that time,[2] and a digital television standard was not formally selected until 2004. It maps on digital tuners in both countries as virtual channel 6.1 through PSIP technology. In January 2006, the Secretariat of Communications and Transportation, which at the time still regulated broadcasting in Mexico, gave formal authorization for XETV's digital signal, with the full callsign XETV-TDT (a suffix standing for Televisión Digital Terrestre, or Terrestrial Television) and an effective radiated power of 402.8 kilowatts.[55]
+As the original American digital television transition date of February 17, 2009 approached, XETV had expressed intentions to follow other San Diego-area stations in ceasing transmission of its analog signal. While the U.S. switchover deadline of February 17 was later pushed back to June 12, 2009 and only applied to American-licensed stations in any case, plans were announced to voluntarily make the station's English-language programming digital-only. The analog signal would be repurposed to retransmit the Mexican Galavisión network (not to be confused with the American cable channel of the same name). Claims on XETV's website that the station was indeed going to transmit a digitally-exclusive signal were rescinded on February 17, 2009 as the station decided to delay cutting off its analog signal until after it secured approval from the Mexican government.[56] XETV management later stated that it had decided to maintain its analog signal to benefit Mexican viewers.[57] XETV's analog signal was eventually repurposed on March 5, 2012, when the station began multicasting on its digital signal with the addition of Televisa's youth-oriented Canal 5 network on subchannel 6.2 and on its analog feed, while digital channel 6.1 retained the newscasts, CW network and syndicated programs in English. On the same date, XHBJ-TV channel 45 dropped Canal 5 for Galavisión. Canal 5 replaced XETV's English-language programming on its analog signal, in order to serve Spanish-speaking viewers in Tijuana that did not have television sets with built-in digital tuners or digital converter boxes prior to the Tijuana market's 2013 transition to digital television. The affiliation switch coincided with the commencement of digital multicasting on Televisa's Tijuana stations. Canal 5 moved to its primary channel on May 31, 2017, at which point, the 6.2 subchannel was decommissioned.
+Cofetel, the Federal Telecommunications Commission, chose Tijuana as the first city to switch over to digital as a pilot program for the rest of Mexico. Unlike with the U.S. digital switchover, which took place nationwide, Mexico switched to digital television in stages by geographic area, completing the process on December 31, 2015. The original Tijuana switchover date of April 16, 2013 was delayed by Cofetel because the local population had not yet attained the required 90% readiness for free over-the-air digital service to trigger the transition. On May 28, 2013, XETV and all other Tijuana television stations ceased transmitting their analog signals,[58][59] only to them back on a few days later after complaints from residents and political leaders that more viewers were left without over-the-air television service than Cofetel reported, including many poor residents outside of Tijuana proper that were not included in Cofetel's outreach program to allow residents to receive free digital-to-analog converter boxes. In addition, there were concerns that viewers would be left uninformed during the Baja California gubernatorial election campaign. The temporary reprieve was extended to July 18, 2013, when all analog television signals were shut down permanently.
+XETV retained virtual channel 6 after a major reshuffle of Mexican virtual channels in October 2016, which ordered all existing Mexican national networks to realign their virtual channels based on the flagship channel numbers in Mexico City. XETV became the only channel 6 in Mexico, because the IFT reserved channel 6 for a potential fourth national network.[60] Virtual channel 5 is not available to XETV because of signal overlap between XETV and KTLA (owned by Tribune, and broadcasting on virtual channel 5), primarily around Oceanside, California; most Tijuana stations face similar signal overlap issues in this area to Los Angeles stations that preclude them from using the virtual channels that correspond to their networks.
+Repeaters[edit]
+XETV operates two repeaters, on Cerro La Nopalera in Tecate[61] and Colonia Playas de Tijuana.[62] Both repeaters broadcast on channel 23 in areas where the main channel 23 signal from Mount San Antonio provides insufficient or no over-the-air coverage and are co-located with identical transmitters for XHUAA and XEWT.
+Programming[edit]
+Prior to the CW disaffiliation, syndicated programs broadcast by XETV (as of September 2016[update]) included Maury, Seinfeld, The Insider, Rules of Engagement, The Doctors and 2 Broke Girls. As the San Diego affiliate of The CW, XETV-TDT cleared the network's entire programming schedule on digital channel 6.1 until May 30, 2017, when some of these shows carried over to KFMB's The CW San Diego subchannel.
+Prior to the cancellation of its weekend morning newscasts in March 2017, the station aired The CW's children's program blocks – The CW4Kids/Toonzai, Vortexx and, from September 2014 onward, One Magnificent Morning – in two blocks on Saturday mornings: the block's first three hours ran from 5:00 to 8:00 a.m. (two hours earlier than the timeslot recommended for the programs in that portion of the block to air in all time zones) and the final two hours airing after the newscast from 10:00 a.m. to 12:00 p.m. (which air in pattern with the rest of the country); XETV began airing One Magnificent Morning in its network-recommended time period (7:00 a.m. to 12:00 p.m.) on March 11, 2017, following the phaseout of the station's weekend newscasts in preparation for its disaffiliation from The CW. Though the station meets the educational programming guidelines of the United States with the One Magnificent Morning blocks, XETV, being a Mexican-licensed station, is not required to meet the United States' broadcasting regulations.
+As the Tijuana transmitter of Canal 5, XETV-TDT clears the entire network schedule on channel 6.1 and formerly on digital subchannel 6.2. Children's programming includes Spanish-dubbed versions of Nickelodeon's iCarly, SpongeBob SquarePants, The Fairly OddParents and The Penguins of Madagascar, as well as original Televisa programs such as its animated version of El Chavo along with the Cartoon Network original series La CQ. Other programming includes a primetime program block called PM, as well as mostly Spanish-dubbed versions of current and recent American shows (such as Malcolm in the Middle and Law & Order: Special Victims Unit) and the boxing program Sabados de BOX.[63]
+Most programs from Canal 5 that air on XETV have an audio simulcast in their original English language, and are accessible to those TVs with SAP (Second Audio Program) capability.
+News operation[edit]
+
+
+
+
+Former news logo, as San Diego 6 News, used from August 1, 2008 to December 31, 2015.
+
+
+
+Final CW6 News logo, used from December 31, 2015 to March 31, 2017.
+
+
+
+XETV had originally carried a local newscast from the station's sign-on in 1953 until its news department was shut down in 1967 (Lionel Van Deerlin, later a congressman representing San Diego in the U.S. House of Representatives, served as news director during XETV's early years). In 1980, during its tenure as an independent station, XETV began running local news updates throughout the day; these continued to air until several months prior to the station's affiliation with Fox in October 1986. Although then-general manager Martin Colby originally stated that XETV would not offer a newscast, in response to then-Fox President Barry Diller's comments during the 1991 Television Critics Association Convention in pushing for Fox's affiliates to produce local newscasts that the network "won't tolerate any affiliate that is not in the news business," XETV began reconsidering the possibility of launching a news department.[64]
+The station would not resume news programming until the establishment of an in-house news department – based out of the satellite facility at the Ronson Road studios – on December 27, 1999, when it debuted a 35-minute newscast at 10:00 p.m.;[65] the program competed against an established prime time newscast on KUSI-TV and another newly launched 10:00 p.m. newscast on KSWB-TV that launched three months earlier in September 1999. Much of the news department's original on-air staff consisted of younger anchors and reporters (most of whom were in their early 30s, with a median staff age of 32) and its story content incorporated more sensationalistic feature reporting designed to appeal to Fox's young-skewing demographic.[66] In September 2000, the station expanded its news programming with the debut of a three-hour weekday morning newscast – originally titled Fox in the Morning (later renamed San Diego 6 News in the Morning in August 2008, Wake Up San Diego in November 2014 and finally CW6 News in the Morning in January 2016) – from 6:00 to 9:00 a.m., and a half-hour newscast at noon.
+After the station appointed Richard Doutre Jones as its vice president and general manager in the fall of 2001, XETV overhauled its news presentation in January 2002, adopting a more traditional style mixed with faster story pacing and investigative reports. The station also hired older and more experienced journalists to its on-air staff, including main co-anchor Brian Christie, assignment reporter Terry Burhans and entertainment reporter Fred Saxon, all of whom previously worked at rival KUSI. In addition, the flagship prime time newscast was expanded to one hour, and Fox in the Morning was restructured from a traditional newscast to an infotainment format; the noon was also cancelled and replaced with syndicated programming. For most of its existence, the station's news department usually placed last among the San Diego market's English language television news operations. As a Fox affiliate, the 10:00 p.m. newscast typically rotated with KSWB's prime time newscast as the top-rated local newscast during the 10:00 half-hour, though both programs were usually beaten by the longer-established KUSI News at Ten for the full one-hour time period.[67]
+On September 5, 2006, XETV's news team gained national attention, when investigative reporter John Mattes was badly beaten by Sam Suleiman and Rosa Barraza, a husband-and-wife team accused of perpetrating a real estate scam who were being investigated by Mattes. The incident was captured on videotape and aired on many news programs throughout the nation.[68] On January 20, 2007, XETV debuted a two-hour edition of its morning newscast on Saturday and Sundays; the programs originally aired at 7:00 a.m., but were moved to 8:00 a.m. after the CW affiliation switch. From the station's August 2008 switch until the March 2017 closure of their news department, XETV was one of only five CW affiliates with a local newscast on weekend mornings (along with KTLA in Los Angeles, KMAX-TV in Sacramento, WISH-TV in Indianapolis and WPIX in New York City).[69]
+Upon switching to The CW on August 1, 2008, XETV debuted the 11-minute 11@11 newscast on weeknights, becoming the only evening newscast in the traditional late news timeslot (11:00 p.m. Pacific time on the California side of the market) to air on a CW affiliate (until KMAX-TV launched its own 11:00 p.m. broadcast in 2013); the 11:00 p.m. newscast was discontinued on January 14, 2013.[36] The following year on April 6, 2009, the 10:00 p.m. newscast was reduced from one hour to 33 minutes, with the second half-hour being replaced by reruns of Seinfeld; it was later reduced to a half-hour by 2011 (the length of the 11:00 p.m. newscast and the reduction of the 10:00 p.m. program resulted in an odd-numbered amount of news programming hours, making XETV the largest news-producing minor network station serving the United States whose evening newscast did not run for 30, 35 or 60 minutes, as well as having the only half-hour San Diego-targeted television newscast at 10:00 p.m., due to KUSI and KSWB having hour-long newscasts).[70]
+On March 9, 2009, XETV shut down its sports department; with the move, then-vice president and general manager Richard Doutre Jones (who left the station in June 2010 and was replaced by veteran sales manager Chuck Dunning) announced the firings of sports anchors C.S. Keys (who returned to XETV as a weather and traffic anchor from October 2011 to 2013) and Andrea Nakano and sports producer Mike Lamar.[71] On April 23, 2011, XETV became the sixth television station in the San Diego market to begin broadcasting its local newscasts in high definition. Two days later on January 16, XETV expanded the weeknight editions of the 10:00 p.m. newscast back to one hour on weeknights; the weekend editions would not follow suit until January 17, 2015.[72][73] The station would not program news outside its established morning and 10:00 p.m. slots again until January 12, 2015, when it premiered an hour-long late afternoon newscast at 4:00 p.m., which competed against existing newscasts aired at that hour on NBC owned-and-operated station KNSD and Fox affiliate KSWB-TV.[72][74]
+As a consequence of the closure of Bay City Television's operations following the loss of XETV's CW affiliation, the station announced that it would shut down its news operation on March 31, 2017.[49] Rather than discontinue its weekday newscasts on the date of the news department's cessation and its weekend newscasts on the Sunday prior, XETV opted to phase out some of its news programming in advance; the station discontinued its 4:00 p.m. newscast after the February 24, 2017 edition; this was followed by the cancellation of the weekend editions of CW 6 News in the Morning and the 10:00 p.m. newscast after the March 12 broadcasts of both programs.[75][76]
+The weekday editions of CW 6 News in the Morning and the 10:00 p.m. newscast (as well as the hour-long weekday morning lifestyle program, San Diego Living, which debuted on the station in 2008) continued to air in the interim, until XETV's news operation officially folded following the March 31, 2017 edition of the prime time newscast. All time periods formerly occupied by local newscasts were replaced with other programs that would air until the closure of Bay City Television: the weekday morning and 4:00p.m. and nightly 10:00 p.m. newscasts were replaced by syndicated programs, while the weekend morning newscast was replaced by The CW's One Magnificent Morning block (which was relegated two hours earlier to its network-recommended time slot following the cancellation of the newscast) on Saturdays and infomercials on Sundays.[77]
+On-air staff[edit]
+Notable former on-air staff[edit]
+
+Brian Christie – anchor
+Jim Patton - anchor and reporter (now at KGTV in San Diego)
+Elizabeth Espinosa – reporter (now at KTLA in Los Angeles)
+Ron Fortner – Channel 6 News Up to Date anchor; deceased
+John Mattes – investigative reporter
+Aloha Taylor – chief meteorologist (2006–2009; now at KSWB-TV)
+
+Radio[edit]
+Prior to the termination of the station's analog broadcasts, XETV's audio signal could be heard at 87.75 MHz on the FM band in San Diego, Tijuana and surrounding areas, though at a slightly lower volume than other FM radio stations. Unlike the digital ATSC standard, analog NTSC carried its sound on an FM subcarrier and TV 6 (82-88 MHz) is adjacent to the standard broadcast FM band.
+When XETV-TV shut down its analog signal on May 28, 2013, it shut down the station's 87.75 MHz audio subcarrier. An analog FM broadcast receiver cannot tune and decode digital television on any frequency.[78]
+References[edit]
+
+
+^ Instituto Federal de Telecomunicaciones. Infraestructura de Estaciones de TV. Last modified 2017-08-03. Retrieved 2015-08-28.
+^ a b c d Fybush, Scott (February 13, 2009). "Fybush.com's Tower Site of the Week: XETV, Tijuana/San Diego". Fybush.com. 
+^ "Form 308 Application for Permit to Deliver Programs to Foreign Broadcast Stations". Federal Communications Commission. April 29, 2013. Retrieved December 31, 2015. 
+^ McIntyre, Dave (1953-04-25). Afraid of Fortune Tellers?. Billboard. Retrieved 2010-06-24. 
+^ "Flashes 11.05.12 by Rick Griffin". San Diego Ad Club. Retrieved 11 January 2013. 
+^ SDRadio.net: "Media Bytes" for Monday, April 14, 2008
+^ a b c Moran, Kristin C. ""The Development of Spanish-Language Television in San Diego: A Contemporary History". The Journal of San Diego History. Volume 50, Winter/Spring 2004, numbers 1 and 2" (PDF). San Diego Historical Society. pp. 47–48. Retrieved 11 December 2009. 
+^ a b "About CW 6". CW 6 (XETV). Retrieved December 17, 2015. 
+^ "KAAR/39, San Diego CA". History of UHF Television. Retrieved January 19, 2017. 
+^ "Mexican TV Originations In San Diego Requested" (PDF). Broadcasting - Telecasting. January 26, 1953. p. 71. 
+^ "FCC Okays ABC-XETV (TV) Plan Despite Objections" (PDF). Broadcasting - Telecasting. November 28, 1955. p. 76. 
+^ "XETV (TV) To Carry ABC Films, Kines" (PDF). Broadcasting - Telecasting. February 27, 1956. p. 76. 
+^ "Appeals Court Remands Grant For ABC-TV, XETV (TV) Tie-up" (PDF). Broadcasting - Telecasting. September 30, 1957. p. 80. 
+^ "Ad Rekindles San Diego Fight" (PDF). Broadcasting - Telecasting. November 24, 1958. p. 82. 
+^ "KAAR/39, San Diego CA". History of UHF Television. Retrieved January 19, 2017. 
+^ Becklund, Laurie (October 29, 1978). "Broadcasters' Battle of the Border---a Lucrative Market Is at Stake". Los Angeles Times. 
+^ "U asks FCC aid in quest for ABC" (PDF). Broadcasting. November 18, 1968. p. 46. 
+^ "ABC resists shift to San Diego U" (PDF). Broadcasting. December 23, 1968. p. 37. 
+^ Radio Televisión S.A. de C.V. and Bay City Television, Inc., v. Federal Communications Commission, U.S. Court of Appeals No. 96-1438
+^ "Beginning of the end for XETV-ABC association" (PDF). Broadcasting. June 5, 1972. pp. 36–37. 
+^ "ABC told to sever tie with XETV" (PDF). Broadcasting. January 8, 1973. p. 29. 
+^ "XETV strikes out in Supreme Court" (PDF). Broadcasting. June 18, 1973. pp. 35–36. 
+^ "San Diego truce approved" (PDF). Broadcasting. March 12, 1973. p. 57. 
+^ "ABC's gains are turning television upside down" (PDF). Broadcasting. March 29, 1976. pp. 19–20. 
+^ "In Brief." Broadcasting, June 7, 1976, pg. 24[permanent dead link]
+^ "In Brief." Broadcasting, March 7, 1977, pg. 26[permanent dead link]
+^ Order Now!: The Short History of Paid Programming, Neatorama, April 10, 2012.
+^ The Federal Communications Commission, 11 B.C.L. Rev. 595, Boston College Law Review, Retrieved September 16, 2012.
+^ The Radio and TV Database Project: Tijuana/Tecate
+^ Radio Televisión v. FCC, No. 96-1438
+^ "About San Diego 6". San Diego 6 (XETV). Archived from the original on September 25, 2015. Retrieved December 17, 2015. 
+^ "Entravision Communications Corporation and Grupo Televisa, S.A. Announce Television Joint Marketing and Programming Agreement ('JMPA')" (Press release). Santa Monica, California: Entravision Communications Corporation and Grupo Televisa S.A. PRNewswire. October 17, 2001. Retrieved January 28, 2017 – via TheFreeLibrary.com. 
+^ "Grupo Televisa, S.A. Form 20-F". EDGAR. Securities and Exchange Commission. June 30, 2006. Retrieved January 28, 2017. XETV is operated on our behalf by U.S. broadcaster Entravision Communications Corporation, or Entravision, pursuant to a joint marketing and programming agreement we have with Entravision, the initial term of which expired in December 2004 and was extended to June 2006. We are in the process of negotiating an extension to July 2006. 
+^ "Grupo Televisa, S.A. Form 20-F". EDGAR. Securities and Exchange Commission. June 26, 2007. Retrieved January 28, 2017. XETV is operated through a station operating agreement with Bay City Television, a U.S. corporation indirectly owned by Televisa. 
+^ Fox switching affiliates in S.D. Archived 2008-06-26 at the Wayback Machine., U-T San Diego, March 25, 2008.
+^ a b Trading places: Fox, CW switch network channels Archived 2014-08-14 at the Wayback Machine., U-T San Diego, August 1, 2008.
+^ "XETV, KSWB Battle For Fox Affiliation In San Diego". Archived from the original on September 11, 2008. 
+^ "XETV Becomes San Diego 6 - New Home of The CW Television Network". Fox 6 San Diego (XETV). July 6, 2008. Archived from the original on July 7, 2008. Retrieved October 25, 2014. 
+^ "XETV San Diego Becomes CW Affil Aug. 1". TV Week. July 3, 2008. Retrieved January 1, 2016. 
+^ It's official: XETV picks up The CW affiliation...
+^ "XETV's 60th Anniversary". XETV website. Bay City Television Inc. Retrieved 1 May 2013. 
+^ "Channel 6 Day Proclaimed Countywide". San Diego 6 (XETV). Retrieved 1 May 2013. 
+^ "Wake Up San Diego in "Black & White"". San Diego 6 (XETV). Retrieved 1 May 2013. 
+^ "MIDWEST TELEVISION, INC. / KFMB-TV ADDS CW AFFILIATION". Retrieved 2017-01-19. 
+^ "TV Reception by Channel in California" (PDF). Global Communications. 
+^ a b "CW6 to end news programming March 31 to become Spanish-language outlet, as CW migrates to KFMB," from San Diego Union-Tribune, 1/26/2017
+^ Eck, Kevin (January 19, 2017). "CW Affiliation Switch in San Diego". TVSpy. Adweek Network. Retrieved January 26, 2017. 
+^ XETV-TDT - Final moments of XETV as an English language station serving San Diego - May 30, 2017 on YouTube
+^ a b "San Diego Station to Shut Down After Losing CW Affiliation". TVSpy. Adweek Network. January 26, 2017. Retrieved January 26, 2017. 
+^ "About Cable Reception". San Diego 6 (XETV). Retrieved October 25, 2014. 
+^ XETV San Diego Sign-on 2007.08.20 on YouTube
+^ XETV-TDT - Sign on & CW6 News in the Morning open (2017) on YouTube
+^ "Contact Us". San Diego 6 (XETV). Retrieved October 25, 2014. 
+^ RabbitEars TV Query for XETV
+^ RPC: Initial Digital Authorization - XETV-TDT
+^ Digital TV switch goes smoothly in San Diego, Alex Pham and Meg James, Associated Press, February 19, 2009
+^ Few calls received on digital switch: 3 local stations opted for Tuesday change, Jonathan Sidener, U-T San Diego, February 19, 2009
+^ "(Spanish) Comunicado de Prensa No. 12/2013: El Pleno de la COFETEL Ajusta la Fecha del Apagon Analogico en Tijuana" (PDF). PDF news release. Secretary of Communications and Transportation of Mexico (SCT). Archived from the original (PDF) on October 25, 2014. Retrieved 1 May 2013. 
+^ "TDT. El apagon piloto en Tijuana" (Spanish), Telecomplejidades Telecomunicaciones, Radio, TV, Internet y TIC retrieved 30 November 2012.
+^ Instituto Federal de Telecomunicaciones. Listado de Canales Virtuales. Last modified 2017-08-31. Retrieved 6 June 2017.
+^ RPC: Shadow XETV Cerro La Nopalera, Tecate, BC
+^ RPC: Shadow XETV Col. Playas de Tijuana
+^ "Televisa's Canal 5 home page (Spanish)". Televisa Networks. Retrieved 7 April 2012. 
+^ Kevin Brass (September 2, 1991). "XETV Considers Newscasts With Fox's Encouragement". Los Angeles Times. Times Mirror. Retrieved March 15, 2017. 
+^ Thomas Larson (September 14, 2000). "Making News: Two Local TV Stations". San Diego Reader. Retrieved September 17, 2000 – via ThomasLarson.com.  Check date values in: |access-date= (help)
+^ Kevin Brass (June 26, 2007). "When the News IS the News". San Diego Magazine. SDM, LLC. Retrieved March 15, 2017.  Note: The actual publishing date of the article was likely in 1999, as it mentioned XETV and KSWB's news operations as being newly launched.
+^ Preston Turegano (March 2, 2003). "With much fanfare, 'Fox6 News' arrived in 1999, ready to take on the big boys – four years later, it's a struggling 'work in progress'". U-T San Diego. Retrieved March 15, 2017. 
+^ "Camera records attack on Fox 6 News reporter". U-T San Diego. September 7, 2006. 
+^ "Fox 6 adds weekend a.m. news". U-T San Diego. January 20, 2007. Retrieved September 16, 2012. 
+^ "XETV/Channel 6 to shorten 10 p.m. news". U-T San Diego. March 18, 2009. Retrieved September 16, 2012. 
+^ "XETV Scraps Sports". Broadcasting & Cable. Reed Business Information. March 10, 2009. 
+^ a b Aneya Fernando (January 8, 2015). "San Diego's XETV Adding 4PM Newscast". TVSpy. Guggenheim Partners. Retrieved March 15, 2017. 
+^ Roly Ortega (January 8, 2015). "XETV will expand their 10:00 p.m. weekend newscast, starting next weekend". The Changing Newscasts Blog. Retrieved March 15, 2017. 
+^ Roly Ortega (December 31, 2014). "XETV will add 4:00 p.m. news, starting January 12th". The Changing Newscasts Blog. Retrieved March 15, 2017. 
+^ Roly Ortega (March 3, 2017). "XETV has started winding down operations and WHDH will finally expand to 4:30 a.m". The Changing Newscasts Blog. Retrieved March 15, 2017. 
+^ Roly Ortega (March 12, 2017). "XETV has now dropped its weekend news and KOIN drops its weekend morning news". The Changing Newscasts Blog. Retrieved March 15, 2017. 
+^ Karla Peterson (March 12, 2017). "San Diego's CW6 news signs off". The San Diego Union-Tribune. Retrieved April 1, 2017. 
+^ "About San Diego 6 Over The Air Reception". San Diego 6 (XETV). Archived from the original on February 14, 2012. Retrieved October 25, 2014. 
+
+
+External links[edit]
+
+Canal 5 website
+
+
+Program Information for XETV at TitanTV.com
+
+
+Message from XETV's General Manager on Affiliation Switch
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Television stations in the San Diego–Tijuana metropolitan area
+
+
+
+
+American network O&Os are in bold
+
+
+
+English stations
+
+
+
+KZTC-LP (7.1 Sonlife)
+KFMB-TV (8.1 CBS, 8.2 The CW, 8.3 Grit)
+KGTV (10.1 ABC, 10.2 MeTV, 10.3 Laff)
+KPBS (15.1 PBS, 15.2 World 15.3 Create, 15.4 PBS Kids)
+KVSD-LD (26.1 Ind)
+KNSD (39.1 NBC, 39.2 Cozi TV)
+KZSD-LP (41 MeTV)
+KSEX-CD (42, 42.1-4 Info.)
+KSKT-CD (43.1 Asian Ind/KSCI)
+XHDTV-TDT (49.1 MNTV)
+KSDY-LD (50.2 Z Living)
+KUSI-TV (51.1 Ind)
+KSWB-TV (69.1 Fox, 69.2 Antenna TV, 69.3 This TV)
+
+
+
+
+
+Spanish stations
+
+
+
+XHJK-TDT (1.1 Azteca 13, 1.2 Proyecto 40)
+XHCTTI-TDT (3.1 Imagen)
+XETV-TDT (6.1 Canal 5)
+XHTJB-TDT (11.1 Canal Once, 11.2 Once Niños)
+XEWT-TDT (12.1 Televisa Regional)
+KBNT-CD (17.1 UNI)
+XHTIT-TDT (21.1 Azteca 7, 21.2 a+)
+KSDX-LD (29.1 Estrella TV)
+XHAS-TDT (33.1 Azteca América, 33.2 LATV)
+KDTF-LD (36.1 UniMás)
+KNSD (39.20 Telemundo, 39.21 TeleXitos)
+XHBJ-TDT (45.1 Gala TV)
+KSDY-LD (50.1 Milenio TV, 50.3 Bereavisión, 50.4 Sintesis TV)
+XHUAA-TDT (57.1 Las Estrellas)
+
+
+
+
+
+Cable channels
+
+
+
+iTV Cable 16
+Fox Sports San Diego
+UCSD TV
+YurView California
+
+
+
+
+
+Defunct stations
+
+
+
+K09YL-D (9.1 Multimedios/Tr3s, 9.2 CadenaTres, 9.3 Mexicanal/Imagen, 9.4 PSN)
+K35DG-D (35.1 UCSD TV)
+
+
+
+
+
+
+
+
+
+California television
+Bakersfield
+Chico–Redding
+Eureka
+Fresno
+Las Vegas NV
+Los Angeles
+Medford OR
+Monterey
+Inland Empire (Palm Springs)
+Reno NV
+Sacramento
+San Diego
+San Francisco
+Santa Barbara
+El Centro CA / Yuma AZ
+
+
+
+
+Baja California television
+Mexicali
+Tijuana / Tecate
+
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=XETV-TDT&oldid=810427423"					
+Categories: Television stations in TijuanaTelevision stations in San DiegoCanal 5 (Mexico) transmittersTelevisaTelevision channels and stations established in 1953Major League Baseball over-the-air television broadcastersNational Basketball Association over-the-air television broadcastersSan Diego Clippers broadcastersTransnational network affiliates1953 establishments in MexicoHidden categories: All articles with dead external linksArticles with dead external links from July 2016Articles with permanently dead external linksWebarchive template wayback linksCS1 errors: datesPages using deprecated image syntaxCoordinates not on WikidataAll articles with unsourced statementsArticles with unsourced statements from June 2014Articles with unsourced statements from April 2008Articles containing potentially dated statements from September 2016All articles containing potentially dated statements 

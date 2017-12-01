@@ -1,0 +1,70 @@
+Effective results in number theory - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For historical reasons and in order to have application to the solution of Diophantine equations, results in number theory have been scrutinised more than in other branches of mathematics to see if their content is effectively computable. Where it is asserted that some list of integers is finite, the question is whether in principle the list could be printed out after a machine computation.
+
+
+
+Contents
+
+
+1 Littlewood's result
+2 The 'Siegel period'
+3 Later work
+4 Theoretical issues
+5 Notes
+6 External links
+
+
+
+Littlewood's result[edit]
+An early example of an ineffective result was J. E. Littlewood's theorem of 1914,[1] that in the prime number theorem the differences of both ψ(x) and π(x) with their asymptotic estimates change sign infinitely often.[2] In 1933 Stanley Skewes obtained an effective upper bound for the first sign change,[3] now known as Skewes' number.
+In more detail, writing for a numerical sequence f(n), an effective result about its changing sign infinitely often would be a theorem including, for every value of N, a value M > N such that f(N) and f(M) have different signs, and such that M could be computed with specified resources. In practical terms, M would be computed by taking values of n from N onwards, and the question is 'how far must you go?' A special case is to find the first sign change. The interest of the question was that the numerical evidence known showed no change of sign: Littlewood's result guaranteed that this evidence was just a small number effect, but 'small' here included values of n up to a billion.
+The requirement of computability reflects on and contrasts with the approach used in analytic number theory to prove the results. It for example brings into question any use of Landau notation and its implied constants: are assertions pure existence theorems for such constants, or can one recover a version in which 1000 (say) takes the place of the implied constant? In other words if it were known that there was M > N with a change of sign and such that
+
+M = O(G(N))
+
+for some explicit function G, say built up from powers, logarithms and exponentials, that means only
+
+M < A.G(N)
+
+for some absolute constant A. The value of A, the so-called implied constant, may also need to be made explicit, for computational purposes. One reason Landau notation was a popular introduction is that it hides exactly what A is. In some indirect forms of proof it may not be at all obvious that the implied constant can be made explicit.
+The 'Siegel period'[edit]
+Many of the principal results of analytic number theory that were proved in the period 1900–1950 were in fact ineffective. The main examples were:
+
+The Thue–Siegel–Roth theorem
+Siegel's theorem on integral points, from 1929
+The 1934 theorem of Hans Heilbronn and Edward Linfoot on the class number 1 problem[4]
+The 1935 result on the Siegel zero[5]
+The Siegel–Walfisz theorem based on the Siegel zero.
+
+The concrete information that was left theoretically incomplete included lower bounds for class numbers (ideal class groups for some families of number fields grow); and bounds for the best rational approximations to algebraic numbers in terms of denominators. These latter could be read quite directly as results on Diophantine equations, after the work of Axel Thue. The result used for Liouville numbers in the proof is effective in the way it applies the mean value theorem: but improvements (to what is now the Thue–Siegel–Roth theorem) were not.
+Later work[edit]
+Later results, particularly of Alan Baker, changed the position. Qualitatively speaking, Baker's theorems look weaker, but they have explicit constants and can actually be applied, in conjunction with machine computation, to prove that lists of solutions (suspected to be complete) are actually the entire solution set.
+Theoretical issues[edit]
+The difficulties here were met by radically different proof techniques, taking much more care about proofs by contradiction. The logic involved is closer to proof theory than to that of computability theory and computable functions. It is rather loosely conjectured that the difficulties may lie in the realm of computational complexity theory. Ineffective results are still being proved in the shape A or B, where we have no way of telling which.
+Notes[edit]
+
+
+^ Littlewood, J. E. (1914). "Sur la distribution des nombres premiers". Comptes Rendus. 158: 1869–1872. JFM 45.0305.01. 
+^ Feferman, Solomon (1996). "Kreisel's "unwinding" program" (PDF). Kreiseliana. Wellesley, MA: A K Peters. pp. 247–273. MR 1435765.  See p. 9 of the preprint version.
+^ Skewes, S. (1933). "On the difference π(x) − Li(x)". Journal of the London Mathematical Society. 8: 277–283. doi:10.1112/jlms/s1-8.4.277. JFM 59.0370.02. Zbl 0007.34003. 
+^ Heilbronn, H.; Linfoot, E. H. (1934). "On the imaginary quadratic corpora of class-number one". Quarterly Journal of Mathematics. Oxford Series. 5 (1): 293–301. doi:10.1093/qmath/os-5.1.293. .
+^ *Sprindzhuk, V.G. (2001) [1994], "Diophantine approximation, problems of effective", in Hazewinkel, Michiel, Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4  – comments on the ineffectiveness of the bound.
+
+
+External links[edit]
+
+Sprindzhuk, V.G. (2001) [1994], "Diophantine approximations", in Hazewinkel, Michiel, Encyclopedia of Mathematics, Springer Science+Business Media B.V. / Kluwer Academic Publishers, ISBN 978-1-55608-010-4 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Effective_results_in_number_theory&oldid=700641934"					
+Categories: Analytic number theoryDiophantine equations 

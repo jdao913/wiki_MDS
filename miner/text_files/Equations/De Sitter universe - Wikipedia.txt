@@ -1,0 +1,440 @@
+De Sitter universe - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+Part of a series on
+
+
+Physical cosmology
+
+
+
+
+
+
+
+Big Bang · Universe
+Age of the universe
+Chronology of the universe
+
+
+
+
+
+
+Early universe
+
+
+
+
+
+Inflation · Nucleosynthesis
+
+
+
+
+Backgrounds
+
+
+
+
+Gravitational wave (GWB)
+Microwave (CMB) · Neutrino (CNB)
+
+
+
+
+
+
+
+
+
+
+
+Expansion · Future
+
+
+Hubble's law · Redshift
+Metric expansion of space
+FLRW metric · Friedmann equations
+Inhomogeneous cosmology
+Future of an expanding universe
+Ultimate fate of the universe
+
+
+
+
+
+
+
+
+Components · Structure
+
+
+
+Components
+
+
+
+
+Lambda-CDM model
+Dark energy · Dark fluid · Dark matter
+
+
+
+
+Structure
+
+
+
+
+Shape of the universe
+Galaxy filament · Galaxy formation
+Large quasar group
+Large-scale structure
+Reionization · Structure formation
+
+
+
+
+
+
+
+
+
+
+
+Experiments
+
+
+Black Hole Initiative (BHI)
+BOOMERanG
+Cosmic Background Explorer (COBE)
+Illustris project
+Planck space observatory
+Sloan Digital Sky Survey (SDSS)
+2dF Galaxy Redshift Survey ("2dF")
+
+Wilkinson Microwave Anisotropy
+Probe (WMAP)
+
+
+
+
+
+
+
+
+
+Scientists
+
+
+
+Aaronson
+Alfvén
+Alpher
+Bharadwaj
+Copernicus
+de Sitter
+Dicke
+Ehlers
+Einstein
+Ellis
+Friedman
+Galileo
+Gamow
+Guth
+Hawking
+Hubble
+Lemaître
+Mather
+Newton
+Penrose
+Penzias
+Rubin
+Schmidt
+Smoot
+Suntzeff
+Sunyaev
+Tolman
+Wilson
+Zel'dovich
+
+
+
+List of cosmologists
+
+
+
+
+
+
+
+
+Subject history
+
+
+
+Discovery of cosmic microwave
+background radiation
+
+History of the Big Bang theory
+
+Religious interpretations of
+the Big Bang theory
+
+Timeline of cosmological theories
+
+
+
+
+
+
+
+
+ Category
+ Cosmology portal
+ Astronomy portal
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+A de Sitter universe is a cosmological solution to the Einstein field equations of general relativity, named after Willem de Sitter. It models the universe as spatially flat and neglects ordinary matter, so the dynamics of the universe are dominated by the cosmological constant, thought to correspond to dark energy in our universe or the inflaton field in the early universe. According to the models of inflation and current observations of the accelerating universe, the concordance models of physical cosmology are converging on a consistent model where our universe was best described as a de Sitter universe at about a time 
+
+
+
+t
+=
+
+10
+
+−
+33
+
+
+
+
+{\displaystyle t=10^{-33}}
+
+ seconds after the fiducial Big Bang singularity, and far into the future.
+
+
+
+Contents
+
+
+1 Mathematical expression
+2 Potential for the Universe
+3 Relative expansion
+4 Modelling cosmic inflation
+5 See also
+6 References
+
+
+
+Mathematical expression[edit]
+A de Sitter universe has no ordinary matter content but with a positive cosmological constant (
+
+
+
+Λ
+
+
+{\displaystyle \Lambda }
+
+) that sets the expansion rate, 
+
+
+
+H
+
+
+{\displaystyle H}
+
+. A larger cosmological constant leads to a larger expansion rate:
+
+
+
+
+
+H
+∝
+
+
+Λ
+
+
+,
+
+
+{\displaystyle H\propto {\sqrt {\Lambda }},}
+
+
+
+where the constants of proportionality depend on conventions.
+
+
+
+
+Evolution of the de Sitter universe (dark blue, top curve) compared to other models.
+
+
+It is common to describe a patch of this solution as an expanding universe of the FLRW form where the scale factor is given by[1]
+
+
+
+
+
+a
+(
+t
+)
+=
+
+e
+
+H
+t
+
+
+,
+
+
+{\displaystyle a(t)=e^{Ht},}
+
+
+
+where the constant 
+
+
+
+H
+
+
+{\displaystyle H}
+
+ is the Hubble expansion rate and 
+
+
+
+t
+
+
+{\displaystyle t}
+
+ is time. As in all FLRW spaces, 
+
+
+
+a
+(
+t
+)
+
+
+{\displaystyle a(t)}
+
+, the scale factor, describes the expansion of physical spatial distances.
+Unique to universes described by the FLRW metric, a de Sitter universe has a Hubble Law that is not only consistent through all space, but also through all time (since the deceleration parameter is 
+
+
+
+q
+=
+−
+1
+
+
+{\displaystyle q=-1}
+
+), thus satisfying the perfect cosmological principle that assumes isotropy and homogeneity throughout space and time. There are ways to cast de Sitter space with static coordinates (see de Sitter space), so unlike other FLRW models, de Sitter space can be thought of as a static solution to Einstein's equations even though the geodesics followed by observers necessarily diverge as expected from the expansion of physical spatial dimensions. As a model for the universe, de Sitter's solution was not considered viable for the observed universe until models for inflation and dark energy were developed. Before then, it was assumed that the Big Bang implied only an acceptance of the weaker cosmological principle, which holds that isotropy and homogeneity apply spatially but not temporally.[2]
+Potential for the Universe[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This section contains weasel words: vague phrasing that often accompanies biased or unverifiable information. Such statements should be clarified or removed. (April 2011)
+
+
+
+Because our Universe entered the Dark Energy Dominated Era about five billion years ago, our universe is probably approaching a de Sitter universe in the infinite future. If the current acceleration of our universe is due to a cosmological constant then as the universe continues to expand all of the matter and radiation will be diluted. Eventually there will be almost nothing left but the vacuum energy, tiny thermal fluctuations, quantum fluctuations and our universe will have become a de Sitter universe.
+Relative expansion[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2011) (Learn how and when to remove this template message)
+
+
+
+
+
+
+
+
+
+This section contains weasel words: vague phrasing that often accompanies biased or unverifiable information. Such statements should be clarified or removed. (April 2011)
+
+
+
+The exponential expansion of the scale factor means that the physical distance between any two non-accelerating observers will eventually be growing faster than the speed of light. At this point those two observers will no longer be able to make contact. Therefore, any observer in a de Sitter universe would see event horizons beyond which that observer can never see nor learn any information. If our universe is approaching a de Sitter universe then eventually we will not be able to observe any galaxies other than our own Milky Way (and any others in the gravitationally bound Local Group, assuming they were to somehow survive to that time without merging).
+Modelling cosmic inflation[edit]
+Another application of de Sitter space is in the early universe during cosmic inflation. Many inflationary models are approximately de Sitter space and can be modelled by giving the Hubble parameter a mild time dependence. For simplicity, some calculations involving inflation in the early universe can be performed in de Sitter space rather than a more realistic inflationary universe. By using the de Sitter universe instead, where the expansion is truly exponential, there are many simplifications.
+See also[edit]
+
+
+Cosmology portal
+
+
+
+Cosmic inflation
+De Sitter space for more mathematical properties
+Deceleration parameter
+Causal patch
+
+References[edit]
+
+
+
+^ Adler, Ronald; Maurice Bazin; Menahem Schiffer (1965). Introduction to General Relativity. NY: McGraw-Hill. p. 468. 
+^ Dodelson, Scott (2003). Modern Cosmology (4. [print.]. ed.). San Diego: Academic Press. ISBN 978-0-12-219141-1. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=De_Sitter_universe&oldid=808571005"					
+Categories: Physical cosmologyExact solutions in general relativityInflation (cosmology)Hidden categories: Articles needing additional references from April 2011All articles needing additional referencesArticles with weasel words from April 2011 

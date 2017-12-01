@@ -1,0 +1,124 @@
+Harris–Benedict equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+The Harris–Benedict equation (also called the Harris-Benedict principle) is a method used to estimate an individual's basal metabolic rate (BMR) and daily kilocalorie requirements. The estimated BMR value is multiplied by a number that corresponds to the individual's activity level. The resulting number is the recommended daily kilocalorie intake to maintain current body weight.
+The Harris–Benedict equation may be used to assist weight loss — by reducing kilocalorie intake number below the estimated maintenance intake of the equation.[citation needed]
+
+
+
+Contents
+
+
+1 Step 1 – Calculating the Harris–Benedict BMR
+2 Step 2 – Determine Recommended Intake
+3 History
+4 See also
+5 Cited sources
+6 External links
+
+
+
+Step 1 – Calculating the Harris–Benedict BMR[edit]
+The original Harris–Benedict equations published in 1918 and 1919.[1][2]
+
+
+BMR calculation for men (metric)
+BMR = 66.5 + ( 13.75 × weight in kg ) + ( 5.003 × height in cm ) – ( 6.755 × age in years )
+
+
+BMR calculation for men (imperial)
+BMR = 66 + ( 6.2 × weight in pounds ) + ( 12.7 × height in inches ) – ( 6.76 × age in years )
+
+
+BMR calculation for women (metric)
+BMR = 655.1 + ( 9.563 × weight in kg ) + ( 1.850 × height in cm ) – ( 4.676 × age in years )
+
+
+BMR calculation for women (imperial)
+BMR = 655.1 + ( 4.35 × weight in pounds ) + ( 4.7 × height in inches ) - ( 4.7 × age in years )
+
+
+The Harris–Benedict equations revised by Roza and Shizgal in 1984.[3]
+
+
+Men
+BMR = 88.362 + (13.397 × weight in kg) + (4.799 × height in cm) - (5.677 × age in years)
+
+
+Women
+BMR = 447.593 + (9.247 × weight in kg) + (3.098 × height in cm) - (4.330 × age in years)
+
+
+The 95% confidence range for men is ±213.0 kcal/day, and ±201.0 kcal/day for women.
+The Harris–Benedict equations revised by Mifflin and St Jeor in 1990:[4]
+
+
+Men
+BMR = (10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) + 5
+
+
+Women
+BMR = (10 × weight in kg) + (6.25 × height in cm) - (5 × age in years) - 161
+
+
+Step 2 – Determine Recommended Intake[edit]
+The following table enables calculation of an individual's recommended daily kilocalorie intake to maintain current weight.[5]
+
+
+Little to no exercise
+Daily kilocalories needed = BMR x 1.2
+
+
+Light exercise (1–3 days per week)
+Daily kilocalories needed = BMR x 1.375
+
+
+Moderate exercise (3–5 days per week)
+Daily kilocalories needed = BMR x 1.55
+
+
+Heavy exercise (6–7 days per week)
+Daily kilocalories needed = BMR x 1.725
+
+
+Very heavy exercise (twice per day, extra heavy workouts)
+Daily kilocalories needed = BMR x 1.9
+
+
+History[edit]
+The Harris–Benedict equation sprang from a study by James Arthur Harris and Francis Gano Benedict, which was published in 1919 by the Carnegie Institution of Washington in the monograph A Biometric Study Of Basal Metabolism In Man. A 1984 revision improved its accuracy. Mifflin et al. published an equation more predictive for modern lifestyles in 1990.[4] Later work produced BMR estimators that accounted for lean body mass.
+See also[edit]
+
+Food energy
+Basal metabolic rate
+Resting metabolic rate
+
+Cited sources[edit]
+
+
+
+^ Harris JA, Benedict FG (1918). "A Biometric Study of Human Basal Metabolism". Proceedings of the National Academy of Sciences of the United States of America. 4 (12): 370–3. doi:10.1073/pnas.4.12.370. PMC 1091498 . PMID 16576330. 
+^ A Biometric Study of Basal Metabolism in Man. J. Arthur Harris and Francis G. Benedict. Washington, DC: Carnegie Institution, 1919.
+^ Roza AM, Shizgal HM (1984). "The Harris Benedict equation reevaluated: resting energy requirements and the body cell mass". The American Journal of Clinical Nutrition. 40 (1): 168–82. PMID 6741850. 
+^ a b Mifflin MD, St Jeor ST, Hill LA, Scott BJ, Daugherty SA, Koh YO (1990). "A new predictive equation for resting energy expenditure in healthy individuals". The American Journal of Clinical Nutrition. 51 (2): 241–7. PMID 2305711. 
+^ Harris Benedict formula for women and men. GottaSport.com. Retrieved on 2011-10-27.
+
+
+
+External links[edit]
+
+Harris-Benedict BMR Calculator at WebMD
+About.com's BMR Calculator
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Harris–Benedict_equation&oldid=810171156"					
+Categories: NutritionEquationsHidden categories: All articles with unsourced statementsArticles with unsourced statements from September 2014 

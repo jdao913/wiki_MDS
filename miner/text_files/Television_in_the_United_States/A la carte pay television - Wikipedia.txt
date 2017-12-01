@@ -1,0 +1,141 @@
+A la carte pay television - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A la carte pay television (from the French à la carte, "from the menu"), also referred to as pick-and-pay,[1] refers to a pricing model for pay television services in which customers subscribe to individual television channels. A la carte pricing contrasts with the prevailing model of bundling, in which channels are grouped into packages that are offered on an all-or-nothing basis.
+
+
+
+Contents
+
+
+1 Definition
+2 Canada
+3 United States
+
+3.1 The debate
+
+3.1.1 Support
+3.1.2 Opposition
+3.1.3 Sports programming
+
+
+
+
+4 India
+5 See also
+6 References
+7 External links
+
+
+
+Definition[edit]
+The term "a la carte" as applied to pay television has at least two meanings. In the strictest sense, the term refers to the ability of subscribers to select and pay for specific shows, such as is afforded on some Internet services like Amazon Video and iTunes. More conventionally, the term implies that subscribers can choose and pay for individual channels, and it is this definition that is usually employed in the discussions about the issue. In North America, cable and satellite providers offer this pricing scheme, but mostly for premium channels (such as HBO and Showtime) and out-of-market sports packages (such as NFL Sunday Ticket and NBA League Pass). The vast majority of channels remains in bundled tiers.[2]
+Some Internet-based subscription services also offer programmed "channels" that are available a la carte. With its 50 million subscribers worldwide, Netflix's streaming service established the sector, providing original programming as well as television series and films acquired from various distributors for a set monthly fee, with shows available on-demand. Netflix chief content officer Ted Sarandos made the distinction by noting that subscribers "can cancel Netflix with one click. Try calling your cable company and getting rid of a channel you’re not watching."[3] In October 2014, HBO and CBS announced comparable over-the-top services (HBO Now and CBS All Access) distributed via the Internet and mobile devices,[4] as did Lions Gate Entertainment in partnership with Tribeca Entertainment.[5]
+In an April 2017, Sling TV strayed from these definitions by rebranding its offering of bundled television packages "A La Carte TV". Some industry observers argued that the tagline was misleading.[6][7][8]
+Canada[edit]
+In Canada, a la carte service has been required by law since December 2016.[9][10] The legislation dates back to at least 2012 when the Canadian Radio-television and Telecommunications Commission (CRTC) ruled that consumers should be able to subscribe to individual channels, but the fewer channels purchased, the higher the cost for each one. No timeline was set.[11] In October 2013, Industry Minister James Moore said that Canadians "shouldn't have to pay for bundled television channels they don't watch" and indicated that the country's Conservative government would make it easier for subscribers to purchase channels individually.[12]
+On December 1, 2016, as per policy implemented by the CRTC on March 19, 2015, all television providers in Canada were required to offer an a la carte scheme.[1] Channels were typically priced between $4 and $7, making bundled packages the better deal for all but the most frugal subscribers. Consumers were incredulous about the offerings, but analysts were not surprised, arguing that the industry would be expected to protect its bottom line. While the CRTC required a basic offering of local television services and mandated channels costing $25 or less, it did not regulate the pricing of individual stations.[10][9]
+United States[edit]
+In the United States, the precedent for distributors bundling channels, rather than offering them a la carte, began shortly after passage of the Cable Television Consumer Protection and Competition Act of 1992, which enabled broadcasters to seek compensation from distributors in exchange for retransmitting a signal. Larger broadcasters negotiated not for higher fees, but for inclusion of their newer, lesser known, non-terrestrial channels. Fox, for example, obtained distribution for FX; NBC for CNBC.[13][14] Hence, bundling has not been just a marketing choice for distributors, but a contractual obligation.[15]
+Industry resistance to a la carte programming in the U.S. has been entrenched even during downturns. In 2011, for example, a combined loss of 1.2 million subscribers to Comcast and Time Warner Cable prompted rumors that program distributors themselves would push to unbundle at least some of their services. Cable analyst Craig Moffett argued that a modified a la carte model, consisting of smaller programming tiers, was more economically feasible for distributors and customers alike. At the time, Time Warner Cable experimented with such an offering in a limited trial, called TV Essentials.[16][17][18][19] IDC analyst Gary Ireland called such skinny bundles "simply a placeholder for a la carte" and predicted that consummer demand for the pricing scheme would eventually triumph.[20] At the end of 2015, 20.4% of U.S. households had either dropped cable service or never subscribed in the first place.[21]
+The debate[edit]
+Support[edit]
+The case for a la carte has centered on cost savings for subscribers. In 2006, Kevin Martin, then chairman of the Federal Communications Commission (FCC) and one of the best known advocates for the pricing scheme, presented a report to Congress arguing that, on average, consumers would save 13% on their monthly cable subscription rates if they were able to subscribe only to channels that they actually watched.[22]
+In May 2013, U.S. Senator John McCain introduced legislation that would have encouraged, through regulatory incentives, programmers and distributors to offer a la carte services. He cited an FCC survey finding that the cost of expanded basic cable has effectively risen from about US$25 a month in 1995 to over $54, greatly exceeding inflation. As predicted at the time by observers and McCain himself, the legislation did not pass.[23][24]
+Opposition[edit]
+Opposition to a la carte programming has centered in part on program diversity. When channels are bundled into large subscription tiers, less popular niche channels are more likely to survive because their cost is borne by both viewers and non-viewers, alike.[25][26] In 2008, the National Congress of Black Women and fourteen other groups argued that case in a letter to the FCC, writing that a la carte pricing would "wreak havoc" on programming diversity.[27] Televangelist Jerry Falwell opposed a la carte pricing for similar reasons, fearing that the pricing model would force Christian broadcasters off the air, although not all religious broadcasters agreed.[28]
+A la carte opponents have also cited economics, arguing that the perceived cost savings of a la carte pricing would be illusory for most subscribers and dramatically reduce revenues for programmers. A December 2013 analysis of the U.S. market by investment bank and asset management firm Needham & Company concluded an a la carte scheme would cut $80 billion to $113 billion of consumer value from the industry, cost at least $45 billion in advertising, and eliminate at least 124 channels and some 1.4 million media-related jobs. The firm based its estimates on the assumption that the average annual operating cost of an entertainment cable channel is $280 million, which would require at least 165,000 viewers to break even. Based on 2012 viewership, that would leave about 56 channels standing. Analyst Laura Martin recommended that the current business model of bundled tiered subscriptions be kept with no changes.[2][29]
+In a May 2014 New York Times column, Josh Barro pointed to academic research concluding that an a la carte system would not benefit customers. A typical subscriber, he wrote, would pay "slightly more on cable under an unbundled system, while watching slightly fewer channels." A 2011 Stanford University study cited by Barro simulated a 49-channel subscription bundle being switched to an la carte scheme. The researchers concluded that subscribers would pay 103.0% more in fees passed on by distributors, while consumer welfare would likely be worse, changing between -5.4% and 0.2%.[30] Part of the reason is efficiency: some distribution costs are fixed whether a distributor provides a few channels or many. If fewer people subscribe, the base subscription rate is likely to go up. In addition, programmers would receive less revenue in carriage fees and advertising revenues, and would look to its remaining viewers to make up the difference. However, some subscribers would benefit from a la carte, including those who have opted out of bundled channels, but might subscribe to just a few, as well as subscribers with no interest in sports. Casual sports fans, on the other hand, could pay a higher rate.[31]
+Sports programming[edit]
+By 2013, the outsized cost of sports programming paid by distributors and passed on to subscribers had influenced the debate. The Needham study maintained that the creation of a separate sports tier would reduce industry revenues by $13 billion.[2] Cable pioneer John C. Malone stated that, for subscribers uninterested in television sports, "runaway sports rights" costs amounted to "a high tax".[32]
+The most pronounced example was the national sports network ESPN, whose monthly per-subscriber fee charged to distributors in 2013 averaged $5.54, more than four times that of the second most costly national network. According to a report in The New York Times, many subscribers paid for ESPN through bundled subscriptions, but did not watch it. Of the 100 million households in the United States, just 1.36 million people viewed ESPN in prime time during the second quarter of 2013. ESPN and its majority parent, The Walt Disney Company, called bundling a great value and a force for program diversity, and argued that without bundling, ESPN's monthly fee would rise to $15.[33] But fortunes subsequently changed for the network, which lost 10 million subscribers. The network went through two rounds of lay-offs, including some 50 broadcasters in April 2017. Analysts saw those moves as part of a shift in how ESPN distributes its programming, including the expected launch of a subscription streaming service:[34] the functional equivalent of an a la carte channel.
+Regional sports networks sold as part of bundled tiers were also a source of controversy. A notable example was Time Warner Cable's agreement to pay the Los Angeles Dodgers $8.35 billion over 25 years to exclusively carry the team's games on a jointly owned television outlet, SportsNet LA (since renamed Spectrum SportsNet LA), with the intent of reselling rights to other regional distributors. The largest satellite provider, DirecTV, offered to carry the channel on an la carte basis, arguing that SportsNet LA was most expensive of five regional sports networks and that a bundled offering would unfairly burden the company's subscribers. TWC responded that bundled sports channels were an industry standard, one that DirecTV itself adhered to in other markets.[32][35] As of the end of the 2016 Major League Baseball Season, the dispute resulted in Dodgers game telecasts being unavailable to the majority of Southern California households for three consecutive seasons.[36]
+India[edit]
+Further information: Television in India
+In India, terrestrial and free-to-air television is free with no monthly payments, while cable, direct to home (DTH) and IPTV require a monthly payment that varies depending on how many channels a subscriber chooses to pay for. Channels are sold in packages/bouquets/bundles or a la carte. All television service providers are required, by law, to provide a la carte selection of channels. India is the first country in the world to couple a la carte pricing with a price cap.[37] Multiple-system operator (MSO) Hathway was the first to offer channels on an a la carte basis in India, announcing such a service on September 3, 2003.[38]
+On September 3, 2007, the Telecom Regulatory Authority of India (TRAI) issued the Telecommunication (Broadcasting and Cable Services) Interconnection (Fourth Amendment) Regulation 2007, which went into law on December 1; the rules require all broadcasters to offer channels on an a la carte basis.[39][40] The regulation states, "All broadcasters will compulsorily offer all their channels on a la carte basis to DTH operators. Additionally, they may also offer bouquets, but they will not compel any DTH operator to include the entire bouquet in any package being offered by DTH operators to their subscribers".[41] Prior to the regulation, only customers in areas covered by the conditional access system (CAS), and cable systems providing the services, had the option of choosing to buy only the channels they were interested in. TRAI intervened after DTH operators complained that broadcasters were forcing them to carry channels that they did not want.[42] In the Telecommunication (Broadcasting and Cable) Services (Second) Tariff (Eighth Amendment) Order, 2007 (a revision of the earlier regulation issued on October 4, 2007), broadcasters were ordered to offer all channels on an a la carte basis to cable providers. Like the earlier regulation concerning DTH operators, this order took effect on December 1, 2007. It also permitted packages to be offered along with a la carte.[43][44]
+Several broadcasters, such as STAR India, Zee Turner, Set Discovery and Sun TV, challenged TRAI's order in the Telecom Disputes Settlement Appellate Tribunal (TDSAT).[45][46][47] On January 15, 2008, TDSAT refused to grant a stay on the appeal challenging TRAI's directive; TDSAT overruled the broadcasters' objections.[48] The agency later set aside TRAI's December 2007 tariff regime. TRAI challenged TDSAT's order in the Supreme Court, and stated in proceedings on July 22, 2010 that "in the analog, non-addressable environment, the authority is of the view that a la carte should not be made mandatory at the wholesale level as technological constraints in any case make it impossible for the benefits of a la carte provisioning to be passed on to subscribers".[49][50]
+TRAI ordered that pay television customers in India must be given a free choice of channels rather than be forced to choose package deals, enforcing a January 2011 deadline to implement the changes.[51][52] The order stated, "Every service provider providing broadcasting services or cable services to its subscribers using an addressable system shall offer all pay channels to its subscribers on a la carte basis and shall specify the maximum retail price for each pay channel".[53] Tata Sky, Airtel digital TV, Videocon d2h, In Digital and Reliance Digital TV launched a la carte options in January 2011.[54][55][56][57]
+See also[edit]
+
+Carriage dispute
+Family and Consumer Choice Act of 2007
+
+References[edit]
+
+
+^ a b "CRTC rules cable companies must offer pick-and-pay channels, $25 basic package". CBC News. March 19, 2015. Retrieved April 9, 2015. 
+^ a b c Laura Martin; Dan Medina. "The Future of TV" (PDF). Needham Insights. Needham & Company. Archived from the original (PDF) on November 2, 2013. Retrieved October 25, 2013. 
+^ Villarreal, Yvonne (January 17, 2016). "It's still 'Netflix and no ratings' -- Ted Sarandos rejects a numbers 'arms race'". Los Angeles Times. 
+^ Emily Steel (October 16, 2014). "Cord-Cutters Rejoice: CBS Joins Web Stream". The New York Times. The New York Times Company. 
+^ Ryan Faughnder (October 20, 2014). "Lionsgate and Tribeca team up for new video streaming service". Los Angeles Times. Tribune Publishing. 
+^ Newman, Jared (May 4, 2017). "Sling TV misleads cord cutters with its". TechHive. Retrieved 2017-06-03. 
+^ Chris, Morran (May 9, 2017). "Why Aren't More Cord-Cutters Flocking To Live-TV Streaming Services?". Consumerist. Retrieved 2017-06-03. 
+^ Dawson, Jan (2017-05-05). "No one is getting internet TV right — yet". Recode. Retrieved 2017-06-03. 
+^ a b Lazarus, David. "High channel prices overshadow arrival of a la carte TV in Canada". Los Angeles Times. Retrieved 2016-12-10. 
+^ a b Harris, Sophia (December 1, 2016). "Pick and pay TV is here, but at current prices, it might not be worth it". CBC Radio Canada. Retrieved 2016-12-10. 
+^ Steve Ladurantaye (July 20, 2012). "CRTC gives TV subscribers more control, with a catc". The Globe and Mail. Retrieved April 2, 2013. 
+^ "Canadian gov't to push cable providers to unbundle channels". Reuters. October 13, 2013. Retrieved October 25, 2013. 
+^ John McMurria (2008). "Cable Carriage Disputes". In Robin Andersen; Jonathan Grey. Battleground: The Media (PDF). 1. Westport, Connecticut: Greenwood Press. pp. 69–76. ISBN 978-0-313-34167-0. 
+^ "Cable Carriage of Broadcast Stations". Guides. Federal Communications Commission. Retrieved July 26, 2012. 
+^ "Episode 488: The Secret History Of Your Cable Bill". NPR (Planet Money). September 27, 2013. Retrieved January 10, 2015. 
+^ Yinka Adegoke (September 27, 2011). "In switch, cable operators want to go "a la carte"". Reuters. Retrieved April 2, 2013. 
+^ Kelli B. Grant (January 27, 2012). "Cable TV on the Cheap". SmartMoney. Retrieved April 2, 2013. 
+^ Eriq Gardner (September 24, 2013). "Viacom CEO Philippe Dauman Doesn't Expect A La Carte Cable Law". The Hollywood Reporter. Guggenheim Digital Media. 
+^ Jared Newman (January 3, 2013). "Intel's a la Carte TV Plans Are Still Slow-Going". Time. Time Inc. 
+^ Lazarus, David (May 31, 2016). "Cord cutting: A la carte channels looking more likely". Los Angeles Times. Retrieved 2016-12-13. 
+^ Pressman, Aaron (April 15, 2016). "More Than One in Five Households Has Dumped the Cable Goliath". Fortune. Retrieved 2016-12-13. 
+^ Leslie Cauley (February 12, 2006). "Push for 'a la carte' cable picks up steam". USA Today. Gannett Company. Retrieved September 17, 2013. 
+^ Dan Nowicki (May 20, 2013). "McCain bill would create 'a la carte' cable pricing". USA Today. Gannett Company. Retrieved June 1, 2013. 
+^ "Senator John McCain Introduces New "A La Carte" Cable Bill". U.S. Senator John McCain (Press release). May 9, 2013. Retrieved June 1, 2013. 
+^ Ken Belson (February 9, 2006). "F.C.C. Supports à la Carte Cable Option". The New York Times. The New York Times Company. Retrieved April 2, 2013. 
+^ "TV Industry Fiercely Opposed to A la Carte Channel Offering". Fox News. Associated Press. February 25, 2006. Retrieved April 2, 2013. 
+^ Peter Kaplan (May 30, 2008). "US minority groups oppose FCC "a la carte" proposal". Reuters. Retrieved April 2, 2013. 
+^ John Eggerton (May 12, 2007). "Controversial TV Preacher Jerry Falwell Dies". Broadcasting and Cable. Reed Business Information. Retrieved April 2, 2013. 
+^ Meg James (December 4, 2013). "A la carte TV pricing would cost industry billions, report says". Los Angeles Times. Tribune Publishing. 
+^ Gregory S. Crawford; Ali Yurukoglu (April 2011). "The Welfare Effects of Bundling in Multichannel Television Markets" (PDF). Stanford University. 
+^ Josh Barro (May 15, 2014). "Why Unbundling Cable Would Not Save You Money". The New York Times. The New York Times Company. 
+^ a b Brian Stelter (January 25, 2013). "Rising TV Fees Mean All Viewers Pay to Keep Sports Fans Happy". The New York Times. The New York Times Company. Retrieved April 2, 2013. 
+^ Richard Sandomir; James Andrew Miller; Steve Eder (August 26, 2013). "To Protect Its Empire, ESPN Stays on Offense". The New York Times. The New York Times Company. Retrieved September 17, 2013. 
+^ Drape, Joe; Barnes, Brooks (2017-04-26). "A Struggling ESPN Lays Off Many On-Air Personalities". The New York Times. ISSN 0362-4331. Retrieved 2017-04-26. 
+^ Alex Ben Block (April 5, 2014). "DirecTV: Time Warner Cable Trying to Force Deal for Dodgers Cable Network". The Hollywood Reporter. Guggenheim Digital Media. 
+^ James, Meg (September 6, 2016). "Fans may see Vin Scully games on KTLA, but a fix to the Dodgers TV standoff is nowhere in sight". Los Angeles Times. Retrieved 2016-12-13. 
+^ D Govarda (June 29, 2003). "CAS: pay channel broadcasters win first round". India Times. Retrieved May 12, 2013. 
+^ "Hathway announces cable TV subscriber rates and packages". IndianTelevision.com. September 3, 2003. Retrieved May 12, 2013. 
+^ "Broadcasters to give channels a la carte to DTH operators: Trai". IndianTelevision.com. September 3, 2007. Retrieved May 12, 2013. 
+^ "Broadcasters must offer all channels". The Hindu. September 4, 2007. Retrieved May 12, 2013. 
+^ "DTH companies can pick channels of choice: TRAI". The Hindu. September 3, 2007. Archived from the original on June 29, 2013. Retrieved May 12, 2013. 
+^ Sreejiraj Eluvangal (September 4, 2007). "Trai unbundles TV channels for DTH". Livemint. Retrieved May 12, 2013. 
+^ "Trai issues new tariff order, b'casters must offer channels a la carte to MSOs". Indiantelevision.com. October 4, 2007. Retrieved May 12, 2013. 
+^ "TRAI announces new tariff for non-CAS areas". The Hindu. 2007-10-05. Retrieved May 12, 2013. 
+^ "Zee joins Sony to challenge Trai's regulation in non-CAS areas". IndianTelevision.com. November 21, 2007. Retrieved May 12, 2013. 
+^ "Sun moves Tdsat against Trai's a la carte pricing for non-CAS areas". IndianTelevision.com. January 4, 2008. Retrieved May 12, 2013. 
+^ "A la carte Tariff Order valid from 1 Dec, Tdsat refuses stay". IndianTelevision.com. November 22, 2007. Retrieved May 12, 2013. 
+^ "TDSAT refuses stay on Trai directive to broadcasters". Financial Express. January 15, 2008. Retrieved May 12, 2013. 
+^ Sanjay K Singh (July 22, 2010). "Trai wants to cap cable rate at Rs 250/month". India Times. Retrieved May 12, 2013. 
+^ "TRAI seeks SC nod to notify tariff order". The Indian Express. January 26, 2011. Retrieved May 12, 2013. 
+^ "A la carte menu for DTH subscribers at Rs. 150". The Hindu. July 22, 2010. Retrieved May 12, 2013. 
+^ "Pick and pay DTH channels from September". India Times. July 23, 2010. Retrieved May 12, 2013. 
+^ "DTH players told to offer pay channels on la carte basis". The Hindu Business Line. July 23, 2010. Retrieved May 12, 2013. 
+^ "Now Airtel Digital TV announces a la carte pricing". IndianTelevision.com. January 18, 2011. Retrieved May 12, 2013. 
+^ "Videocon d2h offers channels a la carte". IndianTelevision.com. January 22, 2011. Retrieved May 12, 2013. 
+^ "Tata Sky allows subscribers to make their own packs". IndianTelevision.com. January 10, 2011. Retrieved May 12, 2013. 
+^ "Reliance Digital TV unveils a la carte menu". IndianTelevision.com. January 24, 2011. Retrieved May 12, 2013. 
+
+
+External links[edit]
+
+NCTA (National Cable Television Association) Issue Brief on A La Carte
+Canadian pick-and-pay offerings from Shaw Communications, Vmedia, Rogers Communications and Manitoba Telecom Services,
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=A_la_carte_pay_television&oldid=805016374"					
+Categories: Broadcast lawTelevision terminologyUnited States communications regulationCable television in the United States 

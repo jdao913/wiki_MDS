@@ -1,0 +1,354 @@
+Diophantine set - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this article if you can. (April 2011) (Learn how and when to remove this template message)
+
+
+
+In mathematics, a Diophantine equation is an equation of the form P(x1, ..., xj, y1, ..., yk)=0 (usually abbreviated P(x,y)=0 ) where P(x,y) is a polynomial with integer coefficients. A Diophantine set is a subset S of Nj [1] so that for some Diophantine equation P(x,y)=0,
+
+
+
+
+
+
+
+
+n
+¯
+
+
+
+∈
+S
+
+⟺
+
+(
+∃
+
+
+
+m
+¯
+
+
+
+∈
+
+
+N
+
+
+k
+
+
+)
+(
+P
+(
+
+
+
+n
+¯
+
+
+
+,
+
+
+
+m
+¯
+
+
+
+)
+=
+0
+)
+.
+
+
+{\displaystyle {\bar {n}}\in S\iff (\exists {\bar {m}}\in \mathbb {N} ^{k})(P({\bar {n}},{\bar {m}})=0).}
+
+
+
+That is, a parameter value is in the Diophantine set S if and only if the associated Diophantine equation is satisfiable under that parameter value. Note that the use of natural numbers both in S and the existential quantification merely reflects the usual applications in computability and model theory. We can equally well speak of Diophantine sets of integers and freely replace quantification over natural numbers with quantification over the integers.[2] Also it is sufficient to assume P is a polynomial over 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbb {Q} }
+
+ and multiply P by the appropriate denominators to yield integer coefficients. However, whether quantification over rationals can also be substituted for quantification over the integers is a notoriously hard open problem.[citation needed]
+The MRDP theorem states that a set of integers is Diophantine if and only if it is computably enumerable.[3] A set of integers S is recursively enumerable if and only if there is an algorithm that, when given an integer, halts if that integer is a member of S and runs forever otherwise. This means that the concept of general Diophantine set, apparently belonging to number theory, can be taken rather in logical or recursion-theoretic terms. This is far from obvious, however, and represented the culmination of some decades of work.
+Matiyasevich's completion of the MRDP theorem settled Hilbert's tenth problem. Hilbert's tenth problem[4] was to find a general algorithm which can decide whether a given Diophantine equation has a solution among the integers. While Hilbert's tenth problem is not a formal mathematical statement as such, the nearly universal acceptance of the (philosophical) identification of a decision algorithm with a total computable predicate allows us to use the MRDP theorem to conclude that the tenth problem is unsolvable.
+
+
+
+Contents
+
+
+1 Examples
+2 Matiyasevich's theorem
+
+2.1 Proof technique
+
+
+3 Application to Hilbert's tenth problem
+
+3.1 Refinements
+
+
+4 Further applications
+5 Notes
+6 References
+7 External links
+
+
+
+Examples[edit]
+The Pell equation
+
+
+
+
+
+
+x
+
+2
+
+
+−
+d
+(
+y
++
+1
+
+)
+
+2
+
+
+=
+1
+
+
+{\displaystyle x^{2}-d(y+1)^{2}=1}
+
+
+
+is an example of a Diophantine equation with a parameter. The equation has a solution in the unknowns 
+
+
+
+x
+,
+y
+
+
+{\displaystyle x,y}
+
+ precisely when the parameter 
+
+
+
+d
+
+
+{\displaystyle d}
+
+ is 0 or not a perfect square.[citation needed] Namely, this equation provides a Diophantine definition of the set
+
+{0,2,3,5,6,7,8,10,...}
+
+consisting of 0 and the natural numbers that are not perfect squares. Other examples of Diophantine definitions are as follows:
+
+The equation 
+
+
+
+a
+=
+(
+2
+x
++
+3
+)
+y
+
+
+{\displaystyle a=(2x+3)y}
+
+ only has solutions in 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+ when a is not a power of 2.
+The equation 
+
+
+
+a
+=
+(
+x
++
+2
+)
+(
+y
++
+2
+)
+
+
+{\displaystyle a=(x+2)(y+2)}
+
+ only has solutions in 
+
+
+
+
+N
+
+
+
+{\displaystyle \mathbb {N} }
+
+ when a is greater than 1 and is not a prime number.
+The equation 
+
+
+
+a
++
+x
+=
+b
+
+
+{\displaystyle a+x=b}
+
+ defines the set of pairs 
+
+
+
+(
+a
+
+,
+
+b
+)
+
+
+{\displaystyle (a\,,\,b)}
+
+ such that 
+
+
+
+a
+≤
+b
+.
+
+
+{\displaystyle a\leq b.}
+
+
+
+Matiyasevich's theorem[edit]
+Matiyasevich's theorem, also called the Matiyasevich–Robinson–Davis–Putnam or MRDP theorem, says:
+
+Every computably enumerable set is Diophantine.
+
+A set S of integers is computably enumerable if there is an algorithm such that: For each integer input n, if n is a member of S, then the algorithm eventually halts; otherwise it runs forever. That is equivalent to saying there is an algorithm that runs forever and lists the members of S. A set S is Diophantine precisely if there is some polynomial with integer coefficients f(n, x1, ..., xk) such that an integer n is in S if and only if there exist some integers x1, ..., xk such that f(n, x1, ..., xk) = 0.
+Conversely, every Diophantine set is computably enumerable: consider a Diophantine equation f(n, x1, ..., xk) = 0. Now we make an algorithm which simply tries all possible values for n, x1, ..., xk (in, say, some simple order consistent with the increasing order of the sum of their absolute values), and prints n every time f(n, x1, ..., xk) = 0. This algorithm will obviously run forever and will list exactly the n for which f(n, x1, ..., xk) = 0 has a solution in x1, ..., xk.
+Proof technique[edit]
+Yuri Matiyasevich utilized a method involving Fibonacci numbers, which grow exponentially, in order to show that solutions to Diophantine equations may grow exponentially. Earlier work by Julia Robinson, Martin Davis and Hilary Putnam – hence, MRDP – had shown that this suffices to show that every computably enumerable set is Diophantine.
+Application to Hilbert's tenth problem[edit]
+Hilbert's tenth problem asks for a general algorithm deciding the solvability of Diophantine equations. The conjunction of Matiyasevich's result with earlier results, collectively now termed the MRDP theorem, implies that a solution to Hilbert's tenth problem is impossible.
+Refinements[edit]
+Later work has shown that the question of solvability of a Diophantine equation is undecidable even if the equation only has 9 natural number variables (Matiyasevich, 1977) or 11 integer variables (Zhi Wei Sun, 1992).
+Further applications[edit]
+Matiyasevich's theorem has since been used to prove that many problems from calculus and differential equations are unsolvable.
+One can also derive the following stronger form of Gödel's first incompleteness theorem from Matiyasevich's result:
+
+Corresponding to any given consistent axiomatization of number theory,[5] one can explicitly construct a Diophantine equation which has no solutions, but such that this fact cannot be proved within the given axiomatization.
+
+According to the incompleteness theorems, a powerful-enough consistent axiomatic theory is incomplete, meaning the truth of some of its propositions cannot be established within its formalism. The statement above says that this incompleteness must include the solvability of a diophantine equation, assuming that the theory in question is a number theory.
+Notes[edit]
+
+
+^ Planet Math Definition
+^ The two definitions are equivalent. This can be proved using Lagrange's four-square theorem.
+^ The theorem was established in 1970 by Matiyasevich and is thus also known as Matiyasevich's theorem. However, the proof given by Matiyasevich relied extensively on previous work on the problem and the mathematical community has moved to calling the equivalence result the MRDP theorem or the Matiyasevich-Robinson-Davis-Putnam theorem, a name which credits all the mathematicians that made significant contributions to this theorem.
+^ David Hilbert posed the problem in his celebrated list, from his 1900 address to the International Congress of Mathematicians.
+^ More precisely, given a 
+
+
+
+
+Σ
+
+1
+
+
+0
+
+
+
+
+{\displaystyle \Sigma _{1}^{0}}
+
+-formula representing the set of Gödel numbers of sentences which recursively axiomatize a consistent theory extending Robinson arithmetic.
+
+
+References[edit]
+
+Matiyasevich, Yuri V. (1970). Диофантовость перечислимых множеств [Enumerable sets are Diophantine]. Doklady Akademii Nauk SSSR (in Russian). 191: 279–282. MR 0258744.  English translation in Soviet Mathematics 11 (2), pp. 354–357.
+Davis, Martin (1973). "Hilbert's Tenth Problem is Unsolvable". American Mathematical Monthly. 80: 233–269. doi:10.2307/2318447. ISSN 0002-9890. Zbl 0277.02008. 
+Matiyasevich, Yuri V. (1993). Hilbert's 10th Problem. MIT Press Series in the Foundations of Computing. Foreword by Martin Davis and Hilary Putnam. Cambridge, MA: MIT Press. ISBN 0-262-13295-8. Zbl 0790.03008. 
+Shlapentokh, Alexandra (2007). Hilbert's tenth problem. Diophantine classes and extensions to global fields. New Mathematical Monographs. 7. Cambridge: Cambridge University Press. ISBN 0-521-83360-4. Zbl 1196.11166. 
+Sun Zhi-Wei (1992). "Reduction of unknowns in Diophantine representations" (PDF). Science China Mathematics. 35 (3): 257–269. Zbl 0773.11077. 
+
+External links[edit]
+
+Matiyasevich theorem article on Scholarpedia.
+Diophantine Set article on PlanetMath.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Diophantine_set&oldid=809708503"					
+Categories: Diophantine equationsHilbert's problemsHidden categories: Articles needing cleanup from April 2011All pages needing cleanupCleanup tagged articles without a reason field from April 2011Wikipedia pages needing cleanup from April 2011All articles with unsourced statementsArticles with unsourced statements from September 2017CS1 uses Russian-language script (ru)CS1 Russian-language sources (ru) 

@@ -1,0 +1,39 @@
+Cauchy–Rassias stability - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+A classical problem of Stanislaw Ulam in the theory of functional equations is the following: When is it true that a function which approximately satisfies a functional equation E must be close to an exact solution of E? In 1941, Donald H. Hyers gave a partial affirmative answer to this question in the context of Banach spaces. This was the first significant breakthrough and a step towards more studies in this domain of research. Since then, a large number of papers have been published in connection with various generalizations of Ulam's problem and Hyers' theorem. In 1978, Themistocles M. Rassias succeeded in extending the Hyers' theorem by considering an unbounded Cauchy difference. He was the first to prove the stability of the linear mapping in Banach spaces. In 1950, T. Aoki had provided a proof of a special case of the Rassias' result when the given function is additive. For an extensive presentation of the stability of functional equations in the context of Ulam's problem, the interested reader is referred to the recent book of S.-M. Jung, published by Springer, New York, 2011 (see references below).
+Th. M. Rassias' theorem attracted a number of mathematicians who began to be stimulated to do research in stability theory of functional equations. By regarding the large influence of S. M. Ulam, D. H. Hyers and Th. M. Rassias on the study of stability problems of functional equations, this concept is called the Hyers–Ulam–Rassias stability.
+In the special case when Ulam's problem accepts a solution for the Cauchy functional equation f(x + y) = f(x) + f(y), the equation E is said to satisfy the Cauchy–Rassias stability. The name is referred to Augustin-Louis Cauchy and Themistocles M. Rassias.
+References[edit]
+
+
+P. M. Pardalos, P. G. Georgiev and H. M. Srivastava (eds.), Nonlinear Analysis. Stability, Approximation, and Inequalities. In honor of Themistocles M. Rassias on the occasion of his 60th birthday, Springer, New York, 2012.
+D. H. Hyers, On the stability of the linear functional Equation, Proc. Natl. Acad. Sci. USA, 27(1941), 222-224.
+Th. M. Rassias, On the stability of the linear mapping in Banach spaces, Proceedings of the American Mathematical Society 72(1978), 297-300. [Translated in Chinese and published in: Mathematical Advance in Translation, Chinese Academy of Sciences 4 (2009), 382-384.]
+Th. M. Rassias, On the stability of functional equations and a problem of Ulam, Acta Applicandae Mathematicae, 62(1)(2000), 23-130.
+S.-M. Jung, Hyers-Ulam-Rassias Stability of Functional Equations in Nonlinear Analysis, Springer, New York, 2011, ISBN 978-1-4419-9636-7.
+T. Aoki, On the stability of the linear transformation in Banach spaces, J. Math. Soc. Japan, 2(1950), 64-66.
+C.-G. Park, Generalized quadratic mappings in several variables, Nonlinear Anal., 57(2004), 713–722.
+J.-R. Lee and D.-Y. Shin, On the Cauchy-Rassias stability of a generalized additive functional equation, J. Math. Anal. Appl. 339(1)(2008), 372–383.
+C. Baak, Cauchy – Rassias stability of Cauchy-Jensen additive mappings in Banach spaces, Acta Math. Sinica (English Series), 15(1)(1999), 1-11.
+C.-G. Park, Homomorphisms between Lie JC*- algebras and Cauchy – Rassias stability of Lie JC*-algebra derivations, J. Lie Theory, 15(2005), 393–414.
+J.-R. Lee, D.-Y. Shin, On the Cauchy-Rassias stability of the Trif functional equation in C*-algebras. J. Math. Anal. Appl. 296(1)(2004), 351–363.
+C. Baak, H.- Y. Chu and M. S. Moslehian, On the Cauchy-Rassias inequality and linear n–inner product preserving mappings, Math. Inequal. Appl. 9(3)(2006), 453–464.
+C.-G. Park, M. Eshaghi Gordji and H. Khodaei, A fixed point approach to the Cauchy-Rassias stability of general Jensen type quadratic-quadratic mappings, Bull. Korean Math. Soc. 47(2010), no. 5, 987–996
+A. Najati, Cauchy-Rassias stability of homomorphisms associated to a Pexiderized Cauchy-Jensen type functional equation, J. Math. Inequal. 3(2)(2009), 257-265.
+C.-G. Park and S. Y. Jang, Cauchy-Rassias stability of sesquilinear n-quadratic mappings in Banach modules, Rocky Mountain J. Math. 39(6)(2009), 2015–2027.
+Pl. Kannappan, Functional Equations and Inequalities with Applications, Springer, New York, 2009, ISBN 978-0-387-89491-1.
+P. K. Sahoo and Pl. Kannappan, Introduction to Functional Equations, CRC Press, Chapman & Hall Book, Florida, 2011, ISBN 978-1-4398-4111-2.
+Th. M. Rassias and J. Brzdek (eds.), Functional Equations in Mathematical Analysis, Springer, New York, 2012, ISBN 978-1-4614-0054-7.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Cauchy–Rassias_stability&oldid=798002338"					
+Categories: Mathematical analysisFunctional analysisFunctional equations 

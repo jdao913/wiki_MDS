@@ -1,0 +1,383 @@
+AccuWeather - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+AccuWeather Inc.
+
+
+
+
+
+Type
+
+Private
+
+
+Genre
+Weather forecasting
+
+
+Founded
+November 15, 1962; 54 years ago (1962-11-15)
+
+
+Founder
+Joel Myers
+
+
+Headquarters
+State College, Pennsylvania, U.S.
+
+
+
+Key people
+
+Barry Lee Myers (CEO)
+
+
+Services
+smartphone weather applications, online forecasts and videos
+
+
+
+Number of employees
+
+450
+
+
+Website
+www.accuweather.com
+
+
+AccuWeather Inc. is an American media company that provides commercial weather forecasting services worldwide.
+AccuWeather was founded in 1962 by Joel N. Myers, then a Pennsylvania State University graduate student working on a degree in meteorology. His first customer was a gas company in Pennsylvania. While running his company, Myers also became a member of Penn State's meteorology faculty. The company adopted the name "AccuWeather" in 1971.
+AccuWeather is headquartered in State College, Pennsylvania, with sales offices in Rockefeller Center in New York City and Fort Washington, Pennsylvania. In 2006, AccuWeather acquired WeatherData, Inc. of Wichita, Kansas. As WeatherData Services, Inc., an AccuWeather company, the Wichita facility now houses AccuWeather’s specialized severe weather forecasters.[1]
+
+
+
+Contents
+
+
+1 Company profile
+
+1.1 Leadership
+
+
+2 Products and services
+
+2.1 National weather channel
+2.2 RealFeel temperature
+
+
+3 Criticisms
+
+3.1 Long-term forecasting practices
+3.2 National Weather Service
+3.3 iOS location privacy
+
+
+4 See also
+5 References
+6 External links
+
+6.1 Reviews
+
+
+
+
+
+Company profile[edit]
+AccuWeather markets weather products and services, with 175,559 clients worldwide in media, business and government.[2] It also runs the free, advertising-supported website AccuWeather.com, an online weather provider. Third-party web analytics providers Alexa and SimilarWeb rated the site as the 200th most visited website in the United States, as of November 2015.[3]
+AccuWeather's forecasts and services are based on weather information derived from numerous sources, including weather observations and data gathered by the National Weather Service and meteorological organizations outside the United States, and from information provided by non-meteorological organizations such as the Environmental Protection Agency and the armed forces. AccuWeather employs 500 people, of whom 115 are meteorologists. AccuWeather operates a 24-hour commercially sponsored weather channel known as The Local AccuWeather Channel, which is similar to the now defunct NBC Weather Plus. The Local AccuWeather Channel launched in 2005 and is currently on the air in 56 markets including New York City, Los Angeles, Chicago, Philadelphia, San Francisco and Houston.[2] AccuWeather operates a 24/7 weather channel known as The AccuWeather Network. The network broadcasts pre-recorded national and regional weather forecasts, analysis of ongoing weather events, and weather-related news, along with local weather segments. The network’s studio and master control facilities are based at AccuWeather’s headquarters in State College, Pennsylvania. [4]
+Leadership[edit]
+Joel N. Myers, the founder of AccuWeather, serves as president of the firm and chairman of the board. His brother Barry Lee Myers became the chief executive officer in 2007,[5] and his other brother, Evan Myers, serves as Chief Operating Officer[6] and Senior Vice President.
+Products and services[edit]
+
+
+
+
+Screenshot of weather in Kepahiang using weather application provided by MIUI, and the source is provided by AccuWeather.
+
+
+The regular weather provider for Bloomberg Television and numerous local TV stations, AccuWeather also provides guest commentary on major TV networks. AccuWeather, through the United Stations Radio Networks (previously through Westwood One until 2009), also provides weather for numerous radio stations and newspapers, including WINS (AM) in New York City, KFWB (AM) in Los Angeles and WBZ (AM) in Boston. During severe-weather episodes, AccuWeather employees have been called upon by television journalists such as Larry King,[7] Geraldo Rivera,[8] and Greta van Susteren[9] for expert commentary. Many of its broadcast meteorologists, such as Elliot Abrams, are known nationally.[10]
+AccuWeather produces local weather videos each day for use on their own web site, on the Local AccuWeather Channel, on wired Internet and mobile application and web sites.[2] The mobile application has a minute-by-minute forecast[11] and also collects crowd-sourced weather observations.[12] The company is also active in the areas of convergence[2] and digital signage.[13] They have added a user-contributed video section to their photo gallery.
+The company has also planned to expand internationally. AccuWeather entered into a joint venture with Huafeng Media Group, receiving the sole rights to deliver forecasts made by the China Meteorological Administration, a government agency that controls Huafeng.[14] Besides its forecasting services to individual consumers, AccuWeather performs weather-related predictive analytical services for businesses, such as determining how weather conditions have influenced past sales history and advising businesses on adapting their sales strategy for future weather events.[15]
+National weather channel[edit]
+In 2015, Verizon FiOS replaced The Weather Channel with a new 24/7 all-weather television network called "The AccuWeather Channel". This followed earlier negotiations among AccuWeather, The Weather Channel and DirecTV. The AccuWeather Channel is a separate operation from "The Local AccuWeather Channel", which continues to run in selected markets across the country. It became the third 24/7 weather network to launch on American Television, after The Weather Channel in 1982 and WeatherNation TV in 2011.[16]
+RealFeel temperature[edit]
+AccuWeather created a unified and proprietary apparent temperature system known as "The AccuWeather Exclusive RealFeel Temperature" and has used the quantity in its forecasts and observations. The formula for calculating this value incorporates the effects of temperature, wind, humidity, sunshine intensity, cloudiness, precipitation, and elevation on the human body, similar to the rarely used (but public domain) wet-bulb globe temperature. AccuWeather has been granted a United States patent on The RealFeel Temperature,[17] but the formula is a trade secret and has not been reviewed by other meteorological authorities. In response to AccuWeather's "RealFeel", The Weather Channel introduced their "FeelsLike" temperature reading.[18]
+Criticisms[edit]
+Long-term forecasting practices[edit]
+In April 2012, AccuWeather drastically shortened the range of their publicly available historical data from 15 years to 1 year. They also began increasing the range of their forecast from 15 days, to 25 days, 45 days, and, by 2016, to 90 days. These hyper-extended forecasts have been compared to actual results several times and shown to be misleading, inaccurate and sometimes worse than simple predictions based on National Weather Service averages over a 30-year period.[19][20] It is generally accepted that the upper limit on how far one can reliably forecast is between one and two weeks, a limit based on both limits in observation systems and the chaotic nature of the atmosphere.[19][21][22] An informal assessment conducted by Jason Samenow at The Washington Post asserted that AccuWeather's forecasts at the 25-day range were often wrong by as many as ten degrees, no better than random chance and that the forecasts missed half of the fourteen days of rain that had occurred during the month of the assessment.[23] AccuWeather responds that it does not claim absolute precision in such extremely long forecasts and advises users to only use the forecast to observe general trends in the forecast period,[24] but this contrasts with the way the forecasts are presented.[25] An assessment from the Post determined that the 45-day forecasts were not even able to predict trends accurately, and that, although the forecasts did not decrease in accuracy with time, the forecasts were so far off even in the short range to be useless.[25] The Post commissioned another assessment from Penn State University professor Jon Nese, comparing several more cities to Accuweather's predictions; that assessment, while acknowledged as being limited to a single season, acknowledged that AccuWeather's forecasts were of value in short-range forecasting while also noting that their long-range forecasts beyond one week were less accurate than climatological averages.[20]
+National Weather Service[edit]
+The National Weather Service, which provides large amounts of the data that AccuWeather repackages and sells for profit, also provides that same information for free by placing it in the public domain.
+On April 14, 2005, U.S. Senator Rick Santorum (R-PA) introduced the "National Weather Service Duties Act of 2005" in the U.S. Senate. The legislation would have forbidden the National Weather Service from providing any such information directly to the public, and the legislation was generally interpreted as an attempt by AccuWeather to profit off of taxpayer-funded weather research by forcing its delivery through private channels.[26] The bill did not come up for a vote. Santorum received campaign contributions from AccuWeather's president, Joel Myers.[27]
+On October 12, 2017, President Donald Trump nominated AccuWeather CEO Barry Lee Myers to head the National Weather Service's parent administration, the National Oceanic and Atmospheric Administration. It was noted that unlike 11 of the previous 12 NOAA administrators, Myers lacks an advanced scientific degree, instead holding bachelor's and master's degrees in business and law.[28]
+iOS location privacy[edit]
+Security researcher Will Strafach intercepted traffic from the Accuweather iPhone app to discover that it sells location information to Reveal Mobile, even when customers have not given permission to share location information. ZDnet independently verified this information. [29]
+See also[edit]
+
+Meteorological companies
+
+References[edit]
+
+
+^ "ZoomInfo Cached Page". Cache.zoominfo.com. Retrieved 2011-11-20. 
+^ a b c d "Firm Expands Ways to Get Weather - Technology". redOrbit. 2006-12-03. Retrieved 2011-11-20. 
+^ "Accuweather.com Site Overview". Alexa. Retrieved 18 November 2016. 
+^ "National Weather". hollywoodreporter.com. November 5, 2017. 
+^ Feintzeig, Rachel (Mar 20, 2014), "Meet the Man Who Brings You the Weather", The Wall Street Journal, retrieved 18 November 2016 
+^ Samenow, Jason (April 11, 2016), "AccuWeather extends its controversial, 45-day weather forecasts to 90 days", The Washington Post, retrieved 18 November 2016 
+^ "CNN.com - Transcripts". CNN. 
+^ "Topics and Guests for September 24 & 25". Fox News. 2005-09-23. 
+^ "Covering Katrina". Fox News. 2005-08-29. [dead link]
+^ Athas, Eric. "AccuWeather forecaster Jim Kosek's over-the-top antics make him a Web sensation". Washington Post. 
+^ Moynihan, Tim (February 26, 2014), "AccuWeather's Revamped App Is the Perfect Blend of Utility and Beauty", WIRED, retrieved 9 April 2017 
+^ Swanner, Nate (July 21, 2015). "AccuWeather's new AccUcast service is like Waze for weather". The Next Web B.V. Retrieved 9 April 2017. 
+^ "CORRECTION: Content From AccuWeather to Expand to Digital Signs - Business". redOrbit. 2006-08-11. Retrieved 2011-11-20. 
+^ Dodillet, Lauren (May 28, 2015). "JV Brings AccuWeather Tech to China". China Business Review. US China Business Council. Retrieved 9 April 2017. 
+^ Davis, Jessica (November 23, 2015), "AccuWeather Storms Into Enterprise With Predictive Analytics", InformationWeek, retrieved 18 November 2016 
+^ "Verizon FiOS drops the Weather Channel". Los Angeles Times. 11 March 2015. Retrieved 1 June 2015. 
+^ "United States Patent: 7251579". Patft.uspto.gov. Retrieved 2011-11-20. 
+^ Carpenter, Mackenzie (January 25, 2014). "Have we become emotionally obsessed with the weather?". Pittsburgh Post-Gazette. Retrieved 11 February 2014. 
+^ a b Samenow, Jason (2016-04-11). "AccuWeather extends its controversial, 45-day weather forecasts to 90 days". The Washington Post. ISSN 0190-8286. Retrieved 2016-04-14. 
+^ a b Nese, Jon (2013-12-26). "Students put AccuWeather long-range forecasts to the test". The Washington Post. ISSN 0190-8286. Retrieved 2016-04-14. 
+^ Paul, Don (June 10, 2016). The Farmers' Almanac, long-range forecasts and other 'gibberish'. The Buffalo News. Retrieved June 12, 2016.
+^ "Chaos in the Atmosphere". www.aip.org. Retrieved 2016-04-14. 
+^ Samenow, Jason (August 6, 2013). Accuweather: You cannot be serious. The Washington Post. Retrieved August 7, 2013.
+^ "AccuWeather unveils 45-day forecast - DC News FOX 5 DC WTTG". 2013-08-25. Archived from the original on August 25, 2013. Retrieved 2016-04-14. CS1 maint: Unfit url (link)
+^ a b Mesereau, Dennis (October 8, 2013). AccuWeather’s 45-day forecast fails to impress in multi-city test. The Washington Post. Retrieved October 11, 2013.
+^ Weather info could go dark Archived May 17, 2007, at the Wayback Machine.
+^ "NEWSMEAT ▷ Joel Myers's Federal Campaign Contribution Report". Newsmeat.com. Archived from the original on 2011-10-20. Retrieved 2011-11-20. 
+^ Shepardson, David (October 12, 2017). "White House nominates AccuWeather CEO to head climate agency". Reuters. Retrieved October 12, 2017. 
+^ "ZDnet ▷ AccuWeather caught sending user location data, even when location sharing is off". ZDnet.com. Retrieved 2017-08-22. 
+
+
+External links[edit]
+
+Official website
+Skymotion by AccuWeather
+
+Reviews[edit]
+
+Ousley, Marvel (2007-04-26). "Grab your umbrella, AccuWeather is bringing personal weather to SL". SLNN.COM. Archived from the original on 22 May 2007. Retrieved 2007-06-25. 
+Durham Jr., Joel (2007-03-21). "Ten Must-Have Gadgets for Windows Vista Sidebar". PC World. Archived from the original on 6 July 2007. Retrieved 2007-06-25. 
+AccuWeather.com 15-day forecast widget for iPhone and Mac OS X users; iPhone Atlas - CNET Reviews
+
+
+
+
+
+
+
+v
+t
+e
+
+
+State College Borough and Happy Valley
+
+
+
+Metropolitan area
+
+
+
+State College
+College
+Harris
+Patton
+Ferguson
+Centre County
+Happy Valley
+State College-DuBois CSA
+
+
+
+
+
+Education
+
+
+
+Pennsylvania State University
+University Park Campus
+State College Area School District
+State College Area High School
+Schlow Centre Region Library
+
+
+
+
+
+Culture/Arts
+
+
+
+State Theatre
+Central Pennsylvania Festival of the Arts
+
+
+
+
+
+Industry
+
+
+
+Pennsylvania State University
+Innovation Park
+AccuWeather
+Minitab
+
+
+
+
+
+Transportation
+
+
+
+University Park Airport
+Centre Area Transportation Authority
+
+
+
+
+
+Sports
+
+
+
+State College Spikes
+Medlar Field at Lubrano Park
+
+
+
+
+
+Shopping
+
+
+
+Nittany Mall
+Colonnade at State College
+
+
+
+
+
+Newspapers
+
+
+
+The Daily Collegian
+The Centre Daily Times
+
+
+
+
+
+Television
+
+
+
+
+
+
+Network O&Os are in bold
+
+
+
+
+
+
+WPSU (3.1 PBS, 3.2 Create, 3.3 World, 3.4 PBS Kids)
+WJAC (6.1 NBC, 6.2 MeTV, 6.3 Comet, 6.4 Grit)
+WWCP (8.1 Fox, 8.2 ABC)
+WTAJ (10.1 CBS, 10.2 Escape, 10.3 Laff)
+WSCP-LP (13 Ind)
+WPCW (19.1 CW)
+WATM (23.1 ABC, 23.2 Fox, 23.3 This TV, 23.4 ATV)
+WHVL-LP (29.1 MNTV, 29.2 Buzzr)
+W36BE-D (36.1 ABC, 36.2 ATV, 36.3 Justice)
+WKBS (47.1 COR)
+
+
+
+
+
+
+
+
+Radio
+
+
+
+
+
+
+
+W268BB
+W269BZ
+W264BZ
+WALY
+WAPY
+WBHV-FM
+WBLF
+WBUS
+WFEQ
+WFGE
+WKDN
+WKPS
+WKVB
+WMAJ-FM
+WOWY
+WPHB
+WPSU
+
+HD2
+HD3
+
+
+WQCK
+WQWK
+WRSC
+WRXV
+WRYV
+WTLR
+WTRN
+WWOT
+WXM59
+WZWW
+
+
+
+
+
+
+
+
+Other
+
+
+
+Alpha Fire Company
+Mount Nittany Medical Center
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=AccuWeather&oldid=808857814"					
+Categories: American television networksCentre County, PennsylvaniaMeteorological companiesTelevision channels and stations established in 20051962 meteorologyIOS softwareAndroid (operating system) softwareBlackBerry softwareWindows softwareWindows Phone softwareWatchOS softwareUniversal Windows Platform appsHidden categories: All articles with dead external linksArticles with dead external links from August 2012CS1 maint: Unfit urlWebarchive template wayback linksPages using infobox company with unsupported parametersOfficial website different in Wikidata and Wikipedia 

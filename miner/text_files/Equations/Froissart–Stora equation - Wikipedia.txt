@@ -1,0 +1,131 @@
+Froissart–Stora equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Froissart–Stora equation describes the change in polarization which a high energy charged particle beam in a storage ring will undergo as it passes through a resonance in the spin tune.[1] [2] It is named after the French physicists Marcel Froissart and Raymond Stora. The polarization following passage through the resonance is given by
+
+
+
+
+
+
+P
+
+y
+
+
+=
+
+P
+
+y
+0
+
+
+(
+2
+
+e
+
+−
+
+
+
+π
+
+|
+
+ϵ
+
+
+|
+
+
+2
+
+
+
+
+2
+
+α
+
+0
+
+
+
+
+
+
+
+−
+1
+)
+
+
+{\displaystyle P_{y}=P_{y0}(2e^{-{\frac {\pi |\epsilon |^{2}}{2\alpha _{0}}}}-1)}
+
+
+
+where 
+
+
+
+ϵ
+
+
+{\displaystyle \epsilon }
+
+ is the resonance strength and 
+
+
+
+
+α
+
+0
+
+
+
+
+{\displaystyle \alpha _{0}}
+
+ is the speed at which the resonance is crossed. 
+
+
+
+
+P
+
+y
+0
+
+
+
+
+{\displaystyle P_{y0}}
+
+ is the initial polarization before resonance crossing.
+The resonance may be crossed by raising the energy so that the spin tune passes through a resonance, or driven with a transverse magnetic field at a frequency that is in resonance with the spin oscillations.
+The Froissart–Stora equation has a direct analogy in condensed matter physics in the Landau-Zener effect. [3]
+Other spin-dynamics effects[edit]
+The original Froissart–Stora equation was derived for polarized protons. It may also be applied to polarized electrons in storage rings. In this case, there are additional polarization effects resulting from the synchrotron radiation. In particular, the Sokolov–Ternov effect describes the polarization due to spin flip radiation. In the case of a non-planar ring, this must be generalized as was done by Derbenev and Kondratenko.[4]
+Notes[edit]
+
+
+^ "Depolarisation d'un faisceau de protons polarises dans un synchrotron". Nuclear Instruments and Methods. 7: 297–305. Bibcode:1960NucIM...7..297F. doi:10.1016/0029-554X(60)90033-1. 
+^ http://iopscience.iop.org/0034-4885/68/9/R01/ "Spin-polarized charged particle beams in high-energy accelerators" by S. Mane et al. (2005)
+^ "Dynamics of traversing an avoided level crossing". Physics Letters A. 87: 455–456. Bibcode:1982PhLA...87..455T. doi:10.1016/0375-9601(82)90757-5. 
+^ http://pra.aps.org/abstract/PRA/v37/i2/p456_1 "Calculations of Bell and Leinaas and Derbenev and Kondratenko for radiative electron polarization"
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Froissart–Stora_equation&oldid=697480385"					
+Categories: Accelerator physicsQuantum mechanicsEquations of physics 

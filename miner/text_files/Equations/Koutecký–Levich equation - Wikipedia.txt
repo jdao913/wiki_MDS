@@ -1,0 +1,210 @@
+Koutecký–Levich equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (June 2017)
+
+
+
+The Koutecký–Levich equation models the measured electric current at an electrode from a electrochemical reaction in relation to the kinetic activity and the mass transport of reactants.
+
+
+A visualization of the Koutecký–Levich equation. The graph shows the measured current as a function of the mass transport current for given kinetic current.
+
+
+The Koutecký–Levich equation can be written as[1]:
+
+
+
+
+
+
+1
+
+i
+
+m
+
+
+
+
+=
+
+
+1
+
+i
+
+K
+
+
+
+
++
+
+
+1
+
+i
+
+M
+T
+
+
+
+
+
+
+{\displaystyle {1 \over i_{m}}={1 \over i_{K}}+{1 \over i_{MT}}}
+
+
+where
+
+im is the measured current (A).
+iK is the kinetic current (A) from the electrochemical reactions.
+iMT is the mass transport current (A).
+
+Note the similarity of this equation to the conductance of an electrical circuits in series.
+The Koutecký–Levich equation is also commonly expressed as:
+
+
+
+
+
+i
+
+m
+
+
+=
+
+
+
+
+i
+
+K
+
+
+
+i
+
+M
+T
+
+
+
+
+
+i
+
+K
+
+
++
+
+i
+
+M
+T
+
+
+
+
+
+
+
+{\displaystyle i_{m}={i_{K}i_{MT} \over i_{K}+i_{MT}}}
+
+
+The kinetic current (iK) can be modeled by Butler-Volmer Equation and is characterized by being potential dependent. On the other hand, the mass transport current(iMT) depends on the particular electrochemical setup and amount of stirring.
+Koutecký–Levich plot[edit]
+In the case a rotating disk electrode setup is used and the electrode is flat and smooth, the iMT can modeled using Levich equation.[1][2] Inserted in the Koutecký-Levich equation, we get:
+
+
+
+
+Koutecký-Levich Plot. The inverse measured current is plotted versus the inverse square root of rotation rate
+
+
+
+
+
+
+
+
+1
+
+i
+
+m
+
+
+
+
+=
+
+
+1
+
+i
+
+K
+
+
+
+
++
+
+
+1
+
+
+B
+
+L
+
+
+
+ω
+
+0.5
+
+
+
+
+
+
+
+{\displaystyle {1 \over i_{m}}={1 \over i_{K}}+{1 \over {B_{L}\omega ^{0.5}}}}
+
+
+where:
+
+BL is the Levich Constant.
+ω is the angular rotation rate of the electrode (rad/s)
+
+From an experimental data set where the current is measured at different rotation rates, it is possible to extract the kinetic current from a so-called Koutecký–Levich plot. In a Koutecký–Levich plot the inverse measured current is plotted versus the inverse square root of the rotation rate. This will linearize the data set and the inverse of the kinetic current can be obtained by extrapolating the line to the ordinate.
+References[edit]
+
+
+^ a b Bard, Allen J.; Faulkner, Larry R. (2000). Electrochemical Methods: Fundamentals and Applications. New York: J. Wiley and Sons. ISBN 0-471-04372-9. 
+^ Levich, V. G. (1962). Physicochemical Hydrodynamics. Englewood Cliffs, N.J: Prentice-Hall. ISBN 0136744400. 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Koutecký–Levich_equation&oldid=804477977"					
+Categories: Electrochemical equationsHidden categories: Use dmy dates from October 2017Orphaned articles from June 2017All orphaned articles 

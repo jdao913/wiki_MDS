@@ -1,0 +1,716 @@
+Mathisson–Papapetrou–Dixon equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+General relativity
+
+
+
+
+
+
+
+
+G
+
+μ
+ν
+
+
++
+Λ
+
+g
+
+μ
+ν
+
+
+=
+
+
+
+8
+π
+G
+
+
+c
+
+4
+
+
+
+
+
+T
+
+μ
+ν
+
+
+
+
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={8\pi G \over c^{4}}T_{\mu \nu }}
+
+
+
+
+
+
+
+
+
+
+Introduction
+History
+
+
+
+Mathematical formulation
+
+
+
+Tests
+
+
+
+
+
+
+
+
+
+Fundamental concepts
+
+
+Equivalence principle
+Special relativity
+World line
+Riemannian geometry
+
+
+
+
+
+
+
+
+Phenomena
+
+
+
+
+
+Kepler problem
+Time dilation
+Gravitational field
+Gravitational collapse
+Gravitational lensing
+Gravitational waves
+Gravitational redshift
+Gravitational time delay
+Gravitational time dilation
+Gravitational potential
+Gravitational compression
+Frame-dragging
+Geodetic effect
+Gravity well
+Event horizon
+Singularity
+Naked singularity
+Black hole
+White hole
+
+
+
+
+Spacetime
+
+
+
+
+Space
+Time
+Spacetime diagrams
+Minkowski spacetime
+Closed timelike curve (CTC)
+Wormhole
+
+Ellis wormhole
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Equations
+Formalisms
+
+
+
+
+
+
+Equations
+
+
+
+
+Linearized gravity
+Einstein field equations
+Friedmann
+Geodesics
+Mathisson–Papapetrou–Dixon
+Hamilton–Jacobi–Einstein
+
+
+
+
+Formalisms
+
+
+
+
+ADM
+BSSN
+Post-Newtonian
+
+
+
+
+Advanced theory
+
+
+
+
+Kaluza–Klein theory
+Quantum gravity
+
+
+
+
+
+
+
+
+
+
+
+Solutions
+
+
+Schwarzschild (interior)
+Reissner–Nordström
+Gödel
+Kerr
+Kerr–Newman
+Kasner
+Lemaître–Tolman
+Taub-NUT
+Milne
+Robertson–Walker
+pp-wave
+van Stockum dust
+Weyl−Lewis−Papapetrou
+
+
+
+
+
+
+
+
+Scientists
+
+
+Einstein
+Lorentz
+Hilbert
+Poincaré
+Schwarzschild
+de Sitter
+Reissner
+Nordström
+Weyl
+Eddington
+Friedman
+Milne
+Zwicky
+Lemaître
+Gödel
+Wheeler
+Robertson
+Bardeen
+Walker
+Kerr
+Chandrasekhar
+Ehlers
+Penrose
+Hawking
+Raychaudhuri
+Taylor
+Hulse
+van Stockum
+Taub
+Newman
+Yau
+Thorne
+others
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+
+
+In physics, specifically general relativity, the Mathisson–Papapetrou–Dixon equations describe the motion of a spinning massive object, moving in a gravitational field. Other equations with similar names and mathematical forms are the Mathisson-Papapetrou equations and Papapetrou-Dixon equations. All three sets of equations describe the same physics.
+They are named for M. Mathisson,[1] W. G. Dixon,[2] and A. Papapetrou.[3]
+Throughout, this article uses the natural units c = G = 1, and tensor index notation.
+For a particle of mass m, the Mathisson–Papapetrou–Dixon equations are:[4][5]
+
+
+
+
+
+
+
+
+
+
+
+D
+
+d
+s
+
+
+
+
+(
+m
+
+u
+
+λ
+
+
++
+
+u
+
+μ
+
+
+
+
+
+D
+
+S
+
+λ
+μ
+
+
+
+
+d
+s
+
+
+
+)
+
+=
+−
+
+
+1
+2
+
+
+
+u
+
+π
+
+
+
+S
+
+ρ
+σ
+
+
+
+R
+
+λ
+
+
+
+
+
+
+π
+ρ
+σ
+
+
+
+
+{\displaystyle {\frac {D}{ds}}\left(mu^{\lambda }+u_{\mu }{\frac {DS^{\lambda \mu }}{ds}}\right)=-{\frac {1}{2}}u^{\pi }S^{\rho \sigma }R^{\lambda }{}_{\pi \rho \sigma }}
+
+
+
+
+
+
+
+
+
+D
+
+S
+
+μ
+ν
+
+
+
+
+d
+s
+
+
+
++
+
+u
+
+μ
+
+
+
+u
+
+σ
+
+
+
+
+
+D
+
+S
+
+ν
+σ
+
+
+
+
+d
+s
+
+
+
+−
+
+u
+
+ν
+
+
+
+u
+
+σ
+
+
+
+
+
+D
+
+S
+
+μ
+σ
+
+
+
+
+d
+s
+
+
+
+=
+0
+
+
+{\displaystyle {\frac {DS^{\mu \nu }}{ds}}+u^{\mu }u_{\sigma }{\frac {DS^{\nu \sigma }}{ds}}-u^{\nu }u_{\sigma }{\frac {DS^{\mu \sigma }}{ds}}=0}
+
+
+
+
+
+
+
+where: u is the four velocity (1st order tensor), S the spin tensor (2nd order), R the Riemann curvature tensor (4th order), and the capital "D" indicates the covariant derivative with respect to the particle's proper time s (an affine parameter).
+
+
+
+Contents
+
+
+1 Mathisson–Papapetrou equations
+2 Papapetrou–Dixon equations
+3 See also
+4 References
+
+4.1 Notes
+4.2 Selected papers
+
+
+
+
+
+Mathisson–Papapetrou equations[edit]
+For a particle of mass m, the Mathisson–Papapetrou equations are:[6][7]
+
+
+
+
+
+
+
+
+
+
+
+D
+
+d
+s
+
+
+
+m
+
+u
+
+λ
+
+
+=
+−
+
+
+1
+2
+
+
+
+u
+
+π
+
+
+
+S
+
+ρ
+σ
+
+
+
+R
+
+λ
+
+
+
+
+
+
+π
+ρ
+σ
+
+
+
+
+{\displaystyle {\frac {D}{ds}}mu^{\lambda }=-{\frac {1}{2}}u^{\pi }S^{\rho \sigma }R^{\lambda }{}_{\pi \rho \sigma }}
+
+
+
+
+
+
+
+
+
+D
+
+S
+
+μ
+ν
+
+
+
+
+d
+s
+
+
+
++
+
+u
+
+μ
+
+
+
+u
+
+σ
+
+
+
+
+
+D
+
+S
+
+ν
+σ
+
+
+
+
+d
+s
+
+
+
+−
+
+u
+
+ν
+
+
+
+u
+
+σ
+
+
+
+
+
+D
+
+S
+
+μ
+σ
+
+
+
+
+d
+s
+
+
+
+=
+0
+
+
+{\displaystyle {\frac {DS^{\mu \nu }}{ds}}+u^{\mu }u_{\sigma }{\frac {DS^{\nu \sigma }}{ds}}-u^{\nu }u_{\sigma }{\frac {DS^{\mu \sigma }}{ds}}=0}
+
+
+
+
+
+
+
+using the same symbols as above.
+Papapetrou–Dixon equations[edit]
+See also[edit]
+
+Introduction to the mathematics of general relativity
+Geodesic equation
+Pauli–Lubanski pseudovector
+Test particle
+Relativistic angular momentum
+Center of mass (relativistic)
+
+References[edit]
+Notes[edit]
+
+
+
+^ M. Mathisson (1937). "Neue Mechanik materieller Systeme". Acta Phys. Polonica. 6. pp. 163–209. 
+^ W. G. Dixon (1970). "Dynamics of Extended Bodies in General Relativity. I. Momentum and Angular Momentum". Proc. R. Soc. Lond. A. 314: 499–527. Bibcode:1970RSPSA.314..499D. doi:10.1098/rspa.1970.0020. 
+^ A. Papapetrou (1951). "Spinning Test-Particles in General Relativity. I". Proc. R. Soc. Lond. A. 209: 248–258. Bibcode:1951RSPSA.209..248P. doi:10.1098/rspa.1951.0200. 
+^ R. Plyatsko; O. Stefanyshyn; M. Fenyk (2011). "Mathisson-Papapetrou-Dixon equations in the Schwarzschild and Kerr backgrounds". Classical and Quantum Gravity. 28: 195025. arXiv:1110.1967 . Bibcode:2011CQGra..28s5025P. doi:10.1088/0264-9381/28/19/195025. 
+^ R. Plyatsko; O. Stefanyshyn (2008). "On common solutions of Mathisson equations under different conditions". arXiv:0803.0121 . Bibcode:2008arXiv0803.0121P. 
+^ R. M. Plyatsko; A. L. Vynar; Ya. N. Pelekh (1985). "Conditions for the appearance of gravitational ultrarelativistic spin-orbital interaction". Soviet Physics Journal. 28 (10). Springer. pp. 773–776. Bibcode:1985SvPhJ..28..773P. doi:10.1007/BF00897946. 
+^ K. Svirskas; K. Pyragas (1991). "The spherically-symmetrical trajectories of spin particles in the Schwarzschild field". Astrophysics and Space Science. 179 (2). Springer. pp. 275–283. Bibcode:1991Ap&SS.179..275S. doi:10.1007/BF00646947. 
+
+
+
+Selected papers[edit]
+
+L. F. O. Costa; J. Natário; M. Zilhão (2012). "Mathisson's helical motions demystified". arXiv:1206.7093 . doi:10.1063/1.4734436. 
+C. Chicone; B. Mashhoon; B. Punsly (2005). "Relativistic motion of spinning particles in a gravitational field". Physics Letters A. Elsevier. 343 (1–3): 1–7. arXiv:gr-qc/0504146 . Bibcode:2005PhLA..343....1C. doi:10.1016/j.physleta.2005.05.072. 
+
+
+N. Messios (2007). "Spinning Particles in Spacetimes with Torsion". International Journal of Theoretical Physics. General Relativity and Gravitation. 46 (3). Springer. pp. 562–575. Bibcode:2007IJTP...46..562M. doi:10.1007/s10773-006-9146-8. 
+D. Singh (2008). "An analytic perturbation approach for classical spinning particle dynamics". International Journal of Theoretical Physics. General Relativity and Gravitation. 40 (6). Springer. pp. 1179–1192. 
+L. F. O. Costa; J. Natário; M. Zilhão (2012). "Mathisson's helical motions demystified". arXiv:1206.7093 . doi:10.1063/1.4734436. 
+R. M. Plyatsko (1985). "Addition oe the Pirani condition to the Mathisson-Papapetrou equations in a Schwarzschild field". Soviet Physics Journal. 28 (7). Springer. pp. 601–604. Bibcode:1985SvPhJ..28..601P. doi:10.1007/BF00896195. 
+R.R. Lompay (2005). "Deriving Mathisson-Papapetrou equations from relativistic pseudomechanics". arXiv:gr-qc/0503054 . 
+R. Plyatsko (2011). "Can Mathisson-Papapetrou equations give clue to some problems in astrophysics?". arXiv:1110.2386 . 
+M. Leclerc (2005). "Mathisson-Papapetrou equations in metric and gauge theories of gravity in a Lagrangian formulation". Classical and Quantum Gravity. 22: 3203–3221. arXiv:gr-qc/0505021 . Bibcode:2005CQGra..22.3203L. doi:10.1088/0264-9381/22/16/006. 
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Mathisson–Papapetrou–Dixon_equations&oldid=811437617"					
+Categories: EquationsGeneral relativity 

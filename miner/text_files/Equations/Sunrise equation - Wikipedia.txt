@@ -1,0 +1,931 @@
+Sunrise equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+A contour plot of the hours of daylight as a function of latitude and day of the year, using the most accurate models described in Sunrise equation, Latitude 40° N (approximately New York City, Madrid and Beijing) is highlighted for reference
+
+
+The sunrise equation as follows can be used to derive the time of sunrise and sunset for any solar declination and latitude in terms of local solar time when sunrise and sunset actually occur:
+
+
+
+
+
+cos
+⁡
+
+ω
+
+∘
+
+
+=
+−
+tan
+⁡
+ϕ
+×
+tan
+⁡
+δ
+
+
+{\displaystyle \cos \omega _{\circ }=-\tan \phi \times \tan \delta }
+
+
+
+where:
+
+
+
+
+
+
+ω
+
+∘
+
+
+
+
+{\displaystyle \omega _{\circ }}
+
+ is the hour angle at either sunrise (when negative value is taken) or sunset (when positive value is taken);
+
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ is the latitude of the observer on the Earth;
+
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+ is the sun declination.
+
+
+
+
+Contents
+
+
+1 Theory of the equation
+2 Generalized equation
+3 Complete calculation on Earth
+
+3.1 Calculate current Julian day
+3.2 Mean solar noon
+3.3 Solar mean anomaly
+3.4 Equation of the center
+3.5 Ecliptic longitude
+3.6 Solar transit
+3.7 Declination of the Sun
+3.8 Hour angle
+3.9 Calculate sunrise and sunset
+
+
+4 See also
+5 External links
+6 References
+
+
+
+Theory of the equation[edit]
+The Earth rotates at an angular velocity of 15°/hour. Therefore, the expression 
+
+
+
+
+ω
+
+∘
+
+
+×
+
+
+
+h
+o
+u
+r
+
+
+
+15
+
+
+∘
+
+
+
+
+
+
+{\displaystyle \omega _{\circ }\times {\frac {\mathrm {hour} }{{15}^{\circ }}}}
+
+ gives the interval of time before and after local solar noon that sunrise or sunset will occur.
+The sign convention is typically that the observer latitude 
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ is 0 at the Equator, positive for the Northern Hemisphere and negative for the Southern Hemisphere, and the solar declination 
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+ is 0 at the vernal and autumnal equinoxes when the sun is exactly above the Equator, positive during the Northern Hemisphere summer and negative during the Northern Hemisphere winter.
+The expression above is always applicable for latitudes between the Arctic Circle and Antarctic Circle. North of the Arctic Circle or south of the Antarctic Circle, there is at least one day of the year with no sunrise or sunset. Formally, there is a sunrise or sunset when 
+
+
+
+−
+
+90
+
+∘
+
+
++
+δ
+<
+ϕ
+<
+
+90
+
+∘
+
+
+−
+δ
+
+
+{\displaystyle -90^{\circ }+\delta <\phi <90^{\circ }-\delta }
+
+ during the Northern Hemisphere summer, and when 
+
+
+
+−
+
+90
+
+∘
+
+
+−
+δ
+<
+ϕ
+<
+
+90
+
+∘
+
+
++
+δ
+
+
+{\displaystyle -90^{\circ }-\delta <\phi <90^{\circ }+\delta }
+
+ during the Northern Hemisphere winter. Out of these latitudes, it is either 24-hour daytime or 24-hour nighttime.
+Generalized equation[edit]
+Also note that the above equation neglects the influence of atmospheric refraction (which lifts the solar disc by approximately 0.6° when it is on the horizon) and the non-zero angle subtended by the solar disc (about 0.5°). The times of the rising and the setting of the upper solar limb as given in astronomical almanacs correct for this by using the more general equation
+
+
+
+
+
+cos
+⁡
+
+ω
+
+∘
+
+
+=
+
+
+
+
+sin
+⁡
+a
+−
+sin
+⁡
+ϕ
+×
+sin
+⁡
+δ
+
+
+cos
+⁡
+ϕ
+×
+cos
+⁡
+δ
+
+
+
+
+
+
+{\displaystyle \cos \omega _{\circ }={\dfrac {\sin a-\sin \phi \times \sin \delta }{\cos \phi \times \cos \delta }}}
+
+
+
+with the altitude (a) of the center of the solar disc set to about −0.83° (or −50 arcminutes).
+Complete calculation on Earth[edit]
+
+
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2011) (Learn how and when to remove this template message)
+
+
+
+The generalized equation relies on a number of other variables which need to be calculated before it can itself be calculated. These equations have the solar-earth constants substituted with angular constants expressed in degrees.
+Calculate current Julian day[edit]
+
+
+
+
+
+n
+=
+
+J
+
+d
+a
+t
+e
+
+
+−
+2451545.0
++
+0.0008
+
+
+{\displaystyle n=J_{date}-2451545.0+0.0008}
+
+
+
+where:
+
+
+
+
+
+n
+
+
+{\displaystyle n}
+
+ is the number of days since Jan 1st, 2000 12:00.
+
+
+
+
+
+J
+
+d
+a
+t
+e
+
+
+
+
+{\displaystyle J_{date}}
+
+ is the Julian date;
+2451545.0 is the equivalent Julian year of Julian days for 2000, 1, 1.5.
+0.0008 is the fractional Julian Day for leap seconds and terrestrial time.
+currently = 68.184 / 86400 without DUT1.
+
+Mean solar noon[edit]
+
+
+
+
+
+
+J
+
+⋆
+
+
+=
+n
+−
+
+
+
+
+l
+
+w
+
+
+
+360
+
+∘
+
+
+
+
+
+
+
+{\displaystyle J^{\star }=n-{\dfrac {l_{w}}{360^{\circ }}}}
+
+
+
+where:
+
+
+
+
+
+
+J
+
+⋆
+
+
+
+
+{\displaystyle J^{\star }}
+
+ is an approximation of mean solar time at 
+
+
+
+
+l
+
+w
+
+
+
+
+{\displaystyle l_{w}}
+
+ expressed as a Julian day with the day fraction.
+
+
+
+
+
+l
+
+ω
+
+
+
+
+{\displaystyle l_{\omega }}
+
+ is the longitude west (west is negative, east is positive) of the observer on the Earth;
+
+Solar mean anomaly[edit]
+
+
+
+
+
+M
+=
+(
+357.5291
++
+0.98560028
+×
+
+J
+
+⋆
+
+
+)
+
+mod
+
+
+360
+
+
+{\displaystyle M=(357.5291+0.98560028\times J^{\star })\mod 360}
+
+
+
+where:
+
+M is the solar mean anomaly used in a few of next equations.
+
+Equation of the center[edit]
+
+
+
+
+
+C
+=
+1.9148
+sin
+⁡
+(
+M
+)
++
+0.0200
+sin
+⁡
+(
+2
+M
+)
++
+0.0003
+sin
+⁡
+(
+3
+M
+)
+
+
+{\displaystyle C=1.9148\sin(M)+0.0200\sin(2M)+0.0003\sin(3M)}
+
+
+
+where:
+
+C is the Equation of the center value needed to calculate lambda (see next equation).
+1.9148 is the coefficient of the Equation of the Center for the planet the observer is on (in this case, Earth)
+
+Ecliptic longitude[edit]
+
+
+
+
+
+λ
+=
+(
+M
++
+C
++
+180
++
+102.9372
+)
+
+mod
+
+
+360
+
+
+{\displaystyle \lambda =(M+C+180+102.9372)\mod 360}
+
+
+
+where:
+
+λ is the ecliptic longitude.
+102.9372 is a value for the argument of perihelion.
+
+(Amateur edit, so check before adopting). The value for the "Argument of Perihelion" is not constant, and changes (very slightly) per day. The JPL website gives the following for calculating the true value (valid to 3,000 AD): w0 = 102.9300589 degrees at J2000.0 and wt = 0.3179526 degrees per century (the amount by which this starting value changes see: https://ssd.jpl.nasa.gov/txt/aprx_pos_planets.pdf page 3 table 2a). Therefore, one needs to calculate the number of centuries since J2000.0 for the date in question and multiply wt by that value to get the true Argument of Perihelion for the Earth. On 31-Jan-2017 at around 11.0 a.m. London, the elapse time since J2000.0 in centuries el = 6240.0007892/36525 = 0.17084191, so w = w0 + wt * el = 102.984378. The difference is very small, but may make an error in sun rise or set of about a minute as of the example date. Note JPL use 36525 as the number of days in a century, not 36524.22. It seems to work OK.
+Solar transit[edit]
+
+
+
+
+
+
+J
+
+t
+r
+a
+n
+s
+i
+t
+
+
+=
+2451545.5
++
+
+J
+
+⋆
+
+
++
+0.0053
+sin
+⁡
+M
+−
+0.0069
+sin
+⁡
+
+(
+2
+λ
+)
+
+
+
+{\displaystyle J_{transit}=2451545.5+J^{\star }+0.0053\sin M-0.0069\sin \left(2\lambda \right)}
+
+
+
+where:
+
+Jtransit is the Julian date for the local true solar transit (or solar noon).
+2451545.5 is midnight or the beginning of the equivalent Julian year reference.
+
+
+
+
+0.0053
+sin
+⁡
+M
+−
+0.0069
+sin
+⁡
+
+(
+2
+λ
+)
+
+
+
+{\displaystyle 0.0053\sin M-0.0069\sin \left(2\lambda \right)}
+
+ is a simplified version of the equation of time. The coefficients are fractional day minutes.
+
+Declination of the Sun[edit]
+
+
+
+
+
+sin
+⁡
+δ
+=
+sin
+⁡
+λ
+×
+sin
+⁡
+
+23.44
+
+∘
+
+
+
+
+{\displaystyle \sin \delta =\sin \lambda \times \sin 23.44^{\circ }}
+
+
+
+where:
+
+
+
+
+
+δ
+
+
+{\displaystyle \delta }
+
+ is the declination of the sun.
+23.44° is Earth's maximum axial tilt toward's the sun [1]
+
+Hour angle[edit]
+This is the equation from above with corrections for astronomical refraction and solar disc diameter.
+
+
+
+
+
+cos
+⁡
+
+ω
+
+∘
+
+
+=
+
+
+
+
+sin
+⁡
+(
+−
+
+0.83
+
+∘
+
+
+)
+−
+sin
+⁡
+ϕ
+×
+sin
+⁡
+δ
+
+
+cos
+⁡
+ϕ
+×
+cos
+⁡
+δ
+
+
+
+
+
+
+{\displaystyle \cos \omega _{\circ }={\dfrac {\sin(-0.83^{\circ })-\sin \phi \times \sin \delta }{\cos \phi \times \cos \delta }}}
+
+
+
+where:
+
+ωo is the hour angle from the observer's zenith;
+
+
+
+
+ϕ
+
+
+{\displaystyle \phi }
+
+ is the north latitude of the observer (north is positive, south is negative) on the Earth.
+
+For observations on a sea horizon an elevation-of-observer correction, add 
+
+
+
+−
+
+1.15
+
+∘
+
+
+
+
+elevation in feet
+
+
+
+/
+
+
+60
+
+∘
+
+
+
+
+{\displaystyle -1.15^{\circ }{\sqrt {\text{elevation in feet}}}/60^{\circ }}
+
+, or 
+
+
+
+−
+
+2.076
+
+∘
+
+
+
+
+elevation in metres
+
+
+
+/
+
+
+60
+
+∘
+
+
+
+
+{\displaystyle -2.076^{\circ }{\sqrt {\text{elevation in metres}}}/60^{\circ }}
+
+ to the -0.83° in the numerator's sine term. This corrects for both apparent dip and terrestrial refraction. For example, for an observer at 10,000 feet, add (-115°/60°) or about -1.92° to -0.83°.
+Calculate sunrise and sunset[edit]
+
+
+
+
+
+
+J
+
+s
+e
+t
+
+
+=
+
+J
+
+t
+r
+a
+n
+s
+i
+t
+
+
++
+
+
+
+
+ω
+
+∘
+
+
+
+360
+
+∘
+
+
+
+
+
+
+
+{\displaystyle J_{set}=J_{transit}+{\dfrac {\omega _{\circ }}{360^{\circ }}}}
+
+
+
+
+
+
+
+
+
+J
+
+r
+i
+s
+e
+
+
+=
+
+J
+
+t
+r
+a
+n
+s
+i
+t
+
+
+−
+
+
+
+
+ω
+
+∘
+
+
+
+360
+
+∘
+
+
+
+
+
+
+
+{\displaystyle J_{rise}=J_{transit}-{\dfrac {\omega _{\circ }}{360^{\circ }}}}
+
+
+
+where:
+
+Jset is the actual Julian date of sunset;
+Jrise is the actual Julian date of sunrise.
+
+See also[edit]
+
+Sunrise
+Sunset
+Day length
+
+External links[edit]
+
+Sunrise, sunset, or sun position for "any" location - U.S. ONLY
+Sunrise, sunset and day length for any location - WORLDWIDE
+Rise/Set/Transit/Twilight Data - U.S. ONLY
+Astronomical Information Center
+Converting Between Julian Dates and Gregorian Calendar Dates
+Approximate Solar Coordinates
+Algorithms for Computing Astronomical Phenomena
+Astronomy Answers: Position of the Sun
+A Simple Expression for the Equation of Time
+THE EQUATION OF TIME
+Equation of Time
+LONG-TERM ALMANAC FOR SUN, MOON, AND POLARIS V1.11
+
+References[edit]
+
+
+^ https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Sunrise_equation&oldid=809288540"					
+Categories: EquationsTime in astronomyDynamics of the Solar SystemHidden categories: Articles needing additional references from March 2011All articles needing additional references 

@@ -1,0 +1,398 @@
+Mironenko reflecting function - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The reflecting function 
+
+
+
+
+F
+(
+t
+,
+x
+)
+
+
+{\displaystyle \,F(t,x)}
+
+ of a dynamical system connects the past state 
+
+
+
+
+x
+(
+−
+t
+)
+
+
+{\displaystyle \,x(-t)}
+
+ of it with the future state 
+
+
+
+
+x
+(
+t
+)
+
+
+{\displaystyle \,x(t)}
+
+ of it by the formula 
+
+
+
+
+x
+(
+−
+t
+)
+=
+F
+(
+t
+,
+x
+(
+t
+)
+)
+.
+
+
+{\displaystyle \,x(-t)=F(t,x(t)).}
+
+ The concept of the reflecting function was introduсed by Uladzimir Ivanavich Mironenka.
+
+
+
+Contents
+
+
+1 Definition
+2 Application
+3 Literature
+4 External links
+
+
+
+Definition[edit]
+For the differential system 
+
+
+
+
+
+
+x
+˙
+
+
+
+=
+X
+(
+t
+,
+x
+)
+
+
+{\displaystyle {\dot {x}}=X(t,x)}
+
+ with the general solution 
+
+
+
+φ
+(
+t
+;
+
+t
+
+0
+
+
+,
+x
+)
+
+
+{\displaystyle \varphi (t;t_{0},x)}
+
+ in Cauchy form Reflecting Function is defined by formula 
+
+
+
+F
+(
+t
+,
+x
+)
+=
+φ
+(
+−
+t
+;
+t
+,
+x
+)
+.
+
+
+{\displaystyle F(t,x)=\varphi (-t;t,x).}
+
+
+Application[edit]
+If a vector-function 
+
+
+
+X
+(
+t
+,
+x
+)
+
+
+{\displaystyle X(t,x)}
+
+ is 
+
+
+
+
+2
+ω
+
+
+{\displaystyle \,2\omega }
+
+-periodic with respect to 
+
+
+
+
+t
+
+
+{\displaystyle \,t}
+
+, then 
+
+
+
+
+F
+(
+−
+ω
+,
+x
+)
+
+
+{\displaystyle \,F(-\omega ,x)}
+
+ is the in-period 
+
+
+
+
+[
+−
+ω
+;
+ω
+]
+
+
+{\displaystyle \,[-\omega ;\omega ]}
+
+ transformation (Poincaré map) of the differential system 
+
+
+
+
+
+
+x
+˙
+
+
+
+=
+X
+(
+t
+,
+x
+)
+.
+
+
+{\displaystyle {\dot {x}}=X(t,x).}
+
+ Therefore the knowledge of the Reflecting Function give us the opportunity to find out the initial dates 
+
+
+
+
+(
+ω
+,
+
+x
+
+0
+
+
+)
+
+
+{\displaystyle \,(\omega ,x_{0})}
+
+ of periodic solutions of the differential system 
+
+
+
+
+
+
+x
+˙
+
+
+
+=
+X
+(
+t
+,
+x
+)
+
+
+{\displaystyle {\dot {x}}=X(t,x)}
+
+ and investigate the stability of those solutions.
+For the Reflecting Function 
+
+
+
+
+F
+(
+t
+,
+x
+)
+
+
+{\displaystyle \,F(t,x)}
+
+ of the system 
+
+
+
+
+
+
+x
+˙
+
+
+
+=
+X
+(
+t
+,
+x
+)
+
+
+{\displaystyle {\dot {x}}=X(t,x)}
+
+ the basic relation
+
+
+
+
+
+
+
+F
+
+t
+
+
++
+
+F
+
+x
+
+
+X
++
+X
+(
+−
+t
+,
+F
+)
+=
+0
+,
+
+F
+(
+0
+,
+x
+)
+=
+x
+.
+
+
+{\displaystyle \,F_{t}+F_{x}X+X(-t,F)=0,\qquad F(0,x)=x.}
+
+
+
+is holding.
+Therefore we have an opportunity sometimes to find Poincaré map of the non-integrable in quadrature systems even in elementary functions.
+Literature[edit]
+
+Мироненко В. И. Отражающая функция и периодические решения дифференциальных уравнений. — Минск, Университетское, 1986. — 76 с.
+Мироненко В. И. Отражающая функция и исследование многомерных дифференциальных систем. — Гомель: Мин. образов. РБ, ГГУ им. Ф. Скорины, 2004. — 196 с.
+
+External links[edit]
+
+The Reflecting Function Site
+How to construct equivalent differential systems
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Mironenko_reflecting_function&oldid=727962137"					
+Categories: Differential equations 

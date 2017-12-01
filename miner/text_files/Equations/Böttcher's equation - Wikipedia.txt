@@ -1,0 +1,240 @@
+Böttcher's equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Böttcher's equation is the functional equation
+
+
+
+
+
+
+
+F
+(
+h
+(
+z
+)
+)
+=
+(
+F
+(
+z
+)
+
+)
+
+n
+
+
+
+
+{\displaystyle F(h(z))=(F(z))^{n}}
+
+
+
+
+
+where
+
+h is a given analytic function with a superattracting fixed point of order n at a, (that is, 
+
+
+
+h
+(
+z
+)
+=
+a
++
+c
+(
+z
+−
+a
+
+)
+
+n
+
+
++
+O
+(
+(
+z
+−
+a
+
+)
+
+n
++
+1
+
+
+)
+ 
+,
+
+
+{\displaystyle h(z)=a+c(z-a)^{n}+O((z-a)^{n+1})~,}
+
+ in a neighbourhood of a), with n ≥ 2
+F is a sought function.
+
+The logarithm of this functional equation amounts to Schröder's equation.
+
+
+
+Contents
+
+
+1 Name
+2 Solution
+
+2.1 examples
+
+
+3 Applications
+4 See also
+5 References
+
+
+
+Name[edit]
+The equation is named after Lucjan Böttcher.
+Solution[edit]
+Solution of functional equation is a function in implicit form.
+Lucian Emil Böttcher sketched a proof in 1904 on the existence of solution : an analytic function F in a neighborhood of the fixed point a, such that:[1]
+
+
+
+
+
+F
+(
+a
+)
+=
+0
+
+
+{\displaystyle F(a)=0}
+
+
+
+This solution is sometimes called:
+
+the Böttcher coordinate
+the Böttcher function[2].
+the Boettcher map
+
+The complete proof was published by Joseph Ritt in 1920,[3] who was unaware of the original formulation.[4]
+Böttcher's coordinate (the logarithm of the Schröder function) conjugates h(z) in a neighbourhood of the fixed point to the function zn. An especially important case is when h(z) is a polynomial of degree n, and a = ∞ .[5]
+examples[edit]
+For the function h and n=2[6]
+
+
+
+
+
+h
+(
+x
+)
+=
+
+
+
+x
+
+2
+
+
+
+1
+−
+2
+
+x
+
+2
+
+
+
+
+
+
+
+{\displaystyle h(x)={\frac {x^{2}}{1-2x^{2}}}}
+
+
+
+the Böttcher function F is :
+
+
+
+
+
+F
+(
+x
+)
+=
+
+
+x
+
+1
++
+
+x
+
+2
+
+
+
+
+
+
+
+{\displaystyle F(x)={\frac {x}{1+x^{2}}}}
+
+
+
+Applications[edit]
+Böttcher's equation plays a fundamental role in the part of holomorphic dynamics which studies iteration of polynomials of one complex variable.
+Global properties of the Böttcher coordinate were studied by Fatou[7] [8] and Douady and Hubbard .[9]
+See also[edit]
+
+Schröder's equation
+External ray
+
+References[edit]
+
+
+^ Böttcher, L. E. (1904). "The principal laws of convergence of iterates and their application to analysis (in Russian)". Izv. Kazan. Fiz.-Mat. Obshch. 14: 155–234. 
+^ J. F. Ritt. On the iteration of rational functions . Trans. Amer. Math. Soc. 21 (1920) 348-356. MR 1501149.
+^ Ritt, Joseph (1920). "On the iteration of rational functions". Trans. Amer. Math. Soc. 21 (3): 348–356. doi:10.1090/S0002-9947-1920-1501149-6. 
+^ Stawiska, Małgorzata (November 15, 2013). "Lucjan Emil Böttcher (1872–1937) - The Polish Pioneer of Holomorphic Dynamics". arXiv:1307.7778  [math.HO]. 
+^ Cowen, C. C. (1982). "Analytic solutions of Böttcher's functional equation in the unit disk". Aequationes Mathematicae. 24: 187–194. doi:10.1007/BF02193043. 
+^ Chaos by Arun V. Holden Princeton University Press, 14 lip 2014 - 334
+^ Alexander, Daniel S.; Iavernaro, Felice; Rosa, Alessandro (2012). Early Days in Complex Dynamics: A history of complex dynamics in one variable during 1906–1942. ISBN 978-0-8218-4464-9. 
+^ Fatou, P. (1919). "Sur les équations fonctionnelles, I". Bulletin de la Société Mathématique de France. 47: 161–271. JFM 47.0921.02. ; Fatou, P. (1920). "Sur les équations fonctionnelles, II". Bulletin de la Société Mathématique de France. 48: 33–94. JFM 47.0921.02. ; Fatou, P. (1920). "Sur les équations fonctionnelles, III". Bulletin de la Société Mathématique de France. 48: 208–314. JFM 47.0921.02. 
+^ Douady, A.; Hubbard, J. (1984). "Étude dynamique de polynômes complexes (première partie)". Publ. Math. Orsay. ; Douady, A.; Hubbard, J. (1985). "Étude dynamique des polynômes convexes (deuxième partie)". Publ. Math. Orsay. 
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Böttcher%27s_equation&oldid=812058897"					
+Categories: Functional equations 

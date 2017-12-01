@@ -1,0 +1,43 @@
+Simultaneous equations - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, a set of simultaneous equations, also known as a system of equations or an equation system, is a finite set of equations for which common solutions are sought. An equation system is usually classified in the same manner as single equations, namely as a:
+
+System of linear equations,
+System of nonlinear equations,
+System of bilinear equations,
+System of polynomial equations,
+System of ordinary differential equations,
+System of partial differential equations, or a
+System of difference equations
+
+See also[edit]
+
+Simultaneous equations model, a statistical model in the form of simultaneous linear equations
+Elementary algebra, for elementary methods
+
+
+
+
+This mathematics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Simultaneous_equations&oldid=790387708"					
+Categories: Mathematics stubsEquationsHidden categories: All stub articlesBroad-concept articles 

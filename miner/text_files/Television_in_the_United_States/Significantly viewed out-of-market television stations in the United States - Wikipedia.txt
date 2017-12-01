@@ -1,0 +1,321 @@
+Significantly viewed out-of-market television stations in the United States - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+Significantly viewed (SV) is a classification for television stations as determined by the Federal Communications Commission (FCC) to be local stations that have a significant viewership outside of their Nielsen designated market area (DMA).[1] Federal legislation was passed to help protect television viewers living in extraterritorial and border areas from losing local television stations where viewers are living outside of the DMA.[2]
+
+
+
+Contents
+
+
+1 History
+2 Today
+
+2.1 Significantly viewed channel preservation and CATV
+2.2 Redundant affiliates
+2.3 Controversy
+
+
+3 See also
+4 References
+5 External links
+
+
+
+History[edit]
+In 2005, the FCC completed a federal study on all of the media markets in the United States.[citation needed] It came up with a list of counties in each state where out-of-market television stations are significantly viewed by residents who are using antennas, whether or not they are cable or satellite subscribers. The study also looked at the history of viewership of the original Community Access Television (CATV) installations throughout the country. CATV is the predecessor of cable television. Today's cable television content is much more focused on premium channel television programming than the original purpose of picking up local programming from television stations in a specific area.
+Today[edit]
+With the advancement of digital cable, cable providers such as Comcast and Time Warner Cable have begun making headway in removing out-of-market television stations from basic cable lineups. This is done by cable providers to preserve bandwidth on channels 2 to 13, but also to reduce the redundancy of multiple network affiliates, and to fulfill federal mandates to keep in-market local affiliates. Some cable providers, with out-of-market and redundant affiliate stations in the past, have moved over the out-of-market stations to digital cable channels 100 and above and in the majority of cases, are not transmitted in high definition to allow in-market affiliates the prestige of carrying the programming as intended by their networks rather than the 4:3 cut seen on standard definition feeds. Many cable providers nationwide are not doing this, since they are removing SV stations entirely from the cable lineup. This has led to some controversy in some parts of the country.[citation needed] The forerunners in the SV stations moving over to digital cable have been on-going since 2005[clarification needed] for several Comcast service areas in New Jersey and Virginia, and a few Time Warner Cable systems in North Carolina. The comments against the removals have mainly occurred in significantly viewed counties that are bordering nearby television markets.
+Significantly viewed channel preservation and CATV[edit]
+Two examples of the SV channel preservation on digital cable and at the same time, CATV favoring a non-designated DMA is Belvidere, New Jersey along the Delaware River. Phillipsburg, Milford, Frenchtown, and Lambertville, all downstream on the Delaware River, sometimes lean towards this as well. Belvidere used to lean towards the Philadelphia market solely on television reception, since it was not able to receive New York City area stations. However, since it is located in Warren County, it is officially part of the New York City television market. When cable providers advanced with premium programming and later digital cable service, the Philadelphia stations disappeared from basic cable tiers but KYW-TV, WCAU and WTXF-TV were later moved to the digital cable tier.[3]
+Redundant affiliates[edit]
+An example of redundant affiliates serving the same area is Harrisonburg, Virginia. The Harrisonburg DMA consists of two Virginia counties and one West Virginia county. Harrisonburg is a fringe area because it is 100 miles from Washington, D.C.; Richmond, Virginia; and Roanoke, Virginia. It was originally part of the Richmond DMA. It is approximately 40 miles away from Charlottesville, Virginia, which is a separate media market that was also once part of the Richmond DMA. Comcast's Harrisonburg system carries two ABC affiliates (in-market affiliate WHSV-TV and Richmond station WRIC-TV), four NBC affiliates (WVIR out of Charlottesville, WRC-TV out of Washington, D.C., WSLS out of Roanoke, and WWBT out of Richmond), two CBS affiliates (WUSA out of Washington, D.C. and WTVR out of Richmond), two Fox affiliates (WHSV's second digital subchannel and WTTG out of Washington, D.C.).
+The Harrisonburg market has only one station for PBS (in-market member station WVPT); the market's other network affiliates are WHSV's MyNetworkTV-affiliated third digital subchannel and a CW-affiliated subchannel of WVIR. Prior to 2006, many of these stations were on the same basic cable tier, but were dropped to preserve bandwidth and eliminate the redundancy of multiple affiliates. All of the stations that were not mentioned in the basic cable tier are now moved over to digital cable.[4]
+A further example of this is in Toledo, Ohio; a mere 45 miles from a major market (Detroit), and close to a second major market (Cleveland), most of Detroit's signals penetrate deep into the Toledo market, and thus are carried on Buckeye CableSystem. This is similar in situation to Baltimore (which is close to Philadelphia and Washington, D.C.) and Topeka (which is within range of Kansas City's television stations).
+A significantly viewed, redundant affiliate may be invaluable to a cable television company in a carriage dispute if it has the same network but different local owners.
+Controversy[edit]
+An example of controversy over residents losing a long-time out-of-market affiliate stations happened in Lumberton, North Carolina. For decades, the city has been reliant for NBC coverage from WECT out of Wilmington, North Carolina. Lumberton has been in and out of different DMAs between the Raleigh, Wilmington, and Florence-Myrtle Beach markets. It is currently in the Florence-Myrtle Beach market since the late 1990s. Parts of the market over-the-air or on cable received a different NBC affiliate, whether it was WIS (Columbia, South Carolina), WECT (Wilmington), WCNC (Charlotte), or WCBD (Charleston, South Carolina).
+The Florence-Myrtle Beach market received its own NBC affiliate in August 2008, when Raycom Media built and signed on WMBF. On the day WMBF launched, cable providers were required to drop sister stations WECT and WIS from cable systems in the market. Lumberton residents who subscribed to Time Warner Cable protested the move and pushed to get WECT back on the cable channel lineup; by coincidence, WMBF, WECT and WIS are all owned by Raycom, thus the removal would in effect promote WMBF within the home market over its out-of-market sister stations. This was also in addition to the fact that WMBF's over-the-air signal does not even reach the North Carolina side of the Florence-Myrtle Beach market. On December 1, 2008, WECT returned to Time Warner Cable's Lumberton service area on a digital cable tier.[5]
+See also[edit]
+
+Must-carry
+Satellite Home Viewer Act
+Retransmission consent
+Cable television in the United States
+Digital cable
+Syndex
+
+References[edit]
+
+
+
+^ US Code - Section 340: Significantly viewed signals permitted to be carried
+^ Significantly Viewed Legislation
+^ Zap2it TV listings guide for Port Murray, NJ Comcast Cable Guide
+^ Zap2it TV listings guide for Harrisonburg, VA Comcast Cable Guide
+^ Time Warner Cable Guide for Lumberton, NC
+
+
+
+External links[edit]
+
+FCC list of significantly viewed stations
+FCC Media Bureau links to significantly viewed list
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Digital television in North America
+
+
+
+Terrestrial
+
+
+
+
+Digital broadcasting
+
+
+
+ATSC tuners
+Digital subchannels
+Virtual channels
+Distributed transmission system
+Datacasting
+
+Guide Plus
+National Datacast
+UpdateLogic
+
+
+Metropolitan Television Alliance
+Grand Alliance
+
+
+
+
+
+Digital switchover
+
+
+
+All-Channel Receiver Act
+SAFER Act
+Digital channel election
+Set-top boxes
+Digital television adapter
+U.S. Converter Box Coupon Program
+
+legislation
+
+
+Analog passthrough
+DVD recorders
+Digital video recorders
+
+
+
+
+
+Digital standards
+
+
+
+ATSC Standards
+
+ATSC
+ATSC-M/H
+8VSB
+A-VSB
+E-VSB
+PSIP
+PMCP
+full list
+
+
+Standard-definition TV
+
+480i
+576i
+
+
+Enhanced-definition TV
+
+480p
+576p
+
+
+High-definition TV
+
+720p
+1080i
+1080p
+
+
+Serial digital interface
+Smart antennas
+
+CEA-909
+
+
+
+
+
+
+
+Digital networks
+
+
+
+see Template:American broadcast television
+Template:Canadian television networks
+
+
+
+
+
+National deployment
+
+
+
+List by country
+Canada
+Mexico
+United States
+
+HDTV
+transition
+wireless spectrum auction
+
+
+
+
+
+
+
+
+
+
+Cable
+
+
+
+
+Digital cable
+
+
+
+Digital-cable-ready TV
+
+QAM tuners
+
+
+Interactive-digital-cable-ready TV
+
+OpenCable Application Platform
+
+
+Encryption
+Must-carry
+
+
+
+
+
+Subscription TV
+
+
+
+AllVid
+CableCARD
+Downloadable Conditional Access System
+Tru2way
+
+
+
+
+
+
+
+
+Satellite TV
+
+
+
+DVB-S
+
+Dish Network
+GlobeCast World TV
+Free-to-air receiver
+Bell TV/Telus Satellite TV
+Dish México
+
+
+DigiCipher 2
+
+4DTV
+Shaw Direct
+
+
+Digital Satellite Service/DVB-S2
+
+DirecTV
+
+
+
+
+
+
+
+IPTV
+
+
+
+AT&T U-verse
+Bell Fibe TV
+FibreOP
+Telus Optik TV
+
+
+
+
+
+Technical issues
+
+
+
+14:9
+Active Format Description
+Broadcast flag
+Channel protection ratios
+HDTV blur
+Hierarchical modulation
+Pirate decryption
+Standards conversion
+Video on demand
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Significantly_viewed_out-of-market_television_stations_in_the_United_States&oldid=812301787"					
+Categories: Television in the United StatesUnited States communications regulationBroadcast lawHidden categories: All articles with unsourced statementsArticles with unsourced statements from May 2012Articles with unsourced statements from December 2011Wikipedia articles needing clarification from December 2011 

@@ -1,0 +1,70 @@
+Static spherically symmetric perfect fluid - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article needs attention from an expert in Physics. Please add a reason or a talk parameter to this template to explain the issue with the article. WikiProject Physics may be able to help recruit an expert. (November 2008)
+
+
+
+In metric theories of gravitation, particularly general relativity, a static spherically symmetric perfect fluid solution (a term which is often abbreviated as ssspf) is a spacetime equipped with suitable tensor fields which models a static round ball of a fluid with isotropic pressure.
+
+
+
+
+Interior region (gold) filled with perfect fluid matched to exterior region (khaki) which is a portion of the Schwarzschild vacuum solution.
+
+
+Such solutions are often used as idealized models of stars, especially compact objects such as white dwarfs and especially neutron stars. In general relativity, a model of an isolated star (or other fluid ball) generally consists of a fluid-filled interior region, which is technically a perfect fluid solution of the Einstein field equation, and an exterior region, which is an asymptotically flat vacuum solution. These two pieces must be carefully matched across the world sheet of a spherical surface, the surface of zero pressure. (There are various mathematical criteria called matching conditions for checking that the required matching has been successfully achieved.) Similar statements hold for other metric theories of gravitation, such as the Brans–Dicke theory.
+In this article, we will focus on the construction of exact ssspf solutions in our current Gold Standard theory of gravitation, the theory of general relativity. To anticipate, the figure at right depicts (by means of an embedding diagram) the spatial geometry of a simple example of a stellar model in general relativity. The euclidean space in which this two-dimensional Riemannian manifold (standing in for a three-dimensional Riemannian manifold) is embedded has no physical significance, it is merely a visual aid to help convey a quick impression of the kind of geometrical features we will encounter.
+Short history[edit]
+We list here a few milestones in the history of exact ssspf solutions in general relativity:
+
+1916: Schwarzschild fluid solution,
+1939: The relativistic equation of hydrostatic equilibrium, the Oppenheimer-Volkov equation, is introduced,
+1939: Tolman gives seven ssspf solutions, two of which are suitable for stellar models,
+1949: Wyman ssspf and first generating function method,
+1958: Buchdahl ssspf, a relativistic generalization of a Newtonian polytrope,
+1967: Kuchowicz ssspf,
+1969: Heintzmann ssspf,
+1978: Goldman ssspf,
+1982: Stewart ssspf,
+1998: major reviews by Finch & Skea and by Delgaty & Lake,
+2000: Fodor shows how to generate ssspf solutions using one generating function and differentiation and algebraic operations, but no integrations,
+2001: Nilsson & Ugla reduce the definition of ssspf solutions with either linear or polytropic equations of state to a system of regular ODEs suitable for stability analysis,
+2002: Rahman & Visser give a generating function method using one differentiation, one square root, and one definite integral, in isotropic coordinates, with various physical requirements satisfied automatically, and show that every ssspf can be put in Rahman-Visser form,
+2003: Lake extends the long-neglected generating function method of Wyman, for either Schwarzschild coordinates or isotropic coordinates,
+2004: Martin & Visser algorithm, another generating function method which uses Schwarzschild coordinates,
+2004: Martin gives three simple new solutions, one of which is suitable for stellar models,
+2005: BVW algorithm, apparently the simplest variant now known
+
+References[edit]
+
+Oppenheimer, J. R. & Volkov, G. B. (1939). "On massive neutron cores". Phys. Rev. 55 (4): 374–381. Bibcode:1939PhRv...55..374O. doi:10.1103/PhysRev.55.374.  The original paper presenting the Oppenheimer-Volkov equation.
+Oppenheimer, J. R. & Snyder, H.. (1939). "On continued gravitational collapse". Phys. Rev. 56 (5): 455–459. Bibcode:1939PhRv...56..455O. doi:10.1103/PhysRev.56.455. 
+Misner, Charles; Thorne, Kip S. & Wheeler, John Archibald (1973). Gravitation. San Francisco: W. H. Freeman. ISBN 0-7167-0344-0.  See section 23.2 and box 24.1 for the Oppenheimer-Volkov equation.
+Schutz, Bernard F. (1985). A First Course in General Relativity. Cambridge: Cambridge University Press. ISBN 0-521-27703-5.  See chapter 10 for the Buchdahl theorem and other topics.
+Bose, S. K. (1980). An introduction to General Relativity. New York: Wiley. ISBN 0-470-27054-3.  See chapter 6 for a more detailed exposition of white dwarf and neutron star models than can be found in other gtr textbooks.
+Lake, Kayll (1998). "Physical Acceptability of Isolated, Static, Spherically Symmetric, Perfect Fluid Solutions of Einstein's Equations". Comput. Phys. Commun. 115 (2-3): 395–415. arXiv:gr-qc/9809013 . Bibcode:1998CoPhC.115..395D. doi:10.1016/S0010-4655(98)00130-1.  eprint version An excellent review stressing problems with the traditional approach which are neatly avoided by the Rahman-Visser algorithm.
+Fodor; Gyula. Generating spherically symmetric static perfect fluid solutions (2000). Fodor's algorithm.
+Nilsson, U. S. & Uggla, C. (2001). "General Relativistic Stars: Linear Equations of State". Annals of Physics. 286 (2): 278–291. arXiv:gr-qc/0002021 . Bibcode:2000AnPhy.286..278N. doi:10.1006/aphy.2000.6089.  eprint version
+Nilsson, U. S. & Uggla, C. (2001). "General Relativistic Stars: Polytropic Equations of State". Annals of Physics. 286 (2): 292–319. arXiv:gr-qc/0002022 . Bibcode:2000AnPhy.286..292N. doi:10.1006/aphy.2000.6090.  eprint version The Nilsson-Uggla dynamical systems.
+Lake, Kayll (2003). "All static spherically symmetric perfect fluid solutions of Einstein's Equations". Phys. Rev. D. 67 (10): 104015. arXiv:gr-qc/0209104 . Bibcode:2003PhRvD..67j4015L. doi:10.1103/PhysRevD.67.104015.  eprint version Lake's algorithms.
+Martin, Damien & Visser, Matt (2004). "Algorithmic construction of static perfect fluid spheres". Phys. Rev. D. 69 (10): 104028. arXiv:gr-qc/0306109 . Bibcode:2004PhRvD..69j4028M. doi:10.1103/PhysRevD.69.104028.  eprint version The Rahman-Visser algorithm.
+Boonserm, Petarpa; Visser, Matt & Weinfurtner, Silke (2005). "Generating perfect fluid spheres in general relativity". Phys. Rev. D. 71 (12): 124037. arXiv:gr-qc/0503007 . Bibcode:2005PhRvD..71l4037B. doi:10.1103/PhysRevD.71.124037.  eprint version The BVW solution generating method.
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Static_spherically_symmetric_perfect_fluid&oldid=811897960"					
+Categories: Exact solutions in general relativityHidden categories: Articles needing expert attention with no reason or talk parameterArticles needing expert attention from November 2008All articles needing expert attentionPhysics articles needing expert attention 

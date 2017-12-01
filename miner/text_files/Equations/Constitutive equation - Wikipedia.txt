@@ -1,0 +1,2930 @@
+Constitutive equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For many more definitions of physical quantities, see Defining equation (physics) and Defining equation (physical chemistry).
+In physics and engineering, a constitutive equation or constitutive relation is a relation between two physical quantities (especially kinetic quantities as related to kinematic quantities) that is specific to a material or substance, and approximates the response of that material to external stimuli, usually as applied fields or forces. They are combined with other equations governing physical laws to solve physical problems; for example in fluid mechanics the flow of a fluid in a pipe, in solid state physics the response of a crystal to an electric field, or in structural analysis, the connection between applied stresses or forces to strains or deformations.
+Some constitutive equations are simply phenomenological; others are derived from first principles. A common approximate constitutive equation frequently is expressed as a simple proportionality using a parameter taken to be a property of the material, such as electrical conductivity or a spring constant. However, it is often necessary to account for the directional dependence of the material, and the scalar parameter is generalized to a tensor. Constitutive relations are also modified to account for the rate of response of materials and their non-linear behavior.[1] See the article Linear response function.
+
+
+
+Contents
+
+
+1 Mechanical properties of matter
+
+1.1 Definitions
+1.2 Deformation of solids
+
+1.2.1 Friction
+1.2.2 Stress and strain
+1.2.3 Solid-state deformations
+1.2.4 Collisions
+
+
+1.3 Deformation of fluids
+
+
+2 Electromagnetism
+
+2.1 Constitutive equations in electromagnetism and related areas
+
+2.1.1 Without magnetic or dielectric materials
+2.1.2 Isotropic linear materials
+2.1.3 General case
+2.1.4 Calculation of constitutive relations
+
+
+2.2 Thermoelectric and electromagnetic properties of matter
+
+
+3 Photonics
+4 Transport phenomena
+
+4.1 Definitions
+4.2 Definitive laws
+
+
+5 See also
+6 Notes
+7 External links
+
+
+
+Mechanical properties of matter[edit]
+The first constitutive equation (constitutive law) was developed by Robert Hooke and is known as Hooke's law. It deals with the case of linear elastic materials. Following this discovery, this type of equation, often called a "stress-strain relation" in this example, but also called a "constitutive assumption" or an "equation of state" was commonly used. Walter Noll advanced the use of constitutive equations, clarifying their classification and the role of invariance requirements, constraints, and definitions of terms like "material", "isotropic", "aeolotropic", etc. The class of "constitutive relations" of the form stress rate = f (velocity gradient, stress, density) was the subject of Walter Noll's dissertation in 1954 under Clifford Truesdell.[2]
+In modern condensed matter physics, the constitutive equation plays a major role. See Linear constitutive equations and Nonlinear correlation functions.[3]
+Definitions[edit]
+
+
+
+
+Quantity (common name/s)
+(Common) symbol/s
+Defining equation
+SI units
+Dimension
+
+
+General stress,
+Pressure
+
+P, σ
+
+
+
+
+σ
+=
+F
+
+/
+
+A
+
+
+
+
+{\displaystyle \sigma =F/A\,\!}
+
+
+F may be any perpendicular force applied to area A
+
+Pa = N m−2
+[M] [T]−2[L]−1
+
+
+General strain
+ε
+
+
+
+
+ε
+=
+Δ
+D
+
+/
+
+D
+
+
+
+
+{\displaystyle \varepsilon =\Delta D/D\,\!}
+
+
+
+
+D = dimension (length, area, volume)
+ΔD = change in material
+
+
+
+dimensionless
+dimensionless
+
+
+General elastic modulus
+Emod
+
+
+
+
+
+E
+
+mod
+
+
+=
+σ
+
+/
+
+ε
+
+
+
+
+{\displaystyle E_{\text{mod}}=\sigma /\varepsilon \,\!}
+
+
+Pa = N m−2
+[M] [T]−2 [L]−1
+
+
+Young's modulus
+E, Y
+
+
+
+
+Y
+=
+σ
+
+/
+
+(
+Δ
+L
+
+/
+
+L
+)
+
+
+
+
+{\displaystyle Y=\sigma /(\Delta L/L)\,\!}
+
+
+Pa = N m−2
+[M] [T] −2[L]−1
+
+
+Shear modulus
+G
+
+
+
+
+G
+=
+Δ
+x
+
+/
+
+L
+
+
+
+
+{\displaystyle G=\Delta x/L\,\!}
+
+
+Pa = N m−2
+[M] [T]−2[L]−1
+
+
+Bulk modulus
+K, B
+
+
+
+
+B
+=
+P
+
+/
+
+(
+Δ
+V
+
+/
+
+V
+)
+
+
+
+
+{\displaystyle B=P/(\Delta V/V)\,\!}
+
+
+Pa = N m−2
+[M] [T]−2[L]−1
+
+
+Compressibility
+C
+
+
+
+
+C
+=
+1
+
+/
+
+B
+
+
+
+
+{\displaystyle C=1/B\,\!}
+
+
+Pa−1 = m2 N−1
+[L] [T]2[M]−1
+
+
+
+
+Deformation of solids[edit]
+Friction[edit]
+Friction is a complicated phenomenon. Macroscopically the friction force F between the interface of two materials can be modelled as proportional to the reaction force R at a point of contact between two interfaces, through a dimensionless coefficient of friction μf which depends on the pair of materials:
+
+
+
+
+
+F
+=
+
+μ
+
+f
+
+
+R
+.
+
+
+
+{\displaystyle F=\mu _{f}R.\,}
+
+
+
+This can be applied to static friction (friction preventing two stationary objects from slipping on their own), kinetic friction (friction between two objects scraping/sliding past each other), or rolling (frictional force which prevents slipping but causes a torque to exert on a round object).
+Stress and strain[edit]
+The stress-strain constitutive relation for linear materials is commonly known as Hooke's law. In its simplest form, the law defines the spring constant (or elasticity constant) k in a scalar equation, stating the tensile/compressive force is proportional to the extended (or contracted) displacement x:
+
+
+
+
+
+
+F
+
+i
+
+
+=
+−
+k
+
+x
+
+i
+
+
+
+
+
+{\displaystyle F_{i}=-kx_{i}\,}
+
+
+
+meaning the material responds linearly. Equivalently, in terms of the stress σ, Young's modulus E, and strain ε (dimensionless):
+
+
+
+
+
+σ
+=
+E
+
+ε
+
+
+
+{\displaystyle \sigma =E\,\varepsilon \,}
+
+ 
+
+In general, forces which deform solids can be normal to a surface of the material (normal forces), or tangential (shear forces), this can be described mathematically using the stress tensor:
+
+
+
+
+
+
+σ
+
+i
+j
+
+
+=
+
+C
+
+i
+j
+k
+l
+
+
+
+
+ε
+
+k
+l
+
+
+
+⇌
+
+
+ε
+
+i
+j
+
+
+=
+
+S
+
+i
+j
+k
+l
+
+
+
+
+σ
+
+k
+l
+
+
+
+
+
+{\displaystyle \sigma _{ij}=C_{ijkl}\,\varepsilon _{kl}\,\rightleftharpoons \,\varepsilon _{ij}=S_{ijkl}\,\sigma _{kl}\,}
+
+
+
+where C is the elasticity tensor and S is the compliance tensor
+Solid-state deformations[edit]
+Several classes of deformations in elastic materials are the following:[4]
+
+Elastic: The material recovers its initial shape after deformation.
+Anelastic: if the material is close to elastic, but the applied force induces additional time-dependent resistive forces (i.e. depend on rate of change of extension/compression, in addition to the extension/compression). Metals and ceramics have this characteristic, but it is usually negligible, although not so much when heating due to friction occurs (such as vibrations or shear stresses in machines).
+Viscoelastic: If the time-dependent resistive contributions are large, and cannot be neglected. Rubbers and plastics have this property, and certainly do not satisfy Hooke's law. In fact, elastic hysteresis occurs.
+Plastic: The applied force induces non-recoverable deformations in the material when the stress (or elastic strain) reaches a critical magnitude, called the yield point.
+Hyperelastic: The applied force induces displacements in the material following a strain energy density function.
+
+Collisions[edit]
+The relative speed of separation vseparation of an object A after a collision with another object B is related to the relative speed of approach vapproach by the coefficient of restitution, defined by Newton's experimental impact law:[5]
+
+
+
+
+
+e
+=
+
+
+
+
+|
+
+
+v
+
+
+
+|
+
+
+separation
+
+
+
+
+
+|
+
+
+v
+
+
+
+|
+
+
+approach
+
+
+
+
+
+
+
+
+
+{\displaystyle e={\frac {|\mathbf {v} |_{\text{separation}}}{|\mathbf {v} |_{\text{approach}}}}\,\!}
+
+
+
+which depends the materials A and B are made from, since the collision involves interactions at the surfaces of A and B. Usually 0 ≤ e ≤ 1, in which e = 1 for completely elastic collisions, and e = 0 for completely inelastic collisions. It's possible for e ≥ 1 to occur – for superelastic (or explosive) collisions.
+Deformation of fluids[edit]
+The drag equation gives the drag force D on an object of cross-section area A moving through a fluid of density ρ at velocity v (relative to the fluid)
+
+
+
+
+
+D
+=
+
+
+1
+2
+
+
+
+c
+
+d
+
+
+ρ
+A
+
+v
+
+2
+
+
+
+
+
+{\displaystyle D={\frac {1}{2}}c_{d}\rho Av^{2}\,}
+
+
+
+where the drag coefficient (dimensionless) cd depends on the geometry of the object and the drag forces at the interface between the fluid and object.
+For a Newtonian fluid of viscosity μ, the shear stress τ is linearly related to the strain rate (transverse flow velocity gradient) ∂u/∂y (units s−1). In a uniform shear flow:
+
+
+
+
+
+τ
+=
+μ
+
+
+
+∂
+u
+
+
+∂
+y
+
+
+
+,
+
+
+{\displaystyle \tau =\mu {\frac {\partial u}{\partial y}},}
+
+
+
+with u(y) the variation of the flow velocity u in the cross-flow (transverse) direction y. In general, for a Newtonian fluid, the relationship between the elements τij of the shear stress tensor and the deformation of the fluid is given by
+
+
+
+
+
+
+τ
+
+i
+j
+
+
+=
+2
+μ
+
+(
+
+e
+
+i
+j
+
+
+−
+
+
+1
+3
+
+
+Δ
+
+δ
+
+i
+j
+
+
+)
+
+
+
+{\displaystyle \tau _{ij}=2\mu \left(e_{ij}-{\frac {1}{3}}\Delta \delta _{ij}\right)}
+
+   with   
+
+
+
+
+e
+
+i
+j
+
+
+=
+
+
+1
+2
+
+
+
+(
+
+
+
+∂
+
+v
+
+i
+
+
+
+
+∂
+
+x
+
+j
+
+
+
+
+
++
+
+
+
+∂
+
+v
+
+j
+
+
+
+
+∂
+
+x
+
+i
+
+
+
+
+
+)
+
+
+
+{\displaystyle e_{ij}={\frac {1}{2}}\left({\frac {\partial v_{i}}{\partial x_{j}}}+{\frac {\partial v_{j}}{\partial x_{i}}}\right)}
+
+   and   
+
+
+
+Δ
+=
+
+∑
+
+k
+
+
+
+e
+
+k
+k
+
+
+=
+
+div
+
+
+
+v
+
+,
+
+
+{\displaystyle \Delta =\sum _{k}e_{kk}={\text{div}}\;\mathbf {v} ,}
+
+
+
+where vi are the components of the flow velocity vector in the corresponding xi coordinate directions, eij are the components of the strain rate tensor, Δ is the volumetric strain rate (or dilatation rate) and δij is the Kronecker delta.[6]
+The ideal gas law is a constitutive relation in the sense the pressure p and volume V are related to the temperature T, via the number of moles n of gas:
+
+
+
+
+
+p
+V
+=
+n
+R
+T
+
+
+
+{\displaystyle pV=nRT\,}
+
+
+
+where R is the gas constant (J K−1 mol−1).
+Electromagnetism[edit]
+Constitutive equations in electromagnetism and related areas[edit]
+See also: Permittivity, Permeability (electromagnetism), and Electrical conductivity
+In both classical and quantum physics, the precise dynamics of a system form a set of coupled differential equations, which are almost always too complicated to be solved exactly, even at the level of statistical mechanics. In the context of electromagnetism, this remark applies to not only the dynamics of free charges and currents (which enter Maxwell's equations directly), but also the dynamics of bound charges and currents (which enter Maxwell's equations through the constitutive relations). As a result, various approximation schemes are typically used.
+For example, in real materials, complex transport equations must be solved to determine the time and spatial response of charges, for example, the Boltzmann equation or the Fokker–Planck equation or the Navier-Stokes equations. For example, see magnetohydrodynamics, fluid dynamics, electrohydrodynamics, superconductivity, plasma modeling. An entire physical apparatus for dealing with these matters has developed. See for example, linear response theory, Green–Kubo relations and Green's function (many-body theory).
+These complex theories provide detailed formulas for the constitutive relations describing the electrical response of various materials, such as permittivities, permeabilities, conductivities and so forth.
+It is necessary to specify the relations between displacement field D and E, and the magnetic H-field H and B, before doing calculations in electromagnetism (i.e. applying Maxwell's macroscopic equations). These equations specify the response of bound charge and current to the applied fields and are called constitutive relations.
+Determining the constitutive relationship between the auxiliary fields D and H and the E and B fields starts with the definition of the auxiliary fields themselves:
+
+
+
+
+
+
+D
+
+(
+
+r
+
+,
+t
+)
+=
+
+ε
+
+0
+
+
+
+E
+
+(
+
+r
+
+,
+t
+)
++
+
+P
+
+(
+
+r
+
+,
+t
+)
+
+
+{\displaystyle \mathbf {D} (\mathbf {r} ,t)=\varepsilon _{0}\mathbf {E} (\mathbf {r} ,t)+\mathbf {P} (\mathbf {r} ,t)}
+
+
+
+
+
+
+
+H
+
+(
+
+r
+
+,
+t
+)
+=
+
+
+1
+
+μ
+
+0
+
+
+
+
+
+B
+
+(
+
+r
+
+,
+t
+)
+−
+
+M
+
+(
+
+r
+
+,
+t
+)
+,
+
+
+{\displaystyle \mathbf {H} (\mathbf {r} ,t)={\frac {1}{\mu _{0}}}\mathbf {B} (\mathbf {r} ,t)-\mathbf {M} (\mathbf {r} ,t),}
+
+
+
+where P is the polarization field and M is the magnetization field which are defined in terms of microscopic bound charges and bound current respectively. Before getting to how to calculate M and P it is useful to examine the following special cases.
+Without magnetic or dielectric materials[edit]
+In the absence of magnetic or dielectric materials, the constitutive relations are simple:
+
+
+
+
+
+
+D
+
+=
+
+ε
+
+0
+
+
+
+E
+
+,
+
+
+
+
+H
+
+=
+
+B
+
+
+/
+
+
+μ
+
+0
+
+
+
+
+{\displaystyle \mathbf {D} =\varepsilon _{0}\mathbf {E} ,\;\;\;\mathbf {H} =\mathbf {B} /\mu _{0}}
+
+
+
+where ε0 and μ0 are two universal constants, called the permittivity of free space and permeability of free space, respectively.
+Isotropic linear materials[edit]
+In an (isotropic[7]) linear material, where P is proportional to E, and M is proportional to B, the constitutive relations are also straightforward. In terms of the polarization P and the magnetization M they are:
+
+
+
+
+
+
+P
+
+=
+
+ε
+
+0
+
+
+
+χ
+
+e
+
+
+
+E
+
+,
+
+
+
+
+M
+
+=
+
+χ
+
+m
+
+
+
+H
+
+,
+
+
+{\displaystyle \mathbf {P} =\varepsilon _{0}\chi _{e}\mathbf {E} ,\;\;\;\mathbf {M} =\chi _{m}\mathbf {H} ,}
+
+
+
+where χe and χm are the electric and magnetic susceptibilities of a given material respectively. In terms of D and H the constitutive relations are:
+
+
+
+
+
+
+D
+
+=
+ε
+
+E
+
+,
+
+
+
+
+H
+
+=
+
+B
+
+
+/
+
+μ
+,
+
+
+{\displaystyle \mathbf {D} =\varepsilon \mathbf {E} ,\;\;\;\mathbf {H} =\mathbf {B} /\mu ,}
+
+
+
+where ε and μ are constants (which depend on the material), called the permittivity and permeability, respectively, of the material. These are related to the susceptibilities by:
+
+
+
+
+
+ε
+
+/
+
+
+ε
+
+0
+
+
+=
+
+ε
+
+r
+
+
+=
+(
+
+χ
+
+e
+
+
++
+1
+)
+,
+
+μ
+
+/
+
+
+μ
+
+0
+
+
+=
+
+μ
+
+r
+
+
+=
+(
+
+χ
+
+m
+
+
++
+1
+)
+
+
+
+
+{\displaystyle \varepsilon /\varepsilon _{0}=\varepsilon _{r}=(\chi _{e}+1),\quad \mu /\mu _{0}=\mu _{r}=(\chi _{m}+1)\,\!}
+
+
+
+General case[edit]
+For real-world materials, the constitutive relations are not linear, except approximately. Calculating the constitutive relations from first principles involves determining how P and M are created from a given E and B.[note 1] These relations may be empirical (based directly upon measurements), or theoretical (based upon statistical mechanics, transport theory or other tools of condensed matter physics). The detail employed may be macroscopic or microscopic, depending upon the level necessary to the problem under scrutiny.
+In general, the constitutive relations can usually still be written:
+
+
+
+
+
+
+D
+
+=
+ε
+
+E
+
+,
+
+
+
+
+H
+
+=
+
+μ
+
+−
+1
+
+
+
+B
+
+
+
+{\displaystyle \mathbf {D} =\varepsilon \mathbf {E} ,\;\;\;\mathbf {H} =\mu ^{-1}\mathbf {B} }
+
+
+
+but ε and μ are not, in general, simple constants, but rather functions of E, B, position and time, and tensorial in nature. Examples are:
+
+Dispersion and absorption where ε and μ are functions of frequency. (Causality does not permit materials to be nondispersive; see, for example, Kramers–Kronig relations). Neither do the fields need to be in phase which leads to ε and μ being complex. This also leads to absorption.
+Nonlinearity where ε and μ are functions of E and B.
+Anisotropy (such as birefringence or dichroism) which occurs when ε and μ are second-rank tensors,
+
+
+
+
+
+
+
+D
+
+i
+
+
+=
+
+∑
+
+j
+
+
+
+ε
+
+i
+j
+
+
+
+E
+
+j
+
+
+
+
+
+
+B
+
+i
+
+
+=
+
+∑
+
+j
+
+
+
+μ
+
+i
+j
+
+
+
+H
+
+j
+
+
+.
+
+
+{\displaystyle D_{i}=\sum _{j}\varepsilon _{ij}E_{j}\;\;\;B_{i}=\sum _{j}\mu _{ij}H_{j}.}
+
+
+
+
+Dependence of P and M on E and B at other locations and times. This could be due to spatial inhomogeneity; for example in a domained structure, heterostructure or a liquid crystal, or most commonly in the situation where there are simply multiple materials occupying different regions of space. Or it could be due to a time varying medium or due to hysteresis. In such cases P and M can be calculated as:[8][9]
+
+
+
+
+
+
+
+
+
+P
+
+(
+
+r
+
+,
+t
+)
+=
+
+ε
+
+0
+
+
+∫
+
+
+
+d
+
+
+
+3
+
+
+
+
+r
+
+′
+
+
+
+d
+
+
+
+t
+′
+
+
+
+
+
+
+χ
+^
+
+
+
+
+e
+
+
+(
+
+r
+
+,
+
+
+r
+
+′
+
+,
+t
+,
+
+t
+′
+
+;
+
+E
+
+)
+
+
+E
+
+(
+
+
+r
+
+′
+
+,
+
+t
+′
+
+)
+
+
+{\displaystyle \mathbf {P} (\mathbf {r} ,t)=\varepsilon _{0}\int {\rm {d}}^{3}\mathbf {r} '{\rm {d}}t'\;{\hat {\chi }}_{e}(\mathbf {r} ,\mathbf {r} ',t,t';\mathbf {E} )\,\mathbf {E} (\mathbf {r} ',t')}
+
+
+
+
+
+
+
+M
+
+(
+
+r
+
+,
+t
+)
+=
+
+
+1
+
+μ
+
+0
+
+
+
+
+∫
+
+
+
+d
+
+
+
+3
+
+
+
+
+r
+
+′
+
+
+
+d
+
+
+
+t
+′
+
+
+
+
+
+
+χ
+^
+
+
+
+
+m
+
+
+(
+
+r
+
+,
+
+
+r
+
+′
+
+,
+t
+,
+
+t
+′
+
+;
+
+B
+
+)
+
+
+B
+
+(
+
+
+r
+
+′
+
+,
+
+t
+′
+
+)
+,
+
+
+{\displaystyle \mathbf {M} (\mathbf {r} ,t)={\frac {1}{\mu _{0}}}\int {\rm {d}}^{3}\mathbf {r} '{\rm {d}}t'\;{\hat {\chi }}_{m}(\mathbf {r} ,\mathbf {r} ',t,t';\mathbf {B} )\,\mathbf {B} (\mathbf {r} ',t'),}
+
+
+
+
+in which the permittivity and permeability functions are replaced by integrals over the more general electric and magnetic susceptibilities.[10] In homogenous materials, dependence on other locations is known as spatial dispersion.
+
+As a variation of these examples, in general materials are bianisotropic where D and B depend on both E and H, through the additional coupling constants ξ and ζ:[11]
+
+
+
+
+
+
+D
+
+=
+ε
+
+E
+
++
+ξ
+
+H
+
+
+,
+
+
+B
+
+=
+μ
+
+H
+
++
+ζ
+
+E
+
+.
+
+
+{\displaystyle \mathbf {D} =\varepsilon \mathbf {E} +\xi \mathbf {H} \,,\quad \mathbf {B} =\mu \mathbf {H} +\zeta \mathbf {E} .}
+
+
+
+In practice, some materials properties have a negligible impact in particular circumstances, permitting neglect of small effects. For example: optical nonlinearities can be neglected for low field strengths; material dispersion is unimportant when frequency is limited to a narrow bandwidth; material absorption can be neglected for wavelengths for which a material is transparent; and metals with finite conductivity often are approximated at microwave or longer wavelengths as perfect metals with infinite conductivity (forming hard barriers with zero skin depth of field penetration).
+Some man-made materials such as metamaterials and photonic crystals are designed to have customized permittivity and permeability.
+Calculation of constitutive relations[edit]
+See also: Computational electromagnetics
+The theoretical calculation of a material's constitutive equations is a common, important, and sometimes difficult task in theoretical condensed-matter physics and materials science. In general, the constitutive equations are theoretically determined by calculating how a molecule responds to the local fields through the Lorentz force. Other forces may need to be modeled as well such as lattice vibrations in crystals or bond forces. Including all of the forces leads to changes in the molecule which are used to calculate P and M as a function of the local fields.
+The local fields differ from the applied fields due to the fields produced by the polarization and magnetization of nearby material; an effect which also needs to be modeled. Further, real materials are not continuous media; the local fields of real materials vary wildly on the atomic scale. The fields need to be averaged over a suitable volume to form a continuum approximation.
+These continuum approximations often require some type of quantum mechanical analysis such as quantum field theory as applied to condensed matter physics. See, for example, density functional theory, Green–Kubo relations and Green's function.
+A different set of homogenization methods (evolving from a tradition in treating materials such as conglomerates and laminates) are based upon approximation of an inhomogeneous material by a homogeneous effective medium[12][13] (valid for excitations with wavelengths much larger than the scale of the inhomogeneity).[14][15][16][17]
+The theoretical modeling of the continuum-approximation properties of many real materials often rely upon experimental measurement as well.[18] For example, ε of an insulator at low frequencies can be measured by making it into a parallel-plate capacitor, and ε at optical-light frequencies is often measured by ellipsometry.
+Thermoelectric and electromagnetic properties of matter[edit]
+These constitutive equations are often used in crystallography, a field of solid-state physics.[19]
+
+
+
+Electromagnetic properties of solids
+
+Property/effect
+Stimuli/response parameters of system
+Constitutive tensor of system
+Equation
+
+
+Hall effect
+
+
+
+E = electric field strength (N C−1)
+J = electric current density (A m−2)
+H = magnetic field intensity (A m−1)
+
+
+
+ρ = electrical resistivity (Ω m)
+
+
+
+
+
+E
+
+k
+
+
+=
+
+ρ
+
+k
+i
+j
+
+
+
+J
+
+i
+
+
+
+H
+
+j
+
+
+
+
+
+{\displaystyle E_{k}=\rho _{kij}J_{i}H_{j}\,}
+
+
+
+
+Direct Piezoelectric Effect
+
+
+
+σ = Stress (Pa)
+P = (dielectric) polarization (C m−2)
+
+
+
+d = direct piezoelectric coefficient (K−1)
+
+
+
+
+
+P
+
+i
+
+
+=
+
+d
+
+i
+j
+k
+
+
+
+σ
+
+j
+k
+
+
+
+
+
+{\displaystyle P_{i}=d_{ijk}\sigma _{jk}\,}
+
+
+
+
+Converse Piezoelectric Effect
+
+
+
+ε = Strain (dimensionless)
+E = electric field strength (N C−1)
+
+
+
+d = direct piezoelectric coefficient (K−1)
+
+
+
+
+
+ε
+
+i
+j
+
+
+=
+
+d
+
+i
+j
+k
+
+
+
+E
+
+k
+
+
+
+
+
+{\displaystyle \varepsilon _{ij}=d_{ijk}E_{k}\,}
+
+
+
+
+Piezomagnetic effect
+
+
+
+σ = Stress (Pa)
+M = magnetization (A m−1)
+
+
+
+q = piezomagnetic coefficient (K−1)
+
+
+
+
+
+M
+
+i
+
+
+=
+
+q
+
+i
+j
+k
+
+
+
+σ
+
+j
+k
+
+
+
+
+
+{\displaystyle M_{i}=q_{ijk}\sigma _{jk}\,}
+
+
+
+
+
+
+
+
+
+Thermoelectric properties of solids
+
+Property/effect
+Stimuli/response parameters of system
+Constitutive tensor of system
+Equation
+
+
+Pyroelectricity
+
+
+
+P = (dielectric) polarization (C m−2)
+T = temperature (K)
+
+
+
+p = pyroelectric coefficient (C m−2 K−1)
+
+
+
+
+Δ
+
+P
+
+j
+
+
+=
+
+p
+
+j
+
+
+Δ
+T
+
+
+
+{\displaystyle \Delta P_{j}=p_{j}\Delta T\,}
+
+
+
+
+Electrocaloric effect
+
+
+
+S = entropy (J K−1)
+E = electric field strength (N C−1)
+
+
+
+p = pyroelectric coefficient (C m−2 K−1)
+
+
+
+
+Δ
+S
+=
+
+p
+
+i
+
+
+Δ
+
+E
+
+i
+
+
+
+
+
+{\displaystyle \Delta S=p_{i}\Delta E_{i}\,}
+
+
+
+
+Seebeck effect
+
+
+
+E = electric field strength (N C−1 = V m−1)
+T = temperature (K)
+x = displacement (m)
+
+
+
+β = thermopower (V K−1)
+
+
+
+
+
+E
+
+i
+
+
+=
+−
+
+β
+
+i
+j
+
+
+
+
+
+∂
+T
+
+
+∂
+
+x
+
+j
+
+
+
+
+
+
+
+
+{\displaystyle E_{i}=-\beta _{ij}{\frac {\partial T}{\partial x_{j}}}\,}
+
+
+
+
+Peltier effect
+
+
+
+E = electric field strength (N C−1)
+J = electric current density (A m−2)
+q = heat flux (W m−2)
+
+
+
+Π = Peltier coefficient (W A−1)
+
+
+
+
+
+q
+
+j
+
+
+=
+
+Π
+
+j
+i
+
+
+
+J
+
+i
+
+
+
+
+
+{\displaystyle q_{j}=\Pi _{ji}J_{i}\,}
+
+
+
+
+
+
+Photonics[edit]
+
+Refractive index
+
+The (absolute) refractive index of a medium n (dimensionless) is an inherently important property of geometric and physical optics defined as the ratio of the luminal speed in vacuum c0 to that in the medium c:
+
+
+
+
+
+n
+=
+
+
+
+c
+
+0
+
+
+c
+
+
+=
+
+
+
+
+ε
+μ
+
+
+
+ε
+
+0
+
+
+
+μ
+
+0
+
+
+
+
+
+
+=
+
+
+
+ε
+
+r
+
+
+
+μ
+
+r
+
+
+
+
+
+
+
+{\displaystyle n={\frac {c_{0}}{c}}={\sqrt {\frac {\varepsilon \mu }{\varepsilon _{0}\mu _{0}}}}={\sqrt {\varepsilon _{r}\mu _{r}}}\,}
+
+
+
+where ε is the permittivity and εr the relative permittivity of the medium, likewise μ is the permeability and μr are the relative permmeability of the medium. The vacuum permittivity is ε0 and vacuum permeability is μ0. In general, n (also εr) are complex numbers.
+The relative refractive index is defined as the ratio of the two refractive indices. Absolute is for on material, relative applies to every possible pair of interfaces;
+
+
+
+
+
+
+n
+
+A
+B
+
+
+=
+
+
+
+n
+
+A
+
+
+
+n
+
+B
+
+
+
+
+
+
+
+{\displaystyle n_{AB}={\frac {n_{A}}{n_{B}}}\,}
+
+
+
+
+Speed of light in matter
+
+As a consequence of the definition, the speed of light in matter is
+
+
+
+
+
+c
+=
+1
+
+/
+
+
+
+ε
+μ
+
+
+
+
+
+{\displaystyle c=1/{\sqrt {\varepsilon \mu }}\,}
+
+
+
+for special case of vacuum; ε = ε0 and μ = μ0,
+
+
+
+
+
+
+c
+
+0
+
+
+=
+1
+
+/
+
+
+
+
+ε
+
+0
+
+
+
+μ
+
+0
+
+
+
+
+
+
+
+{\displaystyle c_{0}=1/{\sqrt {\varepsilon _{0}\mu _{0}}}\,}
+
+
+
+
+Piezooptic effect
+
+The piezooptic effect relates the stresses in solids σ to the dielectric impermeability a, which are coupled by a fourth-rank tensor called the piezooptic coefficient Π (units K−1):
+
+
+
+
+
+
+a
+
+i
+j
+
+
+=
+
+Π
+
+i
+j
+p
+q
+
+
+
+σ
+
+p
+q
+
+
+
+
+
+{\displaystyle a_{ij}=\Pi _{ijpq}\sigma _{pq}\,}
+
+
+
+Transport phenomena[edit]
+Definitions[edit]
+
+
+
+Definitions (thermal properties of matter)
+
+Quantity (Common Name/s)
+(Common) Symbol/s
+Defining Equation
+SI Units
+Dimension
+
+
+General heat capacity
+C = heat capacity of substance
+
+
+
+
+q
+=
+C
+T
+
+
+
+{\displaystyle q=CT\,}
+
+
+J K−1
+[M][L]2[T]−2[Θ]−1
+
+
+Linear thermal expansion
+
+
+
+L = length of material (m)
+α = coefficient linear thermal expansion (dimensionless)
+ε = strain tensor (dimensionless)
+
+
+
+
+
+
+
+
+
+
+∂
+L
+
+/
+
+∂
+T
+=
+α
+L
+
+
+
+
+{\displaystyle \partial L/\partial T=\alpha L\,\!}
+
+
+
+
+
+
+
+ε
+
+i
+j
+
+
+=
+
+α
+
+i
+j
+
+
+Δ
+T
+
+
+
+{\displaystyle \varepsilon _{ij}=\alpha _{ij}\Delta T\,}
+
+
+
+
+
+K−1
+[Θ]−1
+
+
+Volumetric thermal expansion
+β, γ
+
+
+V = volume of object (m3)
+p = constant pressure of surroundings
+
+
+
+
+
+
+
+(
+∂
+V
+
+/
+
+∂
+T
+
+)
+
+p
+
+
+=
+γ
+V
+
+
+
+
+{\displaystyle (\partial V/\partial T)_{p}=\gamma V\,\!}
+
+
+K−1
+[Θ]−1
+
+
+Thermal conductivity
+κ, K, λ,
+
+
+A = surface cross section of material (m2)
+P = thermal current/power through material (W)
+∇T = temperature gradient in material (K m−1)
+
+
+
+
+
+
+
+λ
+=
+−
+P
+
+/
+
+(
+
+A
+
+⋅
+∇
+T
+)
+
+
+
+
+{\displaystyle \lambda =-P/(\mathbf {A} \cdot \nabla T)\,\!}
+
+
+W m−1 K−1
+[M][L][T]−3[Θ]−1
+
+
+Thermal conductance
+U
+
+
+
+
+U
+=
+λ
+
+/
+
+δ
+x
+
+
+
+
+{\displaystyle U=\lambda /\delta x\,\!}
+
+
+W m−2 K−1
+[M][T]−3[Θ]−1
+
+
+Thermal resistance
+R
+Δx = displacement of heat transfer (m)
+
+
+
+
+
+R
+=
+1
+
+/
+
+U
+=
+Δ
+x
+
+/
+
+λ
+
+
+
+
+{\displaystyle R=1/U=\Delta x/\lambda \,\!}
+
+
+m2 K W−1
+[M]−1[L][T]3[Θ]
+
+
+
+
+
+
+
+Definitions (Electrical/magnetic properties of matter)
+
+Quantity (Common Name/s)
+(Common) Symbol/s
+Defining Equation
+SI Units
+Dimension
+
+
+Electrical resistance
+R
+
+
+
+
+R
+=
+V
+
+/
+
+I
+
+
+
+
+{\displaystyle R=V/I\,\!}
+
+
+Ω = V A−1 = J s C−2
+[M] [L]2 [T]−3 [I]−2
+
+
+Resistivity
+ρ
+
+
+
+
+ρ
+=
+R
+A
+
+/
+
+l
+
+
+
+
+{\displaystyle \rho =RA/l\,\!}
+
+
+Ω m
+[M]2 [L]2 [T]−3 [I]−2
+
+
+Resistivity temperature coefficient, linear temperature dependence
+α
+
+
+
+
+ρ
+−
+
+ρ
+
+0
+
+
+=
+
+ρ
+
+0
+
+
+α
+(
+T
+−
+
+T
+
+0
+
+
+)
+
+
+
+
+{\displaystyle \rho -\rho _{0}=\rho _{0}\alpha (T-T_{0})\,\!}
+
+
+K−1
+[Θ]−1
+
+
+Electrical conductance
+G
+
+
+
+
+G
+=
+1
+
+/
+
+R
+
+
+
+
+{\displaystyle G=1/R\,\!}
+
+
+S = Ω−1
+[T]3 [I]2 [M]−1 [L]−2
+
+
+Electrical conductivity
+σ
+
+
+
+
+σ
+=
+1
+
+/
+
+ρ
+
+
+
+
+{\displaystyle \sigma =1/\rho \,\!}
+
+
+Ω−1 m−1
+[I]2 [T]3 [M]−2 [L]−2
+
+
+Magnetic reluctance
+R, Rm, 
+
+
+
+
+
+R
+
+
+
+
+{\displaystyle {\mathcal {R}}}
+
+
+
+
+
+
+
+R
+
+m
+
+
+=
+
+
+M
+
+
+
+/
+
+
+Φ
+
+B
+
+
+
+
+{\displaystyle R_{\text{m}}={\mathcal {M}}/\Phi _{B}}
+
+
+A Wb−1 = H−1
+[M]−1[L]−2[T]2
+
+
+Magnetic permeance
+P, Pm, Λ, 
+
+
+
+
+
+P
+
+
+
+
+{\displaystyle {\mathcal {P}}}
+
+
+
+
+
+
+Λ
+=
+1
+
+/
+
+
+R
+
+m
+
+
+
+
+{\displaystyle \Lambda =1/R_{\text{m}}}
+
+
+Wb A−1 = H
+[M][L]2[T]−2
+
+
+
+
+Definitive laws[edit]
+There are several laws which describe the transport of matter, or properties of it, in an almost identical way. In every case, in words they read:
+
+Flux (density) is proportional to a gradient, the constant of proportionality is the characteristic of the material.
+
+In general the constant must be replaced by a 2nd rank tensor, to account for directional dependences of the material.
+
+
+
+
+Property/effect
+Nomenclature
+Equation
+
+
+Fick's law of diffusion, defines diffusion coefficient D
+
+
+
+D = mass diffusion coefficient (m2 s−1)
+J = diffusion flux of substance (mol m−2 s−1)
+∂C/∂x = (1d)concentration gradient of substance (mol dm−4)
+
+
+
+
+
+
+
+
+J
+
+i
+
+
+=
+−
+
+D
+
+i
+j
+
+
+
+
+
+∂
+C
+
+
+∂
+
+x
+
+j
+
+
+
+
+
+
+
+{\displaystyle J_{i}=-D_{ij}{\frac {\partial C}{\partial x_{j}}}}
+
+
+
+
+Darcy's law for fluid flow in porous media, defines permeability κ
+
+
+
+κ = permeability of medium (m2)
+μ = fluid viscosity (Pa s)
+q = discharge flux of substance (m s−1)
+∂P/∂x = (1d) pressure gradient of system (Pa m−1)
+
+
+
+
+
+
+
+
+q
+
+j
+
+
+=
+−
+
+
+κ
+μ
+
+
+
+
+
+∂
+P
+
+
+∂
+
+x
+
+j
+
+
+
+
+
+
+
+{\displaystyle q_{j}=-{\frac {\kappa }{\mu }}{\frac {\partial P}{\partial x_{j}}}}
+
+
+
+
+Ohm's law of electric conduction, defines electric conductivity (and hence resistivity and resistance)
+
+
+
+V = potential difference in material (V)
+I = electric current through material (A)
+R = resistance of material (Ω)
+∂V/∂x = potential gradient (electric field) through material (V m−1)
+J = electric current density through material (A m−2)
+σ = electric conductivity of material (Ω−1 m−1)
+ρ = electrical resistivity of material (Ω m)
+
+
+
+
+
+
+Simplist form is:
+
+
+
+
+V
+=
+I
+R
+
+
+
+{\displaystyle V=IR\,}
+
+
+More general forms are:
+
+
+
+
+
+
+
+∂
+V
+
+
+∂
+
+x
+
+j
+
+
+
+
+
+=
+
+ρ
+
+j
+i
+
+
+
+J
+
+i
+
+
+
+⇌
+
+
+J
+
+i
+
+
+=
+
+σ
+
+i
+j
+
+
+
+
+
+∂
+V
+
+
+∂
+
+x
+
+j
+
+
+
+
+
+
+
+
+{\displaystyle {\frac {\partial V}{\partial x_{j}}}=\rho _{ji}J_{i}\,\rightleftharpoons \,J_{i}=\sigma _{ij}{\frac {\partial V}{\partial x_{j}}}\,}
+
+
+
+
+
+
+
+Fourier's law of thermal conduction, defines thermal conductivity λ
+
+
+
+λ = thermal conductivity of material (W m−1 K−1 )
+q = heat flux through material (W m−2)
+∂T/∂x = temperature gradient in material (K m−1)
+
+
+
+
+
+
+
+
+q
+
+i
+
+
+=
+−
+
+λ
+
+i
+j
+
+
+
+
+
+∂
+T
+
+
+∂
+
+x
+
+j
+
+
+
+
+
+
+
+
+{\displaystyle q_{i}=-\lambda _{ij}{\frac {\partial T}{\partial x_{j}}}\,}
+
+
+
+
+Stefan–Boltzmann law of black-body radiation, defines emmisivity ε
+
+
+
+I = radiant intensity (W m−2)
+σ = Stefan–Boltzmann constant (W m−2 K−4)
+Tsys = temperature of radiating system (K)
+Text = temperature of external surroundings (K)
+ε = emissivity (dimensionless)
+
+
+
+
+
+
+For a single radiator:
+
+
+
+
+I
+=
+ε
+σ
+
+T
+
+4
+
+
+
+
+
+{\displaystyle I=\varepsilon \sigma T^{4}\,}
+
+
+
+
+For a temperature difference:
+
+
+
+
+
+
+I
+=
+ε
+σ
+(
+
+T
+
+ext
+
+
+4
+
+
+−
+
+T
+
+sys
+
+
+4
+
+
+)
+
+
+
+{\displaystyle I=\varepsilon \sigma (T_{\text{ext}}^{4}-T_{\text{sys}}^{4})\,}
+
+
+0 ≤ ε ≤ 1
+ε = 0 for perfect reflector
+ε = 1 for perfect absorber (true black body)
+
+
+
+
+
+
+
+See also[edit]
+
+Principle of material objectivity
+Rheology
+
+Notes[edit]
+
+
+
+^ The free charges and currents respond to the fields through the Lorentz force law and this response is calculated at a fundamental level using mechanics. The response of bound charges and currents is dealt with using grosser methods subsumed under the notions of magnetization and polarization. Depending upon the problem, one may choose to have no free charges whatsoever.
+
+
+
+
+
+^ Clifford Truesdell & Walter Noll; Stuart S. Antman, editor (2004). The Non-linear Field Theories of Mechanics. Springer. p. 4. ISBN 3-540-02779-3. CS1 maint: Multiple names: authors list (link) CS1 maint: Extra text: authors list (link)
+^ See Truesdell's account in Truesdell The naturalization and apotheosis of Walter Noll. See also Noll's account and the classic treatise by both authors: Clifford Truesdell & Walter Noll – Stuart S. Antman (editor) (2004). "Preface". The Non-linear Field Theories of Mechanics (Originally published as Volume III/3 of the famous Encyclopedia of Physics in 1965) (3rd ed.). Springer. p. xiii. ISBN 3-540-02779-3. CS1 maint: Extra text: authors list (link)
+^ Jørgen Rammer (2007). Quantum Field Theory of Nonequilibrium States. Cambridge University Press. ISBN 978-0-521-87499-1. 
+^ Encyclopaedia of Physics (2nd Edition), R.G. Lerner, G.L. Trigg, VHC publishers, 1991, ISBN (Verlagsgesellschaft) 3-527-26954-1, ISBN (VHC Inc.) 0-89573-752-3
+^ Essential Principles of Physics, P.M. Whelan, M.J. Hodgeson, 2nd Edition, 1978, John Murray, ISBN 0 7195 3382 1
+^ Kay, J.M. (1985). Fluid Mechanics and Transfer Processes. Cambridge University Press. pp. 10 & 122–124. ISBN 9780521316248. 
+^ The generalization to non-isotropic materials is straight forward; simply replace the constants with tensor quantities.
+^ Halevi, Peter (1992). Spatial dispersion in solids and plasmas. Amsterdam: North-Holland. ISBN 978-0-444-87405-4. 
+^ Jackson, John David (1999). Classical Electrodynamics (3rd ed.). New York: Wiley. ISBN 0-471-30932-X. 
+^ Note that the 'magnetic susceptibility' term used here is in terms of B and is different from the standard definition in terms of H.
+^ TG Mackay; A Lakhtakia (2010). Electromagnetic Anisotropy and Bianisotropy: A Field Guide. World Scientific. 
+^ Aspnes, D.E., "Local-field effects and effective-medium theory: A microscopic perspective", Am. J. Phys. 50, p. 704-709 (1982).
+^ Habib Ammari; Hyeonbae Kang (2006). Inverse problems, multi-scale analysis and effective medium theory : workshop in Seoul, Inverse problems, multi-scale analysis, and homogenization, June 22–24, 2005, Seoul National University, Seoul, Korea. Providence RI: American Mathematical Society. p. 282. ISBN 0-8218-3968-3. 
+^ O. C. Zienkiewicz; Robert Leroy Taylor; J. Z. Zhu; Perumal Nithiarasu (2005). The Finite Element Method (Sixth ed.). Oxford UK: Butterworth-Heinemann. p. 550 ff. ISBN 0-7506-6321-9. 
+^ N. Bakhvalov and G. Panasenko, Homogenization: Averaging Processes in Periodic Media (Kluwer: Dordrecht, 1989); V. V. Jikov, S. M. Kozlov and O. A. Oleinik, Homogenization of Differential Operators and Integral Functionals (Springer: Berlin, 1994).
+^ Vitaliy Lomakin; Steinberg BZ; Heyman E; Felsen LB (2003). "Multiresolution Homogenization of Field and Network Formulations for Multiscale Laminate Dielectric Slabs" (PDF). IEEE Transactions on Antennas and Propagation. 51 (10): 2761 ff. Bibcode:2003ITAP...51.2761L. doi:10.1109/TAP.2003.816356. Archived from the original (PDF) on 2012-05-14. 
+^ AC Gilbert (Ronald R Coifman, Editor) (May 2000). Topics in Analysis and Its Applications: Selected Theses. Singapore: World Scientific Publishing Company. p. 155. ISBN 981-02-4094-5. 
+^ Edward D. Palik; Ghosh G (1998). Handbook of Optical Constants of Solids. London UK: Academic Press. p. 1114. ISBN 0-12-544422-2. 
+^ http://www.mx.iucr.org/iucr-top/comm/cteach/pamphlets/18/node2.html
+
+
+External links[edit]
+
+http://www.mx.iucr.org/iucr-top/comm/cteach/pamphlets/18/node2.html
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Constitutive_equation&oldid=810668508"					
+Categories: Elasticity (physics)Equations of physicsElectric and magnetic fields in matterHidden categories: CS1 maint: Multiple names: authors listCS1 maint: Extra text: authors list 

@@ -1,0 +1,298 @@
+gc (engineering) - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (November 2016)
+
+
+
+In engineering, gc is a unit conversion factor used to convert mass to force or vice versa.[1] It is defined as
+
+
+
+
+
+
+g
+
+c
+
+
+=
+
+
+
+m
+a
+
+F
+
+
+
+
+{\displaystyle g_{\text{c}}={\frac {ma}{F}}}
+
+
+
+In unit systems where force is a derived unit, like in SI units, gc is equal to 1 and is not needed. In unit systems where force is a primary unit, like in English units, gc is not equal to 1, and is required to obtain correct results.[2]
+Motivations[edit]
+According to Newton's law of motion, the force F is proportional to mass m and acceleration a
+
+
+
+
+
+F
+∝
+m
+a
+
+
+{\displaystyle F\propto ma}
+
+
+
+or in general
+
+
+
+
+
+F
+=
+K
+m
+a
+
+
+{\displaystyle F=Kma}
+
+
+
+If F = 1 lbf, m = 1 lb, and a = 7000981456000000000♠32.2 ft/s2, then
+
+
+
+
+
+1
+ 
+
+lbf
+
+=
+K
+
+(
+1
+ 
+
+lb
+
+⋅
+32.2
+ 
+
+
+ft
+
+
+s
+
+
+2
+
+
+
+
+)
+
+
+
+{\displaystyle 1~{\text{lbf}}=K\left(1~{\text{lb}}\cdot 32.2~{\frac {\text{ft}}{{\text{s}}^{2}}}\right)}
+
+
+
+Leading to
+
+
+
+
+
+K
+=
+
+
+
+1
+ 
+
+lbf
+
+
+
+1
+ 
+
+lb
+
+⋅
+32.2
+ 
+
+
+ft
+
+
+s
+
+
+2
+
+
+
+
+
+
+
+=
+0.03106
+ 
+
+
+
+
+lbf
+
+⋅
+
+
+s
+
+
+2
+
+
+
+ft
+
+
+
+
+{\displaystyle K={\frac {1~{\text{lbf}}}{1~{\text{lb}}\cdot 32.2~{\frac {\text{ft}}{{\text{s}}^{2}}}}}=0.03106~{\frac {{\text{lbf}}\cdot {\text{s}}^{2}}{\text{ft}}}}
+
+
+
+gc is defined as the reciprocal of the constant K
+
+
+
+
+
+
+g
+
+c
+
+
+=
+
+
+1
+K
+
+
+=
+32.2
+ 
+
+
+ft
+
+
+lbf
+
+⋅
+
+
+s
+
+
+2
+
+
+
+
+
+
+
+{\displaystyle g_{\text{c}}={\frac {1}{K}}=32.2~{\frac {\text{ft}}{{\text{lbf}}\cdot {\text{s}}^{2}}}}
+
+
+
+or equivalently, as
+
+
+
+
+
+
+g
+
+c
+
+
+=
+
+
+
+m
+a
+
+F
+
+
+
+
+{\displaystyle g_{\text{c}}={\frac {ma}{F}}}
+
+
+
+Specific systems of units[edit]
+
+
+International System
+English System
+British Customary System
+
+
+gc = 1 (kg·m)/(N·s2)
+gc = 32.2 (lb·ft)/(lbf·s2)
+gc = 1 (slug·ft)/(lbf·s2)
+
+
+References[edit]
+
+
+
+^ Janna, William (2015). Introduction to Fluid Mechanics (5th ed.). CRC Press. p. 5. ISBN 9781482211610. 
+^ Cengel, Yunus; Boles, Michael (2014). Thermodynamics: An Engineering Approach (8th ed.). McGraw-Hill Education. p. 6. ISBN 9780073398174. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Gc_(engineering)&oldid=793091663"					
+Categories: EquationsHidden categories: Orphaned articles from November 2016All orphaned articles 

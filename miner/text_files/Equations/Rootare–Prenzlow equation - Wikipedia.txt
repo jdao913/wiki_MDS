@@ -1,0 +1,19 @@
+Rootare–Prenzlow equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Rootare-Prenzlow Equation is named for Estonian-American scientist Hillar Rootare and American scientist Carl Prenzlow, first published in their 1967 paper, "Surface Areas from Mercury Porosimetry Measurements," Rootare, H.M., and Prenzlow, C.F., 71 J. Phys. Chem. p. 2733 (1967). The equation first formulated a means to calculate cumulative surface areas of porous solids based on data taken in mercury porosimetry testing. Rootare and Spencer later devised a computer programme to carry out automated calculations, "A Computer Program for Pore Volume and Pore Area Distribution," Rootare & Spencer, Perspectives in Powder Metallurgy (Advanced Experimental Techniques in Powder Metallurgy) p. 225, Plenum Press (New York, London 1970).
+Equation[edit]
+The equation can be found at section 2.2.3 here: http://ethesis.helsinki.fi/julkaisut/mat/farma/vk/westermarck/ch2.html
+References[edit]
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Rootare–Prenzlow_equation&oldid=636238274"					
+Categories: Equations 

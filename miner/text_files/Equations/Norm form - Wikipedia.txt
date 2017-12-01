@@ -1,0 +1,36 @@
+Norm form - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, a norm form is a homogeneous form in n variables constructed from the field norm of a field extension L/K of degree n.[1] That is, writing N for the norm mapping to K, and selecting a basis
+
+e1, ..., en
+
+for L as a vector space over K, the form is given by
+
+N(x1e1 + ... + xnen)
+
+in variables
+
+x1, ..., xn.
+
+In number theory norm forms are studied as Diophantine equations, where they generalize, for example, the Pell equation.[2] For this application the field K is usually the rational number field, the field L is an algebraic number field, and the basis is taken of some order in the ring of integers OL of L.
+References[edit]
+
+
+
+^ Lekkerkerker, Cornelis Gerrit (1969), Geometry of numbers, Bibliotheca Mathematica, 8, Amsterdam: North-Holland Publishing Co., p. 29, MR 0271032 .
+^ Bombieri, Enrico; Gubler, Walter (2006), Heights in Diophantine geometry, New Mathematical Monographs, 4, Cambridge University Press, Cambridge, pp. 190–191, doi:10.1017/CBO9780511542879, ISBN 978-0-521-84615-8, MR 2216774 .
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Norm_form&oldid=679585851"					
+Categories: Field theoryDiophantine equationsHomogeneous polynomials 

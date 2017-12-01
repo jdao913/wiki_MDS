@@ -1,0 +1,92 @@
+Kuramoto–Sivashinsky equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+In mathematics, Kuramoto–Sivashinsky equation is a fourth-order nonlinear partial differential equation,[1] named after Yoshiki Kuramoto and Gregory Sivashinsky, who derived the equation to model the diffusive instabilities in the laminar flame front in 1970s.
+
+
+
+
+
+
+u
+
+t
+
+
++
+
+∇
+
+4
+
+
+u
++
+
+∇
+
+2
+
+
+u
++
+
+
+1
+2
+
+
+
+|
+
+∇
+u
+
+
+|
+
+
+2
+
+
+=
+0.
+
+
+{\displaystyle u_{t}+\nabla ^{4}u+\nabla ^{2}u+{\frac {1}{2}}|\nabla u|^{2}=0.}
+
+
+
+The equation is known for its chaotic behavior.
+References[edit]
+
+
+^ http://mathworld.wolfram.com/Kuramoto-SivashinskyEquation.html
+
+
+
+
+
+
+This mathematics-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Kuramoto–Sivashinsky_equation&oldid=778449222"					
+Categories: Differential equationsFluid dynamicsCombustionMathematics stubsHidden categories: All stub articles 

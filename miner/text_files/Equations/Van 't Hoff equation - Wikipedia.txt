@@ -1,0 +1,1322 @@
+Van 't Hoff equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+The Van 't Hoff equation relates the change in the equilibrium constant, Keq, of a chemical reaction to the change in temperature, T, given the standard enthalpy change, ΔH⊖, for the process. It was proposed by Dutch chemist Jacobus Henricus van 't Hoff in 1884 in his book "Études de Dynamique chimique" (Studies in dynamic chemistry).[1] This equation is sometimes also referred to as the Vukancic–Vukovic equation.[2][3][4]
+The Van 't Hoff equation has been widely utilized to explore the changes in state functions in a thermodynamic system. The Van 't Hoff plot, which is derived from this equation, is especially effective in estimating the change in enthalpy, or total energy, and entropy, or amount of disorder, of a chemical reaction.
+
+
+
+Contents
+
+
+1 Equation
+
+1.1 Under standard conditions
+1.2 Development from thermodynamics
+1.3 Van 't Hoff isotherm
+
+
+2 Van 't Hoff plot
+
+2.1 Endothermic reactions
+2.2 Exothermic reactions
+2.3 Error propagation
+
+
+3 Applications of the Van 't Hoff plot
+
+3.1 Van 't Hoff analysis
+3.2 Mechanistic studies
+3.3 Temperature dependence
+3.4 Surfactant self-assembly
+
+
+4 See also
+5 References
+
+
+
+Equation[edit]
+Under standard conditions[edit]
+Under standard conditions, the Van 't Hoff equation is[5][6]
+
+
+
+
+
+
+
+
+
+
+
+
+d
+ln
+⁡
+
+K
+
+eq
+
+
+
+
+d
+T
+
+
+
+=
+
+
+
+Δ
+
+H
+
+⊖
+
+
+
+
+R
+
+T
+
+2
+
+
+
+
+
+,
+
+
+{\displaystyle {\frac {d\ln K_{\text{eq}}}{dT}}={\frac {\Delta H^{\ominus }}{RT^{2}}},}
+
+
+
+
+
+
+
+where R is the ideal gas constant. This equation is exact at any one temperature. In practice, the equation is often integrated between two temperatures under the assumption that the reaction enthalpy ΔH is constant. Since in reality ΔH and ΔS do vary with temperature for most processes,[7] the integrated equation is only approximate.
+A major use of the integrated equation is to estimate a new equilibrium constant at a new absolute temperature assuming a constant standard enthalpy change over the temperature range.
+To obtain the integrated equation, it is convenient to first rewrite the Van 't Hoff equation as[5]
+
+
+
+
+
+
+
+
+d
+ln
+⁡
+
+K
+
+eq
+
+
+
+
+d
+
+
+1
+T
+
+
+
+
+
+=
+−
+
+
+
+Δ
+
+H
+
+⊖
+
+
+
+R
+
+
+.
+
+
+{\displaystyle {\frac {d\ln K_{\text{eq}}}{d{\frac {1}{T}}}}=-{\frac {\Delta H^{\ominus }}{R}}.}
+
+
+
+The definite integral between temperatures T1 and T2 is then
+
+
+
+
+
+ln
+⁡
+
+
+
+K
+
+2
+
+
+
+K
+
+1
+
+
+
+
+=
+
+
+
+−
+Δ
+
+H
+
+⊖
+
+
+
+R
+
+
+
+(
+
+
+1
+
+T
+
+2
+
+
+
+
+−
+
+
+1
+
+T
+
+1
+
+
+
+
+)
+
+.
+
+
+{\displaystyle \ln {\frac {K_{2}}{K_{1}}}={\frac {-\Delta H^{\ominus }}{R}}\left({\frac {1}{T_{2}}}-{\frac {1}{T_{1}}}\right).}
+
+
+
+In this equation K1 is the equilibrium constant at absolute temperature T1, and K2 is the equilibrium constant at absolute temperature T2.
+Development from thermodynamics[edit]
+Combining the definition of Gibbs free energy:
+
+
+
+
+
+Δ
+
+G
+
+⊖
+
+
+=
+Δ
+
+H
+
+⊖
+
+
+−
+T
+Δ
+
+S
+
+⊖
+
+
+,
+
+
+{\displaystyle \Delta G^{\ominus }=\Delta H^{\ominus }-T\Delta S^{\ominus },}
+
+
+
+where S is the entropy of the system, and the Gibbs free energy isotherm equation:[8]
+
+
+
+
+
+Δ
+
+G
+
+⊖
+
+
+=
+−
+R
+T
+ln
+⁡
+
+K
+
+eq
+
+
+,
+
+
+{\displaystyle \Delta G^{\ominus }=-RT\ln K_{\text{eq}},}
+
+
+
+we obtain
+
+
+
+
+
+ln
+⁡
+
+K
+
+eq
+
+
+=
+−
+
+
+
+Δ
+
+H
+
+⊖
+
+
+
+
+R
+T
+
+
+
++
+
+
+
+Δ
+
+S
+
+⊖
+
+
+
+R
+
+
+.
+
+
+{\displaystyle \ln K_{\text{eq}}=-{\frac {\Delta H^{\ominus }}{RT}}+{\frac {\Delta S^{\ominus }}{R}}.}
+
+
+
+Differentiation of this expression with respect to the variable 1/T yields the Van 't Hoff equation.
+Provided that ΔH⊖ and ΔS⊖ are constant, the preceding equation gives ln K as a linear function of 1/T and hence is known as the linear form of the Van 't Hoff equation. Therefore, when the range in temperature is small enough that the standard enthalpy and entropy changes are essentially constant, a plot of the natural logarithm of the equilibrium constant versus the reciprocal temperature gives a straight line. The slope of the line may be multiplied by the gas constant R to obtain the standard enthalpy change of the reaction, and the intercept may be multiplied by R to obtain the standard entropy change.
+Van 't Hoff isotherm[edit]
+The Gibbs free energy changes with the temperature and pressure of the thermodynamic system. The Van 't Hoff isotherm can be used to determine the Gibbs free energy for non-standard state reactions at a constant temperature:[9]
+
+
+
+
+
+
+
+(
+
+
+
+d
+G
+
+
+d
+ξ
+
+
+
+)
+
+
+T
+,
+p
+
+
+=
+
+Δ
+
+r
+
+
+G
++
+R
+T
+ln
+⁡
+
+Q
+
+r
+
+
+,
+
+
+{\displaystyle \left({\frac {dG}{d\xi }}\right)_{T,p}=\Delta _{\text{r}}G+RT\ln Q_{\text{r}},}
+
+
+
+where ΔrG is the Gibbs free energy for the reaction, and Qr is the reaction quotient. When a reaction is at equilibrium, Qr = Keq. The Van 't Hoff isotherm can help estimate the equilibrium reaction shift. When ΔrG < 0, the reaction moves in the forward direction. When ΔrG > 0, the reaction moves in the backwards directions. See Chemical equilibrium.
+Van 't Hoff plot[edit]
+For a reversible reaction, the equilibrium constant can be measured at a variety of temperatures. This data can be plotted on a graph with ln Keq on the y axis and 1/T on the x axis. The data should have a linear relationship, the equation for which can be found by fitting the data using the linear form of the Van 't Hoff equation
+
+
+
+
+
+ln
+⁡
+
+K
+
+eq
+
+
+=
+−
+
+
+
+Δ
+
+H
+
+⊖
+
+
+
+
+R
+T
+
+
+
++
+
+
+
+Δ
+
+S
+
+⊖
+
+
+
+R
+
+
+.
+
+
+{\displaystyle \ln K_{\text{eq}}=-{\frac {\Delta H^{\ominus }}{RT}}+{\frac {\Delta S^{\ominus }}{R}}.}
+
+
+
+This graph is called the Van 't Hoff plot and is widely used to estimate the enthalpy and entropy of a chemical reaction. From this plot, −ΔH/R is the slope, and ΔS/R is the intercept of the linear fit.
+By measuring the equilibrium constant, Keq, at different temperatures, the Van 't Hoff plot can be used to assess a reaction when temperature changes.[10][11] Knowing the slope and intercept from the Van 't Hoff plot, the enthalpy and entropy of a reaction can be easily obtained using
+
+
+
+
+
+Δ
+H
+=
+−
+R
+×
+
+slope
+
+,
+
+
+{\displaystyle \Delta H=-R\times {\text{slope}},}
+
+
+
+
+
+
+Δ
+S
+=
+R
+×
+
+intercept
+
+.
+
+
+{\displaystyle \Delta S=R\times {\text{intercept}}.}
+
+
+
+The Van 't Hoff plot can be used to quickly determine the enthalpy of a chemical reaction both qualitatively and quantitatively. Change in enthalpy can be positive or negative, leading to two major forms of the Van 't Hoff plot.
+Endothermic reactions[edit]
+
+
+
+
+Van 't Hoff plot for an endothermic reaction
+
+
+For an endothermic reaction, heat is absorbed, making the net enthalpy change positive. Thus, according to the definition of the slope:
+
+
+
+
+
+
+slope
+
+=
+−
+
+
+
+Δ
+H
+
+R
+
+
+,
+
+
+{\displaystyle {\text{slope}}=-{\frac {\Delta H}{R}},}
+
+
+
+for an endothermic reaction, ΔH > 0 (the gas constant R > 0), so
+
+
+
+
+
+
+slope
+
+=
+−
+
+
+
+Δ
+H
+
+R
+
+
+<
+0.
+
+
+{\displaystyle {\text{slope}}=-{\frac {\Delta H}{R}}<0.}
+
+
+
+Thus, for an endothermic reaction, the Van 't Hoff plot should always have a negative slope.
+Exothermic reactions[edit]
+
+
+
+
+Van 't Hoff plot for an exothermic reaction
+
+
+For an exothermic reaction, heat is released, making the net enthalpy change negative. Thus, according to the definition of the slope:
+
+
+
+
+
+
+slope
+
+=
+−
+
+
+
+Δ
+H
+
+R
+
+
+,
+
+
+{\displaystyle {\text{slope}}=-{\frac {\Delta H}{R}},}
+
+
+
+fom an exothermic reaction, ΔH < 0, so
+
+
+
+
+
+
+slope
+
+=
+−
+
+
+
+Δ
+H
+
+R
+
+
+>
+0.
+
+
+{\displaystyle {\text{slope}}=-{\frac {\Delta H}{R}}>0.}
+
+
+
+Thus, for an exothermic reaction, the Van 't Hoff plot should always have a positive slope.
+Error propagation[edit]
+
+
+
+
+
+
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2017) (Learn how and when to remove this template message)
+
+
+
+Using the fact that ΔG⊖ = −RT ln K = ΔH⊖ − TΔS⊖, it would appear that two measurements of K would suffice to be able to obtain a value of ΔH⊖:
+
+
+
+
+
+Δ
+
+H
+
+⊖
+
+
+=
+R
+
+
+
+ln
+⁡
+
+K
+
+1
+
+
+−
+ln
+⁡
+
+K
+
+2
+
+
+
+
+
+
+1
+
+T
+
+2
+
+
+
+
+−
+
+
+1
+
+T
+
+1
+
+
+
+
+
+
+
+,
+
+
+{\displaystyle \Delta H^{\ominus }=R{\frac {\ln K_{1}-\ln K_{2}}{{\frac {1}{T_{2}}}-{\frac {1}{T_{1}}}}},}
+
+
+
+where K1 and K2 are the equilibrium constant values obtained at temperatures T1 and T2 respectively. The precision of ΔH⊖ values obtained in this way is highly dependent on the precision of the equilibrium constant values. A typical pair of temperatures might be 25 and 35 °C. For these temperatures
+
+
+
+
+
+
+
+1
+
+T
+
+2
+
+
+
+
+−
+
+
+1
+
+T
+
+1
+
+
+
+
+=
+
+
+1
+298
+
+
+−
+
+
+1
+308
+
+
+=
+1.1
+⋅
+
+10
+
+−
+4
+
+
+ 
+
+K
+
+.
+
+
+{\displaystyle {\frac {1}{T_{2}}}-{\frac {1}{T_{1}}}={\frac {1}{298}}-{\frac {1}{308}}=1.1\cdot 10^{-4}~{\text{K}}.}
+
+
+
+Inserting this value into the expression for ΔH⊖:
+
+
+
+
+
+Δ
+
+H
+
+⊖
+
+
+≈
+76
+(
+ln
+⁡
+
+K
+
+1
+
+
+−
+ln
+⁡
+
+K
+
+2
+
+
+)
+ 
+
+kJ/mol
+
+.
+
+
+{\displaystyle \Delta H^{\ominus }\approx 76(\ln K_{1}-\ln K_{2})~{\text{kJ/mol}}.}
+
+
+
+Now, error propagation shows that the error on ΔH⊖ will be about 76 kJ/mol times the error on (ln K1 − ln K2), or about 110 kJ/mol times the error on the ln K values. Assume for example that the error on each ln K, is σ ≈ 0.05, a small but reasonable value. The error on ΔH⊖ will be about 7003500000000000000♠5 kJ/mol. So, even though the individual stability constants were determined with good precision, the enthalpy calculated in this way is subject to a significant error.
+The entropy will then be obtained from ΔS⊖ = 1/T(ΔH⊖ + RT ln K). In this expression the error on the second term is negligible compared to the error on the first term. The magnifying factor is then 7004760000000000000♠76 kJ/mol ÷ 298 K, so for an error of 0.05 in the logarithms the error on ΔS⊖ will be of the order of 7001170000000000000♠17 J/(K·mol).
+When equilibrium constants are measured at three or more temperatures, values of ΔH⊖ will be obtained by straight-line fitting. In this case the error on the standard enthalpy will be magnified to a somewhat lesser, but still substantial, extent.
+Applications of the Van 't Hoff plot[edit]
+Van 't Hoff analysis[edit]
+
+
+
+
+Van 't Hoff analysis
+
+
+In biological research, the Van 't Hoff plot is also called Van 't Hoff analysis.[12] It is most effective in determining the favored product in a reaction.
+Assume two products B and C form in a reaction:
+
+a A + d D → b B,
+a A + d D → c C.
+
+In this case, Keq can be defined as ratio of B to C rather than the equilibrium constant.
+When B/C > 1, B is the favored product, and the data on the Van 't Hoff plot will be in the positive region.
+When B/C < 1, C is the favored product, and the data on the Van 't Hoff plot will be in the negative region.
+Using this information, a Van 't Hoff analysis can help determine the most suitable temperature for a favored product.
+Recently, a Van 't Hoff analysis was used to determine whether water preferentially forms a hydrogen bond with the C-terminus or the N-terminus of the amino acid proline.[13] The equilibrium constant for each reaction was found at a variety of temperatures, and a Van 't Hoff plot was created. This analysis showed that enthalpically, the water preferred to hydrogen bond to the C-terminus, but entropically it was more favorable to hydrogen bond with the N-terminus. Specifically, they found that C-terminus hydrogen bonding was favored by 4.2–6.4 kJ/mol. The N-terminus hydrogen bonding was favored by 31–43 J/(K·mol).
+This data alone could not conclude which site water will preferentially hydrogen-bond to, so additional experiments were used. It was determined that at lower temperatures, the enthalpically favored species, the water hydrogen-bonded to the C-terminus, was preferred. At higher temperatures, the entropically favored species, the water hydrogen-bonded to the N-terminus, was preferred.
+Mechanistic studies[edit]
+
+
+
+
+Van 't Hoff plot in mechanism study
+
+
+A chemical reaction may undergo different reaction mechanisms at different temperatures.[14]
+In this case, a Van 't Hoff plot with two or more linear fits may be exploited. Each linear fit has a different slope and intercept, which indicates different changes in enthalpy and entropy for each distinct mechanisms. The Van 't Hoff plot can be used to find the enthalpy and entropy change for each mechanism and the favored mechanism under different temperatures.
+
+
+
+
+
+Δ
+
+H
+
+1
+
+
+=
+−
+R
+×
+
+
+slope
+
+
+1
+
+
+,
+
+
+{\displaystyle \Delta H_{1}=-R\times {\text{slope}}_{1},}
+
+
+
+
+
+
+Δ
+
+S
+
+1
+
+
+=
+R
+×
+
+
+intercept
+
+
+1
+
+
+;
+
+
+{\displaystyle \Delta S_{1}=R\times {\text{intercept}}_{1};}
+
+
+
+
+
+
+Δ
+
+H
+
+2
+
+
+=
+−
+R
+×
+
+
+slope
+
+
+2
+
+
+,
+
+
+{\displaystyle \Delta H_{2}=-R\times {\text{slope}}_{2},}
+
+
+
+
+
+
+Δ
+
+S
+
+2
+
+
+=
+R
+×
+
+
+intercept
+
+
+2
+
+
+.
+
+
+{\displaystyle \Delta S_{2}=R\times {\text{intercept}}_{2}.}
+
+
+
+In the example figure, the reaction undergoes mechanism 1 at high temperature and mechanism 2 at low temperature.
+Temperature dependence[edit]
+
+
+
+
+Temperature-dependent Van 't Hoff plot
+
+
+The Van 't Hoff plot is linear based on the assumption that the enthalpy and entropy are constant with temperature changes. However, in some cases the enthalpy and entropy do change dramatically with temperature. A first-order approximation is to assume that the two different reaction products have different heat capacities. Incorporating this assumption yields an additional term c/T2 in the expression for the equilibrium constant as a function of temperature. A polynomial fit can then be used to analyze data that exhibits a non-constant standard enthalpy of reaction:[15]
+
+
+
+
+
+ln
+⁡
+
+K
+
+eq
+
+
+=
+a
++
+
+
+b
+T
+
+
++
+
+
+c
+
+T
+
+2
+
+
+
+
+,
+
+
+{\displaystyle \ln K_{\text{eq}}=a+{\frac {b}{T}}+{\frac {c}{T^{2}}},}
+
+
+
+where
+
+
+
+
+
+Δ
+H
+=
+−
+R
+×
+(
+b
++
+
+
+
+2
+c
+
+T
+
+
+)
+,
+
+
+{\displaystyle \Delta H=-R\times (b+{\frac {2c}{T}}),}
+
+
+
+
+
+
+Δ
+S
+=
+R
+×
+(
+a
+−
+
+
+c
+
+T
+
+2
+
+
+
+
+)
+.
+
+
+{\displaystyle \Delta S=R\times (a-{\frac {c}{T^{2}}}).}
+
+
+
+Thus, the enthalpy and entropy of a reaction can still be determined at specific temperatures even when a temperature dependence exists.
+Surfactant self-assembly[edit]
+The Van 't Hoff relation is particularly useful for the determination of the micellization enthalpy ΔH⊖
+m of surfactants from the temperature dependence of the critical micelle concentration (CMC):
+
+
+
+
+
+
+
+
+d
+ln
+⁡
+
+CMC
+
+
+
+d
+T
+
+
+
+=
+
+
+
+Δ
+
+H
+
+m
+
+
+⊖
+
+
+
+
+R
+
+T
+
+2
+
+
+
+
+
+.
+
+
+{\displaystyle {\frac {d\ln {\text{CMC}}}{dT}}={\frac {\Delta H_{\text{m}}^{\ominus }}{RT^{2}}}.}
+
+
+
+However, the relation loses its validity when the aggregation number is also temperature-dependent, and the following relation should be used instead:[16]
+
+
+
+
+
+R
+
+T
+
+2
+
+
+
+
+(
+
+
+
+∂
+ln
+⁡
+
+CMC
+
+
+
+∂
+T
+
+
+
+)
+
+
+P
+
+
+=
+−
+Δ
+
+H
+
+m
+
+
+⊖
+
+
+(
+N
+)
++
+T
+
+
+[
+
+
+
+∂
+
+(
+
+G
+
+N
++
+1
+
+
+−
+
+G
+
+N
+
+
+)
+
+
+
+∂
+N
+
+
+
+]
+
+
+T
+,
+P
+
+
+
+
+(
+
+
+
+∂
+N
+
+
+∂
+T
+
+
+
+)
+
+
+P
+
+
+,
+
+
+{\displaystyle RT^{2}\left({\frac {\partial \ln {\text{CMC}}}{\partial T}}\right)_{P}=-\Delta H_{\text{m}}^{\ominus }(N)+T\left[{\frac {\partial \left(G_{N+1}-G_{N}\right)}{\partial N}}\right]_{T,P}\left({\frac {\partial N}{\partial T}}\right)_{P},}
+
+
+
+with GN+1 and GN being the free energies of the surfactant in a micelle with aggregation number N + 1 and N respectively. This effect is particularly relevant for nonionic ethoxylated surfactants[17] or polyoxypropylene–polyoxyethylene block copolymers (Poloxamers, Pluronics, Synperonics).[18] The extended equation can be exploited for the extraction of aggregation numbers of self-assembled micelles from differential scanning calorimetric thermograms.[19]
+See also[edit]
+
+Clausius–Clapeyron relation
+Van 't Hoff factor (i)
+Gibbs–Helmholtz equation
+
+References[edit]
+
+
+
+^ Biography on Nobel prize website. Nobelprize.org (1911-03-01). Retrieved on 2013-11-08.
+^ Journal on Modeling Prograde TiO2 Activity and its significance for Ti in Quartz Thermobarometry of Pelitic Metamorphic Rocks. Academia.edu. p. 2.
+^ Journal on Indirect spectrophotometric determination of folic acid based on the oxidation reaction and studying some of the thermodynamic parameters. Academia.edu. p. 67.
+^ PNAS Supporting Information Correction. (PNAS) Proceedings of the National Academy of Sciences of the United States of America. November 30, 2012. p. 3.
+^ a b Atkins, Peter; De Paula, Julio (10 March 2006). Physical Chemistry (8th ed.). W. H. Freeman and Company. p. 212. ISBN 0-7167-8759-8. 
+^ Ives, D. J. G. (1971). Chemical Thermodynamics. University Chemistry. Macdonald Technical and Scientific. ISBN 0-356-03736-3. 
+^ Craig, Norman (1996). "Entropy Diagrams". J. Chem. Educ. 73: 710. Bibcode:1996JChEd..73..710C. doi:10.1021/ed073p710. 
+^ Dickerson, R. E.; Geis, I. (1976). Chemistry, Matter, and the Universe. USA: W. A. Benjamin Inc. ISBN 0-19-855148-7. 
+^ Monk, Paul (2004). Physical Chemistry: Understanding our Chemical World. Wiley. p. 162. ISBN 978-0471491811. 
+^ Kim, Tae Woo (2012). "Dynamic [2]Catenation of Pd(II) Self-assembled Macrocycles in Water". Chem. Lett. 41: 70. doi:10.1246/cl.2012.70. 
+^ Ichikawa, Takayuki (2010). "Thermodynamic properties of metal amides determined by ammonia pressure-composition isotherms". J. Chem. Thermodynamics. 42: 140. doi:10.1016/j.jct.2009.07.024. 
+^ "Van't Hoff Analysis". Protein Analysis and Design Group. 
+^ Prell, James; Williams E. (2010). "Entropy Drives an Attached Water Molecule from the C- to N-Terminus on Protonated Proline". J. Am. Chem. Soc. 132 (42): 14733. doi:10.1021/ja106167d. PMID 20886878. 
+^ Chatake, Toshiyuki (2010). "An Approach to DNA Crystallization Using the Thermal Reversible Process of DNA Duplexes". Cryst. Growth Des. 10: 1090. doi:10.1021/cg9007075. 
+^ David, Victor (28 April 2011). "Deviation from van't Hoff dependence in RP-LC induced by tautomeric interconversion observed for four compounds". Journal of Separation Science. 34 (12): 1423. doi:10.1002/jssc.201100029. 
+^ Holtzer, Alfred; Holtzer, Marilyn F. (2002-05-01). "Use of the van't Hoff relation in determination of the enthalpy of micelle formation". The Journal of Physical Chemistry. 78 (14): 1442–1443. doi:10.1021/j100607a026. 
+^ Heerklotz, Heiko; Tsamaloukas, Alekos; Kita-Tokarczyk, Katarzyna; Strunz, Pavel; Gutberlet, Thomas (2004-11-25). "Structural, Volumetric, and Thermodynamic Characterization of a Micellar Sphere-to-Rod Transition". Journal of the American Chemical Society. 126 (50): 16544–16552. doi:10.1021/ja045525w. PMID 15600359. 
+^ Taboada, Pablo; Mosquera, Victor; Attwood, David; Yang, Zhuo; Booth, Colin. "Enthalpy of micellisation of a diblock copoly(oxyethylene/oxypropylene) by isothermal titration calorimetry. Comparison with the van't Hoff value". Physical Chemistry Chemical Physics. 5 (12): 2625. Bibcode:2003PCCP....5.2625T. doi:10.1039/b303108j. 
+^ Chiappisi, Leonardo; Lazzara, Giuseppe; Gradzielski, Michael; Milioto, Stefana (2012-12-06). "Quantitative Description of Temperature Induced Self-Aggregation Thermograms Determined by Differential Scanning Calorimetry". Langmuir. 28 (51): 17609–17616. doi:10.1021/la303599d. 
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Van_%27t_Hoff_equation&oldid=812132137"					
+Categories: Equilibrium chemistryThermochemistryEquationsJacobus Henricus van 't HoffHidden categories: Articles needing additional references from August 2017All articles needing additional referencesUse dmy dates from January 2012 

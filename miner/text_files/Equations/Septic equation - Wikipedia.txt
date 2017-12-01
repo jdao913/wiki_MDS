@@ -1,0 +1,559 @@
+Septic equation - Wikipedia
+
+
+From Wikipedia, the free encyclopedia 
+
+					Jump to:					navigation, 					search
+
+For other uses, see Septic.
+
+
+
+
+Graph of a polynomial of degree 7, with 7 real roots (crossings of the x axis) and 6 critical points. Depending on the number and vertical location of the minima and maxima, the septic could have 7, 5, 3, or 1 real root; the number of complex roots is 7 minus the number of real roots.
+
+
+In algebra, a septic equation is an equation of the form
+
+
+
+
+
+a
+
+x
+
+7
+
+
++
+b
+
+x
+
+6
+
+
++
+c
+
+x
+
+5
+
+
++
+d
+
+x
+
+4
+
+
++
+e
+
+x
+
+3
+
+
++
+f
+
+x
+
+2
+
+
++
+g
+x
++
+h
+=
+0
+,
+
+
+
+{\displaystyle ax^{7}+bx^{6}+cx^{5}+dx^{4}+ex^{3}+fx^{2}+gx+h=0,\,}
+
+
+
+where a ≠ 0.
+A septic function is a function of the form
+
+
+
+
+
+f
+(
+x
+)
+=
+a
+
+x
+
+7
+
+
++
+b
+
+x
+
+6
+
+
++
+c
+
+x
+
+5
+
+
++
+d
+
+x
+
+4
+
+
++
+e
+
+x
+
+3
+
+
++
+f
+
+x
+
+2
+
+
++
+g
+x
++
+h
+
+
+
+{\displaystyle f(x)=ax^{7}+bx^{6}+cx^{5}+dx^{4}+ex^{3}+fx^{2}+gx+h\,}
+
+
+
+where a ≠ 0. In other words, it is a polynomial of degree seven. If a = 0, then f is a sextic function (b ≠ 0), quintic function (b = 0, c ≠ 0), etc.
+The equation may be obtained from the function by setting f(x) = 0.
+The coefficients a, b, c, d, e, f, g, h may be either integers, rational numbers, real numbers, complex numbers or, more generally, members of any field.
+Because they have an odd degree, septic functions appear similar to quintic or cubic function when graphed, except they may possess additional local maxima and local minima (up to three maxima and three minima). The derivative of a septic function is a sextic function.
+
+
+
+Contents
+
+
+1 Solvable septics
+2 Galois groups
+3 Septic equation for the squared area of a cyclic pentagon or hexagon
+4 See also
+5 References
+
+
+
+Solvable septics[edit]
+Some seventh degree equations can be solved by factorizing into radicals, but other septics cannot. Évariste Galois developed techniques for determining whether a given equation could be solved by radicals which gave rise to the field of Galois theory. To give an example of an irreducible but solvable septic, one can generalize the solvable de Moivre quintic to get,
+
+
+
+
+
+
+x
+
+7
+
+
++
+7
+α
+
+x
+
+5
+
+
++
+14
+
+α
+
+2
+
+
+
+x
+
+3
+
+
++
+7
+
+α
+
+3
+
+
+x
++
+β
+=
+0
+
+
+
+{\displaystyle x^{7}+7\alpha x^{5}+14\alpha ^{2}x^{3}+7\alpha ^{3}x+\beta =0\,}
+
+,
+
+where the auxiliary equation is
+
+
+
+
+
+
+y
+
+2
+
+
++
+β
+y
+−
+
+α
+
+7
+
+
+=
+0
+
+
+
+{\displaystyle y^{2}+\beta y-\alpha ^{7}=0\,}
+
+.
+
+This means that the septic is obtained by eliminating u and v between x = u + v, uv + α = 0 and u7 + v7 + β = 0.
+It follows that the septic's seven roots are given by
+
+
+
+
+
+
+x
+
+k
+
+
+=
+
+ω
+
+k
+
+
+
+
+
+y
+
+1
+
+
+
+7
+
+
+
++
+
+ω
+
+k
+
+
+6
+
+
+
+
+
+y
+
+2
+
+
+
+7
+
+
+
+
+
+{\displaystyle x_{k}=\omega _{k}{\sqrt[{7}]{y_{1}}}+\omega _{k}^{6}{\sqrt[{7}]{y_{2}}}}
+
+
+
+where ωk is any of the 7 seventh roots of unity. The Galois group of this septic is the maximal solvable group of order 42. This is easily generalized to any other degrees k, not necessarily prime.
+Another solvable family is,
+
+
+
+
+
+
+x
+
+7
+
+
+−
+2
+
+x
+
+6
+
+
++
+(
+α
++
+1
+)
+
+x
+
+5
+
+
++
+(
+α
+−
+1
+)
+
+x
+
+4
+
+
+−
+α
+
+x
+
+3
+
+
+−
+(
+α
++
+5
+)
+
+x
+
+2
+
+
+−
+6
+x
+−
+4
+=
+0
+
+
+
+{\displaystyle x^{7}-2x^{6}+(\alpha +1)x^{5}+(\alpha -1)x^{4}-\alpha x^{3}-(\alpha +5)x^{2}-6x-4=0\,}
+
+
+
+whose members appear in Kluner's Database of Number Fields. Its discriminant is
+
+
+
+
+
+Δ
+=
+−
+
+4
+
+4
+
+
+
+
+(
+4
+
+α
+
+3
+
+
++
+99
+
+α
+
+2
+
+
+−
+34
+α
++
+467
+)
+
+
+3
+
+
+
+
+
+{\displaystyle \Delta =-4^{4}\left(4\alpha ^{3}+99\alpha ^{2}-34\alpha +467\right)^{3}\,}
+
+
+
+The Galois group of these septics is the dihedral group of order 14.
+The general septic equation can be solved with the alternating or symmetric Galois groups A7 or S7.[1] Such equations require hyperelliptic functions and associated theta functions of genus 3 for their solution.[1] However, these equations were not studied specifically by the nineteenth-century mathematicians studying the solutions of algebraic equations, because the sextic equations' solutions were already at the limits of their computational abilities without computers.[1]
+Septics are the lowest order equations for which it is not obvious that their solutions may be obtained by superimposing continuous functions of two variables. Hilbert's 13th problem was the conjecture this was not possible in the general case for seventh-degree equations. Vladimir Arnold solved this in 1957, demonstrating that this was always possible.[2] However, Arnold himself considered the genuine Hilbert problem to be whether for septics their solutions may be obtained by superimposing algebraic functions of two variables (the problem still being open).[3]
+Galois groups[edit]
+
+
+
+
+Fano plane
+
+
+
+Septic equations solvable by radicals have a Galois group which is either the cyclic group of order 7, or the dihedral group of order 14 or a metacyclic group of order 21 or 42.[1]
+The L(3, 2) Galois group (of order 168) is formed by the permutations of the 7 vertex labels which preserve the 7 "lines" in the Fano plane.[1] Septic equations with this Galois group L(3, 2) require elliptic functions but not hyperelliptic functions for their solution.[1]
+Otherwise the Galois group of a septic is either the alternating group of order 2520 or the symmetric group of order 5040.
+
+Septic equation for the squared area of a cyclic pentagon or hexagon[edit]
+The square of the area of a cyclic pentagon is a root of a septic equation whose coefficients are symmetric functions of the sides of the pentagon.[4] The same is true of the square of the area of a cyclic hexagon.[5]
+See also[edit]
+
+Cubic function
+Quartic function
+Quintic function
+Sextic equation
+Labs septic
+
+References[edit]
+
+
+^ a b c d e f R. Bruce King, Beyond the Quartic Equation, Birkhaüser, p. 143 and 144 
+^ Vasco Brattka, "Kolmogorov's Superposition Theorem", Kolmogorov's heritage in mathematics, Springer 
+^ V.I. Arnold, From Hilbert's Superposition Problem to Dynamical Systems, p. 4 
+^ Weisstein, Eric W. "Cyclic Pentagon." From MathWorld--A Wolfram Web Resource. [1]
+^ Weisstein, Eric W. "Cyclic Hexagon." From MathWorld--A Wolfram Web Resource. [2]
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Polynomials and polynomial functions
+
+
+
+By degree
+
+
+
+Zero polynomial (degree undefined or −1 or −∞)
+Constant function (0)
+Linear function (1)
+Quadratic function (2)
+Cubic function (3)
+Quartic function (4)
+Quintic function (5)
+Sextic equation (6)
+Septic equation (7)
+Octic equation (8)
+
+
+
+
+
+By number of terms and other properties
+
+
+
+Monomial
+Binomial
+Trinomial
+Homogeneous
+Quasi-homogeneous
+
+
+
+
+
+Tools and algorithms
+
+
+
+Factorization
+Greatest common divisor
+Division
+Horner's method of evaluation
+Resultant
+Discriminant
+Gröbner basis
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Septic_equation&oldid=801791567"					
+Categories: PolynomialsEquationsGalois theory 
