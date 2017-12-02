@@ -83,7 +83,6 @@ if __name__ == "__main__":
         print("dim2")
         y = next(reader)
     else:
-        print(dimension != 2)
         if meanname == None:
             y = [0] * (len(x))
         else:
