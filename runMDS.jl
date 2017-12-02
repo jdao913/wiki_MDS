@@ -109,7 +109,7 @@ function main()
             commonWords = split(words[1], ",")
             takeOut = intersect(artWords, commonWords)
             for i = 1:size(commonWords)[1]
-                if any(x->x==words[i], takeOut)
+                if any(x->x==artWords[i], takeOut)
                     data[:,i] = 0           #Set all common word occurances to 0
                 end
             end
@@ -125,6 +125,13 @@ function main()
     mdsDist = mdsDists(mds)
     println("mds shape: ", size(mdsDist))
     println("Goodness of fit: ", goodFit(D, mdsDist))
+
+    if dim == 1
+        mean = sum(data.*[i for i=1:size(data)[2]]', 2)
+        mean = mean ./ sum(data, 2)
+        CSV.write(outfile[1:end-4]*"Mean.csv", DataFrame(mean'))
+    end
+
     output = DataFrame(mds)
     newNames = [Symbol(artNames[i][1:end-16]) for i in 1:numArt]        #Chop off " - Wikipedia.txt"
     names!(output, newNames)

@@ -17,7 +17,6 @@ def makePlot(x, y):
                         bbox=dict(boxstyle="round", fc="w"),
                         arrowprops=dict(arrowstyle="->"))
     annot.set_visible(False)
-
     fig.canvas.mpl_connect("motion_notify_event", hover)
     plt.show()
 
@@ -63,14 +62,28 @@ if __name__ == "__main__":
     global artNames
     parser = argparse.ArgumentParser()
     parser.add_argument('input_file', type=str, help='Input file')
+    parser.add_argument('-d', '--dimension', type=int, default=2)
     parser.add_argument('-o', '--output_file', type=str, default='out.png')
+    parser.add_argument('-m', '--mean_file', type=str)
     args = parser.parse_args()
     filename = args.input_file
     outname = args.output_file
+    dim = args.dimension
+    meanname = args.mean_file
 
     file = open(filename, newline='')
     reader = csv.reader(file)
     artNames = next(reader)
     x = next(reader)
-    y = next(reader)
+    if dim == 2:
+        y = next(reader)
+    else:
+        if meanname == None:
+            y = [0] * (len(x))
+        else:
+            print("using mean")
+            filemean = open(meanname, newline='')
+            meanreader = csv.reader(filemean)
+            temp = next(meanreader)
+            y = next(meanreader)
     makePlot(x, y)

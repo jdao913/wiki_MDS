@@ -35,28 +35,59 @@ def getFileDict(filename, wordDict):
                     result[word] = 1
     return result
 
+def getWordDist(filename, wordDict):
+    f = open(filename, 'r')
+    for line in f:
+        allWord = line.split(" ")
+        for word in allWord:
 
-def storeAllFile(input_file, output_file):
+            # remove the punctuation and treat all upper case the
+            # same as lower case
+            table = {ord(char): None for char in string.punctuation}
+            word = word.translate(table)
+            word = word.lower()
+
+            if len(word) >= 10:
+                wordDict[10] += 1
+            elif len(word) > 0:
+                # print(len(word), word)
+                wordDict[len(word)] += 1
+
+def storeAllFile(input_file, output_file, useDist):
 
     # get all files in the directory
     allFile = os.listdir(input_file)
-    wordDict = set()
-    articlesInfo = []
+    if not useDist:
+        wordDict = set()
+        articlesInfo = []
 
-    # process the files to store the name and count
-    for file in allFile:
-        filePath = input_file + file
-        info = getFileDict(filePath, wordDict)
-        info["Article_Name"] = file
-        articlesInfo.append(info)
+        # process the files to store the name and count
+        for file in allFile:
+            filePath = input_file + file
+            info = getFileDict(filePath, wordDict)
+            info["Article_Name"] = file
+            articlesInfo.append(info)
+        
+        # add in the row for name
+        wordDict = list(wordDict)
+        wordDict = ["Article_Name"] + wordDict
+
+        rowInfo = fillOutNotExistWord(wordDict, articlesInfo)
+        produceCSV(rowInfo, output_file)
+    else:
+        header = ["Article_Name", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        # header = ["Article_Name", 1, 2, 3, 4, 5]
+        ofile = open(output_file, "w")
+        writer = csv.DictWriter(ofile, fieldnames=header)
+        writer.writeheader()
+        for file in allFile:
+            filePath = input_file + file
+            wordDict = {"Article_Name": file, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0}
+            # wordDict = {"Article_Name": file, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
+            getWordDist(filePath, wordDict)
+            writer.writerow(wordDict)
+
     
-    # add in the row for name
-    wordDict = list(wordDict)
-    wordDict = ["Article_Name"] + wordDict
-
-    rowInfo = fillOutNotExistWord(wordDict, articlesInfo)
-
-    produceCSV(rowInfo, output_file)
 
 def fillOutNotExistWord(wordDict, articlesInfo):
     result = [list(wordDict)]
@@ -81,11 +112,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('input_file', type=str, help='Input file')
     parser.add_argument('-o', '--output_file', type=str, default='articles.csv')
+    parser.add_argument('-d', '--useDist', action='store_true', help='Use word distribution or not')
     args = parser.parse_args()
     filename = args.input_file
     outname = args.output_file
     outname = "./parsedArticles/" + outname
-    storeAllFile(filename, outname)
-
-
-
+    storeAllFile(filename, outname, args.useDist)
