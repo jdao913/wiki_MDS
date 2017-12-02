@@ -17,12 +17,16 @@ def makePlot(x, y):
                         bbox=dict(boxstyle="round", fc="w"),
                         arrowprops=dict(arrowstyle="->"))
     annot.set_visible(False)
+    # fig.canvas.mpl_connect("button_press_event", hover)
     fig.canvas.mpl_connect("motion_notify_event", hover)
     plt.show()
 
 def update_annot(ind):
     global artNames, sc, annot
     pos = sc.get_offsets()[ind["ind"][0]]
+    # annot = ax.annotate("", xy=(0,0), xytext=(20,20),textcoords="offset points",
+    #                     bbox=dict(boxstyle="round", fc="w"),
+    #                     arrowprops=dict(arrowstyle="->"))
     annot.xy = pos
     text = "{}".format(" ".join([artNames[n] for n in ind["ind"]]))
     if len(text) > 20:
@@ -76,8 +80,10 @@ if __name__ == "__main__":
     artNames = next(reader)
     x = next(reader)
     if dim == 2:
+        print("dim2")
         y = next(reader)
     else:
+        print(dimension != 2)
         if meanname == None:
             y = [0] * (len(x))
         else:

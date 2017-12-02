@@ -72,3 +72,13 @@ will plot the data in articleCoords.csv.
 
 The plot is interactive, and you can see the title of the plotted article by hovering over. While the plot can be saved as an image,
 it will unfortunately not keep the interactivity. 
+
+There are also 2 optional arguments:
+
+1. -d, the dimension to plot too. Note that this dimension must match the dimension of the MDS output
+2. -m, the mean file. This CSV file input contains the average word length for each article. Must be used with a word distribution MDS output.
+
+Example:
+```
+$ python3 plotMDS.py ./mdsFiles/vitalDist10_1DCoords.csv -m ./mdsFiles/vitalDist10_1DCoordsMean.csv
+```
